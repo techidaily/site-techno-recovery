@@ -1,7 +1,7 @@
 ---
 title: "Initiating Pairing Process: Amazon Echo Dot User Manual"
-date: 2024-12-08T22:38:18.679Z
-updated: 2024-12-11T02:31:18.444Z
+date: 2024-12-18T16:22:57.840Z
+updated: 2024-12-25T19:44:38.914Z
 categories:
   - BestProducts
 description: "This Article Describes Initiating Pairing Process: Amazon Echo Dot User Manual"
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/a284b8622794b8ba45f3866eaa63e737e0684e210
 
 ![Amazon Echo Dot](https://www.lifewire.com/thmb/wnLxCk_2fD2pZzEu-p3zbcXnYjI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/zkn2wGCQ20copy-06ed03564ac94e1dbbad5b22f1d3139c.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Amazon
 
 ## How Do I Put My Echo Dot in Setup Mode?
@@ -38,7 +42,7 @@ Amazon
 4. Tap**Amazon Echo** .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 5. Tap**Echo, Echo Dot, Echo Plus, and More** .
@@ -47,22 +51,18 @@ Amazon
 ![Amazon Echo, Echo, Echo Dot, Echo Plus and more, and Yes highlighted in the Alexa app](https://www.lifewire.com/thmb/UE0z8bUMn60LsBQya2lLNUVhZ_Q=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002_setup-mode-echo-dot-5183932-f64149726d28456fa00caa1502870548.jpg)
 8. Tap your**Echo Dot** under Available Devices.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 9. Choose your Wi-Fi network, then tap**Continue** .  
 ![Echo Dot, Wi-Fi Network, and Continue highlighted in the Alexa app](https://www.lifewire.com/thmb/UyNdVW6oqTvBgXlIe9w8W6AlCF0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/003_setup-mode-echo-dot-5183932-1c64692464f74859a9dbf7eb004911b2.jpg)
 10. Continue following the prompts in the app to finish setting up your device. Select**Skip** when the option appears to configure these settings later.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Skip highlighted in the Alexa app setup screen](https://www.lifewire.com/thmb/t9cr0zEBHSfzkkSTPWqdkks-pu8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004_setup-mode-echo-dot-5183932-ef2640f0d0fb4cada97bfb3801deec7d.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What Is Echo Dot Setup Mode?
@@ -72,7 +72,7 @@ Amazon
  You can tell your Echo is in setup mode when the ring of light turns from blue to orange. Once you've set up your Echo Dot, you can start using Alexa voice commands and[Alexa skills](https://www.lifewire.com/alexa-skills-4126799) .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Why Won't My Echo Dot Go Into Setup Mode?
@@ -115,24 +115,22 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-support.techidaily.com/new-map-the-world-around-you-top-notch-navigation-and-service-finds-at-your-fingertips/"><u>[New] Map the World Around You - Top-Notch Navigation & Service Finds at Your Fingertips</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-the-clear-choice-for-cost-free-screen-capture-technology-for-2024/"><u>[New] The Clear Choice for Cost-Free Screen Capture Technology for 2024</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-essential-routines-for-easy-webinar-saves-on-windows-platform/"><u>[Updated] 2024 Approved Essential Routines for Easy Webinar Saves on Windows Platform</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/1-mastering-mac-based-document-management-unleash-the-power-of-craft-tips-and-insights-from-zdnet/"><u>1) Mastering Mac-Based Document Management: Unleash the Power of Craft | Tips and Insights From ZDNet</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/approved-limelight-rhythms-the-creme-de-la-crop-of-yt-short-scores/"><u>2024 Approved Limelight Rhythms The Crème De La Crop of YT Short Scores</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/apple-unveils-groundbreaking-ai-technology-for-enhanced-siri-performance-via-intuitive-home-screen-analysis-zdnet-coverage/"><u>Apple Unveils Groundbreaking AI Technology for Enhanced Siri Performance via Intuitive Home Screen Analysis | ZDNET Coverage</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/discovering-apples-quietly-revolutionary-ai-capability-poised-to-shine-at-the-upcoming-wwdc-zdnet-insights/"><u>Discovering Apple's Quietly Revolutionary AI Capability Poised to Shine at the Upcoming WWDC | ZDNet Insights</u></a></li>
-<li><a href="https://fox-search.techidaily.com/easy-guide-to-mastering-your-apps-schedule-configuration/"><u>Easy Guide to Mastering Your App's Schedule Configuration</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/explore-the-latest-on-xbox-vr-anticipated-costs-release-timeline-features-and-buzzing-rumors/"><u>Explore the Latest on Xbox VR: Anticipated Costs, Release Timeline, Features and Buzzing Rumors</u></a></li>
-<li><a href="https://techidaily.com/how-to-repair-system-issues-of-apple-iphone-6s-plus-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair System Issues of Apple iPhone 6s Plus? | Dr.fone</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/24-virtual-vanguards-the-leading-ladies-of-gaming/"><u>In 2024, Virtual Vanguards The Leading Ladies of Gaming</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/intelligente-losungen-fur-den-kontinuierlichen-datenschutz-durch-automatisierte-aufgabenverfolgung-und-sicherungsprozesse/"><u>Intelligente Lösungen Für Den Kontinuierlichen Datenschutz Durch Automatisierte Aufgabenverfolgung Und Sicherungsprozesse</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/mastering-spotify-settings-the-art-of-disliking-every-music-piece/"><u>Mastering Spotify Settings: The Art of Disliking Every Music Piece</u></a></li>
-<li><a href="https://common-error.techidaily.com/navigate-and-optimize-windows-11s-file-explorer-like-a-pro/"><u>Navigate and Optimize Windows 11'S File Explorer Like a Pro</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/tech-forecast-by-202-apple-intends-to-revolutionize-wireless-earbuds-with-camera-integration-sources-say-zdnet-exclusive/"><u>Tech Forecast: By 202# Apple Intends to Revolutionize Wireless Earbuds with Camera Integration, Sources Say – ZDNet Exclusive</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/ultimate-guide-to-iphone-se-cases-find-the-perfect-match-for-safety-and-fashion-digital-trends/"><u>Ultimate Guide to iPhone SE Cases : Find the Perfect Match for Safety & Fashion | Digital Trends</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/ultimate-guide-leading-mp3-players-ranked-by-zdnet-experts/"><u>Ultimate Guide: Leading MP3 Players Ranked by ZDNet Experts</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/whats-trending-popular-max-channel-programs-viewers-love/"><u>What's Trending? Popular MAX Channel Programs Viewers Love</u></a></li>
-<li><a href="https://discover-forum.techidaily.com/yl-computings-ultimate-walkthrough-for-managing-software-on-windows-pc-using-the-control-panel-interface/"><u>YL Computing's Ultimate Walkthrough for Managing Software on Windows PC Using the Control Panel Interface</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-the-complete-manual-for-instagram-selfies/"><u>[New] 2024 Approved The Complete Manual for Instagram Selfies</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-intellects-ultimate-guide-to-premium-gk-quiz-sites/"><u>[New] In 2024, Intellect's Ultimate Guide to Premium GK Quiz Sites</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-premium-visual-enhancer-cutting-edge-conversion/"><u>[Updated] Premium Visual Enhancer Cutting-Edge Conversion</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-capture-clarity-high-quality-screen-recordings-for-youtubers-pcmac/"><u>2024 Approved Capture Clarity High-Quality Screen Recordings for YouTubers (PC/Mac)</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-chroma-chronicles-expertise-in-color-crafting/"><u>2024 Approved Chroma Chronicles Expertise in Color Crafting</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/3-solutions-to-find-your-tecno-spark-20c-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>3 Solutions to Find Your Tecno Spark 20C Current Location of a Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/apple-ring-2021-anticipated-pricing-details-launch-timeline-and-feature-set-amidst-growing-buzz/"><u>Apple Ring 2021: Anticipated Pricing Details, Launch Timeline & Feature Set Amidst Growing Buzz</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/explore-the-finest-free-online-sports-broadcast-providers-for-2n4/"><u>Explore the Finest Free Online Sports Broadcast Providers for 2N4</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/fix-your-game-files-how-to-recover-missing-d3dx924dll-successfully/"><u>Fix Your Game Files: How To Recover Missing d3dx9_24.dll Successfully</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-remove-iphone-se-2020-device-from-icloud-by-drfone-ios/"><u>How to Remove iPhone SE (2020) Device from iCloud</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/mastering-lock-screen-settings-how-to-enable-and-disable-on-honor-magic-5-by-drfone-android/"><u>Mastering Lock Screen Settings How to Enable and Disable on Honor Magic 5</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/mastery-of-http-500-errors-fixes-and-prevention-tips-for-servers/"><u>Mastery of HTTP 500 Errors - Fixes and Prevention Tips for Servers</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/solving-playback-problems-finding-fixes-for-spotify-in-android-auto-mode/"><u>Solving Playback Problems: Finding Fixes for Spotify in Android Auto Mode</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-7-best-smartphone-alarm-applications-to-start-your-day-right/"><u>Top 7 Best Smartphone Alarm Applications to Start Your Day Right</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ultimate-tutorial-clearing-out-all-emails-in-gmail-for-androidios/"><u>Ultimate Tutorial: Clearing Out All Emails in Gmail for Android/iOS</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/understanding-the-differences-charge-up-with-insight-on-level-1-level-2-and-level-3-ev-power/"><u>Understanding the Differences: Charge Up with Insight on Level 1, Level 2 & Level 3 EV Power</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/be-to-wav-file-4-best-free-convert-solutions/"><u>YouTube to WAV File 4 Best Free Convert Solutions</u></a></li>
 </ul></div>
 

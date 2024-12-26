@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Instructions to Expand Your Xbox One's Memory with an External Drive
-date: 2024-12-16T09:50:01.616Z
-updated: 2024-12-17T12:14:10.941Z
+date: 2024-12-20T20:24:06.039Z
+updated: 2024-12-25T17:16:58.491Z
 categories:
   - BestProducts
 description: This Article Describes Step-by-Step Instructions to Expand Your Xbox One's Memory with an External Drive
@@ -22,7 +22,7 @@ thumbnail: https://www.lifewire.com/thmb/ymgpKWwkBGzI4C83qsg8l2d2Lqs=/400x300/fi
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## If the Printer Isn't Showing Up in the List on Your iPad
@@ -34,7 +34,7 @@ thumbnail: https://www.lifewire.com/thmb/ymgpKWwkBGzI4C83qsg8l2d2Lqs=/400x300/fi
 ![No AirPrint Printers Found message on an iPad.](https://www.lifewire.com/thmb/PINbY5NNM2YpYVf6BIRAjMvyfYs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_my-ipad-wont-print-cant-find-printer-1994541-d3ec6679b22b423d876a15837e54cd6e.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Try these troubleshooting steps, in order:
@@ -50,7 +50,7 @@ thumbnail: https://www.lifewire.com/thmb/ymgpKWwkBGzI4C83qsg8l2d2Lqs=/400x300/fi
 6. Verify it's an AirPrint printer. If this is a new printer, it should say that it's AirPrint compatible on the packaging. Some older printers use a specific app to print from the iPad, so refer to the owner's manual. You can see a[list of AirPrint printers on Apple's website](https://support.apple.com/en-us/HT201311) .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## If the Printer Appears in the List
@@ -96,16 +96,16 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-launch-your-filmmaking-dreams-xp-edition-preparation/"><u>[New] Launch Your Filmmaking Dreams XP Edition Preparation</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-reign-in-your-posts-the-ultimate-guide-to-choosing-8-best-timers/"><u>[Updated] Reign in Your Posts The Ultimate Guide to Choosing 8 Best Timers</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-the-true-story-of-youtube-earnings-and-viewer-volume-requirements/"><u>[Updated] The True Story of YouTube Earnings and Viewer Volume Requirements</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/comparative-chat-convergence-insights-on-gpt-and-bings-bot-differences/"><u>Comparative Chat Convergence: Insights on GPT & Bing's Bot Differences</u></a></li>
-<li><a href="https://blog-min.techidaily.com/easiest-guide-how-to-clone-honor-magic-5-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Easiest Guide How to Clone Honor Magic 5 Phone? | Dr.fone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/how-to-assign-or-move-users-into-groups-in-linux-a-step-by-step-guide/"><u>How to Assign or Move Users Into Groups in Linux: A Step-by-Step Guide</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/new-2024-approved-review-of-lazlive-live-selling-platform-with-guide/"><u>New 2024 Approved Review of LazLive Live Selling Platform With Guide</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/tips-and-tricks-fixing-a-broken-character-input-in-email-addresses/"><u>Tips and Tricks: Fixing a Broken @ Character Input in Email Addresses</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/unlock-seamless-iphone-searches-using-circle-through-an-ingenious-shortcut/"><u>Unlock Seamless iPhone Searches Using Circle Through an Ingenious Shortcut</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/unveiling-google-fi-vs-conventional-wireless-services-key-differences-explained/"><u>Unveiling Google Fi Vs. Conventional Wireless Services: Key Differences Explained</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/whatsapps-bold-gamble-proves-successful/"><u>WhatsApp's Bold Gamble Proves Successful</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-apple-melodies-enhancing-visual-storytelling/"><u>[Updated] 2024 Approved Apple Melodies Enhancing Visual Storytelling</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-creating-intriguing-movie-summaries/"><u>[Updated] Creating Intriguing Movie Summaries</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-finding-opportunities-where-youtube-collaborations-thrive-for-2024/"><u>[Updated] Finding Opportunities Where YouTube Collaborations Thrive for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-2024-snap-happy-with-hero5-black-tips-for-stunning-visuals/"><u>In 2024, Snap-Happy with Hero5 Black Tips for Stunning Visuals</u></a></li>
+<li><a href="https://solve-lab.techidaily.com/itunes-compatibility-fix-successfully-connecting-ipod-touch-to-windows-n-version-on-your-pc/"><u>ITunes Compatibility Fix: Successfully Connecting iPod Touch to Windows N Version on Your PC</u></a></li>
+<li><a href="https://fox-access.techidaily.com/masterful-bio-upgrade-merging-linktree-with-tiktoks-profiles/"><u>Masterful Bio Upgrade Merging Linktree with TikTok's Profiles</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/overcoming-obstacles-in-implementing-digital-twin-technology-a-guide-to-the-top-7-hurdles-for-enterprises/"><u>Overcoming Obstacles in Implementing Digital Twin Technology: A Guide to the Top 7 Hurdles for Enterprises</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/should-you-preorder-the-new-apple-vision-pro-top-5-essential-factors-to-consider-insights-from-zdnet/"><u>Should You Preorder the New Apple Vision Pro? Top 5 Essential Factors to Consider - Insights From ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-main-issue-with-current-vr-use-according-to-a-tech-guru-zdnet/"><u>The Main Issue With Current VR Use, According to a Tech Guru | ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unpacking-the-resemblance-how-vision-pros-new-controller-might-mirror-apple-pencil-according-to-recent-patents-zdnet/"><u>Unpacking the Resemblance: How Vision Pro's New Controller Might Mirror Apple Pencil, According to Recent Patents | ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/zdnet-reveals-surprising-2023-tech-breakthrough-the-meta-quest-3-dominates-as-the-years-most-innovative-device/"><u>ZDNET Reveals Surprising 2023 Tech Breakthrough: The Meta Quest 3 Dominates as the Year's Most Innovative Device</u></a></li>
 </ul></div>
 

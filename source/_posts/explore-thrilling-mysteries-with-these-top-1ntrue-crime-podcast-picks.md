@@ -1,7 +1,7 @@
 ---
 title: Explore Thrilling Mysteries with These Top 1nTrue Crime Podcast Picks
-date: 2024-08-30T13:10:53.476Z
-updated: 2024-08-31T13:10:53.476Z
+date: 2024-12-19T02:17:18.279Z
+updated: 2024-12-26T02:16:12.979Z
 categories:
   - BestProducts
 description: This Article Describes Explore Thrilling Mysteries with These Top 1nTrue Crime Podcast Picks
@@ -23,7 +23,16 @@ thumbnail: https://www.lifewire.com/thmb/zkbFe6fSEIJ3l6ilOk3yxBweE7Y=/540x405/fi
 2. Scroll down to the **Keyboard shortcuts** section and select **Keyboard shortcuts on** .  
 ![The Keyboard Shortcuts on/off buttons highlighted on Gmail's Settings screen.](https://www.lifewire.com/thmb/lPV2-ew-bY8v5xkR1Y6pZ0fLprc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A2-BestGmailKeyboardShortcuts-annotated-639cd7b44f654d4a9fc5e371f7ebae28.jpg)
 3. Scroll to the bottom of the page and select **Save Changes** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![The Save Changes button highlighted on Gmail's Settings screen.](https://www.lifewire.com/thmb/Ti1cWFQAWPKtDw4DsaTTA96KzR0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A3-BestGmailKeyboardShortcuts-annotated-bab1aa8c28204ee494f3daa266fd0100.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Create, Send, and Forward Email
 
@@ -36,9 +45,6 @@ thumbnail: https://www.lifewire.com/thmb/zkbFe6fSEIJ3l6ilOk3yxBweE7Y=/540x405/fi
 
  On Macs, use the**Command** key in place of the**Ctrl** key.
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
-<!-- affiliate ads end -->
 ## How to Reply to Email
 
  By using the**R** and**A** keys, you can quickly reply to[email messages](https://www.lifewire.com/electronic-mail-overview-1164107) or send to multiple recipients:
@@ -54,14 +60,15 @@ thumbnail: https://www.lifewire.com/thmb/zkbFe6fSEIJ3l6ilOk3yxBweE7Y=/540x405/fi
 * **Scroll up an email list (K)** : Press the**K** key to scroll up.
 * **Scroll through an email thread (N)** : Press**N** to quickly scroll down multiple conversations in a thread.
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Select Multiple Emails
 
  Need to select a bunch of emails at the same time? This shortcut will save you from having to click on each email separately:
 
 * **Select multiple emails in a row (Shift)** : Check the box beside the first email in the series, then press and hold the**Shift** key and check the box for the last email in the series. Everything between both boxes will be selected.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Add Formatting to Email Text
 
@@ -74,6 +81,10 @@ thumbnail: https://www.lifewire.com/thmb/zkbFe6fSEIJ3l6ilOk3yxBweE7Y=/540x405/fi
 
  On Mac computers, use the**Command** key in place of the**Ctrl** key.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Add Elements to an Email
 
  Addling links, numbered lists, and bullet points to your emails can also be done using keyboard shortcuts:
@@ -84,9 +95,6 @@ thumbnail: https://www.lifewire.com/thmb/zkbFe6fSEIJ3l6ilOk3yxBweE7Y=/540x405/fi
 
  On Mac computers, use the**Command** key in place of the**Ctrl** key.
 
-<!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Email Maintenance Shortcuts
 
  Use these shortcuts to help manage your inbox:
@@ -97,9 +105,6 @@ thumbnail: https://www.lifewire.com/thmb/zkbFe6fSEIJ3l6ilOk3yxBweE7Y=/540x405/fi
 * **Mark an email as unread (Shift** +**U)** : Open an email or select it by clicking the box beside the sender's name, then press**Shift** +**U** to mark it as unread.
 * **Mark a message as important (Shift** +**\=)** : Open an email or select it by clicking the box beside the sender's name, then press**Shift** +**\=** to mark it as important.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## "Go to" Shortcuts in Gmail
 
  The following shortcuts can be used for[navigating Gmail](https://www.lifewire.com/go-to-the-next-or-previous-message-in-gmail-1172068) . Unlike the shortcuts above, the individual keys must be pressed separately rather than simultaneously
@@ -112,9 +117,6 @@ thumbnail: https://www.lifewire.com/thmb/zkbFe6fSEIJ3l6ilOk3yxBweE7Y=/540x405/fi
 * **Go to All mail (G, then A)** : Press the**G** key, then press**A** to see all messages.
 * **Move from different fields (Tab):** Press the**Tab** key to jump down the different fields in your email composition screen. To go in the opposite direction, press**Shift** +**Tab** .
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ## How to View All Gmail Shortcuts
 
  Need help remembering a shortcut? You can quickly pull up the entire list with a keyboard shortcut:
@@ -124,8 +126,9 @@ thumbnail: https://www.lifewire.com/thmb/zkbFe6fSEIJ3l6ilOk3yxBweE7Y=/540x405/fi
 ![Press Shift + ? to get the full list of Gmail keyboard shortcuts anytime.](https://www.lifewire.com/thmb/5ON5QzCh_hrJrz93Hlci-4WmI4Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004_best-gmail-keyboard-shortcuts-4686794-0852ef75c64547feb336f96dbb1be04e.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Was this page helpful?
 
 Thanks for letting us know!
@@ -146,8 +149,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -155,4 +156,21 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-from-frame-by-frame-filmmaking-to-financial-flourishing/"><u>[New] 2024 Approved From Frame-by-Frame Filmmaking to Financial Flourishing</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/demystifying-chatgpt-insights-into-its-intelligent-conversational-abilities/"><u>Demystifying ChatGPT: Insights Into Its Intelligent Conversational Abilities</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/fixing-missing-user32dll-effective-troubleshooting-steps/"><u>Fixing 'Missing User32.dll': Effective Troubleshooting Steps</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-pictures-files-from-google-pixel-fold-by-fonelab-android-recover-pictures/"><u>How To Restore Missing Pictures Files from Google Pixel Fold.</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-catch-or-beat-sleeping-snorlax-on-pokemon-go-for-itel-a05s-drfone-by-drfone-virtual-android/"><u>In 2024, Catch or Beat Sleeping Snorlax on Pokemon Go For Itel A05s | Dr.fone</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-free-guide-perfecting-your-youtube-audio-to-text-conversion/"><u>In 2024, Free Guide Perfecting Your YouTube Audio-to-Text Conversion</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/in-2024-techniques-to-minimize-motion-blur-from-drones/"><u>In 2024, Techniques to Minimize Motion Blur From Drones</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-vmware-freeze-up-in-windows-11/"><u>Resolving VMware Freeze-Up in Windows 11</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/simplifying-mail-management-a-comprehensive-guide-to-multi-selection-in-googles-email-platform/"><u>Simplifying Mail Management: A Comprehensive Guide to Multi-Selection in Google's Email Platform</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-guide-to-resolve-windows-camera-error-code-0xa00f4292-efficiently/"><u>Step-by-Step Guide to Resolve Windows Camera Error Code 0xA00F4292 Efficiently</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/tailoring-meet-backdrop-for-enhanced-presentations-for-2024/"><u>Tailoring Meet Backdrop for Enhanced Presentations for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshoot-and-fixes-no-more-problems-starting-maplestory/"><u>Troubleshoot & Fixes: No More Problems Starting MapleStory</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ultimate-guide-10-proven-strategies-for-mastering-subway-surfers/"><u>Ultimate Guide: 10 Proven Strategies for Mastering Subway Surfers</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/understanding-oled-technology-a-complete-guide/"><u>Understanding OLED Technology: A Complete Guide</u></a></li>
+</ul></div>
 

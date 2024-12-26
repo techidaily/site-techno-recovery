@@ -1,7 +1,7 @@
 ---
 title: "Revolutionary Bike Ride: How Photo-Adaptive Lenses and Cutting-Edge Display Technology Changed the Game"
-date: 2024-12-11T00:43:12.739Z
-updated: 2024-12-16T22:15:55.921Z
+date: 2024-12-23T06:36:33.871Z
+updated: 2024-12-26T06:10:36.258Z
 tags:
   - apple
 categories:
@@ -23,7 +23,7 @@ The ever-evolving, rapidly changing landscape of mobile technology means that wh
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### SPECIAL FEATURE
@@ -35,7 +35,7 @@ This year, five topics will likely dominate the headlines, dictate the next indu
 And that's just the beginning, as you'll find more notable trends in the list below, all of which have already begun to take shape.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. On-device AI puts the 'smart' in smartphone
@@ -52,6 +52,10 @@ Samsung's just-released [Galaxy S24 smartphones](https://www.zdnet.com/article/e
 
 Qualcomm is playing a major role here as well, with its flagship [Snapdragon 8 Gen 3 chipset](https://www.zdnet.com/article/qualcomms-new-snapdragon-8-gen-3-mobile-chip-brings-generative-ai-to-smartphones/) enabling performance gains across the board on smartphones, from a 20% improvement in CPU, 30% in GPU, and 41% in NPU -- the latter of which is critical for devices to perform generative AI tasks in a power-efficient manner. Expect more flagship [Android phones](https://www.zdnet.com/article/best-android-phone/) this year -- as well as [VR and XR headsets](https://www.zdnet.com/article/best-vr-headset/) \-- to field Qualcomm's new processor, with plenty of AI-enabled capabilities in tow.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Foldables are getting better (and cheaper)
 
 The Motorola Razr 2023 was the most affordable foldable phone last year, selling for as low as $499.
@@ -67,10 +71,6 @@ Now that the major players have entered the competition, the big question this y
 "Foldable products have a structure that is inevitably expensive compared to general bar types, even in terms of display alone," adds Jene Park, senior analyst at Counterpoint Research.
 
 But there's hope. Carrier providers, who often discount the latest devices aggressively in exchange for customer loyalty (read: agreement to long-term installment plans), remain a primary source of US smartphone sales. Motorola's [standard Razr model](https://www.zdnet.com/article/this-motorola-is-still-200-off-and-its-surprisingly-capable/), which can be purchased for [as low as $499](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fmotorola-razr-2023-128gb-unlocked-sage-green%2F6557867.p%3F&publisher_slug=itechdaily19598&exclusive=1) at the time of writing, is another sign of good things to come. With that in mind, 2024 is looking to be a promising sequel to foldables' breakout year in 2023.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Qi2 bridges a long-standing gap in charging
 
@@ -89,7 +89,7 @@ The adoption of such technology bridges a longstanding gap between MagSafe-compa
 **Also: [The best wireless chargers for iPhone and Android phones](https://www.zdnet.com/article/best-wireless-charger/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Periscope lenses push cameras to further distances
@@ -111,7 +111,7 @@ As manufacturers continue to figure out ways to shrink and fit better components
 **Also:** [**The evolution of smartphone cameras: From megapixels to AI-driven photography**](https://www.zdnet.com/article/the-evolution-of-smartphone-cameras-from-megapixels-to-ai-driven-photography/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. A new class of mobile devices
@@ -168,18 +168,22 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-10-best-instagram-tools-to-manage-post-and-increase-followers/"><u>[New] 2024 Approved 10 Best Instagram Tools to Manage Post and Increase Followers</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-top-screen-capturing-solutions-by-tunefab-experts/"><u>[New] Top Screen Capturing Solutions by Tunefab Experts</u></a></li>
-<li><a href="https://discover-dash.techidaily.com/aomei-autosave-pro-leading-free-data-protection-software/"><u>AOMEI AutoSave Pro: Leading Free Data Protection Software</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/choosing-your-digital-sidekick-alexa-vs-google-assistant-find-the-ideal-match/"><u>Choosing Your Digital Sidekick: Alexa Vs. Google Assistant - Find the Ideal Match</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/comprehensive-tutorial-on-performing-a-biosuefi-system-fresh-start/"><u>Comprehensive Tutorial on Performing a BIOS/UEFI System Fresh Start</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/comprehensive-update-on-apple-car-key-information-on-costs-official-debut-technical-specs-and-emerging-theories/"><u>Comprehensive Update on Apple Car: Key Information on Costs, Official Debut, Technical Specs & Emerging Theories</u></a></li>
-<li><a href="https://discover-blog.techidaily.com/dvd-rdvddvd/"><u>DVD-Rレコーダーを使った直接的なDVDからDVDのバックアップ作成ガイド</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/elite-film-shooting-devices-with-smooth-motion/"><u>Elite Film Shooting Devices with Smooth Motion</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-heres-everything-you-should-know-about-pokemon-stops-in-detail-on-apple-iphone-6-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, Heres Everything You Should Know About Pokemon Stops in Detail On Apple iPhone 6 Plus | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/the-end-of-the-frozen-frontier-warframes-performance-improved-and-optimized/"><u>The End of the Frozen Frontier: Warframe's Performance Improved and Optimized</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/to-construct-or-to-purchase-deciding-between-diy-and-pre-built-computers/"><u>To Construct or to Purchase? Deciding Between DIY and Pre-Built Computers</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ate-list-youtubes-top-vr-video-sessions-for-2024/"><u>Ultimate List YouTube's Top VR Video Sessions for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/ultimate-tutorial-securely-saving-netflix-movie-titles-for-offline-viewing-on-pclaptop/"><u>Ultimate Tutorial: Securely Saving Netflix Movie Titles for Offline Viewing on PC/Laptop</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-a-compreayers-must-have-top-10-free-passport-photo-tools/"><u>2024 Approved A Compreayer's Must-Have Top 10 Free Passport Photo Tools</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/amazon-prime-day-tech-steals-must-have-gadgets-at-jaw-dropping-prices/"><u>Amazon Prime Day Tech Steals: Must-Have Gadgets at Jaw-Dropping Prices</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/behind-the-scenes-the-making-of-an-iconic-tech-spectacle-new-iphone-launch/"><u>Behind the Scenes: The Making of an Iconic Tech Spectacle - New iPhone Launch</u></a></li>
+<li><a href="https://fox-search.techidaily.com/cross-brand-storage-solution-mastering-the-art-of-migrating-samsung-data-onto-third-party-ssds-a-comprehensive-guide/"><u>Cross-Brand Storage Solution: Mastering the Art of Migrating Samsung Data Onto Third-Party SSDs – A Comprehensive Guide!</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discover-the-must-watch-shows-on-discovery-plus-this-july-2024/"><u>Discover the Must-Watch Shows on Discovery Plus This July 2024!</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/discover-the-top-10-platforms-offering-free-online-movie-viewing-instantly/"><u>Discover the Top 10 Platforms Offering Free Online Movie Viewing Instantly</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/essential-strategies-for-newbies-in-the-world-of-pokemon-go-gaming/"><u>Essential Strategies for Newbies in the World of Pokémon Go Gaming</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/exclusive-guide-365-days-of-no-cost-text-files/"><u>Exclusive Guide 365 Days of No-Cost Text Files</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exploring-the-limits-commands-and-queries-that-puzzle-chatgpt/"><u>Exploring the Limits: Commands and Queries That Puzzle ChatGPT</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-fix-mingwm10dll-is-missing-or-not-found-errors/"><u>How to Fix Mingwm10.dll Is Missing or Not Found Errors</u></a></li>
+<li><a href="https://program-issues.techidaily.com/lunar-desktop-application-crashes-solutions-and-prevention-tips-for-pc-users/"><u>Lunar Desktop Application Crashes: Solutions and Prevention Tips for PC Users</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/mastering-location-markers-a-step-by-step-guide-to-adding-multiple-pins-in-google-maps/"><u>Mastering Location Markers: A Step-by-Step Guide to Adding Multiple Pins in Google Maps</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/navigating-hdcp-error-messages-expert-advice-for-restoring-digital-video-streams/"><u>Navigating HDCP Error Messages: Expert Advice for Restoring Digital Video Streams</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-free-video-rotation-software-top-10-picks-for-flipping-footage/"><u>New 2024 Approved Free Video Rotation Software Top 10 Picks for Flipping Footage</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/speeding-up-firefox-top-10-hacks-to-accelerate-your-browser-fivefold/"><u>Speeding Up Firefox: Top 10 Hacks to Accelerate Your Browser Fivefold</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-perfect-resolution-for-immersive-vr/"><u>The Perfect Resolution for Immersive VR</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-picks-watch-these-15-exceptional-dolby-atmos-films-in-your-home-theater-setup/"><u>Top Picks: Watch These 15 Exceptional Dolby Atmos Films in Your Home Theater Setup</u></a></li>
 </ul></div>
 

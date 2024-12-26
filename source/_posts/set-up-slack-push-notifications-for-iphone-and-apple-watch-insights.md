@@ -1,7 +1,7 @@
 ---
 title: Set Up Slack Push Notifications for iPhone and Apple Watch | Insights
-date: 2024-12-14T18:26:55.021Z
-updated: 2024-12-17T08:50:39.720Z
+date: 2024-12-23T06:47:19.248Z
+updated: 2024-12-26T03:49:18.372Z
 tags:
   - apple
 categories:
@@ -44,6 +44,10 @@ Here's how.
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to enable Slack notifications on your Apple Watch
 
 **What you'll need:** Have the latest versions of iOS and watchOS installed on your iPhone and Apple Watch, respectively. 
@@ -55,7 +59,7 @@ There is no dedicated Slack app for the Apple Watch, but there is an iPhone app.
 Once it's installed, go ahead and log into your various Slack channels. Get those setup and working as you like before configuring the app for notifications.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Set up Slack notifications in the system settings
@@ -63,7 +67,7 @@ Once it's installed, go ahead and log into your various Slack channels. Get thos
 Let's make sure iOS is set up to allow Slack notifications. Go to the main Settings app and on the main settings screen, scroll all the way down to Slack. It's a long scroll past many other apps. Tap into Slack.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##   
@@ -76,17 +80,9 @@ Now, back out to the top of the Settings app and tap the red Notifications icon.
 
 Screenshot by David Gewirtz/ZDNET
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. Set up Slack notifications in the Slack app
 
 Next, open the Slack app. Tap your profile image in the upper right corner of the screen. Then tap Notifications.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##   
 
@@ -105,6 +101,10 @@ Next, tap Notify Me on Mobile. This will give you a few options.
 Screenshot by David Gewirtz/ZDNET
 
 Set it to "Always, even when I'm active". That way, you'll always get notifications, no matter what you're doing (unless you have Do Not Disturb turned on).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Set your notification schedule
 
@@ -137,7 +137,7 @@ Screenshot by David Gewirtz/ZDNET
 There. You've set up notifications. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  6\. Use the Watch to get Slack notifications
@@ -179,17 +179,22 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/new-unlock-full-potential-using-polarrs-image-tools/"><u>[New] Unlock Full Potential Using Polarr's Image Tools</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-2024-approved-rhythm-ringtone-converting-tamil-music-into-phone-chimes/"><u>[Updated] 2024 Approved Rhythm Ringtone Converting Tamil Music Into Phone Chimes</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-easy-guide-record-mov-files-on-win-11-pc/"><u>[Updated] In 2024, Easy Guide Record MOV Files on Win 11 PC</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-professional-top-10-hd-webcams-and-buyers-advice/"><u>[Updated] Professional Top 10 HD Webcams & Buyer's Advice</u></a></li>
-<li><a href="https://fox-links.techidaily.com/2024-approved-unlock-youtubes-potential-with-expert-picture-posting-techniques/"><u>2024 Approved Unlock YouTube's Potential with Expert Picture Posting Techniques</u></a></li>
-<li><a href="https://driver-error.techidaily.com/overcoming-mouse-and-window-lag-woes/"><u>Overcoming Mouse & Window Lag Woes</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/simplifying-email-management-how-to-automate-sorting-in-gmail-with-personalized-rules/"><u>Simplifying Email Management: How to Automate Sorting in Gmail With Personalized Rules</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/stay-on-top-of-your-fitness-goals-with-these-10-essential-exercise-logging-tools-in-amelie2024/"><u>Stay on Top of Your Fitness Goals with These 10 Essential Exercise Logging Tools in Amelie_2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/top-picks-disneyplus-must-watch-films-of-the-moment/"><u>Top Picks: Disney+ Must-Watch Films of the Moment</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/ultimate-guide-combining-your-favorite-songs-into-one-master-spotify-list/"><u>Ultimate Guide: Combining Your Favorite Songs Into One Master Spotify List</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/unlock-the-power-of-google-gemini-with-these-tips/"><u>Unlock the Power of Google Gemini with These Tips</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/unlocking-the-potential-of-screenshotting-your-android-device-for-2024/"><u>Unlocking the Potential of Screenshotting Your Android Device for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/xclusive-mcb-logo-designs-and-templates/"><u>[New] Exclusive MCB Logo Designs and Templates</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-pro-tips-for-video-conference-recordings-desktop-edition/"><u>[New] Pro Tips for Video Conference Recordings Desktop Edition</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-scoop-on-the-best-speed-a-top-ranked-list-of-racing-games/"><u>[Updated] 2024 Approved Scoop on the Best Speed A Top-Ranked List of Racing Games</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-a-streamers-companion-roku-plus-facebook-live-explained-for-2024/"><u>[Updated] A Streamer's Companion ROKU + Facebook Live Explained for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-rehabilitating-faulty-obs-camera-connection-for-2024/"><u>[Updated] Rehabilitating Faulty OBS Camera Connection for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-stream-into-the-now-enjoying-real-time-broadcasts-with-roku-and-facebook/"><u>[Updated] Stream Into The Now Enjoying Real-Time Broadcasts with Roku & Facebook</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/beat-the-apple-glasses-hype-on-a-budget-how-i-found-relief-with-cost-effective-ar-eyewear-zdnet-exclusives/"><u>Beat the 'Apple Glasses' Hype on a Budget: How I Found Relief with Cost-Effective AR Eyewear | ZDNET Exclusives</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discover-the-latest-from-razer-a-comprehensive-roundup-of-razers-exciting-unveilings-at-ces-2nite/"><u>Discover the Latest From Razer: A Comprehensive Roundup of Razer's Exciting Unveilings at CES 2Nite!</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/emerging-dominant-tech-forces-ai-virtual-assistants-and-ar-spotlight-this-weeks-hottest-innovations-zdnet/"><u>Emerging Dominant Tech Forces: AI, Virtual Assistants & AR Spotlight This Week's Hottest Innovations | ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/exploring-the-lenovo-thinkreality-a3-experience-elevating-your-virtual-interactions/"><u>Exploring the Lenovo ThinkReality A3 Experience: Elevating Your Virtual Interactions</u></a></li>
+<li><a href="https://change-location.techidaily.com/here-are-some-of-the-best-pokemon-discord-servers-to-join-on-samsung-galaxy-f15-5g-drfone-by-drfone-virtual-android/"><u>Here are Some of the Best Pokemon Discord Servers to Join On Samsung Galaxy F15 5G | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-can-you-transfer-files-from-oppo-reno-11f-5g-to-iphone-151413-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How Can You Transfer Files From Oppo Reno 11F 5G To iPhone 15/14/13? | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-meta-quests-supernatural-app-revolutionized-my-fitness-journey-why-going-back-is-unthinkable-zdnet/"><u>How Meta Quest's Supernatural App Revolutionized My Fitness Journey – Why Going Back Is Unthinkable | ZDNET</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-secure-your-own-360-spectacular-videos-for-visionpro-and-quest3-download-instructions/"><u>How to Secure Your Own 360° Spectacular Videos for VisionPro and Quest3 – Download Instructions</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/inside-the-hushed-collaboration-qualcomm-unveils-its-joint-venture-with-samsung-and-google-on-ar-smart-glasses-a-dive-into-the-future/"><u>Inside the Hushed Collaboration: Qualcomm Unveils Its Joint Venture with Samsung & Google on AR Smart Glasses - A Dive Into the Future</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/master-list-of-8-gratis-cutting-edge-video-players-for-pcmac-os-for-2024/"><u>Master List of 8 Gratis, Cutting-Edge Video Players for PC/Mac OS for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-5-insights-from-the-ifixit-analysis-of-apple-vision-pros-internal-design-a-deep-dive-zdnet/"><u>Top 5 Insights From the iFixit Analysis of Apple Vision Pro's Internal Design: A Deep Dive - ZDNet</u></a></li>
 </ul></div>
 

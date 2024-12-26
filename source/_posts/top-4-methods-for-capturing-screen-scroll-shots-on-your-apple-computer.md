@@ -1,7 +1,7 @@
 ---
 title: Top 4 Methods for Capturing Screen Scroll Shots on Your Apple Computer
-date: 2024-08-30T13:08:32.303Z
-updated: 2024-08-31T13:08:32.303Z
+date: 2024-12-19T02:48:13.823Z
+updated: 2024-12-26T04:08:01.371Z
 tags:
   - desktop
 categories:
@@ -37,8 +37,9 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  You'll now be prompted to choose where to save your image. Click "Save" and you're done.
 
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Take a Scrolling Screenshot With the FireShot Safari Extension
 
  If you take screenshots of websites regularly, then you'll be better off using an app to handle it. For Safari, you can [install an extension](https://unlock-android.techidaily.com/best-ways-on-how-to-unlockbypassswiperemove-infinix-gt-10-pro-fingerprint-lock-by-drfone-android/) to capture scrolling screenshots. The one we like is FireShot, which is free and is also available as an extension for Chrome and other third-party browsers.
@@ -47,27 +48,26 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![The FireShot page in the Mac App Store.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/the-fireshot-page-in-the-mac-app-store.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
  Now open Safari and go to Safari > Settings > Extensions and locate FireShot in the Installed pane. Check the box alongside the name to activate the extension. In the right-hand pane, you can click "Always Allow on Every Website" if you plan to use it a lot. For security reasons, it's better not to do this. You can simply grant permission for the extension to work as and when you need it instead.
 
 ![The FireShot settings page in Safari.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/the-fireshot-settings-page-in-safari.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
  Now load up the page you want to screenshot in Safari. You'll see that a FireShot icon has been added to the toolbar alongside the address bar. It'll be grayed out at first, so click the icon and select "Allow for One Day" to give it permission to run.
 
 ![Screenshot showing the permission option in FireShot.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/screenshot-showing-the-permission-option-in-fireshot.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Click the icon again, followed by "Capture Entire Page." The screenshot will open in a new tab, and you can choose to save it as an image (in the PNG format) or PDF, email it, copy it to your clipboard, or print it.
 
 ![The Capture Entire Page option in FireShot.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/the-capture-entire-page-option-in-fireshot.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Take Screenshots in an Online Tool
 
  The other good option for taking full-page screenshots of websites is by using an online tool. This is less convenient in some cases, but it comes with the benefit of being able to share your screenshots between your Mac and another device more easily.
@@ -82,11 +82,12 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Saving a full page screenshot in Safari.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/saving-a-full-page-screenshot-in-safari.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You can also click in the address bar in Safari and hit Command+C to copy the unique URL for the image and share it with other devices.
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
-<!-- affiliate ads end -->
 ##  Take Scrolling Screenshots in Any App With Shottr
 
  Finally, if you need to take a full-page or scrolling screenshot from within any app, not just of a website, you can do this with the third-party app Shottr. You can use it to capture screenshots of PDF files, spreadsheets, documents, large photos, or anything else.
@@ -100,8 +101,9 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![The Scrolling Capture setting in Shottr.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/the-scrolling-capture-setting-in-shottr.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Your mouse pointer will turn into a crosshair. Click in the top-left corner of the area you want to screenshot, then drag to the bottom-right. When you let go of the mouse button, the screen will begin to scroll up. Everything within the width of the rectangle you drew will be captured, right down to the bottom of the page.
 
 Your browser does not support the video tag. 
@@ -118,8 +120,6 @@ Your browser does not support the video tag.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -127,4 +127,24 @@ Your browser does not support the video tag.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-tips.techidaily.com/024-approved-unleashing-brand-potential-with-free-youtube-marketing-templates/"><u>[New] 2024 Approved Unleashing Brand Potential with FREE YouTube Marketing Templates</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-eliminating-fisheye-lens-distortions-with-gopro/"><u>[New] In 2024, Eliminating Fisheye Lens Distortions with GoPro</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-mastering-faces-in-picsart-applying-motion-blur-effects/"><u>[New] In 2024, Mastering Faces in Picsart Applying Motion Blur Effects</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-streamlined-recording-of-academic-sessions-on-macs/"><u>[New] In 2024, Streamlined Recording of Academic Sessions on Macs</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-unveiling-sony-action-camera-x1000-performance/"><u>[New] Unveiling Sony Action Camera X1000 Performance</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-complete-connoisseurs-manual-for-expertise-in-morphvox-voice-changing/"><u>[Updated] 2024 Approved Complete Connoisseur’s Manual for Expertise in MorphVOX Voice Changing</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-perfect-shadows-and-highlights-with-iphone-lighting-tips/"><u>2024 Approved Perfect Shadows & Highlights with IPhone Lighting Tips</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/embracing-innovation-in-the-artificial-intelligence-era-stay-continuously-updated-with-its-creed/"><u>Embracing Innovation in the Artificial Intelligence Era: Stay Continuously Updated with IT's Creed</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/future-tech-alerts-discover-the-leading-innovations-shaping-5g-and-edge-computing-today-insights-from-zdnets-latest-report/"><u>Future Tech Alerts: Discover the Leading Innovations Shaping 5G and Edge Computing Today - Insights From ZDNet's Latest Report</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/going-completely-online-do-you-have-tips-for-a-smooth-transition-lets-connect-with-industry-pros-zdnet-strategies/"><u>Going Completely Online: Do You Have Tips for a Smooth Transition? Let's Connect with Industry Pros | ZDNet Strategies</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-how-to-fake-gps-on-android-without-mock-location-for-your-realme-12-proplus-5g-drfone-by-drfone-virtual/"><u>In 2024, How to Fake GPS on Android without Mock Location For your Realme 12 Pro+ 5G | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/lenovo-predicts-laptops-must-adapt-for-expanding-artificial-intelligence-and-cybersecurity-needs/"><u>Lenovo Predicts Laptops Must Adapt for Expanding Artificial Intelligence & Cybersecurity Needs</u></a></li>
+<li><a href="https://article-tips.techidaily.com/perfecting-fading-audio-tracks-through-audacitys-tools/"><u>Perfecting Fading Audio Tracks Through Audacity's Tools</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-leading-5g-and-edge-computing-breakthroughs-of-the-year-key-developments-you-cant-miss-insights-from-zdnet/"><u>The Leading 5G & Edge Computing Breakthroughs of the Year: Key Developments You Can't Miss - Insights From ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-new-frontier-in-tech-growth-exploring-edge-to-clouds-role-in-pioneering-digital-shifts-zdnet-analysis/"><u>The New Frontier in Tech Growth: Exploring Edge-to-Cloud's Role in Pioneering Digital Shifts | ZDNet Analysis</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unraveling-the-future-of-connectivity-understanding-5g-and-edge-tech-impact-insights-by-zdnet/"><u>Unraveling the Future of Connectivity: Understanding 5G & Edge Tech Impact | Insights by ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/zdnet-explores-next-gen-cloud-transformation-embracing-the-shift-from-hybrid-edge-and-into-ai-dominance/"><u>ZDNet Explores Next-Gen Cloud Transformation: Embracing the Shift From Hybrid, Edge and Into AI Dominance</u></a></li>
+</ul></div>
 

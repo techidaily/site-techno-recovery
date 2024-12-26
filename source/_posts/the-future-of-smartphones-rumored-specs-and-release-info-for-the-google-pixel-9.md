@@ -1,7 +1,7 @@
 ---
 title: "The Future of Smartphones: Rumored Specs and Release Info for the Google Pixel 9"
-date: 2024-08-26T06:10:43.451Z
-updated: 2024-08-27T06:10:43.451Z
+date: 2024-12-22T23:13:27.196Z
+updated: 2024-12-26T05:57:59.919Z
 categories:
   - BestProducts
 description: "This Article Describes The Future of Smartphones: Rumored Specs and Release Info for the Google Pixel 9"
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/5d3b16b34799fd4027e4ade17484dcb7de0969abd
 * [Latest News](https://www.lifewire.com/#toc-the-latest-news-about-iphone-17)
 
  The iPhone 17 is the 2025 model of the iPhone, the successor to the not-yet-released[iPhone 16](https://www.lifewire.com/iphone-16-news-and-rumors-7111749) . It's expected to deliver a major screen upgrade, higher-resolution cameras, faster processors, and more.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## When Will iPhone 17 Be Released?
 
@@ -51,9 +55,6 @@ A September 2025 release date seems like a lock.
 
  The iPhone 17 will go up for pre-order once Apple makes it official. Check back here for info once it's available.
 
-<!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## iPhone 17 Specs & Features
 
  The iPhone 17 is rumored to introduce some major upgrades to its screen, big improvements to the cameras, faster processors, and more. Here's a summary of what's rumored:
@@ -68,8 +69,9 @@ A September 2025 release date seems like a lock.
 * More AI features.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Screen
 
  The iPhone 17 series screen is rumored to receive three notable upgrades.
@@ -80,16 +82,14 @@ A September 2025 release date seems like a lock.
 
  Lastly,[MacRumors shares a Chinese report](https://www.macrumors.com/2024/03/19/iphone-17-anti-reflective-display/) that the iPhone 17 screen will use a new, "super-hard anti-reflective layer" to prevent scratches and screen damage, replacing the current ceramic shield technology.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ### Face ID
 
  Ross Young, an industry analyst with Display Supply Chain Consultants,[says that the iPhone 17 Pro models will bring a big change to Face ID](https://www.macrumors.com/2023/04/03/under-display-face-id-to-debut-on-iphone-17-pro/) : Instead of using a camera notch at the top of the screen, the[Face ID](https://www.lifewire.com/face-id-4151714) will be embedded under the phone's screen. While the selfie camera cutout would stay, moving the Face ID sensors under the screen would be a step towards getting rid of the notch entirely and having an all-screen front on a future iPhone model.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Processor and Chips
 
  Each year, Apple introduces a new processor that powers the iPhone. Based on past evolution of those chips, expect the iPhone 17 series to be built around the not-yet-revealed Apple A18 processor.
@@ -97,8 +97,9 @@ A September 2025 release date seems like a lock.
  Beyond that,[HotHardware says](https://hothardware.com/news/apples-iphone-17-could-have-heavily-revised-selfie-camera) that the iPhone 17 will include an Apple-designed Wi-Fi chip that supports[Wi-Fi 7](https://www.lifewire.com/what-is-wi-fi-7-6950913) , allowing the phone to use the 2.4Ghz, 5Ghz, and 6Ghz Wi-Fi bands at the same time.  
 
 <!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Camera
 
  Rumors suggest at least three key improvements to the iPhone 17 series cameras.
@@ -112,8 +113,9 @@ A September 2025 release date seems like a lock.
  Lastly, noted Apple analyst Kuo Ming-Chi suggests that[the camera lenses on the iPhone 17 will be built using 6 elements](https://hothardware.com/news/apples-iphone-17-could-have-heavily-revised-selfie-camera) , up from 5 on current models, which will improve image quality, especially in low-light situations.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Phone Size
 
  While not a widely reported rumor,[HotHardware says](https://hothardware.com/news/apples-iphone-17-could-have-heavily-revised-selfie-camera) that the iPhone 17 may change its physical dimensions, becoming taller and skinnier, with a 19.6:9 aspect ratio (the aspect ratio of current iPhone is 16:9).
@@ -136,14 +138,11 @@ A September 2025 release date seems like a lock.
 
 [Why a Dedicated iPhone Video Button Is a Great Idea](https://www.lifewire.com/dedicated-iphone-video-button-8546938)
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -152,4 +151,18 @@ A September 2025 release date seems like a lock.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-skills.techidaily.com/updated-the-secrets-to-steering-clear-of-vr-sickness/"><u>[Updated] The Secrets to Steering Clear of VR Sickness</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/16-amazing-tasks-you-didnt-know-alexa-could-perform-with-your-amazon-echo-insights-from-zdnet/"><u>16 Amazing Tasks You Didn't Know Alexa Could Perform with Your Amazon Echo - Insights From ZDNet</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-onoff-switch-windows-11s-auto-hdr-feature/"><u>2024 Approved On/Off Switch Windows 11'S Auto-HDR Feature</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/beyond-bose-and-sonos-unveiling-the-worlds-best-sound-immersion-with-a-revolutionary-speaker-system-zdnet/"><u>Beyond Bose and Sonos: Unveiling the World’s Best Sound Immersion with a Revolutionary Speaker System | ZDNET</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/beyond-logitech-and-pioneer-discover-the-superior-sound-experience-with-our-highly-rated-desktop-speakers-featured-on-zdnet/"><u>Beyond Logitech and Pioneer: Discover the Superior Sound Experience with Our Highly Rated Desktop Speakers - Featured on ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/choosing-between-the-sonos-era-100-and-sonos-one-a-comprehensive-guide-for-your-perfect-smart-speaker-purchase-techradar/"><u>Choosing Between the Sonos Era 100 and Sonos One: A Comprehensive Guide for Your Perfect Smart Speaker Purchase | TechRadar</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/elevate-your-travel-comfort-the-ultimate-upgrade-from-cramped-coach-seats/"><u>Elevate Your Travel Comfort - The Ultimate Upgrade From Cramped Coach Seats!</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-tecno-pop-8-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Tecno Pop 8 to New Android? | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-how-to-add-transitions-on-inshot-app/"><u>In 2024, How to Add Transitions on Inshot App?</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-art-of-auditory-identity-crafting-your-own-ringtones-and-sounds-for-android/"><u>In 2024, The Art of Auditory Identity Crafting Your Own Ringtones & Sounds for Android</u></a></li>
+<li><a href="https://win-able.techidaily.com/stop-stuttering-and-enhance-your-gameplay-on-age-of-empires-(span)iv-with-these-essential-tricks(span)/"><u>Stop Stuttering and Enhance Your Gameplay on Age of Empires <Span>IV with These Essential Tricks</Span></u></a></li>
+</ul></div>
 

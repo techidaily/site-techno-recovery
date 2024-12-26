@@ -1,7 +1,7 @@
 ---
 title: Stay on Top of Your Fitness Goals with These 10 Essential Exercise Logging Tools in Amelie_2024
-date: 2024-08-26T06:11:28.595Z
-updated: 2024-08-27T06:11:28.595Z
+date: 2024-12-22T04:32:09.108Z
+updated: 2024-12-26T05:50:54.022Z
 categories:
   - BestProducts
 description: This Article Describes Stay on Top of Your Fitness Goals with These 10 Essential Exercise Logging Tools in Amelie_2024
@@ -10,6 +10,11 @@ thumbnail: https://www.lifewire.com/thmb/LNHjGrZnU5hFF7eQJxrzv2SejTI=/400x300/fi
 ---
 
 ## Deactivate Critical Messaging Warnings on iPhones with This Simple Tutorial
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### What to Know
 
 * Amber alerts on iPhone can be turned off in**Settings** \>**Notifications** .
@@ -27,11 +32,16 @@ thumbnail: https://www.lifewire.com/thmb/LNHjGrZnU5hFF7eQJxrzv2SejTI=/400x300/fi
 3. Tap**Emergency Alerts** for a few other options. From there, you can control emergency alerts without affecting the option you chose for Amber alerts in the last step. This is also how you stop emergency alerts from bypassing silent mode.  
 ![The Settings, Notifications, and Emergency Alerts screens on an iPhone](https://www.lifewire.com/thmb/k4Pdtou2x8ooq0Bqd1UnlBWO_KA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/iphone-amber-alerts-bc193ddbd3c24bd895b61242e22ca176.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Got an Apple Watch?[Check out how to avoid notification overload](https://www.lifewire.com/avoid-notification-overload-apple-watch-1999672) , including notifications from emergency alerts.
 
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Can Do Not Disturb Silence Emergency and Amber Alerts on iPhone?
 
  The[iPhone's Do Not Disturb feature](https://www.lifewire.com/use-do-not-disturb-on-iphone-apple-watch-2000547) lets you silence notifications, but it does not work with Amber alerts and other emergency alerts. Because they signal an emergency that could affect your life and safety or someone else's, Do Not Disturb can't block these alerts.
@@ -39,8 +49,9 @@ thumbnail: https://www.lifewire.com/thmb/LNHjGrZnU5hFF7eQJxrzv2SejTI=/400x300/fi
  There is no way to block or silence Amber alerts except by turning them off. As for emergency alerts, there is a toggle called**Always Play Sound** that you can turn off (see Step 3 above). Doing this prevents the sound from coming through your phone when you're in silent mode.
 
 <!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Can You Change Emergency and Amber Alert Tones on iPhone?
 
  While you can[change the sound used for other alerts](https://www.lifewire.com/how-to-change-the-default-ringtone-on-your-iphone-2000554) , you can't customize emergency alert sounds. Yes, the noise for these alerts is unpleasant and may even be startling, but it's worth remembering that they're unpleasant because they're supposed to get your attention.
@@ -50,9 +61,9 @@ thumbnail: https://www.lifewire.com/thmb/LNHjGrZnU5hFF7eQJxrzv2SejTI=/400x300/fi
 [How to Turn Off SOS on an iPhone 14](https://www.lifewire.com/iphone-14-turn-off-sos-8630001)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
-LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Why You Shouldn't Disable Amber and Emergency Alerts on iPhone
 
  Even though these alerts can sometimes be surprising or unwelcome, you should leave them on—especially the emergency alerts. These messages arrive when there is dangerous weather or another severe health or safety event imminent in your area. If a tornado, flash flood, or other potential natural disaster is heading your way, you'll want to know so that you can take action.
@@ -90,8 +101,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -99,4 +108,21 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/new-expert-8-download-for-fb-movies-for-2024/"><u>[New] Expert 8 Download for FB Movies for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-unleash-your-potential-with-these-12-best-flip-screen-cameras/"><u>[New] In 2024, Unleash Your Potential with These 12 Best Flip-Screen Cameras</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-master-the-art-of-vlogging-with-these-top-8-cameras/"><u>[Updated] In 2024, Master the Art of Vlogging with These Top 8 Cameras</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-the-pathway-to-youtube-prosperity-a-comprehensive-guide/"><u>[Updated] In 2024, The Pathway to YouTube Prosperity - A Comprehensive Guide</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-top-5-hidden-media-extractor-apps/"><u>[Updated] In 2024, Top 5 Hidden Media Extractor Apps</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/5-proven-strategies-for-advancing-your-career-and-achieving-promotions-zdnet-insights/"><u>5 Proven Strategies for Advancing Your Career & Achieving Promotions | ZDNet Insights</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ace-your-phone-screening-expert-advice-on-nailing-the-initial-call-and-securing-that-follow-up-meeting/"><u>Ace Your Phone Screening! Expert Advice on Nailing the Initial Call & Securing That Follow-Up Meeting</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/combatting-talent-scarcity-with-boomerang-staff-insights-from-zdnet/"><u>Combatting Talent Scarcity with Boomerang Staff – Insights From ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-excel-as-a-data-expert-top-5-strategies-revealed-on-zdnet/"><u>How To Excel as a Data Expert: Top 5 Strategies Revealed on ZDNet</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-unlink-apple-id-from-iphone-14-pro-by-drfone-ios/"><u>How To Unlink Apple ID From iPhone 14 Pro</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-three-ways-to-sim-unlock-honor-90-by-drfone-android/"><u>In 2024, Three Ways to Sim Unlock Honor 90</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-hottest-developer-roles-and-upcoming-tech-languages-a-forecast-with-expertise-from-zdnet/"><u>The Hottest Developer Roles & Upcoming Tech Languages: A Forecast with Expertise From ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unlocking-leadership-potential-the-five-essentials-for-aspiring-managers/"><u>Unlocking Leadership Potential: The Five Essentials for Aspiring Managers</u></a></li>
+<li><a href="https://win-forum.techidaily.com/1722915399984-upgrade-to-revo-uninstaller-pro-5-the-ultimate-tool-for-a-clean-and-efficient-system/"><u>Upgrade to Revo Uninstaller Pro 5 - The Ultimate Tool for a Clean & Efficient System</u></a></li>
+</ul></div>
 

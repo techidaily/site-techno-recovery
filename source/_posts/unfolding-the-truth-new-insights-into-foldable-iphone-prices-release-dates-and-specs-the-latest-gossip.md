@@ -1,7 +1,7 @@
 ---
 title: "Unfolding the Truth: New Insights Into Foldable iPhone Prices, Release Dates, and Specs - The Latest Gossip"
-date: 2024-08-30T13:12:18.586Z
-updated: 2024-08-31T13:12:18.586Z
+date: 2024-12-22T18:47:32.392Z
+updated: 2024-12-25T18:50:39.063Z
 categories:
   - BestProducts
 description: "This Article Describes Unfolding the Truth: New Insights Into Foldable iPhone Prices, Release Dates, and Specs - The Latest Gossip"
@@ -42,6 +42,10 @@ In This Article
 
 ![Foldable device illustration from patent US8929085B2](https://www.lifewire.com/thmb/wUd3t6RsFQmJnem6udFt2aVqAOw=/960x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/US08929085-foldable-device-dcde96bb968a4de2b7048ee2ea3d4e33.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Patent US8929085B2.
 
  Another[patent filed in 2019](https://patents.google.com/patent/US20190324503A1/en?oq=20190324503) is for a device with a wrap-around display:
@@ -50,16 +54,14 @@ Patent US8929085B2.
 
  Could it be worked into a foldable phone? We are eagerly waiting to see how/if they use these inventions.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Lifewire's Release Date Estimate
 
 We don’t expect a foldable iPhone until at least 2026.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Foldable iPhone Price Rumors
 
  It won’t be cheap. Phones are increasingly approaching or even exceeding $1,000\. Just look at the[iPhone 15 Pro Max](https://www.lifewire.com/iphone-15-5202683) which starts at just over a grand.
@@ -73,15 +75,17 @@ We don’t expect a foldable iPhone until at least 2026.
 ![iPhone Fold concept](https://www.lifewire.com/thmb/rZm7q7oXYP54-AV8Jq5MPj1vPos=/960x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Final_1-d0db91df8e834c7ab0aa2da0ab61b943.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 iPhone Fold concept.
 
 Michal Dufka
 
 <!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Pre-Order Information
 
  It's way too early to suggest a pre-order date, but we'll keep this updated as the launch nears.  
@@ -99,8 +103,9 @@ Michal Dufka
  When it comes down to it, a foldable phone is beneficial purely for its bigger screen. Since this would be Apple’s first attempt at this kind of phone, it’d probably be the only significant change to the iPhone that year. Meaning: no stunning new camera, massive storage capacity boost, etc. (though maybe a big battery boost).
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Foldable iPhone Specs and Hardware
 
  So how will the iPhone Flip work? It’s anyone’s guess, but there are a few options: one large, foldable screen like the Galaxy Fold; two separate screens that fold over a purposefully visible hinge like the[Surface Duo](https://www.lifewire.com/microsoft-surface-duo-review-5113055) ; or_three_ screens—two regular ones and a third for when the device is in its folded position.
@@ -125,13 +130,6 @@ Michal Dufka
 
  Bolstering the battery, processing power, and RAM will be a must to sustain multiple displays that could all independently multitask. Storage space might not change from the current iPhone lineup.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
-<!-- affiliate ads end -->
 ## The Latest News About the Foldable iPhone
 
  You can [get more smartphone news from Lifewire](https://www.lifewire.com/mobile-phone-news-4796390) . Here are some of the latest stories about foldable phones in particular:  
@@ -142,14 +140,11 @@ No advertising on the website.
 
 [Sony Foldable Phone: News and Expected Price, Release Date, Specs; and More Rumors](https://www.lifewire.com/sony-foldable-phone-7553435)
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -158,4 +153,24 @@ No advertising on the website.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/21-vegas-pro-insights-an-expert-breakdown/"><u>'21 Vegas Pro Insights – An Expert Breakdown</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-seamless-addition-youtube-videos-into-google-slides/"><u>[New] In 2024, Seamless Addition YouTube Videos Into Google Slides</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-giggle-genesis-creepy-clones-with-a-smile/"><u>2024 Approved Giggle Genesis Creepy Clones with a Smile</u></a></li>
+<li><a href="https://fake-location.techidaily.com/does-airplane-mode-turn-off-gps-location-on-honor-90-gt-drfone-by-drfone-virtual-android/"><u>Does Airplane Mode Turn off GPS Location On Honor 90 GT? | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/effective-strategies-to-address-audacitys-lameencdll-malfunctioning/"><u>Effective Strategies to Address Audacity's lame_enc.dll Malfunctioning</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/explore-netflixs-top-10-choice-culinary-entertainment-series/"><u>Explore Netflix's Top 10 Choice Culinary Entertainment Series</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-explore-the-best-sky-hd-photography-websites/"><u>In 2024, Explore the Best Sky HD Photography Websites</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-insightful-review-the-comprehensive-theta-s-experience/"><u>In 2024, Insightful Review The Comprehensive Theta S Experience</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ipados-18-unveiled-detailed-look-at-its-cost-free-launch-cutting-edge-features-and-latest-updates/"><u>IPadOS 18 Unveiled: Detailed Look at Its Cost-Free Launch, Cutting-Edge Features & Latest Updates</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/mastering-quick-retrieval-of-hidden-reddit-threads-for-2024/"><u>Mastering Quick Retrieval of Hidden Reddit Threads for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ps4-controller-light-indicators-explained-blue-white-red-and-orange-blinks/"><u>PS4 Controller Light Indicators Explained - Blue, White, Red, and Orange Blinks!</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-guide-adding-subtitles-to-your-instagram-story-videos/"><u>Step-by-Step Guide: Adding Subtitles to Your Instagram Story Videos</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-users-handbook-deactivating-and-deleting-a-tiktok-account/"><u>The User's Handbook: Deactivating and Deleting a TikTok Account</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-10-streaming-services-without-cost-discover-your-new-favorites/"><u>Top 10 Streaming Services Without Cost: Discover Your New Favorites</u></a></li>
+<li><a href="https://fox-where.techidaily.com/top-9-ocr-solutions-for-windows-10-free-and-premium-options-explored/"><u>Top 9 OCR Solutions for Windows 10: Free and Premium Options Explored</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-rated-water-resistant-cellphone-covers/"><u>Top Rated Water-Resistant Cellphone Covers</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/top-tips-for-free-movie-watching-saving-and-streaming-favorites-on-windows-tablets/"><u>Top Tips for Free Movie Watching: Saving and Streaming Favorites on Windows Tablets!</u></a></li>
+</ul></div>
 

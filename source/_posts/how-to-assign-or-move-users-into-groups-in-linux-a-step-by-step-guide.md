@@ -1,7 +1,7 @@
 ---
 title: "How to Assign or Move Users Into Groups in Linux: A Step-by-Step Guide"
-date: 2024-08-30T13:07:53.160Z
-updated: 2024-08-31T13:07:53.160Z
+date: 2024-12-20T18:03:10.462Z
+updated: 2024-12-26T07:45:13.866Z
 tags:
   - desktop
 categories:
@@ -31,9 +31,6 @@ thumbnail: https://thmb.techidaily.com/a6535057526d825a812b9edea09b4a8a4894edee4
 
  If you're using a [new Linux laptop](https://location-social.techidaily.com/in-2024-how-to-changeadd-location-filters-on-snapchat-for-your-oppo-find-x6-pro-drfone-by-drfone-virtual-android/), you might have some type of GUI interface to configure these settings (depending on the distribution that you're running, at least) but realistically it's almost always easier to just drop down to the terminal and type out a few commands, so that's what we're showing you today.
 
-<!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Add a New Group
 
  If you want to create a new group on your system, use the following `groupadd` command, replacing new\_group with the name of the group you want to create. You'll need to use sudo with this command as well (or, on [Linux distributions](https://win11.techidaily.com/the-art-of-merging-your-guide-to-windows-efficiency/) that don't use `sudo`, you'll need to run the `su` command on its own to gain elevated permissions before running the command).
@@ -43,11 +40,9 @@ sudo groupadd new_group
 ![Adding a new group named &quot;new_group.&quot;](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/04/img_58fe4b860542a.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+
 ##  Add an Existing User Account to a Group
 
  To add an existing user account to a group on your system, use the `usermod` command, replacing `examplegroup` with the name of the group you want to add the user to and `exampleusername` with the name of the user you want to add.
@@ -61,8 +56,13 @@ usermod -a -G sudo geek
 ![Adding the user &quot;Greek&quot; to the sudoers group.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/04/img_58fe4b8d7be59.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Change a User's Primary Group
 
  While a user account can be part of multiple groups, one of the groups is always the "primary group" and the others are "secondary groups". The user's login process and files and folders the user creates will be assigned to the primary group.
@@ -75,9 +75,6 @@ usermod -g examplegroup exampleusername
 
 ![Changing the Geek user's primary group to example.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/04/img_58fe4c1c81233.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  View the Groups a User Account is Assigned To
 
  To view the groups the current user account is assigned to, run the `groups` command. You'll see a list of groups.
@@ -91,9 +88,9 @@ id
 ![Checking what groups there are, and what their numerical IDs are.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/04/img_58fe4ba2082cf.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  To view the groups another user account is assigned to, run the `groups` command and specify the name of the user account.
 
 groups exampleusername
@@ -122,6 +119,14 @@ passwd jsmith
 
 ![Creating a new user and simultaneously adding it to a group.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/04/img_58fe4bbf1c94b.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Add a User to Multiple Groups
 
  While assigning the secondary groups to a user account, you can easily assign multiple groups at once by separating the list with a comma.
@@ -136,9 +141,6 @@ usermod -a -G ftp,sudo,example geek
 
 ![Adding a user to multiple groups with one command.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/04/img_58fe4bc896672.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  View All Groups on the System
 
  If you want to [view a list of all groups on your system](https://hardware-updates.techidaily.com/comprehensive-guide-downloading-and-installing-canon-ip1-10-drivers-on-windows-windows-111087/), you can use the `getent` command:
@@ -163,8 +165,6 @@ getent group
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -172,4 +172,21 @@ getent group
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-decoding-steps-to-access-your-channels-eyeballs/"><u>[Updated] 2024 Approved Decoding Steps to Access Your Channel's Eyeballs</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-facebook-fans-gain-more-with-streamed-content-sharing/"><u>[Updated] Facebook Fans Gain More with Streamed Content Sharing</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/30-blink-video-doorbell-unbeatable-smart-home-offer-on-prime-day-exclusive-insight-from-zdnet/"><u>$30 Blink Video Doorbell: Unbeatable Smart Home Offer on Prime Day - Exclusive Insight From ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ai-powered-gift-selection-made-easy-with-googlee-new-technology-say-goodbye-to-shopping-stress-siliconsphere-blog/"><u>AI-Powered Gift Selection Made Easy with Google'e New Technology: Say Goodbye to Shopping Stress | SiliconSphere Blog</u></a></li>
+<li><a href="https://techtrends.techidaily.com/all-about-samsungs-newest-marvel-galaxy-z-fold-t-6-tech-specs-cost-breakdown-and-release-milestone/"><u>All About Samsung's Newest Marvel: Galaxy Z Fold T 6 Tech Specs, Cost Breakdown, and Release Milestone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-tips-correctly-resolving-the-system-exception-handler-problem-error-0xc0n00000e9/"><u>Expert Tips: Correctly Resolving the System Exception Handler Problem (Error 0xC0n00000E9)</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-change-lock-screen-wallpaper-on-nokia-c02-by-drfone-android/"><u>How to Change Lock Screen Wallpaper on Nokia C02</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-my-vivo-g2-location-is-wrong-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix My Vivo G2 Location Is Wrong | Dr.fone</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-the-ultimate-list-of-ios-camera-apps-for-the-iphone-xplus-series/"><u>In 2024, The Ultimate List of iOS Camera Apps for the iPhone X+ Series</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ct-sound-placement-adding-music-seamlessly-to-youtube-videos-for-2024/"><u>Perfect Sound Placement Adding Music Seamlessly to YouTube Videos for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/seamless-product-uploads-made-easy-with-amazons-latest-ai-technology-for-sellers-create-listings-simply-by-providing-a-url-zdnet/"><u>Seamless Product Uploads Made Easy with Amazon's Latest AI Technology for Sellers - Create Listings Simply by Providing a URL | ZDNET</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/social-simulacrum-sculpting-crafting-exaggerated-profiles-for-2024/"><u>Social Simulacrum Sculpting Crafting Exaggerated Profiles for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-wardrobe-challenge-smart-tips-on-selecting-the-perfect-gadget-with-ease-and-confidence-by-zdnet-experts/"><u>The Wardrobe Challenge: Smart Tips on Selecting the Perfect Gadget with Ease and Confidence | By ZDNet Experts</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-4-credit-card-reader-picks-expert-review-zdnet/"><u>Top 4 Credit Card Reader Picks : Expert Review - ZDNet</u></a></li>
+</ul></div>
 

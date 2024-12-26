@@ -1,7 +1,7 @@
 ---
 title: Get Your MacBook Air with Powerful M1 Chip for Only $649 - Best Price Available | Shop Smart With ZDNET
-date: 2024-12-09T07:16:47.098Z
-updated: 2024-12-10T18:18:13.552Z
+date: 2024-12-19T04:14:38.552Z
+updated: 2024-12-26T03:44:16.796Z
 tags:
   - apple
 categories:
@@ -42,7 +42,7 @@ At $649, this is the lowest price for the M1 version of the MacBook Air that we'
 The [M1 MacBook Air](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fmacbook-air-13-3-laptop-apple-m1-chip-8gb-memory-256gb-ssd-space-gray-space-gray%2F5721600.p%3FskuId%3D5721600&publisher_slug=itechdaily19598&exclusive=1) first retailed for $999 when it was released, but Apple sells refurbished versions for $799, making these deals even better than anything Apple is offering. The [M1 MacBook Air](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FApple-MacBook-Air-13-3-inch-Laptop-Silver-M1-Chip-8GB-RAM-256GB-storage%2F609040889&subId1=zd-__COM_CLICK_ID__-dtp) is available in three different colors: gold, space gray, and silver. Snag these savings while you can. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -81,15 +81,18 @@ However, deals are subject to sell out or expire at any time, though ZDNET remai
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-engineering-engaging-media-excerpts/"><u>[Updated] 2024 Approved Engineering Engaging Media Excerpts</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-the-a-list-playbook-swiftly-climb-the-social-ladder-on-instagram-with-these-essentials/"><u>[Updated] 2024 Approved The A-List Playbook Swiftly Climb the Social Ladder on Instagram with These Essentials</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/eu-orders-apple-to-pay-19b-fine-over-violations-of-competitive-rules-in-app-distribution-news/"><u>EU Orders Apple to Pay €1.9B Fine Over Violations of Competitive Rules in App Distribution News</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/expert-take-on-iphone-15-a-must-have-upgrade-for-tech-professionals-and-beyond-insights/"><u>Expert Take on iPhone 15: A Must-Have Upgrade for Tech Professionals and Beyond - Insights</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-poco-x6-pro-to-other-android-devices-using-bluetooth-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Poco X6 Pro to Other Android Devices Using Bluetooth? | Dr.fone</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/in-2024-time-efficient-methods-for-recording-vimeo-videos/"><u>In 2024, Time-Efficient Methods for Recording Vimeo Videos</u></a></li>
-<li><a href="https://driver-error.techidaily.com/optimize-dell-tapping-functionality-windows-7/"><u>Optimize Dell Tapping Functionality (Windows 7)</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/parent-approved-kid-friendly-tablets-the-ultimate-guide-to-choosing-the-right-one-insights-from-zdnet/"><u>Parent Approved Kid-Friendly Tablets: The Ultimate Guide to Choosing the Right One | Insights From ZDNet</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/recommended-best-applications-for-mirroring-your-motorola-g24-power-screen-drfone-by-drfone-android/"><u>Recommended Best Applications for Mirroring Your Motorola G24 Power Screen | Dr.fone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/upcoming-respiratory-tracking-capability-in-apples-vision-pro-revealed-by-zdnet/"><u>Upcoming Respiratory Tracking Capability in Apple’s Vision Pro, Revealed by ZDNet</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-in-2024-forgotten-tiktok-reload-a-quick-fix/"><u>[New] In 2024, Forgotten TikTok Reload A Quick Fix?</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-streamline-viewing-learn-to-insert-timestamps-on-videos/"><u>2024 Approved Streamline Viewing Learn to Insert Timestamps on Videos</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/addressing-btballoondll-errors-diagnosis-and-repair-techniques/"><u>Addressing btballoon.dll Errors: Diagnosis and Repair Techniques</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/cat5-versus-cat6-wired-connections-which-one-suits-your-needs-better/"><u>Cat5 Versus Cat6 Wired Connections: Which One Suits Your Needs Better?</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-easily-unlock-your-poco-c55-device-sim-by-drfone-android/"><u>In 2024, Easily Unlock Your Poco C55 Device SIM</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-unlock-your-device-icloud-dns-bypass-explained-and-tested-plus-easy-alternatives-on-apple-iphone-14-by-drfone-ios/"><u>In 2024, Unlock Your Device iCloud DNS Bypass Explained and Tested, Plus Easy Alternatives On Apple iPhone 14</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-which-is-the-best-fake-gps-joystick-app-on-oneplus-ace-3-drfone-by-drfone-virtual-android/"><u>In 2024, Which is the Best Fake GPS Joystick App On OnePlus Ace 3? | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/inside-the-office-how-the-new-microsoft-surface-pro-8-transforms-business-productivity-review/"><u>Inside the Office: How the New Microsoft Surface Pro 8 Transforms Business Productivity (Review )</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/integrating-photo-libraries-a-guide-to-shift-google-photos-to-icloud-storage/"><u>Integrating Photo Libraries: A Guide to Shift Google Photos to iCloud Storage</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/troubleshooting-and-repair-steps-for-iphone-with-fluid-in-charging-jack-what-you-need-to-know/"><u>Troubleshooting and Repair Steps for iPhone with Fluid in Charging Jack - What You Need to Know!</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/understanding-hdcp-issues-a-guide-on-identification-and-solutions/"><u>Understanding HDCP Issues: A Guide on Identification & Solutions</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722978517342-upgrade-to-windows-11-grab-the-ultimate-steelseries-engine-for-optimal-performance/"><u>Upgrade to Windows 11? Grab the Ultimate SteelSeries Engine for Optimal Performance</u></a></li>
+<li><a href="https://discover-best.techidaily.com/yl-softwares-comprehensive-tutorial-for-multi-file-renaming-in-windows-os/"><u>YL Software's Comprehensive Tutorial for Multi-File Renaming in Windows OS</u></a></li>
 </ul></div>
 

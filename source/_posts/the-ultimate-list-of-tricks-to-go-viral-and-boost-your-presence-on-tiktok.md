@@ -1,7 +1,7 @@
 ---
 title: The Ultimate List of Tricks to Go Viral and Boost Your Presence on TikTok
-date: 2024-12-15T08:24:26.936Z
-updated: 2024-12-17T01:26:38.777Z
+date: 2024-12-23T08:01:35.273Z
+updated: 2024-12-25T20:31:28.872Z
 categories:
   - BestProducts
 description: This Article Describes The Ultimate List of Tricks to Go Viral and Boost Your Presence on TikTok
@@ -19,6 +19,10 @@ thumbnail: https://www.lifewire.com/thmb/YbDBqWuVP0UM_nU0--_fa-ISvG0=/400x300/fi
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Enable Gmail Shortcuts
 
  To use Gmail shortcuts, you must first enable them in the **Settings** menu.
@@ -29,11 +33,12 @@ thumbnail: https://www.lifewire.com/thmb/YbDBqWuVP0UM_nU0--_fa-ISvG0=/400x300/fi
 
 ![The Keyboard Shortcuts on/off buttons highlighted on Gmail's Settings screen.](https://www.lifewire.com/thmb/lPV2-ew-bY8v5xkR1Y6pZ0fLprc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A2-BestGmailKeyboardShortcuts-annotated-639cd7b44f654d4a9fc5e371f7ebae28.jpg)
 3. Scroll to the bottom of the page and select **Save Changes** .  
-![The Save Changes button highlighted on Gmail's Settings screen.](https://www.lifewire.com/thmb/Ti1cWFQAWPKtDw4DsaTTA96KzR0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A3-BestGmailKeyboardShortcuts-annotated-bab1aa8c28204ee494f3daa266fd0100.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![The Save Changes button highlighted on Gmail's Settings screen.](https://www.lifewire.com/thmb/Ti1cWFQAWPKtDw4DsaTTA96KzR0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A3-BestGmailKeyboardShortcuts-annotated-bab1aa8c28204ee494f3daa266fd0100.jpg)
 
 ## How to Create, Send, and Forward Email
 
@@ -45,10 +50,6 @@ thumbnail: https://www.lifewire.com/thmb/YbDBqWuVP0UM_nU0--_fa-ISvG0=/400x300/fi
 * **Forward a message (F)** : Press**F** to forward an open message.
 
  On Macs, use the**Command** key in place of the**Ctrl** key.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to Reply to Email
 
@@ -65,11 +66,19 @@ thumbnail: https://www.lifewire.com/thmb/YbDBqWuVP0UM_nU0--_fa-ISvG0=/400x300/fi
 * **Scroll up an email list (K)** : Press the**K** key to scroll up.
 * **Scroll through an email thread (N)** : Press**N** to quickly scroll down multiple conversations in a thread.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Select Multiple Emails
 
  Need to select a bunch of emails at the same time? This shortcut will save you from having to click on each email separately:
 
 * **Select multiple emails in a row (Shift)** : Check the box beside the first email in the series, then press and hold the**Shift** key and check the box for the last email in the series. Everything between both boxes will be selected.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Add Formatting to Email Text
 
@@ -83,7 +92,7 @@ thumbnail: https://www.lifewire.com/thmb/YbDBqWuVP0UM_nU0--_fa-ISvG0=/400x300/fi
  On Mac computers, use the**Command** key in place of the**Ctrl** key.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Add Elements to an Email
@@ -118,10 +127,6 @@ thumbnail: https://www.lifewire.com/thmb/YbDBqWuVP0UM_nU0--_fa-ISvG0=/400x300/fi
 * **Go to All mail (G, then A)** : Press the**G** key, then press**A** to see all messages.
 * **Move from different fields (Tab):** Press the**Tab** key to jump down the different fields in your email composition screen. To go in the opposite direction, press**Shift** +**Tab** .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to View All Gmail Shortcuts
 
  Need help remembering a shortcut? You can quickly pull up the entire list with a keyboard shortcut:
@@ -129,10 +134,6 @@ thumbnail: https://www.lifewire.com/thmb/YbDBqWuVP0UM_nU0--_fa-ISvG0=/400x300/fi
 * **Open keyboard shortcut help (Shift** +**?)** : Press**Shift** +**?** to get the full list of Gmail keyboard shortcuts.
 
 ![Press Shift + ? to get the full list of Gmail keyboard shortcuts anytime.](https://www.lifewire.com/thmb/5ON5QzCh_hrJrz93Hlci-4WmI4Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004_best-gmail-keyboard-shortcuts-4686794-0852ef75c64547feb336f96dbb1be04e.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Was this page helpful?
 
@@ -163,21 +164,22 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-the-secret-to-social-success-innovative-square-videography-tactics/"><u>[Updated] 2024 Approved The Secret to Social Success Innovative Square Videography Tactics</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-mmo-galaxy-the-finest-10-free-online-roleplayers/"><u>[Updated] MMO Galaxy The Finest 10 Free Online Roleplayers</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-strategies-for-stumbling-upon-covert-youtube-videos/"><u>[Updated] Strategies for Stumbling Upon Covert YouTube Videos</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/binge-worthy-uk-programs-to-watch-on-netflix-right-now/"><u>Binge-Worthy UK Programs to Watch on Netflix Right Now!</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/break-boundaries-get-free-vob-handling-toolset-pc-and-mac/"><u>Break Boundaries Get Free VOB Handling Toolset (PC & Mac)</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/comprehensive-strategies-to-address-and-resolve-error-stop-0x0000005c-hal-initialization-failed-issues/"><u>Comprehensive Strategies to Address and Resolve Error STOP 0X0000005C: Hal Initialization Failed Issues</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/effizientes-archivieren-und-wiederherstellung-von-dateien-in-windows/"><u>Effizientes Archivieren Und Wiederherstellung Von Dateien in Windows</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/facing-a-blank-screen-heres-why-your-youtube-videos-arent-playing/"><u>Facing a Blank Screen? Here’s Why Your YouTube Videos Aren't Playing</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/fubotv-for-fire-stick-a-user-friendly-guide-to-begin-your-subscription-journey/"><u>FuboTV for Fire Stick: A User-Friendly Guide to Begin Your Subscription Journey</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/streamlining-your-photos-the-ultimate-guide-to-merging-jpegs-into-one-pdf-file/"><u>Streamlining Your Photos: The Ultimate Guide to Merging JPEGs Into One PDF File</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/switching-the-on-screen-keyboard-onoff-in-windows-10-a-step-by-step-guide/"><u>Switching the On-Screen Keyboard On/Off in Windows 10: A Step-by-Step Guide</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/the-definitive-guide-to-appending-srt-track-in-videos/"><u>The Definitive Guide to Appending SRT Track in Videos</u></a></li>
-<li><a href="https://fake-location.techidaily.com/thinking-about-changing-your-netflix-region-without-a-vpn-on-samsung-galaxy-m34-5g-drfone-by-drfone-virtual-android/"><u>Thinking About Changing Your Netflix Region Without a VPN On Samsung Galaxy M34 5G? | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-and-solutions-for-windows-resource-protection-failures/"><u>Troubleshooting and Solutions for Windows Resource Protection Failures</u></a></li>
-<li><a href="https://fox-links.techidaily.com/true-color-equalizer/"><u>True Color Equalizer</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/unlock-full-potential-smooth-zooming-techniques-on-ios-devices/"><u>Unlock Full Potential: Smooth Zooming Techniques on iOS Devices</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-next-level-techniques-outperforming-fbx-recording/"><u>[New] Next-Level Techniques Outperforming FBX Recording</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-perfect-your-gif-game-on-windows-nine-best-capture-software/"><u>[New] Perfect Your GIF Game on Windows Nine Best Capture Software</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-infinix-hot-40i-drfone-by-drfone-virtual-android/"><u>4 solution to get rid of pokemon fail to detect location On Infinix Hot 40i | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/affordable-travel-companion-how-this-low-cost-power-station-enhanced-my-road-trips-according-to-zdnet-analysis/"><u>Affordable Travel Companion: How This Low-Cost Power Station Enhanced My Road Trips, According to ZDNET Analysis</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/an-unforeseen-delight-my-experience-with-the-ring-spotlight-cam-pro-reviewed-by-zdnet/"><u>An Unforeseen Delight: My Experience with the Ring Spotlight Cam Pro Reviewed by ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/battery-life/"><u>Battery Life</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/beat-the-heat-with-sonys-top-rated-travel-tunes-in-depth-analysis-of-their-newest-portable-audio-marvels/"><u>Beat the Heat with Sony's Top-Rated Travel Tunes: In-Depth Analysis of Their Newest Portable Audio Marvels</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/breaking-down-language-barriers-with-chatgpts-intuitive-design/"><u>Breaking Down Language Barriers with ChatGPT's Intuitive Design</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discover-the-best-easy-to-assemble-inflatable-pool-models-of-2022-a-curated-list-of-top-choices-for-hassle-free-fun/"><u>Discover the Best Easy-to-Assemble Inflatable Pool Models of 2022: A Curated List of Top Choices for Hassle-Free Fun</u></a></li>
+<li><a href="https://techidaily.com/how-to-hard-reset-realme-c67-4g-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Realme C67 4G Without Password | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-reset-the-security-questions-of-your-apple-id-from-your-apple-iphone-11-pro-max-by-drfone-ios/"><u>How To Reset the Security Questions of Your Apple ID From Your Apple iPhone 11 Pro Max</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-realme-10t-5g-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Realme 10T 5G to Other Android Devices? | Dr.fone</u></a></li>
+<li><a href="https://discover-exclusive.techidaily.com/tackling-large-dropbox-items-on-your-mac-a-guide-to-freeing-up-space/"><u>Tackling Large Dropbox Items on Your Mac - A Guide to Freeing Up Space</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-rated-portable-solar-power-banks-featured-on-zdnet/"><u>Top-Rated Portable Solar Power Banks - Featured on ZDNet</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-guide-eliminating-pc-crashes-while-playing-hearthstone/"><u>Troubleshooting Guide: Eliminating PC Crashes While Playing Hearthstone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unmissable-way-day-promotions-top-deals-and-discounts-in-stock/"><u>Unmissable Way Day Promotions - Top Deals & Discounts in Stock!</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/zdnet-uncovers-the-remarkable-performance-of-the-ring-spotlight-cam-pro-in-advanced-security-solutions/"><u>ZDNet Uncovers the Remarkable Performance of the Ring Spotlight Cam Pro in Advanced Security Solutions</u></a></li>
 </ul></div>
 

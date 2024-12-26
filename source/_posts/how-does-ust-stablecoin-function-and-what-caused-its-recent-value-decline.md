@@ -1,7 +1,7 @@
 ---
 title: How Does UST Stablecoin Function, and What Caused Its Recent Value Decline?
-date: 2024-08-30T13:09:33.302Z
-updated: 2024-08-31T13:09:33.302Z
+date: 2024-12-24T17:01:25.662Z
+updated: 2024-12-25T17:50:07.879Z
 tags:
   - cutting-edge
 categories:
@@ -11,6 +11,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022
 
 ## How Does UST Stablecoin Function, and What Caused Its Recent Value Decline?
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Quick Links
 
 * [Two Types of Stablecoins](https://sim-unlock.techidaily.com/how-to-unlock-sim-cards-of-lenovo-thinkphone-without-puk-codes-by-drfone-android/)
@@ -18,6 +22,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022
 * [The Rubber Meets the Road](https://some-knowledge.techidaily.com/updated-gripping-phrase-generator-device/)
 
  The world's largest algorithmic stablecoin is in the spotlight for all the wrong reasons. TerraUSD (UST) was designed to track the value of the US dollar, but its value suddenly dropped in May 2022\. What happened?
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Two Types of Stablecoins
 
@@ -28,8 +36,9 @@ Related: [What Is a Stablecoin?](https://tech-savvy.techidaily.com/machine-brain
  Algorithmic stablecoins are a newer type of stablecoin. Instead of using a reserve of assets, algorithmic stablecoins use [smart contracts](https://extra-information.techidaily.com/in-2024-automated-opener-your-srt-files-windows-and-mac/) to maintain their "peg" to the dollar. One of the best examples of an algorithmic stablecoin is [TerraUSD](https://www.terra.money/) (UST).
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  How UST Works
 
  UST is the stablecoin on the [Terra blockchain](https://www.terra.money/). It attempts to hold its value to one U.S. dollar through a process known as arbitrage. Rather than keeping a reserve of money, UST uses LUNA, the native [cryptocurrency](https://sim-unlock.techidaily.com/in-2024-top-11-free-apps-to-check-imei-on-itel-p40plus-phones-by-drfone-android/) of the Terra blockchain to maintain its one-dollar price.
@@ -41,9 +50,9 @@ Related: [What Is a Stablecoin?](https://tech-savvy.techidaily.com/machine-brain
  The dynamic between UST and LUNA is most important. If no one wants to exchange their LUNA or UST when prices are out of balance then the stability of UST is at risk. Without UST being worth one dollar then the LUNA coin becomes less attractive to hold as well.
 
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  The Rubber Meets the Road
 
  This exact scenario played out in early May 2022\. On May 9, 2022, UST's price [plummeted](https://www.cnbc.com/2022/05/10/bitcoin-btc-investors-panic-as-terrausd-ust-sinks-below-1-peg.html) to as low as $0.68\. The decrease came as the result of a broader market sell-off in all cryptocurrencies. Investors didn't want LUNA or UST. LUNA dropped by as much as 60% in just a matter of days. This decoupling compromised the algorithm and sent both cryptocurrencies into a nose-dive.
@@ -60,8 +69,6 @@ Related: [What Is a Stablecoin?](https://tech-savvy.techidaily.com/machine-brain
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -69,4 +76,20 @@ Related: [What Is a Stablecoin?](https://tech-savvy.techidaily.com/machine-brain
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/new-addressing-stalled-video-transmission-tips-and-tricks-for-messenger-users-iosandroid-for-2024/"><u>[New] Addressing Stalled Video Transmission Tips and Tricks for Messenger Users iOS/Android for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-from-zero-to-hero-on-instagram-fame-for-2024/"><u>[Updated] From Zero to Hero on Instagram Fame for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/1-unbeatable-chromebook-top-6-benefits-that-make-it-ideal-for-everyone/"><u>1. Unbeatable Chromebook: Top 6 Benefits That Make It Ideal for Everyone</u></a></li>
+<li><a href="https://howto.techidaily.com/8-solutions-to-solve-youtube-app-crashing-on-vivo-x90s-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Solutions to Solve YouTube App Crashing on Vivo X90S | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/access-the-gemini-live-experience-now-tips-and-insights-on-why-you-shouldnt-miss-out-technews/"><u>Access the Gemini Live Experience Now: Tips and Insights on Why You Shouldn't Miss Out | TechNews</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/exceptional-value-in-mobile-tech-rising-star-android-device-beats-the-competition-for-under-200-excluding-samsung/"><u>Exceptional Value in Mobile Tech: Rising Star Android Device Beats the Competition for Under $200 (Excluding Samsung)</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-realme-c33-2023-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Realme C33 2023 in 5 Easy Ways | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-the-updated-method-to-bypass-vivo-y36-frp-by-drfone-android/"><u>In 2024, The Updated Method to Bypass Vivo Y36 FRP</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-three-easy-ways-to-harvest-youtubes-default-iconography/"><u>In 2024, Three Easy Ways to Harvest Youtube's Default Iconography</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-top-notch-avchd-video-editing-software-our-2023-rankings/"><u>New In 2024, Top-Notch AVCHD Video Editing Software Our 2023 Rankings</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/k-the-power-of-referrals-how-to-build-effective-youtube-links/"><u>Unlock the Power of Referrals How to Build Effective YouTube Links</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/zdnets-comprehensive-guide-to-the-framework-chromebook-a-revolution-in-durability-and-upgradability/"><u>ZDNet's Comprehensive Guide to the Framework Chromebook: A Revolution in Durability and Upgradability</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/zdnets-unbiased-review-reveals-stunning-results-exceptional-smart-thermostats-outperforming-ecobee-and-amazon-brands/"><u>ZDNet's Unbiased Review Reveals Stunning Results: Exceptional Smart Thermostats Outperforming Ecobee and Amazon Brands</u></a></li>
+</ul></div>
 

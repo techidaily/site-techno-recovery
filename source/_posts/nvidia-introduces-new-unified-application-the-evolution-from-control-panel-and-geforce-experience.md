@@ -1,7 +1,7 @@
 ---
 title: "Nvidia Introduces New Unified Application: The Evolution From Control Panel & GeForce Experience"
-date: 2024-08-30T13:08:52.907Z
-updated: 2024-08-31T13:08:52.907Z
+date: 2024-12-20T07:40:03.849Z
+updated: 2024-12-25T23:14:38.616Z
 tags:
   - deals
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://thmb.techidaily.com/9b682067d65f5ab52932cb43774adc7ed3c1ad880
 ---
 
 ## Nvidia Introduces New Unified Application: The Evolution From Control Panel & GeForce Experience
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -27,13 +31,18 @@ thumbnail: https://thmb.techidaily.com/9b682067d65f5ab52932cb43774adc7ed3c1ad880
 
 ![NVIDA App Home Screen with tree buttons at the top of the window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/nvida-app-01.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You don’t have to log in if you don’t want to. The only thing you’re missing out on are in-game rewards offered to users. The current reward includes a couple of double XP tokens for _Call of Duty: Modern Warfare III_. The only other situation where you might need to log in is to redeem a game code after purchasing a new graphics card since NVIDIA occasionally bundles free games with certain GPUs.
 
  Aside from the three buttons at the top, the main window shows the currently selected section, with five different sections in total: Home, Drivers, Graphics, Redeem, and Settings.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Five Tabs to Rule Them All
 
  The Home tab lists the latest NVIDIA-related news at the top, a couple of titles from your game library in the middle, and a list of apps you can download from the NVIDIA app at the bottom. These include FrameView, which offers in-depth performance metrics; ICAT, which allows you to take screenshots and compare them side-by-side; [GeForce Now](https://extra-lessons.techidaily.com/smileshop-memelore-hub/) for cloud gaming, and more.
@@ -42,13 +51,6 @@ thumbnail: https://thmb.techidaily.com/9b682067d65f5ab52932cb43774adc7ed3c1ad880
 
 ![NVIDA App Home Tab.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/nvida-app-02.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
-<!-- affiliate ads end -->
  The Drivers tab lists the latest Game Ready or Studio driver available, and you can switch between the two at the top of the window. There are also options to download or reinstall the driver. Below, you can see what's new in the new driver, as well as the most important bug fixes. This info is super handy, allowing users to quickly glance over the two lists and decide whether to install the latest driver or not.
 
 ![Driver section of the NVIDIA app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/nvida-app-03-1.png) 
@@ -58,8 +60,9 @@ No advertising on the website.
 ![NVIDA App Graphics tab showing the global settings options menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/nvida-app-05.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  In a nutshell, the Graphics section combines the [Game Optimization feature of GeForce Experience](https://android-pokemon-go.techidaily.com/how-to-use-pokemon-emerald-master-ball-cheat-on-motorola-moto-g84-5g-drfone-by-drfone-virtual-android/) with most, but not all, driver-level 3D settings found in the NVIDIA Control Panel. This is great because once the app exits beta, we should have a unified visual options menu instead of having to cycle between GeForce Experience and NVIDIA Control Panel.
 
  NVIDIA hasn’t transferred all the options from the Control Panel yet, meaning the two apps will coexist while the NVIDIA app is in beta.
@@ -68,19 +71,17 @@ No advertising on the website.
 
 ![Graphics tab of the new NVIDA app showing games installed on the user's PC and in-game visual options.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/nvida-app-04.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
-<!-- affiliate ads end -->
  Next up is the Redeem portion of the app, containing current in-game reward offers and an interface to redeem games you get when purchasing select NVIDIA GPUs. This is the only part of the NVIDIA app that requires users to sign in with their NVIDIA account. There's not a lot to see here.
 
 ![Redeem section of the NVIDIA app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/nvida-app-06.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
-<!-- affiliate ads end -->
  Finally, we’ve got the Settings tab. This is where you can find details about your computer, enable or disable the NVIDIA in-game overlay, allow the app to automatically download new GPU drivers, turn on desktop notifications that let you know about fresh driver updates, and more. The Settings menu is well-designed and easy to navigate around.
 
 ![Settings Section of the NVIDIA app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/nvida-app-07.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  NVIDIA App vs. GeForce Experience
 
@@ -100,9 +101,6 @@ No advertising on the website.
 
  For what it’s worth, I’ve been using [Sunshine](https://app.lizardbyte.dev/Sunshine/) instead of NVIDIA GameStream for the past month or so, and I can say that Sunshine works as well as GameStream while also supporting AMD and Intel graphics cards. If you’re one of the people using GameStream, I recommend checking out Sunshine sooner rather than later because once the NVIDIA app exits beta and replaces GeForce Experience, you’ll have no other option than switching to Sunshine.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 ##  The NVIDIA In-Game Overlay Has Received a Major Overhaul
 
  The new app also includes a redesign of the NVIDIA in-game overlay. Instead of taking up the whole screen after you open it, the overlay now occupies only the right portion of the display, making it much easier to use and navigate around when in-game.
@@ -115,14 +113,15 @@ No advertising on the website.
 
 ![NVIDIA overlay options menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/nvidia-app-10.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
-<!-- affiliate ads end -->
  The game filters section now includes the RTX Dynamic Vibrance filter, which lets you set the color intensity and saturation in-game. Note that the filter doesn’t work if you have a multiple monitor setup, a bug that should be fixed in a future update.
 
  Lastly, you now have more freedom to tweak the in-game performance stats overlay, such as picking the layout, improving its visibility, and more.
 
 ![Heads up display options menu in the NVIDIA overlay.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/nvida-app-09.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  NVIDIA App and NVIDIA Control Panel Will Coexist for the Time Being
 
@@ -146,8 +145,6 @@ No advertising on the website.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -155,4 +152,26 @@ No advertising on the website.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-in-2024-the-prime-selection-of-tools-for-tiktok-gif-creation/"><u>[New] In 2024, The Prime Selection of Tools for TikTok GIF Creation</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-transforming-shipping-surprises-into-experiences-for-2024/"><u>[Updated] Transforming Shipping Surprises Into Experiences for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/australia-and-singapore-sign-landmark-eco-trade-agreement-a-leap-toward-sustainability/"><u>Australia and Singapore Sign Landmark Eco-Trade Agreement: A Leap Toward Sustainability</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/comment-corriger-la-distorsion-daffichage-dans-le-processus-de-conversion-dvd-vob-en-mp4-avec-handbrake/"><u>Comment Corriger La Distorsion D'Affichage Dans Le Processus De Conversion DVD VOB en MP4 Avec HandBrake?</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-examination-of-the-dell-inspiron-edesktop-3671-a-solid-middle-ground-option/"><u>Comprehensive Examination of the Dell Inspiron eDesktop 3671: A Solid Middle Ground Option</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/enhanced-with-cutting-edge-cookiebot-technology/"><u>Enhanced with Cutting-Edge Cookiebot Technology</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/expert-picks-ultimate-guide-to-the-best-compact-solar-chargers-pcmag/"><u>Expert Picks: Ultimate Guide to the Best Compact Solar Chargers | PCMag</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/hilarious-tricks-and-jokes-to-play-with-your-friends-iphones-and-ipads/"><u>Hilarious Tricks & Jokes to Play with Your Friends' IPhones & iPads</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-after-format-on-a1x-5g-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos from Android Gallery after format on A1x 5G</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/how-to-update-your-mouse-software-on-windows-7-easily/"><u>How to Update Your Mouse Software on Windows 7 Easily</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/leading-smart-home-innovations-of-22024-unveiled-and-scrutinized-the-ultimate-guide-zdnet/"><u>Leading Smart Home Innovations of 2^2024 Unveiled and Scrutinized: The Ultimate Guide | ZDNET</u></a></li>
+<li><a href="https://techtrends.techidaily.com/resolving-chatgpt-content-filters-a-step-by-step-guide/"><u>Resolving ChatGPT Content Filters: A Step-by-Step Guide</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/smart-home-essentials-for-the-modern-household-top-picks-of-2024-featuring-in-depth-analysis-and-expert-opinions-zdnet/"><u>Smart Home Essentials for the Modern Household - Top Picks of 2024, Featuring In-Depth Analysis and Expert Opinions | ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-rated-car-jump-starters-professional-reviews-and-ratings-by-cnet/"><u>Top-Rated Car Jump Starters : Professional Reviews & Ratings by CNET</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-rated-compact-battery-boosters-2024s-ultimate-guide-as-recommended-by-professionals-techreview/"><u>Top-Rated Compact Battery Boosters - 2024'S Ultimate Guide as Recommended by Professionals | TechReview</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-rated-electric-lawn-blower-picks-for-2-gro-2022-zdnet-reviews/"><u>Top-Rated Electric Lawn Blower Picks for 2 Gro 2022 - ZDNet Reviews</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-rated-electric-vehicle-charging-stations-for-homes-professional-picks-techradar/"><u>Top-Rated Electric Vehicle Charging Stations for Homes - Professional Picks | TechRadar</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-rated-rechargeable-power-packs-a-look-at-the-leading-options-techradar/"><u>Top-Rated Rechargeable Power Packs: A Look at the Leading Options - TechRadar</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/tweet-to-tune-video-to-audible-file-for-2024/"><u>Tweet-to-Tune Video to Audible File for 2024</u></a></li>
+</ul></div>
 

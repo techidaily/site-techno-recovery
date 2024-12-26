@@ -1,7 +1,7 @@
 ---
 title: "Guide: Adjusting Folder Display Settings in the MacOS Finder"
-date: 2024-08-30T13:14:11.044Z
-updated: 2024-08-31T13:14:11.044Z
+date: 2024-12-21T00:45:47.243Z
+updated: 2024-12-25T21:30:40.422Z
 categories:
   - BestProducts
 description: "This Article Describes Guide: Adjusting Folder Display Settings in the MacOS Finder"
@@ -14,6 +14,10 @@ thumbnail: https://thmb.techidaily.com/da3a565149456b725f254b5d80c3b1f1c06d74a5f
 
  Instructions in this article apply broadly to all devices that are able to connect to Discord.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Tell If Discord Is Down
 
  If you think the Discord servers are down for everyone, try these steps to check:
@@ -21,14 +25,28 @@ thumbnail: https://thmb.techidaily.com/da3a565149456b725f254b5d80c3b1f1c06d74a5f
 1. Check the[Discord Service Status](https://status.discord.com) page to see if there have been issues.  
 ![Discord server status page](https://www.lifewire.com/thmb/yFSV49MklrykNCgZ93liSe1qZt0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/is-discord-down-or-is-it-just-you-50256951-64f18a956bac488899f2b478d1c286a9.jpg)  
  This page is hosted by Discord, so if there's a significant problem with the service, the information may not be available here.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 2. Search X (formerly Twitter) for #discorddown. Pay attention to when people tweeted about Discord being down. If the tweets are recent, they may have the same issues as you're running into.  
 ![#discorddown hashtag on Twitter](https://www.lifewire.com/thmb/VTkvVzzWtl2q1P78ZIep47rwOBo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/is-discord-down-or-is-it-just-you-50256952-c360b9c4c6d64c2e8214179b37a1931a.jpg)
 3. While you're on X, check Discord's page for any updates on whether the service is down. Discord doesn't often post service information here, but it's worth a quick look.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Discord Twitter account](https://www.lifewire.com/thmb/duH1jCzJjaIdBXNdYvzfWT2dzjk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/is-discord-down-or-is-it-just-you-50256953-0ac75f448e784f739501c218e70589b5.jpg)  
  If you can't open X either, then the problem is likely on your end or with your ISP.
 4. Use a third-party status checker website like[Down For Everyone Or Just Me](https://downforeveryoneorjustme.com/discord) ,[Downdetector](https://downdetector.com/status/discord/) ,[Is It Down Right Now?](https://www.isitdownrightnow.com/discord.com.html) , and[Outage.Report](https://outage.report/discord) .  
 ![Discord Downdetector page](https://www.lifewire.com/thmb/Dkbd1Gn7UxOCVbebPQPG9QuzVpQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/is-discord-down-or-is-it-just-you-50256954-e47fef8c259d4a9d805e652ae722fcbd.jpg)  
  If no one else is having an issue with Discord, then the problem is likely something on your end.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What to Do When You Can't Connect to Discord
 
@@ -47,8 +65,9 @@ thumbnail: https://thmb.techidaily.com/da3a565149456b725f254b5d80c3b1f1c06d74a5f
  If nothing has worked yet, you're probably dealing with an internet issue on your end. Contact your[ISP](https://www.lifewire.com/internet-service-provider-isp-2625924) to request further help.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Discord Error Messages
 
  Discord is a fairly reliable service most of the time but when it has issues, it often displays error messages that explain[why you can't connect](https://www.lifewire.com/fix-it-when-discord-wont-open-5076489) . For example:
@@ -80,8 +99,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -89,4 +106,20 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-tips.techidaily.com/new-ultimate-4k-desktop-screens-full-integration-and-touch/"><u>[New] Ultimate 4K Desktop Screens Full Integration & Touch</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-essential-ps2-emulators-for-ios-devices-for-2024/"><u>[Updated] Essential PS2 Emulators for IOS Devices for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/1-davinci-resolve-guide-mastering-mkv-file-management-and-troubleshooting/"><u>1. DaVinci Resolve Guide: Mastering MKV File Management and Troubleshooting</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/pert-suggestions-to-make-your-yt-shorts-stand-out/"><u>10 Expert Suggestions to Make Your YT Shorts Stand Out</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/comprehensive-handbrake-troubleshooting-overcoming-dvd-title-scanning-failure-hurdle/"><u>Comprehensive HandBrake Troubleshooting: Overcoming 'DVD Title Scanning Failure' Hurdle</u></a></li>
+<li><a href="https://article-helps.techidaily.com/craft-comical-caricatures-using-giphys-kit-for-2024/"><u>Craft Comical Caricatures Using Giphy's Kit for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/dealing-with-non-responsive-microsoft-word-files-tips-and-solutions/"><u>Dealing with Non-Responsive Microsoft Word Files: Tips and Solutions</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/enhancing-accessibility-with-captions-in-your-insta-stories-the-ultimate-how-to/"><u>Enhancing Accessibility with Captions in Your Insta Stories - The Ultimate How-To</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-do-internet-ready-televisions-work-and-why-choose-them/"><u>How Do Internet-Ready Televisions Work and Why Choose Them?</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/lead-acquisition-mastery-using-the-power-of-cookiebot/"><u>Lead Acquisition Mastery Using the Power of Cookiebot</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ordered-odyssey-through-space-the-definitive-way-to-see-all-star-trek-films/"><u>Ordered Odyssey Through Space: The Definitive Way to See All Star Trek Films</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-rumored-apple-personal-automaton-for-homes-unlocking-expected-timeline-of-launch-and-pricing-insights/"><u>The Rumored Apple Personal Automaton for Homes - Unlocking Expected Timeline of Launch & Pricing Insights</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-rated-wireless-router-and-cable-modem-bundles/"><u>Top-Rated Wireless Router & Cable Modem Bundles</u></a></li>
+</ul></div>
 

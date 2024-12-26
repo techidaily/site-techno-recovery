@@ -1,7 +1,7 @@
 ---
 title: Why Are My YouTube Comments Disappearing? Troubleshooting Tips & Solutions
-date: 2024-08-26T06:10:54.166Z
-updated: 2024-08-27T06:10:54.166Z
+date: 2024-12-20T21:47:08.665Z
+updated: 2024-12-26T03:46:15.069Z
 categories:
   - BestProducts
 description: This Article Describes Why Are My YouTube Comments Disappearing? Troubleshooting Tips & Solutions
@@ -13,6 +13,10 @@ thumbnail: https://www.lifewire.com/thmb/_qmg-Jb9D8i0oHyt4h-yyWk6E0g=/400x300/fi
  Mfc42d.dll errors are caused by situations that lead to the removal or corruption of the mfc42d[DLL file](https://www.lifewire.com/what-is-a-dll-file-2625852) , which is the debug version of[mfc42.dll](https://www.lifewire.com/how-to-fix-mfc42-dll-not-found-or-missing-errors-2623635) .  
   
  This error could apply to any program or system that might utilize the file on any of Microsoft's[operating systems](https://www.lifewire.com/operating-systems-2625912) , including[Windows 11](https://www.lifewire.com/windows-11-5188930) ,[Windows 10](https://www.lifewire.com/windows-10-2626217) ,[Windows 8](https://www.lifewire.com/windows-8-2626235) , etc.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Fix Mfc42d.dll Errors
 
@@ -42,14 +46,18 @@ thumbnail: https://www.lifewire.com/thmb/_qmg-Jb9D8i0oHyt4h-yyWk6E0g=/400x300/fi
  All the information on your hard drive will be erased during this step. Make sure you've made the best attempt possible to fix the mfc42d.dll error using a troubleshooting step prior to this one.
 14. [Troubleshoot for a hardware problem](https://www.lifewire.com/fix-a-dll-issue-caused-by-a-hardware-problem-2624493) if any mfc42d.dll errors persist. After a clean Windows installation, your DLL problem can only be hardware related.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Need More Help?
 
  If you're not interested in fixing this problem yourself, see[How Do I Get My Computer Fixed?](https://www.lifewire.com/how-do-i-get-my-computer-fixed-2625167) for a full list of your support options, plus help with everything along the way like figuring out repair costs, getting your files off, choosing a repair service, and a lot more.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Causes of Mfc42d.dll Errors
 
  In some cases, mfc42d.dll errors could indicate a[registry](https://www.lifewire.com/windows-registry-2625992) problem, a virus or malware issue, or even a[hardware](https://www.lifewire.com/computer-hardware-2625895) failure.
@@ -57,8 +65,9 @@ thumbnail: https://www.lifewire.com/thmb/_qmg-Jb9D8i0oHyt4h-yyWk6E0g=/400x300/fi
 ![mfc42d DLL error message in Windows](https://www.lifewire.com/thmb/9-OyBiAFlHzu5wxvtGlgn_zNcpQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/mfc42d-dll-error-message-5af067e543a10300367c0381.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  There are several ways mfc42d.dll errors can show up on your computer. Here are some of the more common error messages you might see:
 
 * **Mfc42d.dll Not Found**
@@ -89,8 +98,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -98,4 +105,24 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/oice-adaptation-solutions-picks-for-video-makers/"><u>[New] Voice Adaptation Solutions Picks for Video Makers</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-master-the-art-of-dialing-down-video-speed-in-snapchat/"><u>[Updated] In 2024, Master the Art of Dialing Down Video Speed in Snapchat</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-learn-to-record-and-save-your-watching-experience-on-youtube-with-zero-costs-for-2024/"><u>[Updated] Learn to Record and Save Your Watching Experience on YouTube with Zero Costs for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-2023-convert-facebook-video-to-mp4-720p1080phd-online-and-free/"><u>2024 Approved 2023 | Convert Facebook Video to MP4 720P/1080p/HD Online and Free?</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ascend-in-your-job-role-top-5-tactics-for-climbing-the-corporate-ladder-successfully-zdnet/"><u>Ascend in Your Job Role: Top 5 Tactics for Climbing the Corporate Ladder Successfully | ZDNet</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1721937046359-explore-the-finest-replacements-for-chatgpt-top-picks-revealed/"><u>Explore the Finest Replacements for ChatGPT - Top Picks Revealed</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/exploring-the-effectiveness-of-windows-defender-in-stopping-virus-setup-a-deep-dive-by-yl-software-professionals/"><u>Exploring the Effectiveness of Windows Defender in Stopping Virus Setup: A Deep Dive by YL Software Professionals</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-mortal-kombat-11-crashes-fast-and-simple-solutions/"><u>Fixing Mortal Kombat 11 Crashes: Fast and Simple Solutions</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/mastering-emotional-awareness-in-the-workplace-the-ultimate-zdnet-strategy/"><u>Mastering Emotional Awareness in the Workplace: The Ultimate ZDNet Strategy</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/mastering-the-art-of-connection-the-introverts-guide-to-networking-insights-from-zdnet/"><u>Mastering the Art of Connection: The Introvert's Guide to Networking - Insights From ZDNet</u></a></li>
+<li><a href="https://common-error.techidaily.com/mastering-the-fix-when-and-how-to-address-improper-pc-boot-problems/"><u>Mastering The Fix: When and How To Address Improper PC Boot Problems</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/mastering-the-hunt-for-remote-coding-roles-insider-strategies-by-zdnet/"><u>Mastering the Hunt for Remote Coding Roles: Insider Strategies by ZDNet</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/my-videos-arent-playing-on-motorola-edge-40-pro-what-can-i-do-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>My Videos Arent Playing on Motorola Edge 40 Pro – What Can I Do? | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-enchantment-of-analytics-data-scientists-unveiled-as-todays-most-attractive-profession-pay-heed-to-their-insights/"><u>The Enchantment of Analytics: Data Scientists Unveiled as Today's Most Attractive Profession - Pay Heed to Their Insights!</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-10-platforms-for-connecting-with-tech-experts-a-guide-by-zdnet/"><u>Top 10 Platforms for Connecting with Tech Experts: A Guide by ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unleashing-potential-continuous-surge-in-high-tech-skill-demand-across-industry-giants-zdnet-insights/"><u>Unleashing Potential: Continuous Surge in High-Tech Skill Demand Across Industry Giants | ZDNet Insights</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/zdnets-expert-tips-on-developing-your-own-coding-portfolio-successfully/"><u>ZDNet’s Expert Tips on Developing Your Own Coding Portfolio Successfully</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Why the Multipurpose MagSafe Charging Dock Has Become an Essential for My Travel Gear: Compatible with QI-Standard Devices"
-date: 2024-12-15T11:51:43.521Z
-updated: 2024-12-17T09:00:30.979Z
+date: 2024-12-24T07:33:49.960Z
+updated: 2024-12-25T20:45:12.794Z
 tags:
   - apple
 categories:
@@ -41,7 +41,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Generative AI for a context-aware Siri
@@ -55,7 +55,7 @@ If Apple can give Siri generative AI, iPhone users could ask the voice assistant
 The biggest challenge for Apple will be running large language models (LLMs) on-device, as one would expect it to do after its long-standing focus on consumer privacy. On-device processing means questions and responses won't have to be sent to remote cloud servers, minimizing data exposure.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Contextual search through image gallery
@@ -69,7 +69,7 @@ Apple already uses AI for facial recognition to create Memories and organize pho
 Other AI upgrades to photo galleries that could benefit smartphone users include finding and suggesting duplicate photos to free up storage, integrating AI voice assistants to search for photos with voice commands, recommending AI enhancements, and applying edits to photos. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Personalized text generation
@@ -81,7 +81,7 @@ ChatGPT became popular for its ability to generate text and have conversations t
 This is another instance where Apple trails behind competitors, as AI text generation is available in the [Google Pixel 8](https://www.kqzyfj.com/click-9041660-15823334-1717160402000?sid=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) and the Samsung [Galaxy S24 lineup](https://shop-links.co/link/?url=https%3A%2F%2Fwww.samsung.com%2Fus%2Fsmartphones%2Fgalaxy-s24%2Fbuy%2Fgalaxy-s24-256gb-unlocked-sm-s921ulbexaa%2F&publisher_slug=itechdaily19598&exclusive=1) of smartphones, as well as Microsoft 365, Gmail, Google Docs, Sheets, and more. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. AI-powered photo and video editing
@@ -126,21 +126,24 @@ It would be surprising to see Apple incorporate AI video features such as real-t
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/n-2024-unveiling-the-world-through-your-lens-how-to-become-a-professional-travel-vlogger/"><u>[New] In 2024, Unveiling the World Through Your Lens How To Become A Professional Travel Vlogger</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-adopting-innovative-approaches-to-elevate-your-fb-campaigns/"><u>[Updated] Adopting Innovative Approaches to Elevate Your FB Campaigns</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-economical-growth-methodology-subscribe-now/"><u>[Updated] In 2024, Economical Growth Methodology - Subscribe Now!</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/easy-steps-to-disable-trackpad-and-mouse-scroll-functions-on-mac-os/"><u>Easy Steps to Disable Trackpad & Mouse Scroll Functions on Mac OS</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/fixing-media-errors-on-windows-platform/"><u>Fixing Media Errors on Windows Platform</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/guide-linking-your-psvr-headset-with-your-computer-a-step-by-step-tutorial/"><u>Guide: Linking Your PSVR Headset with Your Computer - A Step-by-Step Tutorial</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/high-availability-backup-strategies-in-windows-server-versions-2022-2019-2012/"><u>High Availability Backup Strategies in Windows Server Versions (2022, 2019, Ⅶ, 2012)</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/ideal-marketing-havens-for-youtube-videos/"><u>Ideal Marketing Havens for YouTube Videos</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-9-realme-c51-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>In 2024, Top 9 Realme C51 Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/reinstate-precise-sound-in-zoom-chats/"><u>Reinstate Precise Sound in Zoom Chats</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/revoking-sent-messages-learn-how-to-retrieve-sent-emails-in-ms-outlook-easily/"><u>Revoking Sent Messages? Learn How to Retrieve Sent Emails in MS Outlook Easily!</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/step-by-step-guide-combining-your-fortnite-profiles-seamlessly/"><u>Step-by-Step Guide: Combining Your Fortnite Profiles Seamlessly</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/step-by-step-guide-converting-videots-files-to-mp4-on-handbrake/"><u>Step-by-Step Guide: Converting Video_TS Files to MP4 on HandBrake</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/the-ultimate-matrix-movie-marathon-watching-them-in-correct-order-explained/"><u>The Ultimate Matrix Movie Marathon – Watching Them in Correct Order Explained!</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/unlock-your-mobiles-potential-using-native-fm-radio-apps-on-ios-and-android/"><u>Unlock Your Mobile's Potential: Using Native FM Radio Apps on iOS & Android</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/untangling-netflix-issues-effective-ways-to-fix-error-code-ui-800-3/"><u>Untangling Netflix Issues: Effective Ways to Fix Error Code UI-800-3</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-behind-the-scenes-top-tactics-for-consistent-vlogging/"><u>[New] 2024 Approved Behind the Scenes Top Tactics for Consistent Vlogging</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-budget-friendly-pc-screen-recorders/"><u>[Updated] 2024 Approved Budget-Friendly PC Screen Recorders</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-master-the-art-of-live-streaming-old-content-with-facebook-tools/"><u>[Updated] In 2024, Master the Art of Live-Streaming Old Content with Facebook Tools</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/avoid-costs-with-these-superior-verizon-device-upgrades-in-current-month/"><u>Avoid Costs with These Superior Verizon Device Upgrades in [Current Month]</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/elite-selection-ranking-the-worlds-8-best-mobile-game-titles/"><u>Elite Selection: Ranking the World's 8 Best Mobile Game Titles</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/enhancing-call-clarity-silencing-distractions-for-2024/"><u>Enhancing Call Clarity Silencing Distractions for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/experiencing-genuine-dolby-atmos-is-your-setup-up-to-par/"><u>Experiencing Genuine Dolby Atmos: Is Your Setup Up to Par?</u></a></li>
+<li><a href="https://howto.techidaily.com/full-solutions-to-fix-error-code-920-in-google-play-on-itel-p55-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Solutions to Fix Error Code 920 In Google Play on Itel P55 5G | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-with-location-spoofer-on-vivo-y36-drfone-by-drfone-virtual-android/"><u>How To Simulate GPS Movement With Location Spoofer On Vivo Y36? | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-can-i-get-more-stardust-in-pokemon-go-on-motorola-edge-40-drfone-by-drfone-virtual-android/"><u>In 2024, How can I get more stardust in pokemon go On Motorola Edge 40? | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-how-to-fake-gps-on-android-without-mock-location-for-your-tecno-spark-20c-drfone-by-drfone-virtual/"><u>In 2024, How to Fake GPS on Android without Mock Location For your Tecno Spark 20C | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/is-fake-gps-location-spoofer-a-good-choice-on-samsung-galaxy-z-fold-5-drfone-by-drfone-virtual-android/"><u>Is Fake GPS Location Spoofer a Good Choice On Samsung Galaxy Z Fold 5? | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/jiri-voblizka-founder-crystal-microphone-for-his-contribution-to-czech-culture-by-radio-prague/"><u>Jiří Vobližka (Founder) – Crystal Microphone for His Contribution to Czech Culture by Radio Prague</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/revealing-chatgpts-ownership-the-journey-to-microsoft/"><u>Revealing ChatGPT's Ownership - The Journey to Microsoft</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-battle-of-personal-computing-uncovering-the-true-variances-between-mac-and-windows-systems/"><u>The Battle of Personal Computing: Uncovering the True Variances Between Mac and Windows Systems</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-8-best-book-reading-applications-our-ultimate-list/"><u>Top 8 Best Book-Reading Applications : Our Ultimate List</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/top-rated-protective-covers-for-ipad-pro-11-inch-models-in-2-user/"><u>Top-Rated Protective Covers for iPad Pro 11-Inch Models in 2# User</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unveiling-the-mystery-a-complete-guide-to-understanding-telegram/"><u>Unveiling the Mystery: A Complete Guide to Understanding Telegram</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unveiling-the-technology-behind-dts-play-fi-systems/"><u>Unveiling the Technology Behind DTS Play-Fi Systems</u></a></li>
 </ul></div>
 

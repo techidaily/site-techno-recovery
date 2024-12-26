@@ -1,7 +1,7 @@
 ---
 title: "Discover the Unseen MacOS Auto-Complete Trick: A Hidden Gem in Keyboard Customization"
-date: 2024-08-30T13:07:59.452Z
-updated: 2024-08-31T13:07:59.452Z
+date: 2024-12-21T18:34:38.895Z
+updated: 2024-12-25T18:38:49.828Z
 tags:
   - desktop
 categories:
@@ -11,6 +11,10 @@ thumbnail: https://thmb.techidaily.com/c6fb0c53f67d408b9f1a8e71dd93d74b8d8f511c1
 
 ## Discover the Unseen MacOS Auto-Complete Trick: A Hidden Gem in Keyboard Customization
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * Quick Look on macOS allows instant preview of various file types without opening them.
@@ -18,6 +22,10 @@ thumbnail: https://thmb.techidaily.com/c6fb0c53f67d408b9f1a8e71dd93d74b8d8f511c1
 * Enhance Quick Look with extensions like BetterZip Quick Look Generator for compressed files or Peek for more features.
 
  Apple's macOS has plenty of excellent features we all love, but there are several controls or settings many users forget about or simply don't use. One of the most underrated macOS features I use daily is Quick Look. Here's why, what it does, and how to make it even better.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  What is Quick Look on macOS?
 
@@ -28,15 +36,17 @@ thumbnail: https://thmb.techidaily.com/c6fb0c53f67d408b9f1a8e71dd93d74b8d8f511c1
  Even on the most powerful Mac machines, Quick Look is the easiest and quickest way to view content.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  How to Use Quick Look
 
 ![A MacBook air on a wooden table.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/a-macbook-air-under-a-wooden-table.jpg) 
 
 <!-- affiliate ads begin -->
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Zarif Ali / How-To Geek
 
  Quick Look might sound insignificant, but it's criminally overlooked and one of the best macOS features. To use it, select one or more items and **tap the space bar**. It's that easy!
@@ -48,15 +58,13 @@ Zarif Ali / How-To Geek
  Better yet, Quick Look isn't just for viewing content from your desktop, finder windows, or emails; you can also edit them on the fly. Select a photo, tap the space bar to launch Quick Look, and at the top of the window, you'll see options to rotate or resize the image. You'll get similar options to trim audio and video clips, use Markup, share to email or text, and more. This one tool does all that.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Making Quick Look Even Better
 
 ![An iMac with the Preview app logo in the center of the screen and icons illustrating some of its functions.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/an-imac-with-the-preview-app-logo-in-the-center-of-the-screen-and-icons-illustrating-some-of-its-functions.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Lucas Gouveia / How-To Geek | Apple | [SGM](https://www.shutterstock.com/image-photo/london-september-17-apple-imac-new-218552500) / Shutterstock
 
  Quick Look is extremely versatile and impressive on its own. You can also get extensions that make it more useful or combine it with the macOS Preview feature to do even more.
@@ -75,8 +83,6 @@ Lucas Gouveia / How-To Geek | Apple | [SGM](https://www.shutterstock.com/image-p
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -84,4 +90,19 @@ Lucas Gouveia / How-To Geek | Apple | [SGM](https://www.shutterstock.com/image-p
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-terras-treasures-selecting-the-top-mapping-games/"><u>[New] Terra's Treasures Selecting the Top Mapping Games</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-mastering-iphone-autofocusing-a-guide-for-users/"><u>[Updated] In 2024, Mastering iPhone Autofocusing A Guide for Users</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/cutting-edge-techniques-for-social-dominance/"><u>Cutting-Edge Techniques for Social Dominance</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/google-wallet-enhances-wear-os-support-access-starbucks-and-cvs-rewards-on-your-watch/"><u>Google Wallet Enhances Wear OS Support - Access Starbucks & CVS Rewards on Your Watch!</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-a-stepwise-approach-for-effective-periscope-video-storage/"><u>In 2024, A Stepwise Approach for Effective Periscope Video Storage</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/leading-network-enclosures-and-server-racks-of-2024-in-depth-review/"><u>Leading Network Enclosures and Server Racks of 2024 – In-Depth Review</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mastering-chatgpt-tips-and-tricks-for-handling-multiple-conversations-using-dedicated-folders/"><u>Mastering ChatGPT: Tips and Tricks for Handling Multiple Conversations Using Dedicated Folders</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/revitalize-moms-business-with-a-quick-social-media-move-a-success-tale-zdnet/"><u>Revitalize Mom's Business with a Quick Social Media Move: A Success Tale | ZDNET</u></a></li>
+<li><a href="https://howto.techidaily.com/simple-solutions-to-fix-android-systemui-has-stopped-error-for-honor-100-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Simple Solutions to Fix Android SystemUI Has Stopped Error For Honor 100 | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/the-creators-guide-to-the-top-9-affordable-video-editing-apps-for-2024/"><u>The Creator's Guide to the Top 9 Affordable Video Editing Apps for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-ultimate-guide-to-locking-in-student-pricing-for-prime-membership-pre-prime-day-dont-miss-out-start-saving-today/"><u>The Ultimate Guide to Locking in Student Pricing for Prime Membership Pre-Prime Day – Don't Miss Out, Start Saving Today!</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-5-strategies-maximizing-your-savings-with-google-during-the-festive-season-insights-from-zdnet/"><u>Top 5 Strategies: Maximizing Your Savings with Google During the Festive Season - Insights From ZDNet</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Common iPhone Autofocus Problems & Easy Fixes for Better Photography
-date: 2024-08-30T13:13:33.182Z
-updated: 2024-08-31T13:13:33.182Z
+date: 2024-12-19T17:53:41.841Z
+updated: 2024-12-26T06:39:40.652Z
 categories:
   - BestProducts
 description: This Article Describes Common iPhone Autofocus Problems & Easy Fixes for Better Photography
@@ -17,6 +17,10 @@ Close
 
 Information in this article applies to iPhone 6 and later.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Reasons Why Your iPhone Camera Won't Focus 
 
  While a misbehaving iPhone camera can cause panic, there are often innocent explanations for why it's not focusing. Common culprits include:
@@ -27,6 +31,10 @@ Information in this article applies to iPhone 6 and later.
 * An overdue iOS update
 
  Usually, the cause of the problem is revealed through its corresponding fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  How to Fix an iPhone Camera That Won't Focus 
 
@@ -41,6 +49,11 @@ Information in this article applies to iPhone 6 and later.
 4. [ Turn off AE/AF Lock](https://www.lifewire.com/what-is-af-lock-492613) . AE/AF stands for Auto Exposure and Auto Focus. When this setting is locked, the iPhone camera keeps the targeted part of the shot in focus. To use this feature, frame the image, then press and hold the part of the shot where you want the camera to focus.  
 ![The AE/AF Lock mode enabled and disabled in the iOS Camera app](https://www.lifewire.com/thmb/Pz0Xoj-Kqyi_X8mz-8cQfz9s_oE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_iphone-camera-wont-focus-4177598-d878c9952ca44a76a31b9995883c6a65.jpg)  
  The camera keeps the object in focus even if something else enters the shot later. To turn it off, tap the screen.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. [ Practice good photography](https://www.lifewire.com/how-to-use-iphone-camera-1999752) . Sometimes, focusing issues arise because of the way you use the iPhone camera. Avoid taking photos of subjects that are too close to the iPhone. Also, don't change the distance from the subject, move around, or shake the phone. These actions make it hard for the iPhone camera to focus properly.
 6. [ Update iOS](https://www.lifewire.com/upgrade-ios-on-iphone-connecting-itunes-1999188) . Sometimes, focus problems arise from software glitches. One way to resolve these problems is to update to the latest available version of iOS.
 7. [ Force-close the Camera app](https://www.lifewire.com/quit-apps-on-iphone-2000287) . Sometimes closing the Camera app and then restarting it can fix software bugs and glitches.
@@ -71,8 +84,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -80,8 +91,20 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-techniques.techidaily.com/new-game-on-android-a-deep-dive-into-kinemaster-features/"><u>[New] Game On Android A Deep Dive Into KineMaster Features</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-in-2024-into-virtual-realms-assessing-current-progress-future-hurdles/"><u>[Updated] In 2024, Into Virtual Realms Assessing Current Progress, Future Hurdles</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-the-ultimate-recorders-companion-for-clear-notes/"><u>[Updated] In 2024, The Ultimate Recorder's Companion for Clear Notes</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/easy-troubleshooting-with-a-quick-restart-on-any-version-of-ipad/"><u>Easy Troubleshooting with a Quick Restart on Any Version of iPad</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/enhance-your-mobile-editing-techniques-how-to-utilize-iphones-photo-cutout-in-ios-16/"><u>Enhance Your Mobile Editing Techniques: How to Utilize iPhone's Photo Cutout in iOS 16</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/error-free-searching-on-windows-11-a-comprehensive-troubleshooting-guide/"><u>Error-Free Searching on Windows 11: A Comprehensive Troubleshooting Guide</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/how-to-convert-wmv-files-into-mp4-format-for-free-using-an-online-tool-or-windows-11/"><u>How to Convert WMV Files Into MP4 Format for Free Using an Online Tool or Windows 11</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/master-the-art-of-uninstalling-check-out-our-picks-for-free-tools-the-first-15/"><u>Master the Art of Uninstalling: Check Out Our Picks for Free Tools – The First 15!</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/roku-tv-tips-and-hacks-for-operating-without-a-physical-remote-control/"><u>Roku TV Tips & Hacks for Operating Without a Physical Remote Control</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-lost-messages-back-from-note-30i-by-fonelab-android-recover-messages/"><u>Simple ways to get lost messages back from Note 30i</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-ultimate-guide-to-setting-up-window-sandbox/"><u>The Ultimate Guide to Setting up Window Sandbox</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-extract-audio-from-mp4-the-best-mp4-to-mp3-converters-this-year/"><u>Updated Extract Audio From MP4 The Best MP4 to MP3 Converters This Year</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/why-apples-notification-says-youre-climbing-many-stairs-unveiling-the-mystery/"><u>Why Apple's Notification Says You're Climbing Many Stairs – Unveiling the Mystery</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->

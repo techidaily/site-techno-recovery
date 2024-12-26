@@ -1,7 +1,7 @@
 ---
 title: "Tesla's Latest Automaton: Stay Updated on News, Gossip, Speculated Cost & Launch Details"
-date: 2024-08-30T13:11:55.088Z
-updated: 2024-08-31T13:11:55.088Z
+date: 2024-12-24T02:25:39.729Z
+updated: 2024-12-26T01:38:49.519Z
 categories:
   - BestProducts
 description: "This Article Describes Tesla's Latest Automaton: Stay Updated on News, Gossip, Speculated Cost & Launch Details"
@@ -22,6 +22,10 @@ thumbnail: https://thmb.techidaily.com/570c9f8c489ab7b177e107bb70e943c2e83376fe2
 
  Tesla CEO Elon Musk has confirmed that a humanoid robot called Optimus is under development, intending to eventually be able to do "anything that humans don’t want to do." While it may seem unrealistic, a prototype of the robot has already been unveiled, and[ new videos spring up now and then](https://twitter.com/Tesla%5FOptimus/status/1761450961409573077) showing it off.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  When Will the Tesla Robot Be Released? 
 
  The Tesla Bot was first announced at Tesla's[ AI Day 2021](https://youtu.be/j0z4FweCy4M?t=7514) , and the prototype (what Musk calls their "rough, development robot", pictured below) was revealed at[ AI Day 2022](https://www.youtube.com/watch?v=ODSJsviD%5FSU) . As bizarre as it sounds to have a live-in robot at your disposal to[ perform "repetitive or boring" tasks](https://www.tesla.com/AI) for you, it is a real product the company is working on.
@@ -38,10 +42,6 @@ thumbnail: https://thmb.techidaily.com/570c9f8c489ab7b177e107bb70e943c2e83376fe2
 
  Optimus robots might be ready for purchase in the second half of 2025.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ## Tesla Robot Price Rumors 
 
  At AI Day 2022, Elon Musk said the robot "is expected to cost much less than a car," and went on to guess "probably less than $20,000." He repeated this in a tweet in 2024, claiming that[ Optimus might go for less than half of a car](https://twitter.com/elonmusk/status/1772721827665596690) .
@@ -54,9 +54,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 ![Tesla robot prototype from AI Day 2022](https://www.lifewire.com/thmb/T8JstaCi3YkR_Coa-KhPROvOVc8=/960x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/tesla-robot-prototype-ai-day-2022-8844c7a49ce64db5a0e329320fbedf82.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Tesla
 
 ## Pre-Order Information 
@@ -70,8 +67,9 @@ Tesla
 ![Optimus prototype watering plants](https://www.lifewire.com/thmb/uIEPz_4c4m_YhPIpjo7zZnyXmTc=/960x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/tesla-robot-watering-plants-6a5324d3f3e140eab5f04f1efb979fe0.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Tesla
 
 ![Tesla bot prototype in an office](https://www.lifewire.com/thmb/waGO89GR8PXbR6Olh-NiluwX5QQ=/960x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/tesla-robot-ai-day-2022-75cdc5045df64afe997387430eced454.png) 
@@ -79,6 +77,10 @@ Tesla
 Tesla
 
 ![Tesla robot working in a factory](https://www.lifewire.com/thmb/UCSW2Cm7xw5LM9ax7wlVBTHMTwk=/960x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/tesla-robot-factory-worker-b0ca5da6ba39492696dbd1df74ed209d.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Tesla
 
@@ -105,22 +107,9 @@ Tesla
 [ Do you know how to recognize a robot? ](https://www.lifewire.com/what-is-a-robot-4148364) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
-VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
-
-Key features:
-
-•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
-•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
-•	Visual effects, advanced color correction and trendy Instagram-like filters   
-•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
-•	Non-linear editing: edit several files with simultaneously 
-•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
-•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
-•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
-•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Tesla Robot Specs and Hardware 
 
  To convince someone to buy a human-sized robot that walks on two feet and that could theoretically pick up an adult, you have to sell the idea of friendliness. Musk says it's built so you can "run away from it," and "most likely, overpower it."
@@ -129,10 +118,6 @@ Key features:
 
 ![Tesla Bot specs](https://www.lifewire.com/thmb/NtdINVwssT0E1Y-CU9i3TzPWQLE=/960x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/tesla-bot-specs-d9571c84bdc94cc0a6f226ec0c0caf87.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 Tesla
 
  The last time we heard about its stats, the robot's max speed was said to be 5 MPH, and it stands 5'8" (173 cm) tall, and weighs 125 lb (57 kg), with a 45-pound carrying capacity.
@@ -150,8 +135,9 @@ Tesla
 ![what the tesla robot sees](https://www.lifewire.com/thmb/nLNMZPSsXBPNu3J3q1uuuit0udE=/960x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/tesla-robot-cc14469981ff461da0488bafddd2a485.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Tesla
 
  In fact, other tools used in Tesla cars are also used by this robot, including multi-cam video neural networks, neural net planning, and auto-labeling. Musk says[ the same autopilot/AI team building tech for their cars is also working on Optimus](https://twitter.com/elonmusk/status/1572090491050799107) .
@@ -178,8 +164,6 @@ Tesla
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -187,4 +171,22 @@ Tesla
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-capture-unrooted-android-sounds-4-techniques/"><u>[New] In 2024, Capture Unrooted Android Sounds 4 Techniques</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-unveiling-luts-role-in-image-color-alteration/"><u>[New] In 2024, Unveiling LUTs' Role in Image Color Alteration</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-watermarking-masters-the-leading-tools-reviewed/"><u>2024 Approved Watermarking Masters The Leading Tools Reviewed</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/best-iphones-email-management-solutions-of-2n24/"><u>Best iPhones Email Management Solutions of 2N24</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/budget-friendly-24-inch-dell-display-featuring-freesync-priced-at-99/"><u>Budget-Friendly 24 Inch Dell Display Featuring FreeSync Priced At $99</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/cookiebot-integrated-solutions-drive-traffic-and-engagement-effortlessly/"><u>Cookiebot Integrated Solutions - Drive Traffic and Engagement Effortlessly!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722972769283-csr8510-to-a10-motherboard-driver-issues-find-solutions-for-a-smooth-windows-experience/"><u>CSR8510 to A10 Motherboard Driver Issues? Find Solutions for a Smooth Windows Experience!</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discover-the-leading-8-tv-streaming-subscriptions-dominating-202/"><u>Discover the Leading 8 TV Streaming Subscriptions Dominating 202</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/diy-solutions-for-getting-your-non-responsive-airpods-back-in-action/"><u>DIY Solutions for Getting Your Non-Responsive AirPods Back in Action</u></a></li>
+<li><a href="https://fox-http.techidaily.com/highpoint-artist-toolkit-review/"><u>Highpoint Artist Toolkit Review</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-oppo-find-x6-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Oppo Find X6 to Outlook | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/latest-netgear-device-passwords-guide-updated-july-2024-edition/"><u>Latest NETGEAR Device Passwords Guide: Updated July 2024 Edition</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-guide-to-fixing-the-shell32dll-error-message/"><u>Step-by-Step Guide to Fixing the Shell32.dll Error Message</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-tutorial-on-obtaining-user-guides-for-each-iphone-version/"><u>Step-by-Step Tutorial on Obtaining User Guides for Each iPhone Version</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/twitch-and-two-factor-authentication-protecting-your-stream-easily-with-these-steps/"><u>Twitch and Two-Factor Authentication: Protecting Your Stream Easily With These Steps</u></a></li>
+</ul></div>
 

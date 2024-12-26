@@ -1,7 +1,7 @@
 ---
 title: Effortless Text Message Planning with Your iPhone's Automation Features
-date: 2024-08-26T06:10:50.202Z
-updated: 2024-08-27T06:10:50.202Z
+date: 2024-12-19T16:17:15.379Z
+updated: 2024-12-26T01:16:51.141Z
 categories:
   - BestProducts
 description: This Article Describes Effortless Text Message Planning with Your iPhone's Automation Features
@@ -10,6 +10,11 @@ thumbnail: https://www.lifewire.com/thmb/UyLYVNeUpRddJHQu2GSgcaoSu8A=/400x300/fi
 ---
 
 ## Effortless Text Message Planning with Your iPhone's Automation Features
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### What to Know
 
 * You can use the Shortcuts action to schedule text messages to be sent later and regularly.
@@ -17,6 +22,10 @@ thumbnail: https://www.lifewire.com/thmb/UyLYVNeUpRddJHQu2GSgcaoSu8A=/400x300/fi
 * There are also third-party apps available to let you schedule your text messages in advance.
 
  This article explains how to schedule a text message to send later on your iPhone. Instructions apply to devices running iOS 12 and later.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Schedule a Text on iPhone
 
@@ -36,6 +45,11 @@ thumbnail: https://www.lifewire.com/thmb/UyLYVNeUpRddJHQu2GSgcaoSu8A=/400x300/fi
 4. Select the**Time of Day** option.  
 ![Screenshots of the process to build an automation shortcut to schedule an iMesage.](https://www.lifewire.com/thmb/UfrDRTY-BByYedEzj0Xy95M_7Iw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/01_Automated_iMessage-9da308b8cbcb4bd0b48faa59327bf27b.jpg)
 5. Adjust the time for when you would like to send the message.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. Select**Monthly** in the**Repeat** section and scroll down to adjust the date you want the message sent on. When you're finished, tap**Next** .  
  Scheduling messages in iMessage this way will set up an automatically recurring message to go out on the same date at the same time each month. If you plan for this to be a one-time event, you'll need to go in and delete the automation (or turn it off) once your scheduled message has been sent.
 7. On the next screen, tap**Add Action** .  
@@ -51,8 +65,13 @@ thumbnail: https://www.lifewire.com/thmb/UyLYVNeUpRddJHQu2GSgcaoSu8A=/400x300/fi
 ![Screenshots of the process to build an automation shortcut to schedule an iMessage.](https://www.lifewire.com/thmb/LN8SRiIMnGZrpc4Yz__fGK5CqOc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/03_Automated_iMessage-62945f47ce9d4c58b973075ec45316fb.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Send a Delayed Text on iPhone
 
  If you're trying to send a delayed but non-recurring text message, then downloading a third-party app might be the best option for you. These apps allow you to create and schedule text messages for one-time sends or recurring sends. Some of the top-rated apps in the App Store include:
@@ -65,9 +84,6 @@ thumbnail: https://www.lifewire.com/thmb/UyLYVNeUpRddJHQu2GSgcaoSu8A=/400x300/fi
 
  However, they should work similarly by giving you the option to create and schedule messages to anyone in your contacts list or for whom you have a phone number.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## Can You Schedule an iMessage?
 
  The short answer is no. You cannot use iMessage to schedule a text message to be sent at a later time. However, some workarounds will let you send messages at a future time. Those require using either the Shortcuts app or a third-party application designed specifically for scheduling text messages.
@@ -105,8 +121,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -114,4 +128,26 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/new-recommended-frame-rates-for-professional-slow-motion-videos/"><u>[New] Recommended Frame Rates for Professional Slow-Motion Videos</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-channel-conversion-secrets-yt-vs-igtv-for-2024/"><u>[Updated] Channel Conversion Secrets YT Vs IGTV for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-key-elements-of-successful-youtube-channel-imagery-for-2024/"><u>[Updated] Key Elements of Successful YouTube Channel Imagery for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-maximize-visual-impact-smart-zooming-tricks-in-snapchat/"><u>[Updated] Maximize Visual Impact Smart Zooming Tricks in Snapchat</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/2024-approved-deciphering-the-art-of-reversed-visual-searches-online-fb/"><u>2024 Approved Deciphering the Art of Reversed Visual Searches Online (FB)</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/3-solutions-to-find-your-honor-90-gt-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>3 Solutions to Find Your Honor 90 GT Current Location of a Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/boost-your-productivity-top-10-techniques-for-effective-time-management-in-the-workplace-insights-from-zdnet/"><u>Boost Your Productivity: Top 10 Techniques for Effective Time Management in the Workplace - Insights From ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/breaking-barriers-womens-journey-through-coding-in-predominantly-male-sectors-featuring-insights-by-zdnet/"><u>Breaking Barriers: Women's Journey Through Coding in Predominantly Male Sectors, Featuring Insights by ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/bypassing-pain-points-in-machine-learning-mastery-insightful-tips-from-tech-experts/"><u>Bypassing Pain Points in Machine Learning Mastery - Insightful Tips From Tech Experts</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/comment-retrouver-vos-fichiers-et-photographies-largement-partages-sur-dropbox/"><u>Comment Retrouver Vos Fichiers Et Photographies Largement Partagés Sur Dropbox?</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/elevate-your-professional-interactions-with-this-zdnet-blueprint-for-enhanced-emotional-iq/"><u>Elevate Your Professional Interactions with This ZDNET Blueprint for Enhanced Emotional IQ</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-fix-the-steam-cloud-error-in-windows/"><u>How to Fix the Steam Cloud Error in Windows</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/in-2024-avoiding-youtubes-controversial-scrutiny/"><u>In 2024, Avoiding YouTube's Controversial Scrutiny</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-best-10-mock-location-apps-worth-trying-on-xiaomi-redmi-note-12r-drfone-by-drfone-virtual-android/"><u>In 2024, Best 10 Mock Location Apps Worth Trying On Xiaomi Redmi Note 12R | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/mastering-professional-presentations-8-essential-strategies-for-zoom-mastery-tech-innovator/"><u>Mastering Professional Presentations: 8 Essential Strategies for Zoom Mastery | Tech Innovator</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/reviving-it-professionals-strategies-for-combating-job-burnout-with-artificial-intelligence-insights-zdnet/"><u>Reviving IT Professionals: Strategies for Combating Job Burnout with Artificial Intelligence Insights | ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-architects-of-progress-how-ai-experts-are-crafting-our-technological-destiny-zdnet/"><u>The Architects of Progress: How AI Experts Are Crafting Our Technological Destiny | ZDNET</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-technology-job-positions-with-high-demand-insights-from-zdnet/"><u>Top Technology Job Positions With High Demand - Insights From ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/workplace-wisdom-mastering-emotional-intelligence-skills-tips-and-strategies-insights-by-zdnet/"><u>Workplace Wisdom: Mastering Emotional Intelligence Skills (Tips & Strategies) - Insights by ZDNet</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Effortless Vision Tech: Smart Frames Without AR/Social Features - A Basic Camera Suffices"
-date: 2024-08-30T13:10:04.249Z
-updated: 2024-08-31T13:10:04.249Z
+date: 2024-12-23T03:58:18.906Z
+updated: 2024-12-25T17:10:41.708Z
 tags:
   - cutting-edge
 categories:
@@ -11,6 +11,10 @@ thumbnail: https://thmb.techidaily.com/7aca198401046d15f1204860b0acf905dd286e143
 
 ## Effortless Vision Tech: Smart Frames Without AR/Social Features - A Basic Camera Suffices
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * A camera on smart glasses would allow for quick photo taking, especially for parents wanting to be present in the moment.
@@ -18,6 +22,10 @@ thumbnail: https://thmb.techidaily.com/7aca198401046d15f1204860b0acf905dd286e143
 * There is a demand for simple camera glasses from major tech companies like Google, Apple, or Samsung for easy and quick photo-taking.
 
  The concept of "smart glasses" burst into the mainstream with Google Glass in 2013\. Since then, there have been numerous iterations of glasses with augmented reality, heads-up displays, AI, and social media connections. While cool, none of those features give me what I really want: a camera on my face.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Why a Camera on Your Face?
 
@@ -28,15 +36,13 @@ thumbnail: https://thmb.techidaily.com/7aca198401046d15f1204860b0acf905dd286e143
  Speed is another thing to think about. I'm pretty good at launching the camera app quickly and snapping a photo with my phone—Android makes that easy—but there's no question I'd be even faster if the camera was already out and pointed at the subject. All of this is to say a camera on my face would be a handy thing to have in certain situations.
 
 <!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Smart Glasses are Overcomplicated
 
 ![person wearing RayNeo Air 2S glasses](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/07/person-wearing-rayneo-air-2s-glasses.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Tyler Hayes / How-To Geek
 
  Now, I'm fully aware that [smart glasses with cameras exist](https://win-forum.techidaily.com/troubleshooting-guide-freeing-up-space-by-deleting-winlogon-files/). In fact, _most of them_ include cameras. The problem is there's always a lot more going on beyond the camera. I've yet to see an established brand release a pair of glasses with a good camera—and nothing else.
@@ -48,15 +54,17 @@ Tyler Hayes / How-To Geek
  Some of the other top smart glasses available right now include the [XREAL Air](https://facebook-video-recording.techidaily.com/new-in-2024-understanding-the-technicalities-of-fb-360-streaming/)[2](https://facebook-clips.techidaily.com/updated-boosting-your-fb-pages-advanced-ranking-strategies-for-2024/), stuffed with augmented reality and tiny screens, the Razer Anzu, which just has speakers, and the [VITURE Pro XR Glasses](https://some-techniques.techidaily.com/2024-approved-expert-applications-for-video-from-pics/) with the same features as the XREAL. All these glasses are trying to do too much.
 
 <!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Wanted: A Good Pair of Camera Glasses
 
 ![ray-ban stories on table](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/05/ray-ban-stories-2.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 _Cameron Summerson / How-To Geek_
 
  While the aforementioned smart glasses don't appeal to me, I'm not saying they're _bad_. There's a market for all sorts of interesting gadgets—I just wish there was one for simple camera glasses. Even something like Google's failed "Clips" camera would have been so much cooler without all the extra fluff.
@@ -71,8 +79,6 @@ _Cameron Summerson / How-To Geek_
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -80,4 +86,20 @@ _Cameron Summerson / How-To Geek_
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-mastering-fades-in-adobe-audition-basics-for-2024/"><u>[New] Mastering Fades in Adobe Audition Basics for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-how-can-you-make-outstanding-youtube-outro/"><u>[Updated] How Can You Make Outstanding YouTube Outro?</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-unlocking-multi-app-playlists-synchronization-secrets/"><u>2024 Approved Unlocking Multi-App Playlists Synchronization Secrets</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/4-easy-ways-for-your-samsung-galaxy-z-fold-5-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>4 Easy Ways for Your Samsung Galaxy Z Fold 5 Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/explore-enhanced-interaction-on-gemini-free-and-premium-features-from-popular-chatgptplus-now-available-zdnet/"><u>Explore Enhanced Interaction on Gemini: Free and Premium Features From Popular ChatGPT+ Now Available | ZDNET</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/google-enhances-gemini-with-exclusive-chatgpt-features-including-a-complimentary-option-to-elevate-your-experience-tech-digest-insights/"><u>Google Enhances Gemini with Exclusive ChatGPT Features, Including a Complimentary Option to Elevate Your Experience | Tech Digest Insights</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/introducing-note-based-chatbot-technology-with-googles-notebooklm-access-and-benefits-explained-zdnet/"><u>Introducing Note-Based Chatbot Technology with Google's NotebookLM - Access & Benefits Explained | ZDNET</u></a></li>
+<li><a href="https://discover-comparisons.techidaily.com/localiser-et-recuperer-automatiquement-vos-fichiers-de-videos-manquants-sur-mac-windows-et-ios-conseils-doptimisation-pour-google/"><u>Localiser Et Récupérer Automatiquement Vos Fichiers De Vidéos Manquants Sur Mac, Windows Et iOS - Conseils D'Optimisation Pour Google</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/personalizing-touch-settings-in-your-pixel-buds-pro-a-step-by-step-guide-techradar/"><u>Personalizing Touch Settings in Your Pixel Buds Pro: A Step-by-Step Guide - TechRadar</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/premier-virtual-tts-services-a-comprehensive-list-of-online-resources-for-2024/"><u>Premier Virtual TTS Services A Comprehensive List of Online Resources for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolved-fixing-unable-to-connect-issues-with-your-nvidia-graphics-card/"><u>Resolved: Fixing 'Unable to Connect' Issues with Your NVIDIA Graphics Card</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-recommended-google-chrome-add-ons-of-2022-techradar/"><u>Top Recommended Google Chrome Add-Ons of 2022 | TechRadar</u></a></li>
+<li><a href="https://os-tips.techidaily.com/unveiling-hidden-functions-10-amazing-tricks-within-apple-imessage-app/"><u>Unveiling Hidden Functions: 10 Amazing Tricks Within Apple iMessage App</u></a></li>
+</ul></div>
 

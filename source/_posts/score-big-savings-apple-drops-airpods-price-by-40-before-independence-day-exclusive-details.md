@@ -1,7 +1,7 @@
 ---
 title: "Score Big Savings: Apple Drops AirPods Price by $40 Before Independence Day - Exclusive Details"
-date: 2024-12-10T21:12:49.950Z
-updated: 2024-12-17T09:32:16.881Z
+date: 2024-12-20T22:29:39.966Z
+updated: 2024-12-25T22:35:17.281Z
 tags:
   - apple
 categories:
@@ -30,7 +30,7 @@ The second-generation AirPods come with a Lightning charger case. They offer sol
 Buy the AirPods on sale at [Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-AirPods-Charging-Latest-Model%2Fdp%2FB07PXGQC1Q%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C01ab4a9a-af6b-4a8d-9fb6-f2fc597fd05f%7Cdtp&dtb=1) now. You can also check out more [headphone deals](https://www.zdnet.com/article/best-headphone-deals/) and the [top products ZDNET readers bought last month](https://www.zdnet.com/home-and-office/the-25-most-popular-products-zdnet-readers-bought-last-month/).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -62,24 +62,20 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-2024-approved-prime-selection-highest-quality-stands/"><u>[New] 2024 Approved Prime Selection Highest Quality Stands</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-easy-dance-routines-to-follow-with-these-20-country-songs-tiktok/"><u>[Updated] Easy Dance Routines to Follow with These 20 Country Songs (TikTok)</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-maximizing-your-firefox-multitasking-with-ffxp/"><u>[Updated] Maximizing Your Firefox Multitasking with FFXP</u></a></li>
-<li><a href="https://techtrends.techidaily.com/win10-2024/"><u>免費高效Win10畫面錄影解決方案 - 【更新2024】</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/a-breakdown-of-items-that-accompany-your-nintendo-switch-box-set/"><u>A Breakdown of Items That Accompany Your Nintendo Switch Box Set</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/android-anonymity-master-the-art-of-making-your-number-unknown/"><u>Android Anonymity: Master the Art of Making Your Number Unknown</u></a></li>
-<li><a href="https://games-able.techidaily.com/efficiently-manage-games-in-steam-with-disk-management/"><u>Efficiently Manage Games in Steam with Disk Management</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/enhance-your-teamwork-skills-by-integrating-microsoft-teams-innovative-copilot-tool/"><u>Enhance Your Teamwork Skills by Integrating Microsoft Teams' Innovative Copilot Tool</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-sharefake-gps-on-uber-for-apple-iphone-6-plus-drfone-by-drfone-virtual-ios/"><u>How to share/fake gps on Uber for Apple iPhone 6 Plus | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-3-methods-to-mirror-samsung-galaxy-s23plus-to-roku-drfone-by-drfone-android/"><u>In 2024, 3 Methods to Mirror Samsung Galaxy S23+ to Roku | Dr.fone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/nintendo-switch-screen-caps-a-beginners-tutorial-on-snapping-photos-and-videos/"><u>Nintendo Switch Screen Caps: A Beginner's Tutorial on Snapping Photos & Videos</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/step-by-step-guide-activating-slack-alerts-on-the-apple-watch-tips-from-zdnet/"><u>Step-by-Step Guide: Activating Slack Alerts on the Apple Watch - Tips From ZDNet</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/tech-ticklers-entertaining-iphoneipad-pranks-for-a-good-time/"><u>Tech Ticklers: Entertaining iPhone/iPad Pranks for a Good Time</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/the-art-of-iphone-photography-in-the-dark/"><u>The Art of iPhone Photography in the Dark</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/the-evolution-of-communication-inside-google-hangouts/"><u>The Evolution of Communication: Inside Google Hangouts</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/ultimate-tutorial-for-setting-up-fandango-on-your-fire-stick/"><u>Ultimate Tutorial for Setting Up Fandango on Your Fire Stick</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/unveiling-the-mystery-comprehending-google-hangouts-purpose-and-usage/"><u>Unveiling the Mystery: Comprehending Google Hangouts Purpose and Usage</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/vrs-best-immersion-top-ten-titles/"><u>VR's Best Immersion Top Ten Titles</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/where-the-fun-never-stops-top-free-preschool-game-destinations-for-kids/"><u>Where the Fun Never Stops: Top Free Preschool Game Destinations for Kids</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-building-a-powerful-twitter-marketing-strategy/"><u>[Updated] Building a Powerful Twitter Marketing Strategy</u></a></li>
+<li><a href="https://win11.techidaily.com/boosting-productivity-through-strategic-task-management-in-windows-11/"><u>Boosting Productivity Through Strategic Task Management in Windows 11</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/danish-cinematic-classics-enhancing-language-skills/"><u>Danish Cinematic Classics Enhancing Language Skills</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/effective-guide-to-cast-apple-iphone-12-mini-to-macbook-without-hindrance-drfone-by-drfone-ios/"><u>Effective Guide to Cast Apple iPhone 12 mini to MacBook without Hindrance | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-detect-and-stop-mspy-from-spying-on-your-realme-c67-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Detect and Stop mSpy from Spying on Your Realme C67 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-power-of-video-endorsements-in-advertising/"><u>The Power of Video Endorsements in Advertising</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-rated-metal-detectors-industry-experts-picks-featured-on-zdnet/"><u>Top-Rated Metal Detectors - Industry Experts' Picks Featured on ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-rated-outdoor-movie-projectors-comprehensive-reviews-and-comparisons-by-tech-experts/"><u>Top-Rated Outdoor Movie Projectors - Comprehensive Reviews & Comparisons by Tech Experts</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-rated-portable-solar-power-banks-the-ultimate-guide-zdnet-review/"><u>Top-Rated Portable Solar Power Banks - The Ultimate Guide [ZDNet Review]</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ultimate-guide-to-choosing-the-ideal-outdoor-projection-screens-featuring-tested-ratings-from-zdnet/"><u>Ultimate Guide to Choosing the Ideal Outdoor Projection Screens - Featuring Tested Ratings From Zdnet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ultimate-guide-tips-and-tricks-for-throwing-an-unforgettable-labor-day-bash-insights-from-zdnet/"><u>Ultimate Guide: Tips and Tricks for Throwing an Unforgettable Labor Day Bash - Insights From ZDNET</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ultimate-selection-of-premium-2024-gas-grills-ranked-by-consumer-experts-zdnet-insights/"><u>Ultimate Selection of Premium 2024 Gas Grills Ranked by Consumer Experts - ZDNet Insights</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unexpected-excellence-the-d-link-ring-spotlight-cam-pros-superior-home-surveillance-revealed-by-zdnet/"><u>Unexpected Excellence: The D-Link Ring Spotlight Cam Pro's Superior Home Surveillance Revealed by ZDNet</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/unleash-your-potential-with-top-igtv-creators/"><u>Unleash Your Potential with Top IGTV Creators</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/be-shorts-vs-tiktok-which-one-is-better-for-short-videos/"><u>YouTube Shorts Vs. TikTok Which One Is Better for Short Videos</u></a></li>
 </ul></div>
 

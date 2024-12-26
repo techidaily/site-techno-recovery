@@ -1,7 +1,7 @@
 ---
 title: "Apple MacBook Showdown: M3 Vs. M2 - Choosing the Right Powerhouse for Your Needs | ZDNet's Comprehensive Review"
-date: 2024-12-16T13:58:53.986Z
-updated: 2024-12-17T13:37:30.086Z
+date: 2024-12-20T08:08:17.810Z
+updated: 2024-12-26T04:49:43.655Z
 tags:
   - apple
 categories:
@@ -48,16 +48,24 @@ Want a little help deciding? Here's a breakdown of the biggest differences betwe
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  You should buy the M3 MacBook Air if...
 
 Jason Hiner/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  1\. You want the fastest Wi-Fi support available
 
 If you find yourself doing a lot of downloading for work, or you're a gamer, the MacBook Air with M3 features the new [Wi-Fi 6e standard](https://www.zdnet.com/home-and-office/networking/wi-fi-6e-the-future-of-wireless-connectivity-today-with-some-caveats/) that provides faster download speeds and lower latency -- provided you're using a Wi-Fi 6e router, of course. While you might not notice much of a difference for everyday tasks, if you do Wi-Fi-intensive tasks where latency is critical, you'll quickly appreciate the upgrade. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  2\. You use more than one monitor
@@ -69,7 +77,7 @@ One of the biggest advantages of the M3, aside from the purely technical upgrade
 The M3 MacBook Air has [full connectivity](https://www.zdnet.com/article/you-can-use-your-m3-macbook-pro-with-dual-monitors-now-just-like-the-m3-macbook-air/) for two [external monitors](https://www.zdnet.com/home-and-office/smart-office/apple-studio-display-monitor-review/), so if you frequently work with more than one monitor, it's certainly worth upgrading. There is a small catch in that you can only use two external monitors while the laptop lid is closed. So you don't get your laptop's display _and_ two monitors; you just get the monitors.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  3\. You want the absolute best performance
@@ -91,7 +99,7 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  You should buy the M2 MacBook Air if...
@@ -101,10 +109,6 @@ Cliff Joseph/ZDNET
 ###  1\. The $100 price difference means a lot
 
 You don't get too many chances to save money on Apple products, but you have one here by opting for the M2 version of the MacBook Air. With the release of the M3 version. Apple has dropped the M2 MacBook Air's starting price to $999, but that price could drop further later in the year, opening the door for bigger savings. Even though the M2 is slightly older, it's still a perfectly capable laptop that will work fine for most people.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ###  2\. You don't need the latest and greatest features
 
@@ -117,10 +121,6 @@ Will you be mainly using your laptop for web surfing, streaming, listening to mu
 If you were expecting a radical redesign with the latest MacBook, you won't get it from the M3 Air. It looks nearly identical to the M2, and aside from the anodization seal on the midnight color that reduces fingerprints, even the colors aren't anything new. The real changes are on the inside, so if you want something that simply looks like it's the latest thing, you won't get any benefit from picking the M3 over the M2\. 
 
 [Buy the M2 MacBook Air View now at Apple](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-mac%2Fmacbook-air%2F13-inch-m2&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Alternatives to consider
 
@@ -156,20 +156,21 @@ If you were expecting a radical redesign with the latest MacBook, you won't get 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-in-2024-crafting-a-compelling-pitch-products-sponsoring-youtubers/"><u>[New] In 2024, Crafting a Compelling Pitch Products Sponsoring Youtubers</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-user-friendly-guide-iphoneipad-video-submissions/"><u>[New] User-Friendly Guide IPhone/iPad Video Submissions</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-quick-and-easy-comedy-unraveling-ifunnys-meme-magic/"><u>[Updated] Quick & Easy Comedy Unraveling iFunny's Meme Magic</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/updated-what-if-my-tiktok-not-working-on-androidiphonechrome-for-2024/"><u>[Updated] What If My TikTok Not Working on Android/iPhone/Chrome for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/can-you-authentically-enjoy-immersive-dolby-atmos-surround-sound/"><u>Can You Authentically Enjoy Immersive Dolby Atmos Surround Sound?</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/comprehensive-guide-how-to-correct-msvcr71dll-error-on-windows-systems/"><u>Comprehensive Guide: How to Correct MSVCR71.DLL Error on Windows Systems</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/decoding-instagram-insights-into-how-it-works-and-why-people-love-it/"><u>Decoding Instagram: Insights Into How It Works and Why People Love It</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/dive-into-safety-expertly-reviewed-best-water-resistant-smartphone-covers/"><u>Dive Into Safety: Expertly Reviewed Best Water-Resistant Smartphone Covers</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-hidefake-snapchat-location-on-your-google-pixel-8-drfone-by-drfone-virtual-android/"><u>In 2024, How to Hide/Fake Snapchat Location on Your Google Pixel 8 | Dr.fone</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/in-2024-secrets-of-6-video-categories-for-viewer-retention/"><u>In 2024, Secrets of 6 Video Categories for Viewer Retention</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/mastering-quick-fixes-for-malfunctioning-computer-keyboards-tips-and-techniques/"><u>Mastering Quick Fixes for Malfunctioning Computer Keyboards: Tips & Techniques</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/new-in-2024-if-you-are-looking-for-great-1080p-video-editing-softwareyoure-in-the-right-place/"><u>New In 2024, If You Are Looking for Great 1080P Video Editing Software,youre in the Right Place</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/playstation-networks-stability-worldwide-crash-or-just-you-guys/"><u>PlayStation Network's Stability: Worldwide Crash or Just You, Guys?</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/unleash-full-desktop-capabilities-on-your-laptop-using-this-invisible-dock-explore-the-magic-of-zdnets-solution/"><u>Unleash Full Desktop Capabilities on Your Laptop Using This Invisible Dock - Explore the Magic of ZDNET's Solution</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/unveiling-17-exceptional-tools-for-graphic-design-professionals/"><u>Unveiling 17 Exceptional Tools for Graphic Design Professionals</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-craft-professional-tiktoks-mastery-of-numerical-changes/"><u>[New] Craft Professional TikToks Mastery of Numerical Changes</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-the-complete-beginners-roadmap-for-audacity-audio-capture-for-2024/"><u>[New] The Complete Beginner's Roadmap for Audacity Audio Capture for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-heartstrings-harmony-best-music-to-accompany-your-engagement/"><u>2024 Approved Heartstrings Harmony Best Music to Accompany Your Engagement</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/aerial-mastery-reviewed-the-essence-of-gopro-karma-for-2024/"><u>Aerial Mastery Reviewed The Essence of GoPro Karma for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/beyond-clickbait-whats-real-about-instagram-reels/"><u>Beyond Clickbait What's Real About Instagram Reels?</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/discover-the-best-mac-compatible-video-editors-streamlined-superior-quality-no-hassle/"><u>Discover the Best Mac-Compatible Video Editors - Streamlined, Superior Quality, No Hassle!</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discover-the-magic-of-smart-home-with-essential-light-projection-tech-you-might-be-missing/"><u>Discover the Magic of Smart Home with Essential Light Projection Tech You Might Be Missing!</u></a></li>
+<li><a href="https://article-files.techidaily.com/effective-methods-for-stable-windows-11-photos-viewing-for-2024/"><u>Effective Methods for Stable Windows 11 Photos Viewing for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/expert-picks-for-premium-sound-leading-stereo-speakers-review/"><u>Expert Picks for Premium Sound: Leading Stereo Speakers Review</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-newest-epson-wf-3620-driver-update-for-pcs-running-windows-1087-free-download/"><u>Get the Newest Epson WF-3620 Driver Update for PCs Running Windows 10/8/7 - Free Download!</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/legal-counsel-is-essential-to-ensure-that-new-agreements-comply-with-labor-laws-and-protect-workers-rights/"><u>Legal Counsel Is Essential to Ensure that New Agreements Comply with Labor Laws and Protect Workers' Rights.</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/maximize-your-savings-with-the-35-echo-and-blink-combo-for-a-smarter-home-the-ultimate-prime-day-finale/"><u>Maximize Your Savings with the $35 Echo & Blink Combo for a Smarter Home - The Ultimate Prime Day Finale</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/revolutionize-your-home-with-the-latest-tech-marvel-a-smart-speaker-that-flawlessly-integrates-alexa-and-google-assistant-services/"><u>Revolutionize Your Home with the Latest Tech Marvel - A Smart Speaker that Flawlessly Integrates Alexa and Google Assistant Services!</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/selecting-your-perfect-alexa-companion-a-comparison-of-echo-pop-and-echo-dot/"><u>Selecting Your Perfect Alexa Companion: A Comparison of Echo Pop and Echo Dot</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/step-by-step-guide-removing-a-windows-11-update-from-your-system/"><u>Step-by-Step Guide: Removing a Windows 11 Update From Your System</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-affordable-soundbar-systems-in-2nite-the-ultimate-2024-guide-by-techradar/"><u>Top Affordable Soundbar Systems in 2Nite: The Ultimate 2024 Guide by TechRadar</u></a></li>
 </ul></div>
 

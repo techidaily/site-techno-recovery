@@ -1,7 +1,7 @@
 ---
 title: Comprehensive Guide to Setting Up and Using Passkeys on Windows 11 Devices
-date: 2024-08-30T13:09:06.374Z
-updated: 2024-08-31T13:09:06.374Z
+date: 2024-12-21T16:31:08.294Z
+updated: 2024-12-26T06:53:27.800Z
 tags:
   - deals
 categories:
@@ -18,6 +18,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 * [How to Create and Save a Passkey to Your Windows 11 PC](https://android-pokemon-go.techidaily.com/in-2024-list-of-pokemon-go-joysticks-on-oppo-a56s-5g-drfone-by-drfone-virtual-android/)
 * [How to Use a Passkey to Sign In to a Site or App](https://facebook-clips.techidaily.com/2024-approved-bring-your-favorite-tunes-to-the-social-network-iphoneandroid/)
 * [How to View and Delete Passkeys on Windows 11](https://instagram-videos.techidaily.com/new-a-step-by-step-tutorial-for-capturing-excellent-igtv-footage/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -51,8 +55,9 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
  You can [find a list of passkey-supported platforms on the Passkeys site](https://www.passkeys.io/who-supports-passkeys).
 
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  How to Create and Save a Passkey to Your Windows 11 PC
 
  To generate and save a passkey, you'll first visit your favorite website or app’s account settings. From there, you’ll create the key and then save it to your PC. In this guide, we’ll demonstrate how to do that with a Google account.
@@ -69,25 +74,24 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 !['Create a Passkey' highlighted on Google My Account site.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/2-google-create-passkey.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
  You’ll see a "Windows Security" prompt. Authenticate yourself using your PIN, facial recognition, or fingerprint scanning.
 
 ![A 'Windows Security' prompt for creating a passkey.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/3-windows-11-passkey-authentication1.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  You’ll see a "Passkey Saved" message confirming a passkey for your Google account was created and saved to your PC. Close the window by selecting "OK."
 
 !['OK' highlighted in the 'Windows Security' prompt.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/4-google-passkey-created1.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  And that’s it. You’ve successfully created a replacement for your Google account password.
 
 <!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  How to Use a Passkey to Sign In to a Site or App
 
  To use a passkey to sign in to a site or app, access that item’s login page and choose passkey instead of password. Here’s how to do that for a Google account.
@@ -100,36 +104,32 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![The 'Email or Phone' field and the 'Next' button highlighted on Google's login page.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/6-enter-google-username1.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
-<!-- affiliate ads end -->
  On the password page, click "Try Another Way" to see alternate options.
 
 !['Try Another Way' highlighted on Google's password page.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/7-choose-another-way1.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Select "Use Your Passkey" to utilize the saved passkey to log in to your account.
 
 !['Use Your Passkey' highlighted on Google's alternate password options.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/8-google-use-passkey1-1.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
-<!-- affiliate ads end -->
  Select "Continue" and Google will trigger the "Windows Security" prompt.
 
 !['Continue' highlighted on Google's passkey usage page.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/9-google-continue-passkey1.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  In the "Windows Security" prompt, select the PIN, facial recognition, or fingerprint scanning authentication method.
 
 ![A 'Windows Security' prompt for signing in to Google with a passkey.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/10-verify-identity1.jpg) 
 
  After you’ve authenticated yourself, you’ll be signed in to your account.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 ##  How to View and Delete Passkeys on Windows 11
 
  If you want to see what passkeys you’ve saved, or you want to delete a specific passkey, use the Settings app.
@@ -139,8 +139,9 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 !['Accounts' and 'Passkey Settings' highlighted in Windows 11 Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/11-windows-11-passkey-settings.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  On the "Passkeys" page, you’ll find a list of saved passkeys. To retrieve a specific passkey, use the search box at the top.
 
 ![The search box and the saved passkeys highlighted in Windows 11 Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/12-view-search-saved-passkeys-windows-11.jpg) 
@@ -165,8 +166,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -174,4 +173,22 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-wave-goodbye-to-costs-with-our-50-free-banners-offer/"><u>[Updated] 2024 Approved Wave Goodbye to Costs with Our 50 Free Banners Offer</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-essential-visual-captures-on-apple-systems-limit-156-characters/"><u>[Updated] Essential Visual Captures on Apple Systems (Limit 156 Characters)</u></a></li>
+<li><a href="https://win11.techidaily.com/eliminating-the-package-unopenable-error-on-win11-10-oses/"><u>Eliminating the 'Package Unopenable' Error on Win11, 10 OSes</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/experts-pick-for-the-most-cost-effective-portable-chargers-of-2024-in-depth-testing-and-analysis-zdnet/"><u>Experts' Pick for the Most Cost-Effective Portable Chargers of 2024: In-Depth Testing and Analysis | ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/experts-top-picks-for-affordable-and-powerful-portable-batteries-of-2024-in-depth-analysis-zdnet/"><u>Experts' Top Picks for Affordable & Powerful Portable Batteries of 2024: In-Depth Analysis | ZDNET</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/exploring-the-latest-innovations-in-smart-home-technology-dive-into-google-nest-learning-thermostats-enhanced-capabilities-technical-details-cost-breakdown-72/"><u>Exploring the Latest Innovations in Smart Home Technology: Dive Into Google Nest Learning Thermostat's Enhanced Capabilities, Technical Details, Cost Breakdown & Extra Insights | TechRadar</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/get-your-hands-on-the-powerful-jackery-explorer-1000-with-a-whopping-250-off-this-black-friday-exclusive-zdnet-scoop-inside/"><u>Get Your Hands on the Powerful Jackery Explorer 1000 with a Whopping $250 Off This Black Friday, Exclusive ZDNET Scoop Inside</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-without-jailbreak-on-samsung-galaxy-f04-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location without Jailbreak On Samsung Galaxy F04 | Dr.fone</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/in-2024-elevating-visuals-the-shift-from-sdr-to-hdr-in-editing/"><u>In 2024, Elevating Visuals The Shift From SDR to HDR in Editing</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-how-to-add-divine-chant-to-smartphone-notifications/"><u>In 2024, How to Add Divine Chant to Smartphone Notifications</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/techs-elite-selection-the-top-10-video-recorders-online/"><u>Tech's Elite Selection The Top 10 Video Recorders Online</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-5-solar-powered-outdoor-lights-expert-review-by-techradar/"><u>Top 5 Solar-Powered Outdoor Lights : Expert Review by TechRadar</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-rated-portable-power-station-reviews-comprehensive-guide-by-tech-experts-zdnet/"><u>Top-Rated Portable Power Station Reviews : Comprehensive Guide by Tech Experts | ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unleash-ultimate-productivity-with-the-zendure-superbase-pro-200-cu-ft-tank-expert-hands-on-test-results-revealed-tech-innovation-today/"><u>Unleash Ultimate Productivity with the Zendure SuperBase Pro 200 Cu Ft Tank: Expert Hands-On Test Results Revealed | Tech Innovation Today</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-in-2024-navigating-the-best-free-browser-based-daw-platforms-for-enhanced-audio-creation-2023-edition/"><u>Updated In 2024, Navigating the Best FREE Browser-Based DAW Platforms for Enhanced Audio Creation - 2023 Edition</u></a></li>
+</ul></div>
 

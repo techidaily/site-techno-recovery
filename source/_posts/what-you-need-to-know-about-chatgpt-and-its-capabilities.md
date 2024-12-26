@@ -1,7 +1,7 @@
 ---
 title: What You Need to Know About ChatGPT and Its Capabilities
-date: 2024-08-30T13:11:33.336Z
-updated: 2024-08-31T13:11:33.336Z
+date: 2024-12-21T17:32:53.125Z
+updated: 2024-12-26T04:03:56.175Z
 categories:
   - BestProducts
 description: This Article Describes What You Need to Know About ChatGPT and Its Capabilities
@@ -25,6 +25,10 @@ Close
 
 ![The interface for ChatGPT](https://www.lifewire.com/thmb/lPeIxrV65phF3f0tENgwD9xMZAc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ChatGPTInterface-95912d3e22404cf0a4ce6b6381d97432.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 OpenAI
 
 ## Who Built This? 
@@ -36,8 +40,9 @@ OpenAI
 [ Who Owns ChatGPT? ](https://www.lifewire.com/who-owns-chatgpt-8659181) 
 
 <!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  When Was ChatGPT Released? 
 
  OpenAI launched ChatGPT on November 30, 2022, but it’s built on earlier generative pre-training (GPT) models that OpenAI has been working on since 2018\. The version released in November 2022 was a prototype intended for training and feedback, which is why OpenAI made it available to the public for free.
@@ -49,8 +54,9 @@ OpenAI
  The most recent version is Chat-GPT 4o, released in May 2024\. This version returns results more quickly (an average of 320 ms, which OpenAI claims is similar to human response time).
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How Does It Impact Me? 
 
  ChatGPT probably won’t have any direct impact on your daily life right away, but artificial intelligence systems like this will have wide-ranging consequences in the future. You can use it in a lot of different ways right now, though. You can ask it questions, have conversations, ask it to assist you in writing emails and other documents, and even find bugs in computer code.
@@ -68,8 +74,9 @@ OpenAI
 [  Microsoft Copilot: What It Is, Where to Find It, and How Much It Costs ](https://www.lifewire.com/what-is-bing-ai-chatbot-7371141) 
 
 <!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How Can I Try It? 
 
  You can try out ChatGPT for yourself at[ ChatGPT's site](https://chat.openai.com/) , but server access is limited for free accounts. If too many people are trying to use it at once, you’ll see an error message and have the opportunity to provide your email address. If you enter your email address, OpenAI will notify you when server congestion is lower.
@@ -85,8 +92,9 @@ OpenAI
 [ How to Use ChatGPT ](https://www.lifewire.com/how-to-use-chatgpt-7197760) 
 
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  What Can I Do With ChatGPT? 
 
  ChatGPT can do a lot of different things, and it will even give you a rundown of its various capabilities if you ask. If you’re excited to get started with ChatGPT, but you aren’t quite sure what to do with it, here are some of its most important capabilities:
@@ -128,8 +136,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -137,4 +143,19 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-how-to-go-live-with-recorded-material-on-the-worlds-largest-social-network/"><u>[New] In 2024, How to Go Live with Recorded Material on the World's Largest Social Network</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-photo-cartoony-kick-cross-platform-windows-and-mac-software/"><u>2024 Approved Photo Cartoony Kick Cross-Platform Windows & Mac Software</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discover-whats-new-in-windows-july-202-comprehensive-update-roundup-for-optimal-performance/"><u>Discover What's New in Windows (July 202#): Comprehensive Update Roundup for Optimal Performance</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/easy-solutions-resolving-vcompdll-file-not-found-mistake/"><u>Easy Solutions: Resolving 'Vcomp.dll' File Not Found Mistake</u></a></li>
+<li><a href="https://win-premium.techidaily.com/effective-techniques-for-refreshing-your-pcs-sound-card-drivers/"><u>Effective Techniques for Refreshing Your PC's Sound Card Drivers</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/from-selfies-to-skies-uncovering-the-intricacies-with-the-dji-spark-for-2024/"><u>From Selfies to Skies Uncovering The Intricacies with the DJI Spark for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-recover-deleted-text-messages-on-any-phone/"><u>How to Recover Deleted Text Messages on Any Phone</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-comprehensive-guide-for-effective-video-capturing/"><u>In 2024, Comprehensive Guide for Effective Video Capturing</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-beginners-guide-to-captivating-instagram-video-audiences/"><u>In 2024, The Beginner's Guide to Captivating Instagram Video Audiences</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/setting-up-microsoft-teams-for-video-calls-on-windows-a-comprehensive-guide/"><u>Setting Up Microsoft Teams for Video Calls on Windows: A Comprehensive Guide</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/troubleshooting-why-your-ipad-refuses-to-print/"><u>Troubleshooting: Why Your iPad Refuses to Print</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/ultimate-fix-for-audio-glitches-in-windows-operating-systems/"><u>Ultimate Fix for Audio Glitches in Windows Operating Systems</u></a></li>
+</ul></div>
 

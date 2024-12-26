@@ -1,7 +1,7 @@
 ---
 title: Reverse Playback Techniques on Snapchat - A Complete Walkthrough
-date: 2024-08-30T13:11:56.563Z
-updated: 2024-08-31T13:11:56.563Z
+date: 2024-12-21T17:33:38.730Z
+updated: 2024-12-25T23:29:36.955Z
 categories:
   - BestProducts
 description: This Article Describes Reverse Playback Techniques on Snapchat - A Complete Walkthrough
@@ -10,6 +10,11 @@ thumbnail: https://www.lifewire.com/thmb/Vg8haOKIRaAUg_-iU1i0KEe9j2c=/540x405/fi
 ---
 
 ## Reverse Playback Techniques on Snapchat - A Complete Walkthrough
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### What to Know
 
 * First, record a new video snap in the Snapchat app. Be sure to keep it under 10 seconds.
@@ -25,8 +30,9 @@ thumbnail: https://www.lifewire.com/thmb/Vg8haOKIRaAUg_-iU1i0KEe9j2c=/540x405/fi
 1. Record a new video snap in the app by tapping and holding the**record** button. Your video must be less than 10 seconds for the reverse filter to be available.  
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Note  
 
  You can apply the reverse filter effect only to videos that you've recorded on Snapchat. You won't be able to reverse video snaps from videos you[uploaded to Snapchat from your device](https://www.lifewire.com/upload-saved-photos-or-videos-to-snapchat-4103878) .
@@ -34,19 +40,22 @@ thumbnail: https://www.lifewire.com/thmb/Vg8haOKIRaAUg_-iU1i0KEe9j2c=/540x405/fi
 ![Steps to take to reverse a video on Snapchat with the record button and Reverse Filter icon highlighted](https://www.lifewire.com/thmb/fC-N-GZHtzhS6HfpjU3plsvT7c4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/123Reversesnapchat-21fd401ccb4347e3ab99f6189284d3a6.jpg)  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Tip  
 
  The reverse video filter is about the eighth filter when swiping to the left. You can find the reverse filter by swiping right through filters, but that will take you longer to get to it. Some filters let you speed up your video snap (**rabbit** filter) or slow it down (**snail** filter).
 3. Optionally, add more effects (text, stickers, drawings, etc.) to your video snap. Tap**Send To** to send it to friends and/or post it to your stories.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## When to Apply the Reverse Filter on Video Snaps
 
  Reversing your video snaps is a fun way to showcase a series of events backward. This filter is often best applied to action-packed videos.
@@ -82,8 +91,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -91,4 +98,18 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/new-in-2024-craft-impressive-images-with-photoshops-radial-distortion-features/"><u>[New] In 2024, Craft Impressive Images with Photoshop's Radial Distortion Features</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-discover-the-secrets-to-customizing-game-sounds-with-our-step-by-step-process-no-charge/"><u>[Updated] 2024 Approved Discover the Secrets to Customizing Game Sounds with Our Step-by-Step Process (No Charge!)</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-tips-and-tricks-for-easily-finding-your-youtube-comments/"><u>[Updated] 2024 Approved Tips & Tricks for Easily Finding Your YouTube Comments</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-srt-file-how-to-open-srt-file-on-windows-or-mac/"><u>[Updated] SRT File How to Open SRT File on Windows or Mac</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/evaluating-the-benefits-of-owning-a-blu-ray-disc-system/"><u>Evaluating the Benefits of Owning a Blu-Ray Disc System</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/expert-advice-on-diagnosing-and-fixing-black-screens-in-active-computers/"><u>Expert Advice on Diagnosing and Fixing Black Screens in Active Computers</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-catch-or-beat-sleeping-snorlax-on-pokemon-go-for-infinix-zero-30-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Catch or Beat Sleeping Snorlax on Pokemon Go For Infinix Zero 30 5G | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/outlook-oops-learn-how-to-restore-unintentionally-deleted-emails-with-these-tips/"><u>Outlook Oops: Learn How to Restore Unintentionally Deleted Emails with These Tips</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-professionals-choice-discover-the-best-5-video-editors-on-the-market/"><u>The Professional's Choice: Discover the Best 5 Video Editors on the Market</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/aled-5-editors-perfect-for-non-youtube-vids/"><u>Unrivaled 5 Editors Perfect for Non-YouTube Vids</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/wireless-wonder-how-to-wirelessly-hook-up-a-speaker-to-your-computer/"><u>Wireless Wonder: How to Wirelessly Hook Up a Speaker to Your Computer</u></a></li>
+</ul></div>
 

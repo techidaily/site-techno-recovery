@@ -1,7 +1,7 @@
 ---
 title: "Plugable USB-C to Dual HDMI Docking Station: A Comprehensive Review and Its Significance for Windows Enthusiasts"
-date: 2024-08-30T13:08:19.337Z
-updated: 2024-08-31T13:08:19.337Z
+date: 2024-12-20T23:31:40.686Z
+updated: 2024-12-26T01:07:34.483Z
 tags:
   - desktop
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://thmb.techidaily.com/3e9db891de75640d42280dabbfbbc511c64f55b10
 ---
 
 ## Plugable USB-C to Dual HDMI Docking Station: A Comprehensive Review and Its Significance for Windows Enthusiasts
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -58,6 +62,10 @@ The Plugable USB-C Dual HDMI Docking Station (UD-MSTH2) is a solid choice for yo
 
 ![The Plugable USB C Dual HDMI Docking Station set up at a desk](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/01/the-plugable-usb-c-dual-hdmi-docking-station-set-up-at-a-desk-1.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Sergio Rodriguez / How-To Geek
 
  If you’re like me, then one of the main benefits of USB-C is being able to run your entire desk with a single cable. Well, Plugable’s dock makes that possible. With the included USB 10Gb/s USB-C to USB-C cable, you can enjoy all the benefits that the dock has to offer. On the back of the dock, you’ll find two USB-A ports, one 2.0 and the other 3.0 5Gbps, gigabit ethernet, and dual HDMI 2.0 ports capable of 4K60 output simultaneously. Of course, there’s also the USB-C port that connects to your host computer and provides 65W charging.
@@ -73,36 +81,33 @@ Sergio Rodriguez / How-To Geek
  It’s worth noting that Plugable recommends this dock to be used with Windows and ChromeOS computers, and not MacBooks, which is a pretty big letdown. I tested the dock with both my Windows laptop and a MacBook Pro, and found that it worked fairly well with the MacBook—you might run into issues with trying to run dual displays here. My M1 Max-powered MacBook Pro was able to drive a 1440p240 monitor at 1440p144 with ease and was still charged at 65W. While I can’t officially say all macOS setups are in the clear here, since Plugable does not officially support macOS, I can say that it does, in fact, function at least in my testing.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  No SD Support Is a Disappointment
 
 ![Ports on the front of the Plugable USB C Dual HDMI Docking Station](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/01/ports-on-the-front-of-the-plugable-usb-c-dual-hdmi-docking-station-2.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
-<!-- affiliate ads end -->
 Sergio Rodriguez / How-To Geek
 
  While macOS support might not be official, it still does work in some scenarios. However, there’s no way to rig an SD slot built into the dock, and that’s a disappointment. As someone who does occasional video and photo work, having native SD support on my devices is a huge benefit these days. Sure, I can use an external USB adapter, but in the quest for a simpler and more fluid setup, I just don’t want to have to deal with that anymore. With other docks in this price range offering both SD and microSD on the front, I really wish Plugable would have gone the extra few steps to build that in for the added convenience it would have offered.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Native Dual 4K60 HDMI Outputs Make This Dock Perfect for Multi-Monitor Setups
 
  If you’re on the Windows or ChromeOS side of things (or have a MacBook and are willing to test), then this dock is perfect for those with multiple monitors. The fact that it can support dual 4K60 output natively without adapters makes it more capable than [Plugable’s Thunderbolt 4 dock](https://iphone-unlock.techidaily.com/in-2024-how-to-fix-auto-lock-greyed-out-on-iphone-12-drfone-by-drfone-ios/) that’s nearly twice the price. And, unlike that more expensive dock, 4K60 matches the price point here. I wouldn’t expect to see 4K120 support on a dock like this, especially not with it being a more bandwidth-constrained USB 5Gb/s uplink connection.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Should You Buy Plugable’s USB-C Dock?
 
 ![The Plugable USB C Dual HDMI Docking Station with the provided cables and its box](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/01/the-plugable-usb-c-dual-hdmi-docking-station-with-the-provided-cables-and-its-box-2.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Sergio Rodriguez / How-To Geek
 
  The [Plugable USB-C Dual HDMI Docking Station](https://www.amazon.com/Plugable-Docking-Delivery-ChromeOS-Ethernet/dp/B0CKJNZRW3?tag=hotoge-20&ascsubtag=UUhtgUeUpU2001541&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fplugable-usb-c-dual-hdmi-docking-station-review%2F&asc%5Fcampaign=Affiliate) comes in at $150 from both Amazon and directly from Plugable. And, well, that’s an expected price with this feature set. It would have been nice to see the likes of SD card slots or official macOS support, but in the $150 range, there’s not much competition that offers 65W charging and dual display outputs. Stepping up another $15 gets you into [Anker’s 13-in-1 dock](https://www.amazon.com/Anker-Docking-PowerExpand-Charging-Ethernet/dp/B088F7SY6S?tag=hotoge-20&ascsubtag=UUhtgUeUpU2001541&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fplugable-usb-c-dual-hdmi-docking-station-review%2F&asc%5Fcampaign=Affiliate) which delivers 65W of charging, dual display outputs (though it’s with one HDMI and one DisplayPort), official macOS support, and both SD and microSD.
@@ -113,9 +118,6 @@ Sergio Rodriguez / How-To Geek
 
 ![Plugable USB-C Dual HDMI Docking Station (UD-MSTH2)](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/plugable-usb-c-dual-hdmi-docking-station-ud-msth2.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 #####  Plugable USB-C Dual HDMI Docking Station (UD-MSTH2)
 
 7/ 10 
@@ -130,8 +132,6 @@ The Plugable USB-C Dual HDMI Docking Station (UD-MSTH2) is a solid choice for yo
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -139,4 +139,21 @@ The Plugable USB-C Dual HDMI Docking Station (UD-MSTH2) is a solid choice for yo
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-knowledge.techidaily.com/new-high-definition-streaming-app-your-ultimate-video-choice-12-channels/"><u>[New] High Definition Streaming App - Your Ultimate Video Choice (12 Channels)</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-top-picks-hilarity-driven-ringtones-for-laughter-lovers/"><u>[New] In 2024, Top Picks Hilarity-Driven Ringtones for Laughter Lovers</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-most-reliable-speech-capture-for-ipads-3-for-2024/"><u>[New] Most Reliable Speech Capture for iPads #3 for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-the-law-of-lyrics-on-instagram-platforms/"><u>[New] The Law of Lyrics on Instagram Platforms</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-chapter-integration-guide-for-youtube-video-creators/"><u>[Updated] Chapter Integration Guide for YouTube Video Creators</u></a></li>
+<li><a href="https://win11.techidaily.com/create-order-in-chaos-master-these-5-advanced-window-folder-tactics/"><u>Create Order in Chaos: Master These 5 Advanced Window Folder Tactics</u></a></li>
+<li><a href="https://driver-download.techidaily.com/effortless-installation-of-sandisk-drivers-on-windows-10-guide-and-free-download/"><u>Effortless Installation of SanDisk Drivers on Windows 10: Guide & Free Download</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-amazon-plans-to-revolutionize-e-commerce-with-an-escrow-functionality-for-bitcoin-payments-insights-from-zdnets-latest-analysis/"><u>How Amazon Plans to Revolutionize E-Commerce with an Escrow Functionality for Bitcoin Payments - Insights From ZDnet's Latest Analysis</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-and-where-to-find-a-shiny-stone-pokemon-for-nokia-c32-drfone-by-drfone-virtual-android/"><u>In 2024, How and Where to Find a Shiny Stone Pokémon For Nokia C32? | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/paytm-downfall-seen-through-the-lens-of-warren-buffetts-unique-indian-investment-insights-from-zdnet/"><u>Paytm Downfall Seen Through the Lens of Warren Buffett's Unique Indian Investment - Insights From ZDNET</u></a></li>
+<li><a href="https://techidaily.com/solving-graphics-card-problems-and-boosting-performance-in-windows/"><u>Solving Graphics Card Problems and Boosting Performance in Windows</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/super-bowl-spots-soar-microsofts-copilot-and-temu-capture-attention-boosting-downloads-zdnet-insights/"><u>Super Bowl Spots Soar: Microsoft's Copilot & Temu Capture Attention, Boosting Downloads | ZDNet Insights</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-no-cost-web-creation-tools-zdnet-review/"><u>Top No-Cost Web Creation Tools - ZDNet Review</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-samsung-offers-in-october-exclusive-prime-day-discounts-you-cant-miss-according-to-zdnet/"><u>Top Samsung Offers in October: Exclusive Prime Day Discounts You Can't Miss - According to ZDNet</u></a></li>
+</ul></div>
 

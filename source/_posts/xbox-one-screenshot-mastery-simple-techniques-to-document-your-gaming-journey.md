@@ -1,7 +1,7 @@
 ---
 title: "Xbox One Screenshot Mastery: Simple Techniques to Document Your Gaming Journey"
-date: 2024-12-15T01:12:20.456Z
-updated: 2024-12-17T14:50:58.029Z
+date: 2024-12-24T07:51:15.171Z
+updated: 2024-12-25T16:14:58.040Z
 categories:
   - BestProducts
 description: "This Article Describes Xbox One Screenshot Mastery: Simple Techniques to Document Your Gaming Journey"
@@ -16,6 +16,10 @@ thumbnail: https://thmb.techidaily.com/57dbc57b52c40c100c33b010fd03c7c914f04eea2
 
 ## Windows 11 Screen Shot Techniques - Learn the Four Key Strategies
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### What to Know
 
 * The**PrtScn** /**PrtSc** button captures the entire screen and saves it to the clipboard.
@@ -25,7 +29,7 @@ thumbnail: https://thmb.techidaily.com/57dbc57b52c40c100c33b010fd03c7c914f04eea2
  This article explains all the different ways to make Windows 11 screenshots.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Use PrtScn to Screenshot the Whole Screen
@@ -39,7 +43,7 @@ thumbnail: https://thmb.techidaily.com/57dbc57b52c40c100c33b010fd03c7c914f04eea2
 [16 Ways To Fix It When Print Screen Is Not Working in Windows](https://www.lifewire.com/fix-print-screen-not-working-5442833)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fullscreen Screenshot and Auto-save to Folder
@@ -53,6 +57,10 @@ thumbnail: https://thmb.techidaily.com/57dbc57b52c40c100c33b010fd03c7c914f04eea2
 ![ Screenshot folder with picture inside on Windows 11.](https://www.lifewire.com/thmb/9JnkOkVNK4-g810E3yMqwhOjIcY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/windows-11-screenshots-615d31976db445bb9f725b510becd850.png)
 
 [How to Screenshot on a Logitech Keyboard](https://www.lifewire.com/take-screenshot-with-logitech-keyboard-5186441)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Screenshot Part of the Screen
 
@@ -69,10 +77,6 @@ thumbnail: https://thmb.techidaily.com/57dbc57b52c40c100c33b010fd03c7c914f04eea2
 
 ![Windows 11 snip tool capturing calculator. ](https://www.lifewire.com/thmb/DxIz1nlXgizX8YqQ1wgTdi_r9eE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/snip-tool-windows-11-30e70f87ddfc45799a2dc78ebd4dc0b0.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  To avoid memorizing this shortcut, you can tie it to the PrtSc button so that when you press it, this same menu shows up automatically. To do this, go to**Settings** \>**Accessibility** \>**Keyboard** , and then turn on**Use the Print screen key to open screen capture** .
 
  After choosing one of those options, the image will be saved to the clipboard, which you can paste into an email or some other program that accepts pasting pictures.
@@ -80,10 +84,6 @@ thumbnail: https://thmb.techidaily.com/57dbc57b52c40c100c33b010fd03c7c914f04eea2
  Or, if you select the prompt that pops up at the bottom of the screen after taking the screenshot, it'll open in Snipping Tool. There are markup tools like a pencil and highlighter. You can also easily crop the screenshot further, print it out, copy text from it, import it into Paint, run it through Bing's reverse image search tool, and save it as a PNG, JPG, or GIF file.
 
 ![A Windows 11 screenshot open in Snipping Tool](https://www.lifewire.com/thmb/n8hloKQGZfQTHNEMKqTmWZC4D_M=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/windows-11-snipping-tool-cfcc4b1e0c154d509e2d312ce4538e4e.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Delayed Screenshots With Snipping Tool
 
@@ -94,7 +94,7 @@ thumbnail: https://thmb.techidaily.com/57dbc57b52c40c100c33b010fd03c7c914f04eea2
  With the program open, select the**stopwatch** . There are three options:**3-second delay** ,**5-second delay** , and**10-second delay** . Select one, choose**New** , and then quickly arrange the screen in the way you need it for the screenshot. When the time you chose is reached, the four options above will display at the top of the screen.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Tips for Taking Screenshots in Windows 11
@@ -143,19 +143,19 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-comparative-content-crusade-analyzing-your-videos-against-others/"><u>[New] In 2024, Comparative Content Crusade Analyzing Your Videos Against Others'</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-in-2024-top-list-of-video-recording-apps-for-iphone/"><u>[New] In 2024, Top List of Video Recording Apps for iPhone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-ultimate-comic-strip-editor/"><u>[New] Ultimate Comic Strip Editor</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/bypass-the-blockade-resetting-your-facebook-password-without-standard-recovery-options/"><u>Bypass the Blockade: Resetting Your Facebook Password without Standard Recovery Options</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/discover-the-latest-12-no-cost-defrag-software-solutions-in-junejuly-2024/"><u>Discover the Latest 12 No-Cost Defrag Software Solutions in June/July 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/discover-the-ultimate-list-the-8-leading-kids-safety-apps-of-2024/"><u>Discover the Ultimate List: The 8 Leading Kids' Safety Apps of 2024</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-fixing-foneazy-mockgo-not-working-on-poco-m6-pro-4g-drfone-by-drfone-virtual-android/"><u>In 2024, Fixing Foneazy MockGo Not Working On Poco M6 Pro 4G | Dr.fone</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/24-upgrade-your-content-presentation-with-top-tier-templates/"><u>In 2024, Upgrade Your Content Presentation with Top-Tier Templates</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/instagram-insights-how-to-know-whos-saved-your-photos-and-stories/"><u>Instagram Insights: How to Know Who’s Saved Your Photos and Stories</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/mastering-xbox-one-step-by-step-screen-capture-guide-for-2024/"><u>Mastering Xbox One Step-by-Step Screen Capture Guide for 2024</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-elevating-your-media-adding-compelling-audio-elements-to-videos/"><u>New Elevating Your Media Adding Compelling Audio Elements to Videos</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/overcoming-device-not-supported-miracast-setup-tips/"><u>Overcoming 'Device Not Supported' - Miracast Setup Tips</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/solving-connection-issues-with-your-stadia-gaming-headset-a-step-by-step-guide/"><u>Solving Connection Issues with Your Stadia Gaming Headset: A Step-by-Step Guide</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/streamlining-soundtracks-a-comprehensive-tutorial-on-how-to-blend-and-unite-spotify-playlists/"><u>Streamlining Soundtracks: A Comprehensive Tutorial on How to Blend and Unite Spotify Playlists</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-instagram-influencer-marketing-5-steps-to-conquer-it/"><u>[New] In 2024, Instagram Influencer Marketing 5 Steps to Conquer It</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-mastering-narratives-the-science-and-art-of-crafting-memorable-fb-stories/"><u>2024 Approved Mastering Narratives The Science and Art of Crafting Memorable FB Stories</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/complete-guide-to-ios-snapshots-and-more/"><u>Complete Guide to iOS Snapshots and More</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discover-the-ultimate-list-of-10-popular-free-email-providers/"><u>Discover the Ultimate List of 10 Popular Free Email Providers</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/exploring-your-options-is-a-blu-ray-player-right-for-you/"><u>Exploring Your Options: Is a Blu-Ray Player Right for You?</u></a></li>
+<li><a href="https://fake-location.techidaily.com/full-guide-to-fix-itoolab-anygo-not-working-on-samsung-galaxy-f15-5g-drfone-by-drfone-virtual-android/"><u>Full Guide to Fix iToolab AnyGO Not Working On Samsung Galaxy F15 5G | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/quick-and-efficient-pc-maintenance-boosting-performance-by-deleting-unnecessary-files-with-bleachbit-tips-from-zdnet/"><u>Quick & Efficient PC Maintenance: Boosting Performance by Deleting Unnecessary Files with BleachBit - Tips From ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/resolving-the-coredll-could-not-be-located-dilemma/"><u>Resolving the 'Core.dll Could Not Be Located' Dilemma</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/samsung-unpacked-ahead-detailed-news-roundup-for-the-upcoming-tech-extravaganza-of-2025/"><u>Samsung Unpacked Ahead: Detailed News Roundup for the Upcoming Tech Extravaganza of 2025</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/simple-tips-locate-individuals-on-facebook-quickly/"><u>Simple Tips: Locate Individuals on Facebook Quickly</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-lost-videos-back-from-reno-11-pro-5g-by-fonelab-android-recover-video/"><u>Simple ways to get lost videos back from Reno 11 Pro 5G</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/step-by-step-instructions-for-modernizing-legacy-scanner-modules-by-yl-tech-experts/"><u>Step-by-Step Instructions for Modernizing Legacy Scanner Modules by YL Tech Experts</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-8-mobile-gaming-apps-you-cant-miss/"><u>Top 8 Mobile Gaming Apps You Can't Miss</u></a></li>
+<li><a href="https://facebook.techidaily.com/your-definitive-guide-to-overcoming-common-social-media-challenges-on-fb/"><u>Your Definitive Guide to Overcoming Common Social Media Challenges on FB</u></a></li>
 </ul></div>
 

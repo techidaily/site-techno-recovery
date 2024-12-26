@@ -1,7 +1,7 @@
 ---
 title: "Revolutionizing Portability: Discover the M4-Enhanced New Mac Mini, Tiny as an Apple TV!"
-date: 2024-12-14T02:40:43.130Z
-updated: 2024-12-17T06:23:33.862Z
+date: 2024-12-24T22:58:53.283Z
+updated: 2024-12-25T16:36:43.434Z
 tags:
   - apple
 categories:
@@ -23,7 +23,7 @@ The ever-evolving, rapidly changing landscape of mobile technology means that wh
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### SPECIAL FEATURE
@@ -35,7 +35,7 @@ This year, five topics will likely dominate the headlines, dictate the next indu
 And that's just the beginning, as you'll find more notable trends in the list below, all of which have already begun to take shape.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. On-device AI puts the 'smart' in smartphone
@@ -51,10 +51,6 @@ Samsung's just-released [Galaxy S24 smartphones](https://www.zdnet.com/article/e
 **Also: [Apple research reveals some dazzling AI tech could be headed to your iPhone](https://www.zdnet.com/article/apple-research-reveals-some-dazzling-ai-tech-headed-to-your-iphone/)**
 
 Qualcomm is playing a major role here as well, with its flagship [Snapdragon 8 Gen 3 chipset](https://www.zdnet.com/article/qualcomms-new-snapdragon-8-gen-3-mobile-chip-brings-generative-ai-to-smartphones/) enabling performance gains across the board on smartphones, from a 20% improvement in CPU, 30% in GPU, and 41% in NPU -- the latter of which is critical for devices to perform generative AI tasks in a power-efficient manner. Expect more flagship [Android phones](https://www.zdnet.com/article/best-android-phone/) this year -- as well as [VR and XR headsets](https://www.zdnet.com/article/best-vr-headset/) \-- to field Qualcomm's new processor, with plenty of AI-enabled capabilities in tow.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Foldables are getting better (and cheaper)
 
@@ -73,7 +69,7 @@ Now that the major players have entered the competition, the big question this y
 But there's hope. Carrier providers, who often discount the latest devices aggressively in exchange for customer loyalty (read: agreement to long-term installment plans), remain a primary source of US smartphone sales. Motorola's [standard Razr model](https://www.zdnet.com/article/this-motorola-is-still-200-off-and-its-surprisingly-capable/), which can be purchased for [as low as $499](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fmotorola-razr-2023-128gb-unlocked-sage-green%2F6557867.p%3F&publisher_slug=itechdaily19598&exclusive=1) at the time of writing, is another sign of good things to come. With that in mind, 2024 is looking to be a promising sequel to foldables' breakout year in 2023.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Qi2 bridges a long-standing gap in charging
@@ -93,7 +89,7 @@ The adoption of such technology bridges a longstanding gap between MagSafe-compa
 **Also: [The best wireless chargers for iPhone and Android phones](https://www.zdnet.com/article/best-wireless-charger/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Periscope lenses push cameras to further distances
@@ -113,6 +109,10 @@ Companies like Samsung have long adopted periscope lenses to improve their camer
 As manufacturers continue to figure out ways to shrink and fit better components within the framework of smartphones, expect better, more capable cameras in 2024 and beyond.
 
 **Also:** [**The evolution of smartphone cameras: From megapixels to AI-driven photography**](https://www.zdnet.com/article/the-evolution-of-smartphone-cameras-from-megapixels-to-ai-driven-photography/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. A new class of mobile devices
 
@@ -168,24 +168,24 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/updated-comprehensive-guide-to-showmores-efficient-recording-tools/"><u>[Updated] Comprehensive Guide to ShowMore's Efficient Recording Tools</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-harnessing-hashtags-for-hitting-video-hotspots-on-fb-for-2024/"><u>[Updated] Harnessing Hashtags for Hitting Video Hotspots on FB for 2024</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-the-key-ingredients-for-successful-instagram-unboxing-reels/"><u>[Updated] The Key Ingredients for Successful Instagram Unboxing Reels</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-efficient-content-curation-multiple-photosvideos-to-instagram-storyboard/"><u>2024 Approved Efficient Content Curation Multiple Photos/Videos to Instagram Storyboard</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/a-complete-walkthrough-for-uninstalling-microsoft-copilot-from-your-windows-11-device/"><u>A Complete Walkthrough for Uninstalling Microsoft Copilot From Your Windows 11 Device</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/all-you-need-to-know-about-the-new-meta-quest-3-lite-price-predictions-launch-dates-and-exciting-rumors/"><u>All You Need to Know About the New Meta Quest 3 Lite - Price Predictions, Launch Dates and Exciting Rumors!</u></a></li>
-<li><a href="https://win-data.techidaily.com/data-resurrection-methods-a-guide-to-restoring-lost-information-on-windows-11-systems/"><u>Data Resurrection Methods: A Guide to Restoring Lost Information on Windows 11 Systems</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/expert-tips-for-initiating-a-safe-mode-restart-on-windows-systems/"><u>Expert Tips for Initiating a Safe Mode Restart on Windows Systems</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/expert-tips-for-solving-game-freezes-dragon-age-origins-and-windows-10-compatibility-issues-fixed/"><u>Expert Tips for Solving Game Freezes: Dragon Age: Origins & Windows 10 Compatibility Issues Fixed!</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/expert-tips-on-troubleshooting-and-repairing-504-timeout-errors/"><u>Expert Tips on Troubleshooting and Repairing 504 Timeout Errors</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/guide-casting-disneyplus-streams-on-your-smart-tv-with-chromecast/"><u>Guide: Casting Disney+ Streams on Your Smart TV with Chromecast</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/how-to-interpret-and-utilize-the-windows-10-battery-report-for-optimal-performance/"><u>How to Interpret and Utilize the Windows 10 Battery Report for Optimal Performance</u></a></li>
-<li><a href="https://techidaily.com/is-your-infinix-zero-30-5g-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Infinix Zero 30 5G working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/mastering-format-changes-a-comprehensive-tutorial-on-transforming-video-and-audio-tracks/"><u>Mastering Format Changes: A Comprehensive Tutorial on Transforming Video and Audio Tracks</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/simple-steps-to-connect-and-stream-with-chromecast-on-fire-stick/"><u>Simple Steps to Connect and Stream with Chromecast on Fire Stick</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/step-by-step-tutorial-for-creating-custom-pictures-with-iphones-new-cutouts-in-ios-16/"><u>Step-by-Step Tutorial for Creating Custom Pictures with iPhone's New Cutouts in iOS 16</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/the-most-useful-tips-for-pokemon-go-ultra-league-on-apple-iphone-13-mini-drfone-by-drfone-virtual-ios/"><u>The Most Useful Tips for Pokemon Go Ultra League On Apple iPhone 13 mini | Dr.fone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/troubleshooting-steps-to-restore-the-missing-d3dx9111dll-file-in-windows/"><u>Troubleshooting Steps to Restore the Missing d3dx9_111.dll File in Windows</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/windows-10xbox/"><u>Windows 10上、Xboxゲームバーは画像記録不可能？解決手段を学ぶ！</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-enhance-your-xiaomi-experience-with-easy-record-screens/"><u>[New] 2024 Approved Enhance Your Xiaomi Experience with Easy Record Screens</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-get-just-the-essentials-from-youtube-videos/"><u>[New] 2024 Approved How to Get Just the Essentials From YouTube Videos</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-techniques-for-realistic-photo-motions-in-illustrator-for-2024/"><u>[New] Techniques for Realistic Photo Motions in Illustrator for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-8-best-5k-monitors-for-you/"><u>[Updated] 8 Best 5K Monitors for You</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-hdr-standards-meeting-or-surpassing-with-aurora-for-2024/"><u>[Updated] HDR Standards Meeting or Surpassing with Aurora for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-transformations-unlocked-the-2-most-effective-ways-to-convert-video/"><u>[Updated] Transformations Unlocked The 2 Most Effective Ways to Convert Video</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/dealing-with-http-error-404-essential-strategies-to-restore-your-content/"><u>Dealing with HTTP Error 404: Essential Strategies to Restore Your Content</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/exploring-the-new-psvr2-insights-into-release-dates-costs-and-hardware-specifications/"><u>Exploring the New PSVR2 - Insights Into Release Dates, Costs, and Hardware Specifications</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/24-guide-free-youtube-downloads-without-programs/"><u>In 2024, Guide Free YouTube Downloads Without Programs</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/mac-dilemmas-decoded-what-to-do-when-applications-refuse-to-start/"><u>Mac Dilemmas Decoded: What To Do When Applications Refuse to Start</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/masterclass-a-deep-dive-into-features-content-and-more-about-netflixs-prime-platform/"><u>Masterclass: A Deep Dive Into Features, Content & More About Netflix's Prime Platform</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/fic-mobile-video-makers-iphone-and-android-for-2024/"><u>Prolific Mobile Video Makers (iPhone & Android) for 2024</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-iphone-xs-max-data-from-ios-itunes-backup-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover iPhone XS Max Data From iOS iTunes Backup | Dr.fone</u></a></li>
+<li><a href="https://win-webmaster.techidaily.com/retrieving-files-after-hard-drive-format-insights-and-solutions-with-yl-software/"><u>Retrieving Files After Hard Drive Format: Insights and Solutions with YL Software</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-instructions-for-executing-tracert-commands-in-windows-environments/"><u>Step-by-Step Instructions for Executing Tracert Commands in Windows Environments</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-instructions-to-become-a-pro-in-playing-royal-match/"><u>Step-by-Step Instructions to Become a Pro in Playing Royal Match</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-comprehensive-guide-to-what-memes-are/"><u>The Comprehensive Guide to What Memes Are</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-ultimate-tips-to-manage-your-online-bandwidth-utilization/"><u>The Ultimate Tips to Manage Your Online Bandwidth Utilization</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/understanding-the-difference-do-we-say-retweet-or-re-tweet/"><u>Understanding the Difference: Do We Say 'Retweet' Or 'Re-Tweet'?</u></a></li>
 </ul></div>
 

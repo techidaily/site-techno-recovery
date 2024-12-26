@@ -1,7 +1,7 @@
 ---
 title: Discover the Most Effective Free Video Chat Substitutes for Skype in 202Ablishing Clear and Realistic Objectives Is Crucial for Effective Budget Management as It Sets the Foundation upon Which All Financial Decisions Are Made
-date: 2024-08-30T13:11:35.862Z
-updated: 2024-08-31T13:11:35.862Z
+date: 2024-12-24T04:15:33.349Z
+updated: 2024-12-25T17:03:12.740Z
 categories:
   - BestProducts
 description: This Article Describes Discover the Most Effective Free Video Chat Substitutes for Skype in 202Ablishing Clear and Realistic Objectives Is Crucial for Effective Budget Management as It Sets the Foundation upon Which All Financial Decisions Are Made
@@ -30,34 +30,30 @@ thumbnail: https://www.lifewire.com/thmb/EOaUURWBdq-iEz37IKrL8wrQdSw=/400x300/fi
 !["cmd" typed into Windows 11 start menu search box](https://www.lifewire.com/thmb/1d41kEyvl2KNY_b_cnc6DgiIehk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/windows-11-cmd-start-menu-a8c1d7d009f64856902c83e8e418563b.png)  
  If you're using the latest version of Windows 11, Command Prompt will open within[Terminal](https://www.lifewire.com/windows-terminal-4779951) .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Some popular Command Prompt commands you might have heard of include[ping](https://www.lifewire.com/ping-command-2618099) ,[netstat](https://www.lifewire.com/netstat-command-2618098) ,[tracert](https://www.lifewire.com/tracert-command-2618101) ,[shutdown](https://www.lifewire.com/shutdown-command-2618100) , and[attrib](https://www.lifewire.com/attrib-command-2625802) , but there are_many_ more. We have a[complete list of Windows Command Prompt commands](https://www.lifewire.com/list-of-command-prompt-commands-4092302) .
 
 <!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Open Command Prompt Through the Start Menu Folder
 
  Another way to open the Windows Command Prompt in Windows 10 is to look in its Start menu folder. Open the**Start menu** , select the**Windows System** folder from the list, and then choose**Command Prompt** from the folder group.
 
 ![Command Prompt menu item in Windows System folder in Start menu on Windows 10](https://www.lifewire.com/thmb/M8TRCTyz0ujUzmDzFZsFJjffiq4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/003_how-to-open-command-prompt-2618089-5c6468a146e0fb0001f25667.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Open Command Prompt Using Power User Menu
 
  One more method is through the[Power User Menu](https://www.lifewire.com/what-is-the-power-user-menu-2625968) . If you're using a keyboard or mouse, choose**Terminal** (Windows 11) or**Command Prompt** (Windows 10) from the menu that appears after pressing**Win** +**X** or right-clicking the**Start** **Menu** .
 
 ![Command Prompt in Windows 10 Power User menu](https://www.lifewire.com/thmb/7_8z-AOur7jJSd6_2bz9Yp2VnDA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004_how-to-open-command-prompt-2618089-5c646ad746e0fb0001dcd81a.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
  You might see PowerShell options in the Power User Menu instead of Command Prompt. In more recent versions of Windows 10, Command Prompt has been replaced by PowerShell, but you can[switch between PowerShell and Command Prompt](https://www.lifewire.com/switch-command-prompt-and-powershell-on-the-win-x-menu-2626247) from the Power User Menu. Terminal is the replacement in Windows 11.
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Open Command Prompt in Windows 8 or 8.1
 
  You'll find Command Prompt in Windows 8 through the Apps screen.
@@ -69,6 +65,10 @@ thumbnail: https://www.lifewire.com/thmb/EOaUURWBdq-iEz37IKrL8wrQdSw=/400x300/fi
 3. Select**Command Prompt** . You can now execute whatever command you needed to run.
 
  See our [list of Windows 8 Command Prompt commands](https://www.lifewire.com/windows-8-command-prompt-commands-4172073) for all of the commands available through Command Prompt in Windows 8, including short descriptions and links to more in-depth information if we have it.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Open Command Prompt in Windows 7, Vista, or XP
 
@@ -82,8 +82,9 @@ thumbnail: https://www.lifewire.com/thmb/EOaUURWBdq-iEz37IKrL8wrQdSw=/400x300/fi
  See our [list of Windows 7 commands](https://www.lifewire.com/list-of-windows-7-command-prompt-commands-4107370) and[list of Windows XP commands](https://www.lifewire.com/windows-xp-commands-4687695) if you need a command reference for any of those versions of Windows.
 
 <!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Other Ways to Open Command Prompt
 
  Command Prompt in Windows 11 through Windows XP can also be opened with a command. This is especially helpful if you like using the Run dialog box or if File Explorer has crashed and the Start menu is inaccessible (and thus the directions above don't work).
@@ -93,8 +94,9 @@ thumbnail: https://www.lifewire.com/thmb/EOaUURWBdq-iEz37IKrL8wrQdSw=/400x300/fi
 ![cmd command in Windows task manager](https://www.lifewire.com/thmb/vmaNGH1y0PVAMe1joTnnpWVqJ-Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/cmd-command-task-manager-da3a31f675de41198c4948fbaff46829.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Elevated Command Prompts and Old Windows Versions
 
  Command Prompt doesn't exist in versions of Windows released before Windows XP, like Windows 98 and Windows 95\. However, the older and very similar MS-DOS Prompt does. This program is located in the Start menu and can be opened with the**command** run command.
@@ -142,8 +144,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -151,4 +151,24 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-telegrams-wonders-for-marketers-beginning-their-journey/"><u>[New] In 2024, Telegram’s Wonders for Marketers Beginning Their Journey</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-digital-dominance-highest-viewed-youtube-videos-today/"><u>[Updated] 2024 Approved Digital Dominance Highest Viewed YouTube Videos Today</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-proven-strategies-for-optimizing-video-content-on-youtube/"><u>[Updated] 2024 Approved Proven Strategies for Optimizing Video Content on YouTube</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-visual-storytelling-and-auditory-art-converting-instagrams-to-songs-for-2024/"><u>[Updated] Visual Storytelling & Auditory Art Converting Instagrams to Songs for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/approved-audio-artists-almanac-your-guide-to-video-submission/"><u>2024 Approved Audio Artists' Almanac Your Guide to Video Submission</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/a-user-friendly-approach-to-address-the-d3dx933dll-file-missing-problem/"><u>A User-Friendly Approach to Address the d3dx9_33.dll File Missing Problem</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/accessing-snapchat-via-pc-tips-and-tricks-for-easy-navigation/"><u>Accessing Snapchat via PC: Tips & Tricks for Easy Navigation</u></a></li>
+<li><a href="https://facebook.techidaily.com/driving-results-with-key-business-meta-tools-and-strategies/"><u>Driving Results with Key Business Meta Tools and Strategies</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/excellence-in-virtual-venue-experience-for-2024/"><u>Excellence in Virtual Venue Experience for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/google-pixel-buds-pro-2-insider-info-on-release-window-price-estimates-and-cutting-edge-specs/"><u>Google Pixel Buds Pro 2: Insider Info on Release Window, Price Estimates & Cutting-Edge Specs!</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/has-pope-francis-embraced-digital-communication-with-emails/"><u>Has Pope Francis Embraced Digital Communication with Emails?</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/portable-gaming-face-off-the-differences-between-nintendos-switch-lite-and-oled-edition/"><u>Portable Gaming Face-Off: The Differences Between Nintendo's Switch Lite and OLED Edition</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/protecting-your-phone-what-you-need-to-know-about-iphone-13-waterproof-ratings/"><u>Protecting Your Phone: What You Need to Know About iPhone 13 Waterproof Ratings</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/solve-your-mss32dll-missing-dilemma-step-by-step-recovery-guide/"><u>Solve Your 'MSS32.DLL Missing' Dilemma: Step-by-Step Recovery Guide</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-ultimate-tutorial-to-implement-google-duet-in-your-gmail-experience/"><u>The Ultimate Tutorial to Implement Google Duet in Your Gmail Experience</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-10-must-watch-culinary-series-streaming-on-netflix/"><u>Top 10 Must-Watch Culinary Series Streaming on Netflix</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/unlocking-the-power-of-smart-lock-a-beginners-guide-for-samsung-galaxy-s23plus-users-by-drfone-android/"><u>Unlocking the Power of Smart Lock A Beginners Guide for Samsung Galaxy S23+ Users</u></a></li>
+</ul></div>
 

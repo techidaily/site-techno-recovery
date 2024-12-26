@@ -1,7 +1,7 @@
 ---
 title: "Quest Headphones and Facebook: How to Break the Connection Easily"
-date: 2024-08-30T13:10:11.481Z
-updated: 2024-08-31T13:10:11.481Z
+date: 2024-12-19T00:16:51.714Z
+updated: 2024-12-26T05:07:12.472Z
 tags:
   - cutting-edge
 categories:
@@ -18,11 +18,19 @@ thumbnail: https://thmb.techidaily.com/04715cc01635128f130003aeefa217d9440724157
 
  Good news: Quest VR headsets don't need Facebook accounts anymore! If you're buying a new Meta Quest (formerly Oculus Quest) VR headset, you don't need a Facebook account to set it up. If you're already using a Facebook account with your headset, you can unlink the two. Here's how.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  What Do I Need to Know?
 
  If you already own the Quest hardware, there's a good chance you're roughly current on what's going on with the platform. If you haven't used your account in some time or you're new to it all, here's a quick summary.
 
 ![31NLGzA5upL._SL500_-38](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/06/31nlgza5upl-_sl500_-38.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #####  Oculus Quest 2
 
@@ -45,23 +53,24 @@ Take gaming to the next level with virtual reality at home or on the go for a gr
  Now it's gone full circle, and however you found yourself in the Meta/Facebook-owned VR ecosystem, you can---[as of August 2022](https://www.oculus.com/blog/meta-accounts/?utm%5Fsource=www.reddit.com&utm%5Fmedium=oculusredirect)\---unlink your Facebook account from the entire thing and use a separate (and social-media free) Meta account all by itself. Here's how.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  How to Unlink Your Quest from Facebook
 
  There are a few hoops you have to jump through to switch over from logging into your Quest hardware with Facebook to logging in with a Meta account. Fortunately, the experience is pretty straightforward.
 
  Before we proceed, you'll have a much faster go of things if you have your Facebook login handy and your Quest hardware charged and updated to the newest firmware.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
-<!-- affiliate ads end -->
 ###  Unlink Facebook and Create a Meta Account
 
  First things first, you need to visit [this meta.com web-based setup page](https://auth.meta.com/websetup/). Login with your Facebook account. (You can also use this workflow to migrate from an Oculus account directly to a Meta account, though that isn't our primary focus.)
 
 ![Meta's login page.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/08/UnlinkMeta1.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You will be directed to Facebook and prompted to accept Meta accessing your Facebook account. Click "Continue as \[Your Name\]"
 
@@ -69,16 +78,10 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
 ![Meta account setup.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/08/UnlinkMeta2.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  If you haven't used (or updated) your Oculus devices in a bit, you may be prompted at this point to update your headsets. If your headset is up to date or you've just updated it, click continue.
 
 ![Click &quot;Continue without Facebook.&quot;](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/08/UnlinkMeta3.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  You'll be prompted to continue the setup of your Meta account by either continuing with or without Facebook. Naturally, they would prefer you set up your Meta account linked to Facebook, but the point of this exercise is to remove the link between your Meta account and your Facebook account---so click "Continue without Facebook."
 
  You'll be prompted to create a new password for your Meta account, as you will no longer be using your Facebook account to authorize access to your Meta account or purchases. A 6-digit security code will be sent to the email address displayed to you earlier.
@@ -94,18 +97,15 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
  You can review and change these settings at any time in the future, so there's little harm in opting for "Solo." Click "Finish," and you're done.
 
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ###  Link Your Headset to Your Meta Account
 
  After you've completed the migration using your web browser of choice, there's one final step. You need to grab your Quest headset and pop it on. In place of the usual virtual lobby you see, you'll instead see a prompt like the one seen below.
 
 ![The code shown on your Quest VR headset.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/08/UnlinkMeta6.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
  Visit [the page on the prompt](https://meta.com/device) and enter the code you see to link the hardware with your Meta account.
 
  Your Quest headset will reboot, and in a few moments, you'll be back in the headset's virtual lobby with everything up to date and a shiny new Meta profile in place of your previous one.
@@ -118,8 +118,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -127,4 +125,18 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/ow-to-make-a-cool-intro-for-youtube-plusfree-templates-for-2024/"><u>[New] How to Make a Cool Intro for YouTube? [+Free Templates] for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-from-script-to-screen-methods-of-inserting-dialogue-into-online-videos/"><u>[Updated] From Script to Screen Methods of Inserting Dialogue Into Online Videos</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-transfer-tactics-for-youtube-to-dailymotion-success/"><u>[Updated] In 2024, Transfer Tactics for YouTube to Dailymotion Success</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/enhance-focus-and-efficiency-with-customized-chrome-startup-pages-top-strategies-revealed/"><u>Enhance Focus and Efficiency with Customized Chrome Startup Pages - Top Strategies Revealed</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/expert-guide-configuring-gmail-notifications-to-catch-every-email-without-fail/"><u>Expert Guide: Configuring Gmail Notifications to Catch Every Email Without Fail</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-access-the-latest-battery-and-memory-saving-updates-in-google-chrome-a-step-by-step-guide/"><u>How to Access the Latest Battery & Memory Saving Updates in Google Chrome - A Step-by-Step Guide</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-hidefake-snapchat-location-on-your-tecno-camon-20-premier-5g-drfone-by-drfone-virtual-android/"><u>How to Hide/Fake Snapchat Location on Your Tecno Camon 20 Premier 5G | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-ultimate-list-10-best-date-counting-clocks-androidios/"><u>In 2024, The Ultimate List 10 Best Date-Counting Clocks Android/iOS</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/in-depth-analysis-of-the-google-pixel-tablet-realizing-the-full-potential-of-android-devices/"><u>In-Depth Analysis of the Google Pixel Tablet - Realizing the Full Potential of Android Devices</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-tecno-spark-go-2023-device-by-drfone-android/"><u>Mastering Android Device Manager The Ultimate Guide to Unlocking Your Tecno Spark Go (2023) Device</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/top-apps-and-online-tools-to-track-vivo-y100t-phone-withwithout-imei-number-by-drfone-android/"><u>Top Apps and Online Tools To Track Vivo Y100t Phone With/Without IMEI Number</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Creating a Bootable Ubuntu Stick with Etcher on Any PC
-date: 2024-08-30T13:07:58.239Z
-updated: 2024-08-31T13:07:58.239Z
+date: 2024-12-20T01:57:24.339Z
+updated: 2024-12-25T20:40:34.299Z
 tags:
   - desktop
 categories:
@@ -26,6 +26,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  You may have heard about Linux and are curious to try it out. Making a bootable Linux USB drive allows you to test different versions of Linux without making any changes to your computer. It's also the easiest way to install most versions of Linux. Balena Etcher makes the process of creating this USB drive a snap, and it runs on almost any computer.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Why Try Linux?
 
  While most computers nowadays run either Windows 10, Windows 11, or macOS, there is another major operating system (OS) out there. This OS is Linux.
@@ -37,9 +41,9 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  Linux has some benefits over the other operating systems. It's flexible and can be easily tweaked by end users, it is open-source (allowing you to directly see the code that it runs if you’d like), and almost every distro is 100% free of charge.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Why Make a Bootable Linux USB drive?
 
  If you’ve been wanting to give Linux a spin or just want a peek at an alternative OS, making a bootable USB drive allows you to do two things:
@@ -49,8 +53,9 @@ First, you can try a Linux distro without installing it over your current operat
 Second, a bootable Linux USB drive is often the simplest and easiest method of installing a Linux distro. Almost every flavor of Linux has [an ISO disk image file](https://article-tips.techidaily.com/2024-approved-optimizing-zoom-meetings-a-guide-to-format-upgrading/) freely available, and these images often include a simple installer app that walks you through the installation process. There are actually [more reasons to make a bootable USB drive](https://hardware-help.techidaily.com/1722977508817-mastering-the-art-of-surface-book-driver-updates-a-hassle-free-approach/), but those are two reasons are the most immediate if you've never tried Linux before.
 
 <!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  What Do You Need to Make a Bootable Linux USB Drive?
 
  The method we’ll use to make a bootable Linux USB drive is simple and straightforward. You’ll need a few things:
@@ -71,28 +76,26 @@ Second, a bootable Linux USB drive is often the simplest and easiest method of i
 ![Download links for all available OS versions of Balena Etcher](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/download-balena-etcher-for-specific-os.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
-<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Now, navigate to the download page for the Linux distro you want to try and/or install. For this guide, we’ll use Linux Mint with the Cinnamon desktop, [which can be downloaded here](https://www.linuxmint.com/download.php). (If you don’t know which distro or version to pick, check out our [guides on the best Linux distros](https://ai-topics.techidaily.com/updated-in-2024-what-is-ai-marketing/).)
 
 ![Link to Download Linux Mint Cinnamon](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/download-linux-iso.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
  Once your downloads have finished, insert your USB drive. On your PC, go into your Downloads folder (or whichever location you downloaded the above files to) and fire up Balena Etcher. If you downloaded the Installer, follow the prompts to install the program. If you downloaded the Portable version, Balena Etcher should fire right up when opened.
 
  Once Balena Etcher is up and running, you’ll be prompted to flash an image from a file, flash an image from a URL, or clone a drive. Select “Flash From File."
 
 ![Selecting the "Flash from file" option in Balena Etcher.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/balena-select-file.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
-<!-- affiliate ads end -->
  This will open a window prompting you to select the ISO image file for the Linux distro you just downloaded.
 
 ![Selecting the ISO for Linux Mint 21.3 Cinnamon](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/select-iso.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Once you’ve selected the file, double-click it or select “Open.” Balena Etcher will now prompt you to select a target drive. Be careful here as whichever drive you write the ISO image to will be completely wiped, meaning you could lose important data!
 
@@ -102,15 +105,6 @@ Second, a bootable Linux USB drive is often the simplest and easiest method of i
 
 ![Confirming the target drive in Balena Etcher.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/balena-confirm-target-drive.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
-
- It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
-
-  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
-
-  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
-<!-- affiliate ads end -->
  Now click “Flash!” and Balena Etcher will begin writing the ISO image to the USB drive and make it bootable
 
 ![Selecting the "Flash!" option in Balena Etcher](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/balena-select-start.png) 
@@ -119,14 +113,13 @@ Second, a bootable Linux USB drive is often the simplest and easiest method of i
 
 ![Balena Etcher flashing an ISO to a drive.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/balena-etcher-running.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
-<!-- affiliate ads end -->
  Once the ISO image has been written and verified, Balena Etcher will tell you the flash was successful and will prompt you to flash another drive. If you want to make another bootable USB drive, you can unplug the first drive, plug in the new USB flash drive, and click “Flash Another” to repeat the process. Otherwise, you can close Balena Etcher and eject the USB drive to remove it from your computer.
 
 ![Balena Etcher indicating it is finished flashing an ISO to a drive and prompting the user to flash another ISO.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/balena-done.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Congratulations! You’ve made a bootable Linux USB drive! From here, you can insert the USB drive into a computer and [boot into Linux](https://extra-guidance.techidaily.com/2024-approved-navigating-through-gopros-burst-recording-options/) to try it out. If you want to commit to Linux, [learn how to install the OS here](https://extra-resources.techidaily.com/your-journey-through-telegrams-web-functionality/).
 
@@ -136,8 +129,6 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -145,4 +136,24 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-essential-voice-capturing-apps-for-ipads-3-top-picks-for-2024/"><u>[New] Essential Voice Capturing Apps for iPads #3 Top Picks for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-essential-action-cam-recommendations-for-winter-sports-for-2024/"><u>[Updated] Essential Action Cam Recommendations for Winter Sports for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-addressing-inaudible-audio-steps-for-obs-broadcasting/"><u>[Updated] In 2024, Addressing Inaudible Audio Steps for OBS Broadcasting</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/amazon-teams-up-with-snapchat-to-offer-innovative-ar-shopping-experience-for-glasses-and-sunglasses-insights-by-zdnet/"><u>Amazon Teams Up with Snapchat to Offer Innovative AR Shopping Experience for Glasses & Sunglasses – Insights by ZDNET</u></a></li>
+<li><a href="https://solve-popular.techidaily.com/comment-reparer-la-fenetre-de-commande-qui-ouvre-et-ferme-automatiquement-sur-windows-11-solutions-facilement-appliquees/"><u>Comment Réparer La Fenêtre De Commande Qui Ouvre Et Ferme Automatiquement Sur Windows 11: Solutions Facilement Appliquées</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-this-innovative-marketing-strategy-transformed-mothers-day-sales-for-the-better-zdnet/"><u>How This Innovative Marketing Strategy Transformed Mother’s Day Sales for the Better | ZDNet</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/in-2024-frolic-fables-a-vhs-review-of-the-comical-epic/"><u>In 2024, 'Frolic Fables' - A VHS Review of The Comical Epic</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-motorola-moto-g84-5g-to-mac-drfone-by-drfone-android/"><u>In 2024, How to Mirror Motorola Moto G84 5G to Mac? | Dr.fone</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/nt-techniques-to-shuffle-youtube-song-sequences-for-2024/"><u>Instant Techniques to Shuffle YouTube Song Sequences for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/is-your-data-secure-on-temu-unpacking-concerns-with-its-minimal-security-layers-online-shopping-insights/"><u>Is Your Data Secure on Temu? Unpacking Concerns with Its Minimal Security Layers | Online Shopping Insights</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/rev-up-your-retail-game-on-prime-day-exploring-the-latest-additions-to-googles-shopping-arsenal-tips-and-tricks-for-success/"><u>Rev Up Your Retail Game on Prime Day: Exploring the Latest Additions to Google's Shopping Arsenal | Tips & Tricks for Success</u></a></li>
+<li><a href="https://location-social.techidaily.com/set-your-preferred-job-location-on-linkedin-app-of-your-xiaomi-redmi-note-12-proplus-5g-drfone-by-drfone-virtual-android/"><u>Set Your Preferred Job Location on LinkedIn App of your Xiaomi Redmi Note 12 Pro+ 5G | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/steam-error-code-130-solved-learn-how-to-correctly-troubleshoot-this-problem/"><u>Steam Error Code 130 Solved! Learn How to Correctly Troubleshoot This Problem</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-ultimate-how-to-for-apple-pay-users-navigating-purchases-on-the-go-and-online-according-to-zdnet-experts/"><u>The Ultimate How-To for Apple Pay Users: Navigating Purchases on the Go and Online, According to ZDNet Experts</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-ultimate-tech-deals-companion-your-2021-guide-to-maximizing-savings-on-black-friday-and-cyber-monday-zdnet/"><u>The Ultimate Tech Deals Companion: Your 2021 Guide to Maximizing Savings on Black Friday & Cyber Monday - ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/troublesome-competition-how-southwest-united-and-american-airlines-face-off-against-the-webs-least-attractive-website/"><u>Troublesome Competition: How Southwest, United & American Airlines Face Off Against The Web's Least Attractive Website</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/universal-prohibition-meta-implements-strict-rules-against-the-use-of-ai-for-global-political-campaigns-insights-from-zdnet/"><u>Universal Prohibition: Meta Implements Strict Rules Against the Use of AI for Global Political Campaigns - Insights From ZDNet</u></a></li>
+</ul></div>
 

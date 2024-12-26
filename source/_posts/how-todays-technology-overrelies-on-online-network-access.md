@@ -1,7 +1,7 @@
 ---
 title: How Today's Technology Overrelies on Online Network Access
-date: 2024-08-30T13:09:35.747Z
-updated: 2024-08-31T13:09:35.747Z
+date: 2024-12-22T18:21:07.953Z
+updated: 2024-12-26T05:27:51.481Z
 tags:
   - cutting-edge
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ---
 
 ## How Today's Technology Overrelies on Online Network Access
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -29,9 +33,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  All of this wouldn't have happened if the update wasn't scheduled automatically. Experts from the IT department should be given the option to schedule system updates at a time that works for their organization.
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 ##  A Single Point of Failure
 
  What shocks me the most about this CrowdStrike debacle isn't just how fragile our technological world is, but the nature of the fragility.
@@ -42,9 +43,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Hands holding smart phone with app smart home on blurred house as backgrounds.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/shutterstock_1452565637.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 [panuwat phimpha/Shutterstock.com](https://www.shutterstock.com/image-photo/hands-holding-smart-phone-app-home-1452565637)
 
  What about your home and the internet—you likely have a bunch of smart home devices that [rely on your Wi-Fi router](https://ai-topics.techidaily.com/new-top-6-celebrity-text-to-speech-ai-voice-generators-you-may-like/) and the cloud to operate. This makes sense for some devices that have to answer random questions, tell you the news and the weather, and play music from the web, such as your smart speaker. It's also great that you can control the devices when not at home, but not all devices need this capability.
@@ -56,13 +54,15 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![The Nanoleaf Umbra Cup Smart Lamp controlled via app](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/07/the-nanoleaf-umbra-cup-smart-lamp-controlled-via-app_53647581103_o.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Jerome Thomas / How-To Geek
 
 <!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Clouds Can Vanish
 
  If you rely on the cloud to store important data, you'll be left without a way to access it when your connection is down. However, that's the least of your worries with cloud storage. A cloud data breach can result in leaked emails, passwords, pictures, and other sensitive information. Apple's iCloud has leaked [2.6 billion personal records](https://www.apple.com/newsroom/2023/12/report-2-point-6-billion-records-compromised-by-data-breaches-in-past-two-years/) in just two years. There are some pieces of information that you should [never upload to the cloud](https://youtube-docs.techidaily.com/cted-clandestine-miniature-video-absence-for-2024/), as there's always a risk of them leaking.
@@ -72,13 +72,15 @@ Jerome Thomas / How-To Geek
 ![The PNY Elite-X Type C Flash Drive in the open position](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/01/the-pny-elite-x-type-c-flash-drive-in-the-open-positionjpg_53406116759_o.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Hannah Stryker / How-To Geek
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  How to Reduce Your Reliance on the Internet
 
  In addition to building an offline smart home and storing your files locally, there are numerous other small ways you can reduce your reliance on the internet. For starters, opt for offline versions of software you regularly use when possible. For instance, if I can't write my articles on the web, I can use Microsoft Word in the meantime. You can do the same with your music, movies, and video games. [Physical media](https://windows11.techidaily.com/how-to-customize-sound-levels-with-dedicated-win11-keys/) are king!
@@ -91,8 +93,6 @@ Hannah Stryker / How-To Geek
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -100,4 +100,19 @@ Hannah Stryker / How-To Geek
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-accessing-facebook-videos-via-apple-tv-essential-tips/"><u>[Updated] In 2024, Accessing Facebook Videos via Apple TV Essential Tips</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-dive-into-old-content-youtube-video-recovery-guide/"><u>[Updated] In 2024, Dive Into Old Content YouTube Video Recovery Guide</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ditching-the-samsung-galaxy-s24-ultra-for-a-whole-month-in-favor-of-the-new-pixel-9-pro-xl-a-tale-worth-sharing-zdnet/"><u>Ditching the Samsung Galaxy S24 Ultra for a Whole Month in Favor of the New Pixel 지대 9 Pro XL - A Tale Worth Sharing | ZDNET</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/exploring-the-cosmos-with-your-phone-the-magic-of-enhanced-astrophotography-on-pixel-devices-digital-discoveries/"><u>Exploring the Cosmos with Your Phone: The Magic of Enhanced Astrophotography on Pixel Devices | Digital Discoveries</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/exploring-the-innovative-nophone-one-an-insiders-review-on-zdnet-shows-whats-next/"><u>Exploring the Innovative NoPhone One: An Insider's Review on ZDNet Shows What's Next</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/exploring-the-new-pixel-buds-pro-2-by-google-top-3-exciting-features-revealed-tech-insights-at-zdnet/"><u>Exploring the New Pixel Buds Pro 2 by Google - Top 3 Exciting Features Revealed | Tech Insights at ZDNet</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixed-audio-issue-discord-back-online/"><u>Fixed Audio Issue: Discord Back Online</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-card-on-lava-agni-2-5g-online-without-jailbreak-by-drfone-android/"><u>How to Unlock SIM Card on Lava Agni 2 5G online without jailbreak</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-high-end-vision-booster-convert-with-clarity/"><u>In 2024, High-End Vision Booster Convert with Clarity</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-circle-everything-you-need-to-know-on-xiaomi-14-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Circle Everything You Need to Know On Xiaomi 14 Pro | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-revolutionizing-iphone-photography-with-hdr-techniques/"><u>In 2024, Revolutionizing iPhone Photography with HDR Techniques</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/switching-from-samsung-galaxy-s24-ultra-to-google-pixel-9-pro-xl-a-one-month-review-i-wont-forget-insights-by-zdnet/"><u>Switching From Samsung Galaxy S24 Ultra to Google Pixel 9 Pro XL: A One-Month Review I Won’t Forget - Insights by ZDNet</u></a></li>
+</ul></div>
 

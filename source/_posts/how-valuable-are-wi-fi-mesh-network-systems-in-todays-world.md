@@ -1,7 +1,7 @@
 ---
 title: How Valuable Are Wi-Fi Mesh Network Systems in Today's World?
-date: 2024-12-10T05:03:29.232Z
-updated: 2024-12-17T11:26:17.449Z
+date: 2024-12-24T01:42:35.939Z
+updated: 2024-12-26T00:23:56.225Z
 categories:
   - BestProducts
 description: This Article Describes How Valuable Are Wi-Fi Mesh Network Systems in Today's World?
@@ -16,10 +16,6 @@ thumbnail: https://www.lifewire.com/thmb/MON9uXxVqNZfZF45xPHZ0WQWMug=/400x300/fi
 
 ## Efficiently Navigate Google's Features with Gemini - Learn How
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### What to Know
 
 * Register or log in to Gemini with your Google account.
@@ -28,6 +24,10 @@ thumbnail: https://www.lifewire.com/thmb/MON9uXxVqNZfZF45xPHZ0WQWMug=/400x300/fi
 
  This article will show you how to use the conversational[Google Gemini](https://www.lifewire.com/what-is-google-bard-7151624) AI chatbot, from signing up to crafting effective prompts and getting the most out of its features.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Note
 
  This article uses the free Gemini app. The steps are the same if you have signed up for Gemini Advanced. The latter is a subscription service but allows you to upload documents and other features.
@@ -35,7 +35,7 @@ thumbnail: https://www.lifewire.com/thmb/MON9uXxVqNZfZF45xPHZ0WQWMug=/400x300/fi
 [ChatGPT vs. Gemini: What's the Difference?](https://www.lifewire.com/chatgpt-vs-bard-7504876)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Sign Up for Google Gemini
@@ -64,17 +64,21 @@ thumbnail: https://www.lifewire.com/thmb/MON9uXxVqNZfZF45xPHZ0WQWMug=/400x300/fi
 ![The prompt field in the Google Gemini web interface](https://www.lifewire.com/thmb/df8I0SZWORbiyM8-BLz2rxN2m8M=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Google-Gemini-prompt-field-94528b5550664e2f9c5c489c7ba2cd98.jpg)
 2. As a multi-modal chatbot, you can speak to the chatbot, upload an image, write code, or ask it to process information from an online video.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. Make your prompt specific while giving Gemini as much context as you can about your query.
 4. Ask follow-up questions and carry out a conversation with the chatbot.
 5. Select the pencil icon next to your query to edit the original question, and then choose**Update** .  
 ![The "Edit text" button in a Google Gemini conversation thread](https://www.lifewire.com/thmb/_04NldjfAsFL2Pg-aF1dc1XxgBM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Edit-text-on-Google-Gemini-b0d9f137d7e14ee2958822fb9d6f92fa.jpg)
 6. You can ask Gemini to generate images with words like "draw," "generate," and "create."
 
-7. Select**New chat** on the sidebar to start a conversation on another topic with the chatbot.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+7. Select**New chat** on the sidebar to start a conversation on another topic with the chatbot.
 
 ### Tip
 
@@ -88,22 +92,23 @@ thumbnail: https://www.lifewire.com/thmb/MON9uXxVqNZfZF45xPHZ0WQWMug=/400x300/fi
 ![The "Hide/Show drafts" and "Regenerate drafts" options in Google Gemini](https://www.lifewire.com/thmb/qA7gawJp3_oXG1w3DcDUr9ydFBE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Hide-drafts-and-regenerate-google-gemini-9cbbe551f2904f008b8c05bcf385caa5.jpg)
 2. Give Gemini's large language model some feedback by choosing the**Good response** or**Bad response** icons (the thumb icons).
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 3. The**Modify response** filter pop-up helps you adjust the length, simplify the language, and change the tone of a response. Use this to tailor the answers for your intended audience or finetune them.  
 ![The "Modify response" option in Google Gemini](https://www.lifewire.com/thmb/tM5Ik6bHqWlxMYpKv-VT30BTI2A=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Modify-response-in-Google-Gemini-c53c46000aea49879f6ad313767b5a33.jpg)
 4. Instead of making Gemini rewrite the entire content, you can modify parts of the generated responses. Highlight any part of the text and select the**Modify selected text** icon.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Enter a fresh prompt in the Modify with a prompt field to describe how you want the selected text to change, and then press**Enter** . The other options of**Regenerate** ,**Shorter** ,**Longer** , and**Remove** are self-explanatory.  
 ![Google Gemini Modify selected text ](https://www.lifewire.com/thmb/ek4DwjpGOxgIqgqgg0yWUoHFeHo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GoogleGemini-Modify-Answer-Content-34d76e37a88c42c9969dfd593be19c21.jpg)  
 ![Google Gemini Modify selected text ](https://www.lifewire.com/thmb/ek4DwjpGOxgIqgqgg0yWUoHFeHo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GoogleGemini-Modify-Answer-Content-34d76e37a88c42c9969dfd593be19c21.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Gemini can be error-prone. Select the**Google** button at the foot of the response to double-check the answers. The AI checks with a Google Search and highlights content similar to (Green highlight) or different (Orange highlight) from Gemini's statements.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Using Extensions in Gemini
 
@@ -113,10 +118,6 @@ thumbnail: https://www.lifewire.com/thmb/MON9uXxVqNZfZF45xPHZ0WQWMug=/400x300/fi
 ![The Settings > Extensions options in Google Gemini](https://www.lifewire.com/thmb/pccAkIep3BpKkhVuV-2YYAWwlYY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Extensions-in-Google-Gemini-08e89dd23f4940048feb9db7f2cf1f17.jpg)
 2. Enable or disable your choice of extensions with the toggle switch.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 3. To automatically use any Google services as an extension, mention it in the prompt. Alternatively, enter @ and select the extension to allow Gemini to use a specific extension.
 
 ### Tip
@@ -124,7 +125,7 @@ thumbnail: https://www.lifewire.com/thmb/MON9uXxVqNZfZF45xPHZ0WQWMug=/400x300/fi
  Gemini is a handy way to summarize YouTube videos you don't want to watch till the end. Ask Gemini multiple questions to dig deeper into the video's content in half the time.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## More Tips for Using Gemini Effectively
@@ -166,22 +167,14 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-essential-devices-for-capturing-journeys/"><u>[Updated] In 2024, Essential Devices for Capturing Journeys</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-prime-time-the-top-10-windows-webcam-recorders/"><u>[Updated] Prime Time The Top 10 Windows Webcam Recorders</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/a-brief-journey-through-the-past-of-electrified-transportation/"><u>A Brief Journey Through the Past of Electrified Transportation</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/coming-soon-apples-revolutionary-home-robot-projections-for-pricing-planned-debut-date-innovative-features-and-breaking-news-updates/"><u>Coming Soon: Apple's Revolutionary Home Robot – Projections for Pricing, Planned Debut Date, Innovative Features & Breaking News Updates</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/discover-lost-internet-landscapes-a-beginners-handbook-on-harnessing-the-power-of-the-wayback-machine/"><u>Discover Lost Internet Landscapes: A Beginner's Handbook on Harnessing the Power of the Wayback Machine</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/easily-unlock-your-motorola-edge-40-neo-device-sim-by-drfone-android/"><u>Easily Unlock Your Motorola Edge 40 Neo Device SIM</u></a></li>
-<li><a href="https://common-error.techidaily.com/effortless-fixes-for-windows-11-bluetooth-disappearance-errors/"><u>Effortless Fixes for Windows 11 Bluetooth Disappearance Errors</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/guide-to-understanding-iphones-location-sharing-settings/"><u>Guide to Understanding iPhone's Location Sharing Settings</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/how-to-easily-transfer-data-between-a-printer-and-computer/"><u>How to Easily Transfer Data Between a Printer and Computer</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/in-2024-elements-to-construct-a-magnetic-vlog-storyline/"><u>In 2024, Elements to Construct a Magnetic Vlog Storyline</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/1722855197750-resolving-lameencdll-issues-in-audacity-comprehensive-guide/"><u>Resolving lame_enc.dll Issues in Audacity - Comprehensive Guide</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/surviving-the-elements-the-durability-of-evs-in-high-temperatures-and-low-winters/"><u>Surviving the Elements: The Durability of EVs in High Temperatures and Low Winters</u></a></li>
-<li><a href="https://common-error.techidaily.com/tips-for-successful-smartaudio-activation-after-initial-failures-resolved/"><u>Tips for Successful SmartAudio Activation After Initial Failures - Resolved</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/uncover-the-reason-behind-your-ps4-controllers-colorful-indicator-lights/"><u>Uncover the Reason Behind Your PS4 Controller's Colorful Indicator Lights</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/understanding-artificular-intelligence-risks-and-concerns/"><u>Understanding Artificular Intelligence: Risks and Concerns</u></a></li>
-<li><a href="https://win-great.techidaily.com/unraveling-rar-archives-with-yl-computings-tutorial-for-windows-users/"><u>Unraveling RAR Archives with YL Computing's Tutorial for Windows Users</u></a></li>
-<li><a href="https://win-wonderful.techidaily.com/iuodkeocveocsplusodsplusodhplusodvoocvpluswujowfqoa2iowouplusobruihspluswuntrpoilkuirjg4tjg7zjg4bjgqjg4vjg4pjgq8i/"><u>パソコンデータ完全消去の至宝:頂上ツーテクニック</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/boost-your-productivity-a-beginners-guide-to-picture-in-picture-mode-on-android-devices/"><u>Boost Your Productivity: A Beginner's Guide to Picture-in-Picture Mode on Android Devices</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/chatgpts-custodian-unveiled-who-holds-the-reins/"><u>ChatGPT's Custodian Unveiled: Who Holds the Reins?</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/complete-guide-steps-to-permanently-remove-your-yahoo-email-profile/"><u>Complete Guide: Steps to Permanently Remove Your Yahoo Email Profile</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/effortless-hd-transformation-upgrade-your-avi-files-to-high-quality-h264-format-with-our-expert-conversion-tool/"><u>Effortless HD Transformation: Upgrade Your AVI Files to High-Quality H.264 Format with Our Expert Conversion Tool</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-repair-the-advapi32dll-file-not-found-problem-efficiently/"><u>How to Repair the Advapi32.dll File Not Found Problem Efficiently</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-check-if-your-nokia-c300-is-unlocked-by-drfone-android/"><u>In 2024, How To Check if Your Nokia C300 Is Unlocked</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/mastering-the-art-of-dvd-duplication-a-step-by-step-guide-on-how-to-make-perfect-copies/"><u>Mastering the Art of DVD Duplication - A Step-by-Step Guide on How to Make Perfect Copies</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/step-by-step-sharing-photos-on-youtube/"><u>Step-by-Step Sharing Photos on YouTube</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/what-is-yourphoneexe-phone-link-in-windows-1110-should-you-disable-it/"><u>What Is YourPhone.exe (Phone Link) in Windows 11/10? Should You Disable It?</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Understanding POAP: The Role of Memory Preservation in the Emerging Web3 Landscape"
-date: 2024-08-30T13:09:52.004Z
-updated: 2024-08-31T13:09:52.004Z
+date: 2024-12-19T20:40:14.564Z
+updated: 2024-12-25T19:33:55.450Z
 tags:
   - cutting-edge
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://thmb.techidaily.com/cd6606343976e20cf388b00d45efaf1c0dc2657ac
 ---
 
 ## Understanding POAP: The Role of Memory Preservation in the Emerging Web3 Landscape
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -22,6 +26,10 @@ thumbnail: https://thmb.techidaily.com/cd6606343976e20cf388b00d45efaf1c0dc2657ac
 
  POAPs are used to mark participation or attendance at an event. Just like you might save ticket stubs from concerts or movies, buy pins at a sporting event or festival, or collect matches from restaurants or hotels, a POAP is a digital version of that same notion, satiating our desire to collect items that mark our experiences throughout life.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  The Origin of POAPs
 
 [POAP](https://poap.xyz/) is a native crypto culture project featuring an open-source and community-owned [web3](https://facebook-video-content.techidaily.com/updated-stop-video-buffering-during-streaming/) ethos. POAPs have been percolating in the crypto culture for a while ever since they were created in 2017 at [ETH Denver](https://www.ethdenver.com/). (A cryptocurrency conference held annually in Denver, Colorado, based around the Ethereum ecosystem.)
@@ -31,8 +39,9 @@ thumbnail: https://thmb.techidaily.com/cd6606343976e20cf388b00d45efaf1c0dc2657ac
  Major brands and events such as the US Open, Lollapalooza, Adidas, and Budweiser have all partnered with POAP. Up to this point, over four and a half million POAPs have been issued so far to over half a million POAP collectors.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  How Do You Claim a POAP?
 
  Claiming a POAP is easy. Depending on the event, there may be different ways to claim the POAP issued by the event organizers.
@@ -48,14 +57,15 @@ thumbnail: https://thmb.techidaily.com/cd6606343976e20cf388b00d45efaf1c0dc2657ac
 ![Gallery of Claimed POAPs](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/04/Gallery-of-Claimed-POAPs.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
-The ultimate burning program for all your needs!</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 _Colin Brightfield_
 
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  What Else Can You Do With POAPs?
 
  You can do some fun things with your community of POAP holders to create engagement like host a raffle or hold voting. [POAP.fun](https://poap.fun/) allows you to include all the holders of your event's POAP to participate in a raffle that is transparent and verifiable.
@@ -64,9 +74,6 @@ _Colin Brightfield_
 
  There's lots of possibilities beyond raffles and voting because you can view the list of Ethereum wallet addresses that have claimed your POAP and this can be used to reward your POAP holders with airdrops or special access.
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  POAPs Are Fun
 
  POAPs are a way to mark the moments of your life in a digital way that won't decay over time, take up a whole wall in your room, or get lost. We all form identities based on our experiences, and the modern world moves so quickly that we can forget what we even did last month.
@@ -79,8 +86,6 @@ _Colin Brightfield_
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -88,4 +93,20 @@ _Colin Brightfield_
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/apid-rendering-of-fortnite-icons-for-2024/"><u>[New] Rapid Rendering of Fortnite Icons for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-limits-of-video-data-storage-on-modern-drives-a-closer-look-at-64128gb/"><u>[Updated] 2024 Approved Limits of Video Data Storage on Modern Drives - A Closer Look at 64/128GB</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/affordable-marvel-discover-the-most-stunning-non-samsung-android-device-for-just-200-exclusive-review-by-zdnet/"><u>Affordable Marvel: Discover the Most Stunning Non-Samsung Android Device for Just $200 - Exclusive Review by ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discover-the-incredible-pixel-9-deal-at-only-100-unlock-the-secret-tech-tips-from-zdnet-now/"><u>Discover the Incredible Pixel 9 Deal at Only $100! Unlock The Secret Tech Tips From ZDNET Now!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/downloading-and-updating-the-brother-mfc-7860dw-drivers-on-your-pc/"><u>Downloading and Updating the Brother MFC-#7860DW Drivers on Your PC</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/durable-and-timeless-exploring-the-cat-s22-flip-smartphones-performance-for-outdoor-use-techadvisor/"><u>Durable and Timeless: Exploring the CAT S22 Flip Smartphone's Performance for Outdoor Use | TechAdvisor</u></a></li>
+<li><a href="https://driver-download.techidaily.com/essential-driver-downloads-setup-guide-for-brother-l2360dw-device/"><u>Essential Driver Downloads: Setup Guide for Brother L2360DW Device</u></a></li>
+<li><a href="https://howto.techidaily.com/fixing-persistent-pandora-crashes-on-huawei-nova-y71-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixing Persistent Pandora Crashes on Huawei Nova Y71 | Dr.fone</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-revolutionizing-ps2-playtime-on-ios-with-top-emulators/"><u>In 2024, Revolutionizing PS2 Playtime on iOS with Top Emulators</u></a></li>
+<li><a href="https://win-forum.techidaily.com/navigating-digital-connections-understanding-facebook-twitter-instagram-and-youtube/"><u>Navigating Digital Connections: Understanding Facebook, Twitter, Instagram, and YouTube</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/premier-12-channel-online-video-broadcast-system-for-2024/"><u>Premier 12-Channel Online Video Broadcast System for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/streamline-email-writing-using-gmail-snippets-for-reduced-errors-and-faster-communication-a-must-read-guide-zdnet/"><u>Streamline Email Writing Using Gmail Snippets for Reduced Errors & Faster Communication: A Must-Read Guide | ZDNET.</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/top-imei-unlokers-for-your-vivo-y17s-phone-by-drfone-android/"><u>Top IMEI Unlokers for Your Vivo Y17s Phone</u></a></li>
+</ul></div>
 

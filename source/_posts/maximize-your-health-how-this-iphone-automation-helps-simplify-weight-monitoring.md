@@ -1,7 +1,7 @@
 ---
 title: "Maximize Your Health: How This iPhone Automation Helps Simplify Weight Monitoring"
-date: 2024-08-30T13:07:42.954Z
-updated: 2024-08-31T13:07:42.954Z
+date: 2024-12-21T01:45:32.795Z
+updated: 2024-12-25T23:06:04.830Z
 tags:
   - mobile
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://thmb.techidaily.com/9272380eed781f925420b56a40311e99d78bb46c4
 ---
 
 ## Maximize Your Health: How This iPhone Automation Helps Simplify Weight Monitoring
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -27,6 +31,10 @@ thumbnail: https://thmb.techidaily.com/9272380eed781f925420b56a40311e99d78bb46c4
 
 ![Create new shortcut in the iPhone Shortcuts app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/screenshot-2024-07-27-at-09-17-04.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Next, tap “Add Action” and use the search bar to find the “Log Health Sample” action. Tap on it to add it to your Shortcuts workflow.
 
 ![Adding the "Log Health Sample" action in the iPhone Shortcuts app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/new-shortcut.png) 
@@ -39,11 +47,12 @@ thumbnail: https://thmb.techidaily.com/9272380eed781f925420b56a40311e99d78bb46c4
 
 ![Renaming a shortcut in the iPhone Shortcuts app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/record-weight.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  To save, hit “Done” in the top-right corner of the screen. That’s it!
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
-<!-- affiliate ads end -->
 ##  Using Your New Shortcut
 
  The easiest way to use your new shortcut is to tap on it. You can do this from within the Shortcuts app, but that still requires opening an app first. There are faster ways to do this.
@@ -52,35 +61,28 @@ thumbnail: https://thmb.techidaily.com/9272380eed781f925420b56a40311e99d78bb46c4
 
 ![The "Edit" button on the iPhone widgets screen.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/screenshot-2024-07-27-at-09-56-22.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
  Now tap on the widget you just added, and next to the “Shortcut” field choose the “Record weight” shortcut you just created. The widget will be added, drag it into place and you’re done. You can also [place these widgets on a regular Home screen](https://screen-mirror.techidaily.com/how-to-screen-mirroring-infinix-zero-30-5g-drfone-by-drfone-android/) if you’d rather.
 
 ![A "Record Weight" shortcut in position on the iPhone widget screen.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/screenshot-2024-07-27-at-09-56-45.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
-<!-- affiliate ads end -->
  You can also run your Shortcuts by telling Siri to “Record weight” (adjusting for whatever you called the workflow). Your Shortcuts app will sync with other devices like the iPad, as long as you have “iCloud Sync” enabled under Settings > Shortcuts.
 
 <!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Seeing Results
 
  Head to Health > Body Measurements > Weight to see your numbers plotted on a chart. Use the “Add to Favorites” button at the bottom of the screen to pin this section to the “Summary” tab.
 
 ![A graph showing weight change over time in Apple Health.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/weight.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
  I did this because I wanted an easy way to track progress when trying to lose weight. Seeing the line go down over time motivated me to keep going and gave me faith that what I was doing was working. I’m no longer trying to lose weight, but I still find it handy to log numbers using this shortcut.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Getting the Most Out of Apple Health
 
  Apple Health might just be the most underrated iPhone app, and you can use this Shortcuts trick to log all sorts of things ([like your mood](https://fix-guide.techidaily.com/play-store-not-working-on-tecno-camon-20-8-solutions-inside-drfone-by-drfone-fix-android-problems-fix-android-problems/)). On top of this you can log [physical activity using an Apple Watch](https://article-tips.techidaily.com/new-2024-approved-crafting-gentle-sound-declines-with-logic-pro/) or even [VR fitness games on Meta Quest](https://tech-recovery.techidaily.com/best-iphone-models-for-gamers-in-2e2023-a-comprehensive-guide/).
@@ -93,8 +95,6 @@ thumbnail: https://thmb.techidaily.com/9272380eed781f925420b56a40311e99d78bb46c4
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -102,4 +102,20 @@ thumbnail: https://thmb.techidaily.com/9272380eed781f925420b56a40311e99d78bb46c4
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-crafting-authenticity-in-client-testimonial-videos/"><u>[New] 2024 Approved Crafting Authenticity in Client Testimonial Videos</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-driving-revenue-with-well-crafted-youtube-channel-trailers/"><u>[New] In 2024, Driving Revenue with Well-Crafted YouTube Channel Trailers</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-step-by-step-instructions-for-fb-live-broadcasts/"><u>[New] Step-by-Step Instructions for FB Live Broadcasts</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-live-stream-to-youtube-with-obs-step-by-step-guide-for-beginners/"><u>[Updated] In 2024, Live Stream to Youtube with OBS Step by Step Guide for Beginners</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discover-the-ideal-no-cost-site-builders-expert-reviews-by-zdnet/"><u>Discover the Ideal No-Cost Site Builders: Expert Reviews by ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/diy-quick-response-qr-codes-top-strategies-and-tools-from-experts/"><u>DIY Quick Response (QR) Codes: Top Strategies & Tools From Experts</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-ai-powered-innovations-are-transforming-yelps-user-experience-for-foodies-and-thrill-seekers-as-reported-by-zdnet/"><u>How AI-Powered Innovations Are Transforming Yelp's User Experience for Foodies and Thrill Seekers, as Reported by ZDNET</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-change-lock-screen-wallpaper-on-tecno-camon-20-pro-5g-by-drfone-android/"><u>How to Change Lock Screen Wallpaper on Tecno Camon 20 Pro 5G</u></a></li>
+<li><a href="https://fake-location.techidaily.com/ispoofer-is-not-working-on-apple-iphone-11-pro-max-fixed-drfone-by-drfone-virtual-ios/"><u>iSpoofer is not working On Apple iPhone 11 Pro Max? Fixed | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/monetizing-microsoft-teams-sessions-a-guide-to-charging-for-online-classes-and-webinars-on-zdnet/"><u>Monetizing Microsoft Teams Sessions: A Guide to Charging for Online Classes and Webinars on ZDNet</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-tailoring-auditory-experiences-to-your-videos-with-ease-and-precision/"><u>New Tailoring Auditory Experiences to Your Videos with Ease and Precision</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-expert-reviews-and-guides-for-high-performance-computing/"><u>Tom's Tech: Expert Reviews and Guides for High-Performance Computing</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/your-gateway-to-digital-proficiency-understanding-screen-capture-on-macbook-air-for-2024/"><u>Your Gateway to Digital Proficiency Understanding Screen Capture on MacBook Air for 2024</u></a></li>
+</ul></div>
 

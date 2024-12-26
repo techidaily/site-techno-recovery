@@ -1,7 +1,7 @@
 ---
 title: Mastering Multiple Network Interfaces on macOS - A Step-by-Step Guide
-date: 2024-12-05T03:33:35.399Z
-updated: 2024-12-11T06:00:27.165Z
+date: 2024-12-23T05:44:25.810Z
+updated: 2024-12-25T21:51:50.643Z
 tags:
   - apple
 categories:
@@ -45,7 +45,7 @@ There's just one sticking point: Neither app supports Windows 10\. Phone Link an
 ## How to send and receive iMessages on Windows
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Use Microsoft Phone Link
@@ -66,10 +66,6 @@ Click the Start button, go to All Apps, and select Phone Link from the list. The
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. Scan the QR codes
 
 A QR code should appear in the Phone Link app. Launch the camera on your iPhone and scan the code. On your iPhone, tap the link at the bottom of the camera screen to pair your devices. If you can't scan the code for any reason, click the link to continue manually without a QR code and follow those steps.
@@ -81,7 +77,7 @@ You should see pairing prompts on both your iPhone and your Windows 11 computer.
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Sync your iPhone data
@@ -90,11 +86,19 @@ Your phone should ask if you want your PC to receive notifications from your iPh
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. Run Phone Link
 
 The Phone Link welcome screen should appear on your PC and ask if you want to open the app each time you log into Windows. If you do, check the box.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Access your recent messages
 
@@ -130,10 +134,6 @@ At the next screen on your phone, tap the button for "Scan QR code." Scan the co
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. Launch the Windows Unison app
 
 At the "Let's get started" screen in the Windows Unison app, click the icon for "Send messages." 
@@ -146,15 +146,15 @@ At the Messages screen, click the icon for "Compose a new message." Choose the r
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 5\. Send a message
 
 Compose and send your message. Wait for the other person to respond. You can then carry on a conversation in the Windows Unison app or in iMessages on your iPhone as the texts sync between the two apps.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Receive a message
 
@@ -192,22 +192,14 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-advanced-speed-adjustment-techniques-in-media-editing-for-2024/"><u>[New] Advanced Speed Adjustment Techniques in Media Editing for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-visionary-footage-advanced-camcapturing-methods/"><u>[New] Visionary Footage Advanced CamCapturing Methods</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-how-to-watch-facebook-live-in-2024/"><u>[Updated] How to Watch Facebook Live, In 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-pixel-power-redesigned-radeon/"><u>[Updated] Pixel Power Redesigned Radeon</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/apple-macbook-pro-16-inch-m1-2021-review-apples-best-laptop/"><u>Apple MacBook Pro 16-Inch (M1, 2021) Review: Apple's Best Laptop</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/boosting-sound-on-facebook-videos-on-windows-computers-latest-fixes-and-tips-2-groovy/"><u>Boosting Sound on Facebook Videos on Windows Computers - Latest Fixes and Tips (2 Groovy)</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/chatgpt-plus-pros-and-cons-5-key-points-to-consider-before-signing-up/"><u>ChatGPT Plus Pros & Cons – 5 Key Points to Consider Before Signing Up</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/discover-the-magic-of-easy-and-accurate-room-coloring-with-4-cutting-edge-painting-apps/"><u>Discover the Magic of Easy and Accurate Room Coloring With 4 Cutting-Edge Painting Apps</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/explore-these-8-exceptional-free-roku-streaming-portals/"><u>Explore These 8 Exceptional Free Roku Streaming Portals</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-detailed-guide-of-ispoofer-for-pogo-installation-on-vivo-s18e-drfone-by-drfone-virtual-android/"><u>In 2024, Detailed guide of ispoofer for pogo installation On Vivo S18e | Dr.fone</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/24-securing-stipends-by-scrutinizing-subscriptions-on-streaming-services/"><u>In 2024, Securing Stipends by Scrutinizing Subscriptions on Streaming Services</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/solving-the-device-cant-start-a-guide-to-overcoming-error-code-10/"><u>Solving the 'Device Can't Start': A Guide to Overcoming Error Code 10</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/top-rated-iphones-comprehensive-reviews-and-comparisons-by-tech-experts/"><u>Top Rated iPhones : Comprehensive Reviews & Comparisons by Tech Experts</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/top-rated-mechanical-keyboards-of-2024-comprehensive-reviews-by-tech-gurus-zdnet/"><u>Top Rated Mechanical Keyboards of 2024: Comprehensive Reviews by Tech Gurus | ZDNet</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/1722886970609-uber-vs-taxi-which-is-the-more-economical-option/"><u>Uber vs Taxi: Which Is the More Economical Option?</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/understanding-2023s-push-for-shorter-more-impactful-facebook-videos-for-2024/"><u>Understanding 2023'S Push for Shorter, More Impactful Facebook Videos for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/unraveling-the-phenomenon-of-memes-in-digital-communication/"><u>Unraveling the Phenomenon of Memes in Digital Communication</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-full-examination-evaluating-the-gecata-analyzer/"><u>[New] 2024 Approved Full Examination Evaluating the Gecata Analyzer</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-solutions-to-decipher-muted-facebook-videos/"><u>[New] Solutions to Decipher Muted Facebook Videos</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/anticipated-release-apple-integrates-next-gen-m4-ai-chips-across-all-mac-models-schedule-insights/"><u>Anticipated Release: Apple Integrates Next-Gen M4 AI Chips Across All Mac Models - Schedule Insights</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/cookiebot-driven-analytics-elevate-your-websites-performance/"><u>Cookiebot-Driven Analytics: Elevate Your Website's Performance</u></a></li>
+<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-7-plus-to-an-older-ios-system-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone 7 Plus to an Older iOS System Version? | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-best-investments-elite-4k-dslr-mounting-solutions/"><u>In 2024, Best Investments Elite 4K DSLR Mounting Solutions</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/pixel-vs-powerhouse-comparing-the-latest-from-google-and-apple-who-stands-out-in-the-world-of-smartwatches/"><u>Pixel Vs. Powerhouse: Comparing the Latest From Google and Apple - Who Stands Out in the World of Smartwatches?</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/troubleshooting-steps-resolving-playstation-tv-and-fire-stick-issues-with-paramountplus-service/"><u>Troubleshooting Steps: Resolving PlayStation TV & Fire Stick Issues with Paramount+ Service</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/why-i-choose-to-keep-my-apple-watch-series/"><u>Why I Choose to Keep My Apple Watch Series</u></a></li>
 </ul></div>
 

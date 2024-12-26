@@ -1,7 +1,7 @@
 ---
 title: Solve Your AirPods Problems by Learning Simple Reset Techniques Now!
-date: 2024-08-30T13:11:04.149Z
-updated: 2024-08-31T13:11:04.149Z
+date: 2024-12-20T22:42:45.384Z
+updated: 2024-12-25T21:49:20.499Z
 categories:
   - BestProducts
 description: This Article Describes Solve Your AirPods Problems by Learning Simple Reset Techniques Now!
@@ -18,6 +18,10 @@ thumbnail: https://www.lifewire.com/thmb/uW4c6d4St5kLeXV8y9LXYwWyXpU=/400x300/fi
 
  This article explains all the different ways to make Windows 11 screenshots.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Use PrtScn to Screenshot the Whole Screen
 
  There are many ways to make screenshots in Windows 11, the most basic being to use the**PrtScn** (aka**PrtSc** ) button on your keyboard. This captures the entire screen, including multiple displays if you have them, plus all visible windows, the taskbar, the Start button, etc. You can then paste the screenshot into any program that supports image pasting.
@@ -29,8 +33,9 @@ thumbnail: https://www.lifewire.com/thmb/uW4c6d4St5kLeXV8y9LXYwWyXpU=/400x300/fi
 [16 Ways To Fix It When Print Screen Is Not Working in Windows](https://www.lifewire.com/fix-print-screen-not-working-5442833)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fullscreen Screenshot and Auto-save to Folder
 
  `Win+PrtSc`
@@ -41,14 +46,8 @@ thumbnail: https://www.lifewire.com/thmb/uW4c6d4St5kLeXV8y9LXYwWyXpU=/400x300/fi
 
 ![ Screenshot folder with picture inside on Windows 11.](https://www.lifewire.com/thmb/9JnkOkVNK4-g810E3yMqwhOjIcY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/windows-11-screenshots-615d31976db445bb9f725b510becd850.png)
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 [How to Screenshot on a Logitech Keyboard](https://www.lifewire.com/take-screenshot-with-logitech-keyboard-5186441)
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Screenshot Part of the Screen
 
  `Win+Shift+S`
@@ -64,9 +63,6 @@ thumbnail: https://www.lifewire.com/thmb/uW4c6d4St5kLeXV8y9LXYwWyXpU=/400x300/fi
 
 ![Windows 11 snip tool capturing calculator. ](https://www.lifewire.com/thmb/DxIz1nlXgizX8YqQ1wgTdi_r9eE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/snip-tool-windows-11-30e70f87ddfc45799a2dc78ebd4dc0b0.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
-<!-- affiliate ads end -->
  To avoid memorizing this shortcut, you can tie it to the PrtSc button so that when you press it, this same menu shows up automatically. To do this, go to**Settings** \>**Accessibility** \>**Keyboard** , and then turn on**Use the Print screen key to open screen capture** .
 
  After choosing one of those options, the image will be saved to the clipboard, which you can paste into an email or some other program that accepts pasting pictures.
@@ -76,8 +72,13 @@ thumbnail: https://www.lifewire.com/thmb/uW4c6d4St5kLeXV8y9LXYwWyXpU=/400x300/fi
 ![A Windows 11 screenshot open in Snipping Tool](https://www.lifewire.com/thmb/n8hloKQGZfQTHNEMKqTmWZC4D_M=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/windows-11-snipping-tool-cfcc4b1e0c154d509e2d312ce4538e4e.png)
 
 <!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Delayed Screenshots With Snipping Tool
 
  Pull up the search button from the taskbar and enter**Snipping Tool** to open the app. This tool was briefly covered above, but what we'll look at now is the delayed screenshot function.
@@ -87,8 +88,9 @@ thumbnail: https://www.lifewire.com/thmb/uW4c6d4St5kLeXV8y9LXYwWyXpU=/400x300/fi
  With the program open, select the**stopwatch** . There are three options:**3-second delay** ,**5-second delay** , and**10-second delay** . Select one, choose**New** , and then quickly arrange the screen in the way you need it for the screenshot. When the time you chose is reached, the four options above will display at the top of the screen.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Tips for Taking Screenshots in Windows 11
 
 * Once an image is loaded in Snipping Tool, use the crop tool to define further which part you want to keep without needing to retake the screenshot.
@@ -126,8 +128,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -135,4 +135,23 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-dance-dictates-selecting-perfect-audio-visuals-for-2024/"><u>[New] Dance Dictates Selecting Perfect Audio-Visuals for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/androids-ultimate-sky-archive-sentries-2-written-by-a-user-not-an-ai-model-for-2024/"><u>Android's Ultimate Sky Archive Sentries (2 Written by a User, Not an AI Model for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/basketball-fever-peaks-experience-march-madness-and-the-road-to-the-final-four-through-radio-broadcasts/"><u>Basketball Fever Peaks - Experience March Madness & The Road to the Final Four Through Radio Broadcasts</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/bypassing-google-account-with-vnrom-bypass-for-gionee-f3-pro-by-drfone-android/"><u>Bypassing Google Account With vnROM Bypass For Gionee F3 Pro</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/diagnosing-and-repairing-the-elusive-msxml4dll-file-a-detailed-tutorial/"><u>Diagnosing and Repairing the Elusive 'Msxml4.dll' File: A Detailed Tutorial</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/digital-dollar-dynamics-leveraging-gpt-in-trade-decisions/"><u>Digital Dollar Dynamics: Leveraging GPT in Trade Decisions</u></a></li>
+<li><a href="https://techidaily.com/hard-resetting-an-vivo-g2-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Vivo G2 Device Made Easy | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-get-and-enjoy-ebooks-using-the-ios-books-app-a-users-guide/"><u>How to Get and Enjoy eBooks Using the iOS Books App - A User's Guide</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-the-most-effective-ways-to-bypass-iphone-15-pro-activation-lock-by-drfone-ios/"><u>In 2024, The Most Effective Ways to Bypass iPhone 15 Pro Activation Lock</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/revive-your-mobile-entertainment-solving-spotify-glitches-in-android-auto/"><u>Revive Your Mobile Entertainment: Solving Spotify Glitches in Android Auto</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/speedy-bokmal-acquisition-in-daily-dashes/"><u>Speedy Bokmål Acquisition in Daily Dashes</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-strategies-for-correcting-cygwin1dll-not-detected-problems/"><u>Step-by-Step Strategies for Correcting Cygwin1.dll Not Detected Problems</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-meanings-behind-the-glow-a-guide-to-understanding-why-your-ps4-dualshock-4-flashes-various-colors/"><u>The Meanings Behind the Glow: A Guide to Understanding Why Your PS4 DualShock 4 Flashes Various Colors</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/upgrade-your-macbooks-style-with-the-perfect-new-case-exclusive-picks-from-zdnet/"><u>Upgrade Your MacBook's Style with the Perfect New Case: Exclusive Picks From ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/what-to-expect-from-ios-18-release-schedule-price-free-access-notable-traits-and-recent-developments/"><u>What to Expect From iOS 18? Release Schedule, Price-Free Access, Notable Traits & Recent Developments</u></a></li>
+<li><a href="https://games-able.techidaily.com/winning-every-round-frame-rate-boosting-techniques/"><u>Winning Every Round: Frame Rate Boosting Techniques</u></a></li>
+</ul></div>
 

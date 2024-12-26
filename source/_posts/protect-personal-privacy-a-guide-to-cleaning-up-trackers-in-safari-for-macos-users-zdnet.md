@@ -1,7 +1,7 @@
 ---
 title: "Protect Personal Privacy: A Guide to Cleaning Up Trackers in Safari for macOS Users | ZDNet"
-date: 2024-12-11T17:43:46.270Z
-updated: 2024-12-17T03:41:57.413Z
+date: 2024-12-23T18:35:47.794Z
+updated: 2024-12-26T07:50:58.669Z
 tags:
   - apple
 categories:
@@ -47,7 +47,7 @@ Let me show you how to enable this feature.
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to remove tracking information in MacOS Safari
@@ -55,7 +55,7 @@ Let me show you how to enable this feature.
 **What you'll need:** To gain the benefit of advanced tracking and fingerprint protection, you'll need [MacOS Sonoma](https://www.zdnet.com/article/whats-new-in-macos-sonoma-heres-everything-you-need-to-know/), which ships with version 17.0 of Safari. You will only find this feature in Safari if you've upgraded to Sonoma.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Open Safari Settings
@@ -67,7 +67,7 @@ You can also access Safari settings with the Cmd+, key combination.
 Jack Wallen/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Enable advanced track protection
@@ -119,17 +119,19 @@ Even so, getting rid of tracking information from even a percentage of sites you
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-premier-filmmakers-digital-backdrop-changer/"><u>[Updated] 2024 Approved Premier Filmmaker's Digital Backdrop Changer</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/eliminating-rockaldlldll-missing-error-comprehensive-troubleshooting-guide/"><u>Eliminating 'rockaldll.dll' Missing Error – Comprehensive Troubleshooting Guide</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/enhancing-photos-with-zoom-features-on-iphone-and-ipad/"><u>Enhancing Photos with Zoom Features on iPhone & iPad</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/exploring-the-best-of-both-worlds-premium-screen-quality-with-enduring-performance-on-a-leading-laptop-revealed-by-zdnet/"><u>Exploring the Best of Both Worlds – Premium Screen Quality with Enduring Performance on a Leading Laptop, Revealed by ZDNet</u></a></li>
-<li><a href="https://games-able.techidaily.com/game-aficionados-compilation-ranking-the-leading-11-game-dealers/"><u>Game Aficionados' Compilation: Ranking the Leading 11 Game Dealers</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-find-ispoofer-pro-activation-key-on-vivo-x-fold-2-drfone-by-drfone-virtual-android/"><u>How to Find iSpoofer Pro Activation Key On Vivo X Fold 2? | Dr.fone</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/in-2024-television-innovation-integrating-fb-live-experiences/"><u>In 2024, Television Innovation Integrating FB Live Experiences</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/incoming-google-pixel-6-gadget-insights-on-estimated-cost-launch-date-features-speculations-and-more/"><u>Incoming Google Pixel 6 Gadget – Insights on Estimated Cost, Launch Date, Features Speculations & More!</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/multiply-the-whole-number-2-by-the-denominator-3-to-get-6/"><u>Multiply the Whole Number 2 by the Denominator 3 to Get 6</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/the-ultimate-guide-to-choosing-the-most-effective-9-multimedia-devices-ios-android/"><u>The Ultimate Guide to Choosing the Most Effective 9 Multimedia Devices (iOS, Android)</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/the-ultimate-picklist-for-best-imessage-games-to-play-in-ebytes-2024/"><u>The Ultimate Picklist for Best iMessage Games to Play in Ebytes 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unleashing-your-potential-master-resumes-via-chatgpt/"><u>Unleashing Your Potential: Master Resumes via ChatGPT</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-pure-pitch-perception-recording-in-mac-studios/"><u>[Updated] 2024 Approved Pure Pitch Perception Recording in Mac Studios</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-versatile-tips-for-avoiding-vr-motion-sickness-for-2024/"><u>[Updated] Versatile Tips for Avoiding VR Motion Sickness for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/180-discounted-price-why-the-arlo-pro-5s-could-be-your-ideal-choice-for-ultimate-security-cameras-zdnet-insights/"><u>$180 Discounted Price! Why the Arlo Pro 5S Could Be Your Ideal Choice for Ultimate Security Cameras - ZDNET Insights</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/2023s-leading-mobile-solar-charge-units-expert-comparisons-and-picks/"><u>2023'S Leading Mobile Solar Charge Units: Expert Comparisons & Picks</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/6-superior-android-screen-capture-apps/"><u>6 Superior Android Screen Capture Apps</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/android-friendly-guide-to-bings-ai-chatting-capabilities/"><u>Android-Friendly Guide to Bing's AI Chatting Capabilities</u></a></li>
+<li><a href="https://win-superb.techidaily.com/free-windows-10-upgrade-offer-from-microsoft-is-it-still-available/"><u>Free Windows 10 Upgrade Offer From Microsoft – Is It Still Available?</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-top-3-strategies-for-clear-online-interaction-4/"><u>In 2024, Top 3 Strategies for Clear Online Interaction (#4)</u></a></li>
+<li><a href="https://win-net.techidaily.com/navigating-photo-viewing-on-different-versions-of-windows-os/"><u>Navigating Photo Viewing on Different Versions of Windows OS</u></a></li>
+<li><a href="https://howto.techidaily.com/play-store-stuck-on-downloading-of-xiaomi-redmi-12-7-ways-to-resolve-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Stuck on Downloading Of Xiaomi Redmi 12? 7 Ways to Resolve | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/zdnets-expert-picks-the-top-gas-grills-for-outdoor-cooking-in-202/"><u>ZDNet's Expert Picks: The Top Gas Grills for Outdoor Cooking in 202</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/zdnets-in-depth-review-of-the-tesla-cybertruck-for-gardening-exceeds-expectations/"><u>ZDNET's In-Depth Review of the Tesla Cybertruck for Gardening - Exceeds Expectations!</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/zdnets-ultimate-guide-to-the-leading-ride-on-mowers-of-2ebuary-2024/"><u>ZDNet's Ultimate Guide to the Leading Ride-On Mowers of 2Ebuary 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/zdnets-ultimate-showdown-comparing-the-best-automatic-mowers-of-2024-expert-testing-results/"><u>ZDNet's Ultimate Showdown: Comparing the Best Automatic Mowers of 2024 | Expert Testing Results</u></a></li>
 </ul></div>
 

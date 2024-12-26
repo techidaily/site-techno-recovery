@@ -1,7 +1,7 @@
 ---
 title: Score a Discounted New iPad (9Th Generation) at Only $250 Following Apple Event - Insights From ZDNet
-date: 2024-12-12T15:23:12.277Z
-updated: 2024-12-17T00:28:12.329Z
+date: 2024-12-23T22:38:13.184Z
+updated: 2024-12-26T05:45:15.869Z
 tags:
   - apple
 categories:
@@ -32,7 +32,7 @@ The [Apple iPad (9th Generation)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%
 If the 9th Gen is too outdated for your liking, the [iPad 10th Gen](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BJLXMVMV%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C0e4f34d4-230d-440c-8396-9b59edfffe70%7Cdtp&dtb=1) is also discounted right now, down to only $349 after Apple [dropped the price by $100](https://www.zdnet.com/article/this-349-ipad-was-secretly-the-best-announcement-during-the-apple-event/) following the announcement of their new iPads. This model features a 10.9-inch Liquid Retina display with 64GB of storage. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -69,24 +69,16 @@ Deals are subject to sell-out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-crack-the-code-detailed-steps-for-extracting-messenger-media/"><u>[New] Crack the Code Detailed Steps for Extracting Messenger Media</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-in-2024-premiere-illustrator-adjustments/"><u>[New] In 2024, Premiere Illustrator Adjustments</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-brief-beatcasts-role-of-the-melody/"><u>[Updated] 2024 Approved Brief Beatcasts Role of the Melody</u></a></li>
-<li><a href="https://techtrends.techidaily.com/6/"><u>【快適】ご愛用ください！ベスト6無料動画変換ツール - 信頼性と使いやすさのために選ばれました</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-leading-open-source-20-best-pubg-images/"><u>2024 Approved Leading Open Source 20 Best PUBG Images</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/correcting-erratic-movements-and-blurs-a-handy-guide-to-surface-pro-screen-stability/"><u>Correcting Erratic Movements and Blurs – A Handy Guide to Surface Pro Screen Stability</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/deciphering-tech-jargon-a-clear-guide-to-ar-vr-mr-and-xr-variations/"><u>Deciphering Tech Jargon: A Clear Guide to AR, VR, MR & XR Variations</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/decoding-the-battery-report-in-windows-11-insights-and-usage-tips/"><u>Decoding the Battery Report in Windows 11: Insights & Usage Tips</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/effective-methods-for-deleting-code-companion-integration-on-windows-11-devices/"><u>Effective Methods for Deleting Code Companion Integration on Windows 11 Devices</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/essential-fixes-what-to-do-if-your-usb-tether-wont-connect/"><u>Essential Fixes: What to Do If Your USB Tether Won't Connect</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/fluent-frontiers-exceptional-language-workshops/"><u>Fluent Frontiers: Exceptional Language Workshops</u></a></li>
-<li><a href="https://article-helps.techidaily.com/in-2024-unveiling-the-art-of-digital-broadcasting-in-real-time/"><u>In 2024, Unveiling the Art of Digital Broadcasting in Real Time</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/level-up-your-playtime-examining-kinemaster-on-android/"><u>Level Up Your Playtime Examining KineMaster on Android</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/mass-movement-mastery-the-drone-top-list/"><u>Mass Movement Mastery The Drone Top List</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/overcoming-glitches-a-users-manual-for-restoring-application-functionality-on-samsung-televisions/"><u>Overcoming Glitches: A User's Manual for Restoring Application Functionality on Samsung Televisions</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/step-by-step-guide-reviving-your-disabled-instagram-account/"><u>Step-by-Step Guide: Reviving Your Disabled Instagram Account</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/1722885184709-successfully-linking-your-airpods-to-an-hp-notebook-easy-instructions-inside/"><u>Successfully Linking Your AirPods to an HP Notebook - Easy Instructions Inside</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/the-ultimate-checklist-for-joining-and-contributing-to-an-xtwitter-event/"><u>The Ultimate Checklist for Joining & Contributing to an X/Twitter Event</u></a></li>
-<li><a href="https://common-error.techidaily.com/windows-11-optimization-tips-for-a-superior-gaming-experience/"><u>Windows 11 Optimization Tips for a Superior Gaming Experience</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-free-mobile-downloader-the-ultimate-apps-for-video-buffs-for-2024/"><u>[New] Free Mobile Downloader The Ultimate Apps for Video Buffs for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/n-2024-disabling-youtube-shorts-for-good-a-simple-approach/"><u>[New] In 2024, Disabling YouTube Shorts for Good A Simple Approach</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-four-essential-tips-for-acquiring-youtube-srt/"><u>2024 Approved Four Essential Tips for Acquiring YouTube SRT</u></a></li>
+<li><a href="https://solve-info.techidaily.com/how-to-fix-a-cracked-pc-monitor-a-step-by-step-guide-by-yl-computing/"><u>How to Fix a Cracked PC Monitor: A Step-by-Step Guide by YL Computing</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-contacts-from-honor-x50-by-fonelab-android-recover-contacts/"><u>How to Rescue Lost Contacts from Honor X50?</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/innovative-ring-doorbell-plus-assessment-enhancing-home-safety-and-convenience/"><u>Innovative Ring Doorbell Plus Assessment: Enhancing Home Safety and Convenience</u></a></li>
+<li><a href="https://article-helps.techidaily.com/prevent-washed-out-iphone-hd-videos-with-effective-premiere-pro-techniques-for-2024/"><u>Prevent Washed-Out iPhone HD Videos with Effective Premiere Pro Techniques for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-rated-free-vpns-comprehensive-testing-and-analysis-by-tech-experts-zdnet/"><u>Top-Rated Free VPNs : Comprehensive Testing and Analysis by Tech Experts | ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-rated-iphone-and-ipad-vpns-comprehensive-reviews-by-tech-experts-choose-the-right-one/"><u>Top-Rated iPhone & iPad VPNs: Comprehensive Reviews by Tech Experts - Choose the Right One</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-rated-mobile-vpn-services-comprehensive-reviews-by-professionals-techradar/"><u>Top-Rated Mobile VPN Services : Comprehensive Reviews by Professionals | TechRadar</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-rated-vpn-services-for-windows-users-comprehensive-testing-and-reviews-by-experts-unlock-secure-browsing/"><u>Top-Rated VPN Services for Windows Users: Comprehensive Testing & Reviews by Experts - Unlock Secure Browsing</u></a></li>
 </ul></div>
 

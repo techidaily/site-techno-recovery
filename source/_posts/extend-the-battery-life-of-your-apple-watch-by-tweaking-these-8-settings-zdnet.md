@@ -1,7 +1,7 @@
 ---
 title: Extend the Battery Life of Your Apple Watch by Tweaking These 8 Settings | ZDNet
-date: 2024-12-06T21:38:16.024Z
-updated: 2024-12-11T04:18:34.715Z
+date: 2024-12-19T18:21:32.279Z
+updated: 2024-12-25T17:11:20.579Z
 tags:
   - apple
 categories:
@@ -37,7 +37,7 @@ Even with a healthy battery life in my device, I'm not sure when the problem ori
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Turn off the always-on display
@@ -45,10 +45,6 @@ Even with a healthy battery life in my device, I'm not sure when the problem ori
 This is the most effective thing you can do to preserve your Apple Watch's battery life. While yes, it can be super inconvenient to ditch the always-on display, it can be the difference between your Apple Watch lasting all day and it dying before dinner time. I turned mine off for a weekend and was surprised to find that it greatly enhances endurance, albeit not to the point of pre-watchOS 10.
 
 **How to:** On your Apple Watch, head to Settings > Display & Brightness > Always On, then toggle the feature off.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Use Low Power Mode when you can
 
@@ -58,6 +54,10 @@ I don't recommend using Low Power Mode all day since it limits the functionality
 
 **Also:** [**Apple Watch Ultra 2 vs. Watch Ultra: Is it time to upgrade?**](https://www.zdnet.com/article/apple-watch-ultra-2-vs-ultra/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Disable cellular connectivity
 
 If you have an Apple Watch with cellular connectivity, it's best to not use your cell connection all the time. At times, depending on your location, your watch can go searching for an active LTE signal, only to spend too much time doing so and never grabbing onto one that's strong enough to preserve your battery. If, for example, you're traveling long distances or chilling at home, it's best to flick it off until you need it.
@@ -65,6 +65,10 @@ If you have an Apple Watch with cellular connectivity, it's best to not use your
 **How to:** Open Settings > Cellular on your watch and toggle off "Cellular." Then, when you want to turn it back on, flick the switch again. It's worth noting that airplane mode will essentially do the same thing, but it also turns off Wi-Fi which you need for certain things, so manually disabling cellular data will save some steps.
 
 Jason Hiner/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Turn off background app refresh
 
@@ -84,19 +88,11 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 [See all](https://www.zdnet.com/newsletters/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 5\. Turn off irregular heart rate notifications
 
 With some of the newest Apple Watches, Apple includes a feature that can alert you when your heart rate is beating in irregular intervals and alert you when it may be atrial fibrillation. While that's nice to have for tracking your health over time, it means the heart rate sensor is constantly on collecting your heart rate, which isn't good for battery life.
 
 **How to:** Visit Settings > Heart > Irregular Rhythm Notifications and flick the feature off.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 6\. Reduce the amount of notifications you get
 
@@ -107,7 +103,7 @@ When a notification comes in, it not only plays a "ding!" to alert you, it also 
 **Also:** [**Your Apple Watch is getting an upgrade - here are the best features in WatchOS 11**](https://www.zdnet.com/article/your-apple-watch-is-getting-an-upgrade-here-are-the-best-features-in-watchos-11/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 7\. Turn off Siri
@@ -117,6 +113,10 @@ Ah, Siri. Many people swear by the voice assistant and use it daily to do things
 **How to:** On your Apple Watch, head to Settings > Siri and under "Ask Siri," choose "Listen For." From that list, tap the "Off" button. This will disable the mics and only let you trigger Siri by long-pressing the Digital Crown.
 
 Adrian Kingsley-Hughes/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 8\. Factory reset your Apple Watch (a.k.a. the last resort)
 
@@ -165,20 +165,19 @@ For a deeper look at our testing process, check out our comprehensive [smartwatc
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-seamless-transition-from-smartphones-to-pc-and-mac-videos/"><u>[New] 2024 Approved Seamless Transition From Smartphones to PC & Mac Videos</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-2024-approved-turning-pinterest-video-into-downloadable-mp3-files/"><u>[New] 2024 Approved Turning Pinterest Video Into Downloadable MP3 Files</u></a></li>
-<li><a href="https://blog-min.techidaily.com/1-top-4-gratuites-meilleures-extracteur-de-dvd-en-2023-pour-mac-os-catalina-64-and-32-bit/"><u>1. Top 4 Gratuites Meilleures Extracteur De DVD en 2023 Pour Mac OS Catalina - 64 & 32 Bit</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/2024-approved-instagram-searching-skills-unlock-additional-free-filters/"><u>2024 Approved Instagram Searching Skills – Unlock Additional Free Filters</u></a></li>
-<li><a href="https://win-great.techidaily.com/1728491158342-windows-10/"><u>完全なWindows 10オペレーティングシステムを保護するためのガイド</u></a></li>
-<li><a href="https://discover-advanced.techidaily.com/behebt-euch-bei-fehlenden-outlook-pst-dateien-wie-und-warum/"><u>Behebt Euch Bei Fehlenden Outlook-PST-Dateien, Wie Und Warum?</u></a></li>
-<li><a href="https://network-issues.techidaily.com/bypassing-wow-problem-fix-51900319/"><u>Bypassing WoW Problem: Fix #51900319</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/choosing-between-iphone-16-and-iphone-15-key-features-for-the-latest-generation/"><u>Choosing Between iPhone 16 and iPhone 15: Key Features for the Latest Generation</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/comprehensive-methods-for-dusting-and-wiping-down-your-hdtv-screens-safely/"><u>Comprehensive Methods for Dusting and Wiping Down Your HDTV Screens Safely</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/from-iphone-15-to-iphone-prise-the-following-points-in-your-answer/"><u>From iPhone 15 to iPhone Prise the Following Points in Your Answer:</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-can-i-use-itools-gpx-file-to-catch-the-rare-pokemon-on-tecno-spark-10-4g-drfone-by-drfone-virtual-android/"><u>In 2024, Can I use iTools gpx file to catch the rare Pokemon On Tecno Spark 10 4G | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-reset-a-locked-samsung-galaxy-s23-tactical-edition-phone-by-drfone-android/"><u>In 2024, How to Reset a Locked Samsung Galaxy S23 Tactical Edition Phone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/top-rated-iphone-12-and-12-pro-protectors-the-ultimate-case-guide-zdnet/"><u>Top-Rated iPhone 12 & 12 Pro Protectors: The Ultimate Case Guide - ZDNet</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/ultimate-comparison-samsung-galaxy-book-3-ultra-vs-apple-macbook-pro-the-definitive-guide-for-power-users/"><u>Ultimate Comparison: Samsung Galaxy Book 3 Ultra Vs. Apple MacBook Pro - The Definitive Guide for Power Users</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/upgrade-your-handling-skills-the-right-methods-to-wield-iphones-and-airpods-in-unison-smart-advice/"><u>Upgrade Your Handling Skills: The Right Methods to Wield iPhones and AirPods in Unison | Smart Advice</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-vlc-screen-recorder-review-and-using-guide/"><u>[Updated] In 2024, VLC Screen Recorder Review and Using Guide</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/decoding-immersive-technologies-understanding-ar-vr-mr-and-xr/"><u>Decoding Immersive Technologies: Understanding AR, VR, MR & XR</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/defying-apples-recommendation-a-real-life-iphone-upgrade-trial-on-zdnet/"><u>Defying Apple's Recommendation: A Real-Life iPhone Upgrade Trial on ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/effective-techniques-for-disinfecting-your-airpods-safely-a-guide-by-zdnet/"><u>Effective Techniques for Disinfecting Your AirPods Safely - A Guide by ZDNET</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-all-you-need-to-know-about-mega-greninja-for-oneplus-nord-n30-se-drfone-by-drfone-virtual-android/"><u>In 2024, All You Need To Know About Mega Greninja For OnePlus Nord N30 SE | Dr.fone</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/in-2024-avchd-video-editing-the-top-5-software-solutions/"><u>In 2024, AVCHD Video Editing The Top 5 Software Solutions</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-how-to-unleash-funimate-with-apk-on-your-phone/"><u>In 2024, How to Unleash Funimate with APK on Your Phone</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/quick-and-easy-creating-beautifully-detailed-slow-motion-videos-in-mobile-apps-for-2024/"><u>Quick and Easy Creating Beautifully Detailed Slow Motion Videos in Mobile Apps for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/radiant-contrast-synchronizer/"><u>Radiant Contrast Synchronizer</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/revolutionizing-image-design-combining-dall-e-with-chatgpt-4/"><u>Revolutionizing Image Design: Combining DALL-E with ChatGPT-4</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/steps-to-correct-when-windows-cant-detect-file-d3dx928dll/"><u>Steps to Correct When Windows Can't Detect File d3dx9_28.dll</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210255178-9780998136455-the-key-of-solomon-the-king/"><u>The Key of Solomon the King | Free Book</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-savings-on-amazon-in-august-2024-exclusive-offers-and-discounts-featured/"><u>Top Savings on Amazon in August 2024 - Exclusive Offers and Discounts Featured</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshoot-slow-downloads-in-steam-a-windows-guide/"><u>Troubleshoot Slow Downloads in Steam - A Windows Guide</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Choosing Durability Over Humor: The Worth of Splurging on a Lifetime Phone Compared to a Silly Forever Mouse"
-date: 2024-08-30T13:07:31.770Z
-updated: 2024-08-31T13:07:31.770Z
+date: 2024-12-22T18:01:51.807Z
+updated: 2024-12-26T04:46:05.392Z
 tags:
   - mobile
 categories:
@@ -11,6 +11,10 @@ thumbnail: https://thmb.techidaily.com/d8e6435243e7bdae68e29ae66158699a00161b124
 
 ## Choosing Durability Over Humor: The Worth of Splurging on a Lifetime Phone Compared to a Silly Forever Mouse
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * Companies aim to create perpetual revenue streams by offering subscriptions for hardware updates.
@@ -18,6 +22,10 @@ thumbnail: https://thmb.techidaily.com/d8e6435243e7bdae68e29ae66158699a00161b124
 * Paying for extended software support for phones and other durable tech products makes more sense.
 
  Companies are trying to turn everything they can into a service, so that the drip-feed of money from customers never ends. That's not the worst thing if the service is valuable, but sometimes the ideas can verge on the silly side—such as the Logitech "Forever Mouse."
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  The Folly of the “Forever Mouse”
 
@@ -34,8 +42,9 @@ _Dave McQuilling / Review Geek_
  Once you actually read what Faber said about a "Rolex" mouse with long-term paid software support, it doesn't seem as mad as the headlines make it out to be, but the optics of this are still pretty poor. No one likes it when a company makes its planned obsolescence so obvious. It actually feels a little vulgar in a way. We all know our gear isn't built to last, but having it highlighted feels gross.
 
 <!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Phone Hardware Loses Support Too Soon
 
  However, the whole proposition of a forever mouse got me thinking—what other product would this actually work for?
@@ -45,31 +54,27 @@ _Dave McQuilling / Review Geek_
 ![Person pressing the S Pen button while holding the Samsung Galaxy S24 Ultra](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/53468724291_c8e61563e6_o.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Justin Duino / How-To Geek
 
  The main reason we have to give up our phones is simply due to a lack of software support. Apple has been the least worst company in this regard, with iPhones often getting support up to six years after their debut, and Samsung has been [committing to longer support cycles](https://www.androidauthority.com/samsung-android-updates-1148888/) too, but for most handsets, you can bargain on around two years of OS updates and perhaps a year or two more for security updates. After that, you might run into apps no longer working because they need newer OS versions, or security vulnerabilities that don't get patched. A serious issue for a device filled with your most personal info!
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  A “Forever Phone” Subscription Makes Way More Sense
 
  If I bought an expensive phone, and could extend its software support cycle significantly by paying a few dollars a month, that's something that would interest me for sure. Heck, there doesn't even have to be a subscription, just charge me for software updates past the included support cycle. The main reasons Android phones tend to get relatively short support cycles is that there are too many models in each company's range, and not enough money and resources to justify continued support.
 
  Apple has relatively few models of phone to support (and they wholly control the operating system), so the numbers are different for them, but on the Android side of the equation it's understandable (if vexing) that good phone hardware might become unusable due to a lack of software support resources.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ##  Lots of Tech Could Use Anti-Obsolescence Subscriptions
 
 ![Colored lights behind a Smart TV with Apple TV open](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/53468253061_44c0fc720e_o.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Hannah Stryker / How-To Geek
 
  It's not just smartphones that could benefit from the option to have paid-for software updates over the long term. Durable items like Smart TVs and other "smart" appliances that you'd expect people to use for a decade or longer definitely qualify as something that would benefit from more support. It would be terrible to start throwing out thermostats, TVs, fridges, vacuum cleaners, and other similar gadgets because they won't play ball anymore. Even worse, it makes it impossible to extend their lifespans through resale as used goods. Such as [a certain speaker company](https://www.bbc.com/news/technology-51768574) requiring that customers "brick" their perfectly functional smart speakers to get access to hardware upgrade discounts.
@@ -82,8 +87,6 @@ Hannah Stryker / How-To Geek
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -91,4 +94,19 @@ Hannah Stryker / How-To Geek
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-to-upload-youtube-shorts-video-from-computer-and-mobile-in-2024/"><u>[New] How to Upload YouTube Shorts Video From Computer and Mobile, In 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-stealth-mode-a-guide-to-living-large-unlabeled/"><u>[New] Stealth Mode A Guide to Living Large, Unlabeled</u></a></li>
+<li><a href="https://media-tips.techidaily.com/vlcblu-raymacwindows-108-187/"><u>如何克服VLC再生Blu-Ray問題？專業辦法解析Mac/Windows系統 (10、8. 1、8、7)”</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-and-setup-aoc-graphics-card-drivers-on-windows-11-10-or-8/"><u>Download and Setup AOC Graphics Card Drivers on Windows 11, 10, or 8</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/exploring-singapores-ambitions-in-international-digital-currency-ventures-insights-on-future-prospects/"><u>Exploring Singapore's Ambitions in International Digital Currency Ventures - Insights on Future Prospects</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/free-methods-of-creating-qr-codes-a-comprehensive-guide/"><u>Free Methods of Creating QR Codes: A Comprehensive Guide</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/global-shift-towards-cashless-transactions-set-to-reach-16t-asia-at-forefront-zdnet-insights/"><u>Global Shift Towards Cashless Transactions Set to Reach $1.6T, Asia at Forefront | ZDNet Insights</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-easily-unlock-your-tecno-camon-20-device-sim-by-drfone-android/"><u>In 2024, Easily Unlock Your Tecno Camon 20 Device SIM</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/maximizing-convenience-a-comprehensive-guide-to-using-apple-pay-at-retailers-and-websites-discover-the-benefits/"><u>Maximizing Convenience: A Comprehensive Guide to Using Apple Pay at Retailers & Websites - Discover the Benefits!</u></a></li>
+<li><a href="https://howto.techidaily.com/poco-f5-pro-5g-screen-unresponsive-heres-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Poco F5 Pro 5G Screen Unresponsive? Heres How to Fix It | Dr.fone</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/portable-and-simple-beat-with-agpteks-mp3-player-a01/"><u>Portable & Simple Beat with AGPTEK's MP3 Player A01</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/the-pathway-to-retrieval-exploring-methods-for-recovering-erased-data-in-notion/"><u>The Pathway to Retrieval: Exploring Methods for Recovering Erased Data in Notion.</u></a></li>
+</ul></div>
 

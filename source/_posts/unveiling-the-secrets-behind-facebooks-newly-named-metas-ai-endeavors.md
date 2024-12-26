@@ -1,7 +1,7 @@
 ---
 title: Unveiling the Secrets Behind Facebook's Newly Named Meta's AI Endeavors
-date: 2024-08-30T13:10:43.431Z
-updated: 2024-08-31T13:10:43.431Z
+date: 2024-12-23T02:15:08.883Z
+updated: 2024-12-25T18:58:27.067Z
 categories:
   - BestProducts
 description: This Article Describes Unveiling the Secrets Behind Facebook's Newly Named Meta's AI Endeavors
@@ -15,6 +15,10 @@ Close
 
  This article gives a quick rundown of what the Meta AI assistant is and how it compares to other chatbots like ChatGPT or Gemini. It also provides tips on how to use it.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  What Is the Meta AI Assistant? 
 
  Meta AI is a free conversational AI assistant for apps like Facebook,[ Instagram](https://www.lifewire.com/meta-ai-in-instagram-8659961) , WhatsApp, and Messenger. You'll also find it in hardware like[ Ray-Ban Meta smart glasses](https://www.lifewire.com/meta-glasses-7485157) and[ Quest VR headsets](https://www.lifewire.com/oculus-quest-3-news-specs-rumors-5220120) , along with a standalone version on the web.
@@ -23,27 +27,24 @@ Close
 
 ![Meta AI Search](https://www.lifewire.com/thmb/IJhuuR_0nzH0cC3jDNbC1eUScp8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/MetaAI-9f8fe03dd7744a409abac985af461dd7.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ###  Note:
 
  If you don't see Meta AI in an app you're using, check for an update.
 
 <!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Who Built Meta AI? 
 
  Meta AI is an artificial intelligence research laboratory owned by Meta Platforms Inc. It was founded in 2015 as Facebook Artificial Intelligence Research (FAIR) and later renamed when Facebook, Inc. rebranded as Meta Platforms, Inc. The team behind the chatbot includes researchers and engineers who work on machine learning, computer vision, natural language processing, and other areas of AI research.
 
  Meta AI's unique language model is called[ Llama 3](https://llama.meta.com/llama3/) ; it's open-source and freely available. The company positions it as a competitor to ChatGPT and Google Gemini, with several features custom-designed for the popular apps you use.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## What Can Meta AI Do? 
 
  Meta AI is similar to generative multi-modal chatbots like ChatGPT, Copilot, and Gemini. But uniquely, it also works with Google and Bing for real-time search.
@@ -57,11 +58,9 @@ Close
 ![Meta AI on the Web](https://www.lifewire.com/thmb/g0zAqyNCCsGzSSxgOty0neVOgBA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Ask-Meta-35d2b7072de04faabbc4ba461270c3eb.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
+
 ## How Can You Use Meta AI? 
 
  If you live in the U.S. or any supported country, you can use Meta AI in Facebook, Instagram, WhatsApp, Messenger, and[ on the web](https://www.meta.ai/) .
@@ -72,14 +71,12 @@ Close
 
 ![Using Meta AI in an Instagram chat](https://www.lifewire.com/thmb/p_xZcrKy0CoLH-PPGSE3lNEoIlc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Instagram-Meta-AI-a22c619032aa45ec9967463a59eb1ac0.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Along with Meta AI, there are[ 28 more AI 'characters'](https://about.fb.com/news/2023/09/social-profiles-for-metas-ai-characters/) with unique personas and even social profiles on Facebook and Instagram. Some are digital avatars of cultural icons you recognize, such as Snoop Dogg, Tom Brady, Kendall Jenner, and Naomi Osaka. Meta AI generates their text posts, and the images come from Emu.  
 
 <!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ###  Note:
 
  As it's open source,[ Meta AI's frameworks, tools, libraries, datasets, and models](https://ai.meta.com/resources/) are also available to everyone for AI research and app development.
@@ -106,8 +103,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -115,4 +110,24 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-the-ultimate-vr-tools-compilation-10-essentials/"><u>[New] In 2024, The Ultimate VR Tools Compilation (10 Essentials)</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-leading-the-pack-the-premier-camera-lenses-of-2024-in-order/"><u>[Updated] Leading the Pack The Premier Camera Lenses of 2024, in Order</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1-top-5-benefits-of-switching-from-wired-to-wireless-earphones/"><u>1. Top 5 Benefits of Switching From Wired to Wireless Earphones</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/alarming-image-analysis-predicts-perilous-wellness-trends-amongst-parcel-carriers-zdnet-exclusive/"><u>Alarming Image Analysis Predicts Perilous Wellness Trends Amongst Parcel Carriers - ZDNet Exclusive</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/breaking-news-delta-air-lines-surprises-passengers-with-unprecedented-offer-as-reported-by-zdnet/"><u>Breaking News: Delta Air Lines Surprises Passengers with Unprecedented Offer, as Reported by ZDNet!</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/comparing-temu-and-amazon-determining-the-ideal-e-commerce-platform-for-consumers-purchases-techradar/"><u>Comparing Temu and Amazon: Determining the Ideal E-Commerce Platform for Consumers' Purchases | TechRadar</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/exceptional-savings-opportunity-save-up-to-69-on-creating-the-perfect-online-presence-with-zyro-exclusive-offer-from-zdnet/"><u>Exceptional Savings Opportunity: Save Up To 69% on Creating the Perfect Online Presence With Zyro - Exclusive Offer From ZDNet</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/exclusive-list-digital-dominators-in-av-production-for-2024/"><u>Exclusive List Digital Dominators in AV Production for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/exploring-continued-opportunity-building-successful-ventures-with-ai-model-innovations-insights-from-zdnet/"><u>Exploring Continued Opportunity: Building Successful Ventures with AI Model Innovations - Insights From ZDNet</u></a></li>
+<li><a href="https://facebook.techidaily.com/facebooks-update-unpolitical-and-nonreligious-profiles-ahead/"><u>Facebook's Update: Unpolitical & Nonreligious Profiles Ahead</u></a></li>
+<li><a href="https://win-net.techidaily.com/future-proof-your-computer-strategies-to-prevent-system-lag-insights-from-yl-computing/"><u>Future-Proof Your Computer: Strategies to Prevent System Lag - Insights From YL Computing</u></a></li>
+<li><a href="https://article-posts.techidaily.com/in-2024-melodic-mosaic-sites-for-classic-phone-chimes/"><u>In 2024, Melodic Mosaic Sites for Classic Phone Chimes</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/master-the-art-of-customer-satisfaction-using-square-tips-and-strategies-by-zdnet/"><u>Master the Art of Customer Satisfaction Using Square - Tips & Strategies by ZDNet</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/mastering-windows-control-panel-adjustments-for-a-customized-computer-experience-expertise-by-yl-software-team/"><u>Mastering Windows Control Panel Adjustments for a Customized Computer Experience - Expertise by YL Software Team</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/transforming-it-infrastructure-how-red-hat-infuses-enterprise-linux-with-advanced-ai-capabilities-spotlight-on-zdnet/"><u>Transforming IT Infrastructure: How Red Hat Infuses Enterprise Linux with Advanced AI Capabilities | Spotlight on ZDNET</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/understanding-ssh-a-comprehensive-guide-to-secure-shell-protocol-essentials/"><u>Understanding SSH: A Comprehensive Guide to Secure Shell Protocol Essentials</u></a></li>
+<li><a href="https://techtrends.techidaily.com/unraveling-mkv-formats-essential-tips-for-easily-opening-and-viewing-matroska-media-content/"><u>Unraveling MKV Formats: Essential Tips for Easily Opening and Viewing Matroska Media Content</u></a></li>
+</ul></div>
 

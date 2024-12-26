@@ -1,7 +1,7 @@
 ---
 title: "Attempted Assault on Smartphones: Why Corporate Sabotage Is Impossible"
-date: 2024-08-30T13:10:00.900Z
-updated: 2024-08-31T13:10:00.900Z
+date: 2024-12-25T06:39:31.270Z
+updated: 2024-12-25T20:26:55.344Z
 tags:
   - cutting-edge
 categories:
@@ -11,12 +11,20 @@ thumbnail: https://thmb.techidaily.com/5ef4b9be2cc03e1f5bba8134aa6b00b2355f4bf89
 
 ## Attempted Assault on Smartphones: Why Corporate Sabotage Is Impossible
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Quick Links
 
 * [Smartphones Are Nearly Perfect Already](https://youtube-lab.techidaily.com/024-approved-crafting-engaging-youtube-beginnings-two-methods/)
 * [It's Hard to Cram Lots of Tech Into a Tiny Device](https://activate-lock.techidaily.com/how-to-unlock-apple-id-activation-lock-from-apple-iphone-6-by-drfone-ios/)
 * [We Want Supplementary Tech, Not Smartphone Replacements](https://visual-screen-recording.techidaily.com/updated-most-utilized-firefox-screen-capturing-plugins/)
 * [Wearable Tech Raises Serious Privacy Concerns](https://facebook-video-recording.techidaily.com/updated-guidelines-for-compelling-visual-fb-marketing-for-2024/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -26,10 +34,6 @@ thumbnail: https://thmb.techidaily.com/5ef4b9be2cc03e1f5bba8134aa6b00b2355f4bf89
 
  As a bona fide tech enthusiast, I appreciate the constant stream of new tech gadgets that are emerging. However, one gripe I have with these gadgets is that they want to replace my smartphone, but regardless of what they promise, my smartphone isn't going anywhere.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ##  Smartphones Are Nearly Perfect Already
 
  Smartphones are the greatest thing since sliced bread. They're versatile, fit in our pockets, and pack pretty powerful hardware. The large touchscreens we use to interact with smartphones are intuitive, and the industry has had plenty of time to make the user experience seamless. We've all grown accustomed to smartphones, their UIs, and the endless array of readily available apps.
@@ -39,6 +43,10 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
  The point is, it's challenging to recreate the smartphone experience with anything other than a smartphone—but not for lack of trying. Tech companies are in a billion-dollar race to create a device that'll be the "next smartphone." There are [several devices](https://facebook-video-share.techidaily.com/updated-in-2024-essential-mp4-software-elevate-your-mac-productions/) that are trying to do just that, but the issue is that they all fall short of the humble smartphone in one way or another. Let's look at a few examples.
 
 ![Woman receiving a call on an Apple smartwatch.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/06/Screen-Shot-2023-06-21-at-11.24.48-AM.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 _[Apple](https://www.amazon.com/dp/B0BDHW8P4P)_
 
@@ -54,9 +62,6 @@ _[Apple](https://www.amazon.com/dp/B0BDHW8P4P)_
 
 ![person wear the Apple Vision Pro with two head bands](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/03/person-wear-the-apple-vision-pro-with-two-head-bands.JPG) 
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Tyler Hayes / How-To Geek
 
 ##  It's Hard to Cram Lots of Tech Into a Tiny Device
@@ -72,13 +77,11 @@ Tyler Hayes / How-To Geek
 ![Person holding the GameSir G8 Galileo to game on an Android phone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/53377685174_ffe91434e9_o.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Sergio Rodriguez / How-To Geek
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  We Want Supplementary Tech, Not Smartphone Replacements
 
  Instead of trying to recreate the smartphone experience on a novelty device, I believe that the best course of action for tech companies is to create devices that complement our smartphones instead, at least for the time being. Most of us carry our phones wherever we go, and we can all agree that there's nothing inherently wrong with that.
@@ -89,16 +92,14 @@ Sergio Rodriguez / How-To Geek
 
 ![The R1 Rabbit companion device held in a hand, showing the Rabbit icon on its screen.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/r1-rabbit.jpeg) 
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Rabbit Tech
 
  Exhibit B is the [Rabbit R1](https://youtube-web.techidaily.com/ed-2024-approved-elevating-your-vlog-with-proper-tripod-angles/), which is a $199 handheld AI gadget that reminds me of an AI-only version of a smartphone. It's a cool idea, but it was also later revealed that the whole thing is allegedly [just an Android app](https://www.androidauthority.com/rabbit-r1-is-an-android-app-3438805/). Even if it isn't an app, there's no denying that it could be replaced by one, so I don't really see the point of the Rabbit R1—though its design exudes an undeniably cool aesthetic.
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Wearable Tech Raises Serious Privacy Concerns
 
  Let's set technological limitations aside for now to discuss the potential lack of privacy that could arise from a gadget that's capable of seeing and hearing everything around you. While our smartphones don't necessarily [listen to us](https://android-location-track.techidaily.com/in-2024-best-anti-tracker-software-for-zte-axon-40-lite-drfone-by-drfone-virtual-android/)—at least not all the time—smart gadgets that rely on cameras and microphones to work would have to stay permanently turned on to allow for real-time scanning, suggestions, and responses.
@@ -115,8 +116,6 @@ Rabbit Tech
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -124,4 +123,20 @@ Rabbit Tech
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-design-thinking-for-content-creators-crafting-impactful-facebook-reels/"><u>[New] 2024 Approved Design Thinking for Content Creators Crafting Impactful Facebook Reels</u></a></li>
+<li><a href="https://win11.techidaily.com/samsungdvd/"><u>現代のSamsungスマートテレビで見られなくなったDVDプレーヤーの代わり:使い勝手チェックと設定詳解</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/assessing-the-merits-why-choose-apple-vision-pro/"><u>Assessing the Merits: Why Choose Apple Vision Pro</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/boost-academic-success-in-university-how-gemini-ai-can-support-students-featured-by-zdnet/"><u>Boost Academic Success in University: How Gemini AI Can Support Students, Featured by ZDNET</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discover-the-most-budget-friendly-computers-of-202n-our-comprehensive-guide-to-lenovo-hp-asus-models-zdnet-insights/"><u>Discover the Most Budget-Friendly Computers of 202N: Our Comprehensive Guide to Lenovo, HP, Asus Models | ZDNET Insights</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/expanding-your-vocabulary-a-guide-to-updating-the-google-docs-lexicon/"><u>Expanding Your Vocabulary: A Guide to Updating the Google Docs Lexicon</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/expert-strategies-for-oscillating-between-silence-and-sounds-in-obs-broadcasting/"><u>Expert Strategies for Oscillating Between Silence and Sounds in OBS Broadcasting</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/faces-of-technology-analyzing-face-detection-in-phones/"><u>Faces of Technology Analyzing Face Detection in Phones</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/maximize-efficiency-advanced-strategies-for-rapid-file-retrieval-within-google-drive/"><u>Maximize Efficiency: Advanced Strategies for Rapid File Retrieval Within Google Drive</u></a></li>
+<li><a href="https://driver-error.techidaily.com/quick-steps-to-resolve-faulty-mtp-usb/"><u>Quick Steps to Resolve Faulty MTP USB</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/strengthen-cybersecurity-with-google-chromes-new-trilogy-of-features-to-elevate-your-internet-safety-and-confidentiality-cybernews/"><u>Strengthen Cybersecurity with Google Chrome's New Trilogy of Features to Elevate Your Internet Safety and Confidentiality | CyberNews</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unlock-creative-freedom-with-extra-fonts-a-step-by-step-tutorial-for-google-docs-users-zdnet-insights/"><u>Unlock Creative Freedom with Extra Fonts: A Step-by-Step Tutorial for Google Docs Users (ZDNet Insights)</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-the-ultimate-guide-to-movie-trailer-apps-for-iphone-and-ipad-users/"><u>Updated 2024 Approved The Ultimate Guide to Movie Trailer Apps for iPhone and iPad Users</u></a></li>
+</ul></div>
 

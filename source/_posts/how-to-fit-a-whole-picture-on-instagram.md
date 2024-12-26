@@ -1,7 +1,7 @@
 ---
 title: How to Fit a Whole Picture on Instagram
-date: 2024-08-30T13:12:09.066Z
-updated: 2024-08-31T13:12:09.066Z
+date: 2024-12-24T00:44:25.271Z
+updated: 2024-12-26T06:51:49.163Z
 categories:
   - BestProducts
 description: This Article Describes How to Fit a Whole Picture on Instagram
@@ -18,6 +18,10 @@ thumbnail: https://www.lifewire.com/thmb/FehHaJPMrgQWvkkx-OW3DdfYEhs=/400x300/fi
 
  This article explains how to[restart an iPhone](https://www.lifewire.com/how-to-restart-iphone-2000288) 15\. The instructions include how to do a soft restart for a simple shut down of the device and a force restart if the first methods don't work. The steps are the same for all iPhone 15 models.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Soft Restart an iPhone 15
 
  To do a soft restart means to turn off your iPhone using the device’s options and then turn it back on. Follow these steps to restart your iPhone 15.
@@ -27,11 +31,17 @@ thumbnail: https://www.lifewire.com/thmb/FehHaJPMrgQWvkkx-OW3DdfYEhs=/400x300/fi
 2. Drag the**Slide to Power Off** option to the right.  
 ![The Power Off slider on an iPhone 15](https://www.lifewire.com/thmb/_gkqlHLFwAAe43qTejESczVRQeE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/iPhone15-Power-Off-Slider-8662940-84a3f064e5dc4278b8c8abb4a8bcbf56-a833a36d8094471694b628adb004cc60.jpg)
 3. When you’re ready to turn your iPhone back on, press and hold the**Side** button.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you have an iPhone 15 Pro or iPhone 15 Pro Max, make sure you press the Side button on the_right_ , not the[Action button](https://www.lifewire.com/use-action-button-on-iphone-15-pro-7972021) on the left.
 
 <!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Use Settings to Restart iPhone 15
 
  If you’re having trouble using the device’s buttons to restart your iPhone 15, you can use the onscreen option instead. This method is also considered a soft restart.
@@ -41,14 +51,13 @@ thumbnail: https://www.lifewire.com/thmb/FehHaJPMrgQWvkkx-OW3DdfYEhs=/400x300/fi
 3. Drag the**Slide to Power Off** option to the right.  
 ![The iPhone Settings app with General, Shut Down, and power switch highlighted.](https://www.lifewire.com/thmb/qkqSasRdubWydWHUBG5CkQeJstI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Turn-Of-iPhone-15-Pro-in-Settings-6be83e8413504c42b9bc2f146153f7da.jpg)
 4. To turn your iPhone back on, press and hold the**Side** button on the right.  
-<!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
-<!-- affiliate ads end -->
- Unable to turn your device back on? Look at ways to[fix an iPhone that won’t turn on](https://www.lifewire.com/what-to-do-when-your-iphone-wont-turn-on-2000281) .
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ Unable to turn your device back on? Look at ways to[fix an iPhone that won’t turn on](https://www.lifewire.com/what-to-do-when-your-iphone-wont-turn-on-2000281) .
+
 ## How to Turn Off an iPhone 15 With Siri
 
  While Apple's virtual assistant wasn't always able to power off your iPhone, it can now. Hold the side button or use the voice command "**Siri** /**Hey, Siri** " to activate the assistant, and then say something like:
@@ -60,8 +69,9 @@ thumbnail: https://www.lifewire.com/thmb/FehHaJPMrgQWvkkx-OW3DdfYEhs=/400x300/fi
  Siri will confirm that you want to power down your phone; select**Power Off** to continue.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Force Restart an iPhone 15
 
  When you can’t use the above methods to restart your device, or if your iPhone 15 isn’t responding at all, you can force it to restart. This is called a force restart, force reset, or hard reset.
@@ -92,8 +102,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -101,4 +109,16 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-info.techidaily.com/new-fostering-creativity-the-most-innovative-6-nft-services-for-2024/"><u>[New] Fostering Creativity The Most Innovative 6 NFT Services for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-take-fullscreen-digital-canvas/"><u>[Updated] 2024 Approved Take Fullscreen Digital Canvas</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/accessing-and-watching-the-roku-channel-without-owning-an-official-roku-player/"><u>Accessing and Watching the Roku Channel Without Owning an Official Roku Player</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discover-the-ultimate-list-of-no-cost-sports-streamers/"><u>Discover the Ultimate List of No-Cost Sports Streamers</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/insight-into-grok-ai-from-elon-musk-purpose-functionality-and-costing-details/"><u>Insight Into Grok AI From Elon Musk - Purpose, Functionality & Costing Details</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-ultimate-guide-to-recovering-deleted-phone-numbers-from-your-android-device/"><u>The Ultimate Guide to Recovering Deleted Phone Numbers From Your Android Device</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/top-review-of-oneplus-nord-n10-5g-why-it-deserves-your-attention/"><u>Top Review of OnePlus Nord N10 5G: Why It Deserves Your Attention</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/troubleshooting-and-repairing-not-found-or-missing-gsdll32dll-errors-efficiently/"><u>Troubleshooting and Repairing 'Not Found' Or 'Missing' gsdll32.dll Errors Efficiently</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unveiling-11-preferred-free-solutions-to-automatically-upgrade-your-software/"><u>Unveiling 11 Preferred Free Solutions to Automatically Upgrade Your Software</u></a></li>
+</ul></div>
 

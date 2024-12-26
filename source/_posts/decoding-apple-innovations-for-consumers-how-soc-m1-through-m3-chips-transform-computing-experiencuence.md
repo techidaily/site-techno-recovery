@@ -1,7 +1,7 @@
 ---
 title: "Decoding Apple Innovations for Consumers: How SoC, M1 Through M3 Chips Transform Computing Experiencuence"
-date: 2024-12-05T17:13:03.580Z
-updated: 2024-12-10T16:22:11.986Z
+date: 2024-12-22T03:47:33.150Z
+updated: 2024-12-26T03:23:42.444Z
 tags:
   - apple
 categories:
@@ -61,7 +61,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Notification assistance
@@ -91,13 +91,13 @@ Beyond using your voice to chat with Siri, you'll also be able to type your requ
 Those are a fair number of AI-powered features and upgrades, but Apple Intelligence has more in store for the months and years ahead. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What will come later
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Image playground
@@ -105,7 +105,7 @@ Those are a fair number of AI-powered features and upgrades, but Apple Intellige
 Using the AI-powered [Image Playground](https://www.zdnet.com/article/what-is-apple-intelligence-everything-to-know-about-ai-features-coming-to-iphones-macs-and-ipads/), you'll be able to generate images based on a description, suggestions, or even a person from one of your photos. You can then tweak the style and make other changes based on how you plan to use or share the image.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Image wand
@@ -117,7 +117,7 @@ The [image wand](https://www.zdnet.com/article/forget-dall-e-apples-new-ai-image
 You'll be able to [create new emojis](https://www.zdnet.com/article/apples-new-ai-generated-genmoji-solve-a-problem-weve-all-had-before/) on-demand by entering a description or selecting a photo of you or another person. In response, the AI will generate a more accurate and lively kind of emoji.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### More Siri tricks
@@ -158,24 +158,18 @@ The big question, though, is not so much when the new AI features will arrive bu
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-in-2024-step-by-step-guide-to-radial-blur-effect-on-images/"><u>[New] In 2024, Step-by-Step Guide to Radial Blur Effect on Images</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/new-revolutionize-your-content-with-innovative-tagging-approaches/"><u>[New] Revolutionize Your Content with Innovative Tagging Approaches</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-tricks-to-simulate-quantum-leap-phenomena/"><u>[New] Tricks to Simulate Quantum Leap Phenomena</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-creative-annotation-best-smartphone-apps-reviewed/"><u>[Updated] Creative Annotation Best Smartphone Apps Reviewed</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/avoiding-distractions-with-personalized-mac-focus-modes-in-macos-monterey-tips-and-tricks/"><u>Avoiding Distractions with Personalized Mac Focus Modes in macOS Monterey - Tips & Tricks</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/cite-ai-correctly-expert-tips-on-how-to-include-chatgpt-as-a-reference-source/"><u>Cite AI Correctly: Expert Tips on How to Include ChatGPT as a Reference Source</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/glow-dynamics-enhancing-visual-storytelling-through-lighting-for-2024/"><u>Glow Dynamics Enhancing Visual Storytelling Through Lighting for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/how-to-enjoy-shared-spotify-sessions-with-another-person/"><u>How to Enjoy Shared Spotify Sessions with Another Person?</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/immerse-yourself-in-marvel-magic-through-apple-vision-pro-launch-expected-may-30-zdnet/"><u>Immerse Yourself in Marvel Magic Through Apple Vision Pro - Launch Expected May 30 | ZDNet</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-best-gadgets-to-reduce-camera-jiggle-effects/"><u>In 2024, Best Gadgets to Reduce Camera Jiggle Effects</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-honor-70-lite-5g-phone-frp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Honor 70 Lite 5G Phone FRP Lock</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/score-a-discounted-new-ipad-9th-generation-at-only-250-following-apple-event-insights-from-zdnet/"><u>Score a Discounted New iPad (9Th Generation) at Only $250 Following Apple Event - Insights From ZDNet</u></a></li>
-<li><a href="https://facebook.techidaily.com/social-media-scrapping-how-to-clear-your-profiles-blemishes/"><u>Social Media Scrapping: How to Clear Your Profile's Blemishes</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/tech-face-off-deciding-on-your-ideal-timepiece-a-comparison-of-the-google-pixel-watch-3-and-apple-watch-series-vee/"><u>Tech Face-Off: Deciding on Your Ideal Timepiece – A Comparison of the Google Pixel Watch 3 & Apple Watch Series Vee</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/the-next-generation-of-display-tech-unpacking-what-the-ipad-pros-tandem-oled-reveals-for-tomorrows-gadgets/"><u>The Next Generation of Display Tech: Unpacking What the iPad Pro's Tandem OLED Reveals for Tomorrow's Gadgets</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/transformation-de-fichiers-alaw-a-la-version-numerique-gratuite-movavi/"><u>Transformation De Fichiers ALAW À La Version Numérique Gratuite - Movavi</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/ultimate-buyers-guide-to-the-most-reliable-waterproof-wearables-of-2024-industry-expert-ratings-devicemasters/"><u>Ultimate Buyer's Guide to the Most Reliable Waterproof Wearables of 2024 - Industry Expert Ratings | DeviceMasters</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/unlocking-the-secrets-of-your-apple-watchs-lifespan-uncover-unexpected-battery-health-insights/"><u>Unlocking the Secrets of Your Apple Watch's Lifespan: Uncover Unexpected Battery Health Insights!</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-revolutionizing-music-production-a-look-at-the-leading-audio-editing-suites/"><u>Updated Revolutionizing Music Production A Look at the Leading Audio Editing Suites</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-exploring-types-and-methods-of-touchless-technology/"><u>[New] Exploring Types and Methods of Touchless Technology</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-insider-strategies-free-access-to-professional-imagery/"><u>[New] Insider Strategies Free Access to Professional Imagery</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-2024-approved-hearing-beginnings-mastering-volume-control-in-adobe-audition/"><u>[Updated] 2024 Approved Hearing Beginnings Mastering Volume Control in Adobe Audition</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/apple-pay-later-transactions-now-included-on-experian-credit-reports-what-you-need-to-know/"><u>Apple Pay Later Transactions Now Included on Experian Credit Reports - What You Need To Know</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discover-the-leading-alternative-to-apple-and-tile-expert-evaluation-of-the-best-wallet-airtags/"><u>Discover the Leading Alternative to Apple and Tile: Expert Evaluation of the Best Wallet AirTags</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discover-the-world-of-smartwatches-functions-and-features-explained/"><u>Discover the World of Smartwatches: Functions & Features Explained</u></a></li>
+<li><a href="https://article-posts.techidaily.com/in-2024-essential-steps-for-effective-online-engagement/"><u>In 2024, Essential Steps for Effective Online Engagement</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-share-on-apple-iphone-8-plus-drfone-by-drfone-ios/"><u>In 2024, How to Screen Share on Apple iPhone 8 Plus? | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-instructions-on-linking-samsung-wireless-earphones-to-your-pc/"><u>Step-by-Step Instructions on Linking Samsung Wireless Earphones to Your PC</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ultimate-guide-to-enhancing-your-airpods-pro-with-latest-accessories-featured/"><u>Ultimate Guide to Enhancing Your AirPods Pro with Latest Accessories - Featured</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unbeatable-deal-dive-into-the-best-gaming-audio-experience-with-a-staggering-discount-on-amazon-read-more-at-zdnet/"><u>Unbeatable Deal: Dive Into the Best Gaming Audio Experience with a Staggering Discount on Amazon - Read More at ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unlocking-the-secret-how-securing-an-early-ipad-pro-bargain-before-prime-day-becomes-your-best-tech-investment-insights-from-zdnet/"><u>Unlocking the Secret: How Securing an Early iPad Pro Bargain Before Prime Day Becomes Your Best Tech Investment - Insights From ZDNet</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/will-ai-outdo-magazine-horoscopes-in-prophetic-accuracy/"><u>Will AI Outdo Magazine Horoscopes in Prophetic Accuracy?</u></a></li>
 </ul></div>
 

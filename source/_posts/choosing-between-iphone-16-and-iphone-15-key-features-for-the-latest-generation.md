@@ -1,7 +1,7 @@
 ---
 title: "Choosing Between iPhone 16 and iPhone 15: Key Features for the Latest Generation"
-date: 2024-12-13T09:14:39.731Z
-updated: 2024-12-17T06:48:28.915Z
+date: 2024-12-19T07:24:20.603Z
+updated: 2024-12-25T17:51:18.349Z
 tags:
   - apple
 categories:
@@ -29,7 +29,7 @@ To help you make this decision, we've broken down all of the most important deta
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Specifications
@@ -53,10 +53,6 @@ To help you make this decision, we've broken down all of the most important deta
 
 Kerry Wan/ZDNET
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ###  1\. You'd benefit from Apple Intelligence features
 
 Apple is rolling out [multiple AI features to the iPhone 16](https://www.zdnet.com/article/apple-delivers-on-hardware-upgrades-but-punts-apple-intelligence-rollout/). Chief among them is the long-awaited Siri upgrade. The iOS assistant is much smarter than before as it is now aware of on-screen content, can better understand commands even if you stumble over your words, and can switch between text and voice inputs. This is just the tip of the iceberg, too, as Siri will fully integrate itself with [ChatGPT](https://www.zdnet.com/article/what-is-chatgpt-the-worlds-most-popular-ai-chatbot-explained/#link={) later in the year.
@@ -65,6 +61,10 @@ Apple is rolling out [multiple AI features to the iPhone 16](https://www.zdnet.c
 
 There is more to the AI features beyond Siri. Apple Intelligence will be able to summarize notifications and Priority Messages in the Mail app. Like Siri, the feature will be able to understand context. [Apple Intelligence](https://www.zdnet.com/article/what-is-apple-intelligence-everything-to-know-about-ai-features-coming-to-iphones-macs-and-ipads/) will gain additional features later in the year like the ability to create custom emojis and perform multiple actions across apps.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ###  2\. You want a better photography experience
 
 The [iPhone 16](https://www.zdnet.com/article/every-iphone-16-model-compared-which-new-iphone-should-you-buy/) is seeing a new camera array. On the back will be a 48MP Fusion camera serving as the main lens. It'll have a 2x Telephoto option for up-close photography. Apple states it'll be like having "two cameras in one." Alongside it will be a 12MP Ultra Wide lens with an autofocus function that can enable "macro photography." It can also take in "2.6x times more light \[than before\] for higher image quality." 
@@ -72,6 +72,10 @@ The [iPhone 16](https://www.zdnet.com/article/every-iphone-16-model-compared-whi
 **Also: [The 5 best iPhone 16 Pro features that enthusiasts will care about](https://www.zdnet.com/article/the-5-best-iphone-16-pro-features-that-enthusiasts-will-care-about/)**
 
 On the side below the [Power Button is the new Camera Control](https://www.zdnet.com/article/every-iphone-16-model-features-a-new-camera-button-heres-what-it-can-do/). It's a tactile switch with a special sensor that can perform unique actions with a light touch. For example, pressing it quickly launches the Camera app for taking quick snapshots or recording a video. It even introduces a preview feature to help you frame the shot. And if that wasn't enough, it'll work with third-party apps.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  3\. You want "next-level performance"
 
@@ -91,16 +95,12 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 [See all](https://www.zdnet.com/newsletters/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  You should buy the iPhone 15 if...
 
 Kerry Wan/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  1\. You don't require the generative AI capabilities
@@ -111,6 +111,10 @@ All of the bells and whistles on the iPhone 16 are certainly nice, but are they 
 
 Sometimes, it's best to wait until all the bugs have been ironed out. Plus, there's a lot of uncertainty surrounding the chipset. Early impressions indicate the A18 can handle all the AI features, but can it? Or will we see a performance drop once it launches? 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ###  2\. You're on a budget
 
 With the release of a new model, older phones often see a price drop, and that is exactly what we're getting here. Apple has cut the price of the iPhone 15 by about $100 off its digital storefront to entice new adopters. 
@@ -118,10 +122,6 @@ With the release of a new model, older phones often see a price drop, and that i
 It wouldn't be a bad pick-up, either. The camera system of the previous generation is great to this day, the A16 Bionic chip is still plenty powerful, and the Dynamic Island is a welcomed addition. You can enjoy a similar camera performance. Plus, you won't be bogged down by nascent AI features you may or may not ever use. 
 
 [Buy the iPhone 15 $729.99 at Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fbestbuy.7tiv.net%2Fc%2F376373%2F633495%2F10014%3Fprodsku%3D6417990%26u%3Dhttp%253A%252F%252Fwww.bestbuy.com%252Fsite%252F-%252F6417990.p%253Fcmp%253DRMX&publisher_slug=itechdaily19598&exclusive=1)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Alternatives to consider
 
@@ -157,18 +157,22 @@ It wouldn't be a bad pick-up, either. The camera system of the previous generati
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-in-2024-this-video-will-get-you-100000-views-on-youtube/"><u>[New] In 2024, This Video Will Get You 100000 Views on YouTube</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-transformative-tactics-for-advanced-iphone-x-animoji-utilization/"><u>[New] Transformative Tactics for Advanced iPhone X Animoji Utilization</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/updated-click-and-groove-an-insiders-guide-to-making-tiktok-dance-videos-for-mac-for-2024/"><u>[Updated] Click and Groove An Insider's Guide to Making TikTok Dance Videos for Mac for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-mastering-video-boost-tips-for-enhancement-22/"><u>[Updated] Mastering Video Boost Tips for Enhancement (2.2)</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/before-you-invest-in-a-used-laptop-keep-these-5-tips-in-mind/"><u>Before You Invest in a Used Laptop, Keep These 5 Tips in Mind</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/can-an-individual-own-and-operate-several-youtube-accounts-at-once/"><u>Can an Individual Own and Operate Several YouTube Accounts at Once?</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/1722847515794-can-you-submerge-an-iphone-13-in-water-without-damage/"><u>Can You Submerge an iPhone 13 in Water Without Damage?</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/elevate-your-smartphone-photography-with-expert-advice-on-selfie-lights/"><u>Elevate Your Smartphone Photography with Expert Advice on Selfie Lights</u></a></li>
-<li><a href="https://win-able.techidaily.com/f1-2021-optimization-guide-for-increased-performance-and-stability-on-pcs/"><u>F1 2021 Optimization Guide for Increased Performance and Stability on PCs</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/future-of-transport-the-elite-list-of-autonomous-vehicle-creators/"><u>Future of Transport: The Elite List of Autonomous Vehicle Creators</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-vivo-y100i-drfone-by-drfone-virtual-android/"><u>In 2024, 4 solution to get rid of pokemon fail to detect location On Vivo Y100i | Dr.fone</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-unleash-creativity-final-cut-pros-top-10-plug-ins/"><u>In 2024, Unleash Creativity Final Cut Pro’s Top 10 Plug-Ins</u></a></li>
-<li><a href="https://win-studio.techidaily.com/the-ultimate-solution-for-when-your-computer-ignores-usb-connections-expert-advice-from-yl-computers/"><u>The Ultimate Solution for When Your Computer Ignores USB Connections - Expert Advice From YL Computers</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-apex-screen-capture-tools-the-elite-line-up/"><u>[Updated] In 2024, Apex Screen Capture Tools The Elite Line-Up</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/a-comprehensive-walkthrough-installing-the-open-source-ms-office-substitute-libreoffice-on-your-mac-computer/"><u>A Comprehensive Walkthrough: Installing the Open-Source MS Office Substitute, LibreOffice, on Your Mac Computer</u></a></li>
+<li><a href="https://discover-comparisons.techidaily.com/comment-resoudre-le-probleme-de-centre-de-synchronisation-sous-windows-10-qui-ne-fonctionne-pas/"><u>Comment Résoudre Le Problème De Centre De Synchronisation Sous Windows 10 Qui Ne Fonctionne Pas ?</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/cutting-edge-tech-treasures-for-thrifty-explorers/"><u>Cutting-Edge Tech Treasures for Thrifty Explorers</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/essential-vlogging-tools-for-beginners-for-2024/"><u>Essential Vlogging Tools for Beginners for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/excellent-buys-for-4k-shooting-on-a-budget-(1000/"><u>Excellent Buys for 4K Shooting on a Budget <$1,000</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-recover-when-your-computer-cant-find-mscorwksdll/"><u>How To Recover When Your Computer Can't Find mscorwks.dll</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-seamlessly-set-up-psvr-on-a-windows-or-mac-computer/"><u>How to Seamlessly Set Up PSVR on a Windows or Mac Computer</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/in-depth-look-playstation-ports-specs-cost-and-where-to-secure-your-copy-on-launch-day/"><u>In-Depth Look: PlayStation Port's Specs, Cost & Where to Secure Your Copy on Launch Day</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/master-tips-fixing-steamdll-file-not-located-or-missing-issues/"><u>Master Tips: Fixing 'Steam.dll File Not Located' Or Missing Issues</u></a></li>
+<li><a href="https://solve-manuals.techidaily.com/movavis-free-web-service-convert-videos-from-flv-format-to-swf-online-instantly/"><u>Movavi's Free Web Service: Convert Videos From FLV Format to SWF Online Instantly!</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/navigate-through-our-favourites-5-leading-free-worldwide-voice-applications/"><u>Navigate Through Our Favourites: 5 Leading Free Worldwide Voice Applications</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/optimal-vision-selections-of-best-4k-dslrs-in-action-for-2024/"><u>Optimal Vision Selections of Best 4K DSLRs in Action for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/1722894324683-planning-your-apple-store-visit-heres-how-to-make-a-quick-and-easy-appointment/"><u>Planning Your Apple Store Visit? Here's How to Make a Quick and Easy Appointment.</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/resolving-mobile-errors-9-steps-to-get-your-iphones-chatgpt-up-and-running-again/"><u>Resolving Mobile Errors: 9 Steps to Get Your iPhone's ChatGPT Up and Running Again</u></a></li>
+<li><a href="https://win-dash.techidaily.com/simple-steps-updating-and-downloading-amd-graphics-card-software/"><u>Simple Steps: Updating & Downloading AMD Graphics Card Software</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/solving-the-connection-problem-a-guide-to-repairing-apple-watch-pairing-issues/"><u>Solving the Connection Problem: A Guide to Repairing Apple Watch Pairing Issues</u></a></li>
 </ul></div>
 

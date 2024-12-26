@@ -1,7 +1,7 @@
 ---
 title: "Cracking the Code on Discounts for Students: Save Big with Lenovo Tech Offers"
-date: 2024-08-30T13:13:00.491Z
-updated: 2024-08-31T13:13:00.491Z
+date: 2024-12-19T02:03:48.951Z
+updated: 2024-12-25T21:17:15.894Z
 categories:
   - BestProducts
 description: "This Article Describes Cracking the Code on Discounts for Students: Save Big with Lenovo Tech Offers"
@@ -25,22 +25,52 @@ thumbnail: https://thmb.techidaily.com/8a3dcbc1949f8fc1125959e7981cf826a5c632863
 1. Navigate to the[ID.me Student Discounts page](https://shop.id.me/student) and use the search bar to search for Lenovo deals.  
 ![Search results for the Lenovo brand on the ID.me Student Deals site.](https://www.lifewire.com/thmb/AbMcQ19FF6rXmXmR0QxNHelyxaw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_lenovo-student-discount-4686110-90891c6114e4441e9b2143f9663a2cbc.jpg)
 2. Scroll down to**All Offers** and select**Shop Now** beside a student deal of interest.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Student deal offers for the Lenovo brand on the ID.me shop.](https://www.lifewire.com/thmb/IFelZHCkRNHDTtCCfcfTR3Q5xUM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002_lenovo-student-discount-4686110-6807a8d875a24ab683ab33b154b63e71.jpg)
 3. You'll be redirected to view and shop student deals on the Lenovo site.  
 ![Back-to-school deals on the Lenovo site](https://www.lifewire.com/thmb/Wt3WcrIQtxSUhEa31r7yaejAr5Q=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/003_lenovo-student-discount-4686110-9f9923e8eb5243678f9ced51db7c6986.jpg)
 4. Once you've added an item to your cart and you're ready to make your purchase, view the cart and scroll down until you see the ID.me verification box. Then select**Verify with ID.me** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Verify with ID.me option from the Lenovo checkout page](https://www.lifewire.com/thmb/n4OwILW4aBaHE91JfeX0JQRg_44=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004_lenovo-student-discount-4686110-dd7afc30a4784a428579447592c05b41.jpg)
 5. Select**Student** \>**Continue to sign in** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Sign-in option as a student via ID.me verification from the Lenovo website](https://www.lifewire.com/thmb/HNCIzyPkQMfFdlQkqi_R7pdvLkc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/005_lenovo-student-discount-4686110-af6ee06d647e4718811b38e23119afb1.jpg)
 6. Select**Create an ID.me account** .  
 ![The Create an ID.me account option from the ID.me verification box on the Lenovo site](https://www.lifewire.com/thmb/LA37K_TFyCSv8Zgn-KG36vscgrg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/006_lenovo-student-discount-4686110-22abe59239694111865cad34a05ad14b.jpg)
 7. Enter an email and password and select**Create account** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![ID.me create account dialog box from the Lenovo site](https://www.lifewire.com/thmb/c_QfPgvKb6N9S5ibSdoizhp7WAQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/007_lenovo-student-discount-4686110-0990fc1c577a401da0c6202ea670f42e.jpg)
 8. After you verify your email address, select**Begin** to start the student enrollment verification process.  
 ![ID.me Student ID confirmation.](https://www.lifewire.com/thmb/PBnU2VMs9pTHd6RHUKIQIubNrWQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/begin-f2793e4c6c894196bd58e9bcf50bfa59-a83cfbf7ad5840a4b5881e8ea62d659d.JPG)
 9. Choose your school, enter your information, and select**Continue** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![ID.me school enrollment verification page.](https://www.lifewire.com/thmb/ao7U2J8Fv8fVb9ZTFjggs9kGBmk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/idme8-37143fdf4c224ed5979b3469f5652fef-2ac1ec7344944ed19941f56ddceb623f.JPG)
 10. If the system automatically verifies your enrollment, you'll see a verification message, and your ID.me account is ready to use. You'll also see the Lenovo student discount applied automatically to your purchase.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If the system cannot verify your enrollment, it will prompt you to upload student documentation. Upload the eligible documents and select**Continue** to submit the paperwork.
 
 ## How to Use Your Lenovo Student Discount
@@ -57,12 +87,14 @@ thumbnail: https://thmb.techidaily.com/8a3dcbc1949f8fc1125959e7981cf826a5c632863
  You can also sign in to ID.me with your Facebook, Google, or LinkedIn account.  
 ![Signing in with ID.me verification from the Lenovo site](https://www.lifewire.com/thmb/r_6sBdz0n93hZOaY79xRHLhmtL4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/011_lenovo-student-discount-4686110-772fd44d9c9e4bc7ac1d701bbff832fe.jpg)  
  If you haven't set up your ID.me account, you're prompted to verify your enrollment. If you are verified, ID.me passes that information to Lenovo to unlock your discount.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Verify that your discount has been applied and complete your purchase.  
  The Lenovo student discount functions like a coupon code that you apply when you check out and buy your items. Instead of entering a coupon code, after you enter your ID.me information, ID.me verifies that you are a student, and Lenovo provides you with a discount.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Who Is Eligible For the Lenovo Student Discount?
 
  Lenovo has requirements that you must meet to take advantage of their student discount. To qualify for this discount, you must be:
@@ -72,27 +104,18 @@ thumbnail: https://thmb.techidaily.com/8a3dcbc1949f8fc1125959e7981cf826a5c632863
 
  Primary and secondary students aren't eligible for the discount. College students who haven't turned 18 are also not eligible. The program isn't available to anyone currently taking professional training courses but not enrolled at a qualifying university or college.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
-<!-- affiliate ads end -->
 ## What Does the Lenovo Student Discount Get You?
 
  The Lenovo student discount provides a five to 20 percent discount on big name brands like Thinkpad and Ideapad. There isn't a standard discount amount, but you can view the currently available deals by visiting the Lenovo College Deals page.
 
  Lenovo applies discounts in the shopping cart after verifying that you are a student. You won't see the discount reflected in the Lenovo website's prices.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## How Does Lenovo Verify Student Enrollment?
 
  Lenovo uses an identity verification service called ID.me to check your enrollment as a qualifying institution student. This service verifies enrollment at four-year universities, junior and community colleges, and technical colleges.
 
  When ID.me can't automatically verify your enrollment, you can upload supporting documentation. For this process to work, you'll need to scan your documents for students at ID.me to go through manually.  
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
-<!-- affiliate ads end -->
 ## What to Do When Automatic Verification Fails
 
  Since Lenovo uses ID.me to check your status as a student, the verification process is usually automated and painless. When the process fails, upload your supporting documentation to access your student discount.
@@ -105,9 +128,6 @@ thumbnail: https://thmb.techidaily.com/8a3dcbc1949f8fc1125959e7981cf826a5c632863
 
  If you still can't access the student discount, even after providing documentation manually,[contact ID.me customer support](https://help.id.me/hc/en-us/articles/202858654-I-couldn-t-resolve-my-problem-using-FAQs-How-can-I-reach-ID-me-for-additional-help-) for additional assistance. Someone may need to process your application manually.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## What Happens to Your Lenovo Student Discount When You Graduate?
 
  The Lenovo student discount is only available if you're enrolled at an accredited school, which is the same as the[Spotify student discount](https://www.lifewire.com/spotify-student-discount-4684465) . If you graduate or leave school, you're no longer eligible for the discount.
@@ -134,8 +154,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -143,4 +161,21 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/new-comprehensive-solution-for-partially-muted-fb-video-tracks-for-2024/"><u>[New] Comprehensive Solution for Partially Muted FB Video Tracks for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-exclusive-nintendo-switch-fighter-lineups-max-156/"><u>[Updated] 2024 Approved Exclusive Nintendo Switch Fighter Lineups (Max 156)</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-how-to-create-a-memorable-podcast-name-from-brainstorming-to-execution/"><u>[Updated] How To Create a Memorable Podcast Name From Brainstorming to Execution</u></a></li>
+<li><a href="https://howto.techidaily.com/7-solutions-to-fix-error-code-963-on-google-play-of-xiaomi-redmi-note-12-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Error Code 963 on Google Play Of Xiaomi Redmi Note 12 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/can-you-submerge-the-new-iphone-15-pro-max-in-water-without-damage/"><u>Can You Submerge The New iPhone 15 Pro Max In Water Without Damage?</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-get-and-use-pokemon-go-promo-codes-on-samsung-galaxy-m54-5g-drfone-by-drfone-virtual-android/"><u>How to Get and Use Pokemon Go Promo Codes On Samsung Galaxy M54 5G | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-honor-play-40c-photos-an-easy-method-explained-by-fonelab-android-recover-photos/"><u>How to Restore Deleted Honor Play 40C Photos An Easy Method Explained.</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-ideas-that-make-your-meme-go-global/"><u>In 2024, Ideas That Make Your Meme Go Global</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/select-the-perfect-gaming-system-5-key-points-to-ponder/"><u>Select the Perfect Gaming System: 5 Key Points to Ponder</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-guide-removing-programs-from-your-samsung-smart-tv/"><u>Step-by-Step Guide: Removing Programs From Your Samsung Smart TV</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-complete-walkthrough-snapping-photos-of-your-pc-screen-with-simple-shortcuts/"><u>The Complete Walkthrough: Snapping Photos of Your PC Screen with Simple Shortcuts</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-computer-review-the-ultimate-guide-t17238628798429/"><u>Tom's Computer Review: The Ultimate Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-rated-kid-friendly-tablets-according-to-parents-and-experts-a-comprehensive-guide/"><u>Top Rated Kid-Friendly Tablets According to Parents and Experts - A Comprehensive Guide</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unlocking-your-vehicles-secrets-a-guide-to-discovering-the-right-car-radio-code/"><u>Unlocking Your Vehicle's Secrets: A Guide to Discovering the Right Car Radio Code</u></a></li>
+</ul></div>
 

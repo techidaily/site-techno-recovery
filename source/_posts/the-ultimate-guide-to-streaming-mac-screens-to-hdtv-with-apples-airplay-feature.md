@@ -1,7 +1,7 @@
 ---
 title: The Ultimate Guide to Streaming Mac Screens to HDTV with Apple's AirPlay Feature
-date: 2024-08-30T13:13:46.940Z
-updated: 2024-08-31T13:13:46.940Z
+date: 2024-12-22T04:18:33.170Z
+updated: 2024-12-26T03:10:53.121Z
 categories:
   - BestProducts
 description: This Article Describes The Ultimate Guide to Streaming Mac Screens to HDTV with Apple's AirPlay Feature
@@ -36,6 +36,11 @@ thumbnail: https://www.lifewire.com/thmb/UrzRGmcZTv-6ckHPD6yEQZCK8rc=/400x300/fi
 6. In macOS 12, select**Disconnect** to stop AirPlay. Choose**Done** to close the window.  
 ![The Disconnect button on the Mac Displays screen](https://www.lifewire.com/thmb/kQLPzx7LsVy7uLLCsJcyCMOsHrw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/006-airplay-from-mac-to-tv-5191732-debc78f9007849c48e86e6e31e1f8871.jpg)
 7. In macOS 11, turn off AirPlay by selecting**Display Preferences** in the Screen Mirroring window, then use the menu next to**AirPlay Display** to select**Off** . For macOS 14, go back to**Control Center** , select**Screen Mirroring** , then click the TV you want to disconnect from.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![AirPlay Display menu in macOS 11](https://www.lifewire.com/thmb/oAV5KrlBhavWG-GPRjdIOe1e4u4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/007-airplay-from-mac-to-tv-5191732-ca542e44738c47eba2b6f2dbac365642.jpg)  
 
 ## How to Turn On AirPlay in macOS Catalina and Mojave  
@@ -46,39 +51,43 @@ thumbnail: https://www.lifewire.com/thmb/UrzRGmcZTv-6ckHPD6yEQZCK8rc=/400x300/fi
 9. Under AirPlay To, choose the Apple TV or AirPlay-compatible TV.  
 ![AirPlay status icon and AirPlay To devices highlighted from the macOS menu bar.](https://www.lifewire.com/thmb/6exsEZ4gsCJ5GTKsBnBaLszMFNc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_how-to-airplay-from-a-mac-to-tv_5191732-bc8ec7fdf0b74dc98731f4477eaf2781.jpg)
 10. Alternatively, open**Control Center** , select**Screen Mirroring** and choose the name of your Apple TV or AirPlay-compatible TV.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
-<!-- affiliate ads end -->
 11. If it’s your first time connecting to your smart TV, input the_code_ you see on your TV when prompted on your Mac.  
 ![AirPlay Device Code box that appears on a Mac when connecting to a smart TV.](https://www.lifewire.com/thmb/EPNisXy2HXKSoVsvA59esOGgZlo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002_how-to-airplay-from-a-mac-to-tv_5191732-cb9264410ed04ab1859e603cf5e30a6c.jpg)  
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 <!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How To Mirror My Mac to My TV in macOS Catalina or Mojave  
 
  Once you’ve turned on AirPlay on your Mac, mirroring your display to your TV happens automatically. You can make adjustments to the mirroring size for the best experience.
 12. After turning on AirPlay, select the blue**AirPlay status** icon.  
 ![Blue AirPlay status icon on macOS menu bar.](https://www.lifewire.com/thmb/McTHa-g8oQ0uga4BSnE5L9YXTGg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/003_how-to-airplay-from-a-mac-to-tv_5191732-a648a4eb92cc4e4fba06e7916d7d2bf8.jpg)
 13. Review the mirroring options from the AirPlay drop-down menu under**AirPlay:** _TV\_Name_ .**Mirror** _TV\_Name_ is the default setting, which means the content mirrored to your TV will match your TV’s display size.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![The default mirroring option highlighted from the AirPlay status icon drop-down menu.](https://www.lifewire.com/thmb/bmL9yhxy_0irCqjPk2vvputsRNo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004_how-to-airplay-from-a-mac-to-tv_5191732-aec8903e6f7d46ed8f272a709318be99.jpg)
 14. To change mirroring to your Mac’s built-in display, select**Mirror** **Built-in** _Display\_Name_ .  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![The option to match a Mac's built-in display size while mirroring highlighted from the AirPlay drop-down menu on a Mac.](https://www.lifewire.com/thmb/LlK2cKHBq0VYdKmJDmJbLJl3mXw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/005_how-to-airplay-from-a-mac-to-tv_5191732-e71a826f637e41abbe773ab96cfc1038.jpg)
 15. If you want to mirror the content from a particular app or video with AirPlay functionality, select the**AirPlay** icon and choose your smart TV from the list of available devices.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
-<!-- affiliate ads end -->
 ![AirPlay icon and device options highlighted from within an AirPlay-enabled app on a Mac.](https://www.lifewire.com/thmb/SMlnEpG_1VEImUPg0CLSTXQjOSk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/006_how-to-airplay-from-a-mac-to-tv_5191732-17745c68ee7148c5b54c32da7d11134d.jpg)  
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How Do I AirPlay From My Mac to My Smart TV Without Apple TV?  
 
  You don’t need an Apple TV to enjoy AirPlay screen mirroring or audio casting from your Mac, provided you have a compatible television. The steps for turning on and using AirPlay are the same as connecting to an Apple TV. However, here are a few things to keep in mind to ensure you can AirPlay seamlessly from your Mac to a non-Apple smart TV.  
@@ -113,8 +122,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -122,4 +129,26 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-music-magic-for-instagram-a-guide/"><u>[New] 2024 Approved Music Magic for Instagram A Guide</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-guide-to-saving-real-time-screen-chats/"><u>[New] In 2024, Guide to Saving Real-Time Screen Chats</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-filmforge-editors-review-complete-overview/"><u>[Updated] FilmForge Editor's Review – Complete Overview</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-share-wisdom-4-proven-methods-to-tie-fb-stories/"><u>2024 Approved Share Wisdom 4 Proven Methods to Tie FB Stories</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/comprehensive-d-link-router-passwords-guide-updated-july-2024/"><u>Comprehensive D-Link Router Passwords Guide Updated July 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/differences-unveiled-a-comprehensive-look-at-ipad-mini-vs-ipad-air/"><u>Differences Unveiled: A Comprehensive Look at iPad Mini vs iPad Air</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/enablingdisabling-network-discovery-feature-on-windows-10-a-step-by-step-guide/"><u>Enabling/Disabling Network Discovery Feature on Windows 10: A Step-by-Step Guide</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/error-code-0x80004005-explained-simple-solutions-for-a-seamless-experience/"><u>Error Code 0X80004005 Explained: Simple Solutions for a Seamless Experience</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/final-cut-pro-full-using-guide/"><u>Final Cut Pro Full Using Guide</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-xiaomi-13-ultra-frp-in-3-different-ways-by-drfone-android/"><u>How To Bypass Xiaomi 13 Ultra FRP In 3 Different Ways</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-successfully-address-and-resolve-netflix-error-code-nw-1-19/"><u>How to Successfully Address and Resolve Netflix Error Code NW-1-19</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-from-novice-to-master-photographer-with-lunapic/"><u>In 2024, From Novice to Master Photographer with LunaPic</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-on-oppo-reno-11f-5g-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock on Oppo Reno 11F 5G Devices</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/make-your-wi-fi-visible-again-expert-fixes-for-network-disappearances/"><u>Make Your Wi-Fi Visible Again: Expert Fixes for Network Disappearances</u></a></li>
+<li><a href="https://ai-video.techidaily.com/new-netflix-subtitle-translation-methods-comprehensive-guide/"><u>New Netflix Subtitle Translation Methods Comprehensive Guide</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/savor-the-best-in-affordable-high-end-gadgets-top-recommendations-to-try-now/"><u>Savor the Best in Affordable High-End Gadgets – Top Recommendations to Try Now</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/steps-for-crafting-visually-stimulating-fb-ad-content-for-2024/"><u>Steps for Crafting Visually Stimulating FB Ad Content for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-best-amazon-prime-day-deals-on-tech/"><u>The Best Amazon Prime Day Deals on Tech</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/tips-for-retrieving-and-reading-your-lost-iphone-messages/"><u>Tips for Retrieving and Reading Your Lost iPhone Messages</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Unveiling Hidden In-Built Smart Radio Technology in Macs & iPads: Do You Possess One?"
-date: 2024-12-13T20:17:47.022Z
-updated: 2024-12-17T10:26:06.563Z
+date: 2024-12-19T02:39:13.029Z
+updated: 2024-12-25T16:21:37.701Z
 tags:
   - apple
 categories:
@@ -36,6 +36,10 @@ When Apple launched the iPhone 15 lineup last fall, [it announced](https://www.a
 * [iPad Air 13-inch Wi-Fi (M2)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0D3J7GPRX%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cd34bd512-6fa4-4559-9369-3fad6235f188%7Cdtp&dtb=1) \- [_FCC report_](https://fcc.report/FCC-ID/BCGA2898/7213158)
 * [iPad Air 11-inch Wi-Fi & Cellular (M2)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0D3J61DQ4%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cd34bd512-6fa4-4559-9369-3fad6235f188%7Cdtp&dtb=1) \- [_FCC report_](https://fcc.report/FCC-ID/BCGA2898/7213158)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Macs with a Thread radio:
 
 * [MacBook Pro 16-inch (M3 Pro or M3 Max)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CM5BL45N%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cd34bd512-6fa4-4559-9369-3fad6235f188%7Cdtp&dtb=1) \-[_FCC report_](https://fcc.report/FCC-ID/BCGA2991/6866513.pdf)
@@ -58,17 +62,9 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 Since the iPad and Mac run Apple's Home app, they could function as Thread border routers, integrating more seamlessly with smart home networks. This could indicate the iPad's return to functioning as a smart home hub. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to check if your iPad or Mac has a Thread radio
 
 The best way to determine if your device has a Thread radio built-in is to look for evidence of Thread testing in the device's [FCC reports](https://fcc.report/). 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 1\. Find your device's model number or FCC ID
 
@@ -86,6 +82,10 @@ You can access the Apple FCC database by clicking [FCC.Report/company/Apple](htt
 
 Search for your device's model number or FCC ID by performing a quick **Find** using _Ctrl F_ or _cmd F_.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. Click on the device's report
 
 Clicking on the device's report will bring up a list of all the reports created for the device available through the FCC.
@@ -98,11 +98,11 @@ Search for any test reports mentioning "Thread" or "IEEE 802.15.4," which is the
 
 If a Thread radio exists in that device, you should find a report of its compliance testing since a non-existent feature wouldn't be tested.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## FAQ
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What is Thread?
 
@@ -113,7 +113,7 @@ Thread is a low-energy wireless communication protocol for smart home devices cr
 Thread was created as an energy-efficient and secure protocol to connect battery-powered devices, like smart home sensors, smart locks, room thermometers, lights, thermostats, and security systems. The IP-based protocol allows for easy integration with smart home ecosystems, which is Matter's main goal.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What is a Thread border router?
@@ -131,10 +131,6 @@ The HomePod, HomePod mini, and some Apple TV devices function as Thread border r
 Thread creates a self-healing mesh network, so having more border routers in a smart home makes for a more stable and efficient connection between devices. The robust self-healing network ensures that devices remain connected even if one or more devices in the network go offline or experience issues, working together without interruptions.
 
 For example, if you have a Thread smart lock and temperature sensor and a Wi-Fi smart thermostat, a Thread border router like the HomePod mini connects the smart lock and sensor to the Wi-Fi network and enables communication between the sensor and thermostat. It also would allow you to control all three devices through a single app -- in this case, Apple Home -- even if you're not home.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Why would Apple give some iPads and Macs Thread radios and not all?
 
@@ -163,6 +159,10 @@ Apple opted to offer the smart home hub feature only to dedicated devices like t
 Giving newer iPads Thread support would bring back its smart home hub functionality and make iPads a more robust option for the smart home than before. 
 
 If users want to keep an older iPad as a smart home hub, it cannot have iOS 16 and will work only with basic HomeKit functionality, as new features and enhancements introduced after iOS 16 won't be supported.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Would Thread replace Bluetooth for Apple peripherals?
 
@@ -204,22 +204,18 @@ The Apple Watch primarily uses Bluetooth to connect to the iPhone, but when Blue
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-approaches.techidaily.com/new-soundscapes-for-your-status-story/"><u>[New] Soundscapes for Your Status Story</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-tech-tussle-2022-gopro-hero5-clash-with-garmin-virb/"><u>[New] Tech Tussle 2022 GoPro Hero5 Clash with Garmin VIRB</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-make-a-youtube-subscribe-link-easy-for-2024/"><u>[Updated] How to Make a YouTube Subscribe Link - Easy for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-ultimate-psd-style-boosting/"><u>2024 Approved Ultimate PSD Style Boosting</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/creating-a-memorable-signature-for-your-professional-communications-on-godaddys-email-platform/"><u>Creating a Memorable Signature for Your Professional Communications on GoDaddy's Email Platform</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/discover-the-ultimate-list-10-favored-complimentary-email-providers/"><u>Discover the Ultimate List: 10 Favored Complimentary Email Providers</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/easy-methods-for-embedding-descriptive-titles-into-your-ig-stories/"><u>Easy Methods for Embedding Descriptive Titles Into Your IG Stories</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/effective-methods-for-silencing-promotional-messages-on-iphones/"><u>Effective Methods for Silencing Promotional Messages on iPhones</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/effective-strategies-for-correcting-the-missing-user32dll-file-mistake/"><u>Effective Strategies for Correcting the Missing User32.dll File Mistake</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/effortless-methods-to-cancel-your-subscription-with-paramountplus/"><u>Effortless Methods to Cancel Your Subscription with Paramount+</u></a></li>
-<li><a href="https://facebook.techidaily.com/from-internship-to-impact-unveiling-the-metamate-identity/"><u>From Internship to Impact: Unveiling the Metamate Identity</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-a-review-10-most-effective-methods-for-live-cricket-streaming/"><u>In 2024, A Review 10 Most Effective Methods for Live Cricket Streaming</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/instagrams-music-ownership-standards/"><u>Instagram's Music Ownership Standards</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/reinitiate-your-macs-internet-setup-a-guide-to-adjusting-network-settings/"><u>Reinitiate Your Mac’s Internet Setup: A Guide to Adjusting Network Settings</u></a></li>
-<li><a href="https://techidaily.com/sign-a-pdf-v14-document-with-digital-signature-software-by-ldigisigner-sign-a-pdf-sign-a-pdf/"><u>Sign a PDF v1.4 document with digital signature software</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/solving-the-netflix-error-a-step-by-step-guide-to-overcoming-issue-nw-1-19/"><u>Solving the Netflix Error: A Step-by-Step Guide to Overcoming Issue NW-1-19</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/troubleshooting-techniques-for-the-missing-or-damaged-msstdfmtdll-problem/"><u>Troubleshooting Techniques for the 'Missing or Damaged msstdfmt.dll' Problem</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-kickstarting-with-a-gopro-unbox-the-perfect-add-ons/"><u>[New] Kickstarting with a GoPro Unbox the Perfect Add-Ons</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-crafting-powerful-narratives-with-these-30-video-plans/"><u>2024 Approved Crafting Powerful Narratives with These 30 Video Plans</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-photo-cartoony-kick-cross-platform-windows-and-mac-software/"><u>2024 Approved Photo Cartoony Kick Cross-Platform Windows & Mac Software</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/amazon-echo-studio-dominates-in-new-in-depth-review-is-it-unmatched/"><u>Amazon Echo Studio Dominates in New In-Depth Review – Is It Unmatched?</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/anthropics-advanced-ai-claude-powers-amazon-alexas-latest-enhancements-insights-from-zdnet/"><u>Anthropic’s Advanced AI, Claude, Powers Amazon Alexa’s Latest Enhancements - Insights From ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/compact-pocket-sized-bluetooth-speaker-with-rich-bass-output-an-in-depth-review/"><u>Compact Pocket-Sized Bluetooth Speaker with Rich Bass Output - An In-Depth Review</u></a></li>
+<li><a href="https://windows11.techidaily.com/enriching-windows-taskmanager-with-cli-tab-feature/"><u>Enriching Windows TaskManager with CLI Tab Feature</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/era-300-sonos-smart-speaker-evaluation-near-perfection-marred-by-significant-flaw-insights-from-zdnet/"><u>Era 300 Sonos Smart Speaker Evaluation: Near-Perfection Marred by Significant Flaw - Insights From ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/exclusive-roundup-the-ultimate-2024-smart-speakers-ranking-in-depth-evaluations-zdnet/"><u>Exclusive Roundup: The Ultimate 2024 Smart Speakers Ranking - In-Depth Evaluations | ZDNet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-newest-zebra-printing-drivers-for-windows-download-guide/"><u>Get the Newest Zebra Printing Drivers for Windows: Download Guide</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/open-source-tranquil-harmony/"><u>Open Source Tranquil Harmony</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/the-art-of-revision-efficient-erasing-techniques-in-psx/"><u>The Art of Revision Efficient Erasing Techniques in PSX</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/upgrading-to-jbl-beats-how-swapping-out-my-expensive-soundbar-was-an-awesome-surprise-home-theater-hub/"><u>Upgrading to JBL Beats - How Swapping Out My Expensive Soundbar Was an Awesome Surprise | Home Theater Hub</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Unveiling the Future of Tablets: IPad Pro M4, New 13-Inch iPad Air & Enhanced Apple Pencil Pro - Latest Updates From Apple's Major Product Launch | TechInsights."
-date: 2024-12-07T20:09:22.179Z
-updated: 2024-12-10T19:46:17.111Z
+date: 2024-12-18T18:35:31.388Z
+updated: 2024-12-25T19:42:26.246Z
 tags:
   - apple
 categories:
@@ -26,15 +26,15 @@ Tim Cook kicked off the event by speaking about how the Apple Vision Pro has bee
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Everything announced at Apple's 'Let Loose' event
 
 Apple's "Let Loose" was a virtual product launch event that took place on May 7, at 7 am PT/10 am ET. It lasted about 35 minutes and was live-streamed on [Apple.com](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2F&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp), [YouTube](https://www.youtube.com/watch?v=f1J38FlDKxo), and via the Apple TV app. 
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. iPad Pro, now with OLED displays and M4
 
@@ -56,10 +56,6 @@ Like previous generations, Apple is making the latest iPad Pro available in 11-i
 
 The iPad Pro starts at $999 for the 11-inch model and $1,299 for the 13-inch model. It's available in Silver and Space Black, with storage sizes ranging from 256GB to 2TB. You can [available to preorder now](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-ipad%2Fipad-pro&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp), with orders shipping next week.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. iPad Air gets a new, larger size
 
 Apple
@@ -75,6 +71,10 @@ Apple
 Unlike the M4-equipped iPad Pro, the iPad Air comes with an M2 chip, making it almost 50% faster than the previous model with M1 and three times faster than the A13 Bionic model. The faster processor supports AI editing in photos with a single tap on the screen, as well as Apple Pencil hover, whether you use the lower-cost USB-C version or the new Apple Pencil Pro.
 
 The new iPad Air is available in Blue, Purple, Starlight, and Space Gray, with [prices starting at $599](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-ipad%2Fipad-air&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) for the 11-inch iPad Air, and $799 for the 13-inch model.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Apple Pencil Pro
 
@@ -93,7 +93,7 @@ Apple
 The Apple Pencil Pro costs $129 and supports Apple's Find My service, letting you track the location of the accessory should you drop or misplace it. You can purchase the [Apple Pencil Pro](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fproduct%2FMX2D3AM%2FA%2Fapple-pencil-pro&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) today, and it will start shipping next week.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Magic Keyboard
@@ -103,7 +103,7 @@ Apple
 The iPad event also included a new, more durable Magic Keyboard, featuring a larger trackpad and a function row along the top. The Magic Keyboard's new look and upgraded aluminum construction is meant to make the iPad Pro look and feel more like a laptop, rather than a tablet with an optional keyboard case.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Why would Apple host an event before WWDC?
@@ -111,7 +111,7 @@ The iPad event also included a new, more durable Magic Keyboard, featuring a lar
 Although Apple is hosting its [Worldwide Developers Conference (WWDC)](https://www.zdnet.com/article/apple-confirms-wwdc-2024-for-june-10-will-ai-steal-the-show/) on June 10, that event is reserved for new iOS, iPadOS, visionOS, and macOS announcements, plus Apple's new AI strategy. The Let Loose event was focused on the latest hardware offerings, with the [OLED iPad Pro](https://www.zdnet.com/article/7-ipad-pro-features-that-would-make-me-instantly-upgrade-to-apples-next-model/) being the main star.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Did the Let Loose event cover iPadOS 17.5 or iPadOS 18?
@@ -160,19 +160,19 @@ The Apple Let Loose event was a pre-recorded video but is still available for st
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-in-2024-top-10-clear-sound-microphones-for-cams/"><u>[New] In 2024, Top 10 Clear Sound Microphones for Cams</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-buzzing-tracks-ultimate-backdrops-for-youtube-shorts-for-2024/"><u>[Updated] Buzzing Tracks Ultimate Backdrops for YouTube Shorts for 2024</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-mastering-the-digital-persona-shift-ultimate-guide-to-changing-your-tiktok-handle/"><u>[Updated] Mastering the Digital Persona Shift Ultimate Guide to Changing Your TikTok Handle</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/deciding-between-ipad-pro-models-a-detailed-comparison-of-the-m1-vs-m2-for-tech-enthusiasts/"><u>Deciding Between iPad Pro Models: A Detailed Comparison of the M1 Vs. M2 for Tech Enthusiasts</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/fast-charging-breakthrough-esr-launches-qi2-magsafe-batch-boosts-iphone-16-charge-rates-while-avoiding-overheating-insights/"><u>Fast-Charging Breakthrough: ESR Launches Qi2 MagSafe Batch Boosts iPhone 16 Charge Rates While Avoiding Overheating - Insights</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/homepod-or-homepod-mini-a-comprehensive-guide-to-selecting-apples-optimal-smart-speaker/"><u>HomePod or HomePod Mini - A Comprehensive Guide to Selecting Apple's Optimal Smart Speaker</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-depth-methodology-for-adding-srt-in-mp4-files-for-2024/"><u>In-Depth Methodology for Adding SRT in MP4 Files for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/nostalgia-alert-your-must-see-80s-movie-list-for-ultimate-entertainment/"><u>Nostalgia Alert: Your Must-See '80S Movie List for Ultimate Entertainment</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/pokemon-go-cooldown-chart-on-apple-iphone-se-2020-drfone-by-drfone-virtual-ios/"><u>Pokémon Go Cooldown Chart On Apple iPhone SE (2020) | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/solving-the-unsupported-miracast-reception-on-your-device-issue-top-5-tips-for-2e4/"><u>Solving the 'Unsupported Miracast Reception on Your Device' Issue: Top 5 Tips for 2E4</u></a></li>
-<li><a href="https://games-able.techidaily.com/stalled-games-not-good-days-manually-extracting-from-sx/"><u>Stalled Games, Not Good Days: Manually Extracting From SX</u></a></li>
-<li><a href="https://win-awesome.techidaily.com/tecniche-avanzate-per-il-controllo-e-la-manutenzione-dei-computer-utilizzati-dai-clienti/"><u>Tecniche Avanzate per Il Controllo E La Manutenzione Dei Computer Utilizzati Dai Clienti</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ltimate-streaming-showdown-fb-live-yt-live-tweetspaces/"><u>The Ultimate Streaming Showdown FB Live, YT Live, TweetSpaces</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/ultimate-guide-clearing-your-inbox-deleting-every-email-on-the-gmail-mobile-app/"><u>Ultimate Guide: Clearing Your Inbox - Deleting Every Email on the Gmail Mobile App</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-comprehensive-degree-of-view-analysis/"><u>[New] 2024 Approved Comprehensive Degree of View Analysis</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-unleashing-instagram-potential-smart-strategies-for-using-hashtags/"><u>[Updated] 2024 Approved Unleashing Instagram Potential Smart Strategies for Using Hashtags</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/1-retrieve-lost-iphone-voicemails-with-simple-steps/"><u>1. Retrieve Lost iPhone Voicemails with Simple Steps</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unleash-the-full-potential-of-your-live-streams-using-onestream/"><u>2024 Approved Unleash the Full Potential of Your Live Streams Using OneStream</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/avoiding-digital-interruptions-building-personalized-mac-focus-screens-with-macos-monterey/"><u>Avoiding Digital Interruptions: Building Personalized Mac Focus Screens with macOS Monterey</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/comparing-apple-to-microsoft-a-deep-dive-into-mac-and-pc-contrasts/"><u>Comparing Apple to Microsoft: A Deep Dive Into Mac and PC Contrasts</u></a></li>
+<li><a href="https://facebook.techidaily.com/debunking-the-digital-dossiers-unraveling-facebooks-misconits/"><u>Debunking the Digital Dossiers: Unraveling Facebook's Misconits</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/expert-reviews-on-the-most-durable-iphone-se-case-for-2eiwu-2022-in-depth-comparison-with-best-picks/"><u>Expert Reviews on the Most Durable iPhone SE Case for 2Eiwu 2022 | In-Depth Comparison with Best Picks</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-ultimate-slomo-recording-tool-assessment-guide/"><u>In 2024, The Ultimate SloMo Recording Tool Assessment Guide</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/mastering-message-edits-on-instagram-with-easy-steps/"><u>Mastering Message Edits on Instagram with Easy Steps</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-guide-restoring-defaults-in-mac-os-network-preferences/"><u>Step-by-Step Guide: Restoring Defaults in Mac OS Network Preferences</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-essential-walkthrough-on-implementing-the-teleport-functionality-in-minecraft/"><u>The Essential Walkthrough on Implementing the Teleport Functionality in Minecraft</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-motorola-moto-e13-by-drfone-android/"><u>The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Motorola Moto E13</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/wireless-free-wi-fi-boost-set-up-your-house-network-using-non-ethernet-solutions-zdnet/"><u>Wireless-Free Wi-Fi Boost: Set Up Your House Network Using Non-Ethernet Solutions | ZDNET</u></a></li>
 </ul></div>
 

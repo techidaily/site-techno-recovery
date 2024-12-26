@@ -1,7 +1,7 @@
 ---
 title: "$649 MacBook Air M1 Laptop Sale: Secure Your Ultimate Bargain Today! | PCMag"
-date: 2024-12-15T21:00:51.332Z
-updated: 2024-12-17T14:46:54.853Z
+date: 2024-12-25T05:41:59.085Z
+updated: 2024-12-25T18:22:47.559Z
 tags:
   - apple
 categories:
@@ -42,7 +42,7 @@ At $649, this is the lowest price for the M1 version of the MacBook Air that we'
 The [M1 MacBook Air](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fmacbook-air-13-3-laptop-apple-m1-chip-8gb-memory-256gb-ssd-space-gray-space-gray%2F5721600.p%3FskuId%3D5721600&publisher_slug=itechdaily19598&exclusive=1) first retailed for $999 when it was released, but Apple sells refurbished versions for $799, making these deals even better than anything Apple is offering. The [M1 MacBook Air](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FApple-MacBook-Air-13-3-inch-Laptop-Silver-M1-Chip-8GB-RAM-256GB-storage%2F609040889&subId1=zd-__COM_CLICK_ID__-dtp) is available in three different colors: gold, space gray, and silver. Snag these savings while you can. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -81,18 +81,18 @@ However, deals are subject to sell out or expire at any time, though ZDNET remai
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-earning-mastery-youtube-short-video-tips/"><u>[New] In 2024, Earning Mastery Youtube Short Video Tips</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-personalized-instagram-notification-melodies/"><u>[New] Personalized Instagram Notification Melodies</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-the-ultimate-guide-to-cost-free-camera-screen-capture-tools-for-2024/"><u>[New] The Ultimate Guide to Cost-Free Camera Screen Capture Tools for 2024</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-navigating-snapchats-new-spotlight-functionality/"><u>[Updated] Navigating Snapchat's New Spotlight Functionality</u></a></li>
-<li><a href="https://driver-download.techidaily.com/complete-installation-and-update-manual-epson-et-3760-printer-driver-for-windows-pcs/"><u>Complete Installation & Update Manual: Epson ET-3760 Printer Driver for Windows PCs</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/1722901900318-concerts-by-international-orchestras-and-vocal-ensembles-opera-operetta-at-prague-castle/"><u>Concerts by International Orchestras and Vocal Ensembles (Opera, Operetta) at Prague Castle.</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/discover-how-to-manage-on-screen-keyboards-efficiently-on-your-pc-with-windows-10/"><u>Discover How to Manage On-Screen Keyboards Efficiently on Your PC with Windows 10</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/1722870027566-diy-mechanical-keyboard-maintenebrance-easy-cleaning-strategies-inside/"><u>DIY Mechanical Keyboard Maintenebrance: Easy Cleaning Strategies Inside!</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/how-to-change-youtube-clips-to-audio-format-for-pc-and-mac-users-efficiently/"><u>How to Change YouTube Clips to Audio Format for PC and Mac Users Efficiently</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/iphoneandroid-integrating-playlists-into-your-fb-music/"><u>IPhone/Android Integrating Playlists Into Your FB Music</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/reative-summit-top-talent-junction/"><u>The Creative Summit Top Talent Junction</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/the-ultimate-guide-to-overcoming-a-401-unauthorized-web-error-quickly-and-safely/"><u>The Ultimate Guide to Overcoming a '401 Unauthorized' Web Error Quickly and Safely</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/top-8-preferred-alternative-mobile-contact-solutions/"><u>Top 8 Preferred Alternative Mobile Contact Solutions</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-ultimate-frames-per-second-for-languid-visuals/"><u>[New] 2024 Approved Ultimate Frames Per Second for Languid Visuals</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-best-no-fee-online-and-app-photo-refining-software/"><u>[New] Best No-Fee, Online & App Photo Refining Software</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-recommended-portals-accessing-custom-ringers/"><u>[New] In 2024, Recommended Portals Accessing Custom Ringers</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-optimal-facebook-video-downloader-top-5-revealed/"><u>[Updated] In 2024, Optimal Facebook Video Downloader Top 5 Revealed</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-transform-your-snapshots-with-vsco-essentials/"><u>[Updated] Transform Your Snapshots with VSCO Essentials</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/dealing-with-mfc42ddll-avoidance-and-recovery-techniques/"><u>Dealing with 'mfc42d.dll': Avoidance and Recovery Techniques</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/effective-group-meetings-googles-top-solutions-4/"><u>Effective Group Meetings Google's Top Solutions (#4)</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/effortless-way-to-merge-spotify-playlists-a-comprehensive-guide/"><u>Effortless Way to Merge Spotify Playlists: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fix-it-now-solving-the-persistent-problems-with-call-of-duty-warzone-on-pc-latest-2ptr/"><u>Fix It Now! Solving the Persistent Problems with Call of Duty Warzone on PC - Latest 2Ptr</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/inside-scoop-on-googles-next-pixel-timepiece-predictions-for-release-schedule-cost-breakdown-and-technical-specifications/"><u>Inside Scoop on Google's Next Pixel Timepiece: Predictions for Release Schedule, Cost Breakdown & Technical Specifications</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/leveraging-social-media-insights-in-market-research/"><u>Leveraging Social Media Insights in Market Research</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/solving-the-problem-of-missing-or-unavailable-libeay32dll-files-a-comprehensive-guide/"><u>Solving the Problem of Missing or Unavailable libeay32.dll Files: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-answers.techidaily.com/stop-samurai-warriors-5-from-crashing-a-complete-guide-for-players/"><u>Stop Samurai Warriors 5 From Crashing: A Complete Guide for Players</u></a></li>
 </ul></div>
 

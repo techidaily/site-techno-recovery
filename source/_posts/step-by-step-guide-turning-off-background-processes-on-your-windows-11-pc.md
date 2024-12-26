@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Turning Off Background Processes on Your Windows 11 PC"
-date: 2024-08-30T13:09:13.633Z
-updated: 2024-08-31T13:09:13.633Z
+date: 2024-12-24T22:00:18.125Z
+updated: 2024-12-26T00:36:55.661Z
 tags:
   - deals
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://thmb.techidaily.com/6d6520e192a843298c5f3fb60d79f701e9d849b7c
 ---
 
 ## Step-by-Step Guide: Turning Off Background Processes on Your Windows 11 PC
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -30,8 +34,9 @@ thumbnail: https://thmb.techidaily.com/6d6520e192a843298c5f3fb60d79f701e9d849b7c
 * **Reduce Distractions:** Disabling background apps can make your computing experience more focused and less cluttered. This is because these apps generate notifications and pop-ups that can distract or interrupt your workflow.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  How to Disable Background Apps in Windows 11
 
  As Windows 11 doesn't offer any direct approach to disabling background apps like Windows 10 formerly did, we'll be using some unconventional methods. But we'll start with the most straightforward method.
@@ -44,20 +49,18 @@ thumbnail: https://thmb.techidaily.com/6d6520e192a843298c5f3fb60d79f701e9d849b7c
 
 ![Click Start and select the Settings icon.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/open-windows-settings.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Navigate to the "Apps" tab in the left pane and click "Installed apps."
 
 ![Navigate to Apps in the left pane and select Installed apps](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/navigate-to-apps-in-the-left-pane-and-select-installed-apps.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Search the application you want to turn off the background permission for, click the three dots next to the app and select "Advanced options." If the option isn't available, the application doesn't support background permissions management.
 
 ![click three dots next to the app and select Advanced options](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/click-three-dots-next-to-the-app-and-select-advanced-options.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<!-- affiliate ads end -->
  Once the Advanced Options tab opens, scroll down to "Background Apps Permissions" and click on the drop-down below "Let this app run in background."
 
  Select "Never" in the drop-down, and the app will now stop running in the background.
@@ -67,8 +70,9 @@ thumbnail: https://thmb.techidaily.com/6d6520e192a843298c5f3fb60d79f701e9d849b7c
  All apps are set to the "Power optimized (recommended)" option by default. This option indicates that Windows will automatically decide when to run the app in the background and when to disable it. However, if it's set to "Always," the application will run continuously in the background.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ###  2\. Disable Background Apps Using Power & Battery Settings
 
  If you're not sure which apps you should disable for the sake of preserving power, the [Power & Battery](https://win-answers.techidaily.com/expert-advice-overcoming-technical-hurdles-in-the-phasmophobia-vr-game/) tab in the Settings app provides insights on the power and battery consumption of all installed apps. It also shows the power and battery consumption of apps running in the background and allows to disable them based on the insights.
@@ -81,14 +85,14 @@ thumbnail: https://thmb.techidaily.com/6d6520e192a843298c5f3fb60d79f701e9d849b7c
 
 ![Navigate to the System tab and select Power & settings](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/open-power-and-battery-settings.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Here, click on "View detailed info" beside Power Insights.
 
 ![View detailed info](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/view-detailed-info.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
  Scroll down to "Power usage per app," click on three dots beside the app you want to disable running in the background, and select "Manage background activity."
 
 ![Manage background activity](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/manage-background-activity.jpg) 
@@ -97,7 +101,15 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 ![Select Never under Let this app run in background](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/select-never-under-let-this-app-run-in-background.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The app will now stop running in the background. This will decrease your device's power consumption and increase its battery life.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  3\. Disable Background Apps for Current User
 
@@ -112,9 +124,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
     
 ![Disable Background Apps using a REG file](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/disable-background-apps-using-a-reg-file.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
-<!-- affiliate ads end -->
  Click Ctrl+Shift+S, name the file "Disable Background Apps", and save the file with a ".reg" extension.
 
  Now, right-click on the reg file and click on "Open." A UAC prompt will appear. Click "Yes" to proceed.
@@ -122,8 +131,9 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 ![Open the Disable background applications REG file](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/open-the-disable-background-applications-reg-file.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Running the REG file will set the GlobalUserDisabled to 1 and the BackgroundAppGlobalToggle to 0 in the Registry Editor. Doing so will disable background access to applications.
 
  If you want to enable background applications for the current user, replace the code in the reg file with this:
@@ -133,9 +143,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 [HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Search]  
 "BackgroundAppGlobalToggle"=-`
     
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
-<!-- affiliate ads end -->
 ###  4\. Disable Background Apps for All Users
 
  On a PC with multiple users, you can disable background apps for all users by making some changes in the Registry Editor.
@@ -166,9 +173,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
  Close the Registry Editor and restart your PC for the changes to take place. However, if you want to enable background apps again, set the Value data to 0.
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ###  5\. Disable Background Apps Using the Group Policy Editor
 
  Lastly, you can also use the [Group Policy Editor](https://youtube-clips.techidaily.com/2024-approved-building-a-custom-link-for-youtubes-auto-subscribe/) to disable background apps on your Windows Device. Before proceeding, know that the Group Policy Editor is only available on Pro, Education, and Enterprise editions of Windows 11\. If you're using the Home version, you'll have to stick to one of the previous methods.
@@ -184,17 +188,15 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 ![Double-click on Let Windows apps run in the background policy](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/double-click-on-let-windows-apps-run-in-the-background-policy.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  In the Let Windows apps run in the background properties window, select "Disable."
 
  Lastly, click on "Apply" and then on "OK" to save the changes.
 
 ![Disable the Let Windows apps run in the background](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/disable-the-let-windows-apps-run-in-the-background.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
  Restart your device once for the changes to kick in. To revert the changes made, follow the same steps and select Enabled.
 
 ---
@@ -207,8 +209,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -216,4 +216,26 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-cultivating-community-in-stardews-ginger-territory/"><u>[New] In 2024, Cultivating Community in Stardew’s Ginger Territory</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-from-jarring-edits-to-seamless-inshot-integration/"><u>[Updated] From Jarring Edits to Seamless Inshot Integration</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-best-of-both-worlds-top-high-quality-zero-dollar-webm-tools/"><u>[Updated] In 2024, Best of Both Worlds Top High-Quality, Zero-Dollar WebM Tools</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-mastering-ios-the-secrets-of-screen-casts/"><u>[Updated] Mastering iOS The Secrets of Screen Casts</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/2024s-ultimate-list-of-highly-effective-ev-wall-charger-units-for-your-household-expert-insights-from-zdnet/"><u>2024’S Ultimate List of Highly Effective EV Wall Charger Units for Your Household | Expert Insights From ZDNET</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3-ways-to-change-location-on-facebook-marketplace-for-apple-iphone-se-2022-drfone-by-drfone-virtual-ios/"><u>3 Ways to Change Location on Facebook Marketplace for Apple iPhone SE (2022) | Dr.fone</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/beginners-guide-to-video-capture-with-logitech-cam-for-2024/"><u>Beginner's Guide to Video Capture with Logitech Cam for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/experts-choice-for-ultimate-illumination-top-flashlights-of-2024-analyzed-cnet/"><u>Experts' Choice for Ultimate Illumination: Top Flashlights of 2024 Analyzed | CNET</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/exploring-changes-and-enhancements-with-apples-recent-ios-release-an-in-depth-review-zdnet/"><u>Exploring Changes and Enhancements with Apple's Recent iOS Release - An In-Depth Review | ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-anker-is-revolutionizing-home-power-consumption-with-their-latest-innovation-solix-detailed-analysis-by-zdnet/"><u>How Anker Is Revolutionizing Home Power Consumption with Their Latest Innovation, Solix – Detailed Analysis by ZDNET</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-navigating-iphones-with-ease-download-podcasts-made-simple/"><u>In 2024, Navigating iPhones with Ease - Download Podcasts Made Simple</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/maximize-efficiency-with-our-top-rated-power-strip-now-available-for-a-steal-on-amazon-zdnets-picks/"><u>Maximize Efficiency with Our Top-Rated Power Strip, Now Available for a Steal on Amazon (ZDNET's Picks)!</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/orion/"><u>Orion</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/quick-humor-crafting-the-meme-text-genrator-way/"><u>Quick Humor Crafting The Meme Text Gen'rator Way</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/the-ultimate-angle-arsenal-samsung-vs-lg-comparison/"><u>The Ultimate Angle Arsenal Samsung Vs LG Comparison</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-rated-electric-leaf-blowers-expert-picks-and-reviews-gizmoblog/"><u>Top Rated Electric Leaf Blowers : Expert Picks & Reviews - GizmoBlog</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-rated-budget-friendly-portable-chargers-comprehensive-reviews-by-tech-gurus-cnet/"><u>Top-Rated Budget-Friendly Portable Chargers - Comprehensive Reviews by Tech Gurus | CNET</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unveiling-samsungs-ambitious-vision-for-matter-technology-to-revamp-domestic-living-spaces/"><u>Unveiling Samsung's Ambitious Vision for Matter Technology to Revamp Domestic Living Spaces</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/zdnet-explores-the-efficient-and-cost-effective-smart-ev-charging-solutions-by-emporia-energy-advanced-telemetry-for-savvy-consumers/"><u>ZDNet Explores the Efficient and Cost-Effective Smart EV Charging Solutions by Emporia Energy: Advanced Telemetry for Savvy Consumers</u></a></li>
+</ul></div>
 

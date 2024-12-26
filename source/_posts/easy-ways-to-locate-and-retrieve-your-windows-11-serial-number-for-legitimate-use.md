@@ -1,7 +1,7 @@
 ---
 title: Easy Ways to Locate and Retrieve Your Windows 11 Serial Number for Legitimate Use
-date: 2024-08-30T13:08:01.804Z
-updated: 2024-08-31T13:08:01.804Z
+date: 2024-12-24T17:20:08.056Z
+updated: 2024-12-26T03:46:49.844Z
 tags:
   - desktop
 categories:
@@ -17,6 +17,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 * [Find an OEM Product Key With Command Prompt](https://facebook-videos.techidaily.com/2024-approved-beam-your-best-achieving-hd-quality-with-fb-live/)
 * [Show a Retail Product Key Using ShowKeyPlus](https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-oppo-a56s-5g-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * To find your Windows 11 OEM product key, open Command Prompt or PowerShell as administrator, then enter: **wmic path softwarelicensingservice get OA3xOriginalProductKey**
@@ -26,8 +30,9 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  Windows 11 uses a product key to ensure your OS is genuine—in other words, not pirated. You can find the product key in use on your PC, which is particularly useful if you bought Windows yourself and need to reinstall it.
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  What Is a Windows Product Key?
 
  A product key is Microsoft's way to ensuring that the copy of Windows being used is genuine. The key is provided to Microsoft when Windows 11 is activated, and Microsoft checks the key against its records. Windows will not be activated if the key is invalid.
@@ -39,8 +44,9 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  Regardless of what kind of key you have, product keys are 25 characters long and composed of a mixture of capital letters and numbers.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Find an OEM Product Key With Command Prompt
 
  If your PC has an OEM license—in other words, if you purchased a computer that came with Windows preinstalled—you can find the license key using Command Prompt, or PowerShell. The command is the same in both programs. 
@@ -58,8 +64,9 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![Command prompt displaying key](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/02/Right_Size_Console-1.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Show a Retail Product Key Using ShowKeyPlus
 
  If you purchased and installed Windows yourself, [ShowKeyPlus](https://apps.microsoft.com/detail/9pkvzcprx9nv) is a good way to find your product key. ShowKeyPlus is a free application available on the Microsoft Store.
@@ -69,16 +76,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![In start menu, type "Microsoft Store", then click open](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/02/2022-02-09_12h19_00.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Once the Microsoft Store is open, go to the top of the page and enter **ShowKeyPlus** into the search bar, and hit enter.
 
 !["ShowKeyPlus" in a red box in the search bar](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/02/IntoMicrosoft-store.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
-<!-- affiliate ads end -->
  On the ShowKeyPlus app page, click "Install." Once it is done installing, the "Install" button will change into an "Open" button. Click "Open."
 
 ![Click install button](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/02/Points_To_Install.png) 
@@ -87,9 +91,6 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
 
 ![ShowKeyPlus Image1](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/02/ShowKeyPlus-Image1.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->
  If you're using an OEM copy of Windows 11, both the green and blue boxes display your product key. If you installed a version of Windows 11 you purchased yourself, the green box is the key currently in use.
 
  Once you have the key you can write it down or save it to a file on your computer. Be careful not to share it online. Retail licenses can be used on multiple devices (though not simultaneously), so someone may attempt to steal your product key to activate Windows.
@@ -102,8 +103,6 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -111,4 +110,22 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-10plus-preferred-no-pay-webm-player-options-for-2024/"><u>[New] 10+ Preferred No-Pay WebM Player Options for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-prime-zero-cost-switch-mimicry-apps/"><u>[Updated] 2024 Approved Prime Zero-Cost Switch Mimicry Apps</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-exploring-the-boundaries-of-true-black-on-asuss-professional-screen/"><u>[Updated] Exploring the Boundaries of True Black on ASUS's Professional Screen</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-leveraging-zoom-for-superior-skype-interactions-and-communication/"><u>[Updated] Leveraging Zoom for Superior Skype Interactions & Communication</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/1-experience-effortless-panera-bread-ordering-with-alexa-enabled-delivery-service/"><u>1. Experience Effortless Panera Bread Ordering with Alexa-Enabled Delivery Service</u></a></li>
+<li><a href="https://howto.techidaily.com/authentication-error-occurred-on-xiaomi-14-ultra-here-are-10-proven-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Authentication Error Occurred on Xiaomi 14 Ultra? Here Are 10 Proven Fixes | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/choosing-wisely-in-the-alexa-arena-a-head-to-head-review-of-echo-pop-vs-echo-dot-expert-analysis-by-zdnet/"><u>Choosing Wisely in the Alexa Arena: A Head-to-Head Review of Echo Pop Vs. Echo Dot | Expert Analysis by ZDNet</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/enhancing-productivity-seamlessly-discover-how-onlyoffice-docspace-leverages-chatgpt/"><u>Enhancing Productivity Seamlessly: Discover How ONLYOFFICE DocSpace Leverages ChatGPT</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/get-the-most-out-of-prime-early-access-transition-to-prime-student-membership-pre-prime-day-explained-zdnet/"><u>Get the Most Out of Prime Early Access - Transition to Prime Student Membership Pre-Prime Day Explained | ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/global-market-access-for-singapore-smbs-through-amazons-new-e-commerce-collaboration-as-covered-by-zdnet/"><u>Global Market Access for Singapore SMBs Through Amazon's New E-Commerce Collaboration, as Covered by ZDNet</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/reverse-video-order-on-your-ios-gadget-for-2024/"><u>Reverse Video Order on Your iOS Gadget for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/the-videographers-packing-essentials-kit/"><u>The Videographer's Packing Essentials Kit</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unpacking-pinterests-bold-move-to-dominate-e-commerce-a-deep-dive-into-their-game-changing-tactics-digital-marketing-today/"><u>Unpacking Pinterest's Bold Move to Dominate E-Commerce: A Deep Dive Into Their Game-Changing Tactics | Digital Marketing Today</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unveiling-singapores-journey-towards-smart-money-in-depth-analysis-of-current-blockchain-trials-in-the-financial-sector-zdnet/"><u>Unveiling Singapore's Journey Towards Smart Money: In-Depth Analysis of Current Blockchain Trials in the Financial Sector | ZDNet</u></a></li>
+<li><a href="https://win-best.techidaily.com/web-wmvogv-movavi/"><u>オンデマンドWebムービー形式変換: WMV/OGV無料サービス – Movavi</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Avoiding Distractions with Personalized Mac Focus Modes in macOS Monterey - Tips & Tricks
-date: 2024-12-13T00:38:45.332Z
-updated: 2024-12-16T16:44:47.669Z
+date: 2024-12-24T21:53:31.090Z
+updated: 2024-12-25T18:18:47.480Z
 tags:
   - apple
 categories:
@@ -102,10 +102,6 @@ Share: Are you prepared for the future of AI, automation, and jobs?
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 
 
 [Facebook](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.zdnet.com%2Fvideo%2Fits-like-magic-how-to-use-universal-control-to-control-your-ipad-from-a-mac%2F&title=Are%20you%20prepared%20for%20the%20future%20of%20AI%2C%20automation%2C%20and%20jobs%3F "Facebook") [Twitter](https://twitter.com/intent/tweet?original%5Freferer=https%3A%2F%2Fabout.twitter.com%2Fresources%2Fbuttons&text=Are%20you%20prepared%20for%20the%20future%20of%20AI%2C%20automation%2C%20and%20jobs%3F&tw%5Fp=tweetbutton&url=https%3A%2F%2Fwww.zdnet.com%2Fvideo%2Fits-like-magic-how-to-use-universal-control-to-control-your-ipad-from-a-mac%2F "Twitter") 
@@ -119,7 +115,7 @@ Apple's latest software update to the Mac and iPad has enabled a feature that, n
 That means when you move your Mac's pointer beyond the edge of your screen, it will automatically switch to your iPad and allow you to use iPadOS without switching devices. To be clear, Universal Control isn't only designed to work between an iPad and a Mac. It'll actually work between multiple Macs as well. For the purpose of this guide, I'm going to stick to using it between and iPad and Mac to cover both devices. But you could easily do the same thing with two Macs by following the steps below. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Featured
@@ -132,7 +128,7 @@ That means when you move your Mac's pointer beyond the edge of your screen, it w
 There are a couple of things you'll need to do before you can use Universal Control. I'll walk you through the initial setup, and then how to use it. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Update your Mac and iPad
@@ -152,7 +148,7 @@ There isn't a dedicated Universal Control setting or section in iPadOS. In fact,
 In order to make sure your iPad is setup, open the **Settings app** then select **General** \> **AirPlay & Handoff**. Next, make sure the switch next to **Cursor and Keyboard** is turned _On_. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  How to set up Universal Control on your Mac
@@ -162,6 +158,10 @@ Screenshot by Jason Cipriani/ZDNet
 The Mac does have a dedicated Universal Control section where you can turn the feature on or off and adjust settings. Open **System Preferences** then click on **Displays** \> **Universal Control**. 
 
 Check the box next to **Allow your cursor and keyboard to move between any nearby Mac or iPad,** then click **Done**. Leave the other two boxes checked. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  How to use Universal Control between your Mac and iPad
 
@@ -184,7 +184,7 @@ Screenshot by Jason Cipriani/ZDNet
 Your Mac will try its best to locate your iPad's location in relation to your main display, but it's not perfect. If you go back into System Preferences on your Mac, you can click-and-drag to rearrange the displays, putting your iPad's screen in the right spot, allowing you to seamlessly move your mouse between the two devices. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Troubleshooting Universal Control
@@ -239,22 +239,24 @@ Finally, if you're still not having any luck, it could be that your device isn't
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-digital-film-composer/"><u>[Updated] 2024 Approved Digital Film Composer</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/updated-a-step-by-step-approach-to-enhanced-roblox-views/"><u>[Updated] A Step-by-Step Approach to Enhanced Roblox Views</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/deciphering-deception-tips-for-uncovering-fake-friends-online/"><u>Deciphering Deception: Tips for Uncovering Fake Friends Online</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/enabling-custom-displays-with-nvidia/"><u>Enabling Custom Displays with NVIDIA</u></a></li>
-<li><a href="https://blog-min.techidaily.com/guide-mastering-the-art-of-free-video-to-audio-conversion-with-factory-software/"><u>Guide: Mastering the Art of Free Video-to-Audio Conversion with Factory Software</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/how-to-use-live-view-on-google-maps/"><u>How to Use Live View on Google Maps</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-things-you-should-know-when-unlocking-total-wireless-of-iphone-14-pro-max-drfone-by-drfone-ios/"><u>In 2024, Things You Should Know When Unlocking Total Wireless Of iPhone 14 Pro Max | Dr.fone</u></a></li>
-<li><a href="https://win-forum.techidaily.com/1722915239802-mastering-the-process-of-fresh-device-drivers-for-your-windows-11-setup/"><u>Mastering the Process of Fresh Device Drivers for Your Windows 11 Setup</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/mastering-voice-message-features-on-the-iphone-user-guide/"><u>Mastering Voice Message Features on the iPhone User Guide</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/philips-somneo-hf365060-sleep-and-wake-up-light-therapy-lamp-review/"><u>Philips Somneo HF3650/60 Sleep and Wake-Up Light Therapy Lamp Review</u></a></li>
-<li><a href="https://solve-info.techidaily.com/pinpoint-the-network-interface-on-your-pc-expert-tips-from-yl-computing/"><u>Pinpoint the Network Interface on Your PC: Expert Tips From YL Computing</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/resolve-your-pcs-drive-issues-comprehensive-guide-to-the-chkdsk-functionality-in-windows/"><u>Resolve Your PC's Drive Issues: Comprehensive Guide to the Chkdsk Functionality in Windows</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/resolving-missing-msvbvm50dll-file-step-by-step-troubleshooting-guide/"><u>Resolving 'Missing' MSVBVM50.DLL File: Step-by-Step Troubleshooting Guide</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/samsung-galaxy-z-fold-6-the-next-generation-specs-release-schedule-and-price-point-uncovered/"><u>Samsung Galaxy Z Fold 6 - The Next Generation Specs, Release Schedule, and Price Point Uncovered</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/save-time-and-hassle-with-these-15-fantastic-freeware-applications-for-quick-uninstallation/"><u>Save Time and Hassle with These 15 Fantastic Freeware Applications for Quick Uninstallation</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/vizio-tv-woes-heres-how-to-get-your-wi-fi-connection-back-up-and-running/"><u>Vizio TV Woes? Here's How to Get Your Wi-Fi Connection Back Up and Running</u></a></li>
-<li><a href="https://howto.techidaily.com/why-is-my-vivo-v29e-offline-troubleshooting-guide-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Is My Vivo V29e Offline? Troubleshooting Guide | Dr.fone</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-illuminating-the-world-of-photography-with-adobes-hdr-techniques-for-2024/"><u>[New] Illuminating the World of Photography with Adobe's HDR Techniques for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-professional-4k-capture-selecting-top-gimbals/"><u>[New] Professional 4K Capture Selecting Top Gimbals</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-unlock-vimeos-potential-cutting-edge-video-tools/"><u>[New] Unlock Vimeo's Potential Cutting Edge Video Tools</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-revolutionize-your-views-non-xplit-applications/"><u>[Updated] 2024 Approved Revolutionize Your Views Non-Xplit Applications</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-the-art-of-mac-mixer-synchronization-for-2024/"><u>[Updated] The Art of Mac-Mixer Synchronization for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/2024-approved-video-perfection-streamlined-subtitlecc-implementation-on-youtube/"><u>2024 Approved Video Perfection Streamlined Subtitle/CC Implementation on YouTube</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/ace-the-sky-best-drones-and-their-precision-editing-companions-for-2024/"><u>Ace the Sky Best Drones & Their Precision Editing Companions for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/effortless-guide-creating-a-musical-photo-slideshow-for-youtube-success/"><u>Effortless Guide: Creating a Musical Photo Slideshow for YouTube Success</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/expertly-assessed-ultimate-vpn-solutions-of-2024-find-your-perfect-match-zdnet/"><u>Expertly Assessed Ultimate VPN Solutions of 2024: Find Your Perfect Match | ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/experts-choice-for-top-vpns-detailed-evaluations-and-best-picks-pcmag/"><u>Experts' Choice for Top VPNs : Detailed Evaluations and Best Picks | PCMag</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/experts-picks-for-the-best-no-cost-virtual-private-networks-of-2024-in-depth-analysis-on-zdnet/"><u>Experts' Picks for the Best No-Cost Virtual Private Networks of 2024 - In-Depth Analysis on ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/extend-your-digital-safety-net-with-a-bargain-5-year-vpn-plan-for-only-35-explore-now/"><u>Extend Your Digital Safety Net with a Bargain: 5-Year VPN Plan for Only $35 | Explore Now</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/guide-to-turning-on-the-free-google-one-virtual-private-network-for-your-android-pixel-phone-insights-from-zdnet/"><u>Guide to Turning On the Free Google One Virtual Private Network for Your Android Pixel Phone – Insights From ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/guide-setting-up-and-using-a-virtual-private-network-vpn-on-your-windows-10-device-tips-from-zdnet/"><u>Guide: Setting Up and Using a Virtual Private Network (VPN) on Your Windows 10 Device - Tips From ZDNet</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/how-to-customize-windows-defender-options-a-guide-by-yl-computing-optimizing-your-antivirus-experience/"><u>How to Customize Windows Defender Options: A Guide by YL Computing - Optimizing Your Antivirus Experience</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-harness-the-power-of-windows-photos-and-story-remix-for-editing/"><u>In 2024, Harness the Power of Windows Photos & Story Remix for Editing</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/leading-android-vpn-providers-of-2024-reviewed-insiders-guide-to-fast-reliable-and-safe-connectivity-options/"><u>Leading Android VPN Providers of 2024 Reviewed: Insider's Guide to Fast, Reliable & Safe Connectivity Options</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/mastering-opera-vpn-rule-creation-for-unrestricted-content-access-digital-insights/"><u>Mastering Opera VPN Rule Creation for Unrestricted Content Access | Digital Insights</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/navigating-the-ipvanish-vpn-landscape-an-in-depth-review-by-zdnet-reveals-rich-functionality-options/"><u>Navigating the IPVanish VPN Landscape: An In-Depth Review by ZDNet Reveals Rich Functionality Options</u></a></li>
 </ul></div>
 

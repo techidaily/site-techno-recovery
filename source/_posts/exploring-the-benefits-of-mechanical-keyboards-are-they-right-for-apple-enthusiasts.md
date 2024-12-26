@@ -1,7 +1,7 @@
 ---
 title: "Exploring the Benefits of Mechanical Keyboards: Are They Right for Apple Enthusiasts?"
-date: 2024-08-30T13:08:09.438Z
-updated: 2024-08-31T13:08:09.438Z
+date: 2024-12-19T23:48:40.870Z
+updated: 2024-12-25T22:38:19.653Z
 tags:
   - desktop
 categories:
@@ -43,9 +43,6 @@ Tim Brookes / How-To Geek
 
  Lastly, there’s customization. In addition to replacing your keys, and switches, and putting bits of foam and tape inside the case, software customization using a platform like VIA lets you do things like remap keys, create macros, and more. Many keyboards also come with [RGB lighting](https://extra-approaches.techidaily.com/in-2024-mastering-brand-collaboration-on-youtube/) if that’s your thing too.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ##  The Drawbacks of Using a Mechanical Keyboard on Your Mac
 
  Perhaps the biggest drawback to going mechanical and moving away from your Apple keyboard is that the transition might not be a smooth one. You can pick an almost identical layout, but the slight differences in key sizes and spacing will trip you up, at least initially.
@@ -55,8 +52,9 @@ Tim Brookes / How-To Geek
 ![Apple Magic Keyboard stacked on top of a NuPhy Air75 V2](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/magic_nuphy_stacked-1.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Tim Brookes / How-To Geek
 
  There’s also quite a bit of difference in terms of the typing experience. The Magic Keyboard is an almost flat board, with minimal travel. The keys don’t get in your way because they barely protrude. I’d describe it as light and bouncy. Some people dislike the lack of feedback on Apple keyboards, others don’t realize how much they like it until they make the change.
@@ -67,16 +65,14 @@ Tim Brookes / How-To Geek
 
 ![Apple Magic Keyboard and Apple Magic Trackpad side-by-side.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/magic_keyboard_trackpad.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
-<!-- affiliate ads end -->
 Tim Brookes / How-To Geek
 
  There’s also the small matter of aesthetics. Say what you like about the Magic Keyboard, but it matches most Mac models and the Magic Trackpad perfectly. Shop around and you’ll find something that suits you, I picked the white NuPhy Air75 V2 to match the white Magic Trackpad. Don’t forget that Apple charges more money for black accessories if you want a set of matching dark peripherals.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Mechanical Keyboards at Magic Prices
 
  Apple charges $99 for its cheapest Magic Keyboard, which doesn’t include Touch ID. You can add a fingerprint scanner for $149\. If you want a number pad and some extra keys then you’ll pay $129 or $199 respectively depending on whether you want Touch ID.
@@ -88,13 +84,18 @@ Tim Brookes / How-To Geek
 ![Apple Magic Keyboard stacked on top of a NuPhy Air75 V2.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/magic_nuphy_offset-1.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Tim Brookes / How-To Geek
 
  Some prefer to build their own keyboards, starting with a PCB and a case and adding switches and keycaps to complete the build. Others like to buy cheap boards, upgrade the switches, perform [a few sound-dampening mods](https://win11.techidaily.com/a-step-by-step-guide-to-rectify-a-wrongly-setup-temp-folder-in-win11/), get some better keycaps, and add a nice braided USB cable to transform it into something that looks, types, and sounds premium.
 
  This is the point at which the mechanical keyboard scene can start to feel a bit overwhelming. Some are consumed by the pursuit of the creamiest sound, [the perfect switch](https://techidaily.com/sign-a-pdf-v10-document-with-digital-signature-software-by-ldigisigner-sign-a-pdf-sign-a-pdf/), or custom-made keycaps. There are so many different things to consider, it can feel a bit too easy to make the wrong decision. If possible, we recommend trying a few keyboards and switch types before you buy.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  How Much Do You Love Your Magic Keyboard?
 
@@ -107,8 +108,9 @@ Tim Brookes / How-To Geek
 ![Apple Magic Keyboard Fn key in focus.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/magic_keyboard_fn.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Tim Brookes / How-To Geek
 
  Weeks later and I’m _still_ a slower typer on the NuPhy. While my accuracy and speed on the NuPhy have greatly improved, editing text with my muscle-memory combination of Shift, Command, Option, and arrow keys is a chore. It has me frequently reaching for the Magic Keyboard. Editing a spreadsheet? Forget it.
@@ -129,8 +131,6 @@ Tim Brookes / How-To Geek
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -138,4 +138,19 @@ Tim Brookes / How-To Geek
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-the-editors-pathway-for-diminishing-sound-levels/"><u>[New] 2024 Approved The Editor's Pathway for Diminishing Sound Levels</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-unveiling-luxury-transforming-standard-shipments-into-memories/"><u>[New] 2024 Approved Unveiling Luxury Transforming Standard Shipments Into Memories</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-step-by-step-guide-for-filming-sims-adventures/"><u>[New] In 2024, Step-by-Step Guide for Filming Sims Adventures</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-creative-minds-guide-to-preferred-mac-editors/"><u>[Updated] Creative Minds' Guide to Preferred Mac Editors</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unraveling-best-practices-for-effective-fb-healthcare-promos/"><u>[Updated] Unraveling Best Practices for Effective FB Healthcare Promos</u></a></li>
+<li><a href="https://video-capture.techidaily.com/customized-obs-guide-for-budget-builds-for-2024/"><u>Customized OBS Guide for Budget Builds for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/fast-food-face-off-how-burger-kings-latest-admission-outshines-mcdonalds-read-all-details-at-zdnet/"><u>Fast Food Face-Off: How Burger King's Latest Admission Outshines McDonald's - Read All Details at ZDNet</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-top-15-augmented-reality-games-like-pokemon-go-to-play-on-itel-a70-drfone-by-drfone-virtual-android/"><u>In 2024, Top 15 Augmented Reality Games Like Pokémon GO To Play On Itel A70 | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/revolutionizing-retailer-support-with-ai-discover-alibabas-strategy-to-assist-smaller-sellers-in-e-commerce-through-innovative-testing-techniques-analysis-b57/"><u>Revolutionizing Retailer Support with AI: Discover Alibaba's Strategy to Assist Smaller Sellers in E-Commerce Through Innovative Testing Techniques | Analysis by ZDNET</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-5-ultimate-credit-cards-for-e-commerce-purchases-expert-reviews-by-zdnet/"><u>Top 5 Ultimate Credit Cards for E-Commerce Purchases - Expert Reviews by ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unpacking-amazons-new-product-rating-overhaul-is-it-improving-shopping-decisions/"><u>Unpacking Amazon’s New Product Rating Overhaul – Is It Improving Shopping Decisions?</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unpacking-the-advantages-for-android-devotees-and-makers-from-googles-historic-legal-settlement/"><u>Unpacking the Advantages for Android Devotees & Makers From Google's Historic Legal Settlement</u></a></li>
+</ul></div>
 

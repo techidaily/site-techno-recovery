@@ -1,7 +1,7 @@
 ---
 title: "Mastering the Convenience of Apple Pay: A Comprehensive Guide to Using It In-Store & Online - Insights"
-date: 2024-12-16T06:00:35.179Z
-updated: 2024-12-16T21:45:50.708Z
+date: 2024-12-25T02:07:17.000Z
+updated: 2024-12-26T00:38:39.586Z
 tags:
   - apple
 categories:
@@ -31,6 +31,10 @@ Before you get started using Apple Pay in stores and online, here's what you nee
 ## How to use Apple Pay online and in stores
 
 **What you need:** iPhone, banking information
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. Set up Apple Pay in the Wallet app
 
@@ -62,10 +66,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. During check-out, double-click the right-side button of your iPhone
 
 Double-clicking, or, rather, double-pressing, the button on the right side of your iPhone brings up your available cards to use in Apple Pay. Do this when it's time to pay at the checkout counter, and you can then choose your preferred payment card when the Wallet comes up.
@@ -74,6 +74,10 @@ Double-press the iPhone's right-side button to access Apple Pay.
 
 Maria Diaz/ZDNET
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. Enter your Apple Pay passcode or use Face ID to confirm payment
 
 Once you've tapped on a card from your iPhone's Wallet, you'll be prompted to enter your passcode or use Face ID to authorize and pay for your purchase using Apple Pay. 
@@ -81,10 +85,6 @@ Once you've tapped on a card from your iPhone's Wallet, you'll be prompted to en
 Enter your passcode to confirm Apple Pay payment.
 
 Maria Diaz/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5\. Hold your iPhone near the payment terminal
 
@@ -100,6 +100,10 @@ Apple
 
 That's it! Apple Pay is as easy as apple pie. (Sorry, I had to.) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## FAQ
 
 ## How do I set up Apple Pay from my iPhone Settings?
@@ -112,20 +116,20 @@ To set up Apple Pay, you go to your iPhone's Settings and follow these steps:
 Once you add your card to your Wallet, you can edit your settings to suit your needs. You can choose to enable Apple Cash; enable the double-click side button to work as a shortcut for Apple Pay' add Express Transit Cards to pay for transit automatically without a passcode or Face ID; edit your transaction information like default card, shipping address, and contact info; and toggle payments on your Mac on and off. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Where can I use Apple Pay to pay in stores and online?
 
 You can use Apple Pay with an iPhone or Apple Watch at checkout wherever there is a payment terminal with NFC. Most retailers have them at the checkout counter, with some exceptions. Just look for the NFC symbol on the card reader or an Apple Pay logo. Some banks even support Apple Pay at NFC-enabled ATMs so you can make withdrawals or access your account. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What is NFC?
 
 NFC stands for [near-field communication](https://www.zdnet.com/article/near-field-communication-aims-to-simplify-our-lives/). It's a technology that employs magnetic field induction to allow wireless communication between two electronic devices at a short range, typically less than 4 centimeters or 1.5 inches.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Can I use Apple Pay online?
 
@@ -136,10 +140,6 @@ On top of being more secure, using Apple Pay online is more convenient as you do
 **Also: [Venmo and PayPal now offer 'Tap to Pay' on iPhone for businesses](https://www.zdnet.com/article/venmo-and-paypal-now-offer-tap-to-pay-on-iphone-for-businesses/)**
 
 To use Apple Pay online, choose Apple Pay at checkout from your iPhone or other Apple device, if it's available. Next, you'll be prompted either to enter your passcode or use Face ID to authorize the payment. Then you'll be able to check out as usual with your Apple Pay information already filled in, so you won't need to sign in again or enter your card information. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What is Apple Cash?
 
@@ -197,16 +197,24 @@ Using Apple Pay or [Google Pay](https://www.zdnet.com/finance/google-pay-vs-sams
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/harting-updates-youtube-money-standards/"><u>[New] Charting Updates YouTube Money Standards</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-discover-the-10-leading-no-cost-webcalls-for-businesses/"><u>[New] In 2024, Discover the 10 Leading No-Cost Webcalls for Businesses</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-magix-acid-pro-unveiled-and-options-examined/"><u>[New] Magix ACID Pro Unveiled & Options Examined</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-canvas-hidden-gems-for-crafting-visual-magic/"><u>2024 Approved Canva's Hidden Gems for Crafting Visual Magic</u></a></li>
-<li><a href="https://games-able.techidaily.com/elevate-your-game-with-144hz-ultrawide-monitors/"><u>Elevate Your Game with 144Hz Ultrawide Monitors</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/naming-gems-top-strategies-for-exceptional-podcast-titles-for-2024/"><u>Naming Gems Top Strategies for Exceptional Podcast Titles for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/reflecting-on-the-journey-of-non-fungible-tokens-nfts-the-current-state/"><u>Reflecting on the Journey of Non-Fungible Tokens (NFTs): The Current State</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/smooth-conversion-from-dall-es-innovative-webp-images-to-pngjpg/"><u>Smooth Conversion From DALL-E’s Innovative WebP Images to PNG/JPG</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/the-absence-of-spare-wheels-in-electric-vehicles-unraveling-the-mystery/"><u>The Absence of Spare Wheels in Electric Vehicles: Unraveling the Mystery</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/the-financial-breakdown-of-getting-your-teslas-battery-swapped-out/"><u>The Financial Breakdown of Getting Your Tesla's Battery Swapped Out</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/the-process-explained-how-are-ev-batteries-interchanged/"><u>The Process Explained: How Are EV Batteries Interchanged?</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-a-symphony-of-shades-applying-complementary-colors-for-2024/"><u>[New] A Symphony of Shades Applying Complementary Colors for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ifting-through-the-differences-igtv-vs-youtube-in-a-direct-comparison-for-2024/"><u>[New] Sifting Through the Differences IGTV Vs. YouTube in a Direct Comparison for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-establish-lasting-content-partnerships-with-youtubers/"><u>[Updated] In 2024, How to Establish Lasting Content Partnerships with YouTubers</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/all-time-historic-drop-meta-reduces-meta-quest-2-costs-again-latest-update-reviewed-by-zdnet/"><u>All-Time Historic Drop: Meta Reduces Meta Quest 2 Costs Again; Latest Update Reviewed by ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/beating-apple-vision-pro-limitations-with-budget-friendly-xr-glasses-explore-the-zdnet-review/"><u>Beating Apple Vision Pro Limitations with Budget-Friendly XR Glasses | Explore the ZDNET Review</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/come-comprimere-un-video-in-hd-senza-perdere-qualita-per-whatsapp-con-winxdvd/"><u>Come Comprimere Un Video in HD Senza Perdere Qualità per WhatsApp Con WinXDVD</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/comprehensive-matterport-axis-analysis-insights-from-zdnet/"><u>Comprehensive Matterport Axis Analysis - Insights From ZDNet</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/google-meet-not-hearing-you-fix-microphone-problems-on-windows-10-and-11-easily/"><u>Google Meet Not Hearing You? Fix Microphone Problems on Windows 10 and 11 Easily</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/immersive-tv-show-adventures-with-apple-vision-pro-bring-joy-bizarre-moments-and-exhaustion-an-in-depth-review-by-techexpertcom/"><u>Immersive TV Show Adventures with Apple Vision Pro Bring Joy, Bizarre Moments & Exhaustion - An In-Depth Review by TechExpert.com</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-apple-iphone-11-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, 9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On Apple iPhone 11 Pro | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-changeadd-location-filters-on-snapchat-for-your-sony-xperia-10-v-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Add Location Filters on Snapchat For your Sony Xperia 10 V | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/mastering-digital-twin-integration-identifying-and-conquering-key-business-barriers-with-strategic-solutions-expert-advice-from-zdnet/"><u>Mastering Digital Twin Integration: Identifying and Conquering Key Business Barriers with Strategic Solutions | Expert Advice From ZDNET</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/navigating-text-editing-on-apple-vision-pro-tips-for-effortless-select-copy-and-paste-with-hand-movements-zdnet-insights/"><u>Navigating Text Editing on Apple Vision Pro: Tips for Effortless Select, Copy, and Paste with Hand Movements | ZDNET Insights</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/overcoming-obstacles-in-implementing-digital-twins-a-guide-for-business-success-with-seven-essential-tips-zdnet/"><u>Overcoming Obstacles in Implementing Digital Twins: A Guide for Business Success with Seven Essential Tips (ZDNet)</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/the-essential-guide-to-amazon-basics-top-tier-7-port-usb-30-hub-perfect-for-every-need/"><u>The Essential Guide to Amazon Basics' Top-Tier 7-Port USB 3.0 Hub: Perfect for Every Need</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-truth-about-apple-vision-pro-revealed-stunning-features-vs-critical-flaws-and-improvements-needed-zdnet-insight/"><u>The Truth About Apple Vision Pro Revealed: Stunning Features Vs. Critical Flaws and Improvements Needed | ZDNET Insight</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/transform-your-vr-experience-the-revolutionary-50-meta-quest-3-lens-clip-for-eyeglass-wearers-insights-from-zdnet/"><u>Transform Your VR Experience: The Revolutionary $50 Meta Quest 3 Lens Clip for Eyeglass Wearers - Insights From ZDNet</u></a></li>
+<li><a href="https://win11.techidaily.com/turning-off-windows-monochrome-theme-blanket/"><u>Turning Off Windows' Monochrome Theme Blanket</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ultimate-picks-our-selection-of-best-traffic-enhancement-apps/"><u>Ultimate Picks: Our Selection of Best Traffic Enhancement Apps</u></a></li>
 </ul></div>
 

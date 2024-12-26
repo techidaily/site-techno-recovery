@@ -1,7 +1,7 @@
 ---
 title: "Configuring Your Apple Watch for Slack Notifications: Expert Advice by ZDNet"
-date: 2024-12-08T03:49:38.668Z
-updated: 2024-12-11T02:31:02.603Z
+date: 2024-12-24T20:04:35.582Z
+updated: 2024-12-25T19:49:33.352Z
 tags:
   - apple
 categories:
@@ -48,15 +48,15 @@ Here's how.
 
 **What you'll need:** Have the latest versions of iOS and watchOS installed on your iPhone and Apple Watch, respectively. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Install the Slack app on your iPhone
 
 There is no dedicated Slack app for the Apple Watch, but there is an iPhone app. This app controls everything about how Slack works with notifications on your phone. So, if you don't already have Slack on your iPhone, go to [the App Store and install it](https://apps.apple.com/us/app/slack/id618783545).
 
 Once it's installed, go ahead and log into your various Slack channels. Get those setup and working as you like before configuring the app for notifications.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Set up Slack notifications in the system settings
 
@@ -73,7 +73,7 @@ Now, back out to the top of the Settings app and tap the red Notifications icon.
 Screenshot by David Gewirtz/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Set up Slack notifications in the Slack app
@@ -81,7 +81,7 @@ Screenshot by David Gewirtz/ZDNET
 Next, open the Slack app. Tap your profile image in the upper right corner of the screen. Then tap Notifications.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##   
@@ -101,6 +101,10 @@ Next, tap Notify Me on Mobile. This will give you a few options.
 Screenshot by David Gewirtz/ZDNET
 
 Set it to "Always, even when I'm active". That way, you'll always get notifications, no matter what you're doing (unless you have Do Not Disturb turned on).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Set your notification schedule
 
@@ -122,16 +126,12 @@ So, make sure you set the Start and End times that fit with your schedule.
 
 Recommendation to Slack: Where you put the "Every day" option in that setting, add the times as well (e.g., "Every day 8 a.m. - 11 p.m."). That way, it's clear to users what they might need to change. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 5\. Enable Slack notifications in the Watch app
 
 We're almost done configuring notifications. Open the Watch app and scroll down to Notifications. Then scroll down to Slack and make sure it's turned on.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##   
@@ -179,22 +179,20 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-demystifying-photo-editing-a-snapseed-introduction/"><u>[New] Demystifying Photo Editing A Snapseed Introduction</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-unlocking-creative-power-for-youtube-intros-in-imovie/"><u>[Updated] 2024 Approved Unlocking Creative Power for YouTube Intros in iMovie</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-unlocking-engagement-best-practices-for-highlight-boost/"><u>[Updated] In 2024, Unlocking Engagement Best Practices for Highlight Boost</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/2024-approved-hands-on-with-hp-envy-27-pushing-screen-tech-to-limits/"><u>2024 Approved Hands-On with HP Envy 27 Pushing Screen Tech to Limits</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/complete-resolution-steps-for-not-detected-cygwin1dll-mishap/"><u>Complete Resolution Steps for 'Not Detected' cygwin1.dll Mishap</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/discover-how-to-retrieve-lost-mobile-contacts-in-your-android-device/"><u>Discover How to Retrieve Lost Mobile Contacts in Your Android Device</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/in-2024-the-essential-guide-for-every-aspiring-snapchat-editor/"><u>In 2024, The Essential Guide for Every Aspiring Snapchat Editor</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/inside-look-the-upcoming-tesla-smartphone-projected-costs-release-schedule-and-tech-specs-revealed/"><u>Inside Look: The Upcoming Tesla Smartphone - Projected Costs, Release Schedule, & Tech Specs Revealed</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/latest-updates-lenovo-thunderbolt-3-docking-station-software/"><u>Latest Updates: Lenovo Thunderbolt 3 Docking Station Software</u></a></li>
-<li><a href="https://win-online.techidaily.com/resolving-a-frozen-pc-on-windows-7-5-simple-methods-to-successfully-perform-a-system-restore/"><u>Resolving a Frozen PC on Windows 7: 5 Simple Methods to Successfully Perform a System Restore</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/smartwatch-leaders-for-2er-2024-in-depth-reviews-and-rankings/"><u>Smartwatch Leaders for 2Er 2024: In-Depth Reviews and Rankings</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/snapping-images-efficiently-screenshot-techniques-for-logitech-keyboards/"><u>Snapping Images Efficiently: Screenshot Techniques for Logitech Keyboards</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/supercharge-your-workflow-with-the-newest-16-inch-macbook-pro-a-comprehensive-review-for-the-2021-release-from-tech-experts-at-zdnet/"><u>Supercharge Your Workflow with the Newest 16-Inch MacBook Pro - A Comprehensive Review for the 2021 Release From Tech Experts at ZDNet</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/unravel-complex-video-editing-a-complete-android-guide/"><u>Unravel Complex Video Editing A Complete Android Guide</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/unrivaled-list-of-team-video-calling-services/"><u>Unrivaled List of Team Video Calling Services</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/unveiling-apples-strongest-iphone-protection-with-an-innovative-safety-edge-a-comprehensive-review-by-your-name/"><u>Unveiling Apple's Strongest iPhone Protection with an Innovative Safety Edge - A Comprehensive Review by [Your Name]</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/ways-to-find-unlocking-codes-for-nokia-130-music-phones-by-drfone-android/"><u>Ways To Find Unlocking Codes For Nokia 130 Music Phones</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-pioneering-photography-with-advanced-software/"><u>[New] In 2024, Pioneering Photography with Advanced Software</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-unleashing-creativity-with-pexels-finding-fabulous-images-for-2024/"><u>[New] Unleashing Creativity with Pexels Finding Fabulous Images for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-navigating-through-gesture-detection-methods/"><u>[Updated] In 2024, Navigating Through Gesture Detection Methods</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/cutting-edge-drone-graphics-first-20-free-luts-on-dji-drones/"><u>Cutting Edge Drone Graphics First 20 Free LUTS on DJI Drones</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/does-your-iphone-really-need-an-upgrade-my-personal-challenge-against-apples-urging/"><u>Does Your iPhone Really Need an Upgrade? My Personal Challenge Against Apple's Urging</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/download-youtube-playlists-with-ease-our-instructions-for-2024/"><u>Download YouTube Playlists with Ease - Our Instructions for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-unlocking-potential-effective-use-of-zoom-on-win11-pcs/"><u>In 2024, Unlocking Potential Effective Use of Zoom on Win11 PCs</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/peering-into-facebooks-2023-video-landscape-a-focus-on-short-clips-for-2024/"><u>Peering Into Facebook's 2023 Video Landscape A Focus on Short Clips for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/revolutionize-your-workspace-get-a-dual-purpose-macbook-stand-and-port-hub-for-only-102-limited-sale/"><u>Revolutionize Your Workspace: Get a Dual-Purpose MacBook Stand and Port Hub for Only $102 Limited Sale!</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/seamless-transition-strategies-upgrading-to-your-new-iphone-with-ease-insights-from-zdnet/"><u>Seamless Transition Strategies: Upgrading to Your New iPhone with Ease - Insights From ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/setting-up-from-scratch-a-complete-guide-to-booting-windows-10-onto-a-new-hard-drive/"><u>Setting Up From Scratch: A Complete Guide to Booting Windows 10 Onto a New Hard Drive</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-guide-saving-iphone-data-via-icloud-and-mac-tips/"><u>Step-by-Step Guide: Saving iPhone Data via iCloud and Mac - Tips</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-ultimate-showdown-deciding-between-apples-homepod-and-homepod-mini-for-optimal-smart-sound-experience/"><u>The Ultimate Showdown: Deciding Between Apple's HomePod and HomePod Mini for Optimal Smart Sound Experience</u></a></li>
+<li><a href="https://article-tips.techidaily.com/ultimate-top-5-drones-experts-choice-revealed/"><u>Ultimate Top 5 Drones - Expert's Choice Revealed</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unraveling-the-distinctions-bev-phev-fcev-and-hybrid-vehicles-explained/"><u>Unraveling the Distinctions: BEV, PHEV, FCEV & Hybrid Vehicles Explained</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Claim Your Eligibility for Spotify's Student Pricing"
-date: 2024-08-30T13:12:57.232Z
-updated: 2024-08-31T13:12:57.232Z
+date: 2024-12-25T06:02:27.188Z
+updated: 2024-12-25T19:01:58.535Z
 categories:
   - BestProducts
 description: "This Article Describes Step-by-Step Guide: Claim Your Eligibility for Spotify's Student Pricing"
@@ -30,11 +30,25 @@ Close
 2. Log into your Spotify account, or click**SIGN UP FOR SPOTIFY** to create a new account.  
 ![A screenshot of the Spotify login page.](https://www.lifewire.com/thmb/-6CZj73GwIltSS6-inTfMB8QNuQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/2-2945114da00046faa581546912bf6abe.JPG)
 3. Enter your information, and click**VERIFY** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![A screenshot of the Spotify student confirmation page.](https://www.lifewire.com/thmb/mXFGl7eru9MJy9I52_h1MDlnUzU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/3-6a5242754bef4516816091c26691b80d.JPG)  
  You have to be currently enrolled at the school you select on this page. If you aren't, you won't be able to receive the student discount.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. If SheerID (Spotify's verification system) is able to confirm that you are a student, you will automatically be verified. Enter your billing info to complete the signup process, and you'll be ready to start listening to your new Spotify account.
 
 [  Spotify Free vs Premium: What’s the Difference? ](https://www.lifewire.com/spotify-free-vs-premium-8651596) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  What to Do When Automatic Verification Fails 
 
@@ -47,29 +61,22 @@ Close
 3. Click**Manually verify** .  
 ![A screenshot of the Spotify student confirmation page.](https://www.lifewire.com/thmb/MnwsOaJO1oyQSi-Q4dcBqX14prk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/3-07ff7fc487b44ac29f727bf13d04758c.JPG)  
  If the automatic verification fails, do not click**VERIFY** on this step. Clicking**Manually verify** instead will allow you to provide verification of your enrollment.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 4. Enter your information and click**Next Step** .  
 ![A screenshot of the Spotify manual student confirmation form.](https://www.lifewire.com/thmb/SWYf-NJM88RoMp1b9UxONUVbdwc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/4-42602be0c8c543748455f49bdb87090a.JPG)
 5. Click**Choose File** .  
 ![A screenshot of the Spotify student documentation upload form.](https://www.lifewire.com/thmb/yUtmZ1dqQyhFKFxG_fhIzLSaDAA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/5-2fefb49c7b744c6bab38eb67b0891f36.JPG)
 6. Select your proof of enrollment, and click**Open** .  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![A screenshot of the Spotify student verification process.](https://www.lifewire.com/thmb/8pp_EkeXZ3oY-qzcOdPNtUJqKbg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/5a-c57bbc3ea15f461586ad502acacb57ba.jpg)  
  Accepted documents include your recently issued student ID, an official enrollment letter, a current class schedule, a registration receipt, a current transcript, or other school-issued documents that show your name and an issue date within the last three months.
 7. Click Choose File to provide additional proof, or click**Upload Document** to continue.  
 ![A screenshot of the Spotify student discount verification process.](https://www.lifewire.com/thmb/dtjNjxW1SnPeEVNWYWdPUmzRJWY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/6-56f5a2b77e9144eba5f8e4d6dafaa949.JPG)
 8. If your documents are successfully verified, you will be able to complete the signup process with the Spotify student discount in place. If it still doesn't work, contact Spotify customer service for further assistance in verifying your enrollment.
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
-<!-- affiliate ads end -->
 ##  Who Is Eligible for Spotify's Student Discount? 
 
  The requirements for Spotify's student discount are very specific, so it's easy to tell if you qualify or not. If you are currently enrolled at a US Title IV accredited college or university, and you're at least 18 years old, then you qualify.
@@ -78,14 +85,15 @@ Close
 
  If you already signed up for a Spotify Premium subscription prior to enrolling at a qualifying school, you can still apply for the discount. If you're approved, you'll see the discounted price reflected the next time your subscription renews.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ##  How Does Spotify Verify Student Enrollment? 
 
  Spotify uses an identity verification service called SheerID to verify that you're actually enrolled where you say that you're enrolled. This is the same service that's used by Amazon, the New York Times, Nike, and a lot of other big names. So if you've signed up for an Amazon student discount already, you're ready to go for a Spotify student discount.
 
  When SheerID isn't able to automatically verify your enrollment, it allows you to upload supporting documentation. For this process to work, you'll need to scan your student ID, or make sure you have access to documents like your current class schedule, or an official enrollment letter if you haven't started school yet.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  What Exactly Does the Spotify Student Discount Get You? 
 
@@ -94,8 +102,9 @@ Close
  Depending on the current offers, the Spotify student discount may also provide you with extras, like a[ Hulu](https://www.lifewire.com/what-is-hulu-4783546) or Showtime subscription, for no additional charge.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  What Happens to Your Student Discount When You Graduate? 
 
  The Spotify Student discount is only available if you're actually enrolled at an accredited school. If you graduate, or leave school for any reason, you're no longer eligible for the discount.
@@ -133,8 +142,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -142,4 +149,20 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://hardware-tips.techidaily.com/discover-the-most-innovative-reading-lamps-for-books-in-2/"><u>Discover the Most Innovative Reading Lamps for Books in 2</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/discover-the-top-10-igtv-editing-app-wonders-for-2024/"><u>Discover the Top 10 IGTV Editing App Wonders for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/efficient-memory-management-for-android-devices-how-to-clear-the-cache-quickly/"><u>Efficient Memory Management for Android Devices: How to Clear the Cache Quickly</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/handling-errors-steps-for-nintendo-wii-unable-to-process-disc-data/"><u>Handling Errors: Steps for Nintendo Wii Unable to Process Disc Data</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/how-to-capture-and-share-your-favorite-pics-on-social-platforms-with-obs-for-2024/"><u>How to Capture and Share Your Favorite Pics on Social Platforms with OBS for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-seamlessly-pair-google-mail-account-with-apple-watch/"><u>How To Seamlessly Pair Google Mail Account With Apple Watch</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-does-infinix-note-30i-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>In 2024, Does Infinix Note 30i Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/join-the-fun-learn-how-to-make-amazing-duets-on-tiktok-today/"><u>Join the Fun! Learn How to Make Amazing Duets on TikTok Today</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/1722888490575-mastering-the-art-of-screenshots-on-a-logitech-keyboard-quick-and-simple-steps-inside/"><u>Mastering the Art of Screenshots on a Logitech Keyboard – Quick and Simple Steps Inside!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-solution-sony-wh-1000xm34-microphone-compatibility-with-windows-pcs/"><u>Step-by-Step Solution: Sony WH-1000XM3/4 Microphone Compatibility with Windows PCs</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/tactical-transformations-in-small-business-videography-for-2024/"><u>Tactical Transformations in Small Business Videography for 2024</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/the-ultimate-collection-s-best-podcasts-on-leveraging-social-media-for-marketing-success-for-2024/"><u>The Ultimate Collection S Best Podcasts on Leveraging Social Media for Marketing Success for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-ultimate-selection-12-complimentary-cinema-streaming-tools/"><u>The Ultimate Selection: 12 Complimentary Cinema Streaming Tools</u></a></li>
+</ul></div>
 

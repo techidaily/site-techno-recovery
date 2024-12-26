@@ -1,7 +1,7 @@
 ---
 title: Fall Innovations on Apple Products! Find Out What's New for iPhone, iPad & Mac - From Advanced AI Integration Report
-date: 2024-12-12T03:56:15.687Z
-updated: 2024-12-17T11:28:29.787Z
+date: 2024-12-22T01:55:20.847Z
+updated: 2024-12-25T19:13:29.119Z
 tags:
   - apple
 categories:
@@ -38,10 +38,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Apple Intelligence (AI)
 
 Maria Diaz/ZDNET
@@ -65,7 +61,7 @@ Maria Diaz/ZDNET
 * Apple Intelligence is free on iOS 18, iPadOS 18, and MacOS Sequoia, and will be available to try in English only this summer.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Partnership with OpenAI
@@ -75,6 +71,10 @@ Jason Hiner/ZDNET
 * Apple also confirmed its partnership with OpenAI by integrating [ChatGPT](https://www.zdnet.com/article/what-is-chatgpt-and-why-does-it-matter-heres-everything-you-need-to-know/) with Siri. With a user's permission, Siri can send a request to ChatGPT for help. For example, if you ask Siri for assistance on a task it deems better for ChatGPT, Siri will suggest you use the chatbot instead and forward your request. ChatGPT's writing capabilities can also be leveraged within certain writing tasks.
 * Users can access ChatGPT via this integration for free, and OpenAI will not log their data. ChatGPT Plus users can connect their subscriptions to access more advanced features, in which case OpenAI's data usage policies apply.
 * The ChatGPT integration will be coming to iOS 18, iPadOS 18, and MacOS Sequoia later this year.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## iOS 18
 
@@ -95,7 +95,7 @@ Adam Breeden/ZDNET
 * The **Calendar app** can now pull from the Reminders app for a more seamless schedule overview.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## WatchOS 11
@@ -134,7 +134,7 @@ Adam Breeden/ZDNET
 * Apple also launched a new **Viewer experience**, which does for video what Reader does for text.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## VisionOS 2
@@ -163,7 +163,7 @@ Jason Hiner/ZDNET
 * Apple is also releasing a **Personalized Spatial Audio API** for game developers to build around the AirPods' audio technology.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## tvOS 18
@@ -210,20 +210,16 @@ Screenshot by Nina Raemont/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-unleashing-content-effortless-download-of-youtube-video-for-ios/"><u>[New] Unleashing Content Effortless Download of Youtube Video for iOS</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-visual-victory-apple-and-android-highlight-covers/"><u>[New] Visual Victory Apple & Android Highlight Covers</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-mastering-vector-graphics-our-top-10-pics-stores/"><u>2024 Approved Mastering Vector Graphics Our Top 10 Pics Stores</u></a></li>
-<li><a href="https://solve-helper.techidaily.com/flvwmvmp4movavi/"><u>完全無料の動画変換サービス - FLV/WMVをMP4に簡単変換！Movaviで使いやすい方法</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/1722892744794-bridging-the-gap-between-ios-and-android-messaging-incorporating-imessage-on-your-android-phone/"><u>Bridging the Gap Between iOS & Android Messaging: Incorporating iMessage on Your Android Phone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/do-you-need-a-blu-ray-player-in-the-era-of-digital-media-a-comprehensive-guide/"><u>Do You Need a Blu-Ray Player in the Era of Digital Media? A Comprehensive Guide</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/effective-fixes-for-the-dsounddll-not-detected-issue-on-your-pc/"><u>Effective Fixes for the ‘Dsound.dll’ Not Detected Issue on Your PC</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/-your-eyes-enjoyment-without-cost-watch-9-christmas-films-online-for-2024/"><u>Feast Your Eyes, Enjoyment Without Cost Watch 9 Christmas Films Online for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/from-download-to-implementation-installing-obs-on-a-macpc-for-2024/"><u>From Download to Implementation Installing OBS on a MacPC for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/in-2024-chromebooks-free-screen-capture-leaders-reviewed/"><u>In 2024, Chromebook's Free Screen Capture Leaders Reviewed</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/in-2024-integrating-twitter-and-facebook-with-ease/"><u>In 2024, Integrating Twitter and Facebook with Ease</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/inside-story-the-history-and-closure-of-yahoo-messenger-explained/"><u>Inside Story: The History & Closure of Yahoo! Messenger Explained</u></a></li>
-<li><a href="https://solve-manuals.techidaily.com/optimized-with-the-help-of-cookiebot-boost-your-websites-performance/"><u>Optimized with the Help of Cookiebot: Boost Your Website's Performance</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/step-by-step-instructions-to-recording-and-sharing-your-voice-on-iphone/"><u>Step-by-Step Instructions to Recording & Sharing Your Voice On iPhone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/ultimate-guide-mastering-the-reboot-process-on-any-ipad-model/"><u>Ultimate Guide: Mastering the Reboot Process on Any iPad Model</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/aining-exposure-cost-effective-promotion-hacks-for-youtubers-for-2024/"><u>[New] Gaining Exposure Cost-Effective Promotion Hacks for YouTubers for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-adsense-on-youtube-determining-your-income-from-1k-viewer-engagement/"><u>[New] In 2024, AdSense on YouTube Determining Your Income From 1K Viewer Engagement</u></a></li>
+<li><a href="https://article-files.techidaily.com/best-top-5-zero-cost-windows-screen-recorder-tools/"><u>Best Top 5 Zero-Cost Windows Screen Recorder Tools</u></a></li>
+<li><a href="https://win-able.techidaily.com/end-the-woes-of-oxygens-crashing-problem-with-these-simple-solutions/"><u>End the Woes of Oxygen's Crashing Problem with These Simple Solutions</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/exploring-what-makes-an-ipad-unique-compared-to-standard-tablets/"><u>Exploring What Makes an iPad Unique Compared to Standard Tablets</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-flavorful-frames-stepwise-food-film-making/"><u>In 2024, Flavorful Frames Stepwise Food Film-Making</u></a></li>
+<li><a href="https://extra-support.techidaily.com/manufacture-mirthful-animations-on-giphy-for-2024/"><u>Manufacture Mirthful Animations on Giphy for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/mastering-the-art-of-great-photography-with-your-iphone-or-ipad/"><u>Mastering the Art of Great Photography with Your iPhone or iPad</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-ultimate-solution-for-mss32dll-error-fix-and-prevention-tips/"><u>The Ultimate Solution for mss32.dll Error - Fix and Prevention Tips</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ultimate-guide-resolving-dsounddll-missingnot-found-mistakes/"><u>Ultimate Guide: Resolving dsound.dll Missing/Not Found Mistakes</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unseen-words-on-video-a-guide-for-missing-youtube-comments/"><u>Unseen Words on Video - A Guide for Missing YouTube Comments</u></a></li>
 </ul></div>
 

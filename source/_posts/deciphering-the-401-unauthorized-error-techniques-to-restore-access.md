@@ -1,7 +1,7 @@
 ---
 title: Deciphering the 401 Unauthorized Error - Techniques to Restore Access
-date: 2024-08-30T13:12:05.335Z
-updated: 2024-08-31T13:12:05.335Z
+date: 2024-12-22T18:28:13.896Z
+updated: 2024-12-26T06:49:51.028Z
 categories:
   - BestProducts
 description: This Article Describes Deciphering the 401 Unauthorized Error - Techniques to Restore Access
@@ -31,10 +31,6 @@ thumbnail: https://www.lifewire.com/thmb/7MpVwScoZxKghkaokr6onIyCwdw=/400x300/fi
 
  If an update is detected when you first turn the TV on, it will download and install it before you can proceed to watch anything or use the TV's other functions. This may take several minutes, depending on the nature of the update.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ## Update Your TV Manually via the Internet
 
  If your TV is connected to the internet, but you prefer to activate software updates manually, you can do so by following these steps:
@@ -43,8 +39,9 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 2. Select**Update Now** . If an update is available, the download and installation process will be initiated in the same manner as discussed in the Auto Update section above.  
 ![Samsung TV Software Update Screen — Now Option](https://www.lifewire.com/thmb/ZYg-Zkd-l18SYpy5NBZaszTbKnE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/samsung-tv-soft-firmware-update-abc-5b3bffcdc9e77c00375fe757.jpg)
 3. If no updates available, select**OK** to exit the Settings menu and proceed to use the TV.
+
 <!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Update Your TV Manually via USB
@@ -56,12 +53,13 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 3. When you see your TV populate in the list of suggestions, select it to open its download page.  
 ![A Samsung TV model number and suggested search entry highlighted on Samsung's website](https://www.lifewire.com/thmb/x12DxO4ugFSz7Kx9nc1Y9fqFg0Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/samsung-download-center-model-number-search-6bd1bd2b096a4a71b91daf95b1ea2299.png)
 4. Locate the firmware for your TV from the**Firmware** section, and select**Download** next to it. If there are multiple to choose from, select the item at the top to get the latest version.  
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
-</a>
-<!-- affiliate ads end -->
 ![The first download button highlighted from the Firmware area of the Samsung website](https://www.lifewire.com/thmb/BwGE5WAPVl5Mte9oNktWY06vc6o=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/samsung-tv-firmware-e3e85af300dc4772b3c8dcc42c0b06ed.png)  
  The download might take a few minutes, depending on the file's size and the speed of your internet.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Save the[ZIP file](https://www.lifewire.com/zip-file-2622675) to your computer, then unzip it to reveal its contents.
 6. With a[flash drive](https://www.lifewire.com/what-is-a-flash-drive-2625794) plugged in to your computer, copy all the contents of the unzipped file onto the flash drive.  
  Do not copy the .ZIP file itself (only its extracted contents) and do not put the files into any other folder on the flash drive (just the[root](https://www.lifewire.com/what-is-a-root-folder-or-root-directory-2625989) of the drive).
@@ -74,14 +72,12 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 11. Follow any further prompts to start the update process.  
 ![Samsung TV — Software Update in Progress](https://www.lifewire.com/thmb/jfjs4R0fR4EMhJEQ1NGOxCiVGqU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/samsung-tv-soft-firmware-update-c-5b3bf68f46e0fb0037108a40.jpg)
 12. When the process is completed, the TV will turn off automatically, then turn back on, indicating the software update installed correctly and is ready to use.
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 13. To further confirm you've updated the software, you can return to the**Software Update** page to see the latest update.
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Update Apps on Samsung Smart TV
 
  It's equally important to update the apps you've downloaded to your device. This is a separate process from updating the TV's system software. The easiest way to keep your apps updated is to have the TV do it automatically. Here's what to do:
@@ -92,13 +88,18 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 4. Select**Options** and make sure**Auto Update** is set to**On** .  
 ![Samsung TV — App Auto Update Option](https://www.lifewire.com/thmb/gF4jFQ3Mg01dPRAUVppxAUPq_Gs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/samsung-update-apps-screen-f-5b3bf6db46e0fb0036d44d40.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you're updating apps manually, you'll be notified if an update is available when you select the app. Follow any further prompts to initiate the update process. When the update is completed, the app will open so you can use it.
 
 [How to Fix It When Samsung TV Apps Aren't Working](https://www.lifewire.com/fix-samsung-tv-apps-not-working-8603497)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Differences Between Samsung TVs
 
  If you own an older Samsung smart TV, such as one released before the 2016 model year, there may be some variations in the steps needed to update apps. Try these directions instead:
@@ -142,8 +143,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -151,4 +150,24 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-instagram-reels-rhythm-mixing-in-musical-elements/"><u>[New] 2024 Approved Instagram Reels Rhythm Mixing in Musical Elements</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-harness-high-quality-banners-free-for-content-developers/"><u>[Updated] Harness High-Quality Banners – Free for Content Developers</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/bypassing-the-blues-fixing-code-angs-in-windows-with-ease/"><u>Bypassing the Blues: Fixing Code Angs in Windows with Ease</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discover-the-most-effective-child-cybersecurity-tools-of-2024-top-8-listed/"><u>Discover the Most Effective Child Cybersecurity Tools of 2024 – Top 8 Listed!</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/effective-solutions-to-address-dnssddll-missing-or-inaccessible-problems/"><u>Effective Solutions to Address dnssd.dll Missing or Inaccessible Problems</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/buffer-to-broadcast-learn-how-to-convert-your-youtube-viewing-into-a-screenshot-for-free-for-2024/"><u>From Buffer to Broadcast Learn How to Convert Your YouTube Viewing Into a Screenshot for Free for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/guide-streaming-apple-tvplus-content-on-your-chromecast-device/"><u>Guide: Streaming Apple TV+ Content on Your Chromecast Device</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-an-easy-guide-for-how-to-add-photos-on-instagram/"><u>In 2024, An Easy Guide for How to Add Photos on Instagram</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/instagram-story-stealth-mode-accessible-for-everyone-without-link-sharing/"><u>Instagram Story Stealth Mode Accessible for Everyone without Link Sharing</u></a></li>
+<li><a href="https://common-error.techidaily.com/restoring-smooth-scrolling-expert-advice-for-a-broken-logitech-mouse-wheel/"><u>Restoring Smooth Scrolling: Expert Advice for a Broken Logitech Mouse Wheel</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/solving-amazon-prime-subtitle-issues-effective-strategies-and-tips/"><u>Solving Amazon Prime Subtitle Issues: Effective Strategies and Tips</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-tutorial-for-implementing-copilot-in-microsoft-team-chats/"><u>Step-by-Step Tutorial for Implementing Copilot in Microsoft Team Chats</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/tracking-the-untraceable-steps-to-discover-disappeared-phone-numbers-from-an-android-device/"><u>Tracking the Untraceable: Steps to Discover Disappeared Phone Numbers From an Android Device</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/understanding-and-fixing-nspr4dll-missing-mistake-on-your-pc/"><u>Understanding and Fixing nspr4.dll Missing Mistake on Your PC</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/unlock-the-power-of-podcasts-15-task-filled-activities-to-do-while-listening-to-your-favorite-talk-shows-for-2024/"><u>Unlock the Power of Podcasts 15 Task-Filled Activities to Do While Listening to Your Favorite Talk Shows for 2024</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/unlocking-apple-iphone-8-lock-screen-3-foolproof-methods-that-actually-work-drfone-by-drfone-ios/"><u>Unlocking Apple iPhone 8 Lock Screen 3 Foolproof Methods that Actually Work | Dr.fone</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/unmasking-instagrams-unnoticed-capabilities/"><u>Unmasking Instagram’s Unnoticed Capabilities</u></a></li>
+</ul></div>
 

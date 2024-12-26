@@ -1,7 +1,7 @@
 ---
 title: "Understanding Apple's Core Innovations: The Impact of Silicon, Rosetta Translation, and M-Series Chips on Modern Computing - Insights for Consumers"
-date: 2024-12-09T10:55:46.596Z
-updated: 2024-12-11T06:17:16.585Z
+date: 2024-12-19T00:56:32.632Z
+updated: 2024-12-25T20:37:12.361Z
 tags:
   - apple
 categories:
@@ -30,10 +30,6 @@ Did they improve the overall quality of life and usability of Apple's most quixo
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Turn 2D images into spatial photos
 
 I've never been terribly impressed by Apple's implementation of spatial photos, which are photos that have a 3D feel to them. The little square box and the fairly minimal lens separation of the [iPhone 15 Pro](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-iphone%2Fiphone-15-pro&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) resulted in something that seems more novelty than noteworthy. 
@@ -52,6 +48,10 @@ And here's another feature that I can't imagine any users clamoring for. Now, if
 
 So, yeah, if Grandma Sadie in Seattle has a Vision Pro, Cousin Marty in Miami has a Vision Pro, and you have a Vision Pro in Yuma, you can all stand around the virtual photo screen and ooh and ah over pictures of baby Alice. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Gestures for opening Home View and Control Center
 
 While it's easy enough to open Vision Pro's home view (the field of app icons) by pressing the Digital Crown on the top of the unit, getting to Control Center is a pain. VisionOS puts a tiny little arrow waaay up at the top of the viewing space, and you have to glance at it and tap your fingers together to get it to open. 
@@ -61,7 +61,7 @@ In VisionOS 2, there are gestures. Holding your hand palm up and tapping fingers
 Unlike the previous two features, this _is_ a quality of life improvement. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Mac virtual display improvements
@@ -72,15 +72,15 @@ Screenshot by David Gewirtz/ZDNET
 
 On the other hand, Apple "later this year" will enable you to create displays with more resolutions. The most interesting is the full wrap-around display, which will be the equivalent of two 4K monitors. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 5\. Choo-choo train mode
 
 To be fair, Apple didn't call it that. We've [talked about the Vision Pro's travel mode](https://www.zdnet.com/article/itching-to-try-vision-pros-travel-mode-heres-what-to-expect-before-you-go/), which was mostly intended for airplane travel. 
 
 In VisionOS 2, Apple is announcing that there is dedicated support in travel mode for train travel. We know [people have already been successful using the Vision Pro on the train and even subway](https://www.youtube.com/shorts/8ckKAjAWLw8), but in this case, Apple presumably tweaked performance somewhat. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. New developer APIs
 
@@ -92,10 +92,6 @@ There are a ton of VR and AR APIs in Apple's platforms. But this week, at WWDC, 
 * **TabletopKit:** Helps developers create apps that anchor to flat surfaces. One obvious example is board game kits, but this could apply to interior design apps, architectural and construction projects, gaming, navigation, and more.
 * **Enterprise APIs:** These were described as enterprise-specific APIs, so we can assume they're somewhat special purpose. Examples given were surgical training and manufacturing.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 7\. New Canon spatial lens for creating spatial video
 
 While iPhone 15 Pro users can create spatial video, there are limitations to using an iPhone as a camera. Apple announced today that Canon will be introducing a spatial lens for its [EOS R7 digital camera](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FCanon-RF-S18-150mm-Mirrorless-Processor-Detection%2Fdp%2FB0B2KSD7WW%2F%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cbfbe271d-4f99-40f4-b81e-3b3c556a641c%7Cdtp&dtb=1). 
@@ -105,7 +101,7 @@ Screenshot by David Gewirtz/ZDNET
 This allows more commercial and prosumer projects where the photographer or videographer needs more control over the complex range of settings available in a more traditional camera. Those videos can then be edited in Final Cut Pro, Apple's only mention of Final Cut during WWDC. There's also a new Vimeo app for VisionOS, that will allow spatial videos to be shared. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 8\. Third-party immersive video workflow
@@ -117,6 +113,10 @@ One of the truly breathtaking experiences of the Vision Pro is what Apple calls 
 Apple is opening up the format for third-party creators to create immersive video. The approach is to use cameras and DaVinci Resolve Studio from [Blackmagic Design](https://www.blackmagicdesign.com/). There's no doubt that Blackmagic makes excellent gear and that DaVinci Resolve is a fine application. It's just a little surprising that Apple didn't bake this capability into its own high-end video production tool, Final Cut Pro.
 
 Even so, I think this is great. Those immersive videos are fantastic. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Other new features
 
@@ -171,24 +171,22 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-2024-approved-the-quick-recovery-of-twitch-broadcasts/"><u>[New] 2024 Approved The Quick Recovery of Twitch Broadcasts</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-channel-milestone-hurdle-cross-the-10k-view-threshold-fast-for-2024/"><u>[New] Channel Milestone Hurdle – Cross the 10K View Threshold Fast for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-ceased-shorts-missing-on-youtube-screen/"><u>[New] In 2024, Ceased Shorts Missing on YouTube Screen</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/2-ways-to-monitor-nokia-c32-activity-drfone-by-drfone-virtual-android/"><u>2 Ways to Monitor Nokia C32 Activity | Dr.fone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/a-step-by-step-guide-entering-and-exiting-iphones-recovery-mode/"><u>A Step-by-Step Guide: Entering and Exiting iPhone's Recovery Mode</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/code-19-error-fixes-for-windows-users-quick-solutions-unveiled/"><u>Code 19 Error Fixes for Windows Users: Quick Solutions Unveiled</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-changefake-your-xiaomi-redmi-note-12r-location-on-viber-drfone-by-drfone-virtual-android/"><u>How to Change/Fake Your Xiaomi Redmi Note 12R Location on Viber | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-fix-pdf-not-responding-error-and-save-your-data-stellar-by-stellar-guide/"><u>How to fix PDF not responding error and save your data | Stellar</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/hp-officejet-pro-8715-printer-drivers-free-downloads-for-windows-11-10-and-8/"><u>HP Officejet Pro 8715 Printer Drivers: Free Downloads for Windows 11, 10 & 8</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/in-2024-temporaryfreeze-immediate-recording-guide/"><u>In 2024, TemporaryFreeze Immediate Recording Guide</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/iphone-15-pro-max-vs-samsungs-newest-contender-the-s2n-ultra-a-detailed-comparison/"><u>IPhone 15 Pro Max Vs. Samsung's Newest Contender – The S2n Ultra: A Detailed Comparison</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/master-the-fix-for-windows-boot-manager-error-with-these-proven-methods/"><u>Master the Fix for Windows Boot Manager Error with These Proven Methods</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/must-have-tech-specials-for-this-years-amazon-prime-day-sale/"><u>Must-Have Tech Specials for This Year’s Amazon Prime Day Sale</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/roblox-access-hiccups-how-to-tell-if-theres-a-service-interruption-or-just-your-network/"><u>Roblox Access Hiccups: How to Tell if There’s a Service Interruption or Just Your Network</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/rust-display-issues-addressed-eliminating-pixelation-and-distortion-problems/"><u>Rust Display Issues Addressed - Eliminating Pixelation and Distortion Problems</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/step-by-step-tutorial-implementing-gpt-4-with-current-chatgpt-platforms/"><u>Step-by-Step Tutorial: Implementing GPT-4 with Current ChatGPT Platforms</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/upcoming-apple-event-key-details-on-date-latest-rumors-and-insights/"><u>Upcoming Apple Event: Key Details on Date, Latest Rumors & Insights</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/what-is-a-sufficiently-quick-pc-performance/"><u>What Is a Sufficiently Quick PC Performance?</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/your-ultimate-guide-to-playstation-portal-whens-it-drops-how-much-cash-tech-inside-and-buying-sites-exposed/"><u>Your Ultimate Guide to PlayStation Portal – When's It Drops? How Much Cash? Tech Inside & Buying Sites Exposed!</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-birds-bamboo-boogie-for-2024/"><u>[New] Birds Bamboo Boogie for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-comprehensively-understanding-manual-signal-recognition/"><u>[New] Comprehensively Understanding Manual Signal Recognition</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-syma-x5c-review-best-drone-for-beginner/"><u>[New] Syma X5C Review Best Drone for Beginner</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-navigating-tiktok-profile-updates-with-linktree-integration/"><u>[Updated] Navigating TikTok Profile Updates with Linktree Integration</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/airtag-accessory-showdown-of-the-year-2024-thoroughly-tested-and-analyzed-zdnet/"><u>AirTag Accessory Showdown of the Year 2024: Thoroughly Tested & Analyzed | ZDNET</u></a></li>
+<li><a href="https://techidaily.com/all-things-you-need-to-know-about-wipe-datafactory-reset-for-samsung-galaxy-m34-5g-drfone-by-drfone-reset-android-reset-android/"><u>All Things You Need to Know about Wipe Data/Factory Reset For Samsung Galaxy M34 5G | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discover-how-to-see-public-instagram-posts-without-logging-in/"><u>Discover How to See Public Instagram Posts Without Logging In</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/fixing-no-sound-problems-in-stereo-systems-a-comprehensive-guide/"><u>Fixing No-Sound Problems in Stereo Systems: A Comprehensive Guide</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-music-from-poco-x5-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Music from Poco X5 to iPod | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/iphone-12-now-features-enhanced-qi-wireless-charging-without-relying-on-magsafe-what-you-need-to-know-techspot/"><u>IPhone 12 Now Features Enhanced Qi Wireless Charging Without Relying on MagSafe: What You Need to Know | TechSpot</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/mastering-cross-platform-chat-learn-to-use-imessage-for-windows-insights-by-zdnet-experts/"><u>Mastering Cross-Platform Chat: Learn to Use iMessage for Windows - Insights by ZDNet Experts</u></a></li>
+<li><a href="https://extra-support.techidaily.com/premier-live-tv-service-showdown-a-comparative-look-for-2024/"><u>Premier Live TV Service Showdown A Comparative Look for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/samsung-galaxy-watch-7-what-you-need-to-know-about-price-availability-and-technical-specifications/"><u>Samsung Galaxy Watch #7: What You Need to Know About Price, Availability, and Technical Specifications</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-solution-restarting-and-repairing-your-zoom-camera-malfunction/"><u>Step-by-Step Solution: Restarting and Repairing Your Zoom Camera Malfunction</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-ambient-ws-2902a-osprey-weather-station-an-economical-choice-with-a-multitude-of-features/"><u>The Ambient WS-2902A Osprey Weather Station - An Economical Choice with a Multitude of Features</u></a></li>
+<li><a href="https://discover-guides.techidaily.com/ultimate-guide-playing-mp4-videos-smoothly-on-ios-devices-without-glitches/"><u>Ultimate Guide: Playing MP4 Videos Smoothly on iOS Devices Without Glitches</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/why-i-prefer-my-apple-watch-series-7-over-the-upcoming-series-10-insights-from-tech-guru/"><u>Why I Prefer My Apple Watch Series 7 Over the Upcoming Series 10 - Insights From Tech Guru</u></a></li>
 </ul></div>
 

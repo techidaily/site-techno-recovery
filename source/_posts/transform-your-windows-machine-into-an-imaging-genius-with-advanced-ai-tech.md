@@ -1,7 +1,7 @@
 ---
 title: Transform Your Windows Machine Into an Imaging Genius with Advanced AI Tech!
-date: 2024-08-30T13:08:34.843Z
-updated: 2024-08-31T13:08:34.843Z
+date: 2024-12-19T22:15:12.426Z
+updated: 2024-12-26T07:57:09.231Z
 tags:
   - desktop
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ---
 
 ## Transform Your Windows Machine Into an Imaging Genius with Advanced AI Tech!
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -27,9 +31,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  AI image generation using online tools like ChatGPT, DALL-E and MidJourney is very popular, but what if you want to generate your own images using AI, on your own computer, without any restrictions? Here's the easiest way to do it on Windows.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ##  Why Would You Want Your Own Local AI Image Generator?
 
  Online AI image generators are incredibly powerful, and able to draw from huge amounts of data to build their images based on your prompts (in the AI world, a prompt is the instructions you give the AI), but they do have some drawbacks: They come with monthly fees, they keep a history of your interactions, and they may restrict what kinds of images you can request.
@@ -44,14 +45,15 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  It's worth noting that these steps also work on Linux. You can skip the WSL-specific steps below and just install Docker Desktop and use the Linux terminal instead of the Windows Terminal app. If you're a MacOS user, check out [DiffusionBee](https://on-screen-recording.techidaily.com/updated-premier-moba-experiences-on-your-android-device/), which provides similar, streamlined image generation with Stable Diffusion wrapped in its own app.
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ###  Step 1: Install Docker Desktop and Windows Terminal
 
 [Docker](https://vp-tips.techidaily.com/new-ultimate-auditory-interface-win-for-2024/) is software that lets you run 'containers', which are isolated environments that can hold all the dependencies and moving parts for a piece of software. They're a bit like a virtual machine, but have less overhead. To install Docker, [download and install Docker Desktop for Windows](https://www.docker.com/products/docker-desktop/ "https://www.docker.com/products/docker-desktop/").
 
  Docker can run on Windows 10 and 11 in either WSL or Hyper-V mode. As Fooocus only supports WSL, you'll need to [enable WSL first.](https://android-location-track.techidaily.com/top-10-telegram-spy-tools-on-tecno-spark-go-2024-for-parents-drfone-by-drfone-virtual-android/) You'll also need to [install the Windows Terminal app](https://youtube-tips.techidaily.com/ed-mastering-youtube-streaming-a-guide-for-gamers-for-2024/) before continuing.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  Step 2: Download Fooocus
 
@@ -62,8 +64,9 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  Once the .zip file has finished downloading, [extract it into its own folder](https://video-screen-grab.techidaily.com/updated-in-2024-essential-screen-capture-software-top-picks-ranked/), and open the folder containing the unzipped Fooocus files.
 
 <!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ###  Step 3: Launch Fooocus
 
  Next, right-click on an empty spot in the Fooocus directory, and click "Open in Terminal". This will open a [Powershell](https://techtrends.techidaily.com/what-are-the-stages-in-a-game-of-royal-match/) terminal window.
@@ -82,10 +85,6 @@ docker compose up -d
 
 ![Running 'docker compose' in Powershell using the Windows Terminal](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/fooocus-3.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
-The ultimate burning program for all your needs!</a>
-<!-- affiliate ads end -->
  If you haven't run Fooocus with Docker before, it will automatically build the Docker application based on the Fooocus code in the directory. This can take quite a while on some computers, so be patient and grab a coffee (or take a long lunch) while you wait.
 
  When it's done, you'll see that the Fooocus application has been created and started.
@@ -93,20 +92,19 @@ The ultimate burning program for all your needs!</a>
 ![Terminal output showing the Fooocus Docker container has started successfully](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/fooocus-4.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  You will also be able to see the Fooocus container running in Docker Desktop.
 
 ![Docker Desktop showing a running container](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/fooocus-5.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
-<!-- affiliate ads end -->
  From Docker Desktop, you can stop and start Fooocus (without having to use the terminal), or delete the container and all its data.
 
 <!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ###  Step 4: Generate Some Images!
 
  Now that Fooocus is up and running in Docker, you can access it from your web browser. By default, it runs on port **7865** and can be accessed at the address **http://localhost:7865** ("[localhost](https://iphone-unlock.techidaily.com/how-do-you-unlock-your-apple-iphone-14-pro-learn-all-4-methods-drfone-by-drfone-ios/)" is the address your computer uses to access itself). You can click on a running container in the Docker Desktop interface to see which ports on localhost can be used to access it.
@@ -114,6 +112,10 @@ The ultimate burning program for all your needs!</a>
  Once the Fooocus interface has loaded, it's simply a matter of asking it to make some images!
 
 ![The Fooocus Stable Diffusion interface awaiting a user prompt](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/fooocus-6.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The first image might take a bit longer than others while the models Fooocus uses are prepared. Here's an example of an image generated using a simple Fooocus prompt: a photo of a helpful [How-To Geek](https://video-screen-grab.techidaily.com/new-in-2024-ranking-the-best-third-place-recording-tools-for-ipad/) surfing the net.
 
@@ -133,8 +135,6 @@ The ultimate burning program for all your needs!</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -142,4 +142,19 @@ The ultimate burning program for all your needs!</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-guidance.techidaily.com/updated-the-vida-journey-from-raw-footage-to-cinematic-scene/"><u>[Updated] The Vida Journey From Raw Footage to Cinematic Scene</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-achieving-flawless-audio-to-text-translation-using-google/"><u>In 2024, Achieving Flawless Audio to Text Translation Using Google</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/jokes-that-rule-top-twenty-on-social-networks-for-2024/"><u>Jokes that Rule Top Twenty on Social Networks for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/maximizing-windows-11-search-functionality-top-11-tips/"><u>Maximizing Windows 11 Search Functionality: Top 11 Tips</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/stay-powered-up-how-this-revolutionary-mobile-charger-saved-the-day-during-a-blackout-read-the-story-on-zdnet/"><u>Stay Powered Up: How This Revolutionary Mobile Charger Saved the Day During a Blackout – Read The Story on ZDNet!</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/step-by-step-iphone-ringer-update-guide-for-2024/"><u>Step-by-Step IPhone Ringer Update Guide for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/tackling-resource-shortages-the-synergistic-role-of-nuclear-energy-and-hemp-in-global-sustainability-insights-from-zdnet/"><u>Tackling Resource Shortages: The Synergistic Role of Nuclear Energy & Hemp in Global Sustainability - Insights From ZDNet</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/the-7-best-fps-games-for-2024/"><u>The 7 Best Fps Games for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-electric-vehicles-in-202/"><u>Top Electric Vehicles in 202</u></a></li>
+<li><a href="https://apple-account.techidaily.com/turning-off-two-factor-authentication-from-iphone-11-5-tips-you-must-know-by-drfone-ios/"><u>Turning Off Two Factor Authentication From iPhone 11? 5 Tips You Must Know</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ultimate-guide-to-choosing-the-ideal-electric-leaf-blower-for-your-yard-ranked-best-of-2022-hometechpros/"><u>Ultimate Guide to Choosing the Ideal Electric Leaf Blower for Your Yard, Ranked Best of 2022 - HomeTechPros</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ursa-major/"><u>Ursa Major</u></a></li>
+</ul></div>
 

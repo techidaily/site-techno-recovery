@@ -1,7 +1,7 @@
 ---
 title: "The Great Debate: Is the PS5 Slim Worth It Compared to the Original PS5"
-date: 2024-08-30T13:11:45.056Z
-updated: 2024-08-31T13:11:45.056Z
+date: 2024-12-23T21:18:03.136Z
+updated: 2024-12-25T23:46:30.262Z
 categories:
   - BestProducts
 description: "This Article Describes The Great Debate: Is the PS5 Slim Worth It Compared to the Original PS5"
@@ -10,6 +10,11 @@ thumbnail: https://thmb.techidaily.com/91120e952f9d1d6546a20efeacf0c17a6bf03fb18
 ---
 
 ## Digital Romance Made Simple: Your Go-To Tutorial for Typing Heart Characters
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### What to Know
 
 * Windows: Press**Alt+3** on your keyboard to instantly type a heart symbol (must have Number Pad).
@@ -17,6 +22,10 @@ thumbnail: https://thmb.techidaily.com/91120e952f9d1d6546a20efeacf0c17a6bf03fb18
 * Mac: Press**Cmd+Ctrl+Space** to select heart symbols from the emoji keyboard.
 
  This article contains instructions for typing a heart on a keyboard using several methods that work on Windows, Macs, or both.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Type a Heart on a Windows Keyboard
 
@@ -34,8 +43,9 @@ These instructions apply to PCs running Windows 10 and up.
  If you can’t find a particular emoji, click the search icon and type the name of the emoji you’re looking for.
 
 <!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Type a Heart on a Mac Keyboard
 
  Here's how it works on a Mac:
@@ -46,14 +56,13 @@ These instructions apply to PCs running Windows 10 and up.
 2. Press**Cmd+Ctrl+Space** on your keyboard at the same time. An emoji keyboard will appear.  
 ![Opening emoji keyboard on Mac.](https://www.lifewire.com/thmb/ETIxJzIACqgZ-FEusK1zp244QwU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/005_how-to-make-a-heart-on-a-keyboard-d7effa6578c54270a6f1975aa35bf968.jpg)
 3. Click the**Symbols** category in the bottom row. It’s located between the**Objects** (lightbulb) and**Flags** categories.  
+
 <!-- affiliate ads begin -->
-<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![Selecting Symbols category on Mac emoji keyboard.](https://www.lifewire.com/thmb/rvQxI5-vlnziApmdyIgVo24JizM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/003-how-to-make-a-heart-on-a-keyboard-332f4f0c46524b5cada3fad81d8ee5bb.jpg)
 4. Click the heart you'd like to type and it will appear in the text box.
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
-<!-- affiliate ads end -->
 5. To manually search for a heart emoji, type_heart_ in the search bar at the top of the category window.  
 ![Searching for heart emojis on Mac emoji keyboard.](https://www.lifewire.com/thmb/q7yE2Em2aL0wylQuB9cdjMcrqsY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004-how-to-make-a-heart-on-a-keyboard-042433c18f7a459b838052a676496c9c.jpg)
 
@@ -66,8 +75,9 @@ These instructions apply to PCs running Windows 10 and up.
  It’s much easier to use**Cmd+Ctrl+Space** and bring up the emoji keyboard, as Unicode is a complicated, somewhat limited method.
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How Do You Make a Heart Without a Number Pad?
 
  Unfortunately, alt codes on Windows only work with the numeric keypad. You can't use the numbers across the top of your keyboard.
@@ -79,14 +89,8 @@ These instructions apply to PCs running Windows 10 and up.
 3. Check**Turn on numeric key pad** .  
 ![Turning on Windows virtual keyboard numberpad.](https://www.lifewire.com/thmb/A-KAtlGevfPdZ_MVGGtIkNOa5AY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/005-how-to-make-a-heart-on-a-keyboard-5b2a0072033c44808c10fd4dd331a596.jpg)
 4. Click the**NumLock button** to bring up the number pad.  
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Clicking NumLock on Windows virtual keyboard.](https://www.lifewire.com/thmb/K3UtpecEk0l9CDOS0lu-RdDQgAM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/006-how-to-make-a-heart-on-a-keyboard-b4864f8bfc3a47e99b87e661cb58360e.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Alternatives include downloading a Numpad emulator or using an external keyboard with a Numpad built-in.
 
  If you don't know the alt code for a particular symbol or can't find an emoji in the emoji keyboard, you can search for it using Google or another search engine and copy/paste it.
@@ -126,8 +130,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -135,4 +137,22 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-help.techidaily.com/new-strategies-for-building-a-hit-youtube-video-preview/"><u>[New] Strategies for Building a Hit YouTube Video Preview</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-top-5-best-action-cameras-for-fishing/"><u>[New] Top 5 Best Action Cameras for Fishing</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-effortlessly-download-your-favorite-youtube-playlists/"><u>[Updated] In 2024, Effortlessly Download Your Favorite YouTube Playlists</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/best-self-driving-vehicle-producers-predicted/"><u>Best Self-Driving Vehicle Producers Predicted</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/clear-out-your-android-phones-cache-a-comprehensive-walkthrough/"><u>Clear Out Your Android Phone’s Cache – A Comprehensive Walkthrough</u></a></li>
+<li><a href="https://win-answers.techidaily.com/complete-guide-ending-your-struggle-with-hyper-scape-on-pc-crashes/"><u>Complete Guide: Ending Your Struggle with Hyper Scape on PC Crashes</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/decoding-the-workings-an-insight-into-chatgpts-shared-links/"><u>Decoding the Workings: An Insight Into ChatGPT’s Shared Links</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/expert-advice-on-fixing-power-failures-in-roku-televisions/"><u>Expert Advice on Fixing Power Failures in Roku Televisions</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/fixing-broken-subtitles-on-amazon-prime-easy-solutions-for-viewers/"><u>Fixing Broken Subtitles on Amazon Prime - Easy Solutions for Viewers</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-epic-historical-combat-showdowns-the-top-7-games/"><u>In 2024, Epic Historical Combat Showdowns – The Top 7 Games</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-snowbound-sagas-2022-olympic-milestones/"><u>In 2024, Snowbound Sagas 2022 Olympic Milestones</u></a></li>
+<li><a href="https://network-issues.techidaily.com/market-dynamics-understanding-the-shifts-in-gaming-hardware-landscape/"><u>Market Dynamics: Understanding the Shifts in Gaming Hardware Landscape</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-ultimate-tutorial-for-activating-pip-on-android-smartphones-and-tablets/"><u>The Ultimate Tutorial for Activating PiP on Android Smartphones and Tablets</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/troubleshooting-missing-user32dll-files-a-comprehensive-solution-guide-for-computer-users/"><u>Troubleshooting Missing User32.dll Files: A Comprehensive Solution Guide for Computer Users</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/utilizing-snap-camera-for-interactive-online-gatherings/"><u>Utilizing Snap Camera for Interactive Online Gatherings</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Get Your iPhone Upgraded with iOS 18! Step-by-Step Download Instructions and Supported Devices | Insights From ZDNET
-date: 2024-12-10T22:16:59.636Z
-updated: 2024-12-17T13:05:33.319Z
+date: 2024-12-23T19:48:49.768Z
+updated: 2024-12-26T05:18:57.271Z
 tags:
   - apple
 categories:
@@ -26,6 +26,10 @@ While the official iOS 18 general release is today, users have already been able
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to install iOS 18
 
 Jason Hiner/ZDNET
@@ -33,7 +37,7 @@ Jason Hiner/ZDNET
 **What you need:** An iPhone running iOS 16.5 or later. Since not all iPhones are compatible with iOS 18, you'll also need a model [newer than the iPhone X](https://www.zdnet.com/article/best-iphone/).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Go to General in your iPhone Settings
@@ -49,7 +53,7 @@ Within General, tap on Software Update. This will show you if the iOS 18 update 
 When you tap on Software Update, your iPhone will check for the latest version of iOS available. Then, you'll be able to Download and Install the new update. Your iPhone will begin the download immediately.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Enter your passcode and follow steps to install
@@ -65,7 +69,7 @@ After installing the latest iOS update, your iPhone will restart.
 Apple Intelligence, featuring the company's AI tools, will begin to roll out for compatible iPhones over the next few weeks, with more features to join in the coming months. This slew of AI features will be available on the iPhone 16 lineup and the iPhones 15 Pro and Pro Max.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### When was iOS 18 released?
@@ -83,7 +87,7 @@ You can always be part of the Apple Beta program to get the latest beta versions
 * You should go into the experience to test new features and share feedback to improve iOS, which is why beta versions are released.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### How do I install the iOS 18 beta version?
@@ -96,10 +100,6 @@ You'll need an iPhone running iOS 16.5 or later. Since not all iPhones are compa
 4. Select iOS 18 Public Beta. Then you'll begin receiving automatic software updates to the latest beta version of iOS 18\. Apple currently has four beta versions of iOS: iOS 18 public beta, iOS 18 developer beta, iOS 17 public beta, and iOS 17 developer beta. These four options will soon be reduced to just the two iOS 18 variants. Once you do this, return to the previous page. If an update is available now, your iPhone will prompt you to download and install it.
 
 Screenshot: Maria Diaz/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### How to download the iOS 18 developer beta?
 
@@ -161,18 +161,18 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-how-to-effortlessly-eradicate-unwanted-youtube-feedback/"><u>[Updated] 2024 Approved How to Effortlessly Eradicate Unwanted YouTube Feedback</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-unlocking-youtubes-potential-essential-tactics-and-strategies/"><u>[Updated] In 2024, Unlocking YouTube's Potential Essential Tactics and Strategies</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/accessing-streaming-content-netflix-movies-downloads-for-laptops-explained/"><u>Accessing Streaming Content: Netflix Movies Downloads for Laptops Explained</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-undelete-lost-call-logs-from-honor-x7b-by-fonelab-android-recover-call-logs/"><u>Best Android Data Recovery - undelete lost call logs from Honor X7b</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/clear-space-keep-memories-deleting-icloud-photos-but-not-your-iphone-gallery/"><u>Clear Space, Keep Memories: Deleting iCloud Photos but Not Your iPhone Gallery</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/disabling-mac-mouse-sensitivity-a-step-by-step-guide/"><u>Disabling Mac Mouse Sensitivity: A Step-by-Step Guide</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/exclusive-deals-score-big-savings-on-apple-watches-this-month/"><u>Exclusive Deals: Score Big Savings on Apple Watches This Month</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/how-to-adjust-or-eliminate-mouse-movement-intelligence-on-mac-computers/"><u>How to Adjust or Eliminate Mouse Movement Intelligence on Mac Computers</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-night-photography-perfection-with-iphones/"><u>In 2024, Night Photography Perfection with iPhones</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-the-photo-keepers-companion-unlimited-free-options-and-elite-subscription-saviors/"><u>In 2024, The Photo Keeper’s Companion Unlimited Free Options & Elite Subscription Saviors</u></a></li>
-<li><a href="https://review-topics.techidaily.com/oppo-reno-11-5g-support-turn-off-screen-lock-by-drfone-android-unlock-android-unlock/"><u>Oppo Reno 11 5G support - Turn Off Screen Lock.</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/the-ultimate-fixes-for-cygwin1dll-errors-on-your-pc/"><u>The Ultimate Fixes for Cygwin1.dll Errors on Your PC</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tips-for-restoring-accessibility-of-displays-in-nvidia-software/"><u>Tips for Restoring Accessibility of Displays in Nvidia Software</u></a></li>
+<li><a href="https://howto.techidaily.com/11-proven-solutions-to-fix-google-play-store-not-working-issue-on-poco-f5-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Proven Solutions to Fix Google Play Store Not Working Issue on Poco F5 5G | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/best-pokemons-for-pvp-matches-in-pokemon-go-for-tecno-camon-20-pro-5g-drfone-by-drfone-virtual-android/"><u>Best Pokemons for PVP Matches in Pokemon Go For Tecno Camon 20 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-mpow-bluetooth-software-latest-updates-for-windows-10-8-and-7/"><u>Download MPOW Bluetooth Software: Latest Updates for Windows 10, 8, and 7</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-dynamic-ppt-leveraging-voice-for-effective-delivery/"><u>In 2024, Dynamic PPT Leveraging Voice for Effective Delivery</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-navigating-video-streaming-tools-a-focus-on-zoom-with-youtube/"><u>In 2024, Navigating Video Streaming Tools A Focus on Zoom with YouTube</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/209911692-9781946774118-the-three-magical-books-of-solomon/"><u>The Three Magical Books of Solomon | Free Book</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/troubleshooting-unresponsive-hp-devices/"><u>Troubleshooting Unresponsive HP Devices</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unique-eco-friendly-presents-carbon-credit-giving-for-the-holidays-tips-by-zdnet-experts/"><u>Unique Eco-Friendly Presents: Carbon Credit Giving for the Holidays, Tips by ZDNET Experts</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unleashing-the-potential-of-ecoflows-newest-marvel-the-entry-level-river-3-battery-expert-insights-from-zdnet/"><u>Unleashing the Potential of EcoFlow's Newest Marvel - The Entry-Level River 3 Battery | Expert Insights From ZDNET</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unlocking-the-future-my-experience-testing-face-recognition-biometric-locks-a-game-changer-in-home-security-zdnet/"><u>Unlocking the Future: My Experience Testing Face Recognition Biometric Locks - A Game Changer in Home Security | ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/why-the-arlo-pro-5s-nearly-nailed-it-a-comprehensive-review-of-its-features-and-limitations/"><u>Why the Arlo Pro 5S Nearly Nailed It: A Comprehensive Review of Its Features and Limitations</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/zdnet-explores-how-ecoflows-battery-powered-up-an-entire-home-during-outages-your-ultimate-guide-to-portable-solutions/"><u>ZDNet Explores How EcoFlow's Battery Powered Up an Entire Home During Outages: Your Ultimate Guide to Portable Solutions</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/zdnet-reports-on-john-deeres-latest-commitment-to-support-the-right-to-repair-cause/"><u>ZDNet Reports on John Deere’s Latest Commitment to Support the 'Right to Repair' Cause</u></a></li>
 </ul></div>
 

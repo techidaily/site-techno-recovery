@@ -1,7 +1,7 @@
 ---
 title: Top 10 Essential Batch File Scripts for Power Users of Windows
-date: 2024-08-30T13:08:31.083Z
-updated: 2024-08-31T13:08:31.083Z
+date: 2024-12-19T06:31:31.760Z
+updated: 2024-12-25T20:14:46.945Z
 tags:
   - desktop
 categories:
@@ -28,6 +28,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  Tired of navigating through the cluttered Windows interface to find the tools you need? Look no further than Run commands. Run commands can take you straight to the Windows tools or settings you need without the fuss. Let's explore some useful Run commands that every Windows user should know.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Why Use Run Commands?
 
  You might be wondering why you should bother with Run commands when you can access many of these settings through the Start Menu or Control Panel. The answer is efficiency: Run commands are a faster and more direct way to access various Windows settings, tools, and features.
@@ -35,6 +39,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  Instead of clicking through multiple menus, you can simply enter a command and access the setting or tool you need instantly. You can open the Run dialog box by pressing Windows+R on the keyboard. After that, you can simply type a command and hit enter.
 
  Run commands are quick and efficient, and sometimes give you access to features you didn't even know existed. Plus, there's something undeniably cool about typing in a command and watching your computer jump into action, right?
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Use msconfig to Tweak Startup Settings
 
@@ -46,9 +54,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![The msconfig window open on Windows 11.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/msconfig-system-configuration-window.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Run msinfo32 to Get Your System Specs
 
  Curious about your [system's specs](https://tech-haven.techidaily.com/has-chatgpt-simplified-or-compromised-academic-writings/)? Just type **msinfo32** in the Run dialog box, and you’ll see everything from your processor type to the amount of RAM installed. You can access detailed system summaries, including hardware resources, software environments, and components.
@@ -56,6 +61,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  This information can be invaluable when you're troubleshooting, [upgrading your hardware](https://win-dash.techidaily.com/step-by-step-guide-solving-realtek-wireless-connection-error-in-windows-operating-systems/), or generating a report for technical support. You can even use it to [check your BIOS version](https://win11-tips.techidaily.com/running-state-of-the-art-ai-windows-edition/) or verify your system's specifications.
 
 ![The example PC's information.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/msinfo32-system-infomation.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Manage Your Installed Apps With appwiz.cpl
 
@@ -66,11 +75,9 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![A list of installed programs showing in Programs and Features window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/appwiz-programs-and-features-window.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
+
 ##  Customize Your Display With desk.cpl
 
  Whether you need to [change your screen resolution](https://instagram-clips.techidaily.com/2024-approved-unleashing-your-brand-potential-with-advanced-insights-on-instagram-data/), or [orientation](https://some-knowledge.techidaily.com/frustrated-photographers-face-black-screen-woes-for-2024/), or manage multiple monitors, the desk.cpl command brings all display-related settings to your fingertips. Additionally, it allows you to adjust your screen brightness, refresh rate, or the size of apps, text, or any other items.
@@ -87,9 +94,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Showing properties and other options for mouse and trackpad.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/main-mouse-properties.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Establish a Remote Connection Using mstsc
 
  mstsc refers to Microsoft Terminal Services Client, which is usually known as Remote Desktop Connection. Simply type **mstsc** in the Run window and [establish a remote desktop connection](https://fox-direct.techidaily.com/unleash-creativity-with-these-essential-vector-editors-for-2024/). You can also customize your remote desktop settings by changing its size, color, audio, and others.
@@ -99,11 +103,9 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![The remote desktop connections window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/mstsc-remote-desktop-connection.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+
 ##  Calibrate Your Screen With dccw
 
  Want to calibrate your monitor for accurate colors? Try dccw. Running this command will open the Display Color Calibration tool, which guides you through [adjusting your monitor’s color settings](https://games-able.techidaily.com/catch-up-on-classic-gaming-with-iphone-and-psp-fusion/). Poor color accuracy can be frustrating, especially for graphic designers or photographers.
@@ -119,8 +121,9 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![Removing unwanted files with the Disk Cleanup utility.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/cleanmgr-clean-disk.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Monitor Your PC's Performance With resmon
 
  Want to keep a watchful eye on your PC's performance? Try resmon command. This command opens the Resource Monitor, which displays real-time data on system resources, such as memory, disk, CPU, and network usage.
@@ -129,17 +132,15 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Viewing real time data of system resources in Resource Monitor window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/resmon-resource-tool.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 ##  Navigate Efficiently With "." and ".."
 
  Finally, we have the single dot **.** and the double dot **..** commands. You might use these **.** and **..** commands with cd in the command prompt or PowerShell or any other [terminal for changing directories](https://extra-information.techidaily.com/quick-and-easy-iphone-burst-techniques/). The **.** and **..** commands may seem simple, but they're incredibly useful for navigating the Windows file system.
 
  In the Run dialog, typing **.** opens the current user's home directory, while **..** opens the Users directory. These commands are shortcuts for quick navigation through the file system, especially useful for accessing user-specific files and folders.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Mastering Your Windows PC
 
@@ -153,8 +154,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -162,4 +161,24 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-vidvault-screen-recording-review-for-2efficiency-seekers/"><u>[Updated] In 2024, 'VidVault' Screen Recording Review for 2Efficiency Seekers</u></a></li>
+<li><a href="https://blog-min.techidaily.com/1724765613813-dvd/"><u>「円滑なDVD視聴をサポートする車内ナビ機能 - 一度見たくも思わぬエラー回避法の解明」</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-dissecting-the-prospects-of-active-presenter-for-techies/"><u>2024 Approved Dissecting the Prospects of Active Presenter for Techies</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-navigating-playlist-creation-on-youtube-easily/"><u>2024 Approved Navigating Playlist Creation on YouTube Easily</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/advancing-digital-evolution-unveiling-how-edge-to-cloud-catalyzes-modern-transformations-zdnet-insights/"><u>Advancing Digital Evolution: Unveiling How Edge-to-Cloud Catalyzes Modern Transformations | ZDNet Insights</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/akamai-enhances-edge-cloud-services-with-linode-integration-a-leap-into-advanced-computing-insights-from-zdnet/"><u>Akamai Enhances Edge Cloud Services with Linode Integration: A Leap Into Advanced Computing - Insights From ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/beyond-ai-breakthroughs-exploring-the-swift-advancements-of-a-new-technological-era-with-zdnet/"><u>Beyond AI Breakthroughs: Exploring the Swift Advancements of a New Technological Era with ZDNET</u></a></li>
+<li><a href="https://win-docs.techidaily.com/connecting-windows-11-with-the-synology-storage-server-step-by-step-guide/"><u>Connecting Windows 11 with the Synology Storage Server - Step-by-Step Guide</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/embracing-change-in-artificer-times-the-promise-of-ongoing-progress-by-it-professionals/"><u>Embracing Change in Artificer Times: The Promise of Ongoing Progress by IT Professionals</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/exploring-the-apeman-c450-as-a-budget-dash-camera-option-in-depth-review-and-insights/"><u>Exploring the Apeman C450 as a Budget Dash Camera Option: In-Depth Review and Insights</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-instagram-artistry-the-top-image-enhancers/"><u>In 2024, Instagram Artistry The Top Image Enhancers</u></a></li>
+<li><a href="https://driver-install.techidaily.com/optimize-your-machine-with-windows-11-tactile-upgrade/"><u>Optimize Your Machine with Windows 11 Tactile Upgrade</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-migration-of-businesses-to-the-cloud-frontier-are-we-prepared/"><u>The Migration of Businesses to the Cloud Frontier: Are We Prepared?</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unleashing-potential-how-boosted-edge-computing-is-shaping-future-careers-insights-from-zdnet/"><u>Unleashing Potential: How Boosted Edge Computing Is Shaping Future Careers - Insights From ZDNet</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/ways-to-find-unlocking-codes-for-google-pixel-8-pro-phones-by-drfone-android/"><u>Ways To Find Unlocking Codes For Google Pixel 8 Pro Phones</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/zdnet-exclusive-with-raspberry-pi-executive-revolutionary-70-artificial-intelligence-kit-unveiled-defining-era-for-the-company/"><u>ZDNet Exclusive with Raspberry Pi Executive: Revolutionary $70 Artificial Intelligence Kit Unveiled – Defining Era for the Company</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/zdnet-highlights-top-5-innovations-in-5g-and-edge-technology-poised-to-shape-our-future/"><u>ZDNet Highlights Top 5 Innovations in 5G and Edge Technology Poised to Shape Our Future</u></a></li>
+</ul></div>
 

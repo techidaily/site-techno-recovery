@@ -1,7 +1,7 @@
 ---
 title: "Effortless Techniques: How to Grab Scrolling Images While Using macOS"
-date: 2024-08-30T13:08:03.231Z
-updated: 2024-08-31T13:08:03.232Z
+date: 2024-12-25T00:21:54.182Z
+updated: 2024-12-25T21:14:43.262Z
 tags:
   - desktop
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://thmb.techidaily.com/85d1b13c1ebb0877b2226a27f70682a117714d804
 ---
 
 ## Effortless Techniques: How to Grab Scrolling Images While Using macOS
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -34,11 +38,12 @@ thumbnail: https://thmb.techidaily.com/85d1b13c1ebb0877b2226a27f70682a117714d804
 
 ![The Inspect Element screen in Safari showing the Capture Screenshot option.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/the-inspect-element-screen-in-safari-showing-the-capture-screenshot-option.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You'll now be prompted to choose where to save your image. Click "Save" and you're done.
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Take a Scrolling Screenshot With the FireShot Safari Extension
 
  If you take screenshots of websites regularly, then you'll be better off using an app to handle it. For Safari, you can [install an extension](https://unlock-android.techidaily.com/best-ways-on-how-to-unlockbypassswiperemove-infinix-gt-10-pro-fingerprint-lock-by-drfone-android/) to capture scrolling screenshots. The one we like is FireShot, which is free and is also available as an extension for Chrome and other third-party browsers.
@@ -47,31 +52,22 @@ thumbnail: https://thmb.techidaily.com/85d1b13c1ebb0877b2226a27f70682a117714d804
 
 ![The FireShot page in the Mac App Store.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/the-fireshot-page-in-the-mac-app-store.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Now open Safari and go to Safari > Settings > Extensions and locate FireShot in the Installed pane. Check the box alongside the name to activate the extension. In the right-hand pane, you can click "Always Allow on Every Website" if you plan to use it a lot. For security reasons, it's better not to do this. You can simply grant permission for the extension to work as and when you need it instead.
 
 ![The FireShot settings page in Safari.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/the-fireshot-settings-page-in-safari.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
-LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
  Now load up the page you want to screenshot in Safari. You'll see that a FireShot icon has been added to the toolbar alongside the address bar. It'll be grayed out at first, so click the icon and select "Allow for One Day" to give it permission to run.
 
 ![Screenshot showing the permission option in FireShot.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/screenshot-showing-the-permission-option-in-fireshot.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Click the icon again, followed by "Capture Entire Page." The screenshot will open in a new tab, and you can choose to save it as an image (in the PNG format) or PDF, email it, copy it to your clipboard, or print it.
 
 ![The Capture Entire Page option in FireShot.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/the-capture-entire-page-option-in-fireshot.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 ##  Take Screenshots in an Online Tool
 
  The other good option for taking full-page screenshots of websites is by using an online tool. This is less convenient in some cases, but it comes with the benefit of being able to share your screenshots between your Mac and another device more easily.
@@ -86,7 +82,15 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
 
 ![Saving a full page screenshot in Safari.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/saving-a-full-page-screenshot-in-safari.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You can also click in the address bar in Safari and hit Command+C to copy the unique URL for the image and share it with other devices.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Take Scrolling Screenshots in Any App With Shottr
 
@@ -100,10 +104,6 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
 
 ![The Scrolling Capture setting in Shottr.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/the-scrolling-capture-setting-in-shottr.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
  Your mouse pointer will turn into a crosshair. Click in the top-left corner of the area you want to screenshot, then drag to the bottom-right. When you let go of the mouse button, the screen will begin to scroll up. Everything within the width of the rectangle you drew will be captured, right down to the bottom of the page.
 
 Your browser does not support the video tag. 
@@ -120,8 +120,6 @@ Your browser does not support the video tag.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -129,4 +127,21 @@ Your browser does not support the video tag.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-mastering-teams-personalized-call-banners/"><u>[Updated] 2024 Approved Mastering Teams' Personalized Call Banners</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-inside-the-arsenal-the-complete-review-of-sj-cam-s6/"><u>[Updated] Inside the Arsenal The Complete Review of SJ-CAM S6</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-mac-and-windows-compatible-srt-boosters-the-elite-list-of-10/"><u>2024 Approved Mac & Windows Compatible SRT Boosters The Elite List of 10</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-personalize-your-youtube-watch-experience-with-alerts-and-notes/"><u>2024 Approved Personalize Your Youtube Watch Experience with Alerts & Notes</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/amazon-secures-strategic-partnership-with-e-commerce-giants-expanding-reach-of-singapores-small-and-medium-enterpr/"><u>Amazon Secures Strategic Partnership with E-Commerce Giants: Expanding Reach of Singapore's Small and Medium Enterpr</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/t-common-youtube-short-obstacles-for-2024/"><u>Combat Common YouTube Short Obstacles for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/discover-the-ultimate-list-of-30-superior-free-ip-surveillance-programs-with-movavi-featured/"><u>Discover the Ultimate List of 30 Superior Free IP Surveillance Programs with Movavi Featured</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/from-newbie-to-ninja-an-easy-to-follow-guide-on-playing-fortnite-on-windows-or-mac/"><u>From Newbie to Ninja: An Easy-to-Follow Guide on Playing Fortnite on Windows or Mac</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/in-2030-cashless-society-flourishes-as-digital-wallets-dominate-payments-insights-from-zdnet/"><u>In 2030, Cashless Society Flourishes as Digital Wallets Dominate Payments - Insights From ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/installing-and-configuring-the-easy-digital-downloads-plugin-for-your-wp-site-tips-from-zdnet/"><u>Installing & Configuring the Easy Digital Downloads Plugin for Your WP Site | Tips From ZDNet</u></a></li>
+<li><a href="https://fox-that.techidaily.com/revive-your-iphone-effortlessly-even-without-itunes/"><u>Revive Your iPhone Effortlessly, Even without iTunes</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/secure-top-academic-essentials-at-bargain-prices-amazons-latest-back-to-school-promotions-featured-by-zdnet/"><u>Secure Top Academic Essentials at Bargain Prices: Amazon's Latest Back-to-School Promotions Featured by ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/simplified-purchasing-how-smartphones-revolutionize-the-way-you-buy-pre-owned-cars/"><u>Simplified Purchasing: How Smartphones Revolutionize the Way You Buy Pre-Owned Cars</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/smart-spending-10-essential-tactics-to-save-money-on-amazons-biggest-sale-event-insights-by-zdnet/"><u>Smart Spending: 10 Essential Tactics to Save Money on Amazon's Biggest Sale Event - Insights by ZDNet</u></a></li>
+</ul></div>
 

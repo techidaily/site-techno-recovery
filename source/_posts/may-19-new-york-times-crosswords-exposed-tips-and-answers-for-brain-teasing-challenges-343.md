@@ -1,7 +1,7 @@
 ---
 title: "May 19 New York Times Crosswords Exposed: Tips and Answers for Brain-Teasing Challenges #343"
-date: 2024-08-30T13:07:16.240Z
-updated: 2024-08-31T13:07:16.240Z
+date: 2024-12-22T02:30:09.802Z
+updated: 2024-12-26T04:15:48.167Z
 tags:
   - web
 categories:
@@ -29,8 +29,9 @@ thumbnail: https://thmb.techidaily.com/baa9af4e7b434bdeaa9a3b01163bb4bc26127160d
  Once you're confident you understand the connection, select 4 words, then hit "Submit." You have only four attempts in total, so don't be too guess-happy.
 
 <!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Hints for Today's Connections Groups
 
  Here are a few hints for the 343rd Connections game to get you started:
@@ -40,16 +41,14 @@ thumbnail: https://thmb.techidaily.com/baa9af4e7b434bdeaa9a3b01163bb4bc26127160d
 * **Blue:** Also an alcoholic drink.
 * **Purple:** Sounds like something you'd eat.
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
-<!-- affiliate ads end -->
 ##  What Are Today's Connections Groups?
 
 ![May 19th Connections words.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/may-19th-connections.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  If you still need help, the actual group names are:
 
 * **Yellow:** Affluent
@@ -58,8 +57,9 @@ thumbnail: https://thmb.techidaily.com/baa9af4e7b434bdeaa9a3b01163bb4bc26127160d
 * **Purple:** Fruit Homophones
 
 <!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Today's NYT Connections Answers
 
 ![May 19th Connections words and groups.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/may-19th-connections-filled.png) 
@@ -81,8 +81,9 @@ thumbnail: https://thmb.techidaily.com/baa9af4e7b434bdeaa9a3b01163bb4bc26127160d
  Bury, Current, Leachy, Pair
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  How Did We Solve This Connections Game?
 
  May 19th was a step-down in difficulty from the last game, or so it seemed anyway. 
@@ -96,8 +97,9 @@ thumbnail: https://thmb.techidaily.com/baa9af4e7b434bdeaa9a3b01163bb4bc26127160d
  That left bury, current, leachy, and pair. They didn't seem to have anything in common, but saying them out loud helped. They're homophones for fruits. The Purple group was "Fruit Homophones." 
 
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  How Do You Guess Connections Groups?
 
  There is no quick, reliable way to approach Connections like there is with Wordle, since Connections isn't algorithmic. However, there are a few things to keep in mind that can help.
@@ -117,8 +119,6 @@ thumbnail: https://thmb.techidaily.com/baa9af4e7b434bdeaa9a3b01163bb4bc26127160d
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -126,4 +126,23 @@ thumbnail: https://thmb.techidaily.com/baa9af4e7b434bdeaa9a3b01163bb4bc26127160d
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-leading-synthetic-ps3-games-for-pc-gamers/"><u>[New] 2024 Approved Leading Synthetic PS3 Games for PC Gamers</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-expert-strategies-for-efficient-funimate-use-for-2024/"><u>[New] Expert Strategies for Efficient Funimate Use for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-from-start-up-to-success-how-to-register-a-professional-account-on-instagram-for-2024/"><u>[New] From Start-Up to Success How to Register a Professional Account on Instagram for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-live-from-the-cloud-effective-dji-drone-broadcasting-tips/"><u>[Updated] 2024 Approved Live From the Cloud Effective DJI Drone Broadcasting Tips</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-building-mental-armor-against-online-critics/"><u>[Updated] Building Mental Armor Against Online Critics</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/effortless-book-shopping-for-kindle-users-a-comprehensive-tutorial-from-zdnet/"><u>Effortless Book Shopping for Kindle Users - A Comprehensive Tutorial From ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/elevate-your-home-with-alexa-echo-pop-vs-echo-dot-face-off-to-find-your-perfect-companion-expert-advice-on-zdnet/"><u>Elevate Your Home with Alexa: Echo Pop vs Echo Dot Face-Off to Find Your Perfect Companion - Expert Advice on ZDNET</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/exciting-announcement-by-southwest-airways-positive-impact-on-most-exception-being-tech-mogul-bill-gates/"><u>Exciting Announcement by Southwest Airways - Positive Impact on Most, Exception Being Tech Mogul Bill Gates.</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-does-airplane-mode-turn-off-gps-location-on-vivo-v29e-drfone-by-drfone-virtual-android/"><u>In 2024, Does Airplane Mode Turn off GPS Location On Vivo V29e? | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/millions-misled-into-costly-prime-plans-by-amazon-reveals-federal-trade-commission-report-covered-by-zdnet/"><u>Millions Misled Into Costly Prime Plans by Amazon, Reveals Federal Trade Commission Report Covered by ZDNET</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/southwests-bold-move-sparks-debate-on-customer-tiering-insights-from-zdnet/"><u>Southwest's Bold Move Sparks Debate on Customer Tiering | Insights From ZDNET</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/step-by-step-guide-integrating-bing-ai-chat-into-your-android-keyboard/"><u>Step-by-Step Guide: Integrating Bing AI Chat Into Your Android Keyboard</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/ultimate-guide-to-get-the-meltan-box-pokemon-go-for-oneplus-nord-n30-se-drfone-by-drfone-virtual-android/"><u>Ultimate guide to get the meltan box pokemon go For OnePlus Nord N30 SE | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/united-front-against-cyber-frauds-singapore-and-us-enhance-transnational-collaboration/"><u>United Front Against Cyber Frauds: Singapore and U.S Enhance Transnational Collaboration</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unlocking-the-future-of-retail-explore-how-ebays-new-ai-feature-transforms-your-shopping-experience/"><u>Unlocking the Future of Retail: Explore How eBay's New AI Feature Transforms Your Shopping Experience!</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/which-pokemon-can-evolve-with-a-moon-stone-for-xiaomi-13t-pro-drfone-by-drfone-virtual-android/"><u>Which Pokémon can Evolve with a Moon Stone For Xiaomi 13T Pro? | Dr.fone</u></a></li>
+</ul></div>
 

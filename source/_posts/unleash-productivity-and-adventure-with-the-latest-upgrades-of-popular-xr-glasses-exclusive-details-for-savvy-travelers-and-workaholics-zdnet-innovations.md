@@ -1,7 +1,7 @@
 ---
 title: Unleash Productivity and Adventure with the Latest Upgrades of Popular XR Glasses - Exclusive Details for Savvy Travelers & Workaholics | ZDNET Innovations
-date: 2024-12-06T05:08:23.306Z
-updated: 2024-12-11T06:22:24.101Z
+date: 2024-12-18T18:09:01.927Z
+updated: 2024-12-26T04:22:30.848Z
 tags:
   - apple
 categories:
@@ -21,7 +21,7 @@ Matthew Miller/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -85,7 +85,7 @@ Along with the [Viture Pro XR glasses](https://buy.geni.us/Proxy.ashx?TSID=36825
 Lastly, Viture announced a new limited-edition controller in partnership with 8BitDo. You can connect this new controller, with a classic XBox-style controller layout, via Bluetooth to your gaming device, including the Nintendo Switch. The smokey translucent design looks cool and matches the Viture ecosystem. The 8BitDo controller also serves as a companion to the Viture Neckband, but I have yet to try out the Neckband, so I cannot share my experiences with that accessory.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -122,16 +122,24 @@ The [Viture Pro XR glasses](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/024-approved-sync-splice-and-spruce-pro-video-editing-in-one-tool/"><u>[New] 2024 Approved Sync, Splice & Spruce Pro Video Editing in One Tool</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/outubers-dream-gear-top-cameras-unveiled/"><u>[New] YouTubers' Dream Gear Top Cameras Unveiled</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/accessing-and-watching-roku-content-without-a-physical-roku-hardware/"><u>Accessing and Watching Roku Content without a Physical Roku Hardware</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/airpods-series-continues-with-airpods-4-discover-the-updates-and-enhancements-in-apples-recent-release/"><u>AirPods Series Continues with AirPods 4: Discover the Updates and Enhancements in Apple's Recent Release</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/best-5-minute-timelapse-video-maker-top-for-2024/"><u>Best 5-Minute Timelapse Video Maker #Top for 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/in-2024-explore-the-finest-free-luts-of-the-year/"><u>In 2024, Explore the Finest FREE LUTs of the Year</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/in-2024-navigating-away-from-igs-suggestion-engine/"><u>In 2024, Navigating Away From IG's Suggestion Engine</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/skip-the-logon-learn-how-to-automate-user-entry-on-windows-systems/"><u>Skip the Logon? Learn How to Automate User Entry on Windows Systems</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/top-11-must-have-windows-and-mac-applications-and-utilities-revealed/"><u>Top 11 Must-Have Windows & Mac Applications & Utilities Revealed</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/top-rated-budget-friendly-tablets-comprehensive-testing-and-reviews-by-tech-experts/"><u>Top Rated Budget-Friendly Tablets - Comprehensive Testing & Reviews by Tech Experts</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/unbeatable-wireless-range-extenders-expert-picks/"><u>Unbeatable Wireless Range Extenders - Expert Picks</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-top-15-instagram-videophoto-downloaders-online-and-add-on-and-app-solutions/"><u>[New] 2024 Approved Top 15 Instagram Video/Photo Downloaders – Online & Add-On & App Solutions</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-2024s-optimal-video-capture-equipment-list/"><u>[Updated] 2024’S Optimal Video Capture Equipment List</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-ways-to-transfer-music-from-zte-blade-a73-5g-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways to Transfer Music from ZTE Blade A73 5G to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/cross-format-communication-from-srt-to-xml-ssa-and-beyond/"><u>Cross-Format Communication From SRT to XML, SSA, and Beyond</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/exclusive-presidents-day-offer-upgrade-to-a-new-macbook-pro-featuring-the-advanced-m3-pro-processor-at-15-off-shop-now-zdnet/"><u>Exclusive President's Day Offer: Upgrade to a New MacBook Pro Featuring the Advanced M3 Pro Processor at 15% Off – Shop Now! | ZDNET</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-change-lock-screen-wallpaper-on-zte-nubia-z60-ultra-by-drfone-android/"><u>How to Change Lock Screen Wallpaper on ZTE Nubia Z60 Ultra</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-12-pro-5g-photos-an-easy-method-explained-by-fonelab-android-recover-photos/"><u>How to Restore Deleted 12 Pro 5G Photos An Easy Method Explained.</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-unfreeze-your-chromebook-in-8-steps/"><u>How to Unfreeze Your Chromebook in 8 Steps</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/innovative-apple-eyes-new-projects-affordable-ar-spectacles-and-enhanced-vision-tech-revealed/"><u>Innovative Apple Eyes New Projects: Affordable AR Spectacles & Enhanced Vision Tech Revealed</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/iphone-16-upgrade-apple-enhances-camera-with-cutting-edge-visual-recognition-similar-to-google-lens-tech-news/"><u>IPhone 16 Upgrade: Apple Enhances Camera with Cutting-Edge Visual Recognition Similar to Google Lens – Tech News</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/iphone-showdown-comparing-iphone-16-pro-vs-iphone-14-pro-is-it-time-for-an-upgrade-zdnet-tech-insights/"><u>IPhone Showdown: Comparing iPhone 16 Pro Vs. IPhone 14 Pro - Is It Time for an Upgrade? | ZDNet Tech Insights</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/mastering/"><u>Mastering.</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/overcome-skype-connectivity-woes-with-our-top-10-expert-tips/"><u>Overcome Skype Connectivity Woes with Our Top 10 Expert Tips</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tackling-the-marooned-xbox-app-issue-step-by-step/"><u>Tackling the Marooned Xbox App Issue, Step-by-Step</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-flaws-of-ai-chatbots-top-8-issues-with-gpt/"><u>The Flaws of AI Chatbots: Top 8 Issues with GPT</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/to-upgrade-or-not-pros-and-cons-of-switching-to-iphone-16-insights-from-zdnet-experts/"><u>To Upgrade or Not: Pros & Cons of Switching to iPhone 16 - Insights From ZDNet Experts</u></a></li>
+<li><a href="https://win-hot.techidaily.com/top-rated-photoshop-tools-for-effortless-removal-of-unwanted-elements-from-images/"><u>Top Rated Photoshop Tools for Effortless Removal of Unwanted Elements From Images</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ultimate-guide-to-choosing-an-apple-watch-cover-industry-picks/"><u>Ultimate Guide to Choosing an Apple Watch Cover - Industry Picks</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/understanding-apples-advanced-ai-integration-in-iphone-mac-and-ipad-an-in-depth-guide-by-zdnet/"><u>Understanding Apple's Advanced AI Integration in iPhone, Mac, and iPad - An In-Depth Guide by ZDNet</u></a></li>
 </ul></div>
 

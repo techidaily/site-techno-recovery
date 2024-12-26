@@ -1,7 +1,7 @@
 ---
 title: Master the Process of Flushing and Restoring Your System's BIOS Configuration with CMOS Clears
-date: 2024-08-26T06:11:27.401Z
-updated: 2024-08-27T06:11:27.401Z
+date: 2024-12-20T06:47:20.299Z
+updated: 2024-12-26T07:30:13.048Z
 categories:
   - BestProducts
 description: This Article Describes Master the Process of Flushing and Restoring Your System's BIOS Configuration with CMOS Clears
@@ -13,6 +13,10 @@ thumbnail: https://www.lifewire.com/thmb/sDEj0vlACkV7Q2sde-7yZLLGpzg=/400x300/fi
  NETGEAR routers usually have a default password of**password** and a default IP address of either**192.168.1.1** or**192.168.0.1** . However, as the table below shows, there are plenty of exceptions.
 
 [The Best Netgear Routers of 2024](https://www.lifewire.com/best-netgear-routers-4159862)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## NETGEAR Default Passwords (Valid July 2024)
 
@@ -259,6 +263,10 @@ thumbnail: https://www.lifewire.com/thmb/sDEj0vlACkV7Q2sde-7yZLLGpzg=/400x300/fi
 
  If you don't see your NETGEAR router, switch, or other network device listed in the table above,[contact us](https://www.lifewire.com/mailto:feedback@lifewire.com) to have your router added to the list.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What to Do If the NETGEAR Default Password Doesn't Work
 
  When the NETGEAR default password for your device is no longer the configured password, reset the device to the factory defaults.
@@ -270,8 +278,9 @@ thumbnail: https://www.lifewire.com/thmb/sDEj0vlACkV7Q2sde-7yZLLGpzg=/400x300/fi
  If this process doesn't work, reference the PDF manual for your specific NETGEAR router, available from[NETGEAR Support](https://www.netgear.com/support/) .
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## What to Do If the NETGEAR Default IP Address Doesn't Work
 
  A factory reset also resets the IP address to the default for your model in the table above.
@@ -283,8 +292,9 @@ thumbnail: https://www.lifewire.com/thmb/sDEj0vlACkV7Q2sde-7yZLLGpzg=/400x300/fi
  If this doesn't work,[find the default gateway IP address](https://www.lifewire.com/how-to-find-your-default-gateway-ip-address-2626072) to determine the default gateway on your network, which is also the IP address for the router.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Change Your NETGEAR Default Password
 
  While you can log in to your NETGEAR router or switch with the default data, this information is all public. This means that anyone can access any NETGEAR device and make changes, including injecting malware and doing other damage.
@@ -313,8 +323,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -322,4 +330,19 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/024-approved-channel-alchemy-turning-viewers-into-believers/"><u>[New] 2024 Approved Channel Alchemy Turning Viewers Into Believers</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-leading-websites-for-superior-vector-images/"><u>[New] Leading Websites for Superior Vector Images</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-mastering-virtual-space-insights-into-vr-cinema/"><u>[Updated] 2024 Approved Mastering Virtual Space Insights Into VR Cinema</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/9-best-online-mic-recorders-2023-for-2024/"><u>9 Best Online Mic Recorders 2023 for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/conquering-doubts-embracing-confidence-beating-imposter-syndrome-at-your-job-career-growth-hub/"><u>Conquering Doubts, Embracing Confidence: Beating Imposter Syndrome at Your Job | Career Growth Hub</u></a></li>
+<li><a href="https://solve-marvelous.techidaily.com/detecting-and-repairing-damaged-registry-keys-on-your-pc-a-guide-by-yl-computing/"><u>Detecting and Repairing Damaged Registry Keys on Your PC: A Guide by YL Computing</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discover-the-leading-networking-hubs-for-it-specialists-insights-from-zdnets-top-picks/"><u>Discover the Leading Networking Hubs for IT Specialists - Insights From ZDNet's Top Picks</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/essential-resource-compilation-30-top-websites-for-free-vectr-artists-for-2024/"><u>Essential Resource Compilation 30 Top Websites for Free Vectr Artists for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/landing-your-dream-it-job-at-microsoft-expert-tips-and-advice-featured-on-zdnet/"><u>Landing Your Dream IT Job at Microsoft: Expert Tips and Advice Featured on ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/navigating-the-challenges-smart-strategies-for-streamlining-your-artificial-intelligence-training/"><u>Navigating the Challenges: Smart Strategies for Streamlining Your Artificial Intelligence Training</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/secrets-revealed-6-strategies-to-keep-your-youtube-audience-hooked-and-returning-for-2024/"><u>Secrets Revealed 6 Strategies to Keep Your YouTube Audience Hooked and Returning for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/transform-into-a-master-data-analyst-with-these-5-key-steps-according-to-zdnet/"><u>Transform Into a Master Data Analyst with These 5 Key Steps, According to ZDNet</u></a></li>
+</ul></div>
 

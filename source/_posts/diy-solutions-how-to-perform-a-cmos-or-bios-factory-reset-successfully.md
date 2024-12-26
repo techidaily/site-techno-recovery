@@ -1,7 +1,7 @@
 ---
 title: "DIY Solutions: How To Perform a CMOS or BIOS Factory Reset Successfully"
-date: 2024-08-30T13:14:09.816Z
-updated: 2024-08-31T13:14:09.816Z
+date: 2024-12-21T19:37:25.951Z
+updated: 2024-12-26T04:18:12.955Z
 categories:
   - BestProducts
 description: "This Article Describes DIY Solutions: How To Perform a CMOS or BIOS Factory Reset Successfully"
@@ -12,6 +12,10 @@ thumbnail: https://thmb.techidaily.com/d2d94c4e77b77ed0c83b7c2ce10b6132329d86304
 ## MacBook Air Woes? Learn How to Successfully De-Frozen and Continue Working
  If your MacBook Air has frozen and you can't get it to respond, it can feel like a huge problem. Whether it's a matter of your laptop overheating or a problem with macOS, it's very inconvenient, but it doesn't have to be a permanent problem. If you're wondering what do you do when your MacBook Air freezes, we've got some potential solutions you can try to troubleshoot.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What Causes a MacBook Air to Freeze?
 
  Many simple fixes can solve a frozen MacBook Air. It can be due to a malfunctioning program, an issue with macOS itself, or a hardware fault such as overheating or a RAM problem. Each of these issues has very different solutions.
@@ -19,6 +23,10 @@ thumbnail: https://thmb.techidaily.com/d2d94c4e77b77ed0c83b7c2ce10b6132329d86304
  Fortunately, you can fix many of these issues at home, but there are certain cases where your MacBook Air needs to be professionally repaired by Apple or may even be beyond repair.
 
  Before reaching that stage, it's a good idea to narrow things down to the specific problem you're dealing with and try to troubleshoot the issue.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Troubleshoot When a MacBook Air Freezes
 
@@ -29,6 +37,11 @@ thumbnail: https://thmb.techidaily.com/d2d94c4e77b77ed0c83b7c2ce10b6132329d86304
 1. [Force quit the app](https://www.lifewire.com/control-alt-delete-on-a-mac-5096886) . If you think a specific app is causing your MacBook Air to freeze, try force quitting the app using**Command** +**Option** +**Escape** to display the Force Quit Applications window and then choose to quit the app.  
 ![Force Quit in Force Quit Applications menu on Mac](https://www.lifewire.com/thmb/y7dNJmkYLJuA_PGAjxryKvoc20c=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_unfreeze-macbook-air-5120328-1482082fe110417a9c553657f7339466.jpg)
 2. Try force quitting an app via the Apple menu. Click the Apple icon on your laptop and scroll down to Force Quit to close the app.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. [Force quit the app via Activity Monitor](https://www.lifewire.com/use-activity-monitor-to-track-mac-memory-usage-2260880) . A more effective way of force quitting an app or errant process is using Activity Monitor if previous methods haven't worked in shutting down the app.
 4. Restart your MacBook Air. If you can't force quit the app and your MacBook Air isn't responding, shut down the computer. You'll lose all unsaved work, but it can fix many freezing issues.
 5. Unplug any peripherals attached to your MacBook Air. Sometimes, a peripheral can be causing an issue with your MacBook Air. Try unplugging it to see if it corrects the problem.
@@ -74,8 +87,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -83,10 +94,18 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-fake-following-fiasco-avoiding-illusory-supporters-in-social-media-space/"><u>[Updated] 2024 Approved Fake Following Fiasco Avoiding Illusory Supporters in Social Media Space</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-cross-platform-video-sharing-tiktok-and-twitter-for-2024/"><u>[Updated] Cross-Platform Video Sharing TikTok & Twitter for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-capture-the-moment-innovative-approaches-to-live-video-download/"><u>[Updated] In 2024, Capture the Moment Innovative Approaches to Live Video Download</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/anticipating-the-new-galaxy-s25-by-samsung-insights-into-costs-release-timeline-and-tech-specifications/"><u>Anticipating the New Galaxy S25 by Samsung: Insights Into Costs, Release Timeline & Tech Specifications</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/essential-mst-framework-varieties-uncovering-different-approaches/"><u>Essential MST Framework Varieties: Uncovering Different Approaches</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-how-does-the-stardust-trade-cost-in-pokemon-go-on-apple-iphone-14-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, How does the stardust trade cost In pokemon go On Apple iPhone 14 Pro Max? | Dr.fone</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/mastering-how-to-fix-videos-not-sent-in-facebook-message-apps-for-2024/"><u>Mastering How to Fix Videos Not Sent in Facebook Message Apps for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/screenshot-and-recording-masterclass-ios-devices-2023/"><u>Screenshot & Recording Masterclass IOS Devices 2023</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/solution-steps-for-roku-tvs-that-refuse-to-boot-up/"><u>Solution Steps for Roku TVs That Refuse to Boot Up</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/speeding-up-email-management-top-30-gmail-shortcuts-revealed/"><u>Speeding Up Email Management: Top 30 Gmail Shortcuts Revealed</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/understanding-todays-state-of-5g-connectivity-a-comprehhemic-study-on-verizon/"><u>Understanding Today's State of 5G Connectivity: A Comprehhemic Study on Verizon</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
-<!-- affiliate ads end -->

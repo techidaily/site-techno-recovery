@@ -1,7 +1,7 @@
 ---
 title: "Reflecting on the Journey of Non-Fungible Tokens (NFTs): The Current State"
-date: 2024-08-30T13:09:43.652Z
-updated: 2024-08-31T13:09:43.652Z
+date: 2024-12-19T16:05:46.338Z
+updated: 2024-12-25T21:54:48.996Z
 tags:
   - cutting-edge
 categories:
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/2e8e3dda0fc4dbabc8c416bc34f849f91c6baaf77
 
  In 2021, NFTs were all the rage. Some of these digital assets sold for millions of dollars to dedicated collectors, even though they had no intrinsic value. Today, the case is very different. NFTs have somewhat faded from mainstream culture, but what lead to this decline? What made NFTs so popular in the first place, and where are they now?
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  The Origin of NFTs
 
  The history of [NFTs (Non-Fungible Tokens)](https://www.howtogeek.com/111674/everything-you-need-to-know-about-nfts/) stretches back to 2014, when [Quantum, the first-ever NFT](https://www.mccoyspace.com/project/125/), was made. The brainchild of artist Kevin McCoy and his wife Jennifer, Quantum was a digital graphic consisting of a pink and blue hexagon that was soon minted as an NFT after its creation (with the help of Anil Dash). While simple, Quantum marked a moment in history, standing as the origin of an industry that would one day be worth billions.
@@ -26,17 +30,15 @@ thumbnail: https://thmb.techidaily.com/2e8e3dda0fc4dbabc8c416bc34f849f91c6baaf77
  At this point in time, even cryptocurrencies were still finding their feet. While Bitcoin had amassed a passionate following by 2014, Ethereum had only just been founded, and many of today's popular blockchains, such as Solana and Cardano, were still yet to be created. It would take another seven years for NFTs to hit their heyday.
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  The NFT Boom
 
  In 2021, NFT sales started ticking upward. As you can see in the chart below (created by [The Block](http://www.theblock.co/data/nft-non-fungible-tokens/nft-overview/nft-trade-volume-by-chain)), the trading volume of NFTs started to hit substantial numbers in mid-2021\. By the start of 2022, things were looking drastically different to a year prior, with the total NFT trading volume exceeding $1 billion.
 
 ![Graph of total NFT trading volume over time.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/nft-trade-vol-theblock.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
  The market hit its peak when trading volume exceeded $3 billion. It was never to hit this high point again, but continued to rake in billions for the next year.
 
  The most popular NFTs are Ethereum-based, and come in the form of ERC-721 tokens. Even today, if you head onto a popular NFT marketplace, chances are you'll see assets priced in Ethereum. According to the graph below from [The Block](http://www.theblock.co/data/nft-non-fungible-tokens/nft-overview/ethereum-nft-mints), the volume of Ethereum-based NFTs being minted shot up in 2022 as the popularity and value of these assets rose.
@@ -46,6 +48,10 @@ thumbnail: https://thmb.techidaily.com/2e8e3dda0fc4dbabc8c416bc34f849f91c6baaf77
 [The Block](https://www.theblock.co/data/nft-non-fungible-tokens/nft-overview/ethereum-nft-mints)
 
  At the peak of the NFT industry, almost half a million NFTs were being minted daily. This doesn't even include NFTs from other blockchains, such as Cardano.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  The Most Expensive NFTs
 
@@ -57,9 +63,6 @@ thumbnail: https://thmb.techidaily.com/2e8e3dda0fc4dbabc8c416bc34f849f91c6baaf77
 
  But the darker side of the internet noticed this booming industry, and, as is often the case, began devising ways to con people out of their money.
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ###  The Biggest NFT Hacks and Scams
 
  Since 2021, cybercriminals have conducted some mammoth NFT scams and hacks, be it through rug pulls, back doors, malware, or otherwise.
@@ -73,8 +76,9 @@ thumbnail: https://thmb.techidaily.com/2e8e3dda0fc4dbabc8c416bc34f849f91c6baaf77
 ![Screenshot of bored bunny post on X.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/bored-bunny-post-x.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Despite this excuse, the entire project was nothing more than a slow rug pull, a more discrete version of a classic rug pull. This kind of scheme involves the token creators not delivering the token utility promised to investors, essentially making the tokens they bought useless. In the case of Bored Bunny, the [metaverse](https://screen-capture.techidaily.com/new-easing-high-encoding-issues-in-obs-for-2024/) utility and instant profits promised never materialized, giving the NFTs purchased no value at all. The creators managed to gather $21 million in the process, leaving investors out of pocket.
 
  A number of other NFT rug pulls gained notoriety by imitating the artworks from the highly popular [Bored Ape Yacht Club (BAYC)](https://program-issues.techidaily.com/step-by-step-solution-for-discord-packet-transmission-problems/) collection. Scam collections like Baller Ape Club and Evolved Apes piggybacked on BAYC's name to lure in investors, with the creators soon hitting the road with the funds amassed.
@@ -83,9 +87,6 @@ thumbnail: https://thmb.techidaily.com/2e8e3dda0fc4dbabc8c416bc34f849f91c6baaf77
 
 [Phishing](https://visual-screen-recording.techidaily.com/updated-in-2024-the-essential-filmmakers-toolkit-a-guide-to-audio-recording/) is also a common tactic in the NFT crime realm, and is often used to steal passwords, private keys, and seed phrases. Even well-established NFT projects and platforms have been hit by phishing attacks, including OpenSea. This widely popular NFT marketplace [was successfully targeted in February 2022](https://www.halborn.com/blog/post/explained-the-opensea-phishing-hack-february-2022) when users were conned out of their ETH through phishing emails. While the hacker surprisingly returned a portion of the NFTs, funds were still lost, and many users were still left without what they lost.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  The Fall of NFTs
 
 [NFTs have always been highly controversial](https://extra-lessons.techidaily.com/techniques-for-writing-eye-catching-podcast-summaries/), mainly due to the instability of their value. A given NFT can amass value through two factors: demand and utility. An NFT may not have any utility, but if it's coveted enough (usually through online hype and marketing), it can reach a high value. On the other hand, if an NFT has utility, such as value in a game or metaverse project, it can also amass value.
@@ -106,13 +107,14 @@ thumbnail: https://thmb.techidaily.com/2e8e3dda0fc4dbabc8c416bc34f849f91c6baaf77
 
 ![Statista graph of NFT sales over the years.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/statista-nft-sales.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 [Statista](https://www.statista.com/statistics/1265353/nft-sales-value/) 
 
  As of October 2023, a daily average of 2,031 NFT sales were taking place. A year prior, this figure stood at almost 39,000\. A year before that, it stood at 183,755\. The NFT market we see today is worth a fraction of what it was in previous years, and there's no knowing if it will ever recover.
 
-<!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  NFTs May Have Been a Brief Craze
 
  No one is sure of what the future holds for NFTs, but its steep growth and extreme decline represent how volatile these assets, and therefore the industry, really are. One day, NFTs might regain some, if not all of their previous notoriety. But for now, they remain a niche market with a limited clientele.
@@ -123,8 +125,6 @@ thumbnail: https://thmb.techidaily.com/2e8e3dda0fc4dbabc8c416bc34f849f91c6baaf77
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -132,4 +132,18 @@ thumbnail: https://thmb.techidaily.com/2e8e3dda0fc4dbabc8c416bc34f849f91c6baaf77
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-elite-recording-tech-top-10-cam-devices-windows-11-for-2024/"><u>[New] Elite Recording Tech Top 10 Cam Devices Windows 11 for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-multiplying-joy-sharing-a-pile-of-photos-and-videos-with-instagram/"><u>[Updated] 2024 Approved Multiplying Joy Sharing a Pile of Photos & Videos with Instagram</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-spotlight-on-starlets-snippet/"><u>[Updated] 2024 Approved Spotlight on Starlet's Snippet</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-essential-inexpensive-vlogging-tools-listed-for-2024/"><u>[Updated] Essential, Inexpensive Vlogging Tools Listed for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/all-about-google-pixel-timepiece-gen3-detailed-review-of-specs-functionalities-costs-and-essential-info-covered/"><u>All About Google Pixel Timepiece Gen3: Detailed Review of Specs, Functionalities, Costs, and Essential Info Covered</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/best-ways-on-how-to-unlockbypassswiperemove-lava-fingerprint-lock-by-drfone-android/"><u>Best Ways on How to Unlock/Bypass/Swipe/Remove Lava Fingerprint Lock</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/earbud-showdown-galaxy-buds-2-pro-pixel-buds-pro-and-airpods-pro-face-off-for-audio-supremacy-techsavvy/"><u>Earbud Showdown: Galaxy Buds 2 Pro, Pixel Buds Pro & AirPods Pro Face Off for Audio Supremacy | TechSavvy</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/essential-guide-configuring-gmail-alerts-for-uninterrupted-inbox-management-zdnet/"><u>Essential Guide: Configuring Gmail Alerts for Uninterrupted Inbox Management | ZDNet</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-easy-ways-to-manage-your-samsung-galaxy-a54-5g-location-settings-drfone-by-drfone-virtual/"><u>In 2024, Easy Ways to Manage Your Samsung Galaxy A54 5G Location Settings | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-the-essential-differences-between-youtube-and-dailymention/"><u>In 2024, The Essential Differences Between YouTube and DailyMention</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/mastering-email-composition-in-google-docs-a-comprehensive-guide-by-zdnet-experts/"><u>Mastering Email Composition in Google Docs: A Comprehensive Guide by ZDNet Experts</u></a></li>
+</ul></div>
 
