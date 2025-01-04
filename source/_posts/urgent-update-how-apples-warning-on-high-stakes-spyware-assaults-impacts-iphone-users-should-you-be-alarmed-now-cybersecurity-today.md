@@ -1,7 +1,7 @@
 ---
 title: "Urgent Update: How Apple's Warning on High-Stakes Spyware Assaults Impacts iPhone Users - Should You Be Alarmed Now? | Cybersecurity Today"
-date: 2024-12-23T22:39:23.487Z
-updated: 2024-12-26T01:14:01.192Z
+date: 2024-12-28T16:10:01.705Z
+updated: 2025-01-04T16:08:56.263Z
 tags:
   - apple
 categories:
@@ -31,7 +31,7 @@ Read on for a look at some of the new accessibility features coming to Apple har
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### New eye-tracking features
@@ -49,12 +49,16 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Apple Music haptics
 
 For those who are deaf or hard of hearing, Apple plans to offer a Taptic Engine feature in Apple Music. When turned on, the feature will use a series of taps, vibrations, and other tactile responses to sync to a song's audio. Apple says the feature will work "across millions of songs in the Apple Music catalog."
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Addressing motion sickness
 
@@ -64,10 +68,6 @@ Motion sickness in cars can often be the result of a disconnect between what you
 
 "Using sensors built into iPhone and iPad, Vehicle Motion Cues recognizes when a user is in a moving vehicle and responds accordingly," Apple said. "The feature can be set to show automatically on iPhone, or can be turned on and off in Control Center."
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Understanding speech
 
 A new feature called Voice Shortcuts will let you "assign custom utterances" that Apple's virtual personal assistant Siri will save. When Siri hears those utterances, it'll perform whatever action was assigned to it, including launching apps or engaging in more complex tasks on the device.
@@ -75,7 +75,7 @@ A new feature called Voice Shortcuts will let you "assign custom utterances" tha
 Another feature, Listen for Atypical Speech, will use machine learning to understand your speech patterns and your requests on-device, Apple said. The feature "gives users an option for enhancing speech recognition for a wider range of speech," the company said.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### New CarPlay features
@@ -85,7 +85,7 @@ Apple's in-car CarPlay software is also getting new accessibility features, incl
 **Also: [iOS and Android owners will now be alerted if an unknown tracker is moving with them](https://www.zdnet.com/article/ios-and-android-owners-will-now-be-alerted-if-an-unknown-tracker-is-moving-with-them/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Some other updates
@@ -122,17 +122,18 @@ Beyond those updates, Apple said that it's launching a range of smaller upgrades
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-shooting-hdr-iphones-pathway-to-enhanced-images-for-2024/"><u>[New] Shooting HDR IPhone's Pathway to Enhanced Images for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-giggle-guild-creepy-cybernetic-comedians/"><u>2024 Approved Giggle Guild Creepy Cybernetic Comedians</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/elevate-your-social-presence-the-art-of-uploading-many-images-and-videos-to-instagram-for-2024/"><u>Elevate Your Social Presence The Art of Uploading Many Images and Videos to Instagram for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-in-depth-analysis-complete-revamp-of-facetune-app/"><u>In 2024, In-Depth Analysis Complete Revamp of Facetune App</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-unite-music-and-imagery-via-auditory-integration-in-premiere-pro/"><u>In 2024, Unite Music and Imagery via Auditory Integration in Premiere Pro</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/mastering-cross-service-playlist-migration-step-by-step-guide/"><u>Mastering Cross-Service Playlist Migration Step-by-Step Guide</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/ride-and-grill-in-style-explore-the-new-e-bike-featuring-a-complimentary-grill-attachment-gizmodo/"><u>Ride and Grill in Style - Explore the New E-Bike Featuring a Complimentary Grill Attachment | Gizmodo</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/top-5-contemporary-compact-living-spaces-explore-minimalist-designs/"><u>Top 5 Contemporary Compact Living Spaces - Explore Minimalist Designs</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/top-rated-seed-distribution-firms-reviews-and-comparisons/"><u>Top-Rated Seed Distribution Firms: Reviews & Comparisons</u></a></li>
-<li><a href="https://blog-min.techidaily.com/ultimate-guide-upscaling-videos-to-hd-or-4k-on-pc-and-mac-systems/"><u>Ultimate Guide: Upscaling Videos to HD or 4K on PC & Mac Systems</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/unpacking-the-excellence-of-ecoflow-river-3-a-must-have-portable-battery-according-to-zdnets-test-results/"><u>Unpacking the Excellence of EcoFlow River 3 - A Must-Have Portable Battery, According to ZDNET's Test Results</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/zdnet-reviews-the-surprising-impact-of-rings-spotlight-cam-pro/"><u>ZDNet Reviews: The Surprising Impact of Ring's Spotlight Cam Pro</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-easily-add-subtitles-and-closed-captions-to-youtube-video/"><u>[Updated] In 2024, How to Easily Add Subtitles and Closed Captions to YouTube Video</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-echoes-of-exploration-in-role-playing-history/"><u>2024 Approved Echoes of Exploration in Role-Playing History</u></a></li>
+<li><a href="https://article-tips.techidaily.com/crafting-captivating-vlog-narratives-for-2024/"><u>Crafting Captivating Vlog Narratives for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discovering-ipados-18-availability-date-no-charge-for-users-updated-features-and-breaking-news-coverage/"><u>Discovering iPadOS 18: Availability Date, No Charge for Users, Updated Features, and Breaking News Coverage</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/efficiencyinusingyourwebcamforcapturing/"><u>EfficiencyInUsingYourWebcamForCapturing</u></a></li>
+<li><a href="https://win-web3.techidaily.com/identifying-the-root-causes-of-excessive-computer-heat-insights-from-yl-computing/"><u>Identifying the Root Causes of Excessive Computer Heat: Insights From YL Computing</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-android-unlock-code-sim-unlock-your-motorola-razr-40-ultra-phone-and-remove-locked-screen-by-drfone-android/"><u>In 2024, Android Unlock Code Sim Unlock Your Motorola Razr 40 Ultra Phone and Remove Locked Screen</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-maximizing-marketing-the-best-highlight-techniques-for-brands/"><u>In 2024, Maximizing Marketing The Best Highlight Techniques for Brands</u></a></li>
+<li><a href="https://fox-where.techidaily.com/mastering-cryptocurrency-chart-patterns-a-comprehensive-guide-with-yl-software/"><u>Mastering Cryptocurrency Chart Patterns: A Comprehensive Guide with YL Software</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/new-footage-emerges-for-apples-long-lost-airpower-pad-is-qi-charging-technology-to-blame-or-bless-zdnet/"><u>New Footage Emerges for Apple's Long-Lost AirPower Pad - Is Qi Charging Technology to Blame or Bless? | ZDNET</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-ultimate-guide-to-implementing-and-benefiting-from-hot-corners-on-your-macs-os-x-system-digitalinnovation/"><u>The Ultimate Guide to Implementing & Benefiting From Hot Corners on Your Mac's OS X System | DigitalInnovation</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ultimate-guide-resolving-propsysdll-file-not-found-error/"><u>Ultimate Guide: Resolving 'Propsys.dll' File Not Found Error</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unique-and-witty-iprank-ideas-using-ios-devices-for-some-fun/"><u>Unique and Witty iPrank Ideas Using iOS Devices for Some Fun</u></a></li>
 </ul></div>
 

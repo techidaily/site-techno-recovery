@@ -1,7 +1,7 @@
 ---
 title: Unbelievable Phone Gags & Tricks for iPhones and iPads That Will Crack You Up
-date: 2024-08-26T06:07:29.426Z
-updated: 2024-08-27T06:07:29.426Z
+date: 2024-12-30T16:08:48.398Z
+updated: 2025-01-04T16:10:51.509Z
 categories:
   - BestProducts
 description: This Article Describes Unbelievable Phone Gags & Tricks for iPhones and iPads That Will Crack You Up
@@ -13,6 +13,10 @@ thumbnail: https://www.lifewire.com/thmb/u8UksA5wg77z48vq1U89xAhkFLc=/400x300/fi
  There are many reasons why an iPhone won't ring, but most of these problems are easy to fix. If your iPhone isn't ringing when someone calls you, try these tips before concluding that your iPhone needs an expensive repair.
 
  The tips in this article apply to all supported iPhone models and recent iOS versions, including iOS 13, 12, and 11.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Fix an iPhone That Won't Ring
 
@@ -33,6 +37,11 @@ thumbnail: https://www.lifewire.com/thmb/u8UksA5wg77z48vq1U89xAhkFLc=/400x300/fi
    3. Tap the red circle beside the blocked number, and then tap**Unblock** .  
 ![An iPhone with the Phone settings, Blocked Contacts heading, and Unblock button highlighted](https://www.lifewire.com/thmb/MPfrUdCCr2HLjH9Va4OIkm1zN3o=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001-im-missing-calls-because-my-iphone-isnt-ringing-help-2000264-2308e3feb71f4c9194900da12675ecb2.jpg)
 6. Disable Silence Unknown Callers. To help users avoid spam calls and robocalls, Apple added a feature in[iOS 13](https://www.lifewire.com/ios-13-4586609) that automatically silences all calls from unknown numbers. If this feature is turned on, you won't hear calls from numbers that aren't in the Contacts app. Instead, the iPhone sends them right to voicemail. To disable this feature, select**Settings** \>**Phone** , and then turn off the**Silence Unknown Callers** switch.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you want to keep Silence Unknown Callers turned on but still get calls from certain numbers,[add those callers to Contacts](https://www.lifewire.com/manage-contacts-iphone-address-book-2000570) .  
 ![iPhone showing the Phone settings and Silence Unknown Callers switch](https://www.lifewire.com/thmb/PfmlpvYkxD5z2_TErc_402j9xA8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002-im-missing-calls-because-my-iphone-isnt-ringing-help-2000264-b93c2874c9784090a83900ec430caf0b.jpg)
 7. Change your custom ringtone. If your iPhone still doesn't ring for incoming calls, check your ringtone. If you[set up unique ringtones for contacts](https://www.lifewire.com/assign-unique-ringtone-on-iphone-2000557) , a deleted or corrupted ringtone can prevent the phone from ringing when someone calls.  
@@ -43,7 +52,16 @@ thumbnail: https://www.lifewire.com/thmb/u8UksA5wg77z48vq1U89xAhkFLc=/400x300/fi
    3. Tap**Ringtone** , and then assign the contact a new ringtone.  
 ![Three iOS screens showing Contacts, Edit button and Ringtone area in Phone settings app](https://www.lifewire.com/thmb/dQgktPdfOQV7lnazDKmKLLfIXPI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/006_im-missing-calls-because-my-iphone-isnt-ringing-help-2000264-5bbe5923c9e77c005156dd60.jpg)  
  If the unique ringtone is the source of the problem, find all the contacts to whom you assigned that ringtone and select a new ringtone for each.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 8. [Make sure the phone isn't stuck in Headphone mode](https://www.lifewire.com/fix-iphone-stuck-in-headphone-mode-4175912) . It could be that your iPhone is ringing but sending the audio to the wrong place. In this situation, the iPhone thinks that another audio source is attached to it—like headphones or a Bluetooth device—and tries to ring there instead of through your iPhone speaker.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## If None of These Tips Fixed the Problem
 
@@ -52,8 +70,9 @@ thumbnail: https://www.lifewire.com/thmb/u8UksA5wg77z48vq1U89xAhkFLc=/400x300/fi
 [How to Fix It When iPhone Call Volume Is Low](https://www.lifewire.com/fix-low-volume-on-call-on-iphone-5186012)
 
 <!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Causes of the iPhone Not Ringing Problem
 
  If your iPhone isn't ringing, there are several possible culprits:
@@ -93,8 +112,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -102,4 +119,22 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-innovative-tech-discovering-the-top-9-microphone-recorders-online/"><u>[New] 2024 Approved Innovative Tech Discovering the Top 9 Microphone Recorders Online</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-boost-call-quality-and-creativity-learn-to-apply-filters-in-zoom/"><u>[Updated] Boost Call Quality & Creativity Learn to Apply Filters in Zoom</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-gadget-grapple-comparing-gopros-hero5-and-garmin-virb/"><u>[Updated] Gadget Grapple Comparing GoPro's Hero5 & Garmin VIRB</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-pinnacle-nintendo-switch-fighting-game-index-max-156/"><u>[Updated] Pinnacle Nintendo Switch Fighting Game Index (Max 156)</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/2024-approved-snaptweet-transporter-swift-transfer-of-tweets-content/"><u>2024 Approved SnapTweet Transporter Swift Transfer of Tweets' Content</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/apples-next-gen-sound-enabled-gadget-upcoming-release-details-and-pricing-revealed/"><u>Apple's Next-Gen Sound-Enabled Gadget: Upcoming Release Details & Pricing Revealed</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/easy-tutorial-on-modifying-windows-11-taskbar-appearance-and-color-settings/"><u>Easy Tutorial on Modifying Windows 11 Taskbar Appearance and Color Settings</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-easy-guide-to-tecno-spark-10-pro-frp-bypass-with-best-methods-by-drfone-android/"><u>In 2024, Easy Guide to Tecno Spark 10 Pro FRP Bypass With Best Methods</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-change-your-iphone-6s-plus-apple-id-on-macbook-by-drfone-ios/"><u>In 2024, How To Change Your iPhone 6s Plus Apple ID on MacBook</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-jocular-juxtapositions-cutting-edge-humorous-edits-online/"><u>In 2024, Jocular Juxtapositions Cutting-Edge, Humorous Edits Online</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/is-apple-bringing-back-airpower-charging-new-video-highlights-and-unveils-potential-comeback/"><u>Is Apple Bringing Back AirPower Charging? New Video Highlights and Unveils Potential Comeback</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/master-screen-recording-capturing-and-preserving-snaps-efficiently-for-2024/"><u>Master Screen Recording Capturing and Preserving Snaps Efficiently for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-three-essential-gadgets-that-will-maintain-the-shine-of-your-iphone-13-insights/"><u>Top Three Essential Gadgets That Will Maintain the Shine of Your iPhone 13: Insights</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/uterine-rupture-is-a-full-thickness-tear-in-the-uterus-that-can-occur-during-labor-especially-in-women-with-previous-cesarean-sections-or-uterine-surgercups32/"><u>Uterine Rupture Is a Full-Thickness Tear in the Uterus that Can Occur During Labor, Especially in Women with Previous Cesarean Sections or Uterine Surgercups</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/zdnet-review-how-the-iphone-14-delivers-just-what-you-need/"><u>ZDNet Review: How the iPhone 14 Delivers Just What You Need</u></a></li>
+</ul></div>
 

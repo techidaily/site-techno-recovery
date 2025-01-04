@@ -1,7 +1,7 @@
 ---
 title: "Protect Personal Privacy: A Guide to Cleaning Up Trackers in Safari for macOS Users | ZDNet"
-date: 2024-12-23T18:35:47.794Z
-updated: 2024-12-26T07:50:58.669Z
+date: 2025-01-02T16:31:02.401Z
+updated: 2025-01-04T16:01:10.795Z
 tags:
   - apple
 categories:
@@ -47,7 +47,7 @@ Let me show you how to enable this feature.
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to remove tracking information in MacOS Safari
@@ -55,7 +55,7 @@ Let me show you how to enable this feature.
 **What you'll need:** To gain the benefit of advanced tracking and fingerprint protection, you'll need [MacOS Sonoma](https://www.zdnet.com/article/whats-new-in-macos-sonoma-heres-everything-you-need-to-know/), which ships with version 17.0 of Safari. You will only find this feature in Safari if you've upgraded to Sonoma.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Open Safari Settings
@@ -67,7 +67,7 @@ You can also access Safari settings with the Cmd+, key combination.
 Jack Wallen/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Enable advanced track protection
@@ -119,19 +119,24 @@ Even so, getting rid of tracking information from even a percentage of sites you
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-pure-pitch-perception-recording-in-mac-studios/"><u>[Updated] 2024 Approved Pure Pitch Perception Recording in Mac Studios</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-versatile-tips-for-avoiding-vr-motion-sickness-for-2024/"><u>[Updated] Versatile Tips for Avoiding VR Motion Sickness for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/180-discounted-price-why-the-arlo-pro-5s-could-be-your-ideal-choice-for-ultimate-security-cameras-zdnet-insights/"><u>$180 Discounted Price! Why the Arlo Pro 5S Could Be Your Ideal Choice for Ultimate Security Cameras - ZDNET Insights</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/2023s-leading-mobile-solar-charge-units-expert-comparisons-and-picks/"><u>2023'S Leading Mobile Solar Charge Units: Expert Comparisons & Picks</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/6-superior-android-screen-capture-apps/"><u>6 Superior Android Screen Capture Apps</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/android-friendly-guide-to-bings-ai-chatting-capabilities/"><u>Android-Friendly Guide to Bing's AI Chatting Capabilities</u></a></li>
-<li><a href="https://win-superb.techidaily.com/free-windows-10-upgrade-offer-from-microsoft-is-it-still-available/"><u>Free Windows 10 Upgrade Offer From Microsoft – Is It Still Available?</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/in-2024-top-3-strategies-for-clear-online-interaction-4/"><u>In 2024, Top 3 Strategies for Clear Online Interaction (#4)</u></a></li>
-<li><a href="https://win-net.techidaily.com/navigating-photo-viewing-on-different-versions-of-windows-os/"><u>Navigating Photo Viewing on Different Versions of Windows OS</u></a></li>
-<li><a href="https://howto.techidaily.com/play-store-stuck-on-downloading-of-xiaomi-redmi-12-7-ways-to-resolve-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Stuck on Downloading Of Xiaomi Redmi 12? 7 Ways to Resolve | Dr.fone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/zdnets-expert-picks-the-top-gas-grills-for-outdoor-cooking-in-202/"><u>ZDNet's Expert Picks: The Top Gas Grills for Outdoor Cooking in 202</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/zdnets-in-depth-review-of-the-tesla-cybertruck-for-gardening-exceeds-expectations/"><u>ZDNET's In-Depth Review of the Tesla Cybertruck for Gardening - Exceeds Expectations!</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/zdnets-ultimate-guide-to-the-leading-ride-on-mowers-of-2ebuary-2024/"><u>ZDNet's Ultimate Guide to the Leading Ride-On Mowers of 2Ebuary 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/zdnets-ultimate-showdown-comparing-the-best-automatic-mowers-of-2024-expert-testing-results/"><u>ZDNet's Ultimate Showdown: Comparing the Best Automatic Mowers of 2024 | Expert Testing Results</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-mastering-instagrams-latest-trends-reels-and-stories/"><u>[New] Mastering Instagram's Latest Trends Reels and Stories</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-commence-your-journey-with-xps-film-editor-suite/"><u>[Updated] 2024 Approved Commence Your Journey with XP's Film Editor Suite</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-effective-utilization-of-whiteboards-on-mobile-and-desktop-for-online-learning/"><u>[Updated] Effective Utilization of Whiteboards on Mobile and Desktop for Online Learning</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-leveraging-technology-tools-for-accurate-and-efficient-market-analysis/"><u>[Updated] Leveraging Technology Tools for Accurate and Efficient Market Analysis</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/95-apple-pencil-2nd-generation-exclusive-labor-day-sale-on-tech-bargains-shop-now/"><u>$95 Apple Pencil (2Nd Generation): Exclusive Labor Day Sale on Tech Bargains – Shop Now!</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/affordable-powerhouse-unpacking-the-iphone-14-plus-features-for-long-lasting-performance-tech-innovations/"><u>Affordable Powerhouse: Unpacking the IPhone 14 Plus Features for Long-Lasting Performance | Tech Innovations</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/backspace-key-errors-heres-what-you-need-to-know-and-how-to-solve-it/"><u>Backspace Key Errors? Here's What You Need to Know and How to Solve It</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discover-people-on-facebook-with-these-6-straightforward-techniques/"><u>Discover People On Facebook With These 6 Straightforward Techniques</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discover-the-latest-in-smartphone-photography-how-iphone-16s-innovative-camera-button-enhances-your-experience-insights/"><u>Discover the Latest in Smartphone Photography: How iPhone 16'S Innovative Camera Button Enhances Your Experience - Insights</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-music-from-samsung-by-fonelab-android-recover-music/"><u>Easy steps to recover deleted music from Samsung</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/easy-techniques-for-refreshing-and-updating-powerpoint-files/"><u>Easy Techniques for Refreshing and Updating PowerPoint Files</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/exploring-top-non-apple-non-tile-brands-in-wearable-tech-a-closer-look-at-exceptional-wallet-airtags/"><u>Exploring Top Non-Apple, Non-Tile Brands in Wearable Tech: A Closer Look at Exceptional Wallet AirTags</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-seamlessly-connect-and-use-playstation-virtual-reality-on-a-pc/"><u>How to Seamlessly Connect and Use Playstation Virtual Reality on a PC</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-srt-audio-file-handling-for-oses/"><u>In 2024, SRT Audio File Handling for OSes</u></a></li>
+<li><a href="https://driver-download.techidaily.com/installing-the-latest-logitech-c525-webcam-driver-on-a-windows-pc/"><u>Installing the Latest Logitech C525 Webcam Driver on a Windows PC</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/navigate-through-fantastic-alternatives-to-chatgpt-and-elevate-your-ai-game/"><u>Navigate Through Fantastic Alternatives to ChatGPT and Elevate Your AI Game</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/seamlessly-upgrade-your-workspace-with-a-second-thunderbolt-monitor-on-your-m1-mac-mini-expert-advice/"><u>Seamlessly Upgrade Your Workspace with a Second Thunderbolt Monitor on Your M1 Mac Mini | Expert Advice</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-ultimate-guide-to-using-and-rating-the-line-mobile-platform/"><u>The Ultimate Guide to Using and Rating the Line Mobile Platform</u></a></li>
+<li><a href="https://win11.techidaily.com/three-steps-for-disabling-windows-store-on-win11/"><u>Three Steps for Disabling Windows Store on Win11</u></a></li>
 </ul></div>
 

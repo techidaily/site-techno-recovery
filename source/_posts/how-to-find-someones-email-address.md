@@ -1,7 +1,7 @@
 ---
 title: How to Find Someone's Email Address
-date: 2024-08-26T06:09:25.048Z
-updated: 2024-08-27T06:09:25.048Z
+date: 2025-01-01T16:24:03.949Z
+updated: 2025-01-04T16:04:48.263Z
 categories:
   - BestProducts
 description: This Article Describes How to Find Someone's Email Address
@@ -33,9 +33,19 @@ thumbnail: https://www.lifewire.com/thmb/D9r_EbdvWvhm2yJ6jbM0_fr8c4M=/400x300/fi
    3. Tap the red circle beside the blocked number, and then tap**Unblock** .  
 ![An iPhone with the Phone settings, Blocked Contacts heading, and Unblock button highlighted](https://www.lifewire.com/thmb/MPfrUdCCr2HLjH9Va4OIkm1zN3o=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001-im-missing-calls-because-my-iphone-isnt-ringing-help-2000264-2308e3feb71f4c9194900da12675ecb2.jpg)
 6. Disable Silence Unknown Callers. To help users avoid spam calls and robocalls, Apple added a feature in[iOS 13](https://www.lifewire.com/ios-13-4586609) that automatically silences all calls from unknown numbers. If this feature is turned on, you won't hear calls from numbers that aren't in the Contacts app. Instead, the iPhone sends them right to voicemail. To disable this feature, select**Settings** \>**Phone** , and then turn off the**Silence Unknown Callers** switch.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you want to keep Silence Unknown Callers turned on but still get calls from certain numbers,[add those callers to Contacts](https://www.lifewire.com/manage-contacts-iphone-address-book-2000570) .  
 ![iPhone showing the Phone settings and Silence Unknown Callers switch](https://www.lifewire.com/thmb/PfmlpvYkxD5z2_TErc_402j9xA8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002-im-missing-calls-because-my-iphone-isnt-ringing-help-2000264-b93c2874c9784090a83900ec430caf0b.jpg)
 7. Change your custom ringtone. If your iPhone still doesn't ring for incoming calls, check your ringtone. If you[set up unique ringtones for contacts](https://www.lifewire.com/assign-unique-ringtone-on-iphone-2000557) , a deleted or corrupted ringtone can prevent the phone from ringing when someone calls.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  To check the default ringtone, tap**Settings** \>**Sounds & Haptics** \>**Ringtone** , and then select a new ringtone.  
  If you miss calls from only certain people, open the Phone app, and then complete these steps:  
    1. Tap**Contacts** .  
@@ -43,7 +53,16 @@ thumbnail: https://www.lifewire.com/thmb/D9r_EbdvWvhm2yJ6jbM0_fr8c4M=/400x300/fi
    3. Tap**Ringtone** , and then assign the contact a new ringtone.  
 ![Three iOS screens showing Contacts, Edit button and Ringtone area in Phone settings app](https://www.lifewire.com/thmb/dQgktPdfOQV7lnazDKmKLLfIXPI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/006_im-missing-calls-because-my-iphone-isnt-ringing-help-2000264-5bbe5923c9e77c005156dd60.jpg)  
  If the unique ringtone is the source of the problem, find all the contacts to whom you assigned that ringtone and select a new ringtone for each.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 8. [Make sure the phone isn't stuck in Headphone mode](https://www.lifewire.com/fix-iphone-stuck-in-headphone-mode-4175912) . It could be that your iPhone is ringing but sending the audio to the wrong place. In this situation, the iPhone thinks that another audio source is attached to it—like headphones or a Bluetooth device—and tries to ring there instead of through your iPhone speaker.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## If None of These Tips Fixed the Problem
 
@@ -52,8 +71,9 @@ thumbnail: https://www.lifewire.com/thmb/D9r_EbdvWvhm2yJ6jbM0_fr8c4M=/400x300/fi
 [How to Fix It When iPhone Call Volume Is Low](https://www.lifewire.com/fix-low-volume-on-call-on-iphone-5186012)
 
 <!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Causes of the iPhone Not Ringing Problem
 
  If your iPhone isn't ringing, there are several possible culprits:
@@ -93,8 +113,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -102,4 +120,18 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-mastery-in-making-sense-top-6-persuasive-video-types/"><u>[New] 2024 Approved Mastery in Making Sense Top 6 Persuasive Video Types</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-quick-easy-fun-4-steps-to-showcasing-your-favorite-gifs-on-instagram-for-2024/"><u>[New] Quick, Easy, Fun 4 Steps to Showcasing Your Favorite GIFs on Instagram for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/apples-latest-endeavor-research-and-development-in-artificial-intelligence-for-home-automation-with-highlighted-pair-of-innovations-infotech-daily/"><u>Apple's Latest Endeavor: Research and Development in Artificial Intelligence for Home Automation with Highlighted Pair of Innovations | InfoTech Daily</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/apples-understated-introduction-to-unique-accessories-this-week-revealed/"><u>Apple's Understated Introduction to Unique Accessories This Week Revealed</u></a></li>
+<li><a href="https://common-error.techidaily.com/comprehensive-solutions-for-usb-connection-issues-on-your-windows-pc/"><u>Comprehensive Solutions for USB Connection Issues on Your Windows PC</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/fluid-formats-and-finesse-the-leading-video-apps-in-big-sur-macos/"><u>Fluid Formats and Finesse The Leading Video Apps in Big Sur macOS</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-your-motorola-edge-2023-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>How to Mirror Your Motorola Edge 2023 Screen to PC with Chromecast | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ipad-malfunction-issues-with-ios-18-update-crucial-insights-prior-to-upgrading-techdigest/"><u>IPad Malfunction Issues with iOS 18 Update: Crucial Insights Prior to Upgrading | TechDigest</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/overcome-binkw32dll-is-absent-issues-a-comprehensive-solution-guide/"><u>Overcome 'Binkw32.dll Is Absent' Issues: A Comprehensive Solution Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-failed-to-create-d3d-device-error-in-your-game-expert-advice/"><u>Resolving Failed to Create D3D Device Error in Your Game – Expert Advice</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/understanding-line-chat-features-pros-and-cons-explained/"><u>Understanding Line Chat: Features, Pros & Cons Explained</u></a></li>
+</ul></div>
 

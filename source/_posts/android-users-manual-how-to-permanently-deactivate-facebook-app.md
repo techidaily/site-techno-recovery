@@ -1,7 +1,7 @@
 ---
 title: "Android Users' Manual: How to Permanently Deactivate Facebook App"
-date: 2024-08-26T06:05:56.162Z
-updated: 2024-08-27T06:05:56.162Z
+date: 2025-01-03T16:13:42.251Z
+updated: 2025-01-04T16:28:40.404Z
 categories:
   - BestProducts
 description: "This Article Describes Android Users' Manual: How to Permanently Deactivate Facebook App"
@@ -12,6 +12,10 @@ thumbnail: https://thmb.techidaily.com/60aeb73e6646ca7cba89b069f503754c9115c11cb
 ## Student-Only Specials: How to Navigate and Secure Microsoft Deals
  Microsoft sells a lot of software that's useful for students, and devices like the[Surface and Surface Pro](https://www.lifewire.com/microsoft-surface-series-4163521) are great for keeping productivity up while you're on the go. If you're an eligible student (or a parent of one), you can take advantage of Microsoft's student discount to gain free access to powerful software like[Office 365](https://www.lifewire.com/microsoft-office-for-students-teachers-2511861) and save on computers and other devices.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Get the Microsoft Student Discount
 
  To get the Microsoft student discount, all you have to do is access the online Microsoft store through the student and military discount portal. Here's how the process works:
@@ -21,12 +25,26 @@ thumbnail: https://thmb.techidaily.com/60aeb73e6646ca7cba89b069f503754c9115c11cb
 2. The site tells you you're eligible for special pricing. Select**OK** .  
 ![A screenshot of the Microsoft Student Discount confirmation notice.](https://www.lifewire.com/thmb/_opw21hzYkn3V9Wb_mLqP5iLV7U=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002-how-to-get-a-microsoft-store-student-discount-3eae80c050da4116adf04508a1cb8e42.jpg)
 3. Select**Student Deals** from the list of store categories.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![The Microsoft online store.](https://www.lifewire.com/thmb/AgZeGz5ITQKUJ8jp0pIPIsbbSzI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/003-how-to-get-a-microsoft-store-student-discount-51ae65ba3fbc4b11b3eee0030822ec9e.jpg)
 4. Locate the software or device you want to buy, and add it to your cart.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Adding an item to your cart.](https://www.lifewire.com/thmb/syXuUKJeVh9EZEPIoxTMwY8Li3g=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004-how-to-get-a-microsoft-store-student-discount-0d1004a1092e4a5dbf63a1905d0fa237.jpg)
 5. Complete the checkout process.  
 ![Checking out at the online Microsoft store.](https://www.lifewire.com/thmb/gF3Dy3jJNOJlbYJPatebpx5EyGw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/005-how-to-get-a-microsoft-store-student-discount-011f2569dab04dcb8c3c942c4cba5e55.jpg)  
  If you choose to pick up your order at a local Microsoft store, remember to bring your student ID. Microsoft doesn't verify enrollment during online purchases, but they may ask for proof of enrollment during pickup.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Who Is Eligible for Microsoft's Student Discount?
 
@@ -39,8 +57,9 @@ thumbnail: https://thmb.techidaily.com/60aeb73e6646ca7cba89b069f503754c9115c11cb
 ![Person accessing the Microsoft student discount on a phone.](https://www.lifewire.com/thmb/h1sE0kaVMIxmUmfOCw7SnD4v-cI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/microsoftstudentdiscount-3fb8972d9f274cb5a0c5dbc2bc56beb1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## What Does Microsoft's Student Discount Get You?
 
  The Microsoft student discount typically provides up to 10-percent savings on hardware like desktop computers, laptops, and tablets. It also grants free access to some software, like Office 365.
@@ -52,14 +71,6 @@ Certain items are specifically excluded, including:
 * Personalized and customized items.
 * Gift cards and subscriptions to services like Xbox Game Pass.
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
-<!-- affiliate ads end -->
 ## How Does Microsoft Verify Student Enrollment?
 
  When you request the student discount at a physical Microsoft store, you need to show your student ID or some another supporting document like a class schedule, transcript, or acceptance letter.
@@ -90,8 +101,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -99,4 +108,16 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-comprehensive-breakdown-of-zd-soft-recording-features-for-2024/"><u>[New] Comprehensive Breakdown of ZD Soft Recording Features for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-the-ultimate-10-most-popular-tracks/"><u>[Updated] The Ultimate 10 Most Popular Tracks</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/beyond-limits-unleashing-ultimate-zooming-in-nikon-coolpix-p1000/"><u>Beyond Limits: Unleashing Ultimate Zooming in Nikon COOLPIX P1000</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/inside-scoop-unveiling-potential-features-and-estimated-cost-of-the-new-google-pixel-watch/"><u>Inside Scoop: Unveiling Potential Features & Estimated Cost of the New Google Pixel Watch</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/protect-your-new-iphone-16-the-smart-way-expert-tips-on-choosing-the-right-case-even-if-youve-never-used-one-advice-series/"><u>Protect Your New iPhone 16 the Smart Way: Expert Tips on Choosing the Right Case - Even If You've Never Used One Advice Series</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-fundamentals-of-creating-alluring-podcast-descriptions-for-2024/"><u>The Fundamentals of Creating Alluring Podcast Descriptions for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-rated-mini-tablets-of-2024-in-depth-comparisons-and-reviews-by-tech-gurus-zdnet/"><u>Top-Rated Mini Tablets of 2024 - In Depth Comparisons and Reviews by Tech Gurus | ZDNet</u></a></li>
+<li><a href="https://blog-min.techidaily.com/ultimate-guide-techniques-to-enhance-video-clarity-and-quality/"><u>Ultimate Guide: Techniques to Enhance Video Clarity and Quality</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/why-iphone-15-stands-out-in-the-competitive-market-a-detailed-assessment-for-seasoned-users-gizmosphere/"><u>Why iPhone 15 Stands Out in the Competitive Market – A Detailed Assessment for Seasoned Users | GizmoSphere</u></a></li>
+</ul></div>
 

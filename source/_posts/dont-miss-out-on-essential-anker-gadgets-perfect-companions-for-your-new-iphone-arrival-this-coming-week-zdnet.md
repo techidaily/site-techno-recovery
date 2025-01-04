@@ -1,7 +1,7 @@
 ---
 title: Don't Miss Out on Essential Anker Gadgets - Perfect Companions for Your New iPhone Arrival This Coming Week | ZDNet
-date: 2024-12-21T19:25:58.368Z
-updated: 2024-12-25T18:35:44.976Z
+date: 2025-01-03T16:21:14.175Z
+updated: 2025-01-04T16:06:50.377Z
 tags:
   - apple
 categories:
@@ -46,16 +46,12 @@ To help you make this decision, we've broken down all of the most important deta
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  You should buy the iPhone 16 if...
 
 Kerry Wan/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ###  1\. You'd benefit from Apple Intelligence features
 
@@ -72,6 +68,10 @@ The [iPhone 16](https://www.zdnet.com/article/every-iphone-16-model-compared-whi
 **Also: [The 5 best iPhone 16 Pro features that enthusiasts will care about](https://www.zdnet.com/article/the-5-best-iphone-16-pro-features-that-enthusiasts-will-care-about/)**
 
 On the side below the [Power Button is the new Camera Control](https://www.zdnet.com/article/every-iphone-16-model-features-a-new-camera-button-heres-what-it-can-do/). It's a tactile switch with a special sensor that can perform unique actions with a light touch. For example, pressing it quickly launches the Camera app for taking quick snapshots or recording a video. It even introduces a preview feature to help you frame the shot. And if that wasn't enough, it'll work with third-party apps.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  3\. You want "next-level performance"
 
@@ -92,7 +92,7 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  You should buy the iPhone 15 if...
@@ -100,7 +100,7 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 Kerry Wan/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  1\. You don't require the generative AI capabilities
@@ -111,10 +111,6 @@ All of the bells and whistles on the iPhone 16 are certainly nice, but are they 
 
 Sometimes, it's best to wait until all the bugs have been ironed out. Plus, there's a lot of uncertainty surrounding the chipset. Early impressions indicate the A18 can handle all the AI features, but can it? Or will we see a performance drop once it launches? 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ###  2\. You're on a budget
 
 With the release of a new model, older phones often see a price drop, and that is exactly what we're getting here. Apple has cut the price of the iPhone 15 by about $100 off its digital storefront to entice new adopters. 
@@ -122,6 +118,10 @@ With the release of a new model, older phones often see a price drop, and that i
 It wouldn't be a bad pick-up, either. The camera system of the previous generation is great to this day, the A16 Bionic chip is still plenty powerful, and the Dynamic Island is a welcomed addition. You can enjoy a similar camera performance. Plus, you won't be bogged down by nascent AI features you may or may not ever use. 
 
 [Buy the iPhone 15 $729.99 at Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fbestbuy.7tiv.net%2Fc%2F376373%2F633495%2F10014%3Fprodsku%3D6417991%26u%3Dhttp%253A%252F%252Fwww.bestbuy.com%252Fsite%252F-%252F6417991.p%253Fcmp%253DRMX&publisher_slug=itechdaily19598&exclusive=1)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Alternatives to consider
 
@@ -157,16 +157,21 @@ It wouldn't be a bad pick-up, either. The camera system of the previous generati
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/ed-streamline-your-yt-content-with-background-softening-tricks-for-2024/"><u>[Updated] Streamline Your YT Content with Background Softening Tricks for 2024</u></a></li>
-<li><a href="https://change-location.techidaily.com/additional-tips-about-sinnoh-stone-for-vivo-v29e-drfone-by-drfone-virtual-android/"><u>Additional Tips About Sinnoh Stone For Vivo V29e | Dr.fone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/amazon-boosts-alexa-capabilities-using-anthropics-innovative-language-model-claude-exclusive-coverage-at-zdnet/"><u>Amazon Boosts Alexa Capabilities Using Anthropic’s Innovative Language Model, Claude - Exclusive Coverage at ZDNET</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/discover-an-unmatched-audio-experience-top-alternative-brands-beyond-sony-and-jbl-featured-on-zdnet/"><u>Discover an Unmatched Audio Experience: Top Alternative Brands Beyond Sony and JBL Featured on ZDNet</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/discover-the-ultimate-audio-experience-with-our-picks-s-best-speakers-featuring-expert-reviews-from-cnet/"><u>Discover the Ultimate Audio Experience with Our Picks 'S Best Speakers, Featuring Expert Reviews From CNET</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/enlighten-yourself-in-lithuanian-online-best-practices/"><u>Enlighten Yourself in Lithuanian - Online Best Practices</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-play-avchd-mts-files-on-galaxy-a05-by-aiseesoft-video-converter-play-mts-on-android/"><u>How to play AVCHD MTS files on Galaxy A05?</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolving-palworld-search-session-issues-a-step-by-step-guide/"><u>Resolving PalWorld Search Session Issues: A Step-by-Step Guide</u></a></li>
-<li><a href="https://apple-account.techidaily.com/turning-off-two-factor-authentication-on-iphone-11-pro-5-tips-you-must-know-by-drfone-ios/"><u>Turning Off Two Factor Authentication On iPhone 11 Pro? 5 Tips You Must Know</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/zdnet-reviews-exceptional-portable-speakers-beyond-bose-and-sony-brands-for-on-the-go-sound-enthusiasts/"><u>ZDNet Reviews Exceptional Portable Speakers Beyond Bose and Sony Brands for On-the-Go Sound Enthusiasts</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/zdnets-review-reveals-a-standout-portable-speaker-with-impressive-sound-quality-across-genres-ranks-among-the-best-tested/"><u>ZDNet's Review Reveals a Standout Portable Speaker with Impressive Sound Quality Across Genres, Ranks Among the Best Tested!</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-premier-12-screen-recording-solutions-uncapped-recording/"><u>[New] 2024 Approved Premier 12 Screen Recording Solutions - Uncapped Recording</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-bandicam-reviewed-the-latest-tech-enhancements-and-tips/"><u>[New] In 2024, Bandicam Reviewed The Latest Tech Enhancements and Tips</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-channeling-wealth-through-beauty-online-platforms-for-2024/"><u>[Updated] Channeling Wealth Through Beauty Online Platforms for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-simplified-screen-switching-utilizing-pip-mode-on-netflix-for-smooth-viewing/"><u>[Updated] Simplified Screen Switching Utilizing PIP Mode on Netflix for Smooth Viewing</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/539728-9781101434581-chords-of-strength/"><u>Chords of Strength | Free Book</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discover-apples-latest-tech-marvel-the-airpods-4-with-enhanced-locator-and-modern-usb-c-port-zdnet-exclusive/"><u>Discover Apple's Latest Tech Marvel: The AirPods 4 with Enhanced Locator and Modern USB-C Port | ZDNET Exclusive</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/easy-guide-to-activating-slack-alerts-on-apple-watch-tips-from-zdnet/"><u>Easy Guide to Activating Slack Alerts on Apple Watch - Tips From ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/expert-tips-on-identifying-and-correcting-a-408-server-timeout-problem/"><u>Expert Tips on Identifying and Correcting a 408 Server Timeout Problem</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/explore-the-marvel-universe-with-apple-vision-pro-get-ready-june-30th-experience-comic-book-magic/"><u>Explore the Marvel Universe with Apple Vision Pro – Get Ready June 30Th, Experience Comic Book Magic!</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-is-pgsharp-legal-when-you-are-playing-pokemon-on-honor-x9a-drfone-by-drfone-virtual-android/"><u>In 2024, Is pgsharp legal when you are playing pokemon On Honor X9a? | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-spoofing-life360-how-to-do-it-on-honor-90-lite-drfone-by-drfone-virtual-android/"><u>In 2024, Spoofing Life360 How to Do it on Honor 90 Lite? | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-veiled-glance-at-digital-diary-fb/"><u>In 2024, Veiled Glance at Digital Diary (FB)</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/macos-sonomas-latest-bug-fixes-10144-revealed-essential-info-for-smooth-update-guide/"><u>MacOS Sonoma's Latest Bug Fixes (10.14.4) Revealed: Essential Info for Smooth Update Guide</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/master-craft-the-ultimate-guide-to-utilizing-mac-oss-best-document-management-solution-tips-and-tricks/"><u>Master Craft: The Ultimate Guide to Utilizing Mac OS's Best Document Management Solution - Tips and Tricks!</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/optimize-your-windows-gaming-rig-access-free-updated-nvidia-geforce-drivers-for-windows-users/"><u>Optimize Your Windows Gaming Rig: Access Free, Updated Nvidia GeForce Drivers for WINDOWS Users</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-9-essential-considerations-for-prospective-electric-vehicle-owners/"><u>Top 9 Essential Considerations for Prospective Electric Vehicle Owners</u></a></li>
 </ul></div>
 

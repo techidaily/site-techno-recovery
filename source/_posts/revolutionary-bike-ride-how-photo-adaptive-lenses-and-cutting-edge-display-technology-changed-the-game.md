@@ -1,7 +1,7 @@
 ---
 title: "Revolutionary Bike Ride: How Photo-Adaptive Lenses and Cutting-Edge Display Technology Changed the Game"
-date: 2024-12-23T06:36:33.871Z
-updated: 2024-12-26T06:10:36.258Z
+date: 2024-12-28T16:17:34.574Z
+updated: 2025-01-04T16:18:47.818Z
 tags:
   - apple
 categories:
@@ -23,7 +23,7 @@ The ever-evolving, rapidly changing landscape of mobile technology means that wh
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### SPECIAL FEATURE
@@ -35,7 +35,7 @@ This year, five topics will likely dominate the headlines, dictate the next indu
 And that's just the beginning, as you'll find more notable trends in the list below, all of which have already begun to take shape.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. On-device AI puts the 'smart' in smartphone
@@ -53,7 +53,7 @@ Samsung's just-released [Galaxy S24 smartphones](https://www.zdnet.com/article/e
 Qualcomm is playing a major role here as well, with its flagship [Snapdragon 8 Gen 3 chipset](https://www.zdnet.com/article/qualcomms-new-snapdragon-8-gen-3-mobile-chip-brings-generative-ai-to-smartphones/) enabling performance gains across the board on smartphones, from a 20% improvement in CPU, 30% in GPU, and 41% in NPU -- the latter of which is critical for devices to perform generative AI tasks in a power-efficient manner. Expect more flagship [Android phones](https://www.zdnet.com/article/best-android-phone/) this year -- as well as [VR and XR headsets](https://www.zdnet.com/article/best-vr-headset/) \-- to field Qualcomm's new processor, with plenty of AI-enabled capabilities in tow.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Foldables are getting better (and cheaper)
@@ -72,6 +72,10 @@ Now that the major players have entered the competition, the big question this y
 
 But there's hope. Carrier providers, who often discount the latest devices aggressively in exchange for customer loyalty (read: agreement to long-term installment plans), remain a primary source of US smartphone sales. Motorola's [standard Razr model](https://www.zdnet.com/article/this-motorola-is-still-200-off-and-its-surprisingly-capable/), which can be purchased for [as low as $499](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fmotorola-razr-2023-128gb-unlocked-sage-green%2F6557867.p%3F&publisher_slug=itechdaily19598&exclusive=1) at the time of writing, is another sign of good things to come. With that in mind, 2024 is looking to be a promising sequel to foldables' breakout year in 2023.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Qi2 bridges a long-standing gap in charging
 
 The iPhone 15 Pro (left) next to the Samsung Galaxy S23 Ultra (right).
@@ -89,7 +93,7 @@ The adoption of such technology bridges a longstanding gap between MagSafe-compa
 **Also: [The best wireless chargers for iPhone and Android phones](https://www.zdnet.com/article/best-wireless-charger/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Periscope lenses push cameras to further distances
@@ -109,10 +113,6 @@ Companies like Samsung have long adopted periscope lenses to improve their camer
 As manufacturers continue to figure out ways to shrink and fit better components within the framework of smartphones, expect better, more capable cameras in 2024 and beyond.
 
 **Also:** [**The evolution of smartphone cameras: From megapixels to AI-driven photography**](https://www.zdnet.com/article/the-evolution-of-smartphone-cameras-from-megapixels-to-ai-driven-photography/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5\. A new class of mobile devices
 
@@ -168,22 +168,20 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/2024-approved-a-compreayers-must-have-top-10-free-passport-photo-tools/"><u>2024 Approved A Compreayer's Must-Have Top 10 Free Passport Photo Tools</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/amazon-prime-day-tech-steals-must-have-gadgets-at-jaw-dropping-prices/"><u>Amazon Prime Day Tech Steals: Must-Have Gadgets at Jaw-Dropping Prices</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/behind-the-scenes-the-making-of-an-iconic-tech-spectacle-new-iphone-launch/"><u>Behind the Scenes: The Making of an Iconic Tech Spectacle - New iPhone Launch</u></a></li>
-<li><a href="https://fox-search.techidaily.com/cross-brand-storage-solution-mastering-the-art-of-migrating-samsung-data-onto-third-party-ssds-a-comprehensive-guide/"><u>Cross-Brand Storage Solution: Mastering the Art of Migrating Samsung Data Onto Third-Party SSDs – A Comprehensive Guide!</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/discover-the-must-watch-shows-on-discovery-plus-this-july-2024/"><u>Discover the Must-Watch Shows on Discovery Plus This July 2024!</u></a></li>
-<li><a href="https://discover-hacks.techidaily.com/discover-the-top-10-platforms-offering-free-online-movie-viewing-instantly/"><u>Discover the Top 10 Platforms Offering Free Online Movie Viewing Instantly</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/essential-strategies-for-newbies-in-the-world-of-pokemon-go-gaming/"><u>Essential Strategies for Newbies in the World of Pokémon Go Gaming</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/exclusive-guide-365-days-of-no-cost-text-files/"><u>Exclusive Guide 365 Days of No-Cost Text Files</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/exploring-the-limits-commands-and-queries-that-puzzle-chatgpt/"><u>Exploring the Limits: Commands and Queries That Puzzle ChatGPT</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/how-to-fix-mingwm10dll-is-missing-or-not-found-errors/"><u>How to Fix Mingwm10.dll Is Missing or Not Found Errors</u></a></li>
-<li><a href="https://program-issues.techidaily.com/lunar-desktop-application-crashes-solutions-and-prevention-tips-for-pc-users/"><u>Lunar Desktop Application Crashes: Solutions and Prevention Tips for PC Users</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/mastering-location-markers-a-step-by-step-guide-to-adding-multiple-pins-in-google-maps/"><u>Mastering Location Markers: A Step-by-Step Guide to Adding Multiple Pins in Google Maps</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/navigating-hdcp-error-messages-expert-advice-for-restoring-digital-video-streams/"><u>Navigating HDCP Error Messages: Expert Advice for Restoring Digital Video Streams</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-free-video-rotation-software-top-10-picks-for-flipping-footage/"><u>New 2024 Approved Free Video Rotation Software Top 10 Picks for Flipping Footage</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/speeding-up-firefox-top-10-hacks-to-accelerate-your-browser-fivefold/"><u>Speeding Up Firefox: Top 10 Hacks to Accelerate Your Browser Fivefold</u></a></li>
-<li><a href="https://extra-information.techidaily.com/the-perfect-resolution-for-immersive-vr/"><u>The Perfect Resolution for Immersive VR</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/top-picks-watch-these-15-exceptional-dolby-atmos-films-in-your-home-theater-setup/"><u>Top Picks: Watch These 15 Exceptional Dolby Atmos Films in Your Home Theater Setup</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/dd-visual-appeal-with-these-methods-for-yt-video-inclusion-in-ppt-for-2024/"><u>[New] Add Visual Appeal with These Methods for YT Video Inclusion in PPT for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-elite-mobile-photo-enhancers-comprehensively-reviewed-iphoneandroid-edition/"><u>[New] In 2024, Elite Mobile Photo Enhancers Comprehensively Reviewed iPhone/Android Edition</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-setting-up-for-success-an-instagram-business-account-blueprint/"><u>[New] Setting Up for Success An Instagram Business Account Blueprint</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-fostering-followers-with-flashy-instagram-puzzles-that-stand-out/"><u>[Updated] Fostering Followers with Flashy Instagram Puzzles that Stand Out</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-restoring-your-broadcast-essential-steps-for-uninterrupted-fb-live-for-2024/"><u>[Updated] Restoring Your Broadcast Essential Steps for Uninterrupted FB Live for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/activate-movavi-video-converter-at-no-cost-ultimate-guide/"><u>Activate Movavi Video Converter at No Cost: Ultimate Guide</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/establishing-various-local-area-networks-lan-in-macos-enhancing-connectivity-flexibility-insights/"><u>Establishing Various Local Area Networks (LAN) in macOS: Enhancing Connectivity Flexibility - Insights</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-ios-175-brought-back-deleted-photos-insights-from-apple-and-future-actions-for-users-zdnet/"><u>How iOS 17.5 Brought Back Deleted Photos - Insights From Apple & Future Actions for Users | ZDNet</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-hasten-your-srt-to-txt-conversion-process-with-these-tips/"><u>In 2024, Hasten Your SRT to TXT Conversion Process with These Tips</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/iphone-15-models-unveiled-a-comprehensive-review-of-the-regular-plus-pro-and-pro-max-versions-for-informed-purchasing-decisions-insights/"><u>IPhone 15 Models Unveiled: A Comprehensive Review of the Regular, Plus, Pro, and Pro Max Versions for Informed Purchasing Decisions - Insights</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/iphone-dominance-securing-seven-of-the-top-positions-in-worldwide-smartphone-market-share-insights/"><u>IPhone Dominance: Securing Seven of the Top Positions in Worldwide Smartphone Market Share - Insights</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-your-contacts-after-google-pixel-7a-has-been-deleted-by-fonelab-android-recover-contacts/"><u>Recover your contacts after Google Pixel 7a has been deleted.</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/sonys-psvr2-insights-into-availability-costs-and-technical-details/"><u>Sony's PSVR2 – Insights Into Availability, Costs, and Technical Details</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/tidy-up-your-inbox-effortlessly-with-this-single-trick-say-goodbye-to-mess-and-multiple-accounts-zdnet/"><u>Tidy Up Your Inbox Effortlessly with This Single Trick - Say Goodbye to Mess and Multiple Accounts! | ZDNet</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-nier-automata-pc-crashes-top-solutions-for-players/"><u>Troubleshooting Nier Automata PC Crashes - Top Solutions for Players</u></a></li>
 </ul></div>
 

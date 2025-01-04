@@ -1,7 +1,7 @@
 ---
 title: "Revealing Hidden Data in macOS: The Ultimate Terminal Command Tutorial"
-date: 2024-08-26T06:06:51.703Z
-updated: 2024-08-27T06:06:51.703Z
+date: 2025-01-03T16:10:10.294Z
+updated: 2025-01-04T16:21:45.546Z
 categories:
   - BestProducts
 description: "This Article Describes Revealing Hidden Data in macOS: The Ultimate Terminal Command Tutorial"
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/852437a8f4dc8f33eb3a839d8b7d9a1e3df217c9c
 
  With Terminal, a simple command is all it takes to get your Mac to spill its secrets.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Use Terminal
 
 1. Launch**Terminal** , located at**/Applications/Utilities/** .  
@@ -27,6 +31,10 @@ thumbnail: https://thmb.techidaily.com/852437a8f4dc8f33eb3a839d8b7d9a1e3df217c9c
 **killall Finder**  
 ![Terminal window with commands inline](https://www.lifewire.com/thmb/z9u9E5cQZxfSmppiqZSimKAfX_s=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002_view-hidden-mac-folders-using-terminal-2260776-5c2ea73546e0fb0001415cda.jpg)
 3. Entering the two lines above into Terminal allows you to use the[Finder](https://www.lifewire.com/use-mac-finder-2260739) to display all the hidden files on your Mac. The first line tells the Finder to display all files, regardless of how the hidden flag is set. The second line stops and restarts the Finder, so the changes can take effect. You may see your desktop disappear and reappear when you execute these commands; this is normal.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What Was Hidden Can Now Be Seen
 
@@ -39,8 +47,9 @@ thumbnail: https://thmb.techidaily.com/852437a8f4dc8f33eb3a839d8b7d9a1e3df217c9c
  Now that you can see all the hidden folders and files in the Finder, you'll probably want to hide them again, if only because they tend to clutter up Finder windows with extraneous items.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Hide the Clutter
 
 1. Launch**Terminal** , located at**/Applications/Utilities/** .
@@ -49,13 +58,15 @@ thumbnail: https://thmb.techidaily.com/852437a8f4dc8f33eb3a839d8b7d9a1e3df217c9c
 **killall Finder**  
 ![Terminal with ShowAllFiles set to FALSE](https://www.lifewire.com/thmb/7JHA9g9EOKMG8xeydvO7Yp3H_24=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/003_view-hidden-mac-folders-using-terminal-2260776-5c2ea75e46e0fb0001a438c8.jpg)
 3. Poof! The hidden files are once again hidden. No hidden folder or file was harmed in the making of this Mac tip.
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## More About Terminal
 
  If the power of the Terminal app intrigues you, you can find out more about what secrets Terminal can uncover in this guide:[Use the Terminal Application to Access Hidden Features](https://www.lifewire.com/mac-terminal-commands-4774997) .
@@ -80,8 +91,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -89,4 +98,18 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-breaking-barriers-in-advertising-animating-for-maximum-roi-on-fb/"><u>[New] In 2024, Breaking Barriers in Advertising Animating for Maximum ROI on FB</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-pureimagezone-premium-tool-to-remove-backgrounds/"><u>[New] PureImageZone Premium Tool to Remove Backgrounds</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-premium-motion-mastery-modules/"><u>[Updated] 2024 Approved Premium Motion Mastery Modules</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-clearing-up-audio-issues-in-half-volume-facebook-content/"><u>[Updated] Clearing Up Audio Issues in Half-Volume Facebook Content</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-unlock-the-art-of-snapchat-pins/"><u>[Updated] Unlock the Art of Snapchat Pins</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/a-comprehensive-guide-to-skillful-imagery-research-within-facebooks-platform/"><u>A Comprehensive Guide to Skillful Imagery Research Within Facebook's Platform</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/curious-about-apples-punctuation-policy-discover-why-they-shun-exclamation-marks-on-their-site-zdnet/"><u>Curious About Apple's Punctuation Policy? Discover Why They Shun Exclamation Marks on Their Site | ZDNET</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/hit-the-right-note-easy-steps-to-snag-a-spotify-subscription-at-student-prices/"><u>Hit the Right Note: Easy Steps to Snag a Spotify Subscription at Student Prices</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-your-device-choices-with-tips-from-toms-hardware/"><u>Mastering Your Device Choices with Tips From Tom's Hardware</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/steps-to-take-if-you-cant-access-your-instagram-account-anymore/"><u>Steps to Take if You Can't Access Your Instagram Account Anymore</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/understanding-t-mobiles-intra-country-roaming-rules/"><u>Understanding T-Mobile's Intra-Country Roaming Rules</u></a></li>
+</ul></div>
 

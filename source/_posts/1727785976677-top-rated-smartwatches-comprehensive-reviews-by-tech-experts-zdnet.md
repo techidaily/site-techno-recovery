@@ -1,7 +1,7 @@
 ---
 title: "Top Rated Smartwatches : Comprehensive Reviews by Tech Experts | ZDNet"
-date: 2024-12-18T23:38:08.087Z
-updated: 2024-12-25T17:51:15.951Z
+date: 2025-01-03T16:11:07.054Z
+updated: 2025-01-04T16:21:52.849Z
 tags:
   - apple
 categories:
@@ -23,7 +23,7 @@ At ZDNET, we've tested all of the best smartwatches on the market, testing their
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  What is the best smartwatch right now?
@@ -46,6 +46,10 @@ Pros
 Cons 
 * No offline mapping
 * May be too large for small wrists
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Apple Watch Ultra 2
 
@@ -78,6 +82,10 @@ Cons
 
 ## Apple Watch Series 9
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Best smartwatch for iPhone users
 
 Released in 2023, the Series 9 model builds upon the Apple Watch legacy. Similar to the [Ultra 2,](https://www.zdnet.com/article/apple-watch-series-9-vs-apple-watch-ultra-2/) the Series 9 supports a [double tap gesture](https://www.zdnet.com/article/apple-watch-series-9s-double-tap-takes-a-popular-accessibility-feature-to-the-next-level/) that allows you to control your phone by simply tapping your index finger and thumb together. With this feature, you can do everything from answering calls, snoozing your morning alarm, playing or pausing media, ending timers, and more.
@@ -109,7 +117,7 @@ Cons
 * Not built for rugged adventures
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Google Pixel Watch 3
@@ -144,7 +152,15 @@ Cons
 * Large size not suitable for smaller wrists
 * Blood pressure certification taking much longer than advertised
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Samsung Galaxy Watch Ultra
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Best Samsung smartwatch for outdoor adventurers
 
@@ -176,10 +192,6 @@ Pros
 
 Cons 
 * Large display is likely to consumer more battery power
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Samsung Galaxy Watch 7
 
@@ -246,7 +258,7 @@ Cons
 * Expensive
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Garmin Venu 3S
@@ -280,10 +292,6 @@ Cons
 * No Google Assistant support
 * Overwhelming smartphone app experience
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Amazfit Balance
 
 ### Best basic, budget smartwatch
@@ -314,10 +322,6 @@ Pros
 Cons 
 * Some advanced metric require a subscription
 * Limited third-party support
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Withings ScanWatch 2
 
@@ -398,7 +402,7 @@ For a deeper look into our testing process, check out our comprehensive [smartwa
 ## FAQs
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Are there any smartwatches I should avoid?
@@ -408,10 +412,6 @@ There are many reasons why a person might want a smartwatch, so depending on you
 Fossil has been offering smartwatches for a long time, and I still have a working Fossil Wrist PDA that is powered by Palm OS and has a tiny stylus. For the past few years, Fossil has been making Google Wear OS-powered smartwatches and offering a fairly compelling option with some unique styles. However, in January 2024 Fossil Group announced that it would no longer be releasing smartwatches, with the last Gen 6 model released in 2021\. You can still find some Fossil watches available, and Fossil Group stated that they will continue to update the watches for the next few years, but be careful when you are considering one of these watches.
 
 There was a great promise with a luxury Wear OS watch in 2022 when Montblanc released the [Summit 3 smartwatch](https://www.zdnet.com/article/montblanc-summit-3-review/). While we provided a preliminary review as we looked for a future update that was supposed to add some core functionality, that update never came, and the watch sits idly by running the same older version of Wear OS on a processor that is now a couple of generations old. It's a lovely luxury watch so if you want a basic smartwatch with those good looks, maybe you can find one on sale. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How do I set up my smartwatch?
 
@@ -427,6 +427,10 @@ Google Wear OS watches used to work with both Android and iPhone devices, but th
 
 Garmin, Amazfit, and Withings watches work flawlessly with both Android and iPhone devices.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Can I text from a smartwatch?
 
 You absolutely can! However, most of their screens are too small to type on, so you'll compose messages with speech-to-text or other dictation functions or choose from several generic, auto-generated responses. 
@@ -438,10 +442,6 @@ Garmin watches support quick-response text messaging via a connected Android sma
 While you can leave your iPhone at home while you run, go to the store, or stroll on the beach, you must have an iPhone turned on and connected to the internet at this other location. This is one reason why connecting to an iPhone and switching to an Android makes the Apple Watch useless with an Android phone.
 
 After initial setup, a cellular-enabled Samsung Galaxy Watch or Google Pixel Watch can act as a stand-alone mobile device. With the latest Galaxy Watch 7, Watch Ultra, or Pixel Watch 3 running Wear OS, many more apps can be used on the go, so you can leave the phone behind in most cases.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What are the hot new features in the latest smartwatches?
 
@@ -458,7 +458,7 @@ People also regularly have video calls with family and friends, not just coworke
 In addition, as AI continues to integrate into our lives, having this technology available in our watches should help provide data faster and more accurately than simple web search queries that we may carry out with Siri or Google Assistant.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What's the best smartwatch for health monitoring?
@@ -543,14 +543,22 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/new-unlock-vimeos-potential-cutting-edge-video-tools/"><u>[New] Unlock Vimeo's Potential Cutting Edge Video Tools</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/can-forefront-ai-surpass-chatgpt-in-conversational-intelligence-and-machine-learning-innovations/"><u>Can Forefront AI Surpass ChatGPT in Conversational Intelligence and Machine Learning Innovations?</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/ceo-exit-at-artific-intelligence-pioneer-openai-is-chatgpts-evolution-in-jeopardy/"><u>CEO Exit at Artific Intelligence Pioneer, OpenAI; Is ChatGPT's Evolution in Jeopardy?</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/experiencing-a-breakthrough-unveiling-the-magic-of-apples-latest-immersive-content-with-vision-pro-a-revelatory-journey-detailed-by-zdnet/"><u>Experiencing a Breakthrough: Unveiling the Magic of Apple's Latest Immersive Content with Vision Pro - A Revelatory Journey Detailed by ZDNet</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/experiencing-the-extraordinary-enjoying-top-rated-programs-on-apple-vision-pro-a-spectacular-yet-exhausting-journey/"><u>Experiencing the Extraordinary: Enjoying Top-Rated Programs on Apple Vision Pro - A Spectacular yet Exhausting Journey</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/get-your-hands-on-exclusive-cyber-monday-bargain-immersive-349-meta-quest-bundle-still-in-stock-zdnet/"><u>Get Your Hands on Exclusive Cyber Monday Bargain: Immersive $349 Meta Quest ✨ Bundle Still in Stock | ZDNET</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-infinix-smart-8-drfone-by-drfone-virtual-android/"><u>In 2024, Simple and Effective Ways to Change Your Country on YouTube App Of your Infinix Smart 8 | Dr.fone</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/netgear-c3700-cable-modem-router-review-mostly-modem/"><u>Netgear C3700 Cable Modem Router Review: Mostly Modem</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/revolutionize-your-meta-quest-3-experience-the-must-have-50-eyeglass-companion-insights-from-zdnet/"><u>Revolutionize Your Meta Quest 3 Experience: The Must-Have $50 Eyeglass Companion - Insights From ZDNet</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-unveiling-the-secrets-of-canon-timelapse-crafting/"><u>[New] Unveiling the Secrets of Canon Timelapse Crafting</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-selecting-premium-backgrounds-for-zoomgoogle-calls/"><u>[Updated] 2024 Approved Selecting Premium Backgrounds for Zoom/Google Calls</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-mastering-the-art-of-instagrams-musical-emoji-use/"><u>[Updated] Mastering the Art of Instagram's Musical Emoji Use</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/beginners-tutorial-strategies-and-techniques-for-success-in-pokemon-unite/"><u>Beginner's Tutorial: Strategies & Techniques for Success in Pokémon Unite</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/best-compact-gaming-desktops-mini-pcs-reviewed/"><u>Best Compact Gaming Desktops (Mini PCs) Reviewed</u></a></li>
+<li><a href="https://win11.techidaily.com/enders-guide-stopping-unseen-windows-programs/"><u>Ender's Guide: Stopping Unseen Windows Programs</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-10-telegram-spy-tools-on-xiaomi-redmi-13c-5g-for-parents-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Telegram Spy Tools On Xiaomi Redmi 13C 5G for Parents | Dr.fone</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-ultimate-insights-into-the-art-of-srt-file-creation/"><u>In 2024, Ultimate Insights Into the Art of SRT File Creation</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/leading-cable-modemrouter-combo-picks-of-2e-rn-2024-guide/"><u>Leading Cable Modem/Router Combo Picks of 2E |R|n 2024 Guide</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/mastering-the-apple-vision-pro-purchase-process-insider-advice-facial-scanning-secrets-and-expert-strategies-zdnet/"><u>Mastering the Apple Vision Pro Purchase Process: Insider Advice, Facial Scanning Secrets & Expert Strategies | ZDNet</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/maximize-your-productivity-with-chatgpt-on-a-mac-essential-instructions/"><u>Maximize Your Productivity with ChatGPT on a Mac: Essential Instructions</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/oculus-questquest-2-setup-simplified-account-creation-instructions/"><u>Oculus Quest/Quest 2 Setup Simplified: Account Creation Instructions</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/solve-windows-11-gaming-recording-problems-with-effective-fixes/"><u>Solve Windows 11 Gaming Recording Problems with Effective Fixes</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-movie-recommendations-for-instant-online-viewing-inspired-by-lifewire/"><u>Top Movie Recommendations for Instant Online Viewing - Inspired by Lifewire</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-ranking-mp3-devices-expert-picks-featured-on-zdnet/"><u>Top-Ranking MP3 Devices : Expert Picks Featured on ZDNet</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/transformative-smart-automation-strategies-for-business-innovation/"><u>Transformative Smart Automation Strategies for Business Innovation</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/1722879381545-upcoming-tech-talk-discussing-expected-releases-and-prices-for-googles-pixel-9/"><u>Upcoming Tech Talk: Discussing Expected Releases & Prices for Google's Pixel 9</u></a></li>
 </ul></div>
 

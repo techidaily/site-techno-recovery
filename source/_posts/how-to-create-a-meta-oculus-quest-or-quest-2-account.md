@@ -1,7 +1,7 @@
 ---
 title: How to Create a Meta (Oculus) Quest or Quest 2 Account
-date: 2024-08-26T06:08:45.220Z
-updated: 2024-08-27T06:08:45.220Z
+date: 2024-12-29T16:23:31.735Z
+updated: 2025-01-04T16:18:41.781Z
 categories:
   - BestProducts
 description: This Article Describes How to Create a Meta (Oculus) Quest or Quest 2 Account
@@ -35,7 +35,15 @@ thumbnail: https://www.lifewire.com/thmb/OnFoTgOSoZm_j4AxwVvQ6cd0mec=/400x300/fi
 4. Choose or create a playlist.  
 ![Connecting and logging into a Spotify account](https://www.lifewire.com/thmb/MMgPi9SRCkLINE3_u9QOVC8reiA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004-how-to-connect-multiple-bluetooth-speakers-to-one-device-fdd808ec682943f7ad644642981de3e9-58050f8efd4b49d48f1036207bdc9a62.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Invite people to your party who can join remotely, or invite them over.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Use Audio Company Apps to Connect Multiple Bluetooth Speakers
 
@@ -44,18 +52,6 @@ thumbnail: https://www.lifewire.com/thmb/OnFoTgOSoZm_j4AxwVvQ6cd0mec=/400x300/fi
 * **Bose Connect:** This app works with Bose speakers and headphones, and a Party Mode feature streams audio to two headphones or two speakers at once.[Download Bose Connect for iOS](https://apps.apple.com/app/bose-connect/id1046510029) or[get the Android Bose Connect app](https://play.google.com/store/apps/details?id=com.bose.monet) ; the app pages list compatible devices.
 * **Ultimate Ears** : The[Ultimate Ears Boom app](https://www.ultimateears.com/features/apps.html) has a feature called PartyUp that connects and streams music to over 150 speakers—excluding the Wonderboom, Blast, and Megablast models.
 
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Use Samsung's Dual Audio Feature
 
  If you have a Samsung Galaxy S8, S+, or newer model, take advantage of the company's Bluetooth Dual Audio, which works with most Bluetooth speakers and headphones; Bluetooth 5 isn't required.
@@ -63,8 +59,9 @@ thumbnail: https://www.lifewire.com/thmb/OnFoTgOSoZm_j4AxwVvQ6cd0mec=/400x300/fi
 ![Samsung Dual Audio menu option in Android Oreo](https://www.lifewire.com/thmb/d75r_x1ppHs_RizFNh3iAdh9UaM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/SamsungDualAudio-5babcd3746e0fb002586ac64.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Samsung
 
  To enable this feature:
@@ -73,23 +70,23 @@ Samsung
  These steps apply to Samsung devices running Android 8 and higher. The settings options layout may look a little different depending on your version.  
 ![Settings, Connection and Bluetooth on Samsung S8](https://www.lifewire.com/thmb/bhxvKLBxILvwo1OeRPxKI0ByVmM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/007-how-to-connect-multiple-bluetooth-speakers-to-one-device-90b94758e2644abd995c5854ac80db73-727127bd1d1b4fbf8a7523f16277fbce.jpg)
 2. Tap**Advanced** .  
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  In earlier Android versions, tap the**three-dot menu** in the upper-right corner.
 3. Turn on the**Dual Audio** toggle switch.  
 ![Advanced, Dual audio toggle in Samsung Settings > Connections](https://www.lifewire.com/thmb/no44YZZRssjASaEHvzu-K4dnfzg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/008-how-to-connect-multiple-bluetooth-speakers-to-one-device-90b94758e2644abd995c5854ac80db73-f369686037ae47bbadee2285129af330.jpg)
 4. To use Dual Audio, pair the phone with two speakers, two headphones, or one of each, and audio will stream to both.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
-<!-- affiliate ads end -->
  If you add a third speaker, the first paired device will be booted off.
 
  If you link your Samsung with two sets of headphones, only the first connected device can manage playback using on-headphone media controls. You may also encounter Bluetooth speakers that are out of sync, so this feature is best for speakers located in separate rooms.
 
 <!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Use HomePod Stereo Pair
 
  Apple has a similar feature to Samsung's Dual Audio called HomePod Stereo Pair that allows users to pair an iPhone or Mac with two HomePod speakers.
@@ -135,8 +132,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -144,4 +139,22 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-captivating-content-with-a-click-phones-and-youtube/"><u>[Updated] In 2024, Captivating Content with a Click Phones & YouTube</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-twitch-stream-mastery-top-4-innovations-to-try/"><u>[Updated] Twitch Stream Mastery Top 4 Innovations to Try</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-infuse-vibes-into-photos-via-ig-sounds/"><u>2024 Approved Infuse Vibes Into Photos via IG Sounds</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/airpods-pro-expected-to-receive-new-hearing-aid-feature-in-ios-15-without-need-for-hardware-upgrade/"><u>AirPods Pro Expected to Receive New Hearing Aid Feature in iOS 15 Without Need for Hardware Upgrade</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/bypass-the-queue-and-secure-apples-newest-macbook-pro-and-mac-mini-instantly-expert-guide-from-zdnet/"><u>Bypass the Queue and Secure Apple's Newest MacBook Pro and Mac Mini Instantly - Expert Guide From ZDNET</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-refresh-your-desktop-zoom-version-on-both-windows-and-mac-systems/"><u>How to Refresh Your Desktop Zoom Version on Both Windows & Mac Systems</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-life360-shows-wrong-location-on-xiaomi-redmi-note-13-proplus-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Life360 Shows Wrong Location On Xiaomi Redmi Note 13 Pro+ 5G? | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/mastering-the-art-of-iphone-remote-app-repair-tips-for-smooth-operation/"><u>Mastering the Art of iPhone Remote App Repair - Tips for Smooth Operation</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/pixel-6-pro-versus-iphone-13-pro-choosing-the-ultimate-high-end-smartphone-expert-comparison-by-zdnet/"><u>Pixel 6 Pro Versus iPhone 13 Pro: Choosing the Ultimate High-End Smartphone – Expert Comparison by ZDNet</u></a></li>
+<li><a href="https://fox-that.techidaily.com/price-optimization-strategies/"><u>Price Optimization Strategies</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/protective-measures-for-young-users-configuring-parental-controls-in-discord/"><u>Protective Measures for Young Users: Configuring Parental Controls in Discord</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/step-by-step-guide-to-installing-nvidias-geforce-mx150-drivers-on-windows-systems/"><u>Step-by-Step Guide to Installing Nvidia's GeForce MX150 Drivers on Windows Systems</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/1722870932740-the-best-smartphone-applications-for-diy-house-painters-top-4-picks/"><u>The Best Smartphone Applications for DIY House Painters: Top 4 Picks!</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/why-i-choose-these-budget-friendly-xr-headsets-over-the-pricey-apple-and-meta-options-a-comprehensive-guide/"><u>Why I Choose These Budget-Friendly XR Headsets Over the Pricey Apple and Meta Options - A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/your-next-step-experience-8-custom-gpts-now/"><u>Your Next Step: Experience 8 Custom GPTs Now</u></a></li>
+</ul></div>
 

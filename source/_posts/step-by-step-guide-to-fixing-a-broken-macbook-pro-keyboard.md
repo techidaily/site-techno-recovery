@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Guide to Fixing a Broken MacBook Pro Keyboard
-date: 2024-08-26T06:08:59.562Z
-updated: 2024-08-27T06:08:59.562Z
+date: 2024-12-29T16:17:01.520Z
+updated: 2025-01-04T16:11:22.126Z
 categories:
   - BestProducts
 description: This Article Describes Step-by-Step Guide to Fixing a Broken MacBook Pro Keyboard
@@ -17,6 +17,10 @@ thumbnail: https://www.lifewire.com/thmb/hVhMBa_RT9pg9sPYv_9nH5zQxCA=/400x300/fi
 * To mute or leave a group text, go to the conversation > icons or name >**Hide Alerts** or**Delete and Block this Conversation** /**Leave This Conversation** .
 
  This article provides methods to stop unwanted texts on an iPhone. These instructions apply to the iPhone's built-in Messages app and not third-party tools.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Stop Unwanted Political Text Messages on an iPhone
 
@@ -39,14 +43,11 @@ thumbnail: https://www.lifewire.com/thmb/hVhMBa_RT9pg9sPYv_9nH5zQxCA=/400x300/fi
 ![A caller info screen with the Block Caller and Block Contact options highlighted](https://www.lifewire.com/thmb/ahanpniveoIJjKlwY-anZVzDqOg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Block-Caller-options-iPhone-3736febbadac40f7bbc9288793690309.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  To unblock a contact and get their texts again, go to**Settings** \>**Messages** \>**Blocked Contacts** \> swipe right to left across contact >**Unblock** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
-<!-- affiliate ads end -->
 ## How to Stop Unwanted Text Messages on iPhone By Filtering Unknown Senders
 
  For various reasons, you may not want to delete every text from an unknown number or person. For instance, you can miss order and appointment confirmation texts if you do. In that case, your iPhone can automatically file texts from unknown senders into a separate folder so you can review them when you have time without them cluttering up your main inbox.
@@ -58,18 +59,18 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 3. Move the**Filter Unknown Senders** slider to on/green.  
 ![The Settings app, Messages heading, and "Filter Unknown Senders" option on an iPhone](https://www.lifewire.com/thmb/lCnQVucvmXcKMmnaksO8lqPmQJE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Filter-Unknown-Texts-ab03750ad3b2433fa5837828629871fc.jpg)
 4. To see your filtered text messages, tap the arrow in the top left-corner until you get to the main Messages screen.
+
 <!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 5. Tap**Unknown Senders** to view all texts from numbers not in your contacts.  
 ![The back button and "Unknown Senders" folder in Messages on an iPhone](https://www.lifewire.com/thmb/lyjFQaH6CejDFydiYQ4jJ9dyv2Q=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Messages-filters-a02cdd8bbb4d48f7b705d997f0567522.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
-<!-- affiliate ads end -->
+
 ## How to Stop Unwanted Group Texts on an iPhone
 
  If you're in a[group text](https://www.lifewire.com/text-multiple-people-using-iphone-2000555) that's just too chatty, you can silence notifications of messages or leave the group entirely by following these steps
@@ -84,8 +85,9 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
  Change your mind and want to rejoin the group text? You can ask one of the other people in the chat to add you back. Or, if the thread has both iPhone and Android users and it's been less than 30 days since you left, tap the arrow in the top left until you get to the main Messages screen >**Recently Deleted** \> tap the thread >**Recover** .
 
 <!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Block Texts With the Do Not Call Registry
 
  Another place to stop annoying communications to your phone is the National Do Not Call Registry. This government program attempts to enforce your preference to not get unwanted calls from marketers and other potential annoyances in the United States.
@@ -116,8 +118,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -125,4 +125,26 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-navigating-video-dimensions-on-instagram-today-and-tomorrow/"><u>[New] 2024 Approved Navigating Video Dimensions on Instagram Today & Tomorrow</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-mediacutmaster-review-in-depth-evaluation/"><u>[Updated] MediaCutMaster Review – In-Depth Evaluation</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-smoothshot-stabilizing-technology-on-the-move-for-2024/"><u>[Updated] SmoothShot Stabilizing Technology on the Move for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-ultimate-phone-background-blur-companion/"><u>[Updated] Ultimate Phone Background Blur Companion</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-unlocking-iphone-x-ease-mending-face-id-problems/"><u>2024 Approved Unlocking iPhone X Ease Mending Face ID Problems</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/diagnosing-and-repairing-missing-xinput1n3dll-files-in-gaming-controllers/"><u>Diagnosing and Repairing Missing xinput1_n_3.dll Files in Gaming Controllers</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discover-why-apples-vision-pro-is-a-silent-game-changer-expert-opinions-revealed/"><u>Discover Why Apple's Vision Pro Is a Silent Game-Changer: Expert Opinions Revealed!</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/enabling-others-to-access-your-informed-chatgpt-journey/"><u>Enabling Others to Access Your Informed ChatGPT Journey</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/from-roaring-rumble-to-silent-streamline-correcting-issues-with-loud-computer-fans/"><u>From Roaring Rumble to Silent Streamline: Correcting Issues with Loud Computer Fans</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-disabled-apple-iphone-xripad-without-computer-drfone-by-drfone-ios/"><u>How to Unlock Disabled Apple iPhone XR/iPad Without Computer | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-apply-these-techniques-to-improve-how-to-detect-fake-gps-location-on-vivo-v30-lite-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Apply These Techniques to Improve How to Detect Fake GPS Location On Vivo V30 Lite 5G | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/iphone-16-marks-major-improvement-in-repairability-compared-to-last-generation-reveals-apple-technews/"><u>IPhone 16 Marks Major Improvement in Repairability Compared to Last Generation, Reveals Apple | TechNews</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/1722903143332-is-the-latest-iphone-15-pro-max-built-to-survive-underwater-find-out-here/"><u>Is The Latest iPhone 15 Pro Max Built to Survive Underwater? Find Out Here</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/mastering-iphones-advanced-features-discover-and-utilize-obscure-voice-control-tricks-for-enhanced-performance/"><u>Mastering iPhone's Advanced Features: Discover and Utilize Obscure Voice Control Tricks for Enhanced Performance</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-the-quick-access-routine-add-onedrive-as-first-step/"><u>Mastering the Quick Access Routine: Add OneDrive as First Step</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/sonys-upcoming-virtual-reality-device-anticipated-launch-date-and-pricing-details-unveiled/"><u>Sony's Upcoming Virtual Reality Device: Anticipated Launch Date & Pricing Details Unveiled</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-ultimate-how-to-unrepeating-content-on-tiktok-easily-explained/"><u>The Ultimate How-To: Unrepeating Content on TikTok Easily Explained</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unveiling-the-latest-gratis-ai-upgrades-skyrocket-productivity-for-apple-programmers-zdnet/"><u>Unveiling the Latest: Gratis AI Upgrades Skyrocket Productivity for Apple Programmers - ZDNet</u></a></li>
+<li><a href="https://win-tutorials.techidaily.com/verifying-your-network-adapters-performance-a-comprehensive-guide-by-yl-computing/"><u>Verifying Your Network Adapter's Performance: A Comprehensive Guide by YL Computing</u></a></li>
+</ul></div>
 

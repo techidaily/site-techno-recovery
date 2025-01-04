@@ -1,7 +1,7 @@
 ---
 title: How to Diagnose and Repair ntdll.dll Glitches on Windows 10, 8, 7, Etc.
-date: 2024-08-26T06:07:53.102Z
-updated: 2024-08-27T06:07:53.102Z
+date: 2025-01-03T16:12:49.105Z
+updated: 2025-01-04T16:19:09.796Z
 categories:
   - BestProducts
 description: This Article Describes How to Diagnose and Repair ntdll.dll Glitches on Windows 10, 8, 7, Etc.
@@ -16,6 +16,10 @@ thumbnail: https://www.lifewire.com/thmb/3yRGUVZuciG5hPkgpujq2BfCLNs=/400x300/fi
 
  Many of the tips in this article apply to wet iPods, too. We also have full details on[saving a wet iPad](https://www.lifewire.com/save-wet-ipad-4128943) .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Dry Out and Fix a Wet iPhone
 
  Follow these steps to try to save your wet iPhone:
@@ -26,6 +30,10 @@ thumbnail: https://www.lifewire.com/thmb/3yRGUVZuciG5hPkgpujq2BfCLNs=/400x300/fi
 4. **Remove the SIM card.** The more drying air that gets inside the wet iPhone, the better. You[can't remove the battery](https://www.lifewire.com/how-long-do-ipod-batteries-last-2000142) and there aren't many other openings, but you can[remove the SIM card](https://www.lifewire.com/what-is-iphone-sim-card-2000363) . The SIM slot isn't large, but every little bit helps. Just don't lose your SIM card!
 5. **Leave it in a warm place.** Once you've gotten as much water as possible out of the phone, keep your device off and leave it somewhere warm to dry. Some people leave wet iPods or iPhones on the top of a TV, where the heat from the TV helps dry the device. Others prefer a sunny windowsill. Choose whatever tactic you like. Let it dry a day or two.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Don't Do This to a Wet iPhone
 
  If your iPhone is soaked, what you don't do is just as important as what you do. If you're not careful, you might accidentally do something that could further damage your device. So, if your iPhone or iPod is wet, don't do the following:
@@ -34,13 +42,9 @@ thumbnail: https://www.lifewire.com/thmb/3yRGUVZuciG5hPkgpujq2BfCLNs=/400x300/fi
 2. **Don't use a hair dryer.** While this technique has worked for some people, you can also damage your device or spread the water around more. It's best to avoid fans for the same reason. Don't leave your device on a radiator, either. That will get much[too hot and could damage the phone in other ways](https://www.lifewire.com/red-iphone-battery-icon-help-2000272) .
 
 <!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Advanced Techniques for Fixing a Wet iPhone
 
  The simplest and probably safest method to save a wet iPhone is to let it dry out naturally. But there are a couple of advanced options you can try to speed up the process:
@@ -49,9 +53,6 @@ thumbnail: https://www.lifewire.com/thmb/3yRGUVZuciG5hPkgpujq2BfCLNs=/400x300/fi
 2. **Put it in rice.** This is the most famous technique (though not necessarily the best). Get a ziplock bag big enough to hold the wet iPhone or iPod and some rice. Re-insert the SIM card, put the device in the bag, and fill most of the bag with uncooked rice. Leave it in the bag for a couple of days. The rice should draw the moisture out of the device. Many a wet iPhone has been saved this way. Just watch out for pieces of rice getting inside the phone.  
  Don't use enriched rice. It can leave dust behind that can get into your phone.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## Try This Only If You're Desperate to Fix Your Wet iPhone
 
  If you're really desperate, or really skilled, you can try this option—but you better know what you're doing. You can ruin your iPhone and[void your warranty](https://www.lifewire.com/iphone-warranty-plus-applecare-1999284) .
@@ -59,10 +60,6 @@ thumbnail: https://www.lifewire.com/thmb/3yRGUVZuciG5hPkgpujq2BfCLNs=/400x300/fi
 1. **Take it apart.** You can take your iPhone apart to dry out the wet parts. Separate the parts to air dry or leave them in a bag of rice for a day or two and then re-assemble the device.  
  This is very risky. Unless you really, really know what you're doing, you're likely to do more harm than good and should avoid this. Don't say we didn't warn you.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
-</a>
-<!-- affiliate ads end -->
 ## Try the Experts on Saving a Wet iPhone
 
  Don't want to take on this task yourself? Try the folks with experience in repairing wet iPhones and iPods.
@@ -71,8 +68,9 @@ thumbnail: https://www.lifewire.com/thmb/3yRGUVZuciG5hPkgpujq2BfCLNs=/400x300/fi
 2. **Try Apple.**  While moisture damage isn't covered by Apple's warranty, Apple will repair iPhones that have water damaged. Different models have different repair prices, so[keep an eye on this page on Apple's site](https://support.apple.com/iphone/repair) for the latest details.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Check for Water Damage in a Used iPhone or iPod
 
  If you're[buying a used iPhone or iPod](https://www.lifewire.com/check-if-used-iphone-is-stolen-1999376) or lent someone your device and now it's not working so well, you want to check if it got wet. You can do this using the moisture indicator built into iPods and iPhones.
@@ -81,9 +79,6 @@ thumbnail: https://www.lifewire.com/thmb/3yRGUVZuciG5hPkgpujq2BfCLNs=/400x300/fi
 
 [The moisture indicator is far from foolproof](https://www.cnet.com/tech/tech-industry/apple-settles-iphone-water-damage-lawsuit-for-53m/) . But, if you see the orange dot, you need to at least consider that the device may have had a bad experience with water.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Software Tips for Dealing with a Wet iPhone
 
  After you've dried your iPhone or iPod, it may start up just fine and work as though nothing happened. But many people encounter some software problems when they first try using it. Try these tips, which also apply to[iPod touch](https://www.lifewire.com/ipod-touch-everything-to-know-1999772) and iPad, for dealing with some of the common problems:
@@ -92,8 +87,9 @@ thumbnail: https://www.lifewire.com/thmb/3yRGUVZuciG5hPkgpujq2BfCLNs=/400x300/fi
 * [How to Fix an iPhone Stuck at the Apple Logo](https://www.lifewire.com/how-to-fix-an-iphone-stuck-on-the-apple-logo-2000268) .
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Waterproof iPhones: iPhone 7 and Newer
 
  Probably the easiest—but not the cheapest—way to save a wet iPhone is to get one that resists water damage in the first place.
@@ -122,8 +118,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -131,4 +125,22 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-a-detailed-step-by-step-guide-to-using-telegram-desktop/"><u>[New] 2024 Approved A Detailed Step-By-Step Guide To Using Telegram Desktop</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-dive-into-social-media-streams-watching-facebook-live-on-roku-for-2024/"><u>[Updated] Dive Into Social Media Streams Watching Facebook Live on Roku for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-master-the-craft-three-secrets-to-perfectly-saving-streamed-discords/"><u>[Updated] In 2024, Master the Craft Three Secrets to Perfectly Saving Streamed Discords</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-samsungs-2023-revamp-bd-j5900-explored/"><u>2024 Approved Samsung's 2023 Revamp BD-J5900 Explored</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-screen-free-serenity-top-10-indoor-games-for-non-networked-play-android/"><u>2024 Approved Screen-Free Serenity Top 10 Indoor Games for Non-Networked Play (Android)</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/android-vs-ios-a-comparison-of-five-key-areas-for-improvement-to-challenge-apples-dominance-according-to-experts-at-zdnet/"><u>Android Vs. IOS: A Comparison of Five Key Areas for Improvement to Challenge Apple's Dominance, According to Experts at ZDNet</u></a></li>
+<li><a href="https://win-popular.techidaily.com/exclusive-premium-football-visuals-for-pc-full-hd-wallsavers-from-yl-software-innovations/"><u>Exclusive Premium Football Visuals for PC: Full HD Wallsavers From YL Software Innovations</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/free-premier-sporting-and-exerceboard-applications-for-ios-android-devices-and-apple-wristwatches/"><u>Free Premier Sporting and Exerceboard Applications for iOS, Android Devices & Apple Wristwatches</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-sharefake-location-on-whatsapp-for-samsung-galaxy-f54-5g-drfone-by-drfone-virtual-android/"><u>How to Share/Fake Location on WhatsApp for Samsung Galaxy F54 5G | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ipad-showdown-choosing-between-the-m1-and-m2-models-the-ultimate-guide-tech-reviews/"><u>IPad Showdown: Choosing Between the M1 and M2 Models - The Ultimate Guide Tech Reviews</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/quick-guide-how-to-seamlessly-transfer-and-clone-windows-server-2012-onto-a-new-ssd/"><u>Quick Guide: How to Seamlessly Transfer and Clone Windows Server 2012 Onto a New SSD</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/tech-triumph-apple-developers-ecstatic-as-their-key-software-receives-monumental-complimentary-ai-upgrade-explore/"><u>Tech Triumph: Apple Developers Ecstatic as Their Key Software Receives Monumental, Complimentary AI Upgrade - Explore !</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/toggle-network-visibility-settings-in-windows-11-with-ease/"><u>Toggle Network Visibility Settings in Windows 11 with Ease</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-rated-wet-proof-smart-timepieces-comprehensive-ratings-and-insights-by-tech-experts/"><u>Top-Rated Wet-Proof Smart Timepieces - Comprehensive Ratings & Insights by Tech Experts</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/upcoming-google-gathering-insider-information-and-latest-updates/"><u>Upcoming Google Gathering: Insider Information & Latest Updates</u></a></li>
+</ul></div>
 

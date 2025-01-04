@@ -1,7 +1,7 @@
 ---
 title: "PS4 Screen Capture Guide: Simple Steps to Taking Perfect Screenshots"
-date: 2024-08-26T06:09:27.474Z
-updated: 2024-08-27T06:09:27.474Z
+date: 2025-01-01T16:15:59.977Z
+updated: 2025-01-04T16:21:25.729Z
 categories:
   - BestProducts
 description: "This Article Describes PS4 Screen Capture Guide: Simple Steps to Taking Perfect Screenshots"
@@ -29,8 +29,9 @@ thumbnail: https://thmb.techidaily.com/b918b2416ccc3c3bc24e5dbb4922efd59cd6316c8
 [16 Ways To Fix It When Print Screen Is Not Working in Windows](https://www.lifewire.com/fix-print-screen-not-working-5442833)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fullscreen Screenshot and Auto-save to Folder
 
  `Win+PrtSc`
@@ -42,13 +43,15 @@ thumbnail: https://thmb.techidaily.com/b918b2416ccc3c3bc24e5dbb4922efd59cd6316c8
 ![ Screenshot folder with picture inside on Windows 11.](https://www.lifewire.com/thmb/9JnkOkVNK4-g810E3yMqwhOjIcY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/windows-11-screenshots-615d31976db445bb9f725b510becd850.png)
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 [How to Screenshot on a Logitech Keyboard](https://www.lifewire.com/take-screenshot-with-logitech-keyboard-5186441)
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Screenshot Part of the Screen
 
  `Win+Shift+S`
@@ -65,8 +68,9 @@ thumbnail: https://thmb.techidaily.com/b918b2416ccc3c3bc24e5dbb4922efd59cd6316c8
 ![Windows 11 snip tool capturing calculator. ](https://www.lifewire.com/thmb/DxIz1nlXgizX8YqQ1wgTdi_r9eE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/snip-tool-windows-11-30e70f87ddfc45799a2dc78ebd4dc0b0.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  To avoid memorizing this shortcut, you can tie it to the PrtSc button so that when you press it, this same menu shows up automatically. To do this, go to**Settings** \>**Accessibility** \>**Keyboard** , and then turn on**Use the Print screen key to open screen capture** .
 
  After choosing one of those options, the image will be saved to the clipboard, which you can paste into an email or some other program that accepts pasting pictures.
@@ -76,8 +80,9 @@ thumbnail: https://thmb.techidaily.com/b918b2416ccc3c3bc24e5dbb4922efd59cd6316c8
 ![A Windows 11 screenshot open in Snipping Tool](https://www.lifewire.com/thmb/n8hloKQGZfQTHNEMKqTmWZC4D_M=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/windows-11-snipping-tool-cfcc4b1e0c154d509e2d312ce4538e4e.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Delayed Screenshots With Snipping Tool
 
  Pull up the search button from the taskbar and enter**Snipping Tool** to open the app. This tool was briefly covered above, but what we'll look at now is the delayed screenshot function.
@@ -86,10 +91,6 @@ thumbnail: https://thmb.techidaily.com/b918b2416ccc3c3bc24e5dbb4922efd59cd6316c8
 
  With the program open, select the**stopwatch** . There are three options:**3-second delay** ,**5-second delay** , and**10-second delay** . Select one, choose**New** , and then quickly arrange the screen in the way you need it for the screenshot. When the time you chose is reached, the four options above will display at the top of the screen.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ## Tips for Taking Screenshots in Windows 11
 
 * Once an image is loaded in Snipping Tool, use the crop tool to define further which part you want to keep without needing to retake the screenshot.
@@ -127,8 +128,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -136,4 +135,21 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-guidance.techidaily.com/updated-unlock-creative-potential-with-expert-macro-video-cinematography-guidance/"><u>[Updated] Unlock Creative Potential with Expert Macro Video Cinematography Guidance</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-the-ultimate-5-workstations-for-creative-professionals-in-graphic-design-zdnet/"><u>Discover the Ultimate 5 Workstations for Creative Professionals in Graphic Design - ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/early-bird-alert-grab-your-apple-m2-macbook-air-for-just-800-on-amazon-beating-the-october-prime-day-rush-gadget-trends/"><u>Early Bird Alert: Grab Your Apple M2 MacBook Air for Just $800 on Amazon, Beating the October Prime Day Rush | Gadget Trends</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/from-raw-footage-to-social-stardom-the-art-of-video-cropping-on-instagram-for-2024/"><u>From Raw Footage to Social Stardom The Art of Video Cropping on Instagram for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-fix-disc-reading-issues-on-your-nintendo-wii-console/"><u>How to Fix Disc Reading Issues on Your Nintendo Wii Console</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-itel-p55-5g-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>How to Unlock Itel P55 5G Pattern Lock if Forgotten? 6 Ways</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-spy-on-text-messages-from-computer-and-nubia-z50-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, How to Spy on Text Messages from Computer & Nubia Z50 Ultra | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/iphone-16-pro-vs-iphone-14-pro-comparison-evaluating-whether-its-time-for-an-upgrade-insights-from-tech-experts-at-zdnet/"><u>IPhone 16 Pro Vs. IPhone 14 Pro Comparison: Evaluating Whether It's Time for an Upgrade - Insights From Tech Experts at ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/iphone-16s-new-camera-boasts-google-lens-capabilities-bringing-advanced-image-recognition-by-apple/"><u>IPhone 16'S New Camera Boasts Google Lens Capabilities, Bringing Advanced Image Recognition by Apple</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ize-youtube-video-the-ultimate-guide-to-ad-revenue-for-2024/"><u>Monetize YouTube Video | The Ultimate Guide to Ad Revenue for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/prime-fb-experience-the-ultimate-ten-players/"><u>Prime FB Experience The Ultimate Ten Players</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-mobile-savings-on-independence-day-discover-the-best-cell-phone-bargains/"><u>Top Mobile Savings on Independence Day: Discover the Best Cell Phone Bargains</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-rated-iphone-vpn-apps-you-need-to-try-comprehensive-reviews-by-tech-gurus-digital-trends/"><u>Top-Rated iPhone VPN Apps You Need to Try - Comprehensive Reviews by Tech Gurus | Digital Trends</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/your-ultimate-guide-to-top-5-ios-tools-for-extracting-facebook-videos/"><u>Your Ultimate Guide to Top 5 iOS Tools for Extracting Facebook Videos</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: The Ultimate List of Tricks to Go Viral and Boost Your Presence on TikTok
-date: 2024-12-23T08:01:35.273Z
-updated: 2024-12-25T20:31:28.872Z
+date: 2024-12-31T16:12:06.622Z
+updated: 2025-01-04T16:15:33.148Z
 categories:
   - BestProducts
 description: This Article Describes The Ultimate List of Tricks to Go Viral and Boost Your Presence on TikTok
@@ -20,7 +20,7 @@ thumbnail: https://www.lifewire.com/thmb/YbDBqWuVP0UM_nU0--_fa-ISvG0=/400x300/fi
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Enable Gmail Shortcuts
@@ -31,12 +31,12 @@ thumbnail: https://www.lifewire.com/thmb/YbDBqWuVP0UM_nU0--_fa-ISvG0=/400x300/fi
 ![The Settings item highlighted in the Gear menu on Gmail.](https://www.lifewire.com/thmb/KOGC658202lNPjWZrUD1uiPo8qY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A1-BestGmailKeyboardShortcuts-annotated-927d539b94624bf7baa0a371166f8382.jpg)
 2. Scroll down to the **Keyboard shortcuts** section and select **Keyboard shortcuts on** .  
 
-![The Keyboard Shortcuts on/off buttons highlighted on Gmail's Settings screen.](https://www.lifewire.com/thmb/lPV2-ew-bY8v5xkR1Y6pZ0fLprc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A2-BestGmailKeyboardShortcuts-annotated-639cd7b44f654d4a9fc5e371f7ebae28.jpg)
-3. Scroll to the bottom of the page and select **Save Changes** .  
-
 <!-- affiliate ads begin -->
 <iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![The Keyboard Shortcuts on/off buttons highlighted on Gmail's Settings screen.](https://www.lifewire.com/thmb/lPV2-ew-bY8v5xkR1Y6pZ0fLprc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A2-BestGmailKeyboardShortcuts-annotated-639cd7b44f654d4a9fc5e371f7ebae28.jpg)
+3. Scroll to the bottom of the page and select **Save Changes** .  
 
 ![The Save Changes button highlighted on Gmail's Settings screen.](https://www.lifewire.com/thmb/Ti1cWFQAWPKtDw4DsaTTA96KzR0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A3-BestGmailKeyboardShortcuts-annotated-bab1aa8c28204ee494f3daa266fd0100.jpg)
 
@@ -51,12 +51,20 @@ thumbnail: https://www.lifewire.com/thmb/YbDBqWuVP0UM_nU0--_fa-ISvG0=/400x300/fi
 
  On Macs, use the**Command** key in place of the**Ctrl** key.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Reply to Email
 
  By using the**R** and**A** keys, you can quickly reply to[email messages](https://www.lifewire.com/electronic-mail-overview-1164107) or send to multiple recipients:
 
 * **Reply to a message (R)** : Press**R** to reply to an open message.
 * **Reply to all (A)** : Press**A** to reply to all recipients of a message.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Scroll Through Emails
 
@@ -66,19 +74,11 @@ thumbnail: https://www.lifewire.com/thmb/YbDBqWuVP0UM_nU0--_fa-ISvG0=/400x300/fi
 * **Scroll up an email list (K)** : Press the**K** key to scroll up.
 * **Scroll through an email thread (N)** : Press**N** to quickly scroll down multiple conversations in a thread.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Select Multiple Emails
 
  Need to select a bunch of emails at the same time? This shortcut will save you from having to click on each email separately:
 
 * **Select multiple emails in a row (Shift)** : Check the box beside the first email in the series, then press and hold the**Shift** key and check the box for the last email in the series. Everything between both boxes will be selected.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to Add Formatting to Email Text
 
@@ -91,10 +91,6 @@ thumbnail: https://www.lifewire.com/thmb/YbDBqWuVP0UM_nU0--_fa-ISvG0=/400x300/fi
 
  On Mac computers, use the**Command** key in place of the**Ctrl** key.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Add Elements to an Email
 
  Addling links, numbered lists, and bullet points to your emails can also be done using keyboard shortcuts:
@@ -104,6 +100,10 @@ thumbnail: https://www.lifewire.com/thmb/YbDBqWuVP0UM_nU0--_fa-ISvG0=/400x300/fi
 * **Insert bullet points (Ctrl** +**Shift** +**8)** : Insert the cursor where you want the bullet list to appear, then press**Ctrl** +**Shift** +**8** .
 
  On Mac computers, use the**Command** key in place of the**Ctrl** key.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Email Maintenance Shortcuts
 
@@ -164,22 +164,24 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-next-level-techniques-outperforming-fbx-recording/"><u>[New] Next-Level Techniques Outperforming FBX Recording</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-perfect-your-gif-game-on-windows-nine-best-capture-software/"><u>[New] Perfect Your GIF Game on Windows Nine Best Capture Software</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-infinix-hot-40i-drfone-by-drfone-virtual-android/"><u>4 solution to get rid of pokemon fail to detect location On Infinix Hot 40i | Dr.fone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/affordable-travel-companion-how-this-low-cost-power-station-enhanced-my-road-trips-according-to-zdnet-analysis/"><u>Affordable Travel Companion: How This Low-Cost Power Station Enhanced My Road Trips, According to ZDNET Analysis</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/an-unforeseen-delight-my-experience-with-the-ring-spotlight-cam-pro-reviewed-by-zdnet/"><u>An Unforeseen Delight: My Experience with the Ring Spotlight Cam Pro Reviewed by ZDNet</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/battery-life/"><u>Battery Life</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/beat-the-heat-with-sonys-top-rated-travel-tunes-in-depth-analysis-of-their-newest-portable-audio-marvels/"><u>Beat the Heat with Sony's Top-Rated Travel Tunes: In-Depth Analysis of Their Newest Portable Audio Marvels</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/breaking-down-language-barriers-with-chatgpts-intuitive-design/"><u>Breaking Down Language Barriers with ChatGPT's Intuitive Design</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/discover-the-best-easy-to-assemble-inflatable-pool-models-of-2022-a-curated-list-of-top-choices-for-hassle-free-fun/"><u>Discover the Best Easy-to-Assemble Inflatable Pool Models of 2022: A Curated List of Top Choices for Hassle-Free Fun</u></a></li>
-<li><a href="https://techidaily.com/how-to-hard-reset-realme-c67-4g-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Realme C67 4G Without Password | Dr.fone</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-reset-the-security-questions-of-your-apple-id-from-your-apple-iphone-11-pro-max-by-drfone-ios/"><u>How To Reset the Security Questions of Your Apple ID From Your Apple iPhone 11 Pro Max</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-realme-10t-5g-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Realme 10T 5G to Other Android Devices? | Dr.fone</u></a></li>
-<li><a href="https://discover-exclusive.techidaily.com/tackling-large-dropbox-items-on-your-mac-a-guide-to-freeing-up-space/"><u>Tackling Large Dropbox Items on Your Mac - A Guide to Freeing Up Space</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/top-rated-portable-solar-power-banks-featured-on-zdnet/"><u>Top-Rated Portable Solar Power Banks - Featured on ZDNet</u></a></li>
-<li><a href="https://win-blog.techidaily.com/troubleshooting-guide-eliminating-pc-crashes-while-playing-hearthstone/"><u>Troubleshooting Guide: Eliminating PC Crashes While Playing Hearthstone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/unmissable-way-day-promotions-top-deals-and-discounts-in-stock/"><u>Unmissable Way Day Promotions - Top Deals & Discounts in Stock!</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/zdnet-uncovers-the-remarkable-performance-of-the-ring-spotlight-cam-pro-in-advanced-security-solutions/"><u>ZDNet Uncovers the Remarkable Performance of the Ring Spotlight Cam Pro in Advanced Security Solutions</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-streamlining-your-filming-setup-the-beginners-companion/"><u>[New] In 2024, Streamlining Your Filming Setup The Beginner's Companion</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-streamlining-mov-files-on-windows-11-os/"><u>[New] Streamlining MOV Files on Windows 11 OS</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-the-key-to-profit-youtube-shorts-insights/"><u>[New] The Key to Profit YouTube Shorts Insights</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solved-how-to-fix-street-fighter-6-lag-and-high-ping-on-pc/"><u>[Solved] How to Fix Street Fighter 6 Lag and High Ping on PC</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-light-up-your-youtube-content-with-17-tools/"><u>[Updated] 2024 Approved Light Up Your YouTube Content with #17 Tools</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-capture-perfection-5-expert-tips-for-games-and-live-footage/"><u>[Updated] In 2024, Capture Perfection 5 Expert Tips for Games & Live Footage</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/1-ultimate-guide-restoring-factory-settings-on-airpods-tips-and-timing-insights/"><u>1. Ultimate Guide: Restoring Factory Settings on AirPods – Tips & Timing Insights</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/apples-top-tablets-face-off-discover-which-one-suits-your-needs-ipad-pro-or-ipad-air-cnet-reviews/"><u>Apple's Top Tablets Face-Off: Discover Which One Suits Your Needs, iPad Pro or iPad Air? | CNET Reviews</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/breaking-down-the-newest-july-windows-update-schedule/"><u>Breaking Down the Newest July Windows Update Schedule</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/comparing-apples-homepod-and-homepod-mini-choosing-the-perfect-smart-speaker/"><u>Comparing Apple’s HomePod and HomePod Mini: Choosing the Perfect Smart Speaker</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/complete-guide-access-apple-device-user-manuals-detailed-specifications-and-comprehensive-repair-instructions/"><u>Complete Guide: Access Apple Device User Manuals, Detailed Specifications & Comprehensive Repair Instructions</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/find-your-perfect-rechargeable-airtag-companion-for-wallets-not-from-apple-expert-guide-at-zdnet/"><u>Find Your Perfect Rechargeable AirTag Companion for Wallets (Not From Apple!) | Expert Guide at ZDNET</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-repair-and-restore-haldll-components-in-your-windows-xp-machine/"><u>How to Repair and Restore hal.dll Components in Your Windows XP Machine</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-poco-c51-drfone-by-drfone-virtual-android/"><u>In 2024, 4 solution to get rid of pokemon fail to detect location On Poco C51 | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-google-chrome-from-tracking-your-location-on-lava-storm-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop Google Chrome from Tracking Your Location On Lava Storm 5G? | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-strategic-roadmap-for-apple-saving-visionpro-with-key-innovations-and-market-savvy/"><u>The Strategic Roadmap for Apple: Saving VisionPro with Key Innovations & Market Savvy</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/top-rated-business-travelers-tablet-a-non-microsoft-non-lenovo-gem-uncovered-on-zdnet/"><u>Top-Rated Business Traveler's Tablet: A Non-Microsoft, Non-Lenovo Gem Uncovered on ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/walmarts-ultimate-christmas-and-new-year-bargains-explore-the-top-100-deals-on-zdnet/"><u>Walmart's Ultimate Christmas and New Year Bargains: Explore the Top 100 Deals on ZDNet</u></a></li>
+<li><a href="https://win-answers.techidaily.com/yakuza-3-remastered-stability-guide-for-pc-gamers/"><u>Yakuza 3 Remastered Stability Guide for PC Gamers</u></a></li>
 </ul></div>
 

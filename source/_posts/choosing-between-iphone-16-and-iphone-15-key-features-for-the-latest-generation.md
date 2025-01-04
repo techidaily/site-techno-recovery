@@ -1,7 +1,7 @@
 ---
 title: "Choosing Between iPhone 16 and iPhone 15: Key Features for the Latest Generation"
-date: 2024-12-19T07:24:20.603Z
-updated: 2024-12-25T17:51:18.349Z
+date: 2025-01-03T16:17:58.707Z
+updated: 2025-01-04T16:17:19.041Z
 tags:
   - apple
 categories:
@@ -28,10 +28,6 @@ To help you make this decision, we've broken down all of the most important deta
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Specifications
 
 | Specs        | **iPhone 16**                                                                                                                                                                                                    | **iPhone 15**                                                                                                                                                                                                    |
@@ -49,6 +45,10 @@ To help you make this decision, we've broken down all of the most important deta
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  You should buy the iPhone 16 if...
 
 Kerry Wan/ZDNET
@@ -61,10 +61,6 @@ Apple is rolling out [multiple AI features to the iPhone 16](https://www.zdnet.c
 
 There is more to the AI features beyond Siri. Apple Intelligence will be able to summarize notifications and Priority Messages in the Mail app. Like Siri, the feature will be able to understand context. [Apple Intelligence](https://www.zdnet.com/article/what-is-apple-intelligence-everything-to-know-about-ai-features-coming-to-iphones-macs-and-ipads/) will gain additional features later in the year like the ability to create custom emojis and perform multiple actions across apps.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ###  2\. You want a better photography experience
 
 The [iPhone 16](https://www.zdnet.com/article/every-iphone-16-model-compared-which-new-iphone-should-you-buy/) is seeing a new camera array. On the back will be a 48MP Fusion camera serving as the main lens. It'll have a 2x Telephoto option for up-close photography. Apple states it'll be like having "two cameras in one." Alongside it will be a 12MP Ultra Wide lens with an autofocus function that can enable "macro photography." It can also take in "2.6x times more light \[than before\] for higher image quality." 
@@ -74,7 +70,7 @@ The [iPhone 16](https://www.zdnet.com/article/every-iphone-16-model-compared-whi
 On the side below the [Power Button is the new Camera Control](https://www.zdnet.com/article/every-iphone-16-model-features-a-new-camera-button-heres-what-it-can-do/). It's a tactile switch with a special sensor that can perform unique actions with a light touch. For example, pressing it quickly launches the Camera app for taking quick snapshots or recording a video. It even introduces a preview feature to help you frame the shot. And if that wasn't enough, it'll work with third-party apps.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  3\. You want "next-level performance"
@@ -95,12 +91,16 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  You should buy the iPhone 15 if...
 
 Kerry Wan/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  1\. You don't require the generative AI capabilities
@@ -112,7 +112,7 @@ All of the bells and whistles on the iPhone 16 are certainly nice, but are they 
 Sometimes, it's best to wait until all the bugs have been ironed out. Plus, there's a lot of uncertainty surrounding the chipset. Early impressions indicate the A18 can handle all the AI features, but can it? Or will we see a performance drop once it launches? 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  2\. You're on a budget
@@ -157,22 +157,22 @@ It wouldn't be a bad pick-up, either. The camera system of the previous generati
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-apex-screen-capture-tools-the-elite-line-up/"><u>[Updated] In 2024, Apex Screen Capture Tools The Elite Line-Up</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/a-comprehensive-walkthrough-installing-the-open-source-ms-office-substitute-libreoffice-on-your-mac-computer/"><u>A Comprehensive Walkthrough: Installing the Open-Source MS Office Substitute, LibreOffice, on Your Mac Computer</u></a></li>
-<li><a href="https://discover-comparisons.techidaily.com/comment-resoudre-le-probleme-de-centre-de-synchronisation-sous-windows-10-qui-ne-fonctionne-pas/"><u>Comment Résoudre Le Problème De Centre De Synchronisation Sous Windows 10 Qui Ne Fonctionne Pas ?</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/cutting-edge-tech-treasures-for-thrifty-explorers/"><u>Cutting-Edge Tech Treasures for Thrifty Explorers</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/essential-vlogging-tools-for-beginners-for-2024/"><u>Essential Vlogging Tools for Beginners for 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/excellent-buys-for-4k-shooting-on-a-budget-(1000/"><u>Excellent Buys for 4K Shooting on a Budget <$1,000</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/how-to-recover-when-your-computer-cant-find-mscorwksdll/"><u>How To Recover When Your Computer Can't Find mscorwks.dll</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/how-to-seamlessly-set-up-psvr-on-a-windows-or-mac-computer/"><u>How to Seamlessly Set Up PSVR on a Windows or Mac Computer</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/in-depth-look-playstation-ports-specs-cost-and-where-to-secure-your-copy-on-launch-day/"><u>In-Depth Look: PlayStation Port's Specs, Cost & Where to Secure Your Copy on Launch Day</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/master-tips-fixing-steamdll-file-not-located-or-missing-issues/"><u>Master Tips: Fixing 'Steam.dll File Not Located' Or Missing Issues</u></a></li>
-<li><a href="https://solve-manuals.techidaily.com/movavis-free-web-service-convert-videos-from-flv-format-to-swf-online-instantly/"><u>Movavi's Free Web Service: Convert Videos From FLV Format to SWF Online Instantly!</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/navigate-through-our-favourites-5-leading-free-worldwide-voice-applications/"><u>Navigate Through Our Favourites: 5 Leading Free Worldwide Voice Applications</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/optimal-vision-selections-of-best-4k-dslrs-in-action-for-2024/"><u>Optimal Vision Selections of Best 4K DSLRs in Action for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/1722894324683-planning-your-apple-store-visit-heres-how-to-make-a-quick-and-easy-appointment/"><u>Planning Your Apple Store Visit? Here's How to Make a Quick and Easy Appointment.</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/resolving-mobile-errors-9-steps-to-get-your-iphones-chatgpt-up-and-running-again/"><u>Resolving Mobile Errors: 9 Steps to Get Your iPhone's ChatGPT Up and Running Again</u></a></li>
-<li><a href="https://win-dash.techidaily.com/simple-steps-updating-and-downloading-amd-graphics-card-software/"><u>Simple Steps: Updating & Downloading AMD Graphics Card Software</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/solving-the-connection-problem-a-guide-to-repairing-apple-watch-pairing-issues/"><u>Solving the Connection Problem: A Guide to Repairing Apple Watch Pairing Issues</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-instagram-enhancement-picture-posting-guide/"><u>2024 Approved Instagram Enhancement Picture Posting Guide</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/conquering-viewersphere-channels-that-rule-the-net-for-2024/"><u>Conquering Viewersphere Channels that Rule the Net for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/effective-solutions-for-cygwin1dll-not-detected-error-messages/"><u>Effective Solutions for 'Cygwin1.dll' Not Detected Error Messages</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/essential-accessories-for-your-freshly-bought-iphone-next-week-discover-the-best-choices-latest-review-of-anker-products/"><u>Essential Accessories for Your Freshly Bought iPhone Next Week - Discover the Best Choices Latest Review of Anker Products</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/expert-advice-on-reactivating-your-airpods-after-a-stubborn-reset-problem/"><u>Expert Advice on Reactivating Your AirPods After a Stubborn Reset Problem</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exploring-chatgpt-capabilities-a-guide-to-utilizing-its-inherent-modules/"><u>Exploring ChatGPT Capabilities: A Guide to Utilizing Its Inherent Modules</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/find-the-absolute-deviations-from-the-mean-7-118-9-118-14-118-20-118-8-118-13-118/"><u>Find the Absolute Deviations From the Mean: $|7 - 11.8|, |9 - 11.8|, |14 - 11.8|, |20 - 11.8|, |8 - 11.8|, |13 - 11.8|$</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-apple-id-locked-or-disabled-from-iphone-xs-max-7-mehtods-you-cant-miss-by-drfone-ios/"><u>In 2024, Apple ID Locked or Disabled From iPhone XS Max? 7 Mehtods You Cant-Miss</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/innovative-strategies-to-enhance-video-craftsmanship-on-windows-10/"><u>Innovative Strategies to Enhance Video Craftsmanship on Windows 10</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/is-it-time-to-panic-investigating-current-status-of-nintendo-switch-online/"><u>Is It Time to Panic? Investigating Current Status of Nintendo Switch Online.</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/macos-timeline-decoded-understanding-the-progression-and-nuances-of-each-version/"><u>MacOS Timeline Decoded: Understanding the Progression and Nuances of Each Version</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/removing-borders-quick-and-effective-image-retouch-methods/"><u>Removing Borders Quick & Effective Image Retouch Methods</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/roku-express-vs-roku-stick-a-comprehensive-difference-guide/"><u>Roku Express Vs. Roku Stick: A Comprehensive Difference Guide</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-major-error-in-the-latest-ipad-release-and-steps-for-apples-remediation-insights/"><u>The Major Error in the Latest iPad Release and Steps for Apple's Remediation - Insights</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/toshiba-55lf711u20-the-perfect-fire-tv-edition-television-for-prime-video-lovers/"><u>Toshiba 55LF711U20 - The Perfect Fire TV Edition Television for Prime Video Lovers</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unconventional-techniques-for-opening-an-iphones-sim-port/"><u>Unconventional Techniques for Opening an iPhone's SIM Port</u></a></li>
+<li><a href="https://win-best.techidaily.com/1728465550026-windows-server/"><u>Windows Serverバックアップ:最新・最も影響力ある制約事項を理解せよ</u></a></li>
 </ul></div>
 

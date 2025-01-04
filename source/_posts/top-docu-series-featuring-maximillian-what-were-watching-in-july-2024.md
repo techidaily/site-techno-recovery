@@ -1,7 +1,7 @@
 ---
 title: "Top Docu-Series Featuring Maximillian: What We're Watching in July 2024"
-date: 2024-08-26T06:09:12.039Z
-updated: 2024-08-27T06:09:12.039Z
+date: 2024-12-29T16:00:27.440Z
+updated: 2025-01-04T16:18:57.298Z
 categories:
   - BestProducts
 description: "This Article Describes Top Docu-Series Featuring Maximillian: What We're Watching in July 2024"
@@ -70,11 +70,16 @@ Max
 of 18
 
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## [ Rock Hudson: All That Heaven Allowed (2023) - A Tale of Two Lives](https://www.imdb.com/title/tt13514636/) 
 
 ![A still from the Rock Hudson documentary All That Heaven Allowed.](https://www.lifewire.com/thmb/QVIATEJ2sOG3ORGapncMoBVZZAM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/RockHudsondocumentary-9d4611fbd5274c829deedfca653881b3.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Max
 
@@ -97,8 +102,9 @@ Max
 of 18
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## [ Moonage Daydream (2022): A Trippy Tribute to David Bowie](https://www.imdb.com/title/tt9883832/) 
 
 ![David Bowie in Moonage Daydream](https://www.lifewire.com/thmb/l7ufwrJ7hlwscxM9W2ihXAM-v_c=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_the-best-documentaries-on-hbo-right-now-june-2023-5025656-66a9e2a5fa4e4952807cb3e8b06650a5.jpg) 
@@ -127,9 +133,6 @@ of 18
 
 ![Call Me Miss Cleo documentary](https://www.lifewire.com/thmb/kNMIjst6RgTnBsz-jEIofCi6GPw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_the-best-documentaries-on-hbo-right-now-february-2023-5025656-d39c18d55fea42029ccfc3a1b1c60dce.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 Max
 
 **IMDb rating** : 5.5/10
@@ -151,15 +154,13 @@ Max
 of 18
 
 <!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## [ Navalny (2022): A Timely Biography About Anti-Authoritarianism](https://www.imdb.com/title/tt17041964/) 
 
 ![A still from the documentary Navalny.](https://www.lifewire.com/thmb/QIGdo9Sd5jO-5BNRTPOeMRFQ8H0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Navalnydocumentary-5a22fefb19f04647aef62111d247dcf0.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 Max
 
 **IMDb rating** : 7.7/10
@@ -184,9 +185,6 @@ of 18
 
 ![BS High on HBO](https://www.lifewire.com/thmb/40NWBpRqXUFUVhvAYahTB0F5nYs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_the-best-documentaries-on-max-right-now-september-2023-5025656-da3a04d032c54cb9b52b5f5318e3188a.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 HBO
 
 **IMDb rating** : 7.2/10
@@ -205,16 +203,10 @@ HBO
 
 of 18
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 ## [ The Janes (2022): An Empowering and Timely History Lesson](https://www.imdb.com/title/tt16377356/) 
 
 ![The Janes from The Janes documentary.](https://www.lifewire.com/thmb/mhZCLQi6WJ03oceEUob85fPphVc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/TheJanesDocumentary-0b8b9c465d834e4fa0e69fa32c955a13.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 Max
 
 **IMDb rating** : 7.6/10
@@ -233,9 +225,6 @@ Max
 
 of 18
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ## [ Donyale Luna: Supermodel (2023) - The Story of the First Black Model for Vogue](https://www.imdb.com/title/tt21046314/) 
 
 ![Donyale Luna in Supermodel](https://www.lifewire.com/thmb/4C9a2BZgiFCsBsF1sZ5V6B7vihc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_the-best-documentaries-on-max-right-now-october-2023-5025656-a317a13b12bb4a0d827953c217e313da.jpg) 
@@ -264,9 +253,6 @@ of 18
 
 ![Willie Mays in Say Hey, Willie Mays!](https://www.lifewire.com/thmb/GTkAqCvjIURybelwns6OC5pYnB8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_the-best-documentaries-on-hbo-right-now-may-2023-5025656-83ee70f71be243079f1d65d4bb5ac272.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Max. 
 
 **IMDb rating** : 7.6/10
@@ -311,9 +297,6 @@ Max
 
 of 18
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
-<!-- affiliate ads end -->
 ## [ Phoenix Rising (2022): Bravest 'Me Too' Documentary](https://www.imdb.com/title/tt17036612/) 
 
 ![Evan Rachel Wood in Phoenix Rising](https://www.lifewire.com/thmb/CyTT3IikiByhR-lw9BivwZWAh6U=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/003_best-documentaries-on-hbo-right-now-5025656-5dd8ff082bcd4a66ab78a0f3fd326d2d.jpg) 
@@ -338,16 +321,10 @@ _Phoenix Rising_ is uncomfortable to watch sometimes, but it's ultimately an ins
 
 of 18
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ## [ Tony Hawk: Until the Wheels Fall Off (2022): A Tribute to a Sports Legend](https://www.imdb.com/title/tt16118722/) 
 
 ![Tony Hawk in Tony Hawk: Until the Wheels Fall Off ](https://www.lifewire.com/thmb/rcuyxXUwDegZDZnIF29K9Vob08U=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_the-best-documentaries-on-hbo-right-now-may-2022-5025656-abf70617caf1417085d806c5cca89a43.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
-<!-- affiliate ads end -->
 Max
 
 **IMDb rating** : 8.0/10
@@ -371,11 +348,16 @@ Max
 of 18
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## [ Being Mary Tyler Moore (2023): A Tribute to a Trailblazer](https://www.imdb.com/title/tt26084136/) 
 
 ![Mary Tyler Moore in Being Mary Tyler Moore](https://www.lifewire.com/thmb/R3QTQhVqq10jw92Ky9PWBQrDnkc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_the-best-documentaries-on-max-right-now-july-2023-5025656-784abf1e2f1d468a995d99ab2bc18d0c.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Max. 
 
@@ -395,9 +377,17 @@ Max.
 
 of 18
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## [ Tina (2021): Simply the Best](https://www.imdb.com/title/tt8399720/) 
 
 ![Tina Turner in the HBO documentary 'Tina'](https://www.lifewire.com/thmb/anRgBfe0Ue_K_ZHKKbIA4bn6XZA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Tina_HBO-b805b1e4fdbf4981b4a59d346f24fffd.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Max
 
@@ -421,9 +411,6 @@ of 18
 
 ![George Anthony Morton in Master of Light](https://www.lifewire.com/thmb/9LemBivTnbD5CwjKb7cGSYbW6Vw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_the-best-documentaries-on-hbo-right-now-december-2022-5025656-a646f00cf2e3475884627682a8633788.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
-<!-- affiliate ads end -->
 Max
 
 **IMDb rating** : 6.7/10
@@ -443,6 +430,10 @@ _Master of Light_ is a riveting personal story about redemption, but it also ser
 17
 
 of 18
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## [ Endangered (2022): A Bleak Look at the State of Free Press](https://www.imdb.com/title/tt12502288/) 
 
@@ -467,6 +458,10 @@ Max
 18
 
 of 18
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## [ My So-Called High School Rank (2022): A Stressful Musical About Stress](https://www.imdb.com/title/tt22260918/) 
 
@@ -508,8 +503,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -517,4 +510,24 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/lite-screening-pacts-how-to-choose-a-cms/"><u>[New] Elite Screening Pacts How to Choose a CMS</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-minds-on-trial-best-general-knowledge-channels-for-2024/"><u>[New] Minds on Trial Best General Knowledge Channels for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-harmonizing-content-and-sound-in-instagram-reels/"><u>[Updated] 2024 Approved Harmonizing Content & Sound in Instagram Reels</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-from-camera-to-feed-instagram-video-upload-on-desktop/"><u>[Updated] From Camera to Feed Instagram Video Upload on Desktop</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/achieve-excellence-in-remote-hiring-the-ultimate-2024-guide-to-skype-interviews/"><u>Achieve Excellence in Remote Hiring: The Ultimate 2024 Guide to Skype Interviews</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/alternative-methods-to-experience-the-roku-channel-for-non-roku-users/"><u>Alternative Methods to Experience the Roku Channel for Non-Roku Users</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/create-a-viral-hit-10-best-music-video-producers-for-2024/"><u>Create a Viral Hit 10 Best Music Video Producers for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/exploring-elevenlabs-generative-voice-ai-and-similar-alternatives-on-the-market/"><u>Exploring ElevenLabs Generative Voice AI and Similar Alternatives on the Market</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/finding-the-right-balance-how-many-years-between-new-phones/"><u>Finding the Right Balance: How Many Years Between New Phones?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-change-location-on-facebook-dating-for-your-vivo-v30-lite-5g-drfone-by-drfone-virtual-android/"><u>How to Change Location On Facebook Dating for your Vivo V30 Lite 5G | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-samsung-galaxy-s24-drfone-by-drfone-virtual-android/"><u>How to get the dragon scale and evolution-enabled pokemon On Samsung Galaxy S24? | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/maximize-apple-watch-endurance-transformative-tweaks-for-enhanced-battery-efficiency/"><u>Maximize Apple Watch Endurance: Transformative Tweaks for Enhanced Battery Efficiency</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/optimizing-and-tailoring-apples-ios-18-control-center-for-your-iphone-essential-tips/"><u>Optimizing and Tailoring Apple's iOS 18 Control Center for Your iPhone: Essential Tips</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/overcoming-the-challenge-a-users-manual-to-correcting-code-(-28-in-windows/"><u>Overcoming the Challenge: A User's Manual to Correcting Code < 28 in Windows</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/price-drop-alert-get-the-powerhouse-m2-mac-mini-for-just-479-insights-from-zdnet-coverage/"><u>Price Drop Alert: Get the Powerhouse M2 Mac Mini for Just $479 - Insights From ZDNet Coverage</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ps-vr-2-comprehensive-info-on-latest-announcement-costs-and-release-timeline/"><u>PS VR 2 - Comprehensive Info on Latest Announcement, Costs, and Release Timeline</u></a></li>
+<li><a href="https://games-able.techidaily.com/skip-the-connections-winning-without-joining-nyts-club/"><u>Skip the Connections: Winning Without Joining NYT's Club</u></a></li>
+</ul></div>
 

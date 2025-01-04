@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Guide to Handle RAR Files on Your Apple Mac
-date: 2024-12-21T06:11:53.902Z
-updated: 2024-12-26T06:53:42.583Z
+date: 2025-01-02T16:29:51.305Z
+updated: 2025-01-04T16:04:30.138Z
 categories:
   - BestProducts
 description: This Article Describes Step-by-Step Guide to Handle RAR Files on Your Apple Mac
@@ -17,7 +17,7 @@ thumbnail: https://www.lifewire.com/thmb/SS82nvdrFUbXoE4knhk3ysBLegA=/400x300/fi
 ## Revamp Your File Organizer's Appearance - Changing Folder Colors on a Mac
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### What to Know
@@ -27,10 +27,6 @@ thumbnail: https://www.lifewire.com/thmb/SS82nvdrFUbXoE4knhk3ysBLegA=/400x300/fi
 * You can also use apps like Folder Color to automate the process.
 
  This article explains how to use Mac's built-in Preview app to color-code your folders to any hue in the rainbow, or even replace the default folder icons with your own images. If that's too complicated, you can also accomplish the same task much faster with a premium app from the[App Store](https://www.lifewire.com/using-mac-app-store-4171845) .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Ways to Customize Folder Colors on Mac
 
@@ -42,6 +38,10 @@ thumbnail: https://www.lifewire.com/thmb/SS82nvdrFUbXoE4knhk3ysBLegA=/400x300/fi
 * **Copy a different image using the Preview app** : This method copies a photo or icon using the Preview app, so it can change the color of a folder icon, replace it with an image, or even replace it with a custom icon.
 * **Use a premium app like Folder Color** : This method requires a premium app like Folder Color, which you can buy from the App Store. It automates the process and makes it easier.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Change Folder Color on Mac Using Preview
 
  Using the Preview app, you can customize the color of any folder. This is a multi-step process that's complicated enough that you will probably have to refer to this guide the first couple times you do it, but it isn't difficult.
@@ -50,13 +50,25 @@ thumbnail: https://www.lifewire.com/thmb/SS82nvdrFUbXoE4knhk3ysBLegA=/400x300/fi
 ![A screenshot of the macOS desktop.](https://www.lifewire.com/thmb/5aajzf5Id9EX9_Zuji1fQu77zIU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ScreenShot2020-06-25at6.02.02PM-0c7b8bc9a4144830a62b6e87c786aeba.png)
 2. Select**Get Info** from the context menu.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![A screenshot of a folder context menu.](https://www.lifewire.com/thmb/GEn2Q5Tf1SHsQ9NN3z3au9B37ek=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A2-ChangeFolderColoronMac-annotated-3385fa419f404cbe941ce346ca4fff72.jpg)
 3. Click the**folder icon** in the upper left of the folder info window so that it is highlighted.  
 ![A screenshot of the folder info box on macOS.](https://www.lifewire.com/thmb/3dEqd1G-bbtDdiGsMpSUPtPn-sA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A3-ChangeFolderColoronMac-annotated-bf971c3eafea41448cee2071f8520c6e.jpg)
 4. Click**Edit** in the menu bar near the top left of the screen and select**Copy** from the drop down menu.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![A screenshot of copying an icon on macOS.](https://www.lifewire.com/thmb/4puIgoAvE_ObPrZ4A1_Ht2wNxyQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A4-ChangeFolderColoronMac-annotated-30f95819009f4d888881324def4972cb.jpg)
 5. Locate and open the**Preview** app.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![A screenshot of the Applications folder on macOS.](https://www.lifewire.com/thmb/QLXtd-veloVkY8ge5HI9PdIVlA0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A5-ChangeFolderColoronMac-annotated-8465f773aeb74caa9b1dbc0525a419ef.jpg)
 6. With Preview open, click**File** in the menu bar.  
@@ -64,26 +76,14 @@ thumbnail: https://www.lifewire.com/thmb/SS82nvdrFUbXoE4knhk3ysBLegA=/400x300/fi
 ![The File menu in the Preview app on macOS.](https://www.lifewire.com/thmb/qiZ22LU6m8SiaCUJcNrGLv6kQfk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A6-ChangeFolderColoronMac-annotated-3092277a9357429fa325ccba6b0cb43f.jpg)
 7. Select**New from Clipboard** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![New from Clipboard menu item selected in the Preview app on macOS.](https://www.lifewire.com/thmb/jt8ez5osO5KQwiJ5sJdYieKWXTA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A7-ChangeFolderColoronMac-annotated-9876657f8d3f41399b918e61bfb39023.jpg)
 8. Select the**Markup tool** (looks like the tip of a pencil).  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![The Markup tool highlighted in the Preview app on macOS.](https://www.lifewire.com/thmb/l3BVxdPgJm5W8koZRv2XglMO_Os=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A8-ChangeFolderColoronMac-annotated-0249c263cdfc438b89827e3df055280d.jpg)
 9. Select the**Adjust Color** icon, which looks like three sliders or a prism with light passing through it.  
 
 ![The Adjust color tool highlighted in the Preview app on macOS.](https://www.lifewire.com/thmb/TMySW-VtU7UNm-ziPdu5TA9ECjY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A9-ChangeFolderColoronMac-annotated-13601116017d42e89eb5c1ac3b9a7d59.jpg)
 10. In the Adjust Color window, adjust the**Tint** ,**Saturation** ,**Tempurature** , and**Sepia** sliders to get a color you want, and then close the window.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![A screenshot of Tint slider in Preview app on macOS.](https://www.lifewire.com/thmb/WmhDBeevux4zXDNtHs9-i4BqrBM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A10-ChangeFolderColoronMac-annotated-1e5ee4342431465a953da0717e62b70f.jpg)  
  Want more options? You can paste the folder icon into any image-editing software you have.
@@ -95,6 +95,10 @@ thumbnail: https://www.lifewire.com/thmb/SS82nvdrFUbXoE4knhk3ysBLegA=/400x300/fi
 ![A screenshot of a customized folder color on macOS.](https://www.lifewire.com/thmb/VI5EKewsKE1LGj0OEbsL44ijJnY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A13-ChangeFolderColoronMac-annotation-5bd8b4aff78648508db5492dbe49a580.jpg)
 14. You can now close the Folder Info box, and your folder will have the new color. If you want, you can repeat this process to customize as many folders as you like.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Customizing Folders With Images and Icons
 
  You can[customize your folders with your own images and custom icons](https://www.lifewire.com/personalize-mac-by-changing-desktop-icons-2260911) using this same basic process.
@@ -102,10 +106,6 @@ thumbnail: https://www.lifewire.com/thmb/SS82nvdrFUbXoE4knhk3ysBLegA=/400x300/fi
  Instead of pasting a copy of your original folder into Preview, you need to open a photo or icon with Preview, and copy it. You can then paste it into the Folder Info box just like you did in step 11 above.
 
  These steps will replace the original folder icon with a custom photo or any other icon you like.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Changing Folder Colors on Mac With Apps
 
@@ -151,20 +151,18 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/n-2024-visionary-voices-celebrating-innovative-female-creators-on-youtube/"><u>[New] In 2024, Visionary Voices Celebrating Innovative Female Creators on YouTube</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-from-raw-feedback-a-critical-review-of-top-video-editors-for-youtube/"><u>[Updated] In 2024, From Raw Feedback A Critical Review of Top Video Editors for YouTube</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-maximize-style-with-premium-border-options-for-ig-posts/"><u>[Updated] Maximize Style with Premium Border Options for IG Posts</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-premier-ios-gaming-experience-leading-emulators-for-psp-enthusiasts/"><u>[Updated] Premier iOS Gaming Experience Leading Emulators for PSP Enthusiasts</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/5-ways-to-track-vivo-s17t-without-app-drfone-by-drfone-virtual-android/"><u>5 Ways to Track Vivo S17t without App | Dr.fone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/apple-previews-revolutionary-vision-pro-with-custom-made-app-selection-of-over-600-titles-insights-from-zdnet/"><u>Apple Previews Revolutionary Vision Pro with Custom-Made App Selection of Over 600 Titles | Insights From ZDNET</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/awaken-your-smartphone-with-chatgpt/"><u>Awaken Your Smartphone with ChatGPT!</u></a></li>
-<li><a href="https://fox-links.techidaily.com/from-static-to-spectaculous-the-yi-hero-video-journey-for-2024/"><u>From Static to Spectaculous The Yi Hero Video Journey for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/google-maps-unveils-innovative-geo-augmented-reality-capability-for-immersive-city-experiences-cnbc-technology/"><u>Google Maps Unveils Innovative Geo-Augmented Reality Capability for Immersive City Experiences | CNBC Technology</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/imminent-release-discover-how-samsung-plans-to-challenge-apple-vision-pro-soon-tech-news-hub/"><u>Imminent Release? Discover How Samsung Plans to Challenge Apple Vision Pro Soon | Tech News Hub</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-google-play-location-on-oppo-a38-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Google Play Location On Oppo A38 | Dr.fone</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/in-2024-instagrams-copyright-and-sharing-guide/"><u>In 2024, Instagram's Copyright & Sharing Guide</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/revolutionizing-ux-with-xr-digital-twins-and-spatial-tech-the-ultimate-enterprise-handbook-insights-from-zdnet/"><u>Revolutionizing UX with XR, Digital Twins & Spatial Tech: The Ultimate Enterprise Handbook - Insights From ZDNet</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/top-choice-snap-up-meta-quest-2-at-just-200-this-holiday-the-ultimate-smart-tech-bargain-on-zdnet/"><u>Top Choice: Snap Up Meta Quest 2 at Just $200 This Holiday - The Ultimate Smart Tech Bargain on ZDNet!</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/unplanned-leaps-and-cyber-greetings-a-journey-through-the-nuances-of-remote-vr-gatherings-zdnet/"><u>Unplanned Leaps and Cyber Greetings: A Journey Through the Nuances of Remote VR Gatherings | ZDNET</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-how-to-become-a-travel-vlogger-guide-of-travel-vlogging/"><u>[Updated] How To Become A Travel Vlogger | Guide of Travel Vlogging</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/achieving-success-with-apples-vision-pro-insider-strategies-for-securing-and-perfecting-face-scans/"><u>Achieving Success with Apple's Vision Pro: Insider Strategies for Securing and Perfecting Face Scans</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/boosting-performance-fix-lagging-frame-drops-in-outriders-gameplay/"><u>Boosting Performance: Fix Lagging Frame Drops in Outriders Gameplay</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/diy-fixes-overcoming-common-code-28-glitches-on-windows-devices/"><u>DIY Fixes: Overcoming Common Code 28 Glitches on Windows Devices</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ios-ipados-and-macos-set-to-gain-access-to-ai-powered-conversations-apple-teams-up-with-microsofts-phi/"><u>IOS, iPadOS, & macOS Set to Gain Access to AI-Powered Conversations: Apple Teams Up with Microsoft's Phi</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/newest-update-for-windows-11-does-spartan-enable-dvdflash-video-support/"><u>Newest Update for Windows 11: Does Spartan Enable DVD/Flash Video Support?</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/open-world-opus-top-10-similar-video-games/"><u>Open World Opus Top 10 Similar Video Games</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/resolving-common-glitches-in-persona-4-golden-gameplay-experience/"><u>Resolving Common Glitches in Persona 4 Golden Gameplay Experience</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/seamless-integration-of-microsoft-copilot-into-your-macos-workflow/"><u>Seamless Integration of Microsoft Copilot Into Your macOS Workflow</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/solving-the-msxml4dll-missing-file-dilemma-a-comprehensive-guide/"><u>Solving the 'Msxml4.dll' Missing File Dilemma: A Comprehensive Guide</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/step-by-step-tutorial-for-top-quality-mac-conversion-of-dvd-iso-to-avi-video-file/"><u>Step-by-Step Tutorial for Top-Quality Mac Conversion of DVD ISO to AVI Video File</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ultimate-guide-mastering-live-photo-features-in-ios-16/"><u>Ultimate Guide: Mastering Live Photo Features in iOS 16</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ultimate-tutorial-how-to-dislike-all-your-playlist-picks-on-spotify-effortlessly/"><u>Ultimate Tutorial: How to Dislike All Your Playlist Picks on Spotify Effortlessly</u></a></li>
 </ul></div>
 

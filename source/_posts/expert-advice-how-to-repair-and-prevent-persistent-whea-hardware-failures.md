@@ -1,7 +1,7 @@
 ---
 title: "Expert Advice: How to Repair and Prevent Persistent WHEA Hardware Failures"
-date: 2024-08-26T06:06:56.537Z
-updated: 2024-08-27T06:06:56.537Z
+date: 2024-12-30T16:19:41.807Z
+updated: 2025-01-04T16:24:44.572Z
 categories:
   - BestProducts
 description: "This Article Describes Expert Advice: How to Repair and Prevent Persistent WHEA Hardware Failures"
@@ -29,16 +29,32 @@ thumbnail: https://thmb.techidaily.com/143b26f11671d3fcd62f1801d95a276dc9ebb60e2
 2. Then, navigate to**Screen and Video** .  
 ![Screen and Video in PS5 settings](https://www.lifewire.com/thmb/YCLQ2vGLnavPgpRPNtxhU7n6NFw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Screen-and-Video-Settings-aa8ff277b8254627a1a8c88e1c91f9cf.jpg)
 3. Choose**Video Output** on the left side of the screen.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Video Output in PS5 Screen and Video settings](https://www.lifewire.com/thmb/Xgk1MNv2WwvyRO7tv2bHEF4oiqo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Video-Output-46b505f379064535ac4977a29faee336.jpg)
 4. Select**120 Hz Output** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![120 Hz Output in PS5 settings](https://www.lifewire.com/thmb/hxj9hKX_96UCkA07Y8Rzo91hvKo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/120-Output-9e18a336656f4caf97cc91724b032df2.jpg)
 5. Select**Automatic** (you won't have an**On** option because not every game supports 120 Hz output).  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![The "Automatic" option ](https://www.lifewire.com/thmb/N0N2mbCdwDADtM0UH7Q50TlNT2U=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Automatic-8261fa6f79014410bb3948ebcbcac568.jpg)
 6. Now, if a game has an option for 120 frames per second and you turn it on, your PS5 will output at that rate.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## What You Need to Get 120 FPS on PS5
 
  The most important requirement is a display with a 120 Hz refresh rate. You can use a TV or a monitor, and displays with 120 Hz support are pretty common today, so you shouldn't have trouble finding one.
@@ -50,8 +66,9 @@ thumbnail: https://thmb.techidaily.com/143b26f11671d3fcd62f1801d95a276dc9ebb60e2
  Lastly, keep in mind that not every game supports 120 FPS. You won't typically see that information on the game box, unfortunately, but you should find it in shop listings. And, of course, you can check the menus for a 120 FPS option.
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Which PS5 Games Support 120 FPS?
 
  There are over 100 PlayStation 5 games that support 120Hz, with more coming out all the time. Here are some popular ones:
@@ -89,8 +106,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -98,4 +113,20 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/updated-learn-the-art-of-saving-and-logging-periscope-content/"><u>[Updated] Learn the Art of Saving & Logging Periscope Content</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/2023s-elite-selection-of-apple-watch-screenshields-reviewed-by-wirecutter/"><u>2023'S Elite Selection of Apple Watch Screenshields Reviewed by Wirecutter</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-avoiding-manual-transcription-by-leveraging-voice-recognition-in-ppt/"><u>2024 Approved Avoiding Manual Transcription by Leveraging Voice Recognition in PPT</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/are-apples-airpods-pro-still-the-top-choice-after-two-years-a-comprehensive-review-from-launch-in/"><u>Are Apple's AirPods Pro Still the Top Choice After Two Years? A Comprehensive Review From Launch In</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/best-seven-alarm-clock-app-choices-for-smartphones/"><u>Best Seven Alarm Clock App Choices for Smartphones</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/designing-for-success-how-space-arrangement-boosts-work-performance/"><u>Designing for Success How Space Arrangement Boosts Work Performance</u></a></li>
+<li><a href="https://video-capture.techidaily.com/elevating-your-desktop-mastering-screenshot-and-recording-for-2024/"><u>Elevating Your Desktop Mastering Screenshot and Recording for 2024</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-xiaomi-civi-3-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Xiaomi Civi 3 Phones with/without a PC</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-videos-from-realme-by-fonelab-android-recover-video/"><u>How to retrieve erased videos from Realme</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/post-prime-day-bargain-get-the-new-iphone-12-at-only-349-on-amazon-today/"><u>Post-Prime Day Bargain: Get the New iPhone 12 at Only $349 on Amazon – Today!</u></a></li>
+<li><a href="https://win-blog.techidaily.com/transcoding-essentials-how-to-change-mp4-files-into-aac-with-movavis-video-transformation-tool/"><u>Transcoding Essentials: How to Change MP4 Files Into AAC with Movavi's Video Transformation Tool</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/upcoming-touchscreen-macbook-anticipated-launch-details-and-pricing-revealed/"><u>Upcoming Touchscreen MacBook - Anticipated Launch Details & Pricing Revealed</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/zoom-connection-issues-troubleshooting-or-personal-factors/"><u>Zoom Connection Issues: Troubleshooting or Personal Factors?</u></a></li>
+</ul></div>
 

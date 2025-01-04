@@ -1,7 +1,7 @@
 ---
 title: Why Did Apple Inform Me About the Multiple Floors I'm Navigating? Unveiling the Mystery Behind My Increasing Steps | ZDNet
-date: 2024-12-24T06:24:59.371Z
-updated: 2024-12-26T02:38:28.274Z
+date: 2024-12-30T16:29:27.809Z
+updated: 2025-01-04T16:17:11.758Z
 tags:
   - apple
 categories:
@@ -22,13 +22,13 @@ The display sizes of small tablets can range from six to 10 inches, with eight i
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What is the best small tablet right now?
 
 Based on our extensive hands-on testing with various tablets of all sizes, our pick for the best small tablet is the [iPad Mini](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2F2021-Apple-iPad-Mini-Wi-Fi%2Fdp%2FB09G9FW785%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C0030e106-6fcb-4a82-b8e0-c075a87c771e%7Cdtp&dtb=1), thanks to its 8.3-inch Liquid Retina display and weight of just under 1 pound. We also included compact-sized tablets from Amazon, Samsung, and other brands for those looking for something more compact and easy to carry. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## The best small tablets of 2024
 
@@ -46,10 +46,6 @@ Cons
 * Expensive
 
 ## Apple iPad Mini 6th Generation
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Best small tablet overall
 
@@ -84,6 +80,10 @@ Cons
 
 ## Amazon Fire 7 Tablet
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Best budget small tablet
 
 If you're looking for something even smaller and cheaper than the iPad Mini, the Amazon Fire 7 tablet is a great budget tablet pick. The Fire tablet's 7-inch screen has a 1024 x 600 display, so you can stream movies or play video games without hauling around a bulky tablet. 
@@ -114,11 +114,11 @@ Cons
 * Expensive
 * Some complaints of lag
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Boox Tab Mini C
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Best small tablet for note-taking
 
@@ -148,7 +148,7 @@ Cons
 * No warm light option
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Amazon Kindle 11th generation
@@ -207,6 +207,10 @@ The best small tablet is the iPad Mini because of its sharp display and impressi
 | Amazon Kindle          | $100      | 6 inches            | 300ppi glare-free |
 | Samsung Galaxy A7 Lite | $100      | 8.7 inches          | 1340x800 pixels   |
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Which small tablet is right for you?
 
 It really depends on what size tablet you're looking for, which operating system you prefer, and how much money you're willing to spend. Below, we've broken down the best small tablets to help make your decision easier. 
@@ -219,10 +223,6 @@ It really depends on what size tablet you're looking for, which operating system
 | Amazon Kindle                               | A small and portable tablet designed for reading with dark mode and six weeks of battery life. Its 300ppi is the same display as the Kindle Paperwhite and the Kindle Oasis.                                                                                                             |
 | Samsung Galaxy A7 Lite                      | A small Samsung tablet with expandable storage and an exceptional battery life. The tablet allows for up to 1TB of expandable storage.                                                                                                                                                   |
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Factors to consider when choosing the best small tablets:
 
 We know there are a lot of tablets and tablet sizes to choose from, but ultimately, these were the determining factors in our top picks. 
@@ -231,6 +231,10 @@ We know there are a lot of tablets and tablet sizes to choose from, but ultimate
 * **Display:** Small tablets shouldn't have to compromise on an already smaller display, so we also considered display resolution.
 * **Battery life:** A device's battery life is important no matter its size, so we considered devices that can last you all day.
 * **Price:** Tablets vary in price range from affordable to expensive depending on brand and purpose, so we made sure to choose tablets at various price points to accommodate different budgets.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How we test tablets
 
@@ -249,10 +253,6 @@ For a deeper look into our testing process, check out our comprehensive [tablet 
 The smallest tablet screen size on the market is 6 to 7 inches. Anything smaller would be more similar to a smartphone.
 
 It's why you want to consider your primary uses when considering which small tablet is right for you. To demonstrate, if you travel often, one with a smaller screen will be perfect for carrying/using on an airplane. If your aim is to read more e-books or draw, you'll want one with a larger screen. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What brand of tablet is best?
 
@@ -273,7 +273,7 @@ Their lightweight body and compact design make them perfect traveling companions
 The smallest [iPad](https://www.zdnet.com/article/best-ipad/) is the iPad Mini which has a screen size of 8.3 inches. It's also lightweight at just under one pound. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Are there alternative small tablets worth considering?
@@ -322,22 +322,24 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-free-online-services-for-youtube-subtitles-download/"><u>[Updated] 2024 Approved Free Online Services for YouTube Subtitles Download</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-tecno-camon-30-pro-5g-by-drfone-android/"><u>AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Tecno Camon 30 Pro 5G</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/from-airwaves-to-archives-expert-tips-on-recording-live-streams-for-2024/"><u>From Airwaves to Archives Expert Tips on Recording Live Streams for 2024</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/24-best-cameras-for-quality-youtube-content/"><u>In 2024, Best Cameras for Quality YouTube Content</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-detailed-guide-on-removing-iphone-13-activation-lock-without-previous-owner-by-drfone-ios/"><u>In 2024, Detailed Guide on Removing iPhone 13 Activation Lock without Previous Owner?</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/in-2024-infuse-your-tiktok-with-popular-anime-themes-and-styles/"><u>In 2024, Infuse Your TikTok with Popular Anime Themes & Styles</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-top-20-tales-on-yt-where-to-find-the-best-storytelling/"><u>In 2024, Top 20 Tales on YT Where to Find the Best Storytelling</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/ring-spotlight-cam-pro-affordable-surveillance-with-a-holiday-discount-my-pleasant-surprise/"><u>Ring Spotlight Cam Pro: Affordable Surveillance with a Holiday Discount - My Pleasant Surprise!</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/seamless-media-consumption-enable-automatic-playback-of-youtube-content-on-fb-for-2024/"><u>Seamless Media Consumption Enable Automatic Playback of YouTube Content on FB for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/sequential-viewing-guide-the-ultimate-way-to-experience-all-transformers-films/"><u>Sequential Viewing Guide: The Ultimate Way to Experience All Transformers Films</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/sony-unveils-ultimate-summer-sound-with-new-portable-speaker-line-in-depth-review-and-insights/"><u>Sony Unveils Ultimate Summer Sound with New Portable Speaker Line: In-Depth Review and Insights</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/the-ultimate-guide-to-finding-the-best-bbq-and-patio-kits-as-gifts-for-your-cooking-enthusiast-dad-zdnet/"><u>The Ultimate Guide to Finding the Best BBQ & Patio Kits as Gifts for Your Cooking-Enthusiast Dad | ZDNET</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/top-5-electric-lawn-mowers-reviews-and-buyers-guide/"><u>Top 5 Electric Lawn Mowers : Reviews & Buyer's Guide</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/top-5-essential-camping-equipment-and-accessories-insights-from-zdnet/"><u>Top 5 Essential Camping Equipment & Accessories : Insights From ZDNet</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/top-5-handheld-tire-inflation-tools-expert-picks-by-zdnet/"><u>Top 5 Handheld Tire Inflation Tools : Expert Picks by ZDNet</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/top-5-houseplants-ideal-for-enhancing-productivity-in-home-offices-insights-by-zdnet/"><u>Top 5 Houseplants Ideal for Enhancing Productivity in Home Offices - Insights by ZDNet</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/top-5-premium-inflatable-swimming-aids-ranked-techradar/"><u>Top 5 Premium Inflatable Swimming Aids - Ranked | TechRadar</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-charting-your-course-in-youtubing-dodge-these-top-8-common-missteps/"><u>[New] 2024 Approved Charting Your Course in YouTubing Dodge These Top 8 Common Missteps!</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-in-2024-solo-stardom-in-the-podcast-universe/"><u>[New] In 2024, Solo Stardom in the Podcast Universe</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/solved-restore-windows-photo-viewer-in-windows-11/"><u>[SOLVED] Restore Windows Photo Viewer in Windows 11</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-beginners-blueprint-for-green-screen-in-kinemaster/"><u>2024 Approved Beginner's Blueprint for Green Screen in KineMaster</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024s-leading-video-editor-suites-discover-the-best-combination-of-free-and-premium-software-solutions/"><u>2024’S Leading Video Editor Suites: Discover the Best Combination of Free & Premium Software Solutions</u></a></li>
+<li><a href="https://location-social.techidaily.com/4-feasible-ways-to-fake-location-on-facebook-for-your-nokia-c300-drfone-by-drfone-virtual-android/"><u>4 Feasible Ways to Fake Location on Facebook For your Nokia C300 | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discover-new-enhancements-with-watchos-11-top-upgrades-coming-to-your-apple-watch-zdnet/"><u>Discover New Enhancements with WatchOS 11 – Top Upgrades Coming to Your Apple Watch [ZDNet]</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/easy-steps-for-diagnosing-and-solving-normalizdll-not-detected-errors-on-your-computer/"><u>Easy Steps for Diagnosing and Solving Normaliz.dll Not Detected Errors on Your Computer</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-nubia-red-magic-8s-proplus-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Nubia Red Magic 8S Pro+ If I Forgot Security Code or Password? | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-secrets-to-the-ultimate-5-free-pinterest-video-loader/"><u>In 2024, Secrets to the Ultimate 5-Free Pinterest Video Loader</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/master-the-correct-way-to-hold-your-iphone-and-airpods-tips-you-cant-miss-insights-from-zdnet/"><u>Master the Correct Way to Hold Your iPhone & AirPods: Tips You Can’t Miss! – Insights From ZDNet</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/mastering-chatgpt-a-comprehensive-guide-by-microsoft/"><u>Mastering ChatGPT: A Comprehensive Guide by Microsoft</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/sonos-latest-innovation-in-audio-tech-the-s2-app-simple-control-meets-unexpected-limitations/"><u>Sonos' Latest Innovation in Audio Tech: The S2 App - Simple Control Meets Unexpected Limitations</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-compelling-reason-im-staying-with-apple-watch-series-7-instead-of-switching-to-series-10-tech-analysis/"><u>The Compelling Reason I'm Staying with Apple Watch Series 7 Instead of Switching to Series 10 | Tech Analysis</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-rated-ipad-pro-protection-gear-2024s-ultimate-selection-as-endorsed-by-tech-experts/"><u>Top-Rated iPad Pro Protection Gear - 2024'S Ultimate Selection, As Endorsed by Tech Experts!</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/unlocking-made-easy-the-best-10-apps-for-unlocking-your-oneplus-ace-3-device-by-drfone-android/"><u>Unlocking Made Easy The Best 10 Apps for Unlocking Your OnePlus Ace 3 Device</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/upcoming-release-apple-rumored-to-unveil-new-macbook-air-ipad-pro-and-ipad-air-by-march-insights-from-zdnet/"><u>Upcoming Release: Apple Rumored to Unveil New MacBook Air, iPad Pro & iPad Air by March - Insights From ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/zdnets-in-depth-analysis-of-apple-airpods-pro-gen-3-enhanced-features-and-performance/"><u>ZDNet's In-Depth Analysis of Apple AirPods Pro (Gen 3): Enhanced Features & Performance</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/zdnets-ultimate-picks-safest-and-most-fun-phones-for-children-today/"><u>ZDNet's Ultimate Picks: Safest and Most Fun Phones for Children Today</u></a></li>
 </ul></div>
 

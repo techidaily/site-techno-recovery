@@ -1,7 +1,7 @@
 ---
 title: Top Smartphones Endorsed Editors - Real-World Usage Insights
-date: 2024-12-25T01:14:16.413Z
-updated: 2024-12-25T18:26:50.586Z
+date: 2025-01-03T16:08:21.838Z
+updated: 2025-01-04T16:04:49.375Z
 tags:
   - apple
 categories:
@@ -17,6 +17,10 @@ Curious about the favorite devices and phone buying habits of _ZDNet's_ tech rep
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
 
@@ -70,11 +74,11 @@ Pros
 Cons 
 * Lovely design with matte finish back 5G support for all bands Advanced multiple cameras S Pen support Competive pricing High end internal specifications
 
-## Samsung Galaxy S21 Ultra
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+## Samsung Galaxy S21 Ultra
 
 ### Steven J. Vaughan-Nichols and Charlie Osborne
 
@@ -97,10 +101,6 @@ Pros
 
 Cons 
 * Long battery life Strong performance The camera is very impressive
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## iPhone 12 Pro Max
 
@@ -140,10 +140,6 @@ Pros
 Cons 
 * Gorgeous flat glass OLED Flat matte edges Vibrant blue color iOS 14 with Android elements 5G Loud stereo speakers
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## iPhone 12
 
 ### Chris Matyszczyk
@@ -162,10 +158,6 @@ Pros
 Cons 
 * Fast performance New camera features Strong battery life
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## iPhone 11 Pro
 
 ### Ed Bott
@@ -175,10 +167,6 @@ Cons
 **Next phone or dream phone?** Next year I'll probably get an iPhone 12 Pro, gently used, courtesy of some obsessive Apple upgrader who will trade it in shortly after its successor comes out. I do like the camera improvements Apple made in the 12 series, but I'm not tied to Apple's ecosystem in any serious way so maybe I'll get a new Samsung instead.
 
 Show Expert Take Show less 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Ulefone Armor 9
 
@@ -197,7 +185,7 @@ Cons
 * Strong battery life Good performance More affordable
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Google Pixel 2
@@ -215,10 +203,6 @@ Show Expert Take Show less
 Show less 
 
 [View now at Huawei P40 Pro](https://consumer.huawei.com/en/phones/p40-pro/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Huawei P20 Pro
 
@@ -239,7 +223,7 @@ Cons
 ## iPhone XR
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Damian Radcliffe, Angelica Mari, and Sean Portnoy
@@ -262,21 +246,37 @@ Cons
 
 Show Expert Take Show less 
 
-###   
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###   
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+###   
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## iPhone X
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Robin Harris
 
 I have a Moment wide-angle lens and case, which gives me the tech I need for landscape photography. There's a lot of landscape where I live, and picturing it never gets old. I keep looking at the newer iPhones each year, but things like a wider lens and low-light performance aren't hot buttons. I haven't used my Canon DSLR in years. 
 
 **Next phone or dream phone?** iPhone 13 or 14 Pro Max. Folding iPhone? I like a big screen as long as it will fit in a shirt pocket, and Moment makes a case for it. Not sure I'd be up for the extra fiddling a folding iPhone would require, but it would likely replace my iPad Mini. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###   
 
@@ -333,7 +333,7 @@ Show less
 ## Samsung Galaxy Note 8
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Charles McLellan
@@ -376,18 +376,19 @@ Show Expert Take Show less
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-dive-deep-into-the-world-of-creator-studio/"><u>[Updated] 2024 Approved Dive Deep Into the World of Creator Studio</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-ae-text-preset-collection-the-best-of-both-worlds/"><u>[Updated] AE Text Preset Collection The Best of Both Worlds</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-continuous-streams-perfect-loops-of-youtube-videos-for-tvs/"><u>[Updated] Continuous Streams Perfect Loops of YouTube Videos for TVs</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-rhythm-ringtone-converting-tamil-music-into-phone-chimes/"><u>[Updated] Rhythm Ringtone Converting Tamil Music Into Phone Chimes</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/2024-approved-cutting-edge-anime-ideas-dominating-social-media-screens/"><u>2024 Approved Cutting-Edge Anime Ideas Dominating Social Media Screens</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/be-first-in-line-for-quest-3-improvements-unlocking-metas-beta-access-with-zdnets-tips/"><u>Be First in Line for Quest 3 Improvements: Unlocking Meta's Beta Access with ZDNet's Tips</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/developer-astonishment-mounts-as-apples-vision-pro-labs-make-waves-insights-from-the-source-zdnet/"><u>Developer Astonishment Mounts as Apple's Vision Pro Labs Make Waves - Insights From the Source | ZDNet</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/essential-components-of-a-successful-digital-twin-strategy-integrating-ai-for-enhanced-business-outcomes-tech-insights-by-zdnet/"><u>Essential Components of a Successful Digital Twin Strategy: Integrating AI for Enhanced Business Outcomes | Tech Insights by ZDNet</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/experience-the-magic-of-my-beloved-series-on-apple-vision-pro-a-journey-through-wonder-and-weariness-insights-from-zdnet/"><u>Experience the Magic of My Beloved Series on Apple Vision Pro – A Journey Through Wonder & Weariness | Insights From ZDNet</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/leading-voice-enhancement-programs-for-virtual-stars-for-2024/"><u>Leading Voice Enhancement Programs for Virtual Stars for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/the-six-critical-pillars-for-building-effective-digital-twins-with-ai-enhancements-expert-analysis-by-zdnet/"><u>The Six Critical Pillars for Building Effective Digital Twins with AI Enhancements | Expert Analysis by ZDNET</u></a></li>
-<li><a href="https://some-skills.techidaily.com/twitch-time-rewind-hacks-unveiled-for-2024/"><u>Twitch Time Rewind Hacks Unveiled for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/unlock-enhanced-virtual-reality-with-metas-affordable-50-eye-accessory-for-glasses-wearing-gamers-zdnet-insights/"><u>Unlock Enhanced Virtual Reality with Meta's Affordable $50 Eye Accessory for Glasses-Wearing Gamers - ZDNet Insights</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-best-free-photo-enhancer-online-and-app-for-mobile-phone-for-2024/"><u>[New] Best Free Photo Enhancer Online and App for Mobile Phone for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-elevate-your-content-from-instagram-vids-to-crisp-mp4-files/"><u>[New] In 2024, Elevate Your Content From Instagram Vids to Crisp MP4 Files</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-instant-charm-iphones-extended-shutter-showcase/"><u>[New] Instant Charm IPhone’s Extended Shutter Showcase</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-prime-methods-transforming-pin-videos-to-mp3-format/"><u>[Updated] 2024 Approved Prime Methods Transforming Pin Videos To MP3 Format</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-laugh-out-loud-meme-making-techniques/"><u>[Updated] In 2024, Laugh Out Loud Meme-Making Techniques</u></a></li>
+<li><a href="https://win-net.techidaily.com/5ywo6z2i5pwz5a2477ya6yen5bu65asx5y6755qe5pah5lu24ocu4ocu6zqo6lqr56kf5yiq6zmk5b6m5b6p5y6f5oqa6kgt6kej5p6q/"><u>全面教學：重建失去的文件——隨身碟刪除後復原技術解析</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/advanced-reviews-and-comparisons-by-toms-gear-experts/"><u>Advanced Reviews & Comparisons by Tom's Gear Experts</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discover-the-best-free-platforms-for-legally-streaming-movies-online/"><u>Discover the Best Free Platforms for Legally Streaming Movies Online</u></a></li>
+<li><a href="https://win-dash.techidaily.com/eclipse-antenna-by-clearstream-exceptional-functionality-in-minimalist-design/"><u>Eclipse Antenna by ClearStream: Exceptional Functionality in Minimalist Design</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/face-off-analysis-zuckerberg-reviews-meta-quest-3-and-apple-vision-pro-expert-take/"><u>Face-Off Analysis: Zuckerberg Reviews Meta Quest 3 and Apple Vision Pro | Expert Take</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-customize-your-windows-explorer-layout-for-easy-navigation/"><u>How to Customize Your Windows Explorer Layout for Easy Navigation</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/master-your-ipad-key-configuration-tips-every-apple-enthusiast-and-veteran-needs-to-know-expert-advice/"><u>Master Your iPad: Key Configuration Tips Every Apple Enthusiast and Veteran Needs to Know | Expert Advice</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-solution-why-your-iphone-wont-ring-and-how-to-fix-it/"><u>Step-by-Step Solution: Why Your iPhone Won't Ring and How to Fix It</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/transforming-interactions-with-technology-discover-how-apple-empowers-iphone-users-through-expanded-nfc-features-in-app-ecosystem/"><u>Transforming Interactions with Technology: Discover How Apple Empowers iPhone Users Through Expanded NFC Features in App Ecosystem</u></a></li>
 </ul></div>
 

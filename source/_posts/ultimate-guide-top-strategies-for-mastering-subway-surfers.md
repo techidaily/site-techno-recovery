@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Guide: Top Strategies for Mastering 'Subway Surfers'"
-date: 2024-08-26T06:07:27.004Z
-updated: 2024-08-27T06:07:27.004Z
+date: 2024-12-30T16:25:16.409Z
+updated: 2025-01-04T16:10:48.503Z
 categories:
   - BestProducts
 description: "This Article Describes Ultimate Guide: Top Strategies for Mastering 'Subway Surfers'"
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/75afd5a2790c3528915ac28a66faf57312a6eb60a
 3. Scroll to the bottom of the page and select **Save Changes** .  
 ![The Save Changes button highlighted on Gmail's Settings screen.](https://www.lifewire.com/thmb/Ti1cWFQAWPKtDw4DsaTTA96KzR0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A3-BestGmailKeyboardShortcuts-annotated-bab1aa8c28204ee494f3daa266fd0100.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Create, Send, and Forward Email
 
  With Gmail[keyboard](https://www.lifewire.com/what-is-a-keyboard-2618153) shortcuts, you can quickly create, send, and forward Gmail messages:
@@ -37,8 +41,9 @@ thumbnail: https://thmb.techidaily.com/75afd5a2790c3528915ac28a66faf57312a6eb60a
  On Macs, use the**Command** key in place of the**Ctrl** key.
 
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Reply to Email
 
  By using the**R** and**A** keys, you can quickly reply to[email messages](https://www.lifewire.com/electronic-mail-overview-1164107) or send to multiple recipients:
@@ -46,9 +51,6 @@ thumbnail: https://thmb.techidaily.com/75afd5a2790c3528915ac28a66faf57312a6eb60a
 * **Reply to a message (R)** : Press**R** to reply to an open message.
 * **Reply to all (A)** : Press**A** to reply to all recipients of a message.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Scroll Through Emails
 
  These shortcuts are handy for navigating through your messages and long email threads:
@@ -57,14 +59,15 @@ thumbnail: https://thmb.techidaily.com/75afd5a2790c3528915ac28a66faf57312a6eb60a
 * **Scroll up an email list (K)** : Press the**K** key to scroll up.
 * **Scroll through an email thread (N)** : Press**N** to quickly scroll down multiple conversations in a thread.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 ## How to Select Multiple Emails
 
  Need to select a bunch of emails at the same time? This shortcut will save you from having to click on each email separately:
 
 * **Select multiple emails in a row (Shift)** : Check the box beside the first email in the series, then press and hold the**Shift** key and check the box for the last email in the series. Everything between both boxes will be selected.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Add Formatting to Email Text
 
@@ -87,9 +90,6 @@ thumbnail: https://thmb.techidaily.com/75afd5a2790c3528915ac28a66faf57312a6eb60a
 
  On Mac computers, use the**Command** key in place of the**Ctrl** key.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 ## Email Maintenance Shortcuts
 
  Use these shortcuts to help manage your inbox:
@@ -100,9 +100,6 @@ thumbnail: https://thmb.techidaily.com/75afd5a2790c3528915ac28a66faf57312a6eb60a
 * **Mark an email as unread (Shift** +**U)** : Open an email or select it by clicking the box beside the sender's name, then press**Shift** +**U** to mark it as unread.
 * **Mark a message as important (Shift** +**\=)** : Open an email or select it by clicking the box beside the sender's name, then press**Shift** +**\=** to mark it as important.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## "Go to" Shortcuts in Gmail
 
  The following shortcuts can be used for[navigating Gmail](https://www.lifewire.com/go-to-the-next-or-previous-message-in-gmail-1172068) . Unlike the shortcuts above, the individual keys must be pressed separately rather than simultaneously
@@ -115,6 +112,10 @@ thumbnail: https://thmb.techidaily.com/75afd5a2790c3528915ac28a66faf57312a6eb60a
 * **Go to All mail (G, then A)** : Press the**G** key, then press**A** to see all messages.
 * **Move from different fields (Tab):** Press the**Tab** key to jump down the different fields in your email composition screen. To go in the opposite direction, press**Shift** +**Tab** .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to View All Gmail Shortcuts
 
  Need help remembering a shortcut? You can quickly pull up the entire list with a keyboard shortcut:
@@ -124,8 +125,9 @@ thumbnail: https://thmb.techidaily.com/75afd5a2790c3528915ac28a66faf57312a6eb60a
 ![Press Shift + ? to get the full list of Gmail keyboard shortcuts anytime.](https://www.lifewire.com/thmb/5ON5QzCh_hrJrz93Hlci-4WmI4Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004_best-gmail-keyboard-shortcuts-4686794-0852ef75c64547feb336f96dbb1be04e.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Was this page helpful?
 
 Thanks for letting us know!
@@ -146,8 +148,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -155,4 +155,22 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/new-essential-mac-screen-recorders-top-10-free-list-in-2024/"><u>[New] Essential Mac Screen Recorders – Top 10 FREE List, In 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/comprehensive-tutorial-how-to-gift-steam-credits-online/"><u>Comprehensive Tutorial: How to Gift Steam Credits Online</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/expert-tips-for-turning-on-closed-captions-when-your-roku-device-fails/"><u>Expert Tips for Turning On Closed Captions When Your Roku Device Fails</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/exploring-apples-strongest-defense-a-review-of-their-toughest-iphone-case-with-an-ingenious-protection-mechanism-insights-for-tech-enthusiasts/"><u>Exploring Apple's Strongest Defense: A Review of Their Toughest iPhone Case with an Ingenious Protection Mechanism - Insights for Tech Enthusiasts</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/how-to-recover-deleted-documents-from-the-windowsold-directory-in-windows-10/"><u>How to Recover Deleted Documents From the 'Windows.old' Directory in Windows 10</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-resolve-iphone-tethering-problems-for-seamless-internet-sharing/"><u>How to Resolve iPhone Tethering Problems for Seamless Internet Sharing</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-apple-id-is-greyed-out-from-apple-iphone-8-how-to-bypass-by-drfone-ios/"><u>In 2024, Apple ID is Greyed Out From Apple iPhone 8 How to Bypass?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/iphone-14-pro-and-iphone-14-pro-max-comparison-choosing-the-right-model-for-your-upgrade-insights-from-zdnet/"><u>IPhone 14 Pro and iPhone 14 Pro Max Comparison: Choosing the Right Model for Your Upgrade - Insights From ZDNet</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-error-windows-cant-stop-volume-device/"><u>Overcoming Error: Windows Can’t Stop Volume Device</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/overcoming-the-missing-mfplatdll-error-effective-strategies-to-restore-functionality/"><u>Overcoming the Missing mfplat.dll Error: Effective Strategies to Restore Functionality</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/save-big-on-macbook-air-with-m1-chip-at-an-unbeatable-discounted-rate-of-649-exclusive-deal-alert-zdnet/"><u>Save Big on MacBook Air with M1 Chip at an Unbeatable Discounted Rate of $649 – Exclusive Deal Alert! [ZDNet]</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/set-up-and-manage-slack-alerts-with-your-apple-watch-a-step-by-step-guide/"><u>Set Up and Manage Slack Alerts with Your Apple Watch: A Step-by-Step Guide</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-ranking-iphones-comprehensive-reviews-by-industry-experts/"><u>Top-Ranking iPhones : Comprehensive Reviews by Industry Experts</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ling-the-secrets-of-youtube-shorts-success/"><u>Unveiling the Secrets of YouTube Shorts Success</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/why-go-hybrid-discover-comparable-windows-contenders-to-macbook-air-with-cutting-edge-features-insights/"><u>Why Go Hybrid? Discover Comparable Windows Contenders to MacBook Air with Cutting-Edge Features Insights</u></a></li>
+</ul></div>
 

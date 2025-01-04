@@ -1,7 +1,7 @@
 ---
 title: Fall Innovations on Apple Products! Find Out What's New for iPhone, iPad & Mac - From Advanced AI Integration Report
-date: 2024-12-22T01:55:20.847Z
-updated: 2024-12-25T19:13:29.119Z
+date: 2025-01-03T16:18:07.060Z
+updated: 2025-01-04T16:11:23.152Z
 tags:
   - apple
 categories:
@@ -38,6 +38,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Apple Intelligence (AI)
 
 Maria Diaz/ZDNET
@@ -60,10 +64,6 @@ Maria Diaz/ZDNET
 * In the Notes app, users can **record and transcribe audio**, which Apple Intelligence will generate a text summary of. This experience is also available in the Notes phone app.
 * Apple Intelligence is free on iOS 18, iPadOS 18, and MacOS Sequoia, and will be available to try in English only this summer.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Partnership with OpenAI
 
 Jason Hiner/ZDNET
@@ -73,7 +73,7 @@ Jason Hiner/ZDNET
 * The ChatGPT integration will be coming to iOS 18, iPadOS 18, and MacOS Sequoia later this year.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## iOS 18
@@ -95,7 +95,7 @@ Adam Breeden/ZDNET
 * The **Calendar app** can now pull from the Reminders app for a more seamless schedule overview.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## WatchOS 11
@@ -111,6 +111,10 @@ Adam Breeden/ZDNET
 * With watchOS, users will get suggestions on the best photo options for their **watch face** from their photo library based on criteria such as aesthetics, composition, facial expressions, and more. The face can also be customized with different sizes, layouts, and fonts.
 * **Check In** is available on Apple Watch, even during workouts, to help users stay safe. **Translate** is also coming to Apple Watch so users can translate text right from their wrists.
 * Another notable change is that the **double tap gesture** can be used to scroll through apps.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## iPadOS 18
 
@@ -132,10 +136,6 @@ Adam Breeden/ZDNET
 * **Video meetings** are also getting an upgrade, with new backgrounds and a preview experience that allows you to see what you are about to share before sharing it. This feature works with popular video conferencing applications such as FaceTime and Zoom.
 * The **AI summarization** tool will live in Safari to help users process content like web pages and articles more efficiently. Safari will also assist users in discovering more helpful information about a page they are browsing when relevant, such as directions.
 * Apple also launched a new **Viewer experience**, which does for video what Reader does for text.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## VisionOS 2
 
@@ -163,7 +163,7 @@ Jason Hiner/ZDNET
 * Apple is also releasing a **Personalized Spatial Audio API** for game developers to build around the AirPods' audio technology.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## tvOS 18
@@ -210,16 +210,14 @@ Screenshot by Nina Raemont/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/aining-exposure-cost-effective-promotion-hacks-for-youtubers-for-2024/"><u>[New] Gaining Exposure Cost-Effective Promotion Hacks for YouTubers for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-adsense-on-youtube-determining-your-income-from-1k-viewer-engagement/"><u>[New] In 2024, AdSense on YouTube Determining Your Income From 1K Viewer Engagement</u></a></li>
-<li><a href="https://article-files.techidaily.com/best-top-5-zero-cost-windows-screen-recorder-tools/"><u>Best Top 5 Zero-Cost Windows Screen Recorder Tools</u></a></li>
-<li><a href="https://win-able.techidaily.com/end-the-woes-of-oxygens-crashing-problem-with-these-simple-solutions/"><u>End the Woes of Oxygen's Crashing Problem with These Simple Solutions</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/exploring-what-makes-an-ipad-unique-compared-to-standard-tablets/"><u>Exploring What Makes an iPad Unique Compared to Standard Tablets</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-flavorful-frames-stepwise-food-film-making/"><u>In 2024, Flavorful Frames Stepwise Food Film-Making</u></a></li>
-<li><a href="https://extra-support.techidaily.com/manufacture-mirthful-animations-on-giphy-for-2024/"><u>Manufacture Mirthful Animations on Giphy for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/mastering-the-art-of-great-photography-with-your-iphone-or-ipad/"><u>Mastering the Art of Great Photography with Your iPhone or iPad</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/the-ultimate-solution-for-mss32dll-error-fix-and-prevention-tips/"><u>The Ultimate Solution for mss32.dll Error - Fix and Prevention Tips</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/ultimate-guide-resolving-dsounddll-missingnot-found-mistakes/"><u>Ultimate Guide: Resolving dsound.dll Missing/Not Found Mistakes</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/unseen-words-on-video-a-guide-for-missing-youtube-comments/"><u>Unseen Words on Video - A Guide for Missing YouTube Comments</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-basic-understanding-of-animate-graphic-content/"><u>2024 Approved Basic Understanding of Animate Graphic Content</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/approach-explain-the-biological-function-of-rank-ligand-and-its-inhibitors/"><u>Approach: Explain the Biological Function of RANK Ligand and Its Inhibitors</u></a></li>
+<li><a href="https://techtrends.techidaily.com/find-and-fix-the-python24dll-not-found-error-expert-tips-and-advice/"><u>Find and Fix the 'Python24.dll Not Found' Error: Expert Tips & Advice</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/forget-rice-apple-recommends-these-methods-to-revive-your-wet-smartphone-exclusive-guide-by-zdnet/"><u>Forget Rice, Apple Recommends These Methods to Revive Your Wet Smartphone | Exclusive Guide by ZDNET</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/tech-troubleshooting-triumph-how-to-repair-helperdll-failure-messages-on-your-pc/"><u>Tech Troubleshooting Triumph: How to Repair 'Helper.dll' Failure Messages on Your PC</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ultimate-guide-enjoying-pokemon-go-adventures-with-friends/"><u>Ultimate Guide: Enjoying 'Pokémon Go' Adventures with Friends</u></a></li>
+<li><a href="https://win-latest.techidaily.com/ultimate-guide-mastering-the-art-of-snipping-movies-and-videos-on-windows-with-easy-steps/"><u>Ultimate Guide: Mastering the Art of Snipping Movies & Videos on Windows with Easy Steps</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ultimate-ranking-of-2024s-finest-apple-watches-expert-insights-and-detailed-analysis/"><u>Ultimate Ranking of 2024'S Finest Apple Watches: Expert Insights & Detailed Analysis</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/understanding-dvrs-a-comprehensive-guide-to-digital-video-recorders/"><u>Understanding DVRs: A Comprehensive Guide to Digital Video Recorders</u></a></li>
 </ul></div>
 

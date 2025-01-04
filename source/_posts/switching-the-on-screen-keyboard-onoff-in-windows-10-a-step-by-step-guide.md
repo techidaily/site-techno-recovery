@@ -1,7 +1,7 @@
 ---
 title: "Switching the On-Screen Keyboard On/Off in Windows 10: A Step-by-Step Guide"
-date: 2024-08-26T06:08:14.876Z
-updated: 2024-08-27T06:08:14.876Z
+date: 2025-01-02T16:09:39.895Z
+updated: 2025-01-04T16:17:11.169Z
 categories:
   - BestProducts
 description: "This Article Describes Switching the On-Screen Keyboard On/Off in Windows 10: A Step-by-Step Guide"
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/5c4901379d06e76779eeda32a494315f2bc02d2e9
 
  This article explains three easy ways to open a Pages document on your Windows computer. The instructions assumes you have the[Pages file](https://www.lifewire.com/what-is-a-pages-file-2622800) already saved on your PC.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Open a Pages File Using iCloud
 
  You don’t have to own an iPhone to have an[iCloud account](https://www.lifewire.com/icloud-faq-1999497) . Apple offers its cloud service for free, giving you a way not only to open a Pages document but edit it online or download it as a Microsoft Word or PDF file. It's is an excellent option if you anticipate receiving additional Pages files.
@@ -30,12 +34,21 @@ thumbnail: https://thmb.techidaily.com/5c4901379d06e76779eeda32a494315f2bc02d2e9
 4. Browse for and select the**Pages** file, then choose**Open** .  
 ![File browsing window with the Pages file and "Open" highlighted](https://www.lifewire.com/thmb/Fss9CIM1vsp6Gqm9iTRleQGm-I0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Pagesfileopen-3814642addc445e8a86a694d3a6b2d9f.jpg)
 5. You’ll see the Pages file in the Browse section. Double-click to open, view, and edit the document online.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Pages file in iCloud highlighted](https://www.lifewire.com/thmb/6cvAbibnpx257jk0CGVCJ3y2ClI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Pagesfile-baf901f85a414454b78cff5aa9e15571.jpg)
 6. If you prefer to download the document, select the**ellipsis** (three dots) on the bottom right corner of the file, then choose**Download a Copy** .  
 ![Pages file in iCloud with "Download a Copy" highlighted](https://www.lifewire.com/thmb/RsiWblXgZnXiOAlWBe0KZyXKCqE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Downloadacopy-891739d3aae64002839b6d9dc2174734.jpg)
 7. Choose **PDF** or **Word** per your preference.  
 ![iCloud download formats with PDF and Word highlighted](https://www.lifewire.com/thmb/87oP7ttJnAsrMpJlTAY3RHKps5Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/PDForWord-10c7a04cc07f48359e4eb7b145dba808.jpg)
 8. Follow the subsequent prompts to download the Pages file and open it with the application of your choice. For example, use a[PDF reader](https://www.lifewire.com/free-pdf-readers-1356652) for that format, or a word processor if you downloaded it as a[DOCX](https://www.lifewire.com/docx-file-2620750) file.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Convert a Pages File to Word or PDF Online
 
@@ -45,25 +58,22 @@ thumbnail: https://thmb.techidaily.com/5c4901379d06e76779eeda32a494315f2bc02d2e9
 2. Select the arrow next to**Select File** and choose **From my Computer** .  
 ![Pages to Word converter with Select File and From my Computer highlighted](https://www.lifewire.com/thmb/j-3RhxSJl5DNKzbdajcjGSe2IuU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/SelectFilefrommycomputer-abb8a9e962584bd5acd71153a4172b5c.jpg)
 3. Browse for and select the Pages file, then select**Open** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
-<!-- affiliate ads end -->
 ![File list with Pages file and Open highlighted](https://www.lifewire.com/thmb/bvKyYAehe8Sc1Dfho6IYbeiRlMc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/PagesfileOpen2-62b4a45a63e94fc493fea3568b4ee115.jpg)
 4. Confirm that the right format is chosen (**DOC** ,**DOCX** , or**PDF** ). Then select**Convert** .  
 ![Pages to Word Converter with the Pages document and Convert highlighted](https://www.lifewire.com/thmb/zqvETFwmB94hW0UeoIp114f9rig=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/convert-ea985d99bb8344a2a09eda548a9946de.jpg)
 5. You’ll see the conversion as it processes and then finishes. Select**Download** to get the converted file.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
-![Pages to word converter process with Download highlighted](https://www.lifewire.com/thmb/V9UjdETNc8ZjjVmSBcGdksYxHUM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/DownloadPagesfile-0017cc7494334bf788c62b0300e4af86.jpg)
-6. Follow the subsequent prompt to download the file to your computer.
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![Pages to word converter process with Download highlighted](https://www.lifewire.com/thmb/V9UjdETNc8ZjjVmSBcGdksYxHUM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/DownloadPagesfile-0017cc7494334bf788c62b0300e4af86.jpg)
+6. Follow the subsequent prompt to download the file to your computer.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Convert and Send a Pages File Using an iPhone or iPad
 
  If you have an iPhone or iPad, you can quickly convert the Pages document to a Word or PDF file and then send it to your Windows computer.
@@ -72,18 +82,15 @@ thumbnail: https://thmb.techidaily.com/5c4901379d06e76779eeda32a494315f2bc02d2e9
 2. Tap the **Share** button on the top right and select **Pages** in the second row of your share sheet.  
 ![iOS Pages app with Share and Pages highlighted](https://www.lifewire.com/thmb/cuA92Rec-OnHVaUvCQM2bPg9QVQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Sharetopages-792778085e1c4d22a586fbccdd307b05.jpg)
 3. Tap the**Share** button in Pages, followed by**Export and Send** . Choose a format from the list, like**PDF** or**Word** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
  If you don't see that on your device, tap the**ellipsis** (three dots) instead, then choose**Export** and pick **PDF** or **Word** .  
 ![iOS Pages app with More (three dots), Export, and PDF/Word highlighted](https://www.lifewire.com/thmb/C598CaqMqyVM3NXjacp3EbLTJtw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ExporttoPDF-a5114792ff0141ef9c39d731d0d7a633.jpg)
 4. Your share sheet should open automatically, but if it doesn't tap **Export** or**Share** .
 5. Choose the best option to[send or share the file with your Windows computer](https://www.lifewire.com/access-iphone-files-on-pc-5180132) . For instance, you can send it via Mail, Gmail, Slack, or another method to easily obtain it on your PC.  
 ![PDF export in Pages app with Share and share options highlighted](https://www.lifewire.com/thmb/tYJA0O93KMcRuzmcBflBb6CuBQE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/SharePDF-ae61c6c233af462980fe6e9a7ef87c1f.jpg)
 6. Follow the subsequent prompts, depending on the method you select, and then open the Word or PDF file on your Windows computer.
+
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Each of these methods gives you a way to view the Pages file you receive and edit and save it in a file format that works better for you. And if more than one option works, you can then decide which works best for you.
@@ -115,8 +122,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -124,4 +129,26 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-support.techidaily.com/new-storytelling-mastery-scriptwriting-secrets-revealed/"><u>[New] Storytelling Mastery Scriptwriting Secrets Revealed</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-in-2024-audacity-mastery-neutralizing-disruptive-noise/"><u>[Updated] In 2024, Audacity Mastery Neutralizing Disruptive Noise</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/best-protection-for-your-iphone-se-in-202n-the-top-case-picks-you-need-to-know-zdnet/"><u>Best Protection for Your iPhone SE in 202N: The Top Case Picks You Need to Know | ZDNET</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/comprehensive-guide-on-understanding-lg-distribution-networks/"><u>Comprehensive Guide on Understanding LG Distribution Networks</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/expert-opinion-on-the-iphone-15-compelling-reasons-to-choose-this-model-over-others/"><u>Expert Opinion on the iPhone 15: Compelling Reasons to Choose This Model Over Others</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-prevent-unwanted-access-disabling-the-default-discoverable-setting-in-apples-latest-journal-update/"><u>How to Prevent Unwanted Access: Disabling the Default 'Discoverable' Setting in Apple's Latest Journal Update</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-uninstall-built-in-iphone-apps-a-comprehensive-guide/"><u>How to Uninstall Built-In iPhone Apps: A Comprehensive Guide</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/ideal-video-editing-software-enhance-your-webcam-content-for-2024/"><u>Ideal Video Editing Software Enhance Your Webcam Content for 2024</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-change-realme-v30-lock-screen-password-by-drfone-android/"><u>In 2024, How To Change Realme V30 Lock Screen Password?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-vivo-t2-pro-5g-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Vivo T2 Pro 5G Find My Friends No Location Found? | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-pinnacle-of-voice-recording-a-comprehensive-tome/"><u>In 2024, The Pinnacle of Voice Recording A Comprehensive Tome</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-honor-play-8t-drfone-by-drfone-virtual-android/"><u>In 2024, The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Honor Play 8T | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/mastering-instagram-boost-your-following-for-2024/"><u>Mastering Instagram Boost Your Following for 2024</u></a></li>
+<li><a href="https://app-tips.techidaily.com/microsofts-recent-patch-might-escalate-evening-tech-woes-experts-at-zdnet-caution/"><u>Microsoft's Recent Patch Might Escalate Evening Tech Woes, Experts at ZDNet Caution</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/professional-insight-expert-analysis-of-the-microsoft-surface-pro-8-at-zdnet/"><u>Professional Insight: Expert Analysis of the Microsoft Surface Pro 8 at ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ultimate-tutorial-on-pairing-a-bluetooth-speaker-to-a-laptop-or-desktop/"><u>Ultimate Tutorial on Pairing a Bluetooth Speaker to a Laptop or Desktop</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unlock-early-access-to-ios-181-update-incorporating-advanced-apple-intelligence-learn-how/"><u>Unlock Early Access to IOS 18.1 Update Incorporating Advanced Apple Intelligence – Learn How</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unveiling-viewership-a-guide-to-tracking-whos-watching-your-youtube-content/"><u>Unveiling Viewership: A Guide to Tracking Who's Watching Your YouTube Content</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-slideshow-mastery-a-step-by-step-guide-to-using-final-cut-pro-for-2024/"><u>Updated Slideshow Mastery A Step-by-Step Guide to Using Final Cut Pro for 2024</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Mastering Data Merge Techniques: How to Unite Excel Sheets Side by Side"
-date: 2024-08-26T06:08:26.476Z
-updated: 2024-08-27T06:08:26.476Z
+date: 2024-12-31T16:11:07.868Z
+updated: 2025-01-04T16:09:13.410Z
 categories:
   - BestProducts
 description: "This Article Describes Mastering Data Merge Techniques: How to Unite Excel Sheets Side by Side"
@@ -21,8 +21,18 @@ thumbnail: https://thmb.techidaily.com/3be6004f814f322eb7c81e59f5f3e6dc5377a1a28
 1. Select the **gear** in the upper-right corner of Gmail, and then select **Settings** from the drop-down menu.  
 ![The Settings item highlighted in the Gear menu on Gmail.](https://www.lifewire.com/thmb/KOGC658202lNPjWZrUD1uiPo8qY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A1-BestGmailKeyboardShortcuts-annotated-927d539b94624bf7baa0a371166f8382.jpg)
 2. Scroll down to the **Keyboard shortcuts** section and select **Keyboard shortcuts on** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![The Keyboard Shortcuts on/off buttons highlighted on Gmail's Settings screen.](https://www.lifewire.com/thmb/lPV2-ew-bY8v5xkR1Y6pZ0fLprc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A2-BestGmailKeyboardShortcuts-annotated-639cd7b44f654d4a9fc5e371f7ebae28.jpg)
 3. Scroll to the bottom of the page and select **Save Changes** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![The Save Changes button highlighted on Gmail's Settings screen.](https://www.lifewire.com/thmb/Ti1cWFQAWPKtDw4DsaTTA96KzR0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A3-BestGmailKeyboardShortcuts-annotated-bab1aa8c28204ee494f3daa266fd0100.jpg)
 
 ## How to Create, Send, and Forward Email
@@ -52,17 +62,15 @@ thumbnail: https://thmb.techidaily.com/3be6004f814f322eb7c81e59f5f3e6dc5377a1a28
 * **Scroll through an email thread (N)** : Press**N** to quickly scroll down multiple conversations in a thread.
 
 <!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Select Multiple Emails
 
  Need to select a bunch of emails at the same time? This shortcut will save you from having to click on each email separately:
 
 * **Select multiple emails in a row (Shift)** : Check the box beside the first email in the series, then press and hold the**Shift** key and check the box for the last email in the series. Everything between both boxes will be selected.
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## How to Add Formatting to Email Text
 
  Use these commands to apply text formatting while you compose a message. Perform the same actions to undo the formatting:
@@ -75,9 +83,9 @@ thumbnail: https://thmb.techidaily.com/3be6004f814f322eb7c81e59f5f3e6dc5377a1a28
  On Mac computers, use the**Command** key in place of the**Ctrl** key.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Add Elements to an Email
 
  Addling links, numbered lists, and bullet points to your emails can also be done using keyboard shortcuts:
@@ -88,9 +96,6 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 
  On Mac computers, use the**Command** key in place of the**Ctrl** key.
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Email Maintenance Shortcuts
 
  Use these shortcuts to help manage your inbox:
@@ -101,9 +106,6 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 * **Mark an email as unread (Shift** +**U)** : Open an email or select it by clicking the box beside the sender's name, then press**Shift** +**U** to mark it as unread.
 * **Mark a message as important (Shift** +**\=)** : Open an email or select it by clicking the box beside the sender's name, then press**Shift** +**\=** to mark it as important.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## "Go to" Shortcuts in Gmail
 
  The following shortcuts can be used for[navigating Gmail](https://www.lifewire.com/go-to-the-next-or-previous-message-in-gmail-1172068) . Unlike the shortcuts above, the individual keys must be pressed separately rather than simultaneously
@@ -116,6 +118,10 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 * **Go to All mail (G, then A)** : Press the**G** key, then press**A** to see all messages.
 * **Move from different fields (Tab):** Press the**Tab** key to jump down the different fields in your email composition screen. To go in the opposite direction, press**Shift** +**Tab** .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to View All Gmail Shortcuts
 
  Need help remembering a shortcut? You can quickly pull up the entire list with a keyboard shortcut:
@@ -124,9 +130,6 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 
 ![Press Shift + ? to get the full list of Gmail keyboard shortcuts anytime.](https://www.lifewire.com/thmb/5ON5QzCh_hrJrz93Hlci-4WmI4Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004_best-gmail-keyboard-shortcuts-4686794-0852ef75c64547feb336f96dbb1be04e.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
-<!-- affiliate ads end -->
 Was this page helpful?
 
 Thanks for letting us know!
@@ -147,8 +150,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -156,4 +157,22 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-revolutionizing-facebook-advertising-through-creative-insight/"><u>[New] 2024 Approved Revolutionizing Facebook Advertising Through Creative Insight</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-selfie-to-world-stage-mastering-the-art-of-instagram-captions-for-2024/"><u>[New] Selfie to World Stage Mastering the Art of Instagram Captions for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-2024-approved-elevate-your-photos-decoding-the-best-canva-tips/"><u>[Updated] 2024 Approved Elevate Your Photos Decoding the Best Canva Tips</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-live-photo-reconstruction-into-time-lapse-movies/"><u>[Updated] Live Photo Reconstruction Into Time-Lapse Movies</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/addressing-the-error-in-latest-ipad-debut-expert-insights-and-resolutions/"><u>Addressing the Error in Latest iPad Debut: Expert Insights and Resolutions</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-cant-take-screenshot-due-to-security-policy-on-nokia-c22-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Cant Take Screenshot Due to Security Policy on Nokia C22 | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-oppo-reno-11f-5g-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Oppo Reno 11F 5G without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/huge-savings-alert-apple-drops-airpods-price-by-40-in-pre-independence-day-deal-tech-news-today/"><u>Huge Savings Alert: Apple Drops AirPods Price by $40 in Pre-Independence Day Deal | Tech News Today</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/hybrid-setup-simplified-running-ubuntu-on-macos-with-xcode-using-a-clever-shortcut-learn-how/"><u>Hybrid Setup Simplified: Running Ubuntu on macOS with Xcode Using a Clever Shortcut - Learn How!</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/in-2024-streamlining-production-workflow-extracting-audio-separately-on-a-mac-with-imovie/"><u>In 2024, Streamlining Production Workflow Extracting Audio Separately on a Mac with iMovie</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/innovation-unleashed-top-15-android-virtual-machines-macpc-for-2024/"><u>Innovation Unleashed Top 15 Android Virtual Machines (Mac/PC) for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/score-a-free-150-apple-store-credit-top-tips-for-snagging-it-with-your-macipad-purchase/"><u>Score a Free $150 Apple Store Credit - Top Tips for Snagging It with Your Mac/iPad Purchase!</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-ultimate-guide-to-picking-a-superior-gaming-pc-what-matters-most/"><u>The Ultimate Guide to Picking a Superior Gaming PC - What Matters Most?</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-rated-ipad-models-of-2024-comprehensive-reviews-by-tech-gurus/"><u>Top-Rated iPad Models of 2024: Comprehensive Reviews by Tech Gurus</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unveiling-the-superior-apple-magsafe-wallet-alternative-thats-now-on-sale/"><u>Unveiling the Superior Apple MagSafe Wallet Alternative That's Now on Sale</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Get Your iPhone Upgraded with iOS 18! Step-by-Step Download Instructions and Supported Devices | Insights From ZDNET
-date: 2024-12-23T19:48:49.768Z
-updated: 2024-12-26T05:18:57.271Z
+date: 2025-01-02T16:03:00.622Z
+updated: 2025-01-04T16:02:57.422Z
 tags:
   - apple
 categories:
@@ -26,35 +26,31 @@ While the official iOS 18 general release is today, users have already been able
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to install iOS 18
 
 Jason Hiner/ZDNET
 
 **What you need:** An iPhone running iOS 16.5 or later. Since not all iPhones are compatible with iOS 18, you'll also need a model [newer than the iPhone X](https://www.zdnet.com/article/best-iphone/).
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Go to General in your iPhone Settings
 
 Go to your iPhone's Settings and select General. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Go to Software Update in Settings
 
 Within General, tap on Software Update. This will show you if the iOS 18 update is available for you to download.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Download and install
 
 When you tap on Software Update, your iPhone will check for the latest version of iOS available. Then, you'll be able to Download and Install the new update. Your iPhone will begin the download immediately.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. Enter your passcode and follow steps to install
 
@@ -62,14 +58,22 @@ Enter your passcode, if necessary, to authorize the installation of the new iOS 
 
 After installing the latest iOS update, your iPhone will restart.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## FAQs
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### When is Apple Intelligence coming out?
 
 Apple Intelligence, featuring the company's AI tools, will begin to roll out for compatible iPhones over the next few weeks, with more features to join in the coming months. This slew of AI features will be available on the iPhone 16 lineup and the iPhones 15 Pro and Pro Max.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### When was iOS 18 released?
@@ -85,10 +89,6 @@ You can always be part of the Apple Beta program to get the latest beta versions
 * Back up your device and personal information.
 * Don't download beta software, which will likely have bugs and glitches, on your everyday iPhone.
 * You should go into the experience to test new features and share feedback to improve iOS, which is why beta versions are released.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### How do I install the iOS 18 beta version?
 
@@ -161,18 +161,24 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://howto.techidaily.com/11-proven-solutions-to-fix-google-play-store-not-working-issue-on-poco-f5-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Proven Solutions to Fix Google Play Store Not Working Issue on Poco F5 5G | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/best-pokemons-for-pvp-matches-in-pokemon-go-for-tecno-camon-20-pro-5g-drfone-by-drfone-virtual-android/"><u>Best Pokemons for PVP Matches in Pokemon Go For Tecno Camon 20 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-mpow-bluetooth-software-latest-updates-for-windows-10-8-and-7/"><u>Download MPOW Bluetooth Software: Latest Updates for Windows 10, 8, and 7</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/in-2024-dynamic-ppt-leveraging-voice-for-effective-delivery/"><u>In 2024, Dynamic PPT Leveraging Voice for Effective Delivery</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-navigating-video-streaming-tools-a-focus-on-zoom-with-youtube/"><u>In 2024, Navigating Video Streaming Tools A Focus on Zoom with YouTube</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/209911692-9781946774118-the-three-magical-books-of-solomon/"><u>The Three Magical Books of Solomon | Free Book</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/troubleshooting-unresponsive-hp-devices/"><u>Troubleshooting Unresponsive HP Devices</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/unique-eco-friendly-presents-carbon-credit-giving-for-the-holidays-tips-by-zdnet-experts/"><u>Unique Eco-Friendly Presents: Carbon Credit Giving for the Holidays, Tips by ZDNET Experts</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/unleashing-the-potential-of-ecoflows-newest-marvel-the-entry-level-river-3-battery-expert-insights-from-zdnet/"><u>Unleashing the Potential of EcoFlow's Newest Marvel - The Entry-Level River 3 Battery | Expert Insights From ZDNET</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/unlocking-the-future-my-experience-testing-face-recognition-biometric-locks-a-game-changer-in-home-security-zdnet/"><u>Unlocking the Future: My Experience Testing Face Recognition Biometric Locks - A Game Changer in Home Security | ZDNet</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/why-the-arlo-pro-5s-nearly-nailed-it-a-comprehensive-review-of-its-features-and-limitations/"><u>Why the Arlo Pro 5S Nearly Nailed It: A Comprehensive Review of Its Features and Limitations</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/zdnet-explores-how-ecoflows-battery-powered-up-an-entire-home-during-outages-your-ultimate-guide-to-portable-solutions/"><u>ZDNet Explores How EcoFlow's Battery Powered Up an Entire Home During Outages: Your Ultimate Guide to Portable Solutions</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/zdnet-reports-on-john-deeres-latest-commitment-to-support-the-right-to-repair-cause/"><u>ZDNet Reports on John Deere’s Latest Commitment to Support the 'Right to Repair' Cause</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-core-auditory-stimulation-channels/"><u>[New] 2024 Approved Core Auditory Stimulation Channels</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-viral-vector-tags-keywords-that-power-up-your-social-media-snaps/"><u>[New] 2024 Approved Viral Vector Tags Keywords that Power Up Your Social Media Snaps</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-dive-into-multi-tasking-mastery-with-chromes-pip-feature/"><u>[Updated] In 2024, Dive Into Multi-Tasking Mastery with Chrome's PIP Feature</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-snap-edit-and-share-with-ease-your-4-step-blueprint-for-instagram-gifs/"><u>[Updated] Snap, Edit, and Share with Ease Your 4-Step Blueprint for Instagram GIFs</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-navigating-the-nuances-of-slow-motion-video-with-gopro-hero-10/"><u>2024 Approved Navigating the Nuances of Slow Motion Video with GoPro Hero 10</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3-ways-to-change-location-on-facebook-marketplace-for-apple-iphone-13-pro-max-drfone-by-drfone-virtual-ios/"><u>3 Ways to Change Location on Facebook Marketplace for Apple iPhone 13 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/authoritative-guide-to-the-premier-tablets-of-2024-comprehensive-expert-reviews-zdnet/"><u>Authoritative Guide to the Premier Tablets of 2024 - Comprehensive Expert Reviews | ZDNET</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/conquer-the-clutter-learn-bg-erasure-in-figma-designs/"><u>Conquer the Clutter Learn BG Erasure in Figma Designs</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/decoding-royal-match-how-deep-does-it-go/"><u>Decoding Royal Match: How Deep Does It Go?</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/decoding-ui-800-3-expert-tips-to-correctly-fix-netflixs-streaming-snags/"><u>Decoding UI-800-3: Expert Tips to Correctly Fix Netflix's Streaming Snags</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discover-the-ultimate-list-of-music-video-platforms-you-must-see/"><u>Discover the Ultimate List of Music Video Platforms You Must See</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/earn-a-150-apple-gift-card-when-buying-your-next-mac-or-ipad-for-education-simple-steps-revealed/"><u>Earn a $150 Apple Gift Card When Buying Your Next Mac or iPad for Education - Simple Steps Revealed</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-farewell-frameworks-free-to-subscription-options-here/"><u>In 2024, Farewell Frameworks Free to Subscription Options Here</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-inexpensive-mirrorless-and-dslr-options/"><u>In 2024, Inexpensive Mirrorless & DSLR Options</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/integrating-ai-conversations-on-apple-devices-collaboration-between-apple-and-openai-powers-up-iosipadosmacos/"><u>Integrating AI Conversations on Apple Devices: Collaboration Between Apple & OpenAI Powers Up iOS/iPadOS/MacOS</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/maximize-your-iphone-storage-a-step-by-step-guide-to-clearing-out-the-clutter/"><u>Maximize Your iPhone Storage: A Step-by-Step Guide to Clearing Out the Clutter</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/pattern-locks-are-unsafe-secure-your-oneplus-nord-n30-5g-phone-now-with-these-tips-by-drfone-android/"><u>Pattern Locks Are Unsafe Secure Your OnePlus Nord N30 5G Phone Now with These Tips</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/solving-common-issues-in-apples-remote-app-a-step-by-step-guide/"><u>Solving Common Issues in Apple's Remote App: A Step-by-Step Guide</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-6-sites-to-stream-your-favorite-music-vids/"><u>Top 6 Sites to Stream Your Favorite Music Vids</u></a></li>
 </ul></div>
 

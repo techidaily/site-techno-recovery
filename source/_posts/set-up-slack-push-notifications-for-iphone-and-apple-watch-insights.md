@@ -1,7 +1,7 @@
 ---
 title: Set Up Slack Push Notifications for iPhone and Apple Watch | Insights
-date: 2024-12-23T06:47:19.248Z
-updated: 2024-12-26T03:49:18.372Z
+date: 2025-01-02T16:19:51.773Z
+updated: 2025-01-04T16:04:19.278Z
 tags:
   - apple
 categories:
@@ -45,12 +45,16 @@ Here's how.
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to enable Slack notifications on your Apple Watch
 
 **What you'll need:** Have the latest versions of iOS and watchOS installed on your iPhone and Apple Watch, respectively. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. Install the Slack app on your iPhone
 
@@ -59,16 +63,12 @@ There is no dedicated Slack app for the Apple Watch, but there is an iPhone app.
 Once it's installed, go ahead and log into your various Slack channels. Get those setup and working as you like before configuring the app for notifications.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Set up Slack notifications in the system settings
 
 Let's make sure iOS is set up to allow Slack notifications. Go to the main Settings app and on the main settings screen, scroll all the way down to Slack. It's a long scroll past many other apps. Tap into Slack.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##   
 
@@ -103,7 +103,7 @@ Screenshot by David Gewirtz/ZDNET
 Set it to "Always, even when I'm active". That way, you'll always get notifications, no matter what you're doing (unless you have Do Not Disturb turned on).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Set your notification schedule
@@ -137,7 +137,7 @@ Screenshot by David Gewirtz/ZDNET
 There. You've set up notifications. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  6\. Use the Watch to get Slack notifications
@@ -179,22 +179,20 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/xclusive-mcb-logo-designs-and-templates/"><u>[New] Exclusive MCB Logo Designs and Templates</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-pro-tips-for-video-conference-recordings-desktop-edition/"><u>[New] Pro Tips for Video Conference Recordings Desktop Edition</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-scoop-on-the-best-speed-a-top-ranked-list-of-racing-games/"><u>[Updated] 2024 Approved Scoop on the Best Speed A Top-Ranked List of Racing Games</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-a-streamers-companion-roku-plus-facebook-live-explained-for-2024/"><u>[Updated] A Streamer's Companion ROKU + Facebook Live Explained for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-rehabilitating-faulty-obs-camera-connection-for-2024/"><u>[Updated] Rehabilitating Faulty OBS Camera Connection for 2024</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-stream-into-the-now-enjoying-real-time-broadcasts-with-roku-and-facebook/"><u>[Updated] Stream Into The Now Enjoying Real-Time Broadcasts with Roku & Facebook</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/beat-the-apple-glasses-hype-on-a-budget-how-i-found-relief-with-cost-effective-ar-eyewear-zdnet-exclusives/"><u>Beat the 'Apple Glasses' Hype on a Budget: How I Found Relief with Cost-Effective AR Eyewear | ZDNET Exclusives</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/discover-the-latest-from-razer-a-comprehensive-roundup-of-razers-exciting-unveilings-at-ces-2nite/"><u>Discover the Latest From Razer: A Comprehensive Roundup of Razer's Exciting Unveilings at CES 2Nite!</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/emerging-dominant-tech-forces-ai-virtual-assistants-and-ar-spotlight-this-weeks-hottest-innovations-zdnet/"><u>Emerging Dominant Tech Forces: AI, Virtual Assistants & AR Spotlight This Week's Hottest Innovations | ZDNet</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/exploring-the-lenovo-thinkreality-a3-experience-elevating-your-virtual-interactions/"><u>Exploring the Lenovo ThinkReality A3 Experience: Elevating Your Virtual Interactions</u></a></li>
-<li><a href="https://change-location.techidaily.com/here-are-some-of-the-best-pokemon-discord-servers-to-join-on-samsung-galaxy-f15-5g-drfone-by-drfone-virtual-android/"><u>Here are Some of the Best Pokemon Discord Servers to Join On Samsung Galaxy F15 5G | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-can-you-transfer-files-from-oppo-reno-11f-5g-to-iphone-151413-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How Can You Transfer Files From Oppo Reno 11F 5G To iPhone 15/14/13? | Dr.fone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/how-meta-quests-supernatural-app-revolutionized-my-fitness-journey-why-going-back-is-unthinkable-zdnet/"><u>How Meta Quest's Supernatural App Revolutionized My Fitness Journey – Why Going Back Is Unthinkable | ZDNET</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/how-to-secure-your-own-360-spectacular-videos-for-visionpro-and-quest3-download-instructions/"><u>How to Secure Your Own 360° Spectacular Videos for VisionPro and Quest3 – Download Instructions</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/inside-the-hushed-collaboration-qualcomm-unveils-its-joint-venture-with-samsung-and-google-on-ar-smart-glasses-a-dive-into-the-future/"><u>Inside the Hushed Collaboration: Qualcomm Unveils Its Joint Venture with Samsung & Google on AR Smart Glasses - A Dive Into the Future</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/master-list-of-8-gratis-cutting-edge-video-players-for-pcmac-os-for-2024/"><u>Master List of 8 Gratis, Cutting-Edge Video Players for PC/Mac OS for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/top-5-insights-from-the-ifixit-analysis-of-apple-vision-pros-internal-design-a-deep-dive-zdnet/"><u>Top 5 Insights From the iFixit Analysis of Apple Vision Pro's Internal Design: A Deep Dive - ZDNet</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-best-9-screen-free-adventures-in-mobile-gaming-android-edition/"><u>[New] 2024 Approved Best 9 Screen-Free Adventures in Mobile Gaming (Android Edition)</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-2024-approved-explore-largest-collection-of-free-vector-graphics-portals/"><u>[New] 2024 Approved Explore Largest Collection of Free Vector Graphics Portals</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-transcoding-ttml-and-ssa-into-easy-to-use-srt-format-for-2024/"><u>[New] Transcoding TTML & SSA Into Easy-to-Use SRT Format for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-picdistort-a-comprehensive-guide-to-image-alteration/"><u>[Updated] PicDistort A Comprehensive Guide to Image Alteration</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-x-marked-moments-in-the-22-snowboard-games/"><u>2024 Approved X-Marked Moments in the '22 Snowboard Games</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/capture-the-world-from-your-mobile-height/"><u>Capture the World From Your Mobile Height</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/compact-computing-unleashed-is-the-new-m4-powered-mac-mini-comparable-in-size-to-an-apple-tv-exclusive/"><u>Compact Computing Unleashed: Is the New M4-Powered Mac Mini Comparable in Size to an Apple TV? Exclusive</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/exploring-how-electric-bicycles-function-and-operate-efficiently/"><u>Exploring How Electric Bicycles Function and Operate Efficiently</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/googles-next-smartwatch-innovation-expected-price-range-release-forecast-and-tech-specs-rumor-buzzes/"><u>Google's Next Smartwatch Innovation: Expected Price Range, Release Forecast & Tech Specs - Rumor Buzzes</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-spot-a-fake-friend-request/"><u>How to Spot a Fake Friend Request</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ios-18-rumored-to-enable-airpods-pros-hearing-aid-functionality-no-device-upgrade-required-what-you-need-to-know/"><u>IOS 18 Rumored to Enable AirPods Pro's Hearing Aid Functionality, No Device Upgrade Required: What You Need to Know</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/mastering-home-wi-fi-with-linksys-ea8300-optimizing-for-multiple-gadgets/"><u>Mastering Home Wi-Fi with Linksys EA8300: Optimizing for Multiple Gadgets</u></a></li>
+<li><a href="https://extra-information.techidaily.com/techniques-to-rectify-iphone-photo-out-of-focus/"><u>Techniques to Rectify iPhone Photo Out-of-Focus</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-ranking-smartwatches-comprehensive-reviews-by-tech-experts-zdnet/"><u>Top-Ranking Smartwatches : Comprehensive Reviews by Tech Experts | ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-rated-smart-eyewear-your-ultimate-guide/"><u>Top-Rated Smart Eyewear : Your Ultimate Guide</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Score a Discounted New iPad (9Th Generation) at Only $250 Following Apple Event - Insights From ZDNet
-date: 2024-12-23T22:38:13.184Z
-updated: 2024-12-26T05:45:15.869Z
+date: 2025-01-03T16:04:20.944Z
+updated: 2025-01-04T16:20:57.309Z
 tags:
   - apple
 categories:
@@ -32,7 +32,7 @@ The [Apple iPad (9th Generation)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%
 If the 9th Gen is too outdated for your liking, the [iPad 10th Gen](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BJLXMVMV%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C0e4f34d4-230d-440c-8396-9b59edfffe70%7Cdtp&dtb=1) is also discounted right now, down to only $349 after Apple [dropped the price by $100](https://www.zdnet.com/article/this-349-ipad-was-secretly-the-best-announcement-during-the-apple-event/) following the announcement of their new iPads. This model features a 10.9-inch Liquid Retina display with 64GB of storage. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -69,16 +69,16 @@ Deals are subject to sell-out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-free-mobile-downloader-the-ultimate-apps-for-video-buffs-for-2024/"><u>[New] Free Mobile Downloader The Ultimate Apps for Video Buffs for 2024</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/n-2024-disabling-youtube-shorts-for-good-a-simple-approach/"><u>[New] In 2024, Disabling YouTube Shorts for Good A Simple Approach</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-four-essential-tips-for-acquiring-youtube-srt/"><u>2024 Approved Four Essential Tips for Acquiring YouTube SRT</u></a></li>
-<li><a href="https://solve-info.techidaily.com/how-to-fix-a-cracked-pc-monitor-a-step-by-step-guide-by-yl-computing/"><u>How to Fix a Cracked PC Monitor: A Step-by-Step Guide by YL Computing</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-contacts-from-honor-x50-by-fonelab-android-recover-contacts/"><u>How to Rescue Lost Contacts from Honor X50?</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/innovative-ring-doorbell-plus-assessment-enhancing-home-safety-and-convenience/"><u>Innovative Ring Doorbell Plus Assessment: Enhancing Home Safety and Convenience</u></a></li>
-<li><a href="https://article-helps.techidaily.com/prevent-washed-out-iphone-hd-videos-with-effective-premiere-pro-techniques-for-2024/"><u>Prevent Washed-Out iPhone HD Videos with Effective Premiere Pro Techniques for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/top-rated-free-vpns-comprehensive-testing-and-analysis-by-tech-experts-zdnet/"><u>Top-Rated Free VPNs : Comprehensive Testing and Analysis by Tech Experts | ZDNet</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/top-rated-iphone-and-ipad-vpns-comprehensive-reviews-by-tech-experts-choose-the-right-one/"><u>Top-Rated iPhone & iPad VPNs: Comprehensive Reviews by Tech Experts - Choose the Right One</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/top-rated-mobile-vpn-services-comprehensive-reviews-by-professionals-techradar/"><u>Top-Rated Mobile VPN Services : Comprehensive Reviews by Professionals | TechRadar</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/top-rated-vpn-services-for-windows-users-comprehensive-testing-and-reviews-by-experts-unlock-secure-browsing/"><u>Top-Rated VPN Services for Windows Users: Comprehensive Testing & Reviews by Experts - Unlock Secure Browsing</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-streamlinedprocess-for-youcamwebrecord-for-2024/"><u>[Updated] StreamlinedProcess for YouCamWebRecord for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/affordable-streams-the-ultimate-walkthrough-for-acquiring-spotifys-student-price-cut/"><u>Affordable Streams: The Ultimate Walkthrough for Acquiring Spotify's Student Price Cut</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/breath-of-fresh-air-for-tech-enthusiasts-apple-eyes-adding-respiration-tracking-feature-in-vision-pro-glasses/"><u>Breath of Fresh Air for Tech Enthusiasts: Apple Eyes Adding 'Respiration Tracking' Feature in Vision Pro Glasses</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/1722899009237-deciphering-speculations-around-apples-new-audible-gadget-cost-predictions-release-plans-and-features-at-a-glance/"><u>Deciphering Speculations Around Apple’s New Audible Gadget: Cost Predictions, Release Plans & Features at a Glance!</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/did-your-iphone-se-passcode-change-itself-unlock-it-now-by-drfone-ios/"><u>Did Your iPhone SE Passcode Change Itself? Unlock It Now</u></a></li>
+<li><a href="https://blog-min.techidaily.com/fix-your-iphones-app-store-connection-issues-with-these-expert-tips-and-tricks/"><u>Fix Your iPhone’s App Store Connection Issues with These Expert Tips and Tricks!</u></a></li>
+<li><a href="https://techtrends.techidaily.com/overcoming-silence-expert-tips-for-repairing-your-dormant-receiver-speaker-system/"><u>Overcoming Silence: Expert Tips for Repairing Your Dormant Receiver Speaker System</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/revolutionizing-mac-intelligence-apple-unveils-plan-for-ai-powered-m4-chips-across-all-models-release-dates-inside/"><u>Revolutionizing Mac Intelligence: Apple Unveils Plan for AI-Powered M4 Chips Across All Models - Release Dates Inside</u></a></li>
+<li><a href="https://win-dash.techidaily.com/solved-fixes-for-realtek-wifi-drivers-on-windows-11-10-and-7/"><u>Solved: Fixes for Realtek WiFi Drivers on Windows 11, 10 & 7</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/ultimate-gameplay-display-in-depth-analysis-of-the-philips-240hz-qd-oled-evonia-49m2c8900/"><u>Ultimate Gameplay Display: In-Depth Analysis of the Philips 240Hz QD-OLED Evonia 49M2C8900</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ultimate-tutorial-starting-command-prompt-on-any-windows-pc/"><u>Ultimate Tutorial: Starting Command Prompt on Any Windows PC</u></a></li>
 </ul></div>
 

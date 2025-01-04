@@ -1,7 +1,7 @@
 ---
 title: How to Find Saved Passwords on a Mac
-date: 2024-08-26T06:08:35.254Z
-updated: 2024-08-27T06:08:35.254Z
+date: 2025-01-03T16:26:19.583Z
+updated: 2025-01-04T16:22:38.622Z
 categories:
   - BestProducts
 description: This Article Describes How to Find Saved Passwords on a Mac
@@ -15,6 +15,10 @@ thumbnail: https://www.lifewire.com/thmb/CuZaYIa-IPn9NpzxED8qCE9z2w0=/400x300/fi
  But a wet iPhone isn't necessarily a dead iPhone. While some iPhones can't be saved no matter what you do, try these tips before you declare your beloved gadget dead.
 
  Many of the tips in this article apply to wet iPods, too. We also have full details on[saving a wet iPad](https://www.lifewire.com/save-wet-ipad-4128943) .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Dry Out and Fix a Wet iPhone
 
@@ -33,9 +37,6 @@ thumbnail: https://www.lifewire.com/thmb/CuZaYIa-IPn9NpzxED8qCE9z2w0=/400x300/fi
 1. **Never turn it on.** If your iPhone is water damaged,**never try to turn it on or wake it** . You may be tempted to do that to see if it still works, but doing that can short out its electronics and damage them even more. In fact, you should avoid anything that could cause the electronics to function, like getting notifications that light up the screen. If your phone was off when it got wet, you're fine. If your device was on,[turn it off](https://www.lifewire.com/turn-off-your-iphone-2000114) (this is a little risky, but it's better than leaving it on with all functions running).
 2. **Don't use a hair dryer.** While this technique has worked for some people, you can also damage your device or spread the water around more. It's best to avoid fans for the same reason. Don't leave your device on a radiator, either. That will get much[too hot and could damage the phone in other ways](https://www.lifewire.com/red-iphone-battery-icon-help-2000272) .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 ## Advanced Techniques for Fixing a Wet iPhone
 
  The simplest and probably safest method to save a wet iPhone is to let it dry out naturally. But there are a couple of advanced options you can try to speed up the process:
@@ -45,8 +46,9 @@ thumbnail: https://www.lifewire.com/thmb/CuZaYIa-IPn9NpzxED8qCE9z2w0=/400x300/fi
  Don't use enriched rice. It can leave dust behind that can get into your phone.
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Try This Only If You're Desperate to Fix Your Wet iPhone
 
  If you're really desperate, or really skilled, you can try this option—but you better know what you're doing. You can ruin your iPhone and[void your warranty](https://www.lifewire.com/iphone-warranty-plus-applecare-1999284) .
@@ -55,8 +57,9 @@ thumbnail: https://www.lifewire.com/thmb/CuZaYIa-IPn9NpzxED8qCE9z2w0=/400x300/fi
  This is very risky. Unless you really, really know what you're doing, you're likely to do more harm than good and should avoid this. Don't say we didn't warn you.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Try the Experts on Saving a Wet iPhone
 
  Don't want to take on this task yourself? Try the folks with experience in repairing wet iPhones and iPods.
@@ -65,8 +68,9 @@ thumbnail: https://www.lifewire.com/thmb/CuZaYIa-IPn9NpzxED8qCE9z2w0=/400x300/fi
 2. **Try Apple.**  While moisture damage isn't covered by Apple's warranty, Apple will repair iPhones that have water damaged. Different models have different repair prices, so[keep an eye on this page on Apple's site](https://support.apple.com/iphone/repair) for the latest details.
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Check for Water Damage in a Used iPhone or iPod
 
  If you're[buying a used iPhone or iPod](https://www.lifewire.com/check-if-used-iphone-is-stolen-1999376) or lent someone your device and now it's not working so well, you want to check if it got wet. You can do this using the moisture indicator built into iPods and iPhones.
@@ -76,8 +80,9 @@ thumbnail: https://www.lifewire.com/thmb/CuZaYIa-IPn9NpzxED8qCE9z2w0=/400x300/fi
 [The moisture indicator is far from foolproof](https://www.cnet.com/tech/tech-industry/apple-settles-iphone-water-damage-lawsuit-for-53m/) . But, if you see the orange dot, you need to at least consider that the device may have had a bad experience with water.
 
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Software Tips for Dealing with a Wet iPhone
 
  After you've dried your iPhone or iPod, it may start up just fine and work as though nothing happened. But many people encounter some software problems when they first try using it. Try these tips, which also apply to[iPod touch](https://www.lifewire.com/ipod-touch-everything-to-know-1999772) and iPad, for dealing with some of the common problems:
@@ -85,9 +90,6 @@ thumbnail: https://www.lifewire.com/thmb/CuZaYIa-IPn9NpzxED8qCE9z2w0=/400x300/fi
 * [What To Do with an iPhone That Won't Turn On](https://www.lifewire.com/what-to-do-when-your-iphone-wont-turn-on-2000281)
 * [How to Fix an iPhone Stuck at the Apple Logo](https://www.lifewire.com/how-to-fix-an-iphone-stuck-on-the-apple-logo-2000268) .
 
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
-<!-- affiliate ads end -->
 ## Waterproof iPhones: iPhone 7 and Newer
 
  Probably the easiest—but not the cheapest—way to save a wet iPhone is to get one that resists water damage in the first place.
@@ -116,8 +118,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -125,4 +125,24 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-unleashing-the-potency-of-open-source-video-engines/"><u>[New] 2024 Approved Unleashing the Potency of Open Source Video Engines</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-2024-approved-virtual-stickers-google-and-beyond-explored/"><u>[New] 2024 Approved Virtual Stickers Google and Beyond Explored</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-snap-fast-moments-iphone-methods-for-blur-effects/"><u>[New] Snap Fast Moments IPhone Methods for Blur Effects</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-essential-recording-steps-in-gh-for-2024/"><u>[Updated] Essential Recording Steps in GH for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-secret-strategies-for-powering-up-your-lunapic-edits/"><u>2024 Approved Secret Strategies for Powering Up Your LunaPic Edits</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/a-comprehebese-on-the-growth-of-5g-and-its-impact-on-verizons-services/"><u>A Comprehebese on the Growth of 5G and Its Impact on Verizon's Services</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/all-inclusive-tutorial-setting-up-your-latest-ipad-device-based-expert-advice/"><u>All-Inclusive Tutorial: Setting Up Your Latest iPad Device Based Expert Advice</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/apples-new-m3-imac-a-letdown-for-enthusiasts-of-the-27-inch-screen-is-it-necessary-zdnet/"><u>Apple's New M3 iMac: A Letdown for Enthusiasts of the 27-Inch Screen - Is It Necessary? | ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discover-the-15-premier-dolby-atmos-movie-picks-for-a-stunning-sound-experience-at-home/"><u>Discover the 15 Premier Dolby Atmos Movie Picks for a Stunning Sound Experience at Home</u></a></li>
+<li><a href="https://games-able.techidaily.com/elgato-stream-decks-recommendations-for-every-budget/"><u>Elgato Stream Decks: Recommendations for Every Budget</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/enhancing-siri-with-apple-ai-anticipate-major-upgrades-by-2er-2025-insights-from-tech-news-source-zdnet/"><u>Enhancing Siri with Apple AI - Anticipate Major Upgrades by 2Er 2025, Insights From Tech News Source ZDNet</u></a></li>
+<li><a href="https://techidaily.com/how-to-hard-reset-samsung-galaxy-z-flip-5-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Samsung Galaxy Z Flip 5 Without Password | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-upgrade-or-downgrade-iphone-6-plus-without-losing-anything-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Upgrade or Downgrade iPhone 6 Plus Without Losing Anything? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-my-apple-iphone-xs-location-is-wrong-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Fix My Apple iPhone XS Location Is Wrong | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/preparing-to-purchase-5-critical-factors-for-choosing-the-perfect-smartwatch/"><u>Preparing to Purchase? 5 Critical Factors for Choosing the Perfect Smartwatch</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-ultimate-walkthrough-for-purging-app-cache-on-android-phones-and-tablets/"><u>The Ultimate Walkthrough for Purging App Cache on Android Phones and Tablets</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-ipad-productivity-apps-to-boost-efficiency-find-the-ideal-tools-picks/"><u>Top iPad Productivity Apps to Boost Efficiency: Find the Ideal Tools Picks!</u></a></li>
+</ul></div>
 

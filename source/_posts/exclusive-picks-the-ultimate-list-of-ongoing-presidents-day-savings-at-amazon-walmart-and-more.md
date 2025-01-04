@@ -1,7 +1,7 @@
 ---
 title: "Exclusive Picks: The Ultimate List of Ongoing Presidents' Day Savings at Amazon, Walmart, and More"
-date: 2024-12-20T01:59:02.562Z
-updated: 2024-12-26T02:21:00.744Z
+date: 2024-12-31T16:04:53.402Z
+updated: 2025-01-04T16:25:13.950Z
 tags:
   - apple
 categories:
@@ -22,13 +22,13 @@ Tablets run the gamut in terms of everything they can do (and all the prices the
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What is the best note-taking tablet you can buy right now?
 
 ZDNET went hands-on with the following tablets, with our pick for the best note-taking tablet overall being the [iPad Air](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fapple-10-9-inch-ipad-air-latest-model-5th-generation-with-wi-fi-64gb-purple%2F4909101.p&publisher_slug=itechdaily19598&exclusive=1), thanks to its lightweight build and compatibility with the second-generation Apple Pencil. But we also included tablets from Boox, Amazon, and more to take digital notes on this back-to-school season. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## The best note-taking tablets of 2024
 
@@ -44,10 +44,6 @@ Pros
 Cons 
 * Only compatible with iOS
 * Camera cannot be used with other apps
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Apple iPad Air (5th generation)
 
@@ -112,10 +108,14 @@ Cons
 * Does not support note-taking on magazines or newspapers
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Amazon Kindle Scribe
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Best note-taking tablet for reading
 
@@ -146,7 +146,7 @@ Cons
 * Missing apps
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Samsung Galaxy Tab S9
@@ -183,7 +183,7 @@ Cons
 ## Amazon Fire Max 11
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Best budget note-taking tablet
@@ -201,10 +201,6 @@ Overall, 94% of Best Buy customers would recommend this tablet to others, giving
 **Amazon Fire Max 11 specs: Display**: 11-inch, 2000 x 1200, 410 nits brightness, 213 ppi | **Processor**: MediaTek MT8188J, 2.2Ghz octa-core processor | **Storage**: 64GB or 128GB | **Memory:** 4GB | **Colors**: Gray | **Cameras**: 8MP rear and 8MP front-facing camera | **Weight**: 490 grams | **Dimensions**: 259.1 x 163.7 x 7.50 millimeters | **Connections**: 3.5mm headphone jack, USB-C port | **Battery life:** 14 hours
 
 Show Expert Take Show less 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What is the best note-taking tablet?
 
@@ -259,6 +255,10 @@ For a deeper look into our testing process, check out our comprehensive [tablet 
 
 Using a stylus is totally up to you, but it can definitely help with functionality. Some tablets come with a stylus, while others will have them sold separately. If you're looking at this from a cost perspective, consider the fact that the stylus will often be an added expense, but you may find it worth it for ease of use, especially if you're the type that likes the feeling of writing out your notes rather than typing them.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What are the best note-taking apps?
 
 The [best note-taking apps](https://www.zdnet.com/article/best-note-taking-app-for-ipad/) let you digitize your notes and to-dos while keeping them all in one place or syncing them to a cloud. Our favorites are Notability, Evernote, GoodNotes 5, and even Apple's free Notes app is a worthy choice.
@@ -272,7 +272,7 @@ Yes--the Apple Pencil can convert your handwritten notes into text for better le
 3. Write with Apple Pencil, and Scribble automatically converts your handwriting into typed text.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Other note-taking tablets we've tested:
@@ -321,20 +321,18 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-view-surge-secrets-tutorials-audience-triumph/"><u>[Updated] 2024 Approved View Surge Secrets Tutorial's Audience Triumph</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-discover-the-top-5-pc-clipping-utilities-for-quick-samples/"><u>[Updated] Discover the Top 5 PC Clipping Utilities for Quick Samples</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-reach-new-heights-in-youtube-seo-top-tips-and-tricks-for-2024/"><u>[Updated] Reach New Heights in YouTube SEO Top Tips and Tricks for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/2024-approved-effortless-recording-of-android-devices-for-all/"><u>2024 Approved Effortless Recording of Android Devices for All</u></a></li>
-<li><a href="https://blog-min.techidaily.com/5-ways-to-teach-you-to-transfer-files-from-vivo-s17-pro-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways To Teach You To Transfer Files from Vivo S17 Pro to Other Android Devices Easily | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/1726027705515-pc-and-smartphone/"><u>PC & Smartphoneで組み合わせ編集:ビデオ・オーディオの最適化</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/step-by-step-guide-to-joining-and-earning-as-a-tiktok-star/"><u>Step-by-Step Guide to Joining & Earning as a TikTok Star</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/top-picks-for-beginners-in-depth-look-at-ecoflow-river-3-portable-power-bank-features-techradar/"><u>Top Picks for Beginners: In-Depth Look at EcoFlow River 3 Portable Power Bank Features | TechRadar</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/top-rated-compact-power-banks-for-outdoor-adventures-comprehensive-reviews-by-experts-techradar/"><u>Top Rated Compact Power Banks for Outdoor Adventures: Comprehensive Reviews by Experts | TechRadar</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/top-rated-outdoor-projection-systems-comprehensive-expert-reviews-and-ratings/"><u>Top-Rated Outdoor Projection Systems: Comprehensive Expert Reviews & Ratings</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/top-rated-smokeless-gas-grill-reviews-and-picks-2023-edition-techadvisor/"><u>Top-Rated Smokeless Gas Grill Reviews and Picks, 2023 Edition | TechAdvisor</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/transform-your-garden-chore-into-an-exciting-game-with-this-rc-lawn-mower-a-unique-review/"><u>Transform Your Garden Chore Into an Exciting Game with This RC Lawn Mower - A Unique Review!</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/transform-your-garden-maintenance-into-a-fun-activity-using-the-latest-remote-controlled-grass-cutter-home-and-garden-breakthroughs/"><u>Transform Your Garden Maintenance Into a Fun Activity Using the Latest Remote-Controlled Grass Cutter | Home & Garden Breakthroughs</u></a></li>
-<li><a href="https://discover-exceptional.techidaily.com/unveiling-progress-in-tunes-discover-how-the-karaoke-world-is-advancing-insights-from-the-karaoke-summit/"><u>Unveiling Progress in Tunes: Discover How the Karaoke World Is Advancing – Insights From the Karaoke Summit</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/ways-to-find-unlocking-codes-for-xiaomi-redmi-13c-5g-phones-by-drfone-android/"><u>Ways To Find Unlocking Codes For Xiaomi Redmi 13C 5G Phones</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-free-professional-youtuber-backgrounds/"><u>[New] 2024 Approved Free Professional YouTuber Backgrounds</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-crafting-unique-thumbnails-for-youtube-content-for-2024/"><u>[Updated] Crafting Unique Thumbnails for YouTube Content for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-the-definitive-guide-to-removing-persistent-youtube-channels-on-all-screens/"><u>[Updated] In 2024, The Definitive Guide to Removing Persistent Youtube Channels on All Screens</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-step-into-the-future-metavisors-for-the-ultimate-experience/"><u>[Updated] Step Into the Future Metavisors for the Ultimate Experience</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-master-class-on-vsco-camera-and-lens-for-creative-use/"><u>2024 Approved Master Class on VSCO Camera & Lens for Creative Use</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/budget-glamour-premium-tech-treasures-within-reach/"><u>Budget Glamour: Premium Tech Treasures Within Reach</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/capturing-your-screen-a-simple-guide-to-taking-screenshots-on-an-hp-laptop/"><u>Capturing Your Screen: A Simple Guide to Taking Screenshots on an HP Laptop</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-8-solutions-to-fix-find-my-friends-location-not-available-on-samsung-galaxy-m14-4g-drfone-by-drfone-virtual-android/"><u>In 2024, 8 Solutions to Fix Find My Friends Location Not Available On Samsung Galaxy M14 4G | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-oneplus-ace-2-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos from OnePlus Ace 2 to New Android? | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/july-2024s-elite-apple-watch-promotions-find-your-perfect-deal-with-zdnet-insights/"><u>July 2024'S Elite Apple Watch Promotions: Find Your Perfect Deal with ZDNet Insights</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-impact-of-google-gemini-on-making-iphones-smarter-what-you-need-to-know/"><u>The Impact of Google Gemini on Making iPhones Smarter - What You Need to Know</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/upgrading-your-iphone-in-the-coming-week-discover-essential-anker-charger-gadgets-that-perfectly-fit-your-needs-tips-from-zdnet/"><u>Upgrading Your iPhone in the Coming Week? Discover Essential Anker Charger Gadgets That Perfectly Fit Your Needs - Tips From ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/what-was-the-netflix-dvd-rental-program/"><u>What Was the Netflix DVD Rental Program?</u></a></li>
 </ul></div>
 

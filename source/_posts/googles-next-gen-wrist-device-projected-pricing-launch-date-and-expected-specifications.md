@@ -1,7 +1,7 @@
 ---
 title: "Google's Next-Gen Wrist Device: Projected Pricing, Launch Date, and Expected Specifications"
-date: 2024-08-26T06:05:59.760Z
-updated: 2024-08-27T06:05:59.760Z
+date: 2024-12-29T16:17:29.498Z
+updated: 2025-01-04T16:06:58.618Z
 categories:
   - BestProducts
 description: "This Article Describes Google's Next-Gen Wrist Device: Projected Pricing, Launch Date, and Expected Specifications"
@@ -21,6 +21,10 @@ thumbnail: https://thmb.techidaily.com/0dca80060c58b2b6bbf1021b5cfac76e3fa6cc6f3
 
  Following two other Pixel-branded smartwatches, Google seems prepared to give their wearable an annual update. Nothing is official yet, but there's a good chance the Pixel Watch 3 will arrive in late 2024 and come in two sizes instead of just one. A bigger size could mean a bigger screen and longer battery life.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## When Will the Pixel Watch 3 Be Released?
 
  Based on how Google released the first two Pixel watches, we can expect the Pixel Watch 3 release date to coincide with the[Pixel 9](https://www.lifewire.com/google-pixel-9-8630767) launch. It will likely be revealed at[the next Made by Google event](https://www.lifewire.com/google-event-5205756) on August 13.
@@ -29,9 +33,6 @@ thumbnail: https://thmb.techidaily.com/0dca80060c58b2b6bbf1021b5cfac76e3fa6cc6f3
 
 Look for an official Pixel Watch 3 announcement on August 13.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Google Pixel Watch 3 Price Rumors
 
  The first two Pixel Watches started at $349.99\. This is likely how Google will price its next smartwatch. And, of course, you can expect to pay around $50 more for LTE.
@@ -46,8 +47,9 @@ Look for an official Pixel Watch 3 announcement on August 13.
 * **Pixel Watch 3 XL (45 mm / LTE)** : $429.99
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Pre-Order Information
 
  You'll be able to pre-order the Pixel Watch 3 from the[Google Store](https://store.google.com/category/watches) . We'll drop the link here when pre-ordering starts.
@@ -55,8 +57,9 @@ Look for an official Pixel Watch 3 announcement on August 13.
 [The Best-Looking Smartwatches](https://www.lifewire.com/best-looking-smart-watches-3441410)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Google Pixel Watch 3 Specs & Features
 
  The battery life in the[Pixel Watch 2](https://www.lifewire.com/google-pixel-watch-2-7498464) received a bump over the first edition. This update was much needed, but it can still be improved. For example,[Samsung's Galaxy Watch 6](https://www.lifewire.com/samsung-galaxy-watch-6-news-and-rumors-7371704) lasts around 30 hours with Always-on Display enabled, while Google claims the Pixel Watch 2 can sustain 24 hours of use.
@@ -76,8 +79,9 @@ Look for an official Pixel Watch 3 announcement on August 13.
 ![An illustration of a finger touching the edge of a smartwatch from US Patent 11775167](https://www.lifewire.com/thmb/-Lv4nrmDdZKHX1WluU4VTS0ae7A=/960x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/google-watch-patent-11775167-86bd6ece12bb4c90b0534dc5223df168.png)
 
 <!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Google
 
  We don't yet know if Google will change how this watch charges... again. The first two watches use two different chargers. Our guess? The Pixel Watch 3 will ship with the same magnetic pin charger as the PW2.
@@ -89,8 +93,9 @@ Google
  We'll know more about the Pixel Watch 3 hardware as images leak (hopefully) and reports surface closer to the August event. There's also Wear OS 5 to watch on the software front.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## The Latest News About the Pixel Watch 3
 
  You can [get the latest smart and connected news on Lifewire](https://www.lifewire.com/smart-home-connected-life-news-4797031) . Below are the latest stories about Google and smartwatches.
@@ -101,14 +106,11 @@ Google
 
 [Google Drops 7 New Everyday Android Features](https://www.lifewire.com/google-adds-new-everyday-android-features-8655861)
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -117,4 +119,20 @@ Google
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/ncome-icons-top-earner-video-stars-for-2024/"><u>[New] Income Icons Top Earner Video Stars for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-effortless-youtube-content-crafting-10-basic-video-ideas-for-all-for-2024/"><u>[Updated] Effortless YouTube Content Crafting 10 Basic Video Ideas for All for 2024</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/1728485515364-pst/"><u>如何将所有邮箱中的邮件导入PST文件：详细指南</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/easy-techniques-to-personalize-and-alter-windows-10-taskbar-hue/"><u>Easy Techniques to Personalize and Alter Windows 10 Taskbar Hue</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/essential-list-10-best-zero-price-desktop-recorder-apps-for-2024/"><u>Essential List 10 Best Zero-Price Desktop Recorder Apps for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/establishing-a-team-in-xboxs-next-gen-console/"><u>Establishing a Team in Xbox's Next-Gen Console</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/expert-advice-on-clearing-cmos-the-ultimate-guide-to-freshen-up-your-pcs-bios/"><u>Expert Advice on Clearing CMOS - The Ultimate Guide to Freshen Up Your PC's BIOS</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/expertly-curated-list-of-2024s-best-smartwatches-in-depth-analysis-and-ratings-cnet/"><u>Expertly Curated List of 2024'S Best Smartwatches: In-Depth Analysis and Ratings | CNET</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/global-advantage-with-current-chatgpt-info/"><u>Global Advantage with Current ChatGPT Info</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-apple-iphone-13-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, Simple and Effective Ways to Change Your Country on YouTube App Of your Apple iPhone 13 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/reel-review-the-finest-80s-films-every-cinephile-needs-to-see/"><u>Reel Review: The Finest '80S Films Every Cinephile Needs to See</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ultimate-list-of-microsofts-leading-ios-apps-for-professionals/"><u>Ultimate List of Microsoft's Leading iOS Apps for Professionals</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/why-the-apple-watch-series-7-is-a-perfect-fit-for-me-not-looking-at-going-up-to-series-10-insights-from-zdnet/"><u>Why the Apple Watch Series 7 Is a Perfect Fit for Me, Not Looking at Going Up to Series 10 - Insights From ZDNet</u></a></li>
+</ul></div>
 

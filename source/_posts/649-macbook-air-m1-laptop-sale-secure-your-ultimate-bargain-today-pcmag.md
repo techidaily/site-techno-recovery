@@ -1,7 +1,7 @@
 ---
 title: "$649 MacBook Air M1 Laptop Sale: Secure Your Ultimate Bargain Today! | PCMag"
-date: 2024-12-25T05:41:59.085Z
-updated: 2024-12-25T18:22:47.559Z
+date: 2024-12-30T16:05:00.644Z
+updated: 2025-01-04T16:26:54.231Z
 tags:
   - apple
 categories:
@@ -42,7 +42,7 @@ At $649, this is the lowest price for the M1 version of the MacBook Air that we'
 The [M1 MacBook Air](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fmacbook-air-13-3-laptop-apple-m1-chip-8gb-memory-256gb-ssd-space-gray-space-gray%2F5721600.p%3FskuId%3D5721600&publisher_slug=itechdaily19598&exclusive=1) first retailed for $999 when it was released, but Apple sells refurbished versions for $799, making these deals even better than anything Apple is offering. The [M1 MacBook Air](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FApple-MacBook-Air-13-3-inch-Laptop-Silver-M1-Chip-8GB-RAM-256GB-storage%2F609040889&subId1=zd-__COM_CLICK_ID__-dtp) is available in three different colors: gold, space gray, and silver. Snag these savings while you can. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -81,18 +81,20 @@ However, deals are subject to sell out or expire at any time, though ZDNET remai
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-2024-approved-ultimate-frames-per-second-for-languid-visuals/"><u>[New] 2024 Approved Ultimate Frames Per Second for Languid Visuals</u></a></li>
-<li><a href="https://extra-information.techidaily.com/new-best-no-fee-online-and-app-photo-refining-software/"><u>[New] Best No-Fee, Online & App Photo Refining Software</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-in-2024-recommended-portals-accessing-custom-ringers/"><u>[New] In 2024, Recommended Portals Accessing Custom Ringers</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-optimal-facebook-video-downloader-top-5-revealed/"><u>[Updated] In 2024, Optimal Facebook Video Downloader Top 5 Revealed</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-transform-your-snapshots-with-vsco-essentials/"><u>[Updated] Transform Your Snapshots with VSCO Essentials</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/dealing-with-mfc42ddll-avoidance-and-recovery-techniques/"><u>Dealing with 'mfc42d.dll': Avoidance and Recovery Techniques</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/effective-group-meetings-googles-top-solutions-4/"><u>Effective Group Meetings Google's Top Solutions (#4)</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/effortless-way-to-merge-spotify-playlists-a-comprehensive-guide/"><u>Effortless Way to Merge Spotify Playlists: A Comprehensive Guide</u></a></li>
-<li><a href="https://win-blog.techidaily.com/fix-it-now-solving-the-persistent-problems-with-call-of-duty-warzone-on-pc-latest-2ptr/"><u>Fix It Now! Solving the Persistent Problems with Call of Duty Warzone on PC - Latest 2Ptr</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/inside-scoop-on-googles-next-pixel-timepiece-predictions-for-release-schedule-cost-breakdown-and-technical-specifications/"><u>Inside Scoop on Google's Next Pixel Timepiece: Predictions for Release Schedule, Cost Breakdown & Technical Specifications</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/leveraging-social-media-insights-in-market-research/"><u>Leveraging Social Media Insights in Market Research</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/solving-the-problem-of-missing-or-unavailable-libeay32dll-files-a-comprehensive-guide/"><u>Solving the Problem of Missing or Unavailable libeay32.dll Files: A Comprehensive Guide</u></a></li>
-<li><a href="https://win-answers.techidaily.com/stop-samurai-warriors-5-from-crashing-a-complete-guide-for-players/"><u>Stop Samurai Warriors 5 From Crashing: A Complete Guide for Players</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-streaming-showdown-summary-fb-live-yt-live-and-twitter-spaces/"><u>[New] 2024 Approved Streaming Showdown Summary FB LIVE, YT Live & Twitter Spaces</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-a-curated-selection-of-top-10-luts-for-lightroom/"><u>[New] A Curated Selection of Top 10 LUTs for LightRoom</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-transforming-everyday-alerts-how-to-create-customizable-tones-on-android-phones/"><u>[New] Transforming Everyday Alerts How to Create Customizable Tones on Android Phones</u></a></li>
+<li><a href="https://win-able.techidaily.com/elite-strategies-for-eliminating-fps-issues-and-fluidity-glitches-in-new-world-adventures/"><u>Elite Strategies for Eliminating FPS Issues & Fluidity Glitches in New World Adventures</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/guide-streaming-media-with-your-android-device-on-amazon-firestick/"><u>Guide: Streaming Media with Your Android Device on Amazon Firestick</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/innovative-upgrades-how-the-latest-final-cut-pro-ipad-enhancements-revolutionize-filmmaking-an-insiders-perspective-techcrunch/"><u>Innovative Upgrades: How the Latest Final Cut Pro iPad Enhancements Revolutionize Filmmaking - An Insider's Perspective | TechCrunch</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/integrate-mf4770n-for-optimal-performance-on-win11-8-7-systems/"><u>Integrate MF4770n for Optimal Performance on Win11, 8, 7 Systems</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/is-microsofts-next-move-in-arm-based-windows-set-to-surpass-apple-m1-performance-an-analysis/"><u>Is Microsoft's Next Move in ARM-Based Windows Set to Surpass Apple M1 Performance? - An Analysis</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/live-mastery-elevating-your-360-degree-videos-on-facebook-for-2024/"><u>Live Mastery Elevating Your 360 Degree Videos on Facebook for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/secure-your-apple-vision-pro-with-vpn-a-comprehensive-installation-guide-and-advantages-zdnet/"><u>Secure Your Apple Vision Pro with VPN: A Comprehensive Installation Guide and Advantages | ZDNET</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/streamlining-your-viewing-experience-roku-control-without-the-physical-remote/"><u>Streamlining Your Viewing Experience: Roku Control Without the Physical Remote</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/outube-hashtag-strategies-for-boosting-your-contents-visibility-for-2024/"><u>Top Youtube Hashtag Strategies for Boosting Your Content's Visibility for 2024</u></a></li>
+<li><a href="https://win-great.techidaily.com/troubleshooting-tips-fixing-improper-scanner-driver-installations-expert-advice-from-yl-computing/"><u>Troubleshooting Tips: Fixing Improper Scanner Driver Installations - Expert Advice From YL Computing</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ultimate-guide-mastering-the-art-of-choosing-multiple-emails-in-gmail/"><u>Ultimate Guide: Mastering the Art of Choosing Multiple Emails in Gmail</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/upcoming-google-pixel-buds-pro-2-unveiled-latest-insights-on-pricing-launch-timeline-and-feature-rumors/"><u>Upcoming Google Pixel Buds Pro 2 Unveiled? Latest Insights on Pricing, Launch Timeline & Feature Rumors</u></a></li>
 </ul></div>
 

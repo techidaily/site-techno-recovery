@@ -1,7 +1,7 @@
 ---
 title: Easy Steps to Set Up Multiple Network Interfaces on Your Mac - Get Ultimate Connectivity
-date: 2024-12-20T00:05:03.009Z
-updated: 2024-12-26T07:06:12.987Z
+date: 2024-12-30T16:00:35.805Z
+updated: 2025-01-04T16:13:11.766Z
 tags:
   - apple
 categories:
@@ -26,10 +26,14 @@ So, how do you create this custom Flow? Let me show you. All you'll need to make
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Create a custom Focus
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 1\. Open System Preferences
@@ -37,7 +41,7 @@ So, how do you create this custom Flow? Let me show you. All you'll need to make
 Click on the Apple menu in the top left corner of your desktop. From the resulting pop-up menu, click System Preferences.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2\. Access Notifications & Focus
@@ -48,6 +52,10 @@ In the System Preferences window (**Figure 1**), click Notifications & Focus.
 
 Image: Jack Wallen
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 3\. Open the Focus tab
 
 Once Notifications & Focus is opened, click the Focus tab (**Figure 2**).
@@ -55,10 +63,6 @@ Once Notifications & Focus is opened, click the Focus tab (**Figure 2**).
 **Figure 2:** You'll find a single pre-configured Focus for Do Not Disturb already available.
 
 Image: Jack Wallen
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 4\. Create the new Focus
 
@@ -77,7 +81,7 @@ Image: Jack Wallen
 After naming and selecting a color/icon, click Add to save the new Focus.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 5\. Allowing specific notifications
@@ -93,10 +97,6 @@ From the pop-up list, select the contact(s) you want to be allowed to interrupt 
 **Figure 6:** Adding contacts to a Focus in macOS Monterey.
 
 Image: Jack Wallen
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 6\. Set the Focus to be enabled
 
@@ -140,19 +140,15 @@ Use this new Focus feature wisely, and it will help you be more productive while
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-effortless-offline-viewing-how-to-save-youtube-videos-for-iphoneipad-for-2024/"><u>[New] Effortless Offline Viewing How to Save YouTube Videos for iPhone/iPad for 2024</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-in-2024-dive-deep-reviewing-the-cutting-edge-lg-vr-technology/"><u>[New] In 2024, Dive Deep Reviewing the Cutting-Edge LG VR Technology</u></a></li>
-<li><a href="https://article-posts.techidaily.com/new-screen-play-perfect-apples-no1-top-8-movie-app-guide/"><u>[New] Screen Play Perfect Apple's No.1, Top 8 Movie App Guide</u></a></li>
-<li><a href="https://article-tips.techidaily.com/2024-approved-boost-iphone-cinematic-experience-essential-film-gear/"><u>2024 Approved Boost iPhone Cinematic Experience Essential Film Gear</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixing-helldivers-ii-troubleshooting-the-black-screen-at-game-start/"><u>Fixing Helldivers II: Troubleshooting the Black Screen at Game Start</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/guia-paso-a-paso-optimizacion-eficaz-del-tamano-de-videos-avi-sin-sacrificar-calidad-en-sistemas-operativos-windows-10/"><u>Guía Paso a Paso: Optimización Eficaz Del Tamaño De Vídeos AVI Sin Sacrificar Calidad en Sistemas Operativos Windows 10</u></a></li>
-<li><a href="https://techidaily.com/how-to-soft-reset-vivo-v30-lite-5g-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Vivo V30 Lite 5G phone? | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/key-factors-to-assess-when-purchasing-your-next-video-recording-tool/"><u>Key Factors to Assess When Purchasing Your Next Video Recording Tool</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/labor-day-sale-save-24-on-apple-airtags-grab-your-4-pack-bundle-at-walmart-techspot/"><u>Labor Day Sale: Save $24 on Apple AirTags - Grab Your 4-Pack Bundle at Walmart! | TechSpot</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/mastering-google-alerts-the-ultimate-guide-to-track-trending-subjects-that-capture-your-interest/"><u>Mastering Google Alerts: The Ultimate Guide to Track Trending Subjects That Capture Your Interest</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/mastering-multi-page-navigation-a-step-by-step-guide-to-activating-scroll-wheel-on-macos-mice-insights-from-zdnet/"><u>Mastering Multi-Page Navigation: A Step-by-Step Guide to Activating Scroll Wheel on macOS Mice - Insights From ZDNet</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/mastering-slack-efficiency-leveraging-the-power-of-saved-items-tech-innovate/"><u>Mastering Slack Efficiency: Leveraging the Power of Saved Items | Tech Innovate</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/mastering-the-art-of-addressing-interviewers-queries-insights-and-tips/"><u>Mastering the Art of Addressing Interviewer's Queries - Insights & Tips</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/seamless-image-superimposition-for-desktop/"><u>Seamless Image Superimposition for Desktop</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-2024-approved-seamless-tiktok-integration-on-your-macbook/"><u>[New] 2024 Approved Seamless TikTok Integration on Your MacBook</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-editsuite-evaluation-detailed-article/"><u>[New] EditSuite Evaluation – Detailed Article</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/a-list-android-3d-viewing-tools-for-2024/"><u>A-List Android 3D Viewing Tools for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/acquisisci-la-licenza-completa-del-convertitore-video-winx-pro-per-sistemi-apple-download-ufficiale/"><u>Acquisisci La Licenza Completa Del Convertitore Video WinX Pro per Sistemi Apple - Download Ufficiale</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discovering-metas-approach-to-advanced-ai-solutions/"><u>Discovering Meta’s Approach to Advanced AI Solutions</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/easy-steps-for-securing-your-data-iphone-backup-using-icloud-and-macos-tech-insights/"><u>Easy Steps for Securing Your Data: IPhone Backup Using iCloud & macOS | Tech Insights</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/exploring-the-history-of-netflixs-once-popular-dvd-rentals-service/"><u>Exploring the History of Netflix's Once-Popular DVD Rentals Service</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/hyperx-cloud-stinger-mic-problems-solved-a-step-by-step-solution-tutorial/"><u>HyperX Cloud Stinger Mic Problems Solved: A Step-by-Step Solution Tutorial</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/new-arrivals-essential-charging-gadgets-from-anker-to-enhance-your-upcoming-iphone-purchase-zdnet/"><u>New Arrivals! Essential Charging Gadgets From Anker to Enhance Your Upcoming iPhone Purchase | ZDNet</u></a></li>
+<li><a href="https://games-able.techidaily.com/watch-out-could-gpu-prices-see-an-uptick-next-month/"><u>Watch Out! Could GPU Prices See an Uptick Next Month?</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "The Basics of Real-Time Chat Protocols: Exploring RCS"
-date: 2024-08-26T06:06:29.983Z
-updated: 2024-08-27T06:06:29.983Z
+date: 2024-12-28T16:01:25.483Z
+updated: 2025-01-04T16:00:01.962Z
 categories:
   - BestProducts
 description: "This Article Describes The Basics of Real-Time Chat Protocols: Exploring RCS"
@@ -14,6 +14,10 @@ thumbnail: https://thmb.techidaily.com/983f31d4ff46a88bf34dd06f49261024f8d7c362e
 
  Information in this article applies to the web version of Gmail. The instructions are the same regardless of which browser you use.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Enable Gmail Shortcuts
 
  To use Gmail shortcuts, you must first enable them in the **Settings** menu.
@@ -23,7 +27,16 @@ thumbnail: https://thmb.techidaily.com/983f31d4ff46a88bf34dd06f49261024f8d7c362e
 2. Scroll down to the **Keyboard shortcuts** section and select **Keyboard shortcuts on** .  
 ![The Keyboard Shortcuts on/off buttons highlighted on Gmail's Settings screen.](https://www.lifewire.com/thmb/lPV2-ew-bY8v5xkR1Y6pZ0fLprc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A2-BestGmailKeyboardShortcuts-annotated-639cd7b44f654d4a9fc5e371f7ebae28.jpg)
 3. Scroll to the bottom of the page and select **Save Changes** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![The Save Changes button highlighted on Gmail's Settings screen.](https://www.lifewire.com/thmb/Ti1cWFQAWPKtDw4DsaTTA96KzR0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A3-BestGmailKeyboardShortcuts-annotated-bab1aa8c28204ee494f3daa266fd0100.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Create, Send, and Forward Email
 
@@ -37,8 +50,9 @@ thumbnail: https://thmb.techidaily.com/983f31d4ff46a88bf34dd06f49261024f8d7c362e
  On Macs, use the**Command** key in place of the**Ctrl** key.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Reply to Email
 
  By using the**R** and**A** keys, you can quickly reply to[email messages](https://www.lifewire.com/electronic-mail-overview-1164107) or send to multiple recipients:
@@ -46,9 +60,6 @@ thumbnail: https://thmb.techidaily.com/983f31d4ff46a88bf34dd06f49261024f8d7c362e
 * **Reply to a message (R)** : Press**R** to reply to an open message.
 * **Reply to all (A)** : Press**A** to reply to all recipients of a message.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 ## How to Scroll Through Emails
 
  These shortcuts are handy for navigating through your messages and long email threads:
@@ -85,8 +96,9 @@ thumbnail: https://thmb.techidaily.com/983f31d4ff46a88bf34dd06f49261024f8d7c362e
  On Mac computers, use the**Command** key in place of the**Ctrl** key.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Email Maintenance Shortcuts
 
  Use these shortcuts to help manage your inbox:
@@ -97,9 +109,6 @@ thumbnail: https://thmb.techidaily.com/983f31d4ff46a88bf34dd06f49261024f8d7c362e
 * **Mark an email as unread (Shift** +**U)** : Open an email or select it by clicking the box beside the sender's name, then press**Shift** +**U** to mark it as unread.
 * **Mark a message as important (Shift** +**\=)** : Open an email or select it by clicking the box beside the sender's name, then press**Shift** +**\=** to mark it as important.
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## "Go to" Shortcuts in Gmail
 
  The following shortcuts can be used for[navigating Gmail](https://www.lifewire.com/go-to-the-next-or-previous-message-in-gmail-1172068) . Unlike the shortcuts above, the individual keys must be pressed separately rather than simultaneously
@@ -112,9 +121,6 @@ thumbnail: https://thmb.techidaily.com/983f31d4ff46a88bf34dd06f49261024f8d7c362e
 * **Go to All mail (G, then A)** : Press the**G** key, then press**A** to see all messages.
 * **Move from different fields (Tab):** Press the**Tab** key to jump down the different fields in your email composition screen. To go in the opposite direction, press**Shift** +**Tab** .
 
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to View All Gmail Shortcuts
 
  Need help remembering a shortcut? You can quickly pull up the entire list with a keyboard shortcut:
@@ -123,9 +129,6 @@ thumbnail: https://thmb.techidaily.com/983f31d4ff46a88bf34dd06f49261024f8d7c362e
 
 ![Press Shift + ? to get the full list of Gmail keyboard shortcuts anytime.](https://www.lifewire.com/thmb/5ON5QzCh_hrJrz93Hlci-4WmI4Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004_best-gmail-keyboard-shortcuts-4686794-0852ef75c64547feb336f96dbb1be04e.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Was this page helpful?
 
 Thanks for letting us know!
@@ -146,8 +149,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -155,4 +156,23 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/new-detailed-analysis-vlc-for-video-capture/"><u>[New] Detailed Analysis VLC for Video Capture</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/new-in-2024-20-quirky-tiktok-joke-threads-for-endless-chuckles/"><u>[New] In 2024, 20 Quirky TikTok Joke Threads for Endless Chuckles</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-enhance-creativity-on-a-budget-pick-from-these-8-zero-price-edits/"><u>[New] In 2024, Enhance Creativity on a Budget Pick From These 8 Zero Price Edits</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-2024-approved-crafting-perfect-tones-with-curvature-techniques/"><u>[Updated] 2024 Approved Crafting Perfect Tones with Curvature Techniques</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/a-curated-list-of-the-best-windows-photo-organizers/"><u>A Curated List of the Best Windows Photo Organizers</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/apple-faces-legal-battle-as-doj-files-lawsuit-implications-for-iphone-enthusiasts-and-ios-app-creators-insights/"><u>Apple Faces Legal Battle as DOJ Files Lawsuit: Implications for iPhone Enthusiasts & iOS App Creators - Insights</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/chatgpt-for-teams-transforming-online-meetings-into-engaging-sessions/"><u>ChatGPT for Teams: Transforming Online Meetings Into Engaging Sessions</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/essential-steps-for-setting-up-your-new-ipad-tips-and-tricks/"><u>Essential Steps for Setting Up Your New iPad - Tips & Tricks</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-an-unresponsive-oculus-link-screen-6-rapid-remedies/"><u>Fixing an Unresponsive Oculus Link Screen - 6 Rapid Remedies</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/24-crafting-impactful-video-campaigns-for-startups/"><u>In 2024, Crafting Impactful Video Campaigns for Startups</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/mastering-jujutsu-kaisen-challenges-for-tiktok-for-2024/"><u>Mastering Jujutsu Kaisen Challenges for TikTok for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/resolving-the-issue-mapi32dll-file-missing-or-corrupted-on-your-pc/"><u>Resolving the Issue: Mapi32.dll File Missing or Corrupted on Your PC</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-ultimate-step-by-step-guide-to-cleaning-and-sanitizing-airpods-insights/"><u>The Ultimate Step-by-Step Guide to Cleaning and Sanitizing AirPods - Insights</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ultimate-elegance-top-rated-titanium-apple-watch-band-reviewed-on-zdnet/"><u>Ultimate Elegance: Top-Rated Titanium Apple Watch Band Reviewed on ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unlock-boundless-creativity-with-freeform-why-this-technique-is-essential-for-your-next-brainstorming-session-zdnet/"><u>Unlock Boundless Creativity with Freeform - Why This Technique Is Essential for Your Next Brainstorming Session | ZDNET</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unveiling-apples-enigmatic-homeos-a-glimpse-through-the-latest-tvos-dev-beta-insights-by-zdnet/"><u>Unveiling Apple's Enigmatic 'HomeOS': A Glimpse Through the Latest tvOS Dev Beta - Insights by ZDNet</u></a></li>
+</ul></div>
 
