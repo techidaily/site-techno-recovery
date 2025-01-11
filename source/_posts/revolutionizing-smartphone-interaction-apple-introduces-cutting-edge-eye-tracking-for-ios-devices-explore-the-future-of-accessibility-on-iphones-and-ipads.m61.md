@@ -1,7 +1,7 @@
 ---
 title: "Revolutionizing Smartphone Interaction: Apple Introduces Cutting-Edge Eye Tracking for iOS Devices - Explore the Future of Accessibility on iPhones and iPads"
-date: 2024-12-20T00:31:09.058Z
-updated: 2024-12-26T03:23:48.473Z
+date: 2025-01-05T21:44:44.883Z
+updated: 2025-01-10T19:43:04.510Z
 tags:
   - apple
 categories:
@@ -31,7 +31,7 @@ Read on for a look at some of the new accessibility features coming to Apple har
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### New eye-tracking features
@@ -49,7 +49,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Apple Music haptics
@@ -57,7 +57,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 For those who are deaf or hard of hearing, Apple plans to offer a Taptic Engine feature in Apple Music. When turned on, the feature will use a series of taps, vibrations, and other tactile responses to sync to a song's audio. Apple says the feature will work "across millions of songs in the Apple Music catalog."
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Addressing motion sickness
@@ -68,6 +68,10 @@ Motion sickness in cars can often be the result of a disconnect between what you
 
 "Using sensors built into iPhone and iPad, Vehicle Motion Cues recognizes when a user is in a moving vehicle and responds accordingly," Apple said. "The feature can be set to show automatically on iPhone, or can be turned on and off in Control Center."
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Understanding speech
 
 A new feature called Voice Shortcuts will let you "assign custom utterances" that Apple's virtual personal assistant Siri will save. When Siri hears those utterances, it'll perform whatever action was assigned to it, including launching apps or engaging in more complex tasks on the device.
@@ -75,7 +79,7 @@ A new feature called Voice Shortcuts will let you "assign custom utterances" tha
 Another feature, Listen for Atypical Speech, will use machine learning to understand your speech patterns and your requests on-device, Apple said. The feature "gives users an option for enhancing speech recognition for a wider range of speech," the company said.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### New CarPlay features
@@ -83,10 +87,6 @@ Another feature, Listen for Atypical Speech, will use machine learning to unders
 Apple's in-car CarPlay software is also getting new accessibility features, including the ability for you to navigate CarPlay and engage with apps using only your voice. A new Sound Recognition feature will display alerts on CarPlay's screen when car horns or sirens go off, and Color Filters will make CarPlay easier to use for colorblind users.
 
 **Also: [iOS and Android owners will now be alerted if an unknown tracker is moving with them](https://www.zdnet.com/article/ios-and-android-owners-will-now-be-alerted-if-an-unknown-tracker-is-moving-with-them/)**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Some other updates
 
@@ -122,24 +122,22 @@ Beyond those updates, Apple said that it's launching a range of smaller upgrades
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-the-undisclosed-secrets-to-growth-on-social-media-for-2024/"><u>[New] The Undisclosed Secrets to Growth on Social Media for 2024</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-transform-your-online-reputation-and-increase-your-social-media-following-for-2024/"><u>[New] Transform Your Online Reputation and Increase Your Social Media Following for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-leading-faceshifting-tech-on-appleandroid-phones/"><u>[Updated] Leading Faceshifting Tech on Apple/Android Phones</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-secrets-to-superior-streaming-of-soccer-matches-for-2024/"><u>[Updated] Secrets to Superior Streaming of Soccer Matches for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/2024-approved-evolved-methods-for-effective-game-file-logging/"><u>2024 Approved Evolved Methods for Effective Game File Logging</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/android-gaming-delight-with-kinemaster-app-explored-for-2024/"><u>Android Gaming Delight with KineMaster App Explored for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/beating-apples-premium-with-savings-discovering-my-perfect-xr-glasses-a-frugal-yet-effective-choice/"><u>Beating Apple's Premium with Savings: Discovering My Perfect XR Glasses - A Frugal Yet Effective Choice</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/catch-em-all-the-comprehensive-pokemon-go-playbook/"><u>Catch 'Em All: The Comprehensive Pokémon Go Playbook</u></a></li>
-<li><a href="https://win-forum.techidaily.com/command-prompt-mastery-clearing-files-and-directories-on-your-windows-10-pc/"><u>Command Prompt Mastery: Clearing Files & Directories on Your Windows 10 PC</u></a></li>
-<li><a href="https://techtrends.techidaily.com/decoding-error-message-0xc0000185-and-swiftly-restoring-your-systems-stability/"><u>Decoding Error Message 0xC0000185 and Swiftly Restoring Your System's Stability</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/effortless-methods-for-discontinuing-in-app-purchases-and-auto-renewals-with-ios-15-a-users-handbook/"><u>Effortless Methods for Discontinuing In-App Purchases and Auto Renewals with iOS 15 - A User's Handbook</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/effortlessly-transfer-images-from-google-photos-to-icloud-a-simple-step-by-step-guide/"><u>Effortlessly Transfer Images From Google Photos to iCloud - A Simple Step-by-Step Guide</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/essential-ai-enhancements-for-iphone-emulating-androids-prowess-with-four-must-have-ios-18-features-analysis-by-zdnet/"><u>Essential AI Enhancements for iPhone: Emulating Android's Prowess with Four Must-Have iOS 18 Features | Analysis by ZDNET</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-how-to-color-match-different-video-clips-in-powerdirector/"><u>In 2024, How to Color Match Different Video Clips in PowerDirector?</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/secure-your-advance-order-on-iphone-15-and-apple-watch-series-9ultra-2-with-top-savings-insights/"><u>Secure Your Advance Order on iPhone 15 & Apple Watch Series 9/Ultra 2 with Top Savings - Insights</u></a></li>
-<li><a href="https://fox-info.techidaily.com/the-ultimate-tool-for-video-cuts-full-review-of-vivacut-24-edition-for-2024/"><u>The Ultimate Tool for Video Cuts Full Review of VivaCut '24 Edition for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/top-budget-tablets-of-2024-unveiled-by-industry-experts-your-complete-comparison-and-review/"><u>Top Budget Tablets of 2024 Unveiled by Industry Experts - Your Complete Comparison & Review</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/ultimate-selection-of-premium-apple-watch-straps-in-depth-analysis-and-ratings-cnet/"><u>Ultimate Selection of Premium Apple Watch Straps : In-Depth Analysis and Ratings | CNET</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/understanding-the-408-request-timeout-error-and-solutions/"><u>Understanding the 408 Request Timeout Error and Solutions</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-vision-capture-expert-insights-into-video-tech/"><u>[New] In 2024, Vision Capture Expert Insights Into Video Tech</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-the-stagnation-of-ideas-in-contemporary-vr-for-2024/"><u>[New] The Stagnation of Ideas in Contemporary VR for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-beyond-boundaries-the-present-state-and-future-of-vr/"><u>[Updated] 2024 Approved Beyond Boundaries The Present State and Future of VR</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-ensemble-moves-syncing-your-song-collections/"><u>[Updated] In 2024, Ensemble Moves Syncing Your Song Collections</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/android-to-fire-stick-step-by-step-guide-for-smooth-casting/"><u>Android to Fire Stick: Step-by-Step Guide for Smooth Casting</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/anticipated-features-of-the-new-xbox-vr-headset-price-estimates-release-window-and-technical-specs-unveiled/"><u>Anticipated Features of the New Xbox VR Headset: Price Estimates, Release Window, and Technical Specs Unveiled</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/distinguishing-between-server-downtime-and-user-connectivity-issues-on-blizzard-battlenet/"><u>Distinguishing Between Server Downtime and User Connectivity Issues on Blizzard Battle.net</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/exclusive-pickups-top-choice-shows-streaming-on-discovery-plus-in-jul-2024/"><u>Exclusive Pickups: Top Choice Shows Streaming on Discovery Plus in Jul 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-nokia-xr21-drfone-by-drfone-virtual-android/"><u>In 2024, How PGSharp Save You from Ban While Spoofing Pokemon Go On Nokia XR21? | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-bypass-iphone-13-pro-passcode-easily-video-inside-by-drfone-ios/"><u>In 2024, How to Bypass iPhone 13 Pro Passcode Easily Video Inside</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/newly-tested-foldable-iphone-preview-of-price-points-arrival-schedule-technical-specs-and-latest-tech-rumors/"><u>Newly Tested Foldable iPhone - Preview of Price Points, Arrival Schedule, Technical Specs and Latest Tech Rumors</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/resolution-showdown-hero4-to-hero5-for-2024/"><u>Resolution Showdown Hero4 to Hero5 for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/top-rated-free-pc-and-mac-dvd-ripper-software-best-picks/"><u>Top Rated FREE PC & MAC DVD Ripper Software : Best Picks</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/troubleshooting-ssl-issues-fixing-connection-is-not-secure-errors-easily/"><u>Troubleshooting SSL Issues: Fixing ‘Connection Is Not Secure’ Errors Easily</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ultimate-list-leading-samsung-smart-tv-apps/"><u>Ultimate List: Leading Samsung Smart TV Apps</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/understanding-the-lifespan-of-evs-compared-to-standard-gasoline-car-expectations/"><u>Understanding the Lifespan of EVs Compared to Standard Gasoline Car Expectations</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unlock-the-future-with-iphone-15-dont-miss-out-on-apples-latest-innovations-technews/"><u>Unlock the Future with iPhone 15 – Don't Miss Out on Apple’s Latest Innovations! | TechNews</u></a></li>
 </ul></div>
 

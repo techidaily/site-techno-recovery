@@ -1,7 +1,7 @@
 ---
 title: "Score Big Savings: Get Highly Recommended Apple AirPods Now at a $40 Discount in Time for July 4Th Celebrations | Exclusive on ZDNet"
-date: 2024-12-20T06:07:35.839Z
-updated: 2024-12-26T05:28:25.426Z
+date: 2025-01-09T18:12:14.466Z
+updated: 2025-01-10T18:11:20.741Z
 tags:
   - apple
 categories:
@@ -30,7 +30,7 @@ The second-generation AirPods come with a Lightning charger case. They offer sol
 Buy the AirPods on sale at [Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-AirPods-Charging-Latest-Model%2Fdp%2FB07PXGQC1Q%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C263960fc-40a4-4146-bad9-7a5792e11265%7Cdtp&dtb=1) now. You can also check out more [headphone deals](https://www.zdnet.com/article/best-headphone-deals/) and the [top products ZDNET readers bought last month](https://www.zdnet.com/home-and-office/the-25-most-popular-products-zdnet-readers-bought-last-month/).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -62,18 +62,24 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-in-2024-streamlined-zoom-utilization-a-chromebook-perspective/"><u>[New] In 2024, Streamlined Zoom Utilization A Chromebook Perspective</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/budget-smartwatch-breakdown-analyzing-features-and-value-of-fitbit-versa/"><u>Budget Smartwatch Breakdown: Analyzing Features and Value of Fitbit Versa</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/1725288000194-dvd/"><u>DVDデータ化時の最適エクステンション設定説明 - ユニバーサルに対応したプレイヤーで再生可能</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/effective-fixes-for-common-parsing-mishaps-on-android-devices-learn-our-top-8-tips/"><u>Effective Fixes for Common Parsing Mishaps on Android Devices – Learn Our Top 8 Tips</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/effective-strategies-for-diagnosing-and-fixing-post-problems/"><u>Effective Strategies for Diagnosing and Fixing POST Problems</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/how-to-launch-your-first-session-with-vrecorder-for-2024/"><u>How to Launch Your First Session with VRecorder for 2024</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-all-you-need-to-know-about-mega-greninja-for-tecno-spark-20-proplus-drfone-by-drfone-virtual-android/"><u>In 2024, All You Need To Know About Mega Greninja For Tecno Spark 20 Pro+ | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-can-i-use-a-fake-gps-without-mock-location-on-xiaomi-redmi-note-12-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Use a Fake GPS Without Mock Location On Xiaomi Redmi Note 12 Pro 5G? | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-samsung-galaxy-m14-5g-phone-without-password-by-drfone-android/"><u>In 2024, How To Unlock Samsung Galaxy M14 5G Phone Without Password?</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/mastering-network-diagnostics-a-guide-to-using-tracert-on-windows/"><u>Mastering Network Diagnostics: A Guide to Using Tracert on Windows</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-in-2024-discover-the-best-free-flv-video-editing-software/"><u>New In 2024, Discover the Best Free FLV Video Editing Software</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/the-leading-choice-for-affordable-high-fidelity-webm-playbacks/"><u>The Leading Choice for Affordable, High-Fidelity WebM Playbacks</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/the-ultimate-list-of-iphone-email-applications/"><u>The Ultimate List of iPhone Email Applications</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-2024-approved-time-saving-photo-enhancement-adding-dates-to-pictures/"><u>[New] 2024 Approved Time-Saving Photo Enhancement Adding Dates to Pictures</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-essential-mac-tips-unlocking-your-srt-files/"><u>[Updated] 2024 Approved Essential Mac Tips Unlocking Your SRT Files</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-latest-youtube-monetization-policy-and-requirements/"><u>[Updated] 2024 Approved Latest YouTube Monetization Policy and Requirements</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-using-laptopsmobile-for-google-meet-join/"><u>[Updated] Using Laptops/Mobile for Google Meet Join</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-transform-your-avi-images-from-video-to-graphics-using-filmora/"><u>2024 Approved Transform Your AVI Images From Video To Graphics Using Filmora</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/aifc-mp3-mp3-movavi/"><u>AIFC에서 MP3로 쉽게 대화형 MP3 파일 전환 - 무료 가용성, Movavi 사용자 공동착구</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/all-you-need-to-know-about-the-future-galaxy-unpacking-costs-launch-date-and-specs-for-the-prospective-samsung-s25-ultra/"><u>All You Need to Know About the Future Galaxy: Unpacking Costs, Launch Date & Specs for the Prospective Samsung S25 Ultra</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/best-free-tools-to-master-new-languages-our-top-picks/"><u>Best Free Tools to Master New Languages - Our Top Picks</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/catch-or-beat-sleeping-snorlax-on-pokemon-go-for-realme-c67-5g-drfone-by-drfone-virtual-android/"><u>Catch or Beat Sleeping Snorlax on Pokemon Go For Realme C67 5G | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/deciding-between-an-ipad-mini-or-ipad-air-an-in-depth-analysis/"><u>Deciding Between an iPad Mini or iPad Air: An In-Depth Analysis</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/expert-advice-what-to-do-when-tiktok-stops-working/"><u>Expert Advice: What to Do When TikTok Stops Working</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-transferring-tracks-a-guide-to-offline-youtube-for-ios-users/"><u>In 2024, Transferring Tracks A Guide to Offline YouTube for iOS Users</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/jointly-listening-on-spotify-yes-or-no-what-are-the-rules/"><u>Jointly Listening on Spotify: Yes or No, What Are the Rules?</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/navigating-technical-hurdles-on-zoom-how-to-tell-if-its-you-vs-the-platform/"><u>Navigating Technical Hurdles on Zoom - How to Tell if It's You Vs. The Platform</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/netflix-group-watches-unlocked-a-guide-to-syncing-your-views-across-distances/"><u>Netflix Group Watches Unlocked: A Guide to Syncing Your Views Across Distances</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/open-source-high-quality-visual-effects-apps/"><u>Open Source, High Quality Visual Effects Apps</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/testing-the-limits-of-4k-with-hc-wxf991/"><u>Testing the Limits of 4K with HC-WXF991</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-ultimate-checklist-5-critical-points-for-choosing-the-right-smartwatch/"><u>The Ultimate Checklist: 5 Critical Points for Choosing the Right Smartwatch</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ultimate-guide-setting-up-any-type-of-filter-in-gmail/"><u>Ultimate Guide: Setting Up Any Type of Filter in Gmail</u></a></li>
 </ul></div>
 

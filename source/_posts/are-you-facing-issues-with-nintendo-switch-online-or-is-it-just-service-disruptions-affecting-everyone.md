@@ -1,7 +1,7 @@
 ---
 title: Are You Facing Issues with Nintendo Switch Online? Or Is It Just Service Disruptions Affecting Everyone?
-date: 2024-08-26T06:03:59.207Z
-updated: 2024-08-27T06:03:59.207Z
+date: 2025-01-07T18:09:07.615Z
+updated: 2025-01-10T21:07:12.681Z
 categories:
   - BestProducts
 description: This Article Describes Are You Facing Issues with Nintendo Switch Online? Or Is It Just Service Disruptions Affecting Everyone?
@@ -13,6 +13,10 @@ thumbnail: https://www.lifewire.com/thmb/-eU_Bjac3qdQoxxgngy6qPszSqU=/400x300/fi
  NETGEAR routers usually have a default password of**password** and a default IP address of either**192.168.1.1** or**192.168.0.1** . However, as the table below shows, there are plenty of exceptions.
 
 [The Best Netgear Routers of 2024](https://www.lifewire.com/best-netgear-routers-4159862)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## NETGEAR Default Passwords (Valid July 2024)
 
@@ -259,6 +263,10 @@ thumbnail: https://www.lifewire.com/thmb/-eU_Bjac3qdQoxxgngy6qPszSqU=/400x300/fi
 
  If you don't see your NETGEAR router, switch, or other network device listed in the table above,[contact us](https://www.lifewire.com/mailto:feedback@lifewire.com) to have your router added to the list.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What to Do If the NETGEAR Default Password Doesn't Work
 
  When the NETGEAR default password for your device is no longer the configured password, reset the device to the factory defaults.
@@ -270,8 +278,9 @@ thumbnail: https://www.lifewire.com/thmb/-eU_Bjac3qdQoxxgngy6qPszSqU=/400x300/fi
  If this process doesn't work, reference the PDF manual for your specific NETGEAR router, available from[NETGEAR Support](https://www.netgear.com/support/) .
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## What to Do If the NETGEAR Default IP Address Doesn't Work
 
  A factory reset also resets the IP address to the default for your model in the table above.
@@ -283,9 +292,9 @@ thumbnail: https://www.lifewire.com/thmb/-eU_Bjac3qdQoxxgngy6qPszSqU=/400x300/fi
  If this doesn't work,[find the default gateway IP address](https://www.lifewire.com/how-to-find-your-default-gateway-ip-address-2626072) to determine the default gateway on your network, which is also the IP address for the router.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
-<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Change Your NETGEAR Default Password
 
  While you can log in to your NETGEAR router or switch with the default data, this information is all public. This means that anyone can access any NETGEAR device and make changes, including injecting malware and doing other damage.
@@ -314,8 +323,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -323,4 +330,19 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-approaches.techidaily.com/new-photography-in-action-applying-motion-blur-in-adobe/"><u>[New] Photography in Action Applying Motion Blur in Adobe</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/solved-remnant-from-the-ashes-keeps-crashing/"><u>[SOLVED] Remnant: From the Ashes Keeps Crashing</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-exploring-toolwiz-photosapp-in-depth-review-2023/"><u>[Updated] Exploring Toolwiz PhotosApp In-Depth Review, 2023</u></a></li>
+<li><a href="https://win11.techidaily.com/deactivating-mouse-speed-sensitivity-in-windows-1011/"><u>Deactivating Mouse Speed Sensitivity in Windows 10/11</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/fix-mistakes-quickly-the-ultimate-guide-to-editing-dms-on-instagram/"><u>Fix Mistakes Quickly: The Ultimate Guide to Editing DMs on Instagram</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-changeadd-location-filters-on-snapchat-for-your-vivo-s18-drfone-by-drfone-virtual-android/"><u>How to Change/Add Location Filters on Snapchat For your Vivo S18 | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-oneplus-11r-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from OnePlus 11R to Samsung Phone | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/quick-guide-transforming-dall-e-3-webp-photos-into-jpg-and-png-images/"><u>Quick Guide: Transforming DALL-E 3 WebP Photos Into JPG and PNG Images</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-ultimate-guide-to-acquiring-an-apple-vision-pro-professional-techniques-for-perfect-face-scans-and-order-optimization-zdnet/"><u>The Ultimate Guide to Acquiring an Apple Vision Pro: Professional Techniques for Perfect Face Scans and Order Optimization | ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/three-essential-strategies-apple-needs-for-success-with-to-rescue-the-vision-pro-insights-from-zdnet/"><u>Three Essential Strategies Apple Needs for Success with To Rescue the Vision Pro: Insights From ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/understanding-twitch-disruptions-is-it-an-overall-outage-or-just-your-internet-connection/"><u>Understanding Twitch Disruptions: Is It an Overall Outage or Just Your Internet Connection?</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-final-cut-pro-on-a-budget-get-the-best-education-price-for-2024/"><u>Updated Final Cut Pro on a Budget Get the Best Education Price for 2024</u></a></li>
+</ul></div>
 

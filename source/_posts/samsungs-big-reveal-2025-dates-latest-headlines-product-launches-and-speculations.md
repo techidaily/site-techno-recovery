@@ -1,7 +1,7 @@
 ---
 title: "Samsung's Big Reveal 2025: Dates, Latest Headlines, Product Launches & Speculations"
-date: 2024-08-26T06:02:51.229Z
-updated: 2024-08-27T06:02:51.229Z
+date: 2025-01-09T09:05:44.977Z
+updated: 2025-01-11T00:12:09.765Z
 categories:
   - BestProducts
 description: "This Article Describes Samsung's Big Reveal 2025: Dates, Latest Headlines, Product Launches & Speculations"
@@ -27,27 +27,34 @@ thumbnail: https://thmb.techidaily.com/5cabd8afae51f2d610c40e7b3e5f30c80fd0a554c
 
  The previous Unpacked was on July 10, 2024; the company announced the latest Galaxy Z Flip and Z Fold models, along with Galaxy Buds, Galaxy Watches, and the new Galaxy Ring.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Watch Samsung Unpacked
 
  Samsung's events happen around the world, but the company streams it live on its website and YouTube channels. You can learn how to[watch it here](https://www.lifewire.com/watch-samsung-unpacked-online-5095263) .
 
 <!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Which Products Will Be Released?
 
  The last January event featured the latest versions of Samsung's flagship Galaxy S phones, so we expect the same for 2025\. We'll see the[Galaxy S25/S25+](https://www.lifewire.com/samsung-galaxy-s25-8636730) and[S25 Ultra](https://www.lifewire.com/samsung-galaxy-s25-ultra-8639667) for sure. We might also see a new Galaxy Tablet, but we'll have to wait and see.
 
 <!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## What Previous Unpacked Events Announced
 
  Curious about what Samsung's announced at the last event? We've got the details below. The Galaxy Flip and Fold series are the[newest phones from the tech giant](https://www.lifewire.com/newest-samsung-galaxy-phone-7567396) .
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### July 2024 Unpacked Event
 
  The following products were announced at the July 2024 Unpacked event.
@@ -67,9 +74,9 @@ thumbnail: https://thmb.techidaily.com/5cabd8afae51f2d610c40e7b3e5f30c80fd0a554c
  The foldable devices–the Flip 6 and Fold 6–continue the company's dedication to artificial intelligence with new photo editing and generation features. One notable one has your phone generating a fully rendered image based on your sketch.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## The Latest Samsung News
 
  While you can always read the[latest technology news on Lifewire](https://www.lifewire.com/news-4795879) , here are some pieces of interest about Samsung.
@@ -86,8 +93,6 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -95,4 +100,26 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://hardware-updates.techidaily.com/free-download-nvidia-geforce-rtx-3080-drivers-compatible-with-windows-10-8-and-nvida-7/"><u>[Free Download] NVIDIA GeForce RTX 3080 Drivers Compatible with Windows 10, 8 & Nvida 7</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-mastery-of-gamers-channel-graphics-with-template-use/"><u>[New] 2024 Approved Mastery of Gamers' Channel Graphics with Template Use</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-how-to-fix-facebook-suggested-videos-not-showing-up-for-2024/"><u>[New] How to Fix Facebook Suggested Videos Not Showing Up for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-mobile-mastery-using-phone-as-a-camera-for-recording/"><u>2024 Approved Mobile Mastery Using Phone as a Camera for Recording</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/-aspects-to-consider-when-sizing-your-youtube-thumbnail-for-2024/"><u>5 Key Aspects to Consider When Sizing Your YouTube Thumbnail for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/advanced-guide-to-implementing-metaai-tools-on-your-instagram-account/"><u>Advanced Guide to Implementing MetaAI Tools on Your Instagram Account</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/beginners-tutorial-activating-echo-dot-setup-mode/"><u>Beginner's Tutorial: Activating Echo Dot Setup Mode</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/comment-contourner-la-limite-dimportation-hevc-dans-adobe-premiere-pro/"><u>Comment Contourner La Limite D’Importation HEVC Dans Adobe Premiere Pro</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-combat-stubborn-image-retention-on-various-display-types/"><u>How to Combat Stubborn Image Retention on Various Display Types</u></a></li>
+<li><a href="https://driver-download.techidaily.com/how-to-fetch-and-install-the-newest-amd-radeon-hd-7870-drivers-for-windows-10/"><u>How to Fetch and Install the Newest AMD Radeon HD 7870 Drivers for Windows 10</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-iphone-slow-motion-camera-video/"><u>In 2024, IPhone Slow-Motion Camera Video</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ios-update-fixes-unsettling-glitch-that-brought-back-erased-images-insights-from-zdnet/"><u>IOS Update Fixes Unsettling Glitch That Brought Back Erased Images: Insights From ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/memorial-day-sale-snag-the-apple-watch-se-at-a-stunning-60-discount-why-its-been-my-top-pick-of-the-year-zdnet/"><u>Memorial Day Sale: Snag the Apple Watch SE at a Stunning $60 Discount - Why It's Been My Top Pick of the Year | ZDNet</u></a></li>
+<li><a href="https://program-issues.techidaily.com/pc-gamers-rejoice-crash-free-experience-with-the-latest-fixes-in-total-war-warhammer-iii/"><u>PC Gamers Rejoice! Crash-Free Experience with the Latest Fixes in 'Total War: Warhammer III'</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/sold-at-best-price-post-prime-day-technewszdnet/"><u>Sold at Best Price Post-Prime Day | TechNewsZDNet</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-videos-from-itel-s23-by-fonelab-android-recover-video/"><u>The way to get back lost videos from Itel S23</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/uncovering-the-flaw-in-apples-latest-anti-theft-feature-expert-advice-on-securing-your-devices-techsafety/"><u>Uncovering the Flaw in Apple's Latest Anti-Theft Feature: Expert Advice on Securing Your Devices | TechSafety</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unlocking-the-secret-how-the-exclusive-pre-prime-day-offer-on-apples-ipad-pro-outshines-competitors-insights-from-zdnet/"><u>Unlocking the Secret: How the Exclusive Pre-Prime Day Offer on Apple's iPad Pro Outshines Competitors - Insights From ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unveiling-the-magic-of-apple-vision-pro-a-riveting-experience-with-my-beloved-tv-series-insights-from-zdnet/"><u>Unveiling the Magic of Apple Vision Pro: A Riveting Experience with My Beloved TV Series - Insights From ZDNet</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Protect Personal Privacy: A Guide to Cleaning Up Trackers in Safari for macOS Users | ZDNet"
-date: 2025-01-02T16:31:02.401Z
-updated: 2025-01-04T16:01:10.795Z
+date: 2025-01-06T06:40:46.289Z
+updated: 2025-01-10T18:53:36.681Z
 tags:
   - apple
 categories:
@@ -47,7 +47,7 @@ Let me show you how to enable this feature.
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to remove tracking information in MacOS Safari
@@ -55,7 +55,7 @@ Let me show you how to enable this feature.
 **What you'll need:** To gain the benefit of advanced tracking and fingerprint protection, you'll need [MacOS Sonoma](https://www.zdnet.com/article/whats-new-in-macos-sonoma-heres-everything-you-need-to-know/), which ships with version 17.0 of Safari. You will only find this feature in Safari if you've upgraded to Sonoma.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Open Safari Settings
@@ -67,7 +67,7 @@ You can also access Safari settings with the Cmd+, key combination.
 Jack Wallen/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Enable advanced track protection
@@ -119,24 +119,18 @@ Even so, getting rid of tracking information from even a percentage of sites you
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-mastering-instagrams-latest-trends-reels-and-stories/"><u>[New] Mastering Instagram's Latest Trends Reels and Stories</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-2024-approved-commence-your-journey-with-xps-film-editor-suite/"><u>[Updated] 2024 Approved Commence Your Journey with XP's Film Editor Suite</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-effective-utilization-of-whiteboards-on-mobile-and-desktop-for-online-learning/"><u>[Updated] Effective Utilization of Whiteboards on Mobile and Desktop for Online Learning</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-leveraging-technology-tools-for-accurate-and-efficient-market-analysis/"><u>[Updated] Leveraging Technology Tools for Accurate and Efficient Market Analysis</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/95-apple-pencil-2nd-generation-exclusive-labor-day-sale-on-tech-bargains-shop-now/"><u>$95 Apple Pencil (2Nd Generation): Exclusive Labor Day Sale on Tech Bargains – Shop Now!</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/affordable-powerhouse-unpacking-the-iphone-14-plus-features-for-long-lasting-performance-tech-innovations/"><u>Affordable Powerhouse: Unpacking the IPhone 14 Plus Features for Long-Lasting Performance | Tech Innovations</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/backspace-key-errors-heres-what-you-need-to-know-and-how-to-solve-it/"><u>Backspace Key Errors? Here's What You Need to Know and How to Solve It</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/discover-people-on-facebook-with-these-6-straightforward-techniques/"><u>Discover People On Facebook With These 6 Straightforward Techniques</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/discover-the-latest-in-smartphone-photography-how-iphone-16s-innovative-camera-button-enhances-your-experience-insights/"><u>Discover the Latest in Smartphone Photography: How iPhone 16'S Innovative Camera Button Enhances Your Experience - Insights</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-music-from-samsung-by-fonelab-android-recover-music/"><u>Easy steps to recover deleted music from Samsung</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/easy-techniques-for-refreshing-and-updating-powerpoint-files/"><u>Easy Techniques for Refreshing and Updating PowerPoint Files</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/exploring-top-non-apple-non-tile-brands-in-wearable-tech-a-closer-look-at-exceptional-wallet-airtags/"><u>Exploring Top Non-Apple, Non-Tile Brands in Wearable Tech: A Closer Look at Exceptional Wallet AirTags</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/how-to-seamlessly-connect-and-use-playstation-virtual-reality-on-a-pc/"><u>How to Seamlessly Connect and Use Playstation Virtual Reality on a PC</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-srt-audio-file-handling-for-oses/"><u>In 2024, SRT Audio File Handling for OSes</u></a></li>
-<li><a href="https://driver-download.techidaily.com/installing-the-latest-logitech-c525-webcam-driver-on-a-windows-pc/"><u>Installing the Latest Logitech C525 Webcam Driver on a Windows PC</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/navigate-through-fantastic-alternatives-to-chatgpt-and-elevate-your-ai-game/"><u>Navigate Through Fantastic Alternatives to ChatGPT and Elevate Your AI Game</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/seamlessly-upgrade-your-workspace-with-a-second-thunderbolt-monitor-on-your-m1-mac-mini-expert-advice/"><u>Seamlessly Upgrade Your Workspace with a Second Thunderbolt Monitor on Your M1 Mac Mini | Expert Advice</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/the-ultimate-guide-to-using-and-rating-the-line-mobile-platform/"><u>The Ultimate Guide to Using and Rating the Line Mobile Platform</u></a></li>
-<li><a href="https://win11.techidaily.com/three-steps-for-disabling-windows-store-on-win11/"><u>Three Steps for Disabling Windows Store on Win11</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-premium-hd-recorder-capabilities/"><u>[New] 2024 Approved Premium HD Recorder Capabilities</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-how-to-use-story-remix-to-edit-a-video-in-windows-11-photos/"><u>[New] How to Use Story Remix to Edit a Video in Windows 11 Photos</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/astering-mobile-asmr-must-have-apps/"><u>[New] Mastering Mobile ASMR Must-Have Apps</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-unlocking-the-full-potential-innovative-techniques-for-youtube-end-screen-designs/"><u>[Updated] Unlocking the Full Potential Innovative Techniques for Youtube End Screen Designs</u></a></li>
+<li><a href="https://win-web.techidaily.com/1-easy-guide-modifying-your-keyboard-preferences-via-windows-control-panel-tips-by-yl-computing/"><u>1. Easy Guide: Modifying Your Keyboard Preferences via Windows Control Panel - Tips by YL Computing</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/apple-event-highlights-exploring-anticipated-features-of-siri-ios-18-at-todays-wwdc-presentation-tech-innovations-blog/"><u>Apple Event Highlights: Exploring Anticipated Features of Siri, iOS 18 at Today's WWDC Presentation | Tech Innovations Blog</u></a></li>
+<li><a href="https://howto.techidaily.com/bricked-your-google-pixel-8-pro-heres-a-full-solution-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Bricked Your Google Pixel 8 Pro? Heres A Full Solution | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-we-solved-the-system-event-notifier-service-connection-error-in-windows/"><u>How We Solved the System Event Notifier Service Connection Error in Windows</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-does-the-stardust-trade-cost-in-pokemon-go-on-oneplus-11-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How does the stardust trade cost In pokemon go On OnePlus 11 5G? | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/securing-seamless-streams-troubleshooting-fb-live-glitches/"><u>Securing Seamless Streams Troubleshooting FB Live Glitches</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/solving-the-issue-why-your-mac-isnt-recognizing-an-outside-monitor/"><u>Solving the Issue: Why Your Mac Isn't Recognizing an Outside Monitor</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-rated-budget-friendly-notebook-bargains-in-july-2024-explore-the-latest-offers/"><u>Top Rated Budget-Friendly Notebook Bargains in July 2024 - Explore the Latest Offers</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/transforming-biking-adventures-with-smart-photochromic-glasses-a-game-changing-hud-feature-reviewed/"><u>Transforming Biking Adventures with Smart Photochromic Glasses: A Game-Changing HUD Feature Reviewed</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Keep Zoom Updated: A User's Guide for Windows and macOS Systems"
-date: 2024-08-26T06:03:55.012Z
-updated: 2024-08-27T06:03:55.012Z
+date: 2025-01-07T04:22:25.384Z
+updated: 2025-01-10T20:21:49.832Z
 categories:
   - BestProducts
 description: "This Article Describes Keep Zoom Updated: A User's Guide for Windows and macOS Systems"
@@ -10,6 +10,11 @@ thumbnail: https://thmb.techidaily.com/0eb94f402f1ee7bc7c28262c8a96cc0803ff0569b
 ---
 
 ## Code 28 Error Woes? Here's Your Ultimate Windows Hack for a Smooth Fix
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### What to Know
 
 * Code 28 errors are usually caused by missing drivers for the piece of hardware that the error appears on in Device Manager.
@@ -25,11 +30,21 @@ thumbnail: https://thmb.techidaily.com/0eb94f402f1ee7bc7c28262c8a96cc0803ff0569b
 1. [Restart your computer](https://www.lifewire.com/how-to-reboot-a-computer-2624568) if you haven't done so already.  
 ![Restart menu in Windows 10](https://www.lifewire.com/thmb/BfpzNB-2PZs2XbtmfAqOhjUL7Yo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/restartWindows10-5c8032ed46e0fb00019b8ed8.jpg)  
  There's always the slim chance that the Code 28 error you're seeing in Device Manager was caused by a fluke with Device Manager or in your[BIOS](https://www.lifewire.com/bios-basic-input-output-system-2625820) . If that's the case, a reboot might fix the problem.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 2. Did you install a device or make a change in Device Manager just before you noticed the error? If so, it's very possible that the change you made caused the problem.  
  Undo the change, restart your PC, and then check again for the Code 28 error.  
  Depending on the changes you made, some solutions might include removing or re-configuring the newly installed device,[rolling back the driver](https://www.lifewire.com/how-to-roll-back-a-driver-in-windows-2619217) to the version prior to your update, or[using System Restore](https://www.lifewire.com/how-to-use-system-restore-in-windows-2626131) to undo recent Device Manager changes.  
 ![System Restore button for Windows 10](https://www.lifewire.com/thmb/dLFN9DPEpHd1ClDWsExz8wKhnMs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/restoresystemWindows-5c80332846e0fb00011bf425.jpg)
 3. [Update the drivers](https://www.lifewire.com/how-to-update-drivers-in-windows-2619214) for the device. Installing the latest manufacturer supplied drivers for a device with the Code 28 error is the most likely solution to the problem.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Make sure you install the drivers for the correct operating system. For example, if you're using Windows 10[64-bit](https://www.lifewire.com/32-bit-64-bit-2624554) , install the drivers designed for that specific[version of Windows](https://www.lifewire.com/what-version-of-windows-do-i-have-2624927) . Many of these errors are caused by attempting to install the wrong drivers for a device. One way to be sure you're getting the right driver is to use a[free driver updater tool](https://www.lifewire.com/free-driver-updater-tools-2619206) .  
  If the drivers won't update, try disabling your antivirus software during the update process. Sometimes these programs misinterpret your driver updating as malicious and block it.
 4. [Install the latest Windows service pack](https://www.lifewire.com/how-to-check-for-install-windows-updates-2624596) . Microsoft regularly releases[service packs](https://www.lifewire.com/what-is-a-service-pack-2626010) and other[patches](https://www.lifewire.com/what-is-a-patch-2625960) for their operating systems, one of which may contain a fix for the cause of the Code 28 error.  
@@ -39,8 +54,9 @@ thumbnail: https://thmb.techidaily.com/0eb94f402f1ee7bc7c28262c8a96cc0803ff0569b
  If you still think there's a software/operating system component to this Code 28 error, you could try to[automatically repair Windows](https://www.lifewire.com/how-do-i-automatically-repair-windows-problems-2624907) . If that doesn't work, try a[clean install of Windows](https://www.lifewire.com/how-to-clean-install-windows-2624904) . We don't recommend doing either of those more drastic options_before_ you try replacing the hardware, but you may have to if you're out of other options.
 
 <!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Causes of a Code 28 Error
 
  The Code 28 error is one of several possible [Device Manager error codes](https://www.lifewire.com/device-manager-error-codes-4159098) you could see for a piece of hardware. As mentioned above, it's almost always caused by a missing driver for that particular piece of hardware.
@@ -56,8 +72,9 @@ thumbnail: https://thmb.techidaily.com/0eb94f402f1ee7bc7c28262c8a96cc0803ff0569b
 ![Device error Code 28 on Windows 10 desktop](https://www.lifewire.com/thmb/nu2GconMBW2tTuJo6e9kYszSKe0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/code-28-device-manager-error-3d84945a44e0467080dc5a77005500e2.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Device Manager error codes are exclusive to[Device Manager](https://www.lifewire.com/device-manager-2625860) . If you see the Code 28 error elsewhere in Windows, chances are it's a[system error code](https://www.lifewire.com/system-error-code-2625996) that you should not troubleshoot as a Device Manager problem.
 
  FAQ
@@ -89,8 +106,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -98,4 +113,17 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-gamers-sound-showdown-the-top-5-headset-list/"><u>[New] In 2024, Gamers' Sound Showdown The Top 5 Headset List</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/a-comprehensive-approach-to-resolving-missing-winhttpdll-issues/"><u>A Comprehensive Approach to Resolving Missing winhttp.dll Issues</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ai-literacy-test-reasons-behind-chatgpts-struggle-with-identifying-own-writings/"><u>AI Literacy Test: Reasons Behind ChatGPT's Struggle with Identifying Own Writings</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discover-apples-latest-innovations-top-4-groundbreaking-health-enhancements-revealed/"><u>Discover Apple's Latest Innovations: Top 4 Groundbreaking Health Enhancements Revealed</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-full-guide-to-catch-100-iv-pokemon-using-a-map-on-oppo-reno-10-proplus-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Catch 100 IV Pokémon Using a Map On Oppo Reno 10 Pro+ 5G | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-tips-of-transferring-messages-from-oneplus-nord-ce-3-5g-to-iphone-1415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Tips of Transferring Messages from OnePlus Nord CE 3 5G to iPhone 14/15 | Dr.fone</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/up-your-video-game-expert-endorsed-cost-free-intro-creators-for-2024/"><u>Step Up Your Video Game Expert-Endorsed, Cost-Free Intro Creators for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/televising-digital-media-integrating-fb-video-in-2024/"><u>Televising Digital Media Integrating FB Video , In 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-ranking-apple-watch-straps-comprehensive-reviews-by-tech-experts/"><u>Top-Ranking Apple Watch Straps : Comprehensive Reviews by Tech Experts</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/troubleshooting-the-missing-pdhdll-file-issue-step-by-step/"><u>Troubleshooting the 'Missing pdh.dll' File Issue Step-by-Step</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Fall Innovations on Apple Products! Find Out What's New for iPhone, iPad & Mac - From Advanced AI Integration Report
-date: 2025-01-03T16:18:07.060Z
-updated: 2025-01-04T16:11:23.152Z
+date: 2025-01-07T02:34:06.475Z
+updated: 2025-01-10T17:27:39.507Z
 tags:
   - apple
 categories:
@@ -38,10 +38,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Apple Intelligence (AI)
 
 Maria Diaz/ZDNET
@@ -64,6 +60,10 @@ Maria Diaz/ZDNET
 * In the Notes app, users can **record and transcribe audio**, which Apple Intelligence will generate a text summary of. This experience is also available in the Notes phone app.
 * Apple Intelligence is free on iOS 18, iPadOS 18, and MacOS Sequoia, and will be available to try in English only this summer.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Partnership with OpenAI
 
 Jason Hiner/ZDNET
@@ -73,7 +73,7 @@ Jason Hiner/ZDNET
 * The ChatGPT integration will be coming to iOS 18, iPadOS 18, and MacOS Sequoia later this year.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## iOS 18
@@ -95,7 +95,7 @@ Adam Breeden/ZDNET
 * The **Calendar app** can now pull from the Reminders app for a more seamless schedule overview.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## WatchOS 11
@@ -112,10 +112,6 @@ Adam Breeden/ZDNET
 * **Check In** is available on Apple Watch, even during workouts, to help users stay safe. **Translate** is also coming to Apple Watch so users can translate text right from their wrists.
 * Another notable change is that the **double tap gesture** can be used to scroll through apps.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## iPadOS 18
 
 Adam Breeden/ZDNET
@@ -125,6 +121,10 @@ Adam Breeden/ZDNET
 * In a long-awaited release, iPads will now have a **[calculator app](https://www.zdnet.com/article/after-14-years-apple-expected-to-unveil-the-ipad-app-weve-all-been-waiting-for-at-wwdc/)** for the first time, complete with the same interface as the one currently found on iPhones. Plus, users can use it with the Apple Pencil through a new **Math Notes** experience, which allows users to write expressions that the calculator app will solve for them once they type the equal sign, in their own handwriting,
 * Handwriting in Notes also got an upgrade with **Smart** **Script**, which refines users' writing to make it more legible while keeping the authenticity of the user's handwriting style. The feature can also match copied and pasted text to the user's handwriting. Typed text was also enhanced, with five new highlight colors and the ability to toggle sections under headings or subheadings.
 * iPadOS 18 supports **screen-sharing via SharePlay** and the same Control Center customizations, Photos app upgrades, Safari updates, and emoji Tapbacks found in **iOS 18.**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## MacOS 15 (Sequoia)
 
@@ -136,6 +136,10 @@ Adam Breeden/ZDNET
 * **Video meetings** are also getting an upgrade, with new backgrounds and a preview experience that allows you to see what you are about to share before sharing it. This feature works with popular video conferencing applications such as FaceTime and Zoom.
 * The **AI summarization** tool will live in Safari to help users process content like web pages and articles more efficiently. Safari will also assist users in discovering more helpful information about a page they are browsing when relevant, such as directions.
 * Apple also launched a new **Viewer experience**, which does for video what Reader does for text.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## VisionOS 2
 
@@ -161,10 +165,6 @@ Jason Hiner/ZDNET
 * AirPods Pro are getting **Voice Isolation** to enhance call quality in noisier environments.
 * With the new **Siri Interactions**, users can now **nod or shake their head** "yes" or "no" when responding to Siri.
 * Apple is also releasing a **Personalized Spatial Audio API** for game developers to build around the AirPods' audio technology.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## tvOS 18
 
@@ -210,14 +210,14 @@ Screenshot by Nina Raemont/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/2024-approved-basic-understanding-of-animate-graphic-content/"><u>2024 Approved Basic Understanding of Animate Graphic Content</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/approach-explain-the-biological-function-of-rank-ligand-and-its-inhibitors/"><u>Approach: Explain the Biological Function of RANK Ligand and Its Inhibitors</u></a></li>
-<li><a href="https://techtrends.techidaily.com/find-and-fix-the-python24dll-not-found-error-expert-tips-and-advice/"><u>Find and Fix the 'Python24.dll Not Found' Error: Expert Tips & Advice</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/forget-rice-apple-recommends-these-methods-to-revive-your-wet-smartphone-exclusive-guide-by-zdnet/"><u>Forget Rice, Apple Recommends These Methods to Revive Your Wet Smartphone | Exclusive Guide by ZDNET</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/tech-troubleshooting-triumph-how-to-repair-helperdll-failure-messages-on-your-pc/"><u>Tech Troubleshooting Triumph: How to Repair 'Helper.dll' Failure Messages on Your PC</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/ultimate-guide-enjoying-pokemon-go-adventures-with-friends/"><u>Ultimate Guide: Enjoying 'Pokémon Go' Adventures with Friends</u></a></li>
-<li><a href="https://win-latest.techidaily.com/ultimate-guide-mastering-the-art-of-snipping-movies-and-videos-on-windows-with-easy-steps/"><u>Ultimate Guide: Mastering the Art of Snipping Movies & Videos on Windows with Easy Steps</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/ultimate-ranking-of-2024s-finest-apple-watches-expert-insights-and-detailed-analysis/"><u>Ultimate Ranking of 2024'S Finest Apple Watches: Expert Insights & Detailed Analysis</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/understanding-dvrs-a-comprehensive-guide-to-digital-video-recorders/"><u>Understanding DVRs: A Comprehensive Guide to Digital Video Recorders</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-all-encompassing-review-djis-inspire-1-drone/"><u>[New] All-Encompassing Review DJI's Inspire 1 Drone</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-rapid-photovideo-resurrection-tactics-for-2024/"><u>[New] Rapid Photo/Video Resurrection Tactics for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-flashclip-quick-checkup-review/"><u>[Updated] 2024 Approved FlashClip Quick Checkup Review</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/revealed-apples-next-gen-audio-wearable-pricing-launch-and-features-uncovered/"><u>Revealed: Apple's Next-Gen Audio Wearable - Pricing, Launch & Features Uncovered!</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/samsung-smart-tv-app-management-how-to-download-and-enjoy-new-apps/"><u>Samsung Smart TV App Management: How to Download and Enjoy New Apps</u></a></li>
+<li><a href="https://common-error.techidaily.com/syncing-valorant-gameplay-post-restart/"><u>Syncing Valorant Gameplay Post-Restart</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ultimate-list-of-free-film-streamers-top-12-picks/"><u>Ultimate List of Free Film Streamers: Top 12 Picks</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unveiling-the-true-eco-friendliness-of-electric-cars/"><u>Unveiling the True Eco-Friendliness of Electric Cars</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/youtube-income-guide-whats-new/"><u>YouTube Income Guide - What's New?</u></a></li>
 </ul></div>
 

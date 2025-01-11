@@ -1,7 +1,7 @@
 ---
 title: "Decoding Apple Innovations for Consumers: How SoC, M1 Through M3 Chips Transform Computing Experiencuence"
-date: 2024-12-22T03:47:33.150Z
-updated: 2024-12-26T03:23:42.444Z
+date: 2025-01-05T01:28:43.141Z
+updated: 2025-01-10T19:38:03.344Z
 tags:
   - apple
 categories:
@@ -46,6 +46,10 @@ Apple Intelligence will tap into your photos for a few different tricks. You'll 
 
 The [new Clean Up tool](https://www.zdnet.com/article/ios-18-1-beta-adds-photo-clean-up-ai-tool-and-notification-summaries-how-they-work/) will help you remove distracting or unwanted elements in a photo while leaving everything else intact.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Audio transcriptions
 
 Using the Notes and Phone apps, you'll be able to [record, transcribe, and summarize a call](https://www.zdnet.com/article/apples-ios-18-will-let-you-record-phone-calls-without-a-third-party-app/) and other types of audio. When you start recording, the feature notifies everyone that the call is being recorded. Once the call ends, Apple Intelligence will not only transcribe it but summarize all its key points.
@@ -60,10 +64,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. Notification assistance
 
 Instead of having to read all the notifications that appear on your screen, you'll be able to browse through AI-generated summaries of them. Plus, a new Focus mode will display only the notifications that need your immediate attention.
@@ -75,6 +75,10 @@ To help you get through your emails, Apple Intelligence will [try to understand 
 **Also: [The iPhone 16 is undeniably great hardware - but you should still probably skip it](https://www.zdnet.com/article/the-iphone-16-is-undeniably-great-hardware-but-you-should-still-probably-skip-it/)**
 
 Plus, a new Smart Reply feature will offer suggestions for quick replies and ensure that all the questions in a response have been addressed.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Siri improvements
 
@@ -91,13 +95,13 @@ Beyond using your voice to chat with Siri, you'll also be able to type your requ
 Those are a fair number of AI-powered features and upgrades, but Apple Intelligence has more in store for the months and years ahead. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What will come later
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Image playground
@@ -105,7 +109,7 @@ Those are a fair number of AI-powered features and upgrades, but Apple Intellige
 Using the AI-powered [Image Playground](https://www.zdnet.com/article/what-is-apple-intelligence-everything-to-know-about-ai-features-coming-to-iphones-macs-and-ipads/), you'll be able to generate images based on a description, suggestions, or even a person from one of your photos. You can then tweak the style and make other changes based on how you plan to use or share the image.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Image wand
@@ -115,10 +119,6 @@ The [image wand](https://www.zdnet.com/article/forget-dall-e-apples-new-ai-image
 ### Genmoji
 
 You'll be able to [create new emojis](https://www.zdnet.com/article/apples-new-ai-generated-genmoji-solve-a-problem-weve-all-had-before/) on-demand by entering a description or selecting a photo of you or another person. In response, the AI will generate a more accurate and lively kind of emoji.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### More Siri tricks
 
@@ -158,18 +158,18 @@ The big question, though, is not so much when the new AI features will arrive bu
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-exploring-types-and-methods-of-touchless-technology/"><u>[New] Exploring Types and Methods of Touchless Technology</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-insider-strategies-free-access-to-professional-imagery/"><u>[New] Insider Strategies Free Access to Professional Imagery</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-2024-approved-hearing-beginnings-mastering-volume-control-in-adobe-audition/"><u>[Updated] 2024 Approved Hearing Beginnings Mastering Volume Control in Adobe Audition</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/apple-pay-later-transactions-now-included-on-experian-credit-reports-what-you-need-to-know/"><u>Apple Pay Later Transactions Now Included on Experian Credit Reports - What You Need To Know</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/discover-the-leading-alternative-to-apple-and-tile-expert-evaluation-of-the-best-wallet-airtags/"><u>Discover the Leading Alternative to Apple and Tile: Expert Evaluation of the Best Wallet AirTags</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/discover-the-world-of-smartwatches-functions-and-features-explained/"><u>Discover the World of Smartwatches: Functions & Features Explained</u></a></li>
-<li><a href="https://article-posts.techidaily.com/in-2024-essential-steps-for-effective-online-engagement/"><u>In 2024, Essential Steps for Effective Online Engagement</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-share-on-apple-iphone-8-plus-drfone-by-drfone-ios/"><u>In 2024, How to Screen Share on Apple iPhone 8 Plus? | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/step-by-step-instructions-on-linking-samsung-wireless-earphones-to-your-pc/"><u>Step-by-Step Instructions on Linking Samsung Wireless Earphones to Your PC</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/ultimate-guide-to-enhancing-your-airpods-pro-with-latest-accessories-featured/"><u>Ultimate Guide to Enhancing Your AirPods Pro with Latest Accessories - Featured</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unbeatable-deal-dive-into-the-best-gaming-audio-experience-with-a-staggering-discount-on-amazon-read-more-at-zdnet/"><u>Unbeatable Deal: Dive Into the Best Gaming Audio Experience with a Staggering Discount on Amazon - Read More at ZDNet</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/unlocking-the-secret-how-securing-an-early-ipad-pro-bargain-before-prime-day-becomes-your-best-tech-investment-insights-from-zdnet/"><u>Unlocking the Secret: How Securing an Early iPad Pro Bargain Before Prime Day Becomes Your Best Tech Investment - Insights From ZDNet</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/will-ai-outdo-magazine-horoscopes-in-prophetic-accuracy/"><u>Will AI Outdo Magazine Horoscopes in Prophetic Accuracy?</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-price-tag-on-popularity-pewdiepies-annual-earnings/"><u>2024 Approved The Price Tag on Popularity – PewDiePie's Annual Earnings</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/app-market-showdown-comparing-apples-ios-app-store-with-google-play/"><u>App Market Showdown: Comparing Apple's IOS App Store with Google Play</u></a></li>
+<li><a href="https://howto.techidaily.com/app-wont-open-on-your-vivo-v29e-here-are-all-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>App Wont Open on Your Vivo V29e? Here Are All Fixes | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/best-lgbtq-movies-currently-available-on-netflix-for-july-2nand24/"><u>Best LGBTQ Movies Currently Available on Netflix for July 2Nand24</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/capturing-clarity-a-look-at-screensnapelite/"><u>Capturing Clarity A Look at 'ScreenSnapElite'</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/cat5-or-cat6-choosing-the-right-ethernet-cable-for-your-network-needs/"><u>Cat5 or Cat6? Choosing the Right Ethernet Cable for Your Network Needs</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/effective-strategies-to-resolve-ieframedll-errores-in-windows-os/"><u>Effective Strategies to Resolve Ieframe.dll Errores in Windows OS</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/elite-choices-of-battery-backup-solutions-your-guide-to-the-best-ups-devices-in-2/"><u>Elite Choices of Battery Backup Solutions – Your Guide to the Best UPS Devices in 2</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/simple-steps-to-completely-delete-all-content-from-your-iphone-permanently/"><u>Simple Steps to Completely Delete All Content From Your iPhone Permanently</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-guide-resolving-undefined-speaker-settings-in-windows-11/"><u>Step-by-Step Guide: Resolving Undefined Speaker Settings in Windows 11</u></a></li>
+<li><a href="https://fox-that.techidaily.com/struggling-with-dnd-on-your-iphone-uncover-8-solutions-for-missing-messages-and-calls/"><u>Struggling with DND on Your iPhone? Uncover 8 Solutions for Missing Messages & Calls</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-ultimate-walkthrough-downloading-and-accessing-apple-tv-on-a-fire-stick-device/"><u>The Ultimate Walkthrough: Downloading and Accessing Apple TV on a Fire Stick Device</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/transfer-your-imessages-from-ipad-to-iphone-seamlessly-using-two-proven-methods/"><u>Transfer Your iMessages From iPad to iPhone Seamlessly Using Two Proven Methods</u></a></li>
 </ul></div>
 

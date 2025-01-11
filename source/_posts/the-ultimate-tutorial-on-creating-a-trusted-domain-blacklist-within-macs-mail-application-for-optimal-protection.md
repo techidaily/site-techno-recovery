@@ -1,7 +1,7 @@
 ---
 title: The Ultimate Tutorial on Creating a Trusted Domain Blacklist Within Mac's Mail Application for Optimal Protection
-date: 2024-08-26T06:04:07.030Z
-updated: 2024-08-27T06:04:07.030Z
+date: 2025-01-04T07:24:05.766Z
+updated: 2025-01-11T01:46:11.936Z
 categories:
   - BestProducts
 description: This Article Describes The Ultimate Tutorial on Creating a Trusted Domain Blacklist Within Mac's Mail Application for Optimal Protection
@@ -30,12 +30,12 @@ thumbnail: https://www.lifewire.com/thmb/rJZfBg3-i-ZyczqvW7RscZaqx-k=/400x300/fi
 !["cmd" typed into Windows 11 start menu search box](https://www.lifewire.com/thmb/1d41kEyvl2KNY_b_cnc6DgiIehk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/windows-11-cmd-start-menu-a8c1d7d009f64856902c83e8e418563b.png)  
  If you're using the latest version of Windows 11, Command Prompt will open within[Terminal](https://www.lifewire.com/windows-terminal-4779951) .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Some popular Command Prompt commands you might have heard of include[ping](https://www.lifewire.com/ping-command-2618099) ,[netstat](https://www.lifewire.com/netstat-command-2618098) ,[tracert](https://www.lifewire.com/tracert-command-2618101) ,[shutdown](https://www.lifewire.com/shutdown-command-2618100) , and[attrib](https://www.lifewire.com/attrib-command-2625802) , but there are_many_ more. We have a[complete list of Windows Command Prompt commands](https://www.lifewire.com/list-of-command-prompt-commands-4092302) .
 
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
-<!-- affiliate ads end -->
 ### Open Command Prompt Through the Start Menu Folder
 
  Another way to open the Windows Command Prompt in Windows 10 is to look in its Start menu folder. Open the**Start menu** , select the**Windows System** folder from the list, and then choose**Command Prompt** from the folder group.
@@ -43,20 +43,9 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
 ![Command Prompt menu item in Windows System folder in Start menu on Windows 10](https://www.lifewire.com/thmb/M8TRCTyz0ujUzmDzFZsFJjffiq4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/003_how-to-open-command-prompt-2618089-5c6468a146e0fb0001f25667.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
 
-<!-- affiliate ads end -->
 ### Open Command Prompt Using Power User Menu
 
  One more method is through the[Power User Menu](https://www.lifewire.com/what-is-the-power-user-menu-2625968) . If you're using a keyboard or mouse, choose**Terminal** (Windows 11) or**Command Prompt** (Windows 10) from the menu that appears after pressing**Win** +**X** or right-clicking the**Start** **Menu** .
@@ -64,6 +53,10 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
 ![Command Prompt in Windows 10 Power User menu](https://www.lifewire.com/thmb/7_8z-AOur7jJSd6_2bz9Yp2VnDA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004_how-to-open-command-prompt-2618089-5c646ad746e0fb0001dcd81a.jpg)
 
  You might see PowerShell options in the Power User Menu instead of Command Prompt. In more recent versions of Windows 10, Command Prompt has been replaced by PowerShell, but you can[switch between PowerShell and Command Prompt](https://www.lifewire.com/switch-command-prompt-and-powershell-on-the-win-x-menu-2626247) from the Power User Menu. Terminal is the replacement in Windows 11.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Open Command Prompt in Windows 8 or 8.1
 
@@ -77,9 +70,6 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
 
  See our [list of Windows 8 Command Prompt commands](https://www.lifewire.com/windows-8-command-prompt-commands-4172073) for all of the commands available through Command Prompt in Windows 8, including short descriptions and links to more in-depth information if we have it.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Open Command Prompt in Windows 7, Vista, or XP
 
  In these versions of Windows, Command Prompt is found through a folder group in the Start menu.
@@ -91,6 +81,10 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
 
  See our [list of Windows 7 commands](https://www.lifewire.com/list-of-windows-7-command-prompt-commands-4107370) and[list of Windows XP commands](https://www.lifewire.com/windows-xp-commands-4687695) if you need a command reference for any of those versions of Windows.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Other Ways to Open Command Prompt
 
  Command Prompt in Windows 11 through Windows XP can also be opened with a command. This is especially helpful if you like using the Run dialog box or if File Explorer has crashed and the Start menu is inaccessible (and thus the directions above don't work).
@@ -100,8 +94,9 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
 ![cmd command in Windows task manager](https://www.lifewire.com/thmb/vmaNGH1y0PVAMe1joTnnpWVqJ-Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/cmd-command-task-manager-da3a31f675de41198c4948fbaff46829.png)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Elevated Command Prompts and Old Windows Versions
 
  Command Prompt doesn't exist in versions of Windows released before Windows XP, like Windows 98 and Windows 95\. However, the older and very similar MS-DOS Prompt does. This program is located in the Start menu and can be opened with the**command** run command.
@@ -114,9 +109,6 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
 
 ![sfc scannow elevated prompt message](https://www.lifewire.com/thmb/PmVejDjk3-H5ABhTpR5vFhEpxXE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/sfc-scannow-administrator-command-prompt-775fe2bfbdd54342813261652a3de86f.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
  See[How to Open an Elevated Command Prompt](https://www.lifewire.com/how-to-open-an-elevated-command-prompt-2618088) for help starting Command Prompt as an administrator, a process that's a bit more complicated than what's outlined above.
 
  FAQ
@@ -152,8 +144,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -161,4 +151,22 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/new-drone-innovation-existing-applications-and-upcoming-potential/"><u>[New] Drone Innovation Existing Applications & Upcoming Potential</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ioneering-the-future-of-video-conferencing-with-google-meet-to-youtube-for-2024/"><u>[New] Pioneering the Future of Video Conferencing with Google Meet to YouTube for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/solved-evil-genius-2-wont-launch/"><u>[Solved] Evil Genius 2 Won't Launch</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-new-screen-recorder-tools-analysis-march-2023/"><u>[Updated] New Screen Recorder Tools Analysis – March 2023</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/apple-pencil-inspired-vision-pro-controller-unveiled-in-latest-patent-reveal-insights-from-zdnet/"><u>Apple Pencil Inspired Vision Pro Controller Unveiled in Latest Patent Reveal - Insights From ZDNet</u></a></li>
+<li><a href="https://win-tips.techidaily.com/boot-file-installation-errors-fixed-in-acer-erecovery-utility-management-platform/"><u>Boot File Installation Errors Fixed in Acer ERecovery Utility Management Platform</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/clearing-up-opaque-video-views-on-youtube-for-2024/"><u>Clearing Up Opaque Video Views on YouTube for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/decode-the-mystery-effective-solutions-for-halinitializationfailed-stop-0x0000005c/"><u>Decode the Mystery: Effective Solutions for HAL_INITIALIZATION_FAILED (STOP 0X0000005C)</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/effective-fixes-for-when-your-system-cant-locate-propsysdll-files/"><u>Effective Fixes for When Your System Can't Locate PropSys.dll Files</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-does-the-new-dyson-ontrac-headphones-stack-up-against-the-dominant-apple-airpods-max/"><u>How Does the New Dyson OnTrac Headphones Stack Up Against The Dominant Apple AirPods Max?</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-the-ultimate-guide-to-samsung-galaxy-s23-tactical-edition-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Ultimate Guide to Samsung Galaxy S23 Tactical Edition Pattern Lock Screen Everything You Need to Know</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/navigating-graphic-design-careers-successfully/"><u>Navigating Graphic Design Careers Successfully</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-fcp-x-effects-for-beginners-a-quick-and-easy-3-step-process/"><u>New FCP X Effects for Beginners A Quick and Easy 3-Step Process</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-sony-showcase-2024-latest-releases-industry-updates-and-insights/"><u>The Sony Showcase 2024: Latest Releases, Industry Updates & Insights</u></a></li>
+<li><a href="https://games-able.techidaily.com/why-idevices-entice-me-with-top-tier-game-selection-via-apple-arcade/"><u>Why iDevices Entice Me with Top-Tier Game Selection via Apple Arcade</u></a></li>
+</ul></div>
 

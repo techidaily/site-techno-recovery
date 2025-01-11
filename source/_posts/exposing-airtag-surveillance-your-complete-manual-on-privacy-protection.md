@@ -1,7 +1,7 @@
 ---
 title: "Exposing AirTag Surveillance: Your Complete Manual on Privacy Protection"
-date: 2024-12-30T16:18:53.237Z
-updated: 2025-01-04T16:04:48.832Z
+date: 2025-01-04T16:07:21.210Z
+updated: 2025-01-10T18:18:14.127Z
 tags:
   - apple
 categories:
@@ -49,7 +49,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## A trained charm offensive
@@ -83,7 +83,7 @@ She began to play a demonstration video that, dare I confess, is quite moving.
 The fact that someone else can see (a digital version of) your eyes is a touchingly humane feature, even if imperfect. But the simple gesturing and the apparent power of that gesturing is, even on video, quite something.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Suddenly, it's all business
@@ -125,7 +125,7 @@ I asked if she thought this would become the new way of living, where people wan
 (Well, not quite all the apps. Netflix and YouTube [aren't there](https://www.zdnet.com/article/what-apps-will-be-on-apple-vision-pro-not-these-two-major-ones/).)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Was I sold? Not quite yet
@@ -191,22 +191,17 @@ I asked the female store employee whether she'd be able to try one on before the
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-galaxy-visionhub-premium-integrated-4k-all-in-one-panels/"><u>[New] Galaxy VisionHub Premium Integrated 4K All-in-One Panels</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-quick-guide-altering-screen-colors-on-google-meet/"><u>[New] In 2024, Quick Guide Altering Screen Colors on Google Meet</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-making-spherical-videos-the-iphone-way/"><u>[New] Making Spherical Videos The iPhone Way</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-10-best-video-calling-app-for-android-and-iphone-for-2024/"><u>[Updated] 10 Best Video Calling App for Android and iPhone for 2024</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-how-can-i-view-friends-shared-vids-and-photos/"><u>[Updated] 2024 Approved How Can I View Friend’s Shared Vids and Photos?</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-2024-approved-what-are-the-best-site-to-promote-youtube-videos/"><u>[Updated] 2024 Approved What Are the Best Site to Promote YouTube Videos</u></a></li>
-<li><a href="https://howto.techidaily.com/bricked-your-vivo-y36i-heres-a-full-solution-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Bricked Your Vivo Y36i? Heres A Full Solution | Dr.fone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/discover-these-5-must-have-pinterest-bot-tools-for-better-engagement/"><u>Discover These 5 Must-Have Pinterest Bot Tools for Better Engagement</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/dvdnec-lavie/"><u>DVDファイルをNEC LAVIEパソコンで正しく再生する方法とトラブルシューティング</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/exploring-the-groundbreaking-synergy-between-artifice-intelligence-and-the-new-m4-ipad-pro-at-wwdc/"><u>Exploring the Groundbreaking Synergy Between Artifice Intelligence and the New M4 iPad Pro at WWDC</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/exploring-the-relationship-between-memory-rates-delays-and-pc-agility/"><u>Exploring the Relationship Between Memory Rates, Delays, and PC Agility</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/improved-system-stability-and-performance-enhancements-to-prevent-frequent-freezing-or-crashing-incidents/"><u>Improved System Stability and Performance Enhancements to Prevent Frequent Freezing or Crashing Incidents.</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-the-magnificent-art-of-pokemon-go-streaming-on-infinix-smart-8-plus-drfone-by-drfone-virtual-android/"><u>In 2024, The Magnificent Art of Pokemon Go Streaming On Infinix Smart 8 Plus? | Dr.fone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/iphone-16-markedly-improves-on-user-repairability-apple-reveals-comparisons-with-previous-models/"><u>IPhone 16 Markedly Improves on User Repairability, Apple Reveals Comparisons with Previous Models</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/should-you-leap-to-the-latest-trend-a-detailed-review-of-the-iphone-16-pro-against-its-predecessor-the-14-pro-zdnet/"><u>Should You Leap to the Latest Trend? A Detailed Review of the iPhone 16 Pro Against Its Predecessor, the 14 Pro | ZDNet</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/step-by-step-tutorial-on-linking-a-nintendo-switch-system-to-your-hdtv/"><u>Step-by-Step Tutorial on Linking a Nintendo Switch System to Your HDTV</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/1722863807612-troubleshooting-and-fixes-for-everyday-tv-glitches/"><u>Troubleshooting & Fixes for Everyday TV Glitches</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-in-2024-how-to-stream-videos-on-twitter-using-your-smartphone/"><u>[Updated] In 2024, How To Stream Videos on Twitter Using Your Smartphone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/1722869111417-efficiently-navigate-googles-features-with-gemini-learn-how/"><u>Efficiently Navigate Google's Features with Gemini - Learn How</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-card-on-oppo-find-x6-online-without-jailbreak-by-drfone-android/"><u>How to Unlock SIM Card on Oppo Find X6 online without jailbreak</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-6-proven-ways-to-unlock-xiaomi-redmi-a2plus-phone-when-you-forget-the-password-by-drfone-android/"><u>In 2024, 6 Proven Ways to Unlock Xiaomi Redmi A2+ Phone When You Forget the Password</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-reset-a-infinix-smart-7-phone-that-is-locked-by-drfone-android/"><u>In 2024, How to Reset a Infinix Smart 7 Phone that is Locked?</u></a></li>
+<li><a href="https://fox-http.techidaily.com/interface-feedback-for-screen-players-choice-for-2024/"><u>Interface Feedback for Screen Players' Choice for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/no-physical-change-required-ios-18-to-introduce-hearing-aid-mode-in-airpods-pro-zdnet-news/"><u>No Physical Change Required: IOS 18 to Introduce Hearing Aid Mode in AirPods Pro - ZDNet News</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-ways-for-a-boom-in-youtube-viewership-top-12-methods-for-2024/"><u>Proven Ways for a Boom in YouTube Viewership (Top 12 Methods) for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/solve-your-windows-11-creators-update-woes-overcoming-download-stalls-and-silent-screens/"><u>Solve Your Windows 11 Creators Update Woes: Overcoming Download Stalls & Silent Screens</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-guide-keep-your-content-front-and-center-with-instagram-pins/"><u>Step-by-Step Guide: Keep Your Content Front and Center with Instagram Pins</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-ultimate-tutorial-for-altering-kindle-paperwhite-clock-preferences/"><u>The Ultimate Tutorial for Altering Kindle Paperwhite Clock Preferences</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-factors-to-assess-when-selecting-your-next-video-capture-solution/"><u>Top Factors to Assess When Selecting Your Next Video Capture Solution</u></a></li>
 </ul></div>
 

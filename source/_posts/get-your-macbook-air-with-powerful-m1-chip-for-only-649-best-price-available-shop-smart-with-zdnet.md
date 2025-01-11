@@ -1,7 +1,7 @@
 ---
 title: Get Your MacBook Air with Powerful M1 Chip for Only $649 - Best Price Available | Shop Smart With ZDNET
-date: 2024-12-19T04:14:38.552Z
-updated: 2024-12-26T03:44:16.796Z
+date: 2025-01-10T08:37:28.672Z
+updated: 2025-01-11T03:03:43.034Z
 tags:
   - apple
 categories:
@@ -42,7 +42,7 @@ At $649, this is the lowest price for the M1 version of the MacBook Air that we'
 The [M1 MacBook Air](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fmacbook-air-13-3-laptop-apple-m1-chip-8gb-memory-256gb-ssd-space-gray-space-gray%2F5721600.p%3FskuId%3D5721600&publisher_slug=itechdaily19598&exclusive=1) first retailed for $999 when it was released, but Apple sells refurbished versions for $799, making these deals even better than anything Apple is offering. The [M1 MacBook Air](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FApple-MacBook-Air-13-3-inch-Laptop-Silver-M1-Chip-8GB-RAM-256GB-storage%2F609040889&subId1=zd-__COM_CLICK_ID__-dtp) is available in three different colors: gold, space gray, and silver. Snag these savings while you can. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -81,18 +81,21 @@ However, deals are subject to sell out or expire at any time, though ZDNET remai
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-video-recordings.techidaily.com/new-in-2024-forgotten-tiktok-reload-a-quick-fix/"><u>[New] In 2024, Forgotten TikTok Reload A Quick Fix?</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-streamline-viewing-learn-to-insert-timestamps-on-videos/"><u>2024 Approved Streamline Viewing Learn to Insert Timestamps on Videos</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/addressing-btballoondll-errors-diagnosis-and-repair-techniques/"><u>Addressing btballoon.dll Errors: Diagnosis and Repair Techniques</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/cat5-versus-cat6-wired-connections-which-one-suits-your-needs-better/"><u>Cat5 Versus Cat6 Wired Connections: Which One Suits Your Needs Better?</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-easily-unlock-your-poco-c55-device-sim-by-drfone-android/"><u>In 2024, Easily Unlock Your Poco C55 Device SIM</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-unlock-your-device-icloud-dns-bypass-explained-and-tested-plus-easy-alternatives-on-apple-iphone-14-by-drfone-ios/"><u>In 2024, Unlock Your Device iCloud DNS Bypass Explained and Tested, Plus Easy Alternatives On Apple iPhone 14</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-which-is-the-best-fake-gps-joystick-app-on-oneplus-ace-3-drfone-by-drfone-virtual-android/"><u>In 2024, Which is the Best Fake GPS Joystick App On OnePlus Ace 3? | Dr.fone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/inside-the-office-how-the-new-microsoft-surface-pro-8-transforms-business-productivity-review/"><u>Inside the Office: How the New Microsoft Surface Pro 8 Transforms Business Productivity (Review )</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/integrating-photo-libraries-a-guide-to-shift-google-photos-to-icloud-storage/"><u>Integrating Photo Libraries: A Guide to Shift Google Photos to iCloud Storage</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/troubleshooting-and-repair-steps-for-iphone-with-fluid-in-charging-jack-what-you-need-to-know/"><u>Troubleshooting and Repair Steps for iPhone with Fluid in Charging Jack - What You Need to Know!</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/understanding-hdcp-issues-a-guide-on-identification-and-solutions/"><u>Understanding HDCP Issues: A Guide on Identification & Solutions</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722978517342-upgrade-to-windows-11-grab-the-ultimate-steelseries-engine-for-optimal-performance/"><u>Upgrade to Windows 11? Grab the Ultimate SteelSeries Engine for Optimal Performance</u></a></li>
-<li><a href="https://discover-best.techidaily.com/yl-softwares-comprehensive-tutorial-for-multi-file-renaming-in-windows-os/"><u>YL Software's Comprehensive Tutorial for Multi-File Renaming in Windows OS</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-capturing-every-angle-samsungs-pro-versus-lgs/"><u>[New] Capturing Every Angle Samsung's Pro Versus LG's</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-sparkling-ideas-crafting-creative-and-engaging-facebook-ads-for-2024/"><u>[New] Sparkling Ideas Crafting Creative and Engaging Facebook Ads for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-unleash-your-podcast-potential-with-cutting-edge-techniques/"><u>[New] Unleash Your Podcast Potential with Cutting-Edge Techniques</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/a-complete-breakdown-of-freelens-cam-software-for-2024/"><u>A Complete Breakdown of Freelens Cam Software for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/a-step-by-step-guide-to-fixing-samsung-printer-issues-in-windows-environments/"><u>A Step-by-Step Guide to Fixing Samsung Printer Issues in Windows Environments</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/bulk-up-your-storage-with-a-steep-discount-get-the-8tb-samsung-t5-at-amazon-for-36-less-after-prime-day-zdnet/"><u>Bulk Up Your Storage with a Steep Discount: Get the 8TB Samsung T5 at Amazon for 36% Less After Prime Day | ZDNET</u></a></li>
+<li><a href="https://program-issues.techidaily.com/effective-remedies-to-fix-crash-errors-due-to-kernelbasedll-flaw/"><u>Effective Remedies to Fix Crash Errors Due to KernelBase.dll Flaw</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/finding-vanished-contact-information-in-your-androids-address-book/"><u>Finding Vanished Contact Information in Your Android's Address Book</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/fixing-damaged-video-files-in-windowsmac/"><u>Fixing Damaged Video Files in Windows/Mac</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-rectify-the-invisible-wi-fi-network-dilemma/"><u>How to Rectify the Invisible Wi-Fi Network Dilemma?</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/learn-quickly-with-these-10-beginner-secrets-to-navigating-x-the-successor-of-twitter/"><u>Learn Quickly with These 10 Beginner Secrets to Navigating X, the Successor of Twitter</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/overcoming-the-challenge-of-a-non-existent-microsoft-visual-cplusplus-redistributable-dll/"><u>Overcoming the Challenge of a Non-Existent Microsoft Visual C++ Redistributable DLL</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/solutions-for-resolving-d3dx925dll-missing-file-issue/"><u>Solutions for Resolving d3dx9_25.dll Missing File Issue</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-guide-to-fix-activity-tracking-on-your-apple-watch/"><u>Step-by-Step Guide to Fix Activity Tracking on Your Apple Watch</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-ultimate-list-of-queer-entertainment-top-netflix-shows-for-the-lgbtq-community-in-july-2024/"><u>The Ultimate List of Queer Entertainment: Top Netflix Shows for the LGBTQ Community in July 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-guide-resolving-tech-problems-in-tekken-8-pc-edition/"><u>Troubleshooting Guide: Resolving Tech Problems in Tekken 8 PC Edition</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Rising Through the Ranks: Samsung Expands Galaxy AI as Google Faces Antitrust Losses on the Global Innovation Index"
-date: 2024-12-20T05:22:03.556Z
-updated: 2024-12-26T01:30:46.849Z
+date: 2025-01-05T23:25:58.248Z
+updated: 2025-01-10T20:54:27.841Z
 tags:
   - apple
 categories:
@@ -71,28 +71,19 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/024-approved-the-financial-breakdown-of-youtube-shorts-royalties/"><u>[New] 2024 Approved The Financial Breakdown of YouTube Shorts Royalties</u></a></li>
-<li><a href="https://article-posts.techidaily.com/new-in-2024-expedited-srt-to-txt-conversion-2023s-efficient-method/"><u>[New] In 2024, Expedited SRT to TXT Conversion 2023'S Efficient Method</u></a></li>
-<li><a href="https://article-posts.techidaily.com/new-techniques-for-straightening-aerial-video-stability-for-2024/"><u>[New] Techniques for Straightening Aerial Video Stability for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-resolving-skewed-online-video-quality/"><u>[Updated] Resolving Skewed Online Video Quality</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-step-by-step-voice-customization-in-free-fire-guide-included-no-cost/"><u>[Updated] Step-by-Step Voice Customization in Free Fire (Guide Included - No Cost)</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-perfect-portraits-changing-picture-sizes-on-ios/"><u>2024 Approved Perfect Portraits Changing Picture Sizes on iOS</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ing-a-path-to-profit-calculating-video-view-requirements/"><u>Charting a Path to Profit Calculating Video View Requirements</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/effective-solutions-for-handling-the-whea-device-failure-alerts/"><u>Effective Solutions for Handling the WHEA Device Failure Alerts</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/essential-methods-safeguard-your-information-with-5-effective-backup-techniques/"><u>Essential Methods: Safeguard Your Information with 5 Effective Backup Techniques</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/expert-tips-for-resolving-iphone-remote-control-software-glitches/"><u>Expert Tips for Resolving iPhone Remote Control Software Glitches</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/how-to-successfully-revert-your-computers-motherboard-memory-a-cmos-reset-walkthrough/"><u>How To Successfully Revert Your Computer's Motherboard Memory - A CMOS Reset Walkthrough</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-top-apps-and-online-tools-to-track-oneplus-nord-ce-3-lite-5g-phone-withwithout-imei-number-by-drfone-android/"><u>In 2024, Top Apps and Online Tools To Track OnePlus Nord CE 3 Lite 5G Phone With/Without IMEI Number</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/is-it-possible-to-link-airpods-to-my-nintendo-switch/"><u>Is It Possible to Link AirPods to My Nintendo Switch?</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/overcoming-wi-fi-connection-problems-solutions-for-ipad-users/"><u>Overcoming Wi-Fi Connection Problems: Solutions for iPad Users</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-ultimate-guide-to-managing-your-pcs-network-discovery-feature-on-windows-11/"><u>The Ultimate Guide to Managing Your PC's Network Discovery Feature on Windows 11</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/the-ultimate-list-of-collaborative-time-management-apps-for-families-in-the-pace/"><u>The Ultimate List of Collaborative Time Management Apps for Families in the Pace</u></a></li>
-<li><a href="https://fox-that.techidaily.com/troubleshooting-failed-iphone-app-installations-a-comprehensive-guide/"><u>Troubleshooting Failed iPhone App Installations: A Comprehensive Guide</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/troubleshooting-guide-solving-audio-issues-with-your-chromecast-device/"><u>Troubleshooting Guide: Solving Audio Issues with Your Chromecast Device</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/troubleshooting-the-fm20dll-is-missing-error-quickly-and-easily/"><u>Troubleshooting the 'fm20.dll Is Missing Error' Quickly and Easily</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-the-virtual-quest-a-jaunt-vr-exploration/"><u>[Updated] 2024 Approved The Virtual Quest A Jaunt VR Exploration</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-muting-problem-solutions-for-obs-sound-capture/"><u>[Updated] Muting Problem Solutions for OBS Sound Capture</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/captivating-content-crafting-impactful-insta-videos/"><u>Captivating Content Crafting Impactful Insta-Videos</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-a-lost-lava-blaze-2-pro-for-free-drfone-by-drfone-virtual-android/"><u>How to Track a Lost Lava Blaze 2 Pro for Free? | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-track-imei-number-of-infinix-hot-30i-through-google-earth-by-drfone-android/"><u>In 2024, How To Track IMEI Number Of Infinix Hot 30i Through Google Earth?</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/rectifying-the-dll-mishap-how-to-address-btballoondll-errors-successfully/"><u>Rectifying the DLL Mishap: How to Address btballoon.dll Errors Successfully</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/smart-choices-for-smart-watches-discover-the-5-must-know-tips-pre-purchase/"><u>Smart Choices for Smart Watches: Discover the 5 Must-Know Tips Pre-Purchase</u></a></li>
+<li><a href="https://article-posts.techidaily.com/top-picks-ultimate-guide-to-the-most-outstanding-17-inch-laptops/"><u>Top Picks: Ultimate Guide to the Most Outstanding 17-Inch Laptops</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/turning-off-safety-notifications-how-to-manage-emergency-and-amber-alerts-on-iphone/"><u>Turning Off Safety Notifications: How to Manage Emergency & AMBER Alerts on iPhone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/understanding-nintendo-switch-online-disruptions-a-widespread-problem-or-individual-concerns/"><u>Understanding Nintendo Switch Online Disruptions – A Widespread Problem or Individual Concerns?</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 

@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Instructions to Expand Your Xbox One's Memory with an External Drive
-date: 2024-12-29T16:04:43.288Z
-updated: 2025-01-04T16:29:19.205Z
+date: 2025-01-05T18:54:53.778Z
+updated: 2025-01-11T01:36:27.719Z
 categories:
   - BestProducts
 description: This Article Describes Step-by-Step Instructions to Expand Your Xbox One's Memory with an External Drive
@@ -22,7 +22,7 @@ thumbnail: https://www.lifewire.com/thmb/ymgpKWwkBGzI4C83qsg8l2d2Lqs=/400x300/fi
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## If the Printer Isn't Showing Up in the List on Your iPad
@@ -34,7 +34,7 @@ thumbnail: https://www.lifewire.com/thmb/ymgpKWwkBGzI4C83qsg8l2d2Lqs=/400x300/fi
 ![No AirPrint Printers Found message on an iPad.](https://www.lifewire.com/thmb/PINbY5NNM2YpYVf6BIRAjMvyfYs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_my-ipad-wont-print-cant-find-printer-1994541-d3ec6679b22b423d876a15837e54cd6e.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Try these troubleshooting steps, in order:
@@ -50,7 +50,7 @@ thumbnail: https://www.lifewire.com/thmb/ymgpKWwkBGzI4C83qsg8l2d2Lqs=/400x300/fi
 6. Verify it's an AirPrint printer. If this is a new printer, it should say that it's AirPrint compatible on the packaging. Some older printers use a specific app to print from the iPad, so refer to the owner's manual. You can see a[list of AirPrint printers on Apple's website](https://support.apple.com/en-us/HT201311) .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## If the Printer Appears in the List
@@ -96,19 +96,22 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/024-approved-demystifying-youtube-shorts-template-design-principles/"><u>[New] 2024 Approved Demystifying YouTube Shorts Template Design Principles</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-excelling-at-content-creation-a-guide-to-gamers-success/"><u>[New] 2024 Approved Excelling at Content Creation A Guide to Gamers' Success</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/new-crafting-compelling-instagram-videos-that-stand-out/"><u>[New] Crafting Compelling Instagram Videos That Stand Out</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-from-ground-to-heavens-a-mobile-panorama-journey/"><u>[New] From Ground to Heavens A Mobile Panorama Journey</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-from-obscurity-to-fame-elevate-your-tiktok-unboxing-videos-for-2024/"><u>[New] From Obscurity to Fame Elevate Your TikTok Unboxing Videos for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/1722856765435-android-blackout-heres-how-to-restore-your-devices-visibility/"><u>Android Blackout? Here's How to Restore Your Device's Visibility!</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/demystifying-hdcp-errors-insightful-explanation-and-step-by-step-fixes/"><u>Demystifying HDCP Errors: Insightful Explanation and Step-by-Step Fixes</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/explore-the-boundaries-of-mobile-connectivity-with-metro-by-t-mobile-nationwide-coverage/"><u>Explore the Boundaries of Mobile Connectivity with Metro by T-Mobile Nationwide Coverage</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/hdd-windowspc/"><u>HDD Windows再インストール不要で別PCへの移行手順</u></a></li>
-<li><a href="https://games-able.techidaily.com/high-performance-usb-extenders-for-playstation-5/"><u>High-Performance USB Extenders for PlayStation 5</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/how-the-new-ipad-software-patch-resolves-the-quirky-issue-of-restored-deleted-photos-ios-1751-tech-analysis-by-zdnet/"><u>How the New iPad Software Patch Resolves the Quirky Issue of Restored Deleted Photos (iOS 17.5.1) | Tech Analysis by ZDNET</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-overcome-audio-issues-playing-games-and-using-discord-simultaneously/"><u>How to Overcome Audio Issues: Playing Games and Using Discord Simultaneously</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/revolutionize-apple-watch-usage-with-8-key-battery-saving-tweaks-detailed-guide/"><u>Revolutionize Apple Watch Usage with 8 Key Battery Saving Tweaks - Detailed Guide</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/step-by-step-guide-accepting-an-icloud-photo-sharing-album-request-on-your-iphone/"><u>Step-by-Step Guide: Accepting an iCloud Photo Sharing Album Request on Your iPhone</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-explore-and-evaluate-top-7-free-android-adblockers-unveiled/"><u>[Updated] In 2024, Explore & Evaluate Top 7 Free Android AdBlockers Unveiled</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-the-art-of-story-lensing-smart-zooms-on-instagram/"><u>[Updated] The Art of Story Lensing Smart Zooms on Instagram</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-5-must-have-mkv-tools-for-macos/"><u>2024 Approved 5 Must-Have MKV Tools for macOS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/accelerate-your-pc-choose-winning-apps-of-2023/"><u>Accelerate Your PC: Choose Winning Apps of 2023</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/apple-targets-top-browser-with-bone-chilling-campaign-revealed/"><u>Apple Targets Top Browser with Bone-Chilling Campaign Revealed</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/building-an-empire-in-smm-a-step-by-step-guide-for-success-for-2024/"><u>Building an Empire in SMM A Step-by-Step Guide for Success for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/fix-your-pc-the-complete-walkthrough-to-correct-ocidll-errors/"><u>Fix Your PC: The Complete Walkthrough to Correct Oci.dll Errors</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/guide-halting-unnecessary-android-application-activity-in-the-background/"><u>Guide: Halting Unnecessary Android Application Activity in the Background</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/how-to-burn-video-to-dvd-on-mac-for-2024/"><u>How to Burn Video to DVD on Mac for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/initiating-pairing-process-amazon-echo-dot-user-manual/"><u>Initiating Pairing Process: Amazon Echo Dot User Manual</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/mastering-multi-tasking-how-to-set-up-and-enjoy-dual-monitor-support-on-your-m3-macbook-pro-a-comprehensive-guide/"><u>Mastering Multi-Tasking: How to Set Up and Enjoy Dual Monitor Support on Your M3 MacBook Pro - A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/movavi-mp3-split-tool-professioneel-mp3-knippen-en-versplitten-voor-veiligere-downloads/"><u>Movavi Mp3 Split Tool: Professioneel MP3 Knippen en Versplitten Voor Veiligere Downloads</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/pickus-triumph-in-android-photo-editing-a-comprehensible-review-for-2024/"><u>PickU's Triumph in Android Photo Editing – A Comprehensible Review for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/samsung-regains-lead-in-global-smartphone-shipments-surpassing-apple-emerging-competitor-closes-the-gap-zdnet/"><u>Samsung Regains Lead in Global Smartphone Shipments, Surpassing Apple: Emerging Competitor Closes the Gap | ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-guide-turning-the-on-screen-keyboard-feature-onoff-on-windows-10/"><u>Step-by-Step Guide: Turning the On-Screen Keyboard Feature ON/OFF on Windows 10</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-tech-picks-and-expert-opinions-from-toms-hardware-source/"><u>Top Tech Picks & Expert Opinions From Tom's Hardware Source</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-ranking-ipad-models-comprehensive-reviews-by-tech-experts-zdnet/"><u>Top-Ranking iPad Models - Comprehensive Reviews by Tech Experts | ZDNet</u></a></li>
 </ul></div>
 

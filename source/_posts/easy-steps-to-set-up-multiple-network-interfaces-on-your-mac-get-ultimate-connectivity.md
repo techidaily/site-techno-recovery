@@ -1,7 +1,7 @@
 ---
 title: Easy Steps to Set Up Multiple Network Interfaces on Your Mac - Get Ultimate Connectivity
-date: 2024-12-30T16:00:35.805Z
-updated: 2025-01-04T16:13:11.766Z
+date: 2025-01-06T22:06:10.527Z
+updated: 2025-01-11T05:52:52.006Z
 tags:
   - apple
 categories:
@@ -27,22 +27,18 @@ So, how do you create this custom Flow? Let me show you. All you'll need to make
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Create a custom Focus
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 1\. Open System Preferences
 
 Click on the Apple menu in the top left corner of your desktop. From the resulting pop-up menu, click System Preferences.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 2\. Access Notifications & Focus
 
@@ -53,7 +49,7 @@ In the System Preferences window (**Figure 1**), click Notifications & Focus.
 Image: Jack Wallen
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 3\. Open the Focus tab
@@ -63,6 +59,10 @@ Once Notifications & Focus is opened, click the Focus tab (**Figure 2**).
 **Figure 2:** You'll find a single pre-configured Focus for Do Not Disturb already available.
 
 Image: Jack Wallen
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 4\. Create the new Focus
 
@@ -81,7 +81,7 @@ Image: Jack Wallen
 After naming and selecting a color/icon, click Add to save the new Focus.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 5\. Allowing specific notifications
@@ -140,15 +140,19 @@ Use this new Focus feature wisely, and it will help you be more productive while
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-clips.techidaily.com/new-2024-approved-seamless-tiktok-integration-on-your-macbook/"><u>[New] 2024 Approved Seamless TikTok Integration on Your MacBook</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-editsuite-evaluation-detailed-article/"><u>[New] EditSuite Evaluation – Detailed Article</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/a-list-android-3d-viewing-tools-for-2024/"><u>A-List Android 3D Viewing Tools for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/acquisisci-la-licenza-completa-del-convertitore-video-winx-pro-per-sistemi-apple-download-ufficiale/"><u>Acquisisci La Licenza Completa Del Convertitore Video WinX Pro per Sistemi Apple - Download Ufficiale</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/discovering-metas-approach-to-advanced-ai-solutions/"><u>Discovering Meta’s Approach to Advanced AI Solutions</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/easy-steps-for-securing-your-data-iphone-backup-using-icloud-and-macos-tech-insights/"><u>Easy Steps for Securing Your Data: IPhone Backup Using iCloud & macOS | Tech Insights</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/exploring-the-history-of-netflixs-once-popular-dvd-rentals-service/"><u>Exploring the History of Netflix's Once-Popular DVD Rentals Service</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/hyperx-cloud-stinger-mic-problems-solved-a-step-by-step-solution-tutorial/"><u>HyperX Cloud Stinger Mic Problems Solved: A Step-by-Step Solution Tutorial</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/new-arrivals-essential-charging-gadgets-from-anker-to-enhance-your-upcoming-iphone-purchase-zdnet/"><u>New Arrivals! Essential Charging Gadgets From Anker to Enhance Your Upcoming iPhone Purchase | ZDNet</u></a></li>
-<li><a href="https://games-able.techidaily.com/watch-out-could-gpu-prices-see-an-uptick-next-month/"><u>Watch Out! Could GPU Prices See an Uptick Next Month?</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-beneath-the-surface-exploring-the-invisible-aspects-of-viewing-stories-for-2024/"><u>[New] Beneath the Surface Exploring The Invisible Aspects of Viewing Stories for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-unlocking-the-secrets-of-high-conversion-rates-in-youtube-banner-designs/"><u>[Updated] In 2024, Unlocking the Secrets of High Conversion Rates in YouTube Banner Designs</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-launch-live-fb-broadcast-from-any-device-with-obs-guide-for-2024/"><u>[Updated] Launch Live FB Broadcast From Any Device with OBS Guide for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-action-sequels-the-best-games-like-grand-theft-auto/"><u>2024 Approved Action Sequels The Best Games Like Grand Theft Auto</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/bridging-the-gap-in-ai-essential-advancements-for-apples-intelligence-to-match-openai-and-google-powerhouses/"><u>Bridging the Gap in AI: Essential Advancements for Apple's Intelligence to Match OpenAI and Google Powerhouses</u></a></li>
+<li><a href="https://win-blog.techidaily.com/cod-vanguard-pc-performance-issues-solved-overcome-game-crashes-now/"><u>COD Vanguard PC Performance Issues Solved - Overcome Game Crashes Now!</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/explained-the-role-of-a-telecommunications-service-provider-or-phone-carrier/"><u>Explained: The Role of a Telecommunications Service Provider or 'Phone Carrier'</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/from-restroom-to-wellness-checkpoint-how-innovative-sanitation-facilities-are-redefining-public-health-safety/"><u>From Restroom to Wellness Checkpoint: How Innovative Sanitation Facilities Are Redefining Public Health Safety</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/hacks-to-do-pokemon-go-trainer-battles-for-motorola-g24-power-drfone-by-drfone-virtual-android/"><u>Hacks to do pokemon go trainer battles For Motorola G24 Power | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/megujitani-a-videokat-2024-ban-a-movavilagban-ervenyben-levo-szovetkezeti-gyartasi-modszerei-es-futo-programok/"><u>Megújítani a Vídeókat 2024-Ban: A Movavilágban Érvényben Lévő Szövetkezeti Gyártási Módszerei És Futó Programok</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/say-goodbye-to-bulky-power-banks-introducing-the-innovative-magsafe-charger-with-fast-charging-capabilities-tech-news/"><u>Say Goodbye to Bulky Power Banks: Introducing the Innovative MagSafe Charger with Fast-Charging Capabilities | Tech News</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/top-apps-and-online-tools-to-track-xiaomi-13t-phone-withwithout-imei-number-by-drfone-android/"><u>Top Apps and Online Tools To Track Xiaomi 13T Phone With/Without IMEI Number</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unlock-unprecedented-capabilities-with-advanced-ipad-calculator-app-should-you-consider-getting-an-apple-pencil-read-zdnets-analysis/"><u>Unlock Unprecedented Capabilities with Advanced iPad Calculator App – Should You Consider Getting an Apple Pencil? Read ZDNet's Analysis</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/what-you-need-to-know-about-dts-play-fi-streaming/"><u>What You Need to Know About DTS Play-Fi Streaming</u></a></li>
 </ul></div>
 

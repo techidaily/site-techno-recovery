@@ -1,7 +1,7 @@
 ---
 title: "What's Next for Google Pixel: Projections on Cost, Release Window, Specifications & Insider Tips"
-date: 2024-08-26T06:03:02.412Z
-updated: 2024-08-27T06:03:02.412Z
+date: 2025-01-08T03:26:54.017Z
+updated: 2025-01-11T09:21:43.325Z
 categories:
   - BestProducts
 description: "This Article Describes What's Next for Google Pixel: Projections on Cost, Release Window, Specifications & Insider Tips"
@@ -21,24 +21,26 @@ In This Article
 
  A new Google TV streaming device appears to be in the works. The so-called Google TV Streamer will likely function much like the[Chromecast](https://www.lifewire.com/guide-to-chromecast-2438213) , but that's where their likeness ends. This device loses the dongle form factor and includes a redesigned remote with a customizable button.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## When Will the Google TV Streamer Be Released?
 
  Rumors say the company will announce this Google TV streaming device at[the next Google event](https://www.lifewire.com/google-event-5205756) in August. This is the same event poised to introduce several other Google products like the[Pixel Watch 3](https://www.lifewire.com/google-pixel-watch-3-8431024) and[Pixel 9 smartphone](https://www.lifewire.com/google-pixel-9-8630767) .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Lifewire's Release Date Estimate
 
 August 13 is our best guess.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 ## Google TV Streamer Price Rumors
 
  The only reference point we have to price this new[streaming device](https://www.lifewire.com/what-is-a-streaming-device-5208767) is Google's 4K Chromecast with Google TV, which is priced at $50\. They could easily drop that price and slot the Google TV Streamer in its place. If not, the most we can see Google charging for the Google TV Streamer is $70.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 ## Pre-Order Information
 
  Pre-orders for the Google TV Streamer will probably start immediately following its announcement on August 13.
@@ -48,17 +50,15 @@ August 13 is our best guess.
 ![The Google TV Streamer and remote](https://www.lifewire.com/thmb/-vnWbTJuk9OzmaxhkBjEiqhYPRA=/960x0/filters:no_upscale():max_bytes(200000):strip_icc():format(webp)/google-tv-streamer-remote-f778bf371f604247a3e9592a4f4d4f6b.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 9to5Google
 
 <!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Google TV Streamer Specs & Features
 
  In the picture above, you can see that, apart from the remote, this device looks nothing like the Chromecast with Google TV. Otherwise, we think it will work exactly like a Chromecast, letting you stream music and videos from online services and cast media to it from other devices.
@@ -73,14 +73,12 @@ No advertising on the website.
 
 ![Google TV Streamer remote](https://www.lifewire.com/thmb/a47wfU6UCU7urolc1HR8HsvT2D8=/960x0/filters:no_upscale():max_bytes(200000):strip_icc():format(webp)/Google-TV-Streamer-Remote-ee116f9ff7d44f16a632d2414517c129.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 9to5Google
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## The Latest News About the Google TV Streamer
 
  You can[read all the latest on streaming devices here on Lifewire](https://www.lifewire.com/streaming-news-4797038) . Below are some stories about Google products that you might find interesting.
@@ -91,14 +89,11 @@ No advertising on the website.
 
 [Chromecast vs. Roku: Which Streaming Device Is Better?](https://www.lifewire.com/chromecast-vs-roku-4580492)
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -107,4 +102,22 @@ No advertising on the website.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/ow-to-make-youtube-video/"><u>[New] How to Make YouTube Video</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-insiders-guide-to-superior-apps-for-vocal-transformation/"><u>[New] Insider's Guide to Superior Apps for Vocal Transformation</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-ranked-guide-to-premium-iosdesktop-video-change-tools/"><u>[Updated] In 2024, Ranked Guide to Premium iOS/Desktop Video Change Tools</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/accelerate-your-computer-7-effective-methods-unveiled/"><u>Accelerate Your Computer: 7 Effective Methods Unveiled</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/budget-friendly-sunrise-simulation-totobays-wake-up-light-2nd-gen-review-and-why-it-rules-the-market/"><u>Budget-Friendly Sunrise Simulation: Totobay's Wake-Up Light (2Nd Gen) Review and Why It Rules the Market</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/expert-instructions-for-eliminating-microsoft-copilot-on-windows-11-systems/"><u>Expert Instructions for Eliminating Microsoft Copilot on Windows 11 Systems</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/harmonize-body-and-mind-through-these-top-10-yogis-videos/"><u>Harmonize Body and Mind Through These Top 10 Yogis' Videos</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-make-the-most-of-your-iphone-8-plus-lock-screen-with-notifications-drfone-by-drfone-ios/"><u>In 2024, How to Make the Most of Your iPhone 8 Plus Lock Screen with Notifications? | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/macbook-pro-vs-macbook-air-showdown-deciding-on-the-ideal-apple-laptop/"><u>MacBook Pro Vs. MacBook Air Showdown: Deciding on the Ideal Apple Laptop</u></a></li>
+<li><a href="https://discover-fantastic.techidaily.com/missing-page-alert-error-code-404/"><u>Missing Page Alert: Error Code #404</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/new-macpaw-strategy-an-innovative-solution-for-iphones-app-marketplace-amidst-updated-rules-insights-from-zdnet/"><u>New MacPaw Strategy: An Innovative Solution for iPhones' App Marketplace Amidst Updated Rules - Insights From ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/next-weeks-iphone-launch-power-up-with-the-latest-anker-gadgets-featured/"><u>Next Week's iPhone Launch? Power Up with The Latest Anker Gadgets, Featured</u></a></li>
+<li><a href="https://fake-location.techidaily.com/prevent-cross-site-tracking-on-sony-xperia-1-v-and-browser-drfone-by-drfone-virtual-android/"><u>Prevent Cross-Site Tracking on Sony Xperia 1 V and Browser | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/tackling-common-iphone-troubles-in-the-new-apple-devices-expert-analysis/"><u>Tackling Common iPhone Troubles in the New Apple Devices - Expert Analysis</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/understanding-the-reason-behind-missing-imessage-delivery-notifications-yesterday-exclusive-analysis-by-zdnet/"><u>Understanding the Reason Behind Missing iMessage Delivery Notifications Yesterday - Exclusive Analysis by ZDNet</u></a></li>
+</ul></div>
 

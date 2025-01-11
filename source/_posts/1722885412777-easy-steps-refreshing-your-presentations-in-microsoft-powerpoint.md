@@ -1,7 +1,7 @@
 ---
 title: "Easy Steps: Refreshing Your Presentations in Microsoft PowerPoint"
-date: 2024-08-26T06:03:19.252Z
-updated: 2024-08-27T06:03:19.252Z
+date: 2025-01-04T09:00:18.661Z
+updated: 2025-01-10T21:15:59.442Z
 categories:
   - BestProducts
 description: "This Article Describes Easy Steps: Refreshing Your Presentations in Microsoft PowerPoint"
@@ -21,12 +21,26 @@ thumbnail: https://thmb.techidaily.com/dccb34317888d85bf5b03242f6ff077822b2720dd
 2. The site tells you you're eligible for special pricing. Select**OK** .  
 ![A screenshot of the Microsoft Student Discount confirmation notice.](https://www.lifewire.com/thmb/_opw21hzYkn3V9Wb_mLqP5iLV7U=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002-how-to-get-a-microsoft-store-student-discount-3eae80c050da4116adf04508a1cb8e42.jpg)
 3. Select**Student Deals** from the list of store categories.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![The Microsoft online store.](https://www.lifewire.com/thmb/AgZeGz5ITQKUJ8jp0pIPIsbbSzI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/003-how-to-get-a-microsoft-store-student-discount-51ae65ba3fbc4b11b3eee0030822ec9e.jpg)
 4. Locate the software or device you want to buy, and add it to your cart.  
 ![Adding an item to your cart.](https://www.lifewire.com/thmb/syXuUKJeVh9EZEPIoxTMwY8Li3g=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004-how-to-get-a-microsoft-store-student-discount-0d1004a1092e4a5dbf63a1905d0fa237.jpg)
 5. Complete the checkout process.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Checking out at the online Microsoft store.](https://www.lifewire.com/thmb/gF3Dy3jJNOJlbYJPatebpx5EyGw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/005-how-to-get-a-microsoft-store-student-discount-011f2569dab04dcb8c3c942c4cba5e55.jpg)  
  If you choose to pick up your order at a local Microsoft store, remember to bring your student ID. Microsoft doesn't verify enrollment during online purchases, but they may ask for proof of enrollment during pickup.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Who Is Eligible for Microsoft's Student Discount?
 
@@ -39,8 +53,13 @@ thumbnail: https://thmb.techidaily.com/dccb34317888d85bf5b03242f6ff077822b2720dd
 ![Person accessing the Microsoft student discount on a phone.](https://www.lifewire.com/thmb/h1sE0kaVMIxmUmfOCw7SnD4v-cI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/microsoftstudentdiscount-3fb8972d9f274cb5a0c5dbc2bc56beb1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What Does Microsoft's Student Discount Get You?
 
  The Microsoft student discount typically provides up to 10-percent savings on hardware like desktop computers, laptops, and tablets. It also grants free access to some software, like Office 365.
@@ -52,9 +71,6 @@ Certain items are specifically excluded, including:
 * Personalized and customized items.
 * Gift cards and subscriptions to services like Xbox Game Pass.
 
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How Does Microsoft Verify Student Enrollment?
 
  When you request the student discount at a physical Microsoft store, you need to show your student ID or some another supporting document like a class schedule, transcript, or acceptance letter.
@@ -85,8 +101,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -94,4 +108,19 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://games-able.techidaily.com/best-elgato-stream-deck-top-picks-and-comparisons/"><u>Best Elgato Stream Deck: Top Picks & Comparisons</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/effective-strategies-for-locating-mislaid-airpods-prevention-and-retrieval-tips/"><u>Effective Strategies for Locating Mislaid AirPods: Prevention & Retrieval Tips</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/expert-picks-for-ultimate-compact-tablets-of-2024-comprehensive-reviews-and-rankings-digital-trends/"><u>Expert Picks for Ultimate Compact Tablets of 202^4: Comprehensive Reviews and Rankings | Digital Trends</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-remove-subtitle-feature-from-amazon-prime-video-playback/"><u>How To Remove Subtitle Feature From Amazon Prime Video Playback</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-ispoofer-is-not-working-on-apple-iphone-15-fixed-drfone-by-drfone-virtual-ios/"><u>In 2024, iSpoofer is not working On Apple iPhone 15? Fixed | Dr.fone</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-link-zoom-calls-to-iphoneandroid-events-seamlessly/"><u>In 2024, Link Zoom Calls to iPhone/Android Events Seamlessly</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/in-2024-zipping-up-an-enthralling-tiktok-credit-sequence/"><u>In 2024, Zipping Up an Enthralling TikTok Credit Sequence</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/llama-3-vs-gpt-4-which-is-better/"><u>Llama 3 Vs. GPT-4: Which Is Better?</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/step-by-step-tutorial-changing-languages-in-adobe-digital-editions-a-comprehensive-guide/"><u>Step-by-Step Tutorial: Changing Languages in Adobe Digital Editions - A Comprehensive Guide</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/tech-experts-applaud-enhanced-repair-ease-in-apples-latest-iphone-16-compared-to-previous-generation/"><u>Tech Experts Applaud Enhanced Repair Ease in Apple's Latest iPhone 16 Compared to Previous Generation</u></a></li>
+<li><a href="https://win-forum.techidaily.com/transformer-des-fichiers-raw-en-jpegs-rapides-et-simples-avec-la-solution-de-movavi-pour-le-web-gratuit/"><u>Transformer Des Fichiers RAW en JPEGs Rapides Et Simples Avec La Solution De Movavi Pour Le Web Gratuit</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unveiling-the-ideal-watchlist-watch-the-conjuring-franchise-from-start-to-end/"><u>Unveiling the Ideal Watchlist: Watch the 'Conjuring' Franchise From Start to End</u></a></li>
+</ul></div>
 

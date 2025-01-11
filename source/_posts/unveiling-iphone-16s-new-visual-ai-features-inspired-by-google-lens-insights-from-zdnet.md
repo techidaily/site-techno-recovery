@@ -1,7 +1,7 @@
 ---
 title: Unveiling iPhone 16'S New Visual AI Features Inspired by Google Lens - Insights From ZDNet
-date: 2024-12-20T05:46:49.825Z
-updated: 2024-12-26T04:54:05.614Z
+date: 2025-01-06T19:14:33.810Z
+updated: 2025-01-11T03:21:03.883Z
 tags:
   - apple
 categories:
@@ -31,7 +31,7 @@ How do you tell the difference?
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How free and low-cost phone offers work
@@ -61,16 +61,12 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Does my existing plan qualify?
 
 The most attractive upgrade offers are typically only available if you sign up for one of the carrier's premium plans. If you're currently on a low-cost legacy plan from the same carrier or a competitor, be sure to find out how much your monthly payment for mobile service will increase. The difference might be enough to wipe out any savings from the promo credits.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Will my new phone be locked to this carrier?
 
@@ -78,12 +74,16 @@ The carrier is offering that phone at a discount because they want to lock you i
 
 **Also: [The best iPhone deals of 2024: Free iPhone 15s, free iPads, cheap accessories](https://www.zdnet.com/article/iphone-deals/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How many months does the payment agreement last?
 
 T-Mobile still offers 24-month payment plans, but rivals Verizon and AT&T now apply device credits over 36 months. If you're absolutely certain you'll keep your new phone for the full three years, that might be a good deal, but you'll pay dearly if you need to replace it before the agreement ends.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What happens if I want to pay off the device early?
@@ -94,13 +94,13 @@ At any time during the agreement, you can pay the remaining balance and ask for 
 
 As an inducement for you to switch, some carriers will offer to reimburse you for your device payoff. Check the terms and conditions carefully before you accept that offer. If you decide to move to a new carrier, don't cancel your line at the old carrier until you've successfully ported your number over; if you do that move in the wrong order you risk losing your current phone number. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Can I get a better deal on the phone somewhere else?
 
 Even if your carrier seems to be offering a good deal, be sure to shop around. Apple occasionally offers meaningful discounts on its iPhones, and the price after a trade-in might be good enough to consider, especially when you factor in the savings you get from sticking with a lower-cost legacy plan. Among the top Android device makers, Samsung and Google regularly offer deep discounts that are worth checking out. And all of those device makers offer 0% financing options.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Can I get a better deal selling my phone instead of trading it in?
 
@@ -140,24 +140,24 @@ The exception to that rule is usually when a new smartphone model comes out; dur
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-best-starting-points-on-youtube-top-16-opener-list-for-growth/"><u>[New] In 2024, Best Starting Points on YouTube Top 16 Opener List for Growth</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-boost-your-channels-a-guide-to-best-youtube-seo-resources/"><u>[New] In 2024, Boost Your Channels A Guide to Best YouTube SEO Resources</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-echoenthusiast-auditory-review-exploration/"><u>[Updated] EchoEnthusiast Auditory Review Exploration</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-exceptional-counsel-premium-ringtone-developers/"><u>[Updated] Exceptional Counsel Premium Ringtone Developers</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/a-step-by-step-guide-integrating-automated-bots-into-your-discord-community/"><u>A Step-by-Step Guide: Integrating Automated Bots Into Your Discord Community</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/complete-solution-to-correctly-address-stop-error-code-0xc00000e9-in-windows-os/"><u>Complete Solution to Correctly Address Stop Error Code 0Xc00000e9 in Windows OS</u></a></li>
-<li><a href="https://win11.techidaily.com/enhance-cyber-defenses-integrate-trustworthy-websites-on-windows-11/"><u>Enhance Cyber Defenses: Integrate Trustworthy Websites on Windows 11</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/iphone-versus-android-determining-the-perfect-fit/"><u>IPhone versus Android: Determining the Perfect Fit</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/latest-august-2er-update-on-common-login-codes-for-linksys-routers/"><u>Latest August 2Er Update on Common Login Codes for Linksys Routers</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/latest-rumors-and-projections-the-upcoming-samsung-galaxy-s25-insights-into-launch-date-pricing-and-features/"><u>Latest Rumors & Projections: The Upcoming Samsung Galaxy S25 - Insights Into Launch Date, Pricing & Features</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/mastering-the-art-of-flat-tv-care-a-comprehensive-cleaning-guide/"><u>Mastering the Art of Flat TV Care - A Comprehensive Cleaning Guide</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/modern-warfare-3-game-app-fixed-no-more-unexpected-stops-or-crashes/"><u>Modern Warfare 3 Game App Fixed: No More Unexpected Stops or Crashes</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/premium-free-gopro-hd-to-4k-converter-tools-for-windows-and-macos-systems/"><u>Premium Free GoPro HD to 4K Converter Tools for Windows and macOS Systems</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/solving-the-mystery-of-code-43-troubleshooting-a-step-by-step-guide/"><u>Solving the Mystery of Code 43 Troubleshooting: A Step-by-Step Guide</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/step-by-step-tutorial-on-deploying-bots-in-your-discord-channel/"><u>Step-by-Step Tutorial on Deploying Bots in Your Discord Channel</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/the-ultimate-solution-for-vcompdll-not-found-issues-on-your-pc/"><u>The Ultimate Solution for 'vcomp.dll' Not Found Issues on Your PC</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/top-9-best-no-cost-language-education-sites-uncovered/"><u>Top 9 Best No-Cost Language Education Sites Uncovered</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-ranking-pet-hair-eradicating-robot-vacuums-comprehensive-reviews-and-comparisons-techradar/"><u>Top-Ranking Pet Hair Eradicating Robot Vacuums : Comprehensive Reviews & Comparisons | TechRadar</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/unlock-the-full-potential-of-your-device-with-ios-18-eligible-iphone-models-revealed-and-step-by-step-download-instructions/"><u>Unlock the Full Potential of Your Device with iOS 18: Eligible iPhone Models Revealed & Step-by-Step Download Instructions</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-channel-acquisition-101-maximizing-youtubers-earnings/"><u>[Updated] Channel Acquisition 101 Maximizing Youtubers' Earnings</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-ultimate-hues-handbook-theory-meets-technique/"><u>[Updated] Ultimate Hues Handbook Theory Meets Technique</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/easy-guide-creating-the-perfect-awkward-potion-in-minecraft/"><u>Easy Guide: Creating the Perfect Awkward Potion in Minecraft</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/expert-tips-how-to-recharge-your-mobile-device-without-traditional-chargers/"><u>Expert Tips: How To Recharge Your Mobile Device Without Traditional Chargers</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/explore-6-amazing-free-tools-for-graphic-designers-like-photoshop/"><u>Explore 6 Amazing Free Tools for Graphic Designers Like Photoshop</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/fixing-the-dll-not-found-message-for-osetup-files/"><u>Fixing the 'DLL Not Found' Message for Osetup Files</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/freeze-the-frame-choose-the-best-9-gif-recipes-on-windows-systems/"><u>Freeze the Frame! Choose the Best 9 GIF Recipes on Windows Systems</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723964488742-gamers-bargain-alert-snap-up-the-steelseries-arctis-nova-pro-wireless-at-a-steep-discount-of-64-off-the-leading-sound-experience/"><u>Gamer's Bargain Alert: Snap Up the SteelSeries Arctis Nova Pro Wireless at a Steep Discount of 64% Off – The Leading Sound Experience</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/instalacion-e-instrucciones-faciles-para-imovie-en-computadoras-con-sistema-operativo-windows-comparativa-y-recomendaciones/"><u>Instalación E Instrucciones Fáciles Para iMovie en Computadoras Con Sistema Operativo Windows - Comparativa Y Recomendaciones</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/is-compatibility-guaranteed-playing-ps4-titles-on-your-new-ps5-console/"><u>Is Compatibility Guaranteed: Playing PS4 Titles on Your New PS5 Console?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/is-openai-outmaneuvered-by-gpt/"><u>Is OpenAI Outmaneuvered by GPT?</u></a></li>
+<li><a href="https://program-issues.techidaily.com/optimize-your-play-effective-fixes-for-forza-horizon-5s-performance-crashes-on-windows-pcs/"><u>Optimize Your Play: Effective Fixes for Forza Horizon 5'S Performance Crashes on Windows PCs</u></a></li>
+<li><a href="https://common-error.techidaily.com/quick-fixes-for-windows-10s-delayed-shutdown-bug-get-started/"><u>Quick Fixes for Windows 10'S Delayed Shutdown Bug - Get Started</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/skyrocket-your-youtube-dollars-with-short-video-monetization-for-2024/"><u>Skyrocket Your YouTube Dollars with Short Video Monetization for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-repair-guide-dealing-with-the-error-of-a-lost-bootmgr-file/"><u>Step-by-Step Repair Guide: Dealing with the Error of a Lost BOOTMGR File</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/trouble-logging-in-to-blizzard-battlenet-server-crash-or-individual-connection-error/"><u>Trouble Logging in to Blizzard Battlenet - Server Crash or Individual Connection Error?</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/troubleshooting-the-helperdll-could-not-be-found-mistake/"><u>Troubleshooting the 'Helper.dll' Could Not Be Found Mistake</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/understanding-facebook-the-story-of-its-creation-popularity-and-main-attributes/"><u>Understanding Facebook: The Story of Its Creation, Popularity & Main Attributes</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-ditch-gopro-studio-top-video-editing-software-for-action-cameras/"><u>Updated Ditch GoPro Studio Top Video Editing Software for Action Cameras</u></a></li>
 </ul></div>
 

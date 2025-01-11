@@ -1,7 +1,7 @@
 ---
 title: Mastering PC Troubleshooting with an Exhaustive List of Boot-Time Stop Codes
-date: 2024-08-26T06:01:53.573Z
-updated: 2024-08-27T06:01:53.573Z
+date: 2025-01-08T04:54:21.426Z
+updated: 2025-01-10T18:53:18.896Z
 categories:
   - BestProducts
 description: This Article Describes Mastering PC Troubleshooting with an Exhaustive List of Boot-Time Stop Codes
@@ -21,9 +21,23 @@ thumbnail: https://www.lifewire.com/thmb/5Vr-DUrWT-0oAzQHT1qIkcQZhCY=/400x300/fi
 1. Select the **gear** in the upper-right corner of Gmail, and then select **Settings** from the drop-down menu.  
 ![The Settings item highlighted in the Gear menu on Gmail.](https://www.lifewire.com/thmb/KOGC658202lNPjWZrUD1uiPo8qY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A1-BestGmailKeyboardShortcuts-annotated-927d539b94624bf7baa0a371166f8382.jpg)
 2. Scroll down to the **Keyboard shortcuts** section and select **Keyboard shortcuts on** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![The Keyboard Shortcuts on/off buttons highlighted on Gmail's Settings screen.](https://www.lifewire.com/thmb/lPV2-ew-bY8v5xkR1Y6pZ0fLprc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A2-BestGmailKeyboardShortcuts-annotated-639cd7b44f654d4a9fc5e371f7ebae28.jpg)
 3. Scroll to the bottom of the page and select **Save Changes** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![The Save Changes button highlighted on Gmail's Settings screen.](https://www.lifewire.com/thmb/Ti1cWFQAWPKtDw4DsaTTA96KzR0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A3-BestGmailKeyboardShortcuts-annotated-bab1aa8c28204ee494f3daa266fd0100.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Create, Send, and Forward Email
 
@@ -43,9 +57,6 @@ thumbnail: https://www.lifewire.com/thmb/5Vr-DUrWT-0oAzQHT1qIkcQZhCY=/400x300/fi
 * **Reply to a message (R)** : Press**R** to reply to an open message.
 * **Reply to all (A)** : Press**A** to reply to all recipients of a message.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 ## How to Scroll Through Emails
 
  These shortcuts are handy for navigating through your messages and long email threads:
@@ -60,9 +71,6 @@ thumbnail: https://www.lifewire.com/thmb/5Vr-DUrWT-0oAzQHT1qIkcQZhCY=/400x300/fi
 
 * **Select multiple emails in a row (Shift)** : Check the box beside the first email in the series, then press and hold the**Shift** key and check the box for the last email in the series. Everything between both boxes will be selected.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## How to Add Formatting to Email Text
 
  Use these commands to apply text formatting while you compose a message. Perform the same actions to undo the formatting:
@@ -75,8 +83,9 @@ thumbnail: https://www.lifewire.com/thmb/5Vr-DUrWT-0oAzQHT1qIkcQZhCY=/400x300/fi
  On Mac computers, use the**Command** key in place of the**Ctrl** key.
 
 <!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Add Elements to an Email
 
  Addling links, numbered lists, and bullet points to your emails can also be done using keyboard shortcuts:
@@ -87,9 +96,6 @@ thumbnail: https://www.lifewire.com/thmb/5Vr-DUrWT-0oAzQHT1qIkcQZhCY=/400x300/fi
 
  On Mac computers, use the**Command** key in place of the**Ctrl** key.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
-<!-- affiliate ads end -->
 ## Email Maintenance Shortcuts
 
  Use these shortcuts to help manage your inbox:
@@ -101,8 +107,9 @@ thumbnail: https://www.lifewire.com/thmb/5Vr-DUrWT-0oAzQHT1qIkcQZhCY=/400x300/fi
 * **Mark a message as important (Shift** +**\=)** : Open an email or select it by clicking the box beside the sender's name, then press**Shift** +**\=** to mark it as important.
 
 <!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## "Go to" Shortcuts in Gmail
 
  The following shortcuts can be used for[navigating Gmail](https://www.lifewire.com/go-to-the-next-or-previous-message-in-gmail-1172068) . Unlike the shortcuts above, the individual keys must be pressed separately rather than simultaneously
@@ -123,9 +130,6 @@ thumbnail: https://www.lifewire.com/thmb/5Vr-DUrWT-0oAzQHT1qIkcQZhCY=/400x300/fi
 
 ![Press Shift + ? to get the full list of Gmail keyboard shortcuts anytime.](https://www.lifewire.com/thmb/5ON5QzCh_hrJrz93Hlci-4WmI4Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004_best-gmail-keyboard-shortcuts-4686794-0852ef75c64547feb336f96dbb1be04e.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Was this page helpful?
 
 Thanks for letting us know!
@@ -146,8 +150,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -155,4 +157,19 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-video-recordings.techidaily.com/new-choose-from-the-finest-7-android-browsers-without-ads/"><u>[New] Choose From the Finest 7 Android Browsers Without Ads</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-simply-save-your-streamed-content-with-these-premium-tools/"><u>[Updated] In 2024, Simply Save Your Streamed Content with These Premium Tools</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-pioneer-the-future-of-youtube-content-with-tubebuddy/"><u>[Updated] Pioneer the Future of YouTube Content with TubeBuddy</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/airpods-pro-to-receive-new-hearing-assistance-functionality-through-ios-15-update-eliminating-the-need-for-new-models/"><u>AirPods Pro To Receive New Hearing Assistance Functionality Through iOS 15 Update, Eliminating the Need for New Models</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/apples-siri-the-new-evolution-of-bing-with-ai-consider-this-the-future-insights-from-zdnet/"><u>Apple's Siri: The New Evolution of Bing with AI? Consider This the Future! - Insights From ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/approach-look-for-materials-resistant-to-strong-acids-like-hydrochloric-acid/"><u>Approach: Look for Materials Resistant to Strong Acids Like Hydrochloric Acid.</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-androidprocessmedia-has-stopped-on-vivo-y36-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android.Process.Media Has Stopped on Vivo Y36 | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-get-your-dolby-theatre-audio-working-again-on-windows-11/"><u>How To Get Your Dolby Theatre Audio Working Again on Windows 11</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/how-to-upgrade-your-mac-with-macos-sierra-simplified-for-2024/"><u>How to Upgrade Your Mac with macOS Sierra Simplified for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-rated-android-smartwatch-application-choices/"><u>Top-Rated Android Smartwatch Application Choices</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/troubleshooting-android-phone-communication-problems-calls-and-messages/"><u>Troubleshooting Android Phone Communication Problems: Calls & Messages</u></a></li>
+<li><a href="https://techtrends.techidaily.com/troubleshooting-guide-determining-if-xbox-online-services-are-unavailable/"><u>Troubleshooting Guide: Determining if Xbox Online Services Are Unavailable</u></a></li>
+</ul></div>
 

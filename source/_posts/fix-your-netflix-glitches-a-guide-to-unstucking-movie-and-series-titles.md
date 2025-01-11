@@ -1,7 +1,7 @@
 ---
 title: "Fix Your Netflix Glitches: A Guide to Unstucking Movie and Series Titles"
-date: 2024-08-26T06:01:25.677Z
-updated: 2024-08-27T06:01:25.677Z
+date: 2025-01-08T21:39:00.408Z
+updated: 2025-01-11T06:04:02.108Z
 categories:
   - BestProducts
 description: "This Article Describes Fix Your Netflix Glitches: A Guide to Unstucking Movie and Series Titles"
@@ -10,6 +10,11 @@ thumbnail: https://thmb.techidaily.com/849f56ab1426764bff20d4db63fa0a5cb77011405
 ---
 
 ## The User-Friendly Way to Hide Subtitles During an Amazon Video Binge Session
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### What to Know
 
 * On the website: Play a video with subtitles enabled, then click the**speech bubble icon** \> Click**off** .
@@ -17,6 +22,10 @@ thumbnail: https://thmb.techidaily.com/849f56ab1426764bff20d4db63fa0a5cb77011405
 * If subtitles don’t stay off permanently (although they should), logging out of the Amazon site or reinstalling the app usually helps.
 
  This article explains how to turn off subtitles on Amazon Prime Video, including how to disable subtitles and closed captions on Amazon Prime Video on the website and app.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How Do I Turn Off Subtitles on Amazon Prime?
 
@@ -31,8 +40,9 @@ thumbnail: https://thmb.techidaily.com/849f56ab1426764bff20d4db63fa0a5cb77011405
 ![Off highlighted in Amazon Prime Video subtitle settings](https://www.lifewire.com/thmb/8EKytGwJX1b1y7HMJ1ZcV_ydGos=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002_turn-off-subtitles-amazon-prime-video-5198403-f89fd2a0ed7f40bf9c226173cbd25933.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Turn Off Subtitles on the Amazon Prime App and Smart TVs
 
  Disabling subtitles in the Amazon Prime app on your streaming device, like a[Fire Stick](https://www.lifewire.com/amazon-fire-tv-4152887) or[smart TV](https://www.lifewire.com/what-is-a-smart-tv-4140172) , works a lot like disabling subtitles in the web player, but you’ll need to use your remote.
@@ -42,30 +52,24 @@ thumbnail: https://thmb.techidaily.com/849f56ab1426764bff20d4db63fa0a5cb77011405
 1. While playing a video that has subtitles turned on, pause playback to see which button opens the options menu on your device.  
 ![Options highlighted in the Amazon Prime Video app](https://www.lifewire.com/thmb/MuAh3-21niWijV65y47aTUefXBg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/003_turn-off-subtitles-amazon-prime-video-5198403-dd9213fc248d44b98431f6296b69a52c.jpg)
 2. Press the**Options** button on your remote or controller, and then select**Subtitles** .  
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Subtitles highlighted in the Amazon Prime Video app](https://www.lifewire.com/thmb/PLN7QfKbcXEWHS2fL4afx9uOtgI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004_turn-off-subtitles-amazon-prime-video-5198403-ced6d8da4ee948b99fd8d9a37cb95b6f.jpg)
 3. Select**English \[CC\]** .  
+
 <!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![English [CC] highlighted in Amazon Prime Video subtitle settings](https://www.lifewire.com/thmb/bq5DZMwA1tpP-w959qUeZfe639k=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/005_turn-off-subtitles-amazon-prime-video-5198403-6586659854f0415fb882e15395c636ff.jpg)
 4. Use the navigation buttons on your remote or controller to scroll up, and select**Off** .  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![Off highlighted in Amazon Prime Video app subtitle settings](https://www.lifewire.com/thmb/3uFMludW5LIDJmK7im8SdEj-vik=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/006_turn-off-subtitles-amazon-prime-video-5198403-37b5ee2dfacf418e85363c686567be0c.jpg)
 5. Subtitles are now off.  
 ![Off under Subtitles highlighted in the Amazon Prime Video app](https://www.lifewire.com/thmb/3S5dxMcn59yiAuISeuRlrDDfR70=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/007_turn-off-subtitles-amazon-prime-video-5198403-c56bc25289d24c21a50d76295543aeac.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
-<!-- affiliate ads end -->
 ## How Do I Permanently Turn Off Subtitles?
 
  You may find subtitles are on automatically even though you don’t want subtitles. You can turn off subtitles while watching a video, but that may not permanently turn off subtitles. Subtitles and closed captions are supposed to remain off when you turn them off, but a bug can sometimes cause subtitles to turn back on.
@@ -110,8 +114,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -119,4 +121,16 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-knowledge.techidaily.com/new-game-on-mastering-the-art-of-play-with-kinemaster-on-android/"><u>[New] Game On! Mastering the Art of Play with KineMaster on Android</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-navigating-the-world-of-facebook-cover-vids-explained/"><u>[Updated] 2024 Approved Navigating the World of Facebook Cover Vids Explained</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-time-capsule-converting-single-photographs-to-video/"><u>[Updated] In 2024, Time Capsule Converting Single Photographs to Video</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-how-much-do-podcasters-earn-on-average/"><u>2024 Approved How Much Do Podcasters Earn on Average?</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/currently-hot-shows-on-max-you-cant-miss/"><u>Currently Hot Shows on MAX You Can't Miss!</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-fixing-foneazy-mockgo-not-working-on-motorola-moto-e13-drfone-by-drfone-virtual-android/"><u>In 2024, Fixing Foneazy MockGo Not Working On Motorola Moto E13 | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-11-irresistible-last-minute-shopping-offers-this-festive-season-discover-them-on-zdnet/"><u>Top 11 Irresistible Last-Minute Shopping Offers This Festive Season - Discover Them on ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-5-essential-benefits-of-using-apple-pages-insights-from-zdnets-review/"><u>Top 5 Essential Benefits of Using Apple Pages: Insights From ZDNet's Review</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-6-essential-guidelines-for-picking-a-perfect-selfie-stick/"><u>Top 6 Essential Guidelines for Picking a Perfect Selfie Stick</u></a></li>
+</ul></div>
 

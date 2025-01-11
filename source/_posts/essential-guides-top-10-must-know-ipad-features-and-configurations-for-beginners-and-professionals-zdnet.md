@@ -1,7 +1,7 @@
 ---
 title: "Essential Guides: Top 10 Must-Know iPad Features & Configurations for Beginners & Professionals - ZDNet"
-date: 2024-12-19T03:53:11.837Z
-updated: 2024-12-26T03:32:33.747Z
+date: 2025-01-08T09:30:56.597Z
+updated: 2025-01-11T02:16:24.599Z
 tags:
   - apple
 categories:
@@ -54,10 +54,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 **How to**: Go to Settings > Focus on your iPad, and you'll find various options to set up a Focus mode for work, personal, fitness, mindfulness, and more. The interface will guide you through setting up your notification settings, which contacts can ping you, and more. Plus, once you've set it up, it'll sync automatically with your iPhone, Apple Watch, and Mac.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. Turn on Stage Manager when you need more multitasking chops
 
 Max Buondonno/ZDNET
@@ -71,7 +67,7 @@ You can customize the size of the window, bring up secondary apps in the same vi
 **How to**: Swipe down on the top-right corner to access Control Center, then tap the Stage Manager button to activate it (it looks like a rectangle with three smaller rectangles next to it). Alternatively, you can go to Settings > Multitasking & Gestures and turn on Stage Manager from there. When you're done using it, you can choose either option to turn it off.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Save your eyes at night with Night Shift
@@ -81,6 +77,10 @@ Yes, I realize this setting doesn't _actually_ protect your eyesight in the long
 **Also:** [**What iPad Pro's Tandem OLED tells us about future device screens**](https://www.zdnet.com/article/what-ipad-pros-tandem-oled-tells-us-about-future-device-screens/)
 
 **How to**: Head to Settings > Display & Brightness > Night Shift. From there, you can manually turn it on, schedule it to turn on during certain times, and adjust how warm you want your display to turn.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Low Power Mode can quickly become your best friend
 
@@ -92,15 +92,15 @@ That's where Low Power Mode comes in. With Low Power Mode, your iPad will limit 
 
 **How to**: Swipe down from the top right corner to access Control Center, then tap the battery button to enable it. Your battery meter will then turn yellow, indicating that Low Power Mode is on. To disable it, follow the same steps.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 6\. Hide your notifications from prying eyes
 
 Sometimes, you just want to keep the contents of your iPad's notifications to yourself, whether for work reasons or if you're planning a surprise party for someone and they see the email confirming the delivery of their birthday cake. On the iPad, it's easy to lock away your notifications and only make them visible once you've used your fingerprint or face to log in.
 
 **How to**: Go to Settings > Notifications > Show Previews and change it from "Always" to "When Unlocked."
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 7\. Split or float your keyboard
 
@@ -116,10 +116,6 @@ If that's your bag, you can also shrink your keyboard and have it float on top o
 
 **How to float**: Open an app where the keyboard will pop up. Then, take two fingers and pinch the keyboard. This will cause it to shrink to iPhone-size. You can then drag it around the screen by touching and holding the gray bar on the bottom. When you want it to return to its normal size, just pinch outward on the keyboard.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 8\. Make sure your screen is refreshing as fast as possible
 
 Every iPad Pro since 2018 has supported what Apple calls ProMotion, which increases your display's refresh rate and makes everything -- scrolling, animations, multitasking, and more -- look smoother. It's one of those features that you don't realize you want until you have it, and then you can never go back. 
@@ -127,6 +123,10 @@ Every iPad Pro since 2018 has supported what Apple calls ProMotion, which increa
 Of course, while the feature is enabled out of the box, there's always a chance you aren't taking advantage of it on your iPad Pro, and I wouldn't be doing my due diligence if I didn't ask you to check the setting.
 
 **How to**: Head over to Settings > Accessibility > Motion and ensure that "Limit Refresh Rate" _isn't_ enabled. If it is, your iPad's screen will remain locked to 60Hz, and who even uses 60Hz screens anymore?
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 9\. Tweak the Control Center
 
@@ -137,7 +137,7 @@ I've always felt like the Control Center is slightly underrated for all the stuf
 **How to:** Go to Settings > Control Center on your iPad, and you'll find all the controls you can add and remove. To add a new one, tap the green plus icon and it'll move to the "Included Controls" section. From there, you can rearrange which controls are presented first by dragging the three-line button to the right and sliding up or down the list. If you want to remove a control, tap the red minus button and it'll go back to "More Controls."
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 10\. Attention Awareness will keep the screen awake while you use it
@@ -180,17 +180,18 @@ Using the TrueDepth cameras, Attention Awareness can keep tabs on when you're lo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-in-2024-pushing-photography-to-new-heights-with-lightrooms-hdr/"><u>[New] In 2024, Pushing Photography to New Heights with Lightroom's HDR</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/apple-challenges-leading-web-browser-in-disturbing-campaign-full-report-available/"><u>Apple Challenges Leading Web Browser in Disturbing Campaign, Full Report Available</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/apple-watch-showdown-series-10-versus-series-8-which-one-wins-your-heart-and-wallet/"><u>Apple Watch Showdown: Series 10 versus Series 8 – Which One Wins Your Heart (and Wallet)?</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/breaking-language-barriers-with-the-top-9-challenging-tongues/"><u>Breaking Language Barriers with the Top 9 Challenging Tongues</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/how-to-easily-terminate-apple-id-subscriptions-via-iphone-in-ios-15-a-step-by-step-guide-techwise/"><u>How to Easily Terminate Apple ID Subscriptions via iPhone in iOS 15: A Step-by-Step Guide | TechWise</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-learn-how-everything-works-on-xiaomi-redmi-12-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Learn How Everything Works On Xiaomi Redmi 12 | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-pattern-locks-are-unsafe-secure-your-xiaomi-redmi-note-13-pro-5g-phone-now-with-these-tips-by-drfone-android/"><u>In 2024, Pattern Locks Are Unsafe Secure Your Xiaomi Redmi Note 13 Pro 5G Phone Now with These Tips</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/reversed-video-techniques-for-instagram-savvy-users/"><u>Reversed Video Techniques for Instagram Savvy Users</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/step-by-step-tutorial-on-transforming-dvd-to-hevc-mp4-for-superior-video-clarity/"><u>Step-by-Step Tutorial on Transforming DVD to HEVC MP4 for Superior Video Clarity</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/the-ultimate-guide-to-the-iphone-15-professional-endorsement-and-why-it-outshines-in-tech-circles-analysis/"><u>The Ultimate Guide to the iPhone 15: Professional Endorsement & Why It Outshines in Tech Circles Analysis</u></a></li>
-<li><a href="https://howto.techidaily.com/what-to-do-if-your-vivo-y100i-power-5g-auto-does-not-work-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do if Your Vivo Y100i Power 5G Auto Does Not Work | Dr.fone</u></a></li>
-<li><a href="https://win-tips.techidaily.com/windows-8-81/"><u>Windows 8 / 8.1 操作系统数据备份 | 三种流行的存档技巧</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-boost-your-youtube-output-rapid-video-rendering-and-transfer/"><u>[New] 2024 Approved Boost Your YouTube Output - Rapid Video Rendering and Transfer</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/new-create-harmonious-hits-a-step-by-step-guide-to-making-youtube-playlists-online-and-app/"><u>[New] Create Harmonious Hits A Step-by-Step Guide to Making YouTube Playlists Online & App</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-budget-devices-superior-obs-setup-guide/"><u>[New] In 2024, Budget Devices - Superior OBS Setup Guide</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-mastering-close-up-mode-in-roblox-playground/"><u>[Updated] Mastering Close-Up Mode in Roblox Playground</u></a></li>
+<li><a href="https://howto.techidaily.com/6-fixes-to-unfortunately-whatsapp-has-stopped-error-popups-on-tecno-phantom-v-flip-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Fixes to Unfortunately WhatsApp has stopped Error Popups On Tecno Phantom V Flip | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/insta-pro-tip-ensuring-your-high-res-pictures-fit-seamlessly-on-instagram/"><u>Insta-Pro Tip: Ensuring Your High-Res Pictures Fit Seamlessly on Instagram</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/navigating-the-insider-features-of-zoom-software-for-windows-11-for-2024/"><u>Navigating the Insider Features of Zoom Software for Windows 11 for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/optimize-your-android-experience-remove-unnecessary-data-with-these-cache-clearing-techniques/"><u>Optimize Your Android Experience: Remove Unnecessary Data with These Cache-Clearing Techniques</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/simplify-your-snapchat-circle-the-ultimate-guide-to-mass-unfriend-strategies/"><u>Simplify Your Snapchat Circle: The Ultimate Guide to Mass Unfriend Strategies</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/omplete-blueprint-for-exceptional-asmr-production-value/"><u>The Complete Blueprint for Exceptional ASMR Production Value</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/the-influencers-blueprint-rapidly-amass-a-million-fans-with-our-top-15-instagram-tips-for-2024/"><u>The Influencer's Blueprint Rapidly Amass a Million Fans with Our Top 15 Instagram Tips for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ultimate-portability-with-logitechs-keys-to-go-2-a-revolutionary-compact-keyboard-solution/"><u>Ultimate Portability with Logitech's Keys-To-Go 2: A Revolutionary Compact Keyboard Solution</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unveiling-the-distinctions-between-hulu-basic-plan-and-hulu-premium-package/"><u>Unveiling the Distinctions Between Hulu Basic Plan & Hulu Premium Package</u></a></li>
 </ul></div>
 

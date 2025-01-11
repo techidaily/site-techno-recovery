@@ -1,7 +1,7 @@
 ---
 title: Top Smartphones Endorsed Editors - Real-World Usage Insights
-date: 2025-01-03T16:08:21.838Z
-updated: 2025-01-04T16:04:49.375Z
+date: 2025-01-07T07:02:35.231Z
+updated: 2025-01-11T08:17:13.810Z
 tags:
   - apple
 categories:
@@ -17,10 +17,6 @@ Curious about the favorite devices and phone buying habits of _ZDNet's_ tech rep
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
 
@@ -52,6 +48,10 @@ Cons
 
 ## iPhone 12 Pro
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Jason Cipriani and Simon Bisson
 
 **Jason Cipriani:** I've almost always used an iPhone as my daily driver, but the iPhone 12 lineup has solidified it for me. The camera with improved portrait mode thanks to the Lidar sensor and HDR video is truly impressive. And MagSafe, which I thought was a gimmick, has turned into a very useful feature for me. Between the Shortcuts app and HomeKit devices around the house, there's not much I can't do from my phone. 
@@ -75,7 +75,7 @@ Cons
 * Lovely design with matte finish back 5G support for all bands Advanced multiple cameras S Pen support Competive pricing High end internal specifications
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Samsung Galaxy S21 Ultra
@@ -104,6 +104,10 @@ Cons
 
 ## iPhone 12 Pro Max
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Matthew Miller
 
 **Matthew Miller:** After a couple years of favoring the smaller iPhone X and XS, I made the leap to the big iPhone 12 Pro Max. As a phone reviewer, I usually move my SIM along every month or so, but it's now been four months with this phone serving as my daily driver, and not even the best Samsung S21 Ultra can knock it from my hands. The built quality is fantastic, the cameras let me capture content to my heart's delight, and regular updates keep it running perfectly for me. The addition of 5G and move to Qualcomm was the icing on the cake that set the bar for all other phones.
@@ -111,6 +115,10 @@ Cons
 **Next phone or dream phone?** Samsung Galaxy Fold 3\. I purchased the first two Galaxy Fold devices, and they were awesome. However, until this phone includes a level of water resistance and support for the S Pen, the big iPhone will be my primary daily driver.
 
 Show Expert Take Show less 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## iPhone SE (2020)
 
@@ -160,6 +168,10 @@ Cons
 
 ## iPhone 11 Pro
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Ed Bott
 
 **Ed Bott:** I switch between two phones regularly, the iPhone 11 Pro and a newish Galaxy S21 5G, because a lot of what I do requires that I understand both platforms well. I generally stay roughly one generation behind the current models, which avoids hardware teething issues and lets me save a ton of money. I picked up the iPhone, which was only about three months old, from a seller on Swappa, replacing my old iPhone XS and paying about $500 less than a new model would have cost. The Galaxy was a deal from Xfinity Mobile that basically gave me a flagship Samsung phone at half price with no contract or commitment. I like both phones about equally and have been pleasantly surprised by the smoothness of the interface on the Samsung.
@@ -184,11 +196,11 @@ Pros
 Cons 
 * Strong battery life Good performance More affordable
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Google Pixel 2
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Tony Baer
 
@@ -205,6 +217,10 @@ Show less
 [View now at Huawei P40 Pro](https://consumer.huawei.com/en/phones/p40-pro/)
 
 ## Huawei P20 Pro
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Federico Guerrini
 
@@ -223,7 +239,7 @@ Cons
 ## iPhone XR
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Damian Radcliffe, Angelica Mari, and Sean Portnoy
@@ -246,37 +262,21 @@ Cons
 
 Show Expert Take Show less 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
+###   
 
 ###   
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-###   
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## iPhone X
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Robin Harris
 
 I have a Moment wide-angle lens and case, which gives me the tech I need for landscape photography. There's a lot of landscape where I live, and picturing it never gets old. I keep looking at the newer iPhones each year, but things like a wider lens and low-light performance aren't hot buttons. I haven't used my Canon DSLR in years. 
 
 **Next phone or dream phone?** iPhone 13 or 14 Pro Max. Folding iPhone? I like a big screen as long as it will fit in a shirt pocket, and Moment makes a case for it. Not sure I'd be up for the extra fiddling a folding iPhone would require, but it would likely replace my iPad Mini. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ###   
 
@@ -330,11 +330,11 @@ Yes, I am indeed still clinging to the phone that made me love phablets, upgrade
 
 Show less 
 
-## Samsung Galaxy Note 8
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+## Samsung Galaxy Note 8
 
 ### Charles McLellan
 
@@ -376,19 +376,24 @@ Show Expert Take Show less
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-best-free-photo-enhancer-online-and-app-for-mobile-phone-for-2024/"><u>[New] Best Free Photo Enhancer Online and App for Mobile Phone for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-elevate-your-content-from-instagram-vids-to-crisp-mp4-files/"><u>[New] In 2024, Elevate Your Content From Instagram Vids to Crisp MP4 Files</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-instant-charm-iphones-extended-shutter-showcase/"><u>[New] Instant Charm IPhone’s Extended Shutter Showcase</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-prime-methods-transforming-pin-videos-to-mp3-format/"><u>[Updated] 2024 Approved Prime Methods Transforming Pin Videos To MP3 Format</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-laugh-out-loud-meme-making-techniques/"><u>[Updated] In 2024, Laugh Out Loud Meme-Making Techniques</u></a></li>
-<li><a href="https://win-net.techidaily.com/5ywo6z2i5pwz5a2477ya6yen5bu65asx5y6755qe5pah5lu24ocu4ocu6zqo6lqr56kf5yiq6zmk5b6m5b6p5y6f5oqa6kgt6kej5p6q/"><u>全面教學：重建失去的文件——隨身碟刪除後復原技術解析</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/advanced-reviews-and-comparisons-by-toms-gear-experts/"><u>Advanced Reviews & Comparisons by Tom's Gear Experts</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/discover-the-best-free-platforms-for-legally-streaming-movies-online/"><u>Discover the Best Free Platforms for Legally Streaming Movies Online</u></a></li>
-<li><a href="https://win-dash.techidaily.com/eclipse-antenna-by-clearstream-exceptional-functionality-in-minimalist-design/"><u>Eclipse Antenna by ClearStream: Exceptional Functionality in Minimalist Design</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/face-off-analysis-zuckerberg-reviews-meta-quest-3-and-apple-vision-pro-expert-take/"><u>Face-Off Analysis: Zuckerberg Reviews Meta Quest 3 and Apple Vision Pro | Expert Take</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/how-to-customize-your-windows-explorer-layout-for-easy-navigation/"><u>How to Customize Your Windows Explorer Layout for Easy Navigation</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/master-your-ipad-key-configuration-tips-every-apple-enthusiast-and-veteran-needs-to-know-expert-advice/"><u>Master Your iPad: Key Configuration Tips Every Apple Enthusiast and Veteran Needs to Know | Expert Advice</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/step-by-step-solution-why-your-iphone-wont-ring-and-how-to-fix-it/"><u>Step-by-Step Solution: Why Your iPhone Won't Ring and How to Fix It</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/transforming-interactions-with-technology-discover-how-apple-empowers-iphone-users-through-expanded-nfc-features-in-app-ecosystem/"><u>Transforming Interactions with Technology: Discover How Apple Empowers iPhone Users Through Expanded NFC Features in App Ecosystem</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-10-best-4k-screen-recorders/"><u>[New] 2024 Approved 10 Best 4K Screen Recorders</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-step-by-step-guide-to-designing-impactful-imagery/"><u>[New] Step-by-Step Guide to Designing Impactful Imagery</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unleash-potential-discovering-free-onlineoffline-animations/"><u>[New] Unleash Potential Discovering Free Online/Offline Animations</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-enhancing-igtv-with-translation-captions/"><u>[Updated] In 2024, Enhancing IGTV with Translation Captions</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-crafting-precise-time-indicators-in-youtubes/"><u>2024 Approved Crafting Precise Time Indicators in YouTubes</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/a-comprehensive-guide-to-understanding-and-using-the-telegram-application/"><u>A Comprehensive Guide to Understanding and Using the Telegram Application</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/apple-iphone-15-pro-vs-iphone-13-pro-showdown-is-it-time-for-an-upgrade-techadvisor/"><u>Apple iPhone 15 Pro Vs. IPhone 13 Pro Showdown: Is It Time for an Upgrade? | TechAdvisor</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/capturing-stunning-selfies-with-ease-how-to-optimize-your-use-of-selfie-lights/"><u>Capturing Stunning Selfies with Ease: How to Optimize Your Use of Selfie Lights</u></a></li>
+<li><a href="https://howto.techidaily.com/fixing-persistent-pandora-crashes-on-vivo-v27e-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixing Persistent Pandora Crashes on Vivo V27e | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-the-ultimate-guide-to-zte-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Ultimate Guide to ZTE Pattern Lock Screen Everything You Need to Know</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/kop-movavi-video-converter-av-handelsstiftelsen-basta-pris-god-kallavsattning-och-full-gorlig-dataskicklighet/"><u>Köp Movavi Video Converter Av Handelsstiftelsen - Bästa Pris, God Kallavsättning Och Full Görlig Dataskicklighet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/mastering-multiple-network-interfaces-on-macos-a-step-by-step-guide/"><u>Mastering Multiple Network Interfaces on macOS - A Step-by-Step Guide</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-guide-discontinuing-your-subscription-on-apple-music-independent-of-itunes-tips/"><u>Step-by-Step Guide: Discontinuing Your Subscription on Apple Music Independent of iTunes - Tips</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-10-enhancements-required-for-apples-ai-ecosystem-to-rival-the-dominance-of-openai-and-google-insights-from-zdnet/"><u>Top 10 Enhancements Required for Apple's AI Ecosystem to Rival the Dominance of OpenAI and Google: Insights From ZDNet</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-value-dome-cams-affordable-360-filmmaking-tools-for-2024/"><u>Top Value Dome Cams Affordable 360° Filmmaking Tools for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/troubleshooting-guide-how-to-fix-an-unresponsive-infinix-smart-8-hd-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Troubleshooting Guide How to Fix an Unresponsive Infinix Smart 8 HD Screen | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unlock-the-power-of-dual-boots-easily-run-ubuntu-on-your-macos-xcode-system-using-a-simple-trick-learn-how-here-zdnet/"><u>Unlock the Power of Dual Boots: Easily Run Ubuntu on Your MacOS XCode System Using a Simple Trick - Learn How Here! (ZDNet)</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unveiling-the-most-compelling-advances-why-the-iphone-16-elevates-apples-baseline-model-a-comprehensive-review/"><u>Unveiling the Most Compelling Advances: Why the iPhone 16 Elevates Apple's Baseline Model - A Comprehensive Review</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/zdnet-exclusive-how-ios-18-revolutionizes-phone-call-capture-on-your-iphone-without-third-party-software/"><u>ZDNet Exclusive: How iOS 18 Revolutionizes Phone Call Capture on Your iPhone Without Third-Party Software</u></a></li>
 </ul></div>
 

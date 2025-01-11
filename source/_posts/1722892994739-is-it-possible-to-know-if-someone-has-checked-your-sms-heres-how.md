@@ -1,7 +1,7 @@
 ---
 title: Is It Possible to Know if Someone Has Checked Your SMS? Here's How
-date: 2024-08-26T06:00:40.070Z
-updated: 2024-08-27T06:00:40.070Z
+date: 2025-01-03T20:41:48.217Z
+updated: 2025-01-10T22:33:14.022Z
 categories:
   - BestProducts
 description: This Article Describes Is It Possible to Know if Someone Has Checked Your SMS? Here's How
@@ -32,11 +32,16 @@ thumbnail: https://thmb.techidaily.com/c8cc0b50d6a862024b28911d2e2409173d05c3a9f
 4. Others are notified when you read their messages. If your recipient also enabled read receipts, you'll see**Read** beneath your message along with the time it was read.  
 ![Turning on Read Receipts on an iPhone](https://www.lifewire.com/thmb/adwssPUIufZ67_obqOx2EVuaR_8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001-read-my-text-message-4148206-8285a2a3097b4c5a8e2f3884553f75f1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you don't want people to know that when you read their messages,[turn off read receipts on your iPhone or Android](https://www.lifewire.com/turn-read-receipts-on-or-off-on-iphone-and-android-5074420) .
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Read Receipts on Android Smartphones
 
  The process is similar on Android. The[Google Messages app](https://www.lifewire.com/use-android-messages-app-4177697) supports read receipts, but the carrier must also support this feature. Your recipient must have read receipts activated for you to see if they read your message.
@@ -50,6 +55,10 @@ thumbnail: https://thmb.techidaily.com/c8cc0b50d6a862024b28911d2e2409173d05c3a9f
 3. Tap the toggle next to the read receipts options, which might be called**Send read receipts** ,**Read receipts** , or**Request receipt** , depending on the device you have.  
 ![The Google Messages menu, Settings screen, and RCS chats options](https://www.lifewire.com/thmb/B7JVQg4q7aeE8dmAE_ap6ttFnuQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/android-read-receipts-rcs-chats-19d035e50fc3487ba50f8d7d782765fa.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## WhatsApp Read Receipts
 
  WhatsApp uses built-in read receipts. The status of sent messages[is tracked through check marks next to messages](https://www.lifewire.com/how-to-track-messages-with-whatsapp-check-marks-4781495) . One grey check mark means the message was sent; two grey check marks mean the message was delivered, and two blue check marks mean the message was read.
@@ -59,8 +68,9 @@ thumbnail: https://thmb.techidaily.com/c8cc0b50d6a862024b28911d2e2409173d05c3a9f
  WhatsApp read receipts are a two-way street. If you disable read receipts to prevent others from knowing you read their messages, you won't know when they read yours.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### WhatsApp Message Details
 
  If you're looking for specific information about the messages you've sent in WhatsApp, here's how to see those details:
@@ -70,9 +80,6 @@ thumbnail: https://thmb.techidaily.com/c8cc0b50d6a862024b28911d2e2409173d05c3a9f
 3. If read receipts aren't disabled, you'll see the exact time your message was delivered and read.  
 ![Message details in WhatsApp](https://www.lifewire.com/thmb/kKfFfjrRV6uuvyv_nzBN_LBJWxI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/005-read-my-text-message-4148206-69a5bd8788d44fe2ad7afbdcda9ae3e4.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Messenger Read Receipts
 
  Like most texting apps,[Facebook Messenger](https://www.lifewire.com/facebook-messenger-4103719) includes a handy toggle called**Show read receipts** . When it's turned on, you'll be able to see when people read your messages and they'll see when you've read theirs.
@@ -84,23 +91,18 @@ thumbnail: https://thmb.techidaily.com/c8cc0b50d6a862024b28911d2e2409173d05c3a9f
 3. Scroll down and tap**Privacy & safety** .  
 ![The Chats, menu, and settings in the Facebook Messenger app for Android](https://www.lifewire.com/thmb/-ps7dMRHQclfLVgQWYJGmoAfjQo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/facebook-messenger-app-settings-ac60afcaccab437aaa235122cf6cebc8.png)
 4. Choose**Read receipts** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Tap the toggle next to**Show read receipts** so it turns on.  
 ![The Privacy and security screen and read receipts toggle in the Facebook Messenger app](https://www.lifewire.com/thmb/bbHvAPlOyTbtWcVcsFhlUuuQUy4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/read-receipts-facebook-messenger-c45c63e4858e4a67b967003f10089270.png)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<!-- affiliate ads end -->
  The Facebook Messenger app provides detailed indicators about the delivery and read status each time you send a message. When your message is actively sending, you'll briefly see a blue circle. When it's sent, you'll see a blue circle with a checkmark. When it's delivered, you'll see a filled-in blue circle. Finally, when it's read, you'll see a small version of your recipient's profile image below the message.
 
 ![Read indicators in Facebook Messenger](https://www.lifewire.com/thmb/KfSmMETDPxk2OzNUveEZTEEAf6M=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/006-read-my-text-message-4148206-6116e0f818784404a8debc67972541c2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
-<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Instagram Read Receipts
 
 [Instagram lets you manage read receipts](https://www.lifewire.com/turn-off-read-receipts-on-instagram-5085244) , so to see when someone has read your Instagram message, you need to make sure the toggle is switched_on_ . The Instagram app lets you control read receipts for individual chats and all chats.
@@ -138,8 +140,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -147,4 +147,20 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-unveil-the-leading-10-hidden-story-viewers/"><u>[Updated] 2024 Approved Unveil the Leading 10 Hidden Story Viewers</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/2024-approved-comprehensive-list-of-vimeo-downloader-utilities/"><u>2024 Approved Comprehensive List of Vimeo Downloader Utilities</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/comprehensive-review-of-the-samsung-galaxy-watch-active-for-a-healthier-lifestyle/"><u>Comprehensive Review of the Samsung Galaxy Watch Active for a Healthier Lifestyle</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/enhanced-ease-of-repair-for-the-new-iphone-section-1-advanced-problem-on-gas-chromatography-detectors/"><u>Enhanced Ease-of-Repair for the New iPhone # Section 1: Advanced Problem on Gas Chromatography Detectors</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/favorite-smartphones-of-zdnets-tech-experts-in-depth-reviews-and-real-user-experiences/"><u>Favorite Smartphones of ZDNet's Tech Experts: In-Depth Reviews and Real User Experiences</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/forgot-your-vivo-g2-lock-screen-pattern-pin-or-password-here-s-what-to-do-by-drfone-android-unlock-android-unlock/"><u>Forgot your Vivo G2 lock screen pattern, PIN or password? Here’s what to do</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-tecno-spark-10-pro-bootloader-easily-by-drfone-android/"><u>How to Unlock Tecno Spark 10 Pro Bootloader Easily</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-archive-awesome-perfecting-twitter-video-backups/"><u>In 2024, Archive Awesome Perfecting Twitter Video Backups</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/key-techniques-boosting-video-reach-across-both-platforms-for-2024/"><u>Key Techniques Boosting Video Reach Across Both Platforms for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/solving-steam-disk-write-failure-a-comprehensive-guide/"><u>Solving Steam Disk Write Failure: A Comprehensive Guide</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-the-binkw32dll-file-not-found-issue-step-by-step-guide/"><u>Solving the BinkW32.DLL File Not Found Issue: Step-by-Step Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/step-by-step-guide-adding-images-and-objects-into-your-microsoft-office-documents/"><u>Step-by-Step Guide: Adding Images and Objects Into Your Microsoft Office Documents</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unveiling-the-alliance-how-apple-is-enhancing-ios-ipados-and-macos-by-teaming-up-with-openai-for-chatgpt-accessibility-tech-analysis/"><u>Unveiling the Alliance: How Apple Is Enhancing iOS, iPadOS, and MacOS by Teaming Up With OpenAI for ChatGPT Accessibility | Tech Analysis</u></a></li>
+</ul></div>
 

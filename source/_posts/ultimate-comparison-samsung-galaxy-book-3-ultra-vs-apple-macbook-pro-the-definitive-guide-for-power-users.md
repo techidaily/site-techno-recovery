@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Comparison: Samsung Galaxy Book 3 Ultra Vs. Apple MacBook Pro - The Definitive Guide for Power Users"
-date: 2025-01-01T16:02:34.676Z
-updated: 2025-01-04T16:29:56.167Z
+date: 2025-01-04T22:19:18.365Z
+updated: 2025-01-10T21:21:03.575Z
 tags:
   - apple
 categories:
@@ -31,7 +31,7 @@ Of course, if you're already locked into either the Android or iOS ecosystem, yo
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Specifications
@@ -52,6 +52,10 @@ Of course, if you're already locked into either the Android or iOS ecosystem, yo
 
 Kerry Wan/ZDNET
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ###  1\. You want a bigger battery
 
 Both the [Galaxy Watch Ultra](https://shop-links.co/link/?url=https%3A%2F%2Fwww.samsung.com%2Fus%2Fwatches%2Fgalaxy-watch-ultra%2Fbuy%2Fgalaxy-watch-ultra-47mm-titanium-gray-sm-l705udaaxaa%2F&publisher_slug=itechdaily19598&exclusive=1) and the [Apple Watch 2 Ultra](https://www.zdnet.com/article/i-spent-a-week-with-the-apple-watch-ultra-2-and-heres-what-stood-out-the-most/) carry large batteries, but the Galaxy Watch Ultra's is slightly larger at 590mAh compared to the Apple Watch 2 Ultra's 564mAh. Samsung says its watch offers up to 100 hours of battery life in power-saving mode and 48 hours in exercise power-saving mode, while Apple claims up to 36 hours of normal use and up to 72 hours in low power mode.
@@ -61,7 +65,7 @@ Both the [Galaxy Watch Ultra](https://shop-links.co/link/?url=https%3A%2F%2Fwww.
 Of course, exact battery life depends on how you use it; but based on company claims, the Galaxy Watch Ultra should get at least an extra half-day from a full charge.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  2\. You want to save money
@@ -69,6 +73,10 @@ Of course, exact battery life depends on how you use it; but based on company cl
 It's no surprise that affordability isn't at the forefront of Apple's feature set. These two watches are similar in many ways, but Samsung's will set you back $150 less. The Galaxy Watch Ultra is priced at $649.99, while the Apple Watch 2 Ultra, released in September 2023, costs $799.99.
 
 Here's another thing to consider: If you're pairing a phone with your watch, [iPhones](https://www.zdnet.com/article/best-iphone/) are usually more expensive. If the direct cost of the device and associated costs are a concern, go with the Samsung Galaxy Watch Ultra. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  3\. You want the most advanced sleep-tracking features
 
@@ -84,13 +92,13 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 [See all](https://www.zdnet.com/newsletters/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  You should buy the Apple Watch Ultra 2 if...
 
 Max Buondonno/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  1\. You need more storage
 
@@ -98,19 +106,11 @@ If you want to have a lot of music or podcasts on your watch for long runs, or y
 
 **Also: [The best smartwatches you can buy: Expert tested](https://www.zdnet.com/article/best-smartwatch/)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ###  2\. You want the biggest, boldest display
 
 Both the Galaxy Watch Ultra and the Apple Watch 2 Ultra are fairly large, square-ish, eye-catching watches. While the Galaxy Watch Ultra is 47mm, the Watch 2 Ultra is 47mm wide by 49mm high. That might not sound like much, but it's noticeable when the two devices are side by side. Because of the bigger size, Apple's watch can fit more information on the screen. Both watches have only basic colors when it comes to design, but if you want the option that's more visually striking, go with the Apple.
 
 [Buy the Apple Watch 2 Ultra $645.31 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CHX9N594%3FlinkCode%3Dogi%26th%3D1%26psc%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C7092b416-e5a9-4177-9f64-b9579954b75e%7Cdtp&dtb=1)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Alternatives to consider
 
@@ -160,21 +160,19 @@ The Samsung Galaxy Watch 5 Pro is fantastic for outdoor adventures. It offers ma
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-launching-professional-instagram-starting-an-enterprise-account/"><u>[New] Launching Professional Instagram Starting an Enterprise Account</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-playstation-experience-transform-your-voice/"><u>[Updated] The PlayStation Experience Transform Your Voice</u></a></li>
-<li><a href="https://blog-min.techidaily.com/8-ways-to-transfer-photos-from-vivo-t2-pro-5g-to-iphone-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>8 Ways to Transfer Photos from Vivo T2 Pro 5G to iPhone Easily | Dr.fone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/discover-why-apples-vision-pro-is-a-silent-game-changer-expert-opinions-from-zdnet-revealed/"><u>Discover Why Apple's Vision Pro Is a Silent Game-Changer: Expert Opinions From ZDNet Revealed!</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-a-working-guide-for-pachirisu-pokemon-go-map-on-realme-narzo-60-5g-drfone-by-drfone-virtual-android/"><u>In 2024, A Working Guide For Pachirisu Pokemon Go Map On Realme Narzo 60 5G | Dr.fone</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-delete-icloud-account-from-apple-iphone-xs-max-without-password-by-drfone-ios/"><u>In 2024, How to Delete iCloud Account From Apple iPhone XS Max without Password?</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/iphone-16-pro-vs-iphone-14-pro-assessing-value-and-performance-for-your-next-upgrade-a-comprehensive-review/"><u>IPhone 16 Pro vs iPhone 14 Pro: Assessing Value and Performance for Your Next Upgrade - A Comprehensive Review</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/mastering-the-art-of-gif-responses-tips-for-adding-animated-reactions-to-your-instagram-comments/"><u>Mastering the Art of GIF Responses: Tips for Adding Animated Reactions to Your Instagram Comments</u></a></li>
-<li><a href="https://review-topics.techidaily.com/mov-to-samsung-converter-convert-mov-files-for-samsung-by-aiseesoft-video-converter-play-mov-on-android/"><u>MOV to Samsung converter-convert .mov files for Samsung</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/revolutionizing-technology-how-apple-is-advancing-its-artificial-intelligence-capabilities-discover-the-power-of-their-latest-innovations-tech-news/"><u>Revolutionizing Technology: How Apple Is Advancing Its Artificial Intelligence Capabilities - Discover the Power of Their Latest Innovations | Tech News</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/the-ultimate-list-of-8-favourite-free-soundtracks-for-iphones/"><u>The Ultimate List of 8 Favourite Free Soundtracks for iPhones</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/thrifty-topmate-c3n-pad-assessment-proven-heat-dissipation-at-unbeatable-prices/"><u>Thrifty TopMate C3n Pad Assessment - Proven Heat Dissipation at Unbeatable Prices</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/top-9-essential-gadgets-and-devices-for-the-modern-student/"><u>Top 9 Essential Gadgets and Devices for the Modern Student</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/top-rated-airtag-wallets-in-2econd-in-depth-review-by-tech-experts/"><u>Top-Rated AirTag Wallets in 2Econd: In-Depth Review by Tech Experts</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/ultimate-guide-deleting-your-apple-music-account-without-using-itunes-tips-and-tricks/"><u>Ultimate Guide: Deleting Your Apple Music Account Without Using iTunes - Tips & Tricks</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/updated-cutting-edge-audio-tools-for-iphone-and-ipad-enthusiasts/"><u>Updated Cutting-Edge Audio Tools for iPhone and iPad Enthusiasts</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-rise-to-success-with-these-essential-15-fb-sales-insights/"><u>[Updated] In 2024, Rise to Success with These Essential 15 FB Sales Insights</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/avoiding-distractions-with-personalized-mac-focus-modes-in-macos-monterey-tips-and-tricks/"><u>Avoiding Distractions with Personalized Mac Focus Modes in macOS Monterey - Tips & Tricks</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/cite-ai-correctly-expert-tips-on-how-to-include-chatgpt-as-a-reference-source/"><u>Cite AI Correctly: Expert Tips on How to Include ChatGPT as a Reference Source</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/enhancing-security-and-freedom-for-xr-users-how-a-vpn-is-crucial-for-headsets-such-as-the-vision-pro/"><u>Enhancing Security and Freedom for XR Users: How a VPN Is Crucial for Headsets Such as the Vision Pro</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/gravar-videos-em-formato-ogm-livre-e-gratuita-com-a-ferramenta-de-conversao-online-da-movavi/"><u>Gravar Vídeos Em Formato OGM Livre E Gratuita Com a Ferramenta De Conversão OnLine Da Movavi</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-bypass-google-frp-on-vivo-y28-5g-by-drfone-android-unlock-remove-google-frp/"><u>How To Bypass Google FRP on Vivo Y28 5G</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-enjoy-shared-spotify-sessions-with-another-person/"><u>How to Enjoy Shared Spotify Sessions with Another Person?</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-from-pro-to-max-the-transformative-journey-of-apples-macbook-chips/"><u>In 2024, From Pro to Max The Transformative Journey of Apple’s MacBook Chips</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-xiaomi-redmi-note-13-pro-5g-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Xiaomi Redmi Note 13 Pro 5G to BlackBerry | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/ps-game-compatibility-across-generations-of-consoles/"><u>PS Game Compatibility Across Generations of Consoles</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/tech-face-off-deciding-on-your-ideal-timepiece-a-comparison-of-the-google-pixel-watch-3-and-apple-watch-series-vee/"><u>Tech Face-Off: Deciding on Your Ideal Timepiece – A Comparison of the Google Pixel Watch 3 & Apple Watch Series Vee</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-next-generation-of-display-tech-unpacking-what-the-ipad-pros-tandem-oled-reveals-for-tomorrows-gadgets/"><u>The Next Generation of Display Tech: Unpacking What the iPad Pro's Tandem OLED Reveals for Tomorrow's Gadgets</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ultimate-buyers-guide-to-the-most-reliable-waterproof-wearables-of-2024-industry-expert-ratings-devicemasters/"><u>Ultimate Buyer's Guide to the Most Reliable Waterproof Wearables of 2024 - Industry Expert Ratings | DeviceMasters</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-maximizing-creativity-with-pexelscom-a-closer-look-at-image-licensing/"><u>Updated Maximizing Creativity with Pexels.com A Closer Look at Image Licensing</u></a></li>
 </ul></div>
 

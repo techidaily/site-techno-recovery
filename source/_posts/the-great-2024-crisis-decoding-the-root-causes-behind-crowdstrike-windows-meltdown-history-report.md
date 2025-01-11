@@ -1,7 +1,7 @@
 ---
 title: "The Great 2024 Crisis: Decoding The Root Causes Behind CrowdStrike-Windows Meltdown History Report"
-date: 2024-12-28T16:34:33.596Z
-updated: 2025-01-04T16:30:46.905Z
+date: 2025-01-05T07:58:06.876Z
+updated: 2025-01-11T07:46:09.194Z
 tags:
   - apple
 categories:
@@ -33,7 +33,7 @@ In this case, the trusted software developer is a firm called CrowdStrike Holdin
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What happened?
@@ -55,7 +55,7 @@ Repairing the damage from a flaw like this is a painfully tedious process that r
 If you know anyone whose job involves administering Windows PCs in a corporate network that uses the CrowdStrike code, you can be confident they are very busy right now, and will be for days to come.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## We've seen this movie before
@@ -95,7 +95,7 @@ In the You Can't Make This Up Department… CrowdStrike's founder and CEO, Georg
 What makes the 2024 sequel so much worse is that it also affected Windows-based servers running in the cloud, on Microsoft Azure and on AWS. Just as with the many laptops and desktop PCs that were bricked by this faulty update, the cloud-based servers require time-consuming manual interventions to recover.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## CrowdStrike's QA failed
@@ -125,7 +125,7 @@ As part of its initial response, CrowdStrike says it plans to take additional me
 Meanwhile, the United States House of Representatives Homeland Security Committee plans to call CrowdStrike's CEO up for hearings on what went wrong, and CrowdStrike's Chief Security Officer, Shawn Henry, [posted an apology on LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7220983915421806592/), admitting "On Friday, we failed you. ... The confidence we built in drips over the years was lost in buckets within hours, and it was a gut punch."
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How much fault should Microsoft shoulder?
@@ -176,17 +176,18 @@ Nonetheless, this incident, which caused many billions of dollars' worth of dama
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-guidance.techidaily.com/new-snapseed-101-easy-steps-for-image-transformation/"><u>[New] Snapseed 101 Easy Steps for Image Transformation</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-9-fixes-for-firefox-videos-on-facebook-live/"><u>2024 Approved 9 Fixes for Firefox Videos on Facebook Live</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-unveiling-top-picks-next-gen-vr-handwear/"><u>2024 Approved Unveiling Top Picks Next Gen VR Handwear</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/best-streaming-sites-save-money-with-our-top-1nfree-options-instead-of-netflix/"><u>Best Streaming Sites: Save Money with Our Top 1nFree Options Instead of Netflix</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/evaluation-of-the-iphone-14-meeting-adequate-performance-standards-insights-from-zdnet/"><u>Evaluation of the iPhone 14: Meeting Adequate Performance Standards - Insights From ZDNet</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/fixing-your-system-the-msvcr70dll-couldnt-be-found-dilemma/"><u>Fixing Your System: The MSVCR70.DLL Couldn't Be Found Dilemma</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/overcoming-device-manager-code-41-mistakes-a-comprehensive-guide/"><u>Overcoming 'Device Manager' Code 41 Mistakes: A Comprehensive Guide</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/paving-pathways-for-the-future-top-5-advances-in-ai-tech-landscape/"><u>Paving Pathways for the Future: Top 5 Advances in AI Tech Landscape</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/peeling-back-the-layers-of-magix-image-suite/"><u>Peeling Back the Layers of MAGIX Image Suite</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/solving-the-mss32dll-is-missing-issue-a-comprehensive-guide/"><u>Solving the 'mss32.dll Is Missing' Issue: A Comprehensive Guide</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/troubleshooting-how-to-address-oleaut32dll-file-not-found-issues/"><u>Troubleshooting: How to Address Oleaut32.dll File Not Found Issues</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/understanding-dts-virtualx-technology-for-enhanced-movie-viewing/"><u>Understanding DTS Virtual:X Technology for Enhanced Movie Viewing</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-9-best-gif-recorders-for-for-capturing-animated-gifs-on-windows/"><u>[New] 9 Best GIF Recorders for for Capturing Animated GIFs on Windows</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-step-by-step-guide-to-reclaiming-lost-facebook-moments/"><u>[New] In 2024, Step-by-Step Guide to Reclaiming Lost Facebook Moments</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-the-ultimate-guide-to-never-ending-snapstreaks-for-2024/"><u>[New] The Ultimate Guide to Never-Ending Snapstreaks for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-mastering-the-art-of-self-presentation-in-facebook-bios/"><u>[Updated] 2024 Approved Mastering the Art of Self-Presentation in Facebook Bios</u></a></li>
+<li><a href="https://common-error.techidaily.com/addressing-windows-smartscreen-access-problems-a-swift-guide/"><u>Addressing Windows SmartScreen Access Problems: A Swift Guide</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-ensure-your-email-gets-on-the-approved-senders-list/"><u>How to Ensure Your Email Gets on the Approved Senders List</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-start-streaming-sports-creating-your-own-mac-based-channel/"><u>In 2024, Start Streaming Sports Creating Your Own Mac-Based Channel</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/masterclass-how-to-transfer-and-run-windows-10-on-a-new-hard-drive-efficiently/"><u>Masterclass: How to Transfer and Run Windows 10 on a New Hard Drive Efficiently</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/to-retweet-or-not-to-re-tweet-unraveling-twitters-social-sharing-actions/"><u>To Retweet or Not to Re-Tweet - Unraveling Twitter's Social Sharing Actions</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unlock-endless-entertainment-with-these-8-prime-free-roku-channels-of-2024/"><u>Unlock Endless Entertainment with These 8 Prime, Free Roku Channels of 2024</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/unlocking-text-documents-on-windows-systems-a-comprehensive-guide-by-yl-tech-support/"><u>Unlocking Text Documents on Windows Systems: A Comprehensive Guide by YL Tech Support</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/wireless-streaming-setting-up-fire-tv-stick-with-mobile-hotspot-connection/"><u>Wireless Streaming: Setting Up Fire TV Stick with Mobile Hotspot Connection</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/zenith-of-leisure-top-12-pc-gamez-for-2024/"><u>Zenith of Leisure Top 12 PC Gamez for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Upcoming Samsung Galaxy S25 Ultra - Revealing Rumored Specifications, Launch Timeline & Estimated Costs
-date: 2024-08-26T06:01:58.273Z
-updated: 2024-08-27T06:01:58.273Z
+date: 2025-01-10T07:43:23.233Z
+updated: 2025-01-11T06:59:27.522Z
 categories:
   - BestProducts
 description: This Article Describes Upcoming Samsung Galaxy S25 Ultra - Revealing Rumored Specifications, Launch Timeline & Estimated Costs
@@ -22,6 +22,10 @@ thumbnail: https://www.lifewire.com/thmb/Abs_M6SrFcY7loEbM1Ktrjr5-f0=/400x300/fi
 
  Samsung's next flagship phone is scheduled to arrive early next year. We've collected all the rumors about the Galaxy S25 Ultra so you can decide whether to wait for it or stick with the[latest phone in the Galaxy lineup](https://www.lifewire.com/newest-samsung-galaxy-phone-7567396) .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## When Will the Samsung Galaxy S25 Ultra Be Released?
 
  The Galaxy S25 Ultra release date hasn't been revealed yet, but we're watching for it in early 2025\. This is when Samsung typically releases new Galaxy S series phones, so this is essentially already confirmed. It will arrive next to the[S25 and S25+](https://www.lifewire.com/samsung-galaxy-s25-8636730) .
@@ -31,8 +35,9 @@ thumbnail: https://www.lifewire.com/thmb/Abs_M6SrFcY7loEbM1Ktrjr5-f0=/400x300/fi
  The Galaxy S25 Ultra will likely be available in January or February 2025.  
 
 <!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Samsung Galaxy S25 Ultra Price Rumors
 
  We hate to say it, but this phone will probably be a little more expensive than the[S24 Ultra](https://www.lifewire.com/samsung-galaxy-s24-ultra-review-8548896) . And that's a bummer because this is the highest-end phone from the set, so it's already priced above the other options.
@@ -50,15 +55,17 @@ thumbnail: https://www.lifewire.com/thmb/Abs_M6SrFcY7loEbM1Ktrjr5-f0=/400x300/fi
 [The Best Places to Buy Phones in 2024](https://www.lifewire.com/best-places-to-buy-cell-phones-580000)
 
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Pre-Order Information
 
  Samsung Galaxy 25 Ultra pre-orders will start following the phone's announcement at the[Samsung Unpacked](https://www.lifewire.com/samsung-unpacked-news-and-rumors-5093153) event in early 2025\. It should last around two weeks before the phone becomes available. We'll provide the link at that time.
 
 <!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Samsung Galaxy S25 Ultra Features
 
  When a new phone rolls out, one of the main things that gets a makeover is its operating system. The Galaxy S25 Ultra is expected to hit shelves with Android 15 and[One UI](https://www.lifewire.com/what-is-samsung-one-ui-4178405) 7.
@@ -70,8 +77,9 @@ thumbnail: https://www.lifewire.com/thmb/Abs_M6SrFcY7loEbM1Ktrjr5-f0=/400x300/fi
 [What Is a Large Language Model?](https://www.lifewire.com/large-language-model-7724669)
 
 <!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Samsung Galaxy S25 Ultra Specs and Hardware
 
  A Samsung fan shared some disappointing news about the S25 Ultra on X: it seems it will keep the same battery size and charging speeds as previous Ultra models. If this turns out to be true, it means the phone will still charge at 45W with a wire, 15W wirelessly, and 4.5W reverse wireless charging. And, naturally, it'll stick with the same 5000 mAh battery.
@@ -92,9 +100,6 @@ thumbnail: https://www.lifewire.com/thmb/Abs_M6SrFcY7loEbM1Ktrjr5-f0=/400x300/fi
 
 [Ice Universe suggests the Galaxy S25 Ultra will maintain its 200MP main camera and 50MP 5x camera](https://www.notebookcheck.net/Samsung-Galaxy-S25-Ultra-Upgraded-ultrawide-and-3x-cameras-hinted-by-fresh-leak.841616.0.html) while upgrading the ultrawide and 3x cameras to 50MP each. Upgrading the 3x camera from the current 10MP sensor could enhance low-light performance and hybrid zoom quality.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 ## The Latest News About the Samsung Galaxy S25 Ultra
 
  You [get more smartphone news here at Lifewire](https://www.lifewire.com/mobile-phones-4781509) . Below are some of those stories and more on Android and Samsung.
@@ -111,8 +116,6 @@ thumbnail: https://www.lifewire.com/thmb/Abs_M6SrFcY7loEbM1Ktrjr5-f0=/400x300/fi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -120,4 +123,24 @@ thumbnail: https://www.lifewire.com/thmb/Abs_M6SrFcY7loEbM1Ktrjr5-f0=/400x300/fi
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-10-superior-video-conferencing-software-titles-for-2024/"><u>[New] 10 Superior Video Conferencing Software Titles for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-the-essential-iphoneside-by-side-guide-for-fb-sharing/"><u>[New] 2024 Approved The Essential iPhoneside by Side Guide for FB Sharing</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-top-30-online-music-venues/"><u>[Updated] Top 30 Online Music Venues</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-ascend-video-rankings-top-seo-gadgets-revealed/"><u>2024 Approved Ascend Video Rankings – Top SEO Gadgets Revealed</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/diagnosing-and-repairing-a-roku-set-top-box-that-wont-start/"><u>Diagnosing and Repairing a Roku Set Top Box That Won't Start</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-batch-unfriend-users-on-snapchat-with-ease/"><u>How to Batch Unfriend Users on Snapchat with Ease</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/put-an-end-to-unwanted-messages-a-quick-guide-to-blocking-spam-texts-on-ios-devices/"><u>Put an End to Unwanted Messages: A Quick Guide to Blocking Spam Texts on iOS Devices</u></a></li>
+<li><a href="https://extra-information.techidaily.com/starting-off-understanding-av1-compression/"><u>Starting Off Understanding AV1 Compression</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/stay-ahead-of-the-curve-with-applen-date-announcements-insider-tips-and-upcoming-trends/"><u>Stay Ahead of the Curve with Apple'n': Date Announcements, Insider Tips & Upcoming Trends</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/steps-to-retrieve-deleted-messages-from-your-gmail-inbox/"><u>Steps to Retrieve Deleted Messages From Your Gmail Inbox</u></a></li>
+<li><a href="https://win11.techidaily.com/swift-solutions-for-win-rpc-errors-a-quick-guide/"><u>Swift Solutions for Win RPC Errors - A Quick Guide</u></a></li>
+<li><a href="https://blog-min.techidaily.com/telechargez-lediteur-de-convertisseur-gratuit-de-pbm-vers-png-chez-movavi-votre-solution-simple-pour-les-graphiques-en-ligne/"><u>Téléchargez L'éditeur De Convertisseur Gratuit De PBM Vers PNG Chez Movavi : Votre Solution Simple Pour Les Graphiques en Ligne !</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-5-apple-watch-sleep-tracking-apps-your-ultimate-guide/"><u>Top 5 Apple Watch Sleep Tracking Apps: Your Ultimate Guide</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-mac-system-optimizers-of-2022-picking-the-perfect-app-from-expert-reviews-techradar/"><u>Top Mac System Optimizers of 2022: Picking the Perfect App From Expert Reviews | TechRadar</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/understanding-iphone-13s-durability-is-it-waterproof/"><u>Understanding iPhone 13'S Durability: Is It Waterproof?</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/standing-youtubes-privacy-options-for-viewers-for-2024/"><u>Understanding YouTube's Privacy Options for Viewers for 2024</u></a></li>
+<li><a href="https://facebook.techidaily.com/why-you-should-purge-facebooks-view-logs-today/"><u>Why You Should Purge Facebook's View Logs Today</u></a></li>
+</ul></div>
 

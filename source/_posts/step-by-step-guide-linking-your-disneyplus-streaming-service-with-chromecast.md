@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Linking Your Disney+ Streaming Service with Chromecast"
-date: 2024-08-26T06:05:46.604Z
-updated: 2024-08-27T06:05:46.604Z
+date: 2025-01-10T00:54:04.995Z
+updated: 2025-01-11T01:51:53.715Z
 categories:
   - BestProducts
 description: "This Article Describes Step-by-Step Guide: Linking Your Disney+ Streaming Service with Chromecast"
@@ -10,6 +10,11 @@ thumbnail: https://thmb.techidaily.com/c74303d4c07843e34b64af558ccf2dd47acf27f12
 ---
 
 ## Maximizing PS5 Gameplay: A Step-by-Step Guide to Achieving a Buttery Smooth 1Nterframe Rate of 120FPS
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### What to Know
 
 * Go to**Settings** \>**Screen and Video** \>**Video Output** and enable 120 Hz output. You'll also have to turn it on in-game.
@@ -17,6 +22,10 @@ thumbnail: https://thmb.techidaily.com/c74303d4c07843e34b64af558ccf2dd47acf27f12
 * Only certain games support 120 frames per second on PS5.
 
  This article explains how to get 120 frames per second—which you'll also see as "FPS" or "Hz"–on PS5\. Not every game on PS5 supports this option, so while you can prep your console for it, it won't work for every title.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Turn On 120 FPS on PS5
 
@@ -33,12 +42,18 @@ thumbnail: https://thmb.techidaily.com/c74303d4c07843e34b64af558ccf2dd47acf27f12
 4. Select**120 Hz Output** .  
 ![120 Hz Output in PS5 settings](https://www.lifewire.com/thmb/hxj9hKX_96UCkA07Y8Rzo91hvKo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/120-Output-9e18a336656f4caf97cc91724b032df2.jpg)
 5. Select**Automatic** (you won't have an**On** option because not every game supports 120 Hz output).  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![The "Automatic" option ](https://www.lifewire.com/thmb/N0N2mbCdwDADtM0UH7Q50TlNT2U=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Automatic-8261fa6f79014410bb3948ebcbcac568.jpg)
 6. Now, if a game has an option for 120 frames per second and you turn it on, your PS5 will output at that rate.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## What You Need to Get 120 FPS on PS5
 
  The most important requirement is a display with a 120 Hz refresh rate. You can use a TV or a monitor, and displays with 120 Hz support are pretty common today, so you shouldn't have trouble finding one.
@@ -50,8 +65,9 @@ thumbnail: https://thmb.techidaily.com/c74303d4c07843e34b64af558ccf2dd47acf27f12
  Lastly, keep in mind that not every game supports 120 FPS. You won't typically see that information on the game box, unfortunately, but you should find it in shop listings. And, of course, you can check the menus for a 120 FPS option.
 
 <!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Which PS5 Games Support 120 FPS?
 
  There are over 100 PlayStation 5 games that support 120Hz, with more coming out all the time. Here are some popular ones:
@@ -89,8 +105,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -98,4 +112,19 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-best-asmr-apps-for-android-and-ios/"><u>[New] In 2024, Best ASMR Apps for Android and iOS</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-blur-out-not-your-photos-top-10-edits-to-fix-fuzziness/"><u>[Updated] 2024 Approved Blur Out, Not Your Photos! Top 10 Edits to Fix Fuzziness</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-next-gen-clarity-leading-ps5-compatible-hdmi-21-displays/"><u>[Updated] In 2024, Next Gen Clarity Leading PS5 Compatible HDMI 2.1 Displays</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discover-the-finest-super-mario-experiences-for-pc-gamers/"><u>Discover the Finest Super Mario Experiences for PC Gamers</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/download-ios-18-complete-guide-for-compatible-iphone-models-and-steps/"><u>Download IOS 18: Complete Guide for Compatible iPhone Models & Steps</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/experts-pick-the-most-economical-tablet-options-for-2-groovy-teens-youre-looking-to-create-an-engaging-and-fun-environment-that-respects-their-growing-indep131/"><u>Experts Pick the Most Economical Tablet Options for 2 Groovy Teens, You're Looking to Create an Engaging and Fun Environment that Respects Their Growing Independence While Also Providing Guidance. Here Are some Tips on How to Approach This:</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-check-if-your-nubia-z50-ultra-is-unlocked-by-drfone-android/"><u>How To Check if Your Nubia Z50 Ultra Is Unlocked</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-hosted-network-could-not-be-started-error-on-windows-11/"><u>How to Fix 'Hosted Network Could Not Be Started' Error on Windows 11</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-overcome-the-persistent-crashing-issue-of-the-ascent-in-microsoft-windows/"><u>How to Overcome the Persistent Crashing Issue of The Ascent in Microsoft Windows</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-photos-files-from-nokia-c300-by-fonelab-android-recover-photos/"><u>How To Restore Missing Photos Files from Nokia C300.</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-sophisticated-style-advanced-tiktok-filters/"><u>In 2024, Sophisticated Style Advanced TikTok Filters</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ultimate-portability-and-performance-why-this-8-in-1-adapter-outperforms-the-competition-zdnet-exclusive/"><u>Ultimate Portability & Performance: Why This 8-in-1 Adapter Outperforms the Competition (ZDNET Exclusive)</u></a></li>
+</ul></div>
 

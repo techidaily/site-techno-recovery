@@ -1,7 +1,7 @@
 ---
 title: "Syncing iCloud Notes with Linux: A Step-by-Step Guide"
-date: 2024-12-22T21:07:48.445Z
-updated: 2024-12-26T05:15:46.549Z
+date: 2025-01-07T05:42:09.339Z
+updated: 2025-01-11T10:22:30.452Z
 tags:
   - apple
 categories:
@@ -56,11 +56,19 @@ Next, confirm that you're running the latest version of Phone Link. To do this, 
 
 Finally, ensure that Bluetooth is enabled on your Windows 11 PC. Go to Settings, select Bluetooth & devices, and turn on the switch for Bluetooth if it's off.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Open Phone Link
 
 Click the Start button, go to All Apps, and select Phone Link from the list. The first screen prompts you to select your device. Click the button for iPhone.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Scan the QR codes
 
@@ -71,6 +79,10 @@ At the screen to pair your devices, tap "Link to Windows" to download and instal
 You should see pairing prompts on both your iPhone and your Windows 11 computer. Select the Pair button on both devices and wait for the two to pair.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Sync your iPhone data
 
@@ -83,10 +95,6 @@ Screenshot by Lance Whitney/ZDNET
 The Phone Link welcome screen should appear on your PC and ask if you want to open the app each time you log into Windows. If you do, check the box.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5\. Access your recent messages
 
@@ -110,10 +118,6 @@ Launch the app and click the Accept & Continue button. You'll be asked how you'd
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. Pair your phone and computer
 
 You should then be asked to pair your phone and PC. Scan the QR code with your phone and tap the link to download and install the Unison mobile app from the Apple App Store.
@@ -126,15 +130,15 @@ At the next screen on your phone, tap the button for "Scan QR code." Scan the co
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. Launch the Windows Unison app
 
 At the "Let's get started" screen in the Windows Unison app, click the icon for "Send messages." 
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  4\. Go to the Messages screen
 
@@ -143,7 +147,7 @@ At the Messages screen, click the icon for "Compose a new message." Choose the r
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Send a message
@@ -151,10 +155,6 @@ Screenshot by Lance Whitney/ZDNET
 Compose and send your message. Wait for the other person to respond. You can then carry on a conversation in the Windows Unison app or in iMessages on your iPhone as the texts sync between the two apps.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 6\. Receive a message
 
@@ -192,21 +192,21 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-2024-approved-ranked-5-ios-podcast-applications-you-must-download/"><u>[New] 2024 Approved Ranked 5 iOS Podcast Applications You Must Download</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-adapting-your-tech-skills-for-facetime-call-logging-for-2024/"><u>[New] Adapting Your Tech Skills for FaceTime Call Logging for 2024</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/new-converting-tiktok-videos-to-gifs-top-5-software-options/"><u>[New] Converting TikTok Videos to GIFs Top 5 Software Options</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-10-best-webcams-to-enhance-your-podcast-experience/"><u>[Updated] 10 Best Webcams to Enhance Your Podcast Experience</u></a></li>
-<li><a href="https://extra-information.techidaily.com/2024-approved-14-top-metaverse-initiatives-revealing-potential-futures/"><u>2024 Approved 14 Top Metaverse Initiatives Revealing Potential Futures</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/ending-subtitle-support-tips-and-tricks-for-prime-streamers/"><u>Ending Subtitle Support: Tips and Tricks for Prime Streamers</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/from-speech-to-silence-creating-quality-audio-memos/"><u>From Speech to Silence Creating Quality Audio Memos</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-use-google-assistant-on-your-lock-screen-of-samsung-galaxy-m14-5g-phone-by-drfone-android/"><u>How to Use Google Assistant on Your Lock Screen Of Samsung Galaxy M14 5G Phone</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/24-calculating-monetary-gain-for-a-milion-of-youtube-watchers/"><u>In 2024, Calculating Monetary Gain for a Milion of YouTube Watchers</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-motorola-moto-g73-5g-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Motorola Moto G73 5G Phone Pattern Lock without Factory Reset</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/mastering-iphone-restoration-modes-a-comprehensive-walkthrough/"><u>Mastering iPhone Restoration Modes: A Comprehensive Walkthrough</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/mastering-the-convenience-of-apple-pay-a-comprehensive-guide-to-using-it-both-offline-and-online/"><u>Mastering the Convenience of Apple Pay: A Comprehensive Guide to Using It Both Offline & Online</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/navigating-the-world-of-smartwatches-google-pixel-watch-versus-apple-series-9-showdown-zdnets-expert-take/"><u>Navigating the World of Smartwatches: Google Pixel Watch Versus Apple Series 9 Showdown | ZDNET's Expert Take</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/top-3-cutting-edge-iphone-16-innovations-that-will-make-you-eager-to-switch-insights/"><u>Top 3 Cutting-Edge iPhone 16 Innovations That Will Make You Eager to Switch! - Insights</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/top-rated-mac-software-comprehensive-guide-by-zdnet/"><u>Top-Rated Mac Software : Comprehensive Guide by ZDNet</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/unlocking-the-secrets-of-the-mushroom-kingdom-ranked-list-of-ultimate-super-mario-games-on-pc/"><u>Unlocking The Secrets of the Mushroom Kingdom: Ranked List of Ultimate Super Mario Games on PC</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-the-beginners-guide-to-joining-facebook/"><u>[New] The Beginner's Guide to Joining Facebook</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-capture-and-conserve-the-instagram-freedom-toolkit/"><u>[Updated] 2024 Approved Capture and Conserve The Instagram Freedom Toolkit</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-capture-clarity-optimal-tripods-for-iphone-and-android/"><u>[Updated] Capture Clarity Optimal Tripods for iPhone & Android</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-effective-streaming-across-platforms-including-facebook-and-twitch-for-2024/"><u>[Updated] Effective Streaming Across Platforms, Including Facebook and Twitch for 2024</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/all-about-factory-reset-what-is-it-and-what-it-does-to-your-honor-100-pro-drfone-by-drfone-reset-android-reset-android/"><u>All About Factory Reset, What Is It and What It Does to Your Honor 100 Pro? | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/complete-guide-unlinking-your-gadget-from-the-google-assistant-ecosystem/"><u>Complete Guide: Unlinking Your Gadget From the Google Assistant Ecosystem</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/fixing-blue-screen-of-death-resolving-the-stop-0x0000007b-bsod-issue/"><u>Fixing Blue Screen of Death: Resolving the STOP 0X0000007B BSOD Issue</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-broadcast-a-zoom-video-conference-onto-your-smarttv/"><u>How To Broadcast A Zoom Video Conference Onto Your SmartTV</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-activate-and-use-life360-ghost-mode-on-nokia-c110-drfone-by-drfone-virtual-android/"><u>In 2024, How To Activate and Use Life360 Ghost Mode On Nokia C110 | Dr.fone</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/informed-decisions-made-easy-5-questions-to-ask-before-getting-a-step-counter/"><u>Informed Decisions Made Easy: 5 Questions to Ask Before Getting a Step Counter</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/investigating-aol-mail-problems-how-to-tell-if-its-a-general-downtvein-or-personal-internet-concern/"><u>Investigating AOL Mail Problems: How to Tell If It's a General Downtvein or Personal Internet Concern.</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-connectivity-obstacles-in-nvidia-geforce-software/"><u>Overcoming Connectivity Obstacles in NVIDIA GeForce Software</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/the-aurora-hdr-experience-is-it-transformative/"><u>The Aurora HDR Experience Is It Transformative?</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-ultimate-list-of-best-visual-voicemail-software-2024-rankings/"><u>The Ultimate List of Best Visual Voicemail Software - 2024 Rankings</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ultimate-selection-of-no-fee-community-driven-dns-options/"><u>Ultimate Selection of No-Fee, Community-Driven DNS Options</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/walkthrough-canceling-a-subscription-on-the-paramount-plus-network/"><u>Walkthrough: Canceling a Subscription on the Paramount Plus Network</u></a></li>
 </ul></div>
 

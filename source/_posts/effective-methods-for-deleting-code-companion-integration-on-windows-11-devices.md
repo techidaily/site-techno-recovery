@@ -1,7 +1,7 @@
 ---
 title: Effective Methods for Deleting Code Companion Integration on Windows 11 Devices
-date: 2024-08-26T06:02:13.236Z
-updated: 2024-08-27T06:02:13.236Z
+date: 2025-01-07T07:58:45.790Z
+updated: 2025-01-10T22:47:46.013Z
 categories:
   - BestProducts
 description: This Article Describes Effective Methods for Deleting Code Companion Integration on Windows 11 Devices
@@ -14,6 +14,10 @@ thumbnail: https://www.lifewire.com/thmb/6aiZ75WGet9xLb8oYZVRJIo05pk=/540x405/fi
 
  Lifewire / Maritsa Patrinos​
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Why Skype Is Not Working
 
  There could be a microphone problem or an issue with your audio settings, so you can't hear the other person, or they can't hear you. Or maybe you can't log in to Skype because you've forgotten your password. Still, another reason could be that your external speakers or microphone are no longer working, and you need to get new[hardware](https://www.lifewire.com/computer-hardware-2625895) . Maybe Skype won't connect because the service itself is having issues.
@@ -24,6 +28,10 @@ thumbnail: https://www.lifewire.com/thmb/6aiZ75WGet9xLb8oYZVRJIo05pk=/540x405/fi
 
  If you're having issues[making HD video calls with Skype](https://www.lifewire.com/how-to-make-hd-skype-calls-3426508) , there are a number of other factors that go into troubleshooting the reason.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Step 1: Reset Your Password
 
  Reset your password if you can't log in to Skype. Visit[Microsoft's Recover Your Account](https://account.live.com/resetpassword.aspx) page to walk through resetting your Skype password, or use our[step-by-step guide for resetting your Microsoft Account password](https://www.lifewire.com/how-to-reset-your-microsoft-account-password-2624953) (it's the same account).
@@ -33,8 +41,9 @@ thumbnail: https://www.lifewire.com/thmb/6aiZ75WGet9xLb8oYZVRJIo05pk=/540x405/fi
  If you'd rather, you can[make a totally new Skype account](https://www.lifewire.com/how-to-create-a-skype-account-on-windows-4800185) .
 
 <!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Step 2: Check to See if It's Skype's Problem
 
  See if others are having troubles with Skype, too. There isn't much you can do to fix it if it's not your problem to fix. Sometimes things go wrong on Skype's end and the only thing you can do is wait it out.
@@ -43,16 +52,10 @@ thumbnail: https://www.lifewire.com/thmb/6aiZ75WGet9xLb8oYZVRJIo05pk=/540x405/fi
 
 ![Skype Status Normal Service](https://www.lifewire.com/thmb/gelce_nk6NZFVOXIBopwnyukvrE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/skype-status-normal-service-002401f4bdd54451a46e388b733ee6d5.png)
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
  Something else you can do to troubleshoot the problem is to check[Skype's status on Down Detector](https://downdetector.com/status/skype/) to see if other users are reporting that it's down or having some other connection problem.
 
  If either website shows a problem, it most likely means that you're not the only one that can't use Skype. Just wait an hour or so and try again.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
-<!-- affiliate ads end -->
 ## Step 3: Check Your Network Connection
 
  Make sure it's not a network problem. Skype won't work if you don't have a network connection. This is true if you're using it from any device, be it on the web, your phone, computer, etc.
@@ -96,15 +99,16 @@ thumbnail: https://www.lifewire.com/thmb/6aiZ75WGet9xLb8oYZVRJIo05pk=/540x405/fi
 2. Find and open**Skype** and then**Permissions** .
 3. Tap**Microphone** , and then choose**Allow only while using the app** .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Step 5: Check Skype's Video Settings and Permissions
 
  Problems with how Skype accesses the camera might be the reason the person you're talking with can't see your video.
 
 [What to Do When Your Skype Camera Is Not Working](https://www.lifewire.com/skype-camera-not-working-4589105)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
-<!-- affiliate ads end -->
 ### Skype for Computers
 
  If the Skype video isn't working on your computer, open Skype's video settings through the**Tools** \>**Audio & Video Settings** menu item (press the**Alt** key if you don't see the menu).
@@ -115,9 +119,6 @@ thumbnail: https://www.lifewire.com/thmb/6aiZ75WGet9xLb8oYZVRJIo05pk=/540x405/fi
 * Make sure that there's nothing physically blocking the camera.
 * Use the menu to the right of the**Camera** area in the settings to choose a different camera if you have more than one.
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Skype for Mobile Devices
 
  If Skype video is not working on your iPad, iPhone, or other iOS devices, go into the**Settings** app and find**Skype** from the list, then turn on**Camera** access if it's not already.
@@ -129,8 +130,9 @@ thumbnail: https://www.lifewire.com/thmb/6aiZ75WGet9xLb8oYZVRJIo05pk=/540x405/fi
  Try tapping the small camera toggle button during the call to swap between the front-facing and back-facing camera. If you're not on a call right now, you can use the**Camera**  option to test the video from your device.
 
 <!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Step 6: Make a Test Call in Skype
 
  Now that you've made sure that the hardware is turned on and enabled in Skype, it's time to[make a test audio call](https://www.lifewire.com/skype-quick-audio-test-3426523) .
@@ -144,9 +146,9 @@ thumbnail: https://www.lifewire.com/thmb/6aiZ75WGet9xLb8oYZVRJIo05pk=/540x405/fi
  You can also use the Echo/Sound Test Service contact to make a test video call, but all this really does is shows you your own video during the audio call. This is another way to test Skype video calls.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Step 7: Reinstall Skype
 
  If Skype isn't working even after trying all these troubleshooting steps, and it's definitely not a problem with the service itself (Step 2), then remove the app completely and[download Skype](https://www.skype.com/en/get-skype/) again.
@@ -197,8 +199,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -206,4 +206,24 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-ultimate-guide-to-the-10-most-advanced-video-call-apps/"><u>[New] Ultimate Guide to the 10 Most Advanced Video Call Apps</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-in-2024-maximize-your-experience-with-windows-11-tricks/"><u>[Updated] In 2024, Maximize Your Experience with Windows 11 Tricks</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-sonic-overlay-for-serene-scenery-on-screens/"><u>[Updated] Sonic Overlay for Serene Scenery on Screens</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-simplify-passport-photography-with-these-top-10-low-cost-solutions/"><u>2024 Approved Simplify Passport Photography with These Top 10 Low-Cost Solutions</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/4-ways-to-unlock-iphone-12-pro-max-to-use-usb-accessories-without-passcode-by-drfone-ios/"><u>4 Ways to Unlock iPhone 12 Pro Max to Use USB Accessories Without Passcode</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discover-the-perks-of-iphones-enhanced-nfc-connectivity-with-third-party-apps-a-detailed-guide/"><u>Discover the Perks of iPhone's Enhanced NFC Connectivity with Third-Party Apps - A Detailed Guide</u></a></li>
+<li><a href="https://facebook.techidaily.com/eco-friendly-total-renewable-energy-for-fb/"><u>Eco-Friendly: Total Renewable Energy for FB</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/exciting-visionos-upgrades-to-anticipate-a-glimpse-into-potential-announcements-at-this-weeks-wwdc-zdnet/"><u>Exciting VisionOS Upgrades to Anticipate: A Glimpse Into Potential Announcements at This Week's WWDC | ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/exclusive-testing-results-for-the-safest-and-most-secure-magsafe-wallets-of-2024-securitytech-today/"><u>Exclusive Testing Results for the Safest & Most Secure MagSafe Wallets of 2024 | SecurityTech Today</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/in-2024-editorxperience-deep-dive-complete-look-at-androvids-features/"><u>In 2024, EditorXperience Deep Dive – Complete Look at AndroVid's Features</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-detect-and-stop-mspy-from-spying-on-your-vivo-g2-drfone-by-drfone-virtual-android/"><u>In 2024, How to Detect and Stop mSpy from Spying on Your Vivo G2 | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-list-of-pokemon-go-joysticks-on-samsung-galaxy-m34-drfone-by-drfone-virtual-android/"><u>In 2024, List of Pokémon Go Joysticks On Samsung Galaxy M34 | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/prevent-your-mac-from-entering-sleep-mode-a-comprehensive-guide/"><u>Prevent Your Mac From Entering Sleep Mode: A Comprehensive Guide</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unlocking-effortless-transactions-mastering-apple-pay-for-in-store-and-web-purchases-zdnet-insights/"><u>Unlocking Effortless Transactions: Mastering Apple Pay for In-Store and Web Purchases | ZDNET Insights</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unlocking-the-benefits-a-step-by-step-guide-to-mastering-apple-pay-both-offline-and-online-insights/"><u>Unlocking the Benefits: A Step-by-Step Guide to Mastering Apple Pay Both Offline and Online – Insights</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unveiling-the-iphone-16-the-revolutionary-camera-button-redefines-mobile-photography-full-details-by-zdnet/"><u>Unveiling the iPhone 16: The Revolutionary Camera Button Redefines Mobile Photography – Full Details by ZDNET.</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unveiling-the-top-4-revolutionary-health-innovations-in-apples-latest-release/"><u>Unveiling the Top 4 Revolutionary Health Innovations in Apple's Latest Release</u></a></li>
+</ul></div>
 

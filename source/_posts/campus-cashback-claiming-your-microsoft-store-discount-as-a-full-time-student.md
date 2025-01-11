@@ -1,7 +1,7 @@
 ---
 title: "Campus Cashback: Claiming Your Microsoft Store Discount as a Full-Time Student"
-date: 2024-08-26T06:01:38.893Z
-updated: 2024-08-27T06:01:38.893Z
+date: 2025-01-04T21:50:52.755Z
+updated: 2025-01-10T18:45:59.671Z
 categories:
   - BestProducts
 description: "This Article Describes Campus Cashback: Claiming Your Microsoft Store Discount as a Full-Time Student"
@@ -11,6 +11,10 @@ thumbnail: https://thmb.techidaily.com/f48c4b3b1ae7e8d504b5fa9d1d43efb4b89cbd743
 
 ## Navigating Microsoft's Scholarly Promotions: Secure a Student Price Cut Today
  Microsoft sells a lot of software that's useful for students, and devices like the[Surface and Surface Pro](https://www.lifewire.com/microsoft-surface-series-4163521) are great for keeping productivity up while you're on the go. If you're an eligible student (or a parent of one), you can take advantage of Microsoft's student discount to gain free access to powerful software like[Office 365](https://www.lifewire.com/microsoft-office-for-students-teachers-2511861) and save on computers and other devices.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Get the Microsoft Student Discount
 
@@ -23,10 +27,19 @@ thumbnail: https://thmb.techidaily.com/f48c4b3b1ae7e8d504b5fa9d1d43efb4b89cbd743
 3. Select**Student Deals** from the list of store categories.  
 ![The Microsoft online store.](https://www.lifewire.com/thmb/AgZeGz5ITQKUJ8jp0pIPIsbbSzI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/003-how-to-get-a-microsoft-store-student-discount-51ae65ba3fbc4b11b3eee0030822ec9e.jpg)
 4. Locate the software or device you want to buy, and add it to your cart.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Adding an item to your cart.](https://www.lifewire.com/thmb/syXuUKJeVh9EZEPIoxTMwY8Li3g=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004-how-to-get-a-microsoft-store-student-discount-0d1004a1092e4a5dbf63a1905d0fa237.jpg)
 5. Complete the checkout process.  
 ![Checking out at the online Microsoft store.](https://www.lifewire.com/thmb/gF3Dy3jJNOJlbYJPatebpx5EyGw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/005-how-to-get-a-microsoft-store-student-discount-011f2569dab04dcb8c3c942c4cba5e55.jpg)  
  If you choose to pick up your order at a local Microsoft store, remember to bring your student ID. Microsoft doesn't verify enrollment during online purchases, but they may ask for proof of enrollment during pickup.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Who Is Eligible for Microsoft's Student Discount?
 
@@ -39,8 +52,9 @@ thumbnail: https://thmb.techidaily.com/f48c4b3b1ae7e8d504b5fa9d1d43efb4b89cbd743
 ![Person accessing the Microsoft student discount on a phone.](https://www.lifewire.com/thmb/h1sE0kaVMIxmUmfOCw7SnD4v-cI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/microsoftstudentdiscount-3fb8972d9f274cb5a0c5dbc2bc56beb1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## What Does Microsoft's Student Discount Get You?
 
  The Microsoft student discount typically provides up to 10-percent savings on hardware like desktop computers, laptops, and tablets. It also grants free access to some software, like Office 365.
@@ -53,8 +67,9 @@ Certain items are specifically excluded, including:
 * Gift cards and subscriptions to services like Xbox Game Pass.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How Does Microsoft Verify Student Enrollment?
 
  When you request the student discount at a physical Microsoft store, you need to show your student ID or some another supporting document like a class schedule, transcript, or acceptance letter.
@@ -85,8 +100,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -94,4 +107,26 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-links.techidaily.com/new-direct-transmission-of-media-files-between-iphones-for-2024/"><u>[New] Direct Transmission of Media Files Between iPhones for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-top-10-hilarious-tiktok-skits-unveiled/"><u>[Updated] 2024 Approved Top 10 Hilarious TikTok Skits Unveiled</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-exploring-the-realm-of-physical-interaction-tech/"><u>[Updated] Exploring the Realm of Physical Interaction Tech</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/essential-improvements-for-androids-ascension-as-the-preferred-os-over-ios-insights-from-tech-experts/"><u>Essential Improvements for Android's Ascension as the Preferred OS Over iOS - Insights From Tech Experts</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/exploring-the-diminutive-dynamo-the-latest-mac-minis-power-vs-size-as-featured/"><u>Exploring the Diminutive Dynamo: The Latest Mac Mini's Power Vs. Size, As Featured</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/guide-to-overcoming-screen-distortions-and-discoloration-on-computers-step-by-step-fixes/"><u>Guide to Overcoming Screen Distortions & Discoloration on Computers: Step-by-Step Fixes</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-mastering-social-media-insta-to-tiksync/"><u>In 2024, Mastering Social Media Insta-To-TikSync</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/navigating-impulse-purchases-on-prime-day-how-the-allure-of-affordable-apple-earpods-with-usb-c-led-to-my-spontaneous-acquisition-insights/"><u>Navigating Impulse Purchases on Prime Day: How the Allure of Affordable Apple EarPods with USB-C Led to My Spontaneous Acquisition | Insights</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/protecting-personal-numbers-steps-to-keep-them-secret-in-android/"><u>Protecting Personal Numbers: Steps to Keep Them Secret in Android</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-guide-achieving-verification-status-on-the-new-platform-formerly-known-as-twitter/"><u>Step-by-Step Guide: Achieving Verification Status on the New Platform Formerly Known as Twitter</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/the-secret-sauce-of-profitable-fb-ads-with-dynamic-animation/"><u>The Secret Sauce of Profitable FB Ads with Dynamic Animation</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-toms-innovation-blog-cutting-edge-insights-on-hardware-solutions/"><u>The Tom's Innovation Blog: Cutting-Edge Insights on Hardware Solutions</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-10-telegram-spy-tools-on-vivo-g2-for-parents-drfone-by-drfone-virtual-android/"><u>Top 10 Telegram Spy Tools On Vivo G2 for Parents | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-3-essential-gadgets-to-maintain-the-fresh-look-of-your-iphone-13-tips-and-tricks/"><u>Top 3 Essential Gadgets to Maintain the Fresh Look of Your iPhone 13 - Tips & Tricks</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/troubleshooting-tips-for-resolving-wii-disc-playback-errors/"><u>Troubleshooting Tips for Resolving Wii Disc Playback Errors</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ultimate-guide-activating-and-utilizing-remote-control-features-on-your-samsung-smart-tv/"><u>Ultimate Guide: Activating and Utilizing Remote Control Features on Your Samsung Smart TV</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210662634-9781633412965-uncharted/"><u>Uncharted | Free Book</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unlocking-a-smarter-home-experience-with-apples-innovative-ai-powered-assistant-supercharging-siri-insights-from-zdnet/"><u>Unlocking a Smarter Home Experience with Apple's Innovative AI-Powered Assistant, Supercharging Siri - Insights From ZDNet</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/ways-to-trade-pokemon-go-from-far-away-on-poco-c51-drfone-by-drfone-virtual-android/"><u>Ways to trade pokemon go from far away On Poco C51? | Dr.fone</u></a></li>
+</ul></div>
 

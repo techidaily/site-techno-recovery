@@ -1,7 +1,7 @@
 ---
 title: "Custom Build or Prebuilt Computer Systems: Finding the Ideal Solution for You"
-date: 2024-12-21T01:09:31.645Z
-updated: 2024-12-26T06:39:37.372Z
+date: 2025-01-09T05:07:17.375Z
+updated: 2025-01-11T00:35:11.306Z
 categories:
   - BestProducts
 description: "This Article Describes Custom Build or Prebuilt Computer Systems: Finding the Ideal Solution for You"
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/dd74ca01dbc641b737d0316c96d8a2db1900c3240
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Make an Awkward Potion in Minecraft
 
  Follow these steps to collect the materials and craft an Awkward Potion in Minecraft.  
@@ -26,28 +30,26 @@ thumbnail: https://thmb.techidaily.com/dd74ca01dbc641b737d0316c96d8a2db1900c3240
 1. Craft **Blaze Powder** with a**Blaze Rod** .  
 ![Craft Blaze Powder with a Blaze Rod.](https://www.lifewire.com/thmb/qSMCUF6bbvZMVtIw7PWru7OxLnk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001-17cf8c053f0a43a7ad87853eab45ff92.jpg)
 2. Make a**Crafting Table** with 4 wood planks. Any type of plank (**Warped Planks** , **Crimson Planks** , etc.) will do.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Make a Crafting Table with 4 wood planks.](https://www.lifewire.com/thmb/FrhprZpyD-UmvnQ8_WU_j2ywbTM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002-2b6becda954b4f6ca22144303a9d7a30.jpg)
 3. Place the Crafting Table on the ground and open it to bring up the 3X3 crafting grid.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Place the Crafting Table on the ground and open it to bring up the 3X3 crafting grid.](https://www.lifewire.com/thmb/_KMBsLRFlAKz_Vsv7IDm4NPdlsc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/003-7747868208ee4f78a3588c8c7f34ed57.jpg)
 4. Craft a **Brewing Stand** . Put**1** **Blaze Rod** in the middle of the top row, then put **3 Cobblestones** in the middle row.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Put 1 Blaze Rod in the middle of the top row, then put 3 Cobblestones in the middle row.](https://www.lifewire.com/thmb/xhvaykHAzNU4zphBdJKIhTqT72A=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004-ca12414471df435c88e8e25d694c853e.jpg)
 5. Place the **Brewing Stand** on the ground and interact with it to bring up the brewing menu.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Place the Brewing Stand on the ground and interact with it to bring up the brewing menu.](https://www.lifewire.com/thmb/YfgJEhKKlkc-7vyOQvB0NpYmHxY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/005-76b8ca6ad2c04b3c95e6a7c15bb0f401.jpg)
 6. Add**1** **Blaze Powder** to the box in the upper-left corner of the brewing menu to activate the **Brewing Stand** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![Add 1 Blaze Powder to the box in the upper-left corner to activate the Brewing Stand.](https://www.lifewire.com/thmb/ePA5ABxVZJ_IXRMUbvCLECLQryw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/006-132e911c37704b818f71e52c2a4c2b6e.jpg)
 7. Put a **Water Bottle** in one of the three boxes at the bottom of the brewing menu.  
@@ -55,17 +57,18 @@ thumbnail: https://thmb.techidaily.com/dd74ca01dbc641b737d0316c96d8a2db1900c3240
 ![Add the Water Bottle to one of the three boxes at the bottom of the brewing menu.](https://www.lifewire.com/thmb/XN8yw9gjspE70SuTZBbP7LahfTg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/007-483d26234f9a46d49dcc4cb51bdc1556.jpg)  
  Make up-to three potions at once by putting Water Bottles in the other bottom boxes.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 8. Put**1 Nether Wart** in the box at the top of the brewing menu.  
 ![Put 1 Nether Wart in the box at the top of the brewing menu.](https://www.lifewire.com/thmb/MjgshJ6DqtRW1P8bW7GvdnTRDOQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/008-7bb3bff99f2d4daebf1c93c83857ae01.jpg)
 9. Wait for the brewing process to complete. When the progress bar is full, your bottle will contain an **Awkward Potion** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![An Awkward Potion in the Minecraft brewing menu](https://www.lifewire.com/thmb/Xzcxnyt-aDK0ePczNoemcIAZvHg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/009-0b25cf0050e941f79637b623ef38296d.jpg)  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Awkward Potion Recipe
@@ -124,24 +127,20 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-high-quality-avi-media-reader-mobile-and-desktop/"><u>[New] High-Quality Avi Media Reader Mobile & Desktop</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-integrating-video-content-bringing-youtube-into-powerpoint-for-2024/"><u>[Updated] Integrating Video Content Bringing YouTube Into PowerPoint for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/choosing-between-iphone-16-and-iphone-15-key-factors-for-upgrading-to-the-latest-entry-level-apple-device-expert-insights/"><u>Choosing Between iPhone 16 and iPhone 15? Key Factors for Upgrading to the Latest Entry-Level Apple Device - Expert Insights</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/discover-the-ultimate-list-elite-note-taking-tools-dominating-2024s-digital-scene/"><u>Discover the Ultimate List: Elite Note-Taking Tools Dominating 2024'S Digital Scene</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/do-apples-airpods-pro-hold-up-since-their-launch-in-202-cuffs-assessing-worthiness-and-value-zdnet/"><u>Do Apple's AirPods Pro Hold Up Since Their Launch in 202 Cuffs? Assessing Worthiness and Value | ZDNET</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/does-itools-virtual-location-not-work-on-apple-iphone-8ipad-drfone-by-drfone-virtual-ios/"><u>Does iTools virtual location not work On Apple iPhone 8/iPad? | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/essential-guide-why-protecting-your-privacy-with-a-vpn-is-crucial-for-vision-pro-and-similar-arvr-devices-insights/"><u>Essential Guide: Why Protecting Your Privacy with a VPN Is Crucial for Vision Pro & Similar AR/VR Devices - Insights</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/exclusive-access-to-the-finest-ae-templates-all-free-for-2024/"><u>Exclusive Access to The Finest AE Templates, All-Free for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/exclusive-roundup-most-effective-tablets-of-the-year-2024-tested-and-analyzed-for-consumers/"><u>Exclusive Roundup: Most Effective Tablets of the Year 2024 Tested & Analyzed for Consumers</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/how-to-control-and-disable-amber-and-emergency-alerts-on-iphones-efficiently/"><u>How to Control and Disable Amber & Emergency Alerts on iPhones Efficiently</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-best-3-nubia-red-magic-9-proplus-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>In 2024, Best 3 Nubia Red Magic 9 Pro+ Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-realme-narzo-n55-drfone-by-drfone-virtual-android/"><u>In 2024, Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Realme Narzo N55 | Dr.fone</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ethodical-path-to-discovering-hidden-youtube-footage/"><u>The Methodical Path to Discovering Hidden YouTube Footage</u></a></li>
-<li><a href="https://discover-amazing.techidaily.com/top-dj-selections-await-you-unlock-beatsources-elite-vip-crate-collections-now/"><u>Top DJ Selections Await You - Unlock Beatsource's Elite VIP Crate Collections Now!</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/top-rated-water-resistant-smartwatch-models-in-depth-analysis-and-reviews-by-experts-techradar/"><u>Top Rated Water-Resistant Smartwatch Models - In-Depth Analysis & Reviews by Experts | TechRadar</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/top-rated-wireless-charging-devices-comprehensive-reviews-by-tech-experts/"><u>Top-Rated Wireless Charging Devices : Comprehensive Reviews by Tech Experts</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/trading-expensive-tech-why-i-switched-from-apple-vision-pro-and-meta-quest-3-to-budget-friendly-xr-glasses-read-on-at-zdnet/"><u>Trading Expensive Tech: Why I Switched From Apple Vision Pro and Meta Quest 3 to Budget-Friendly XR Glasses - Read on at ZDNET</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/ultimate-guide-to-requesting-trustedinstaller-control-in-windows-10/"><u>Ultimate Guide to Requesting TrustedInstaller Control in Windows 10</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/unveiling-hidden-gems-why-the-349-ipad-stole-the-show-at-apples-bold-new-era-launch/"><u>Unveiling Hidden Gems: Why the $349 iPad Stole the Show at Apple's Bold New Era Launch</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/re-there-legal-restrictions-to-recording-youtube-videos-in-2024/"><u>[New] Are There Legal Restrictions to Recording YouTube Videos, In 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-photo-twisting-with-professional-tools/"><u>2024 Approved Photo Twisting with Professional Tools</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-podcast-vs-youtube-the-battle-of-audio-and-visual-media/"><u>2024 Approved Podcast vs YouTube The Battle of Audio and Visual Media</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/expert-tips-for-fixing-arduino-uno-drivers-on-windows-operating-system/"><u>Expert Tips for Fixing Arduino Uno Drivers on Windows Operating System</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/explore-the-best-no-cost-solutions-for-hard-disk-inspection-july-2024s-fresh-selections/"><u>Explore the Best No-Cost Solutions for Hard Disk Inspection - July 2024'S Fresh Selections</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-bypass-icloud-lock-on-iphone-6s-plus-by-drfone-ios/"><u>How to Bypass iCloud Lock on iPhone 6s Plus</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/r-the-art-of-budget-friendly-youtubes-intros-and-ends/"><u>Master the Art of Budget-Friendly YouTubes Intros and Ends</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/mastering-multi-pin-drops-a-comprehensive-guide-on-google-maps/"><u>Mastering Multi-Pin Drops: A Comprehensive Guide on Google Maps</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/navigating-the-process-of-instagram-account-verification-for-authenticity/"><u>Navigating the Process of Instagram Account Verification for Authenticity</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/netgear-default-password-list-july-2024/"><u>NETGEAR Default Password List (July 2024)</u></a></li>
+<li><a href="https://win-docs.techidaily.com/philadelphias-premier-seo-firms-achieve-unmatched-web-presence-with-expert-strategies/"><u>Philadelphia's Premier SEO Firms: Achieve Unmatched Web Presence with Expert Strategies</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/resolving-javascript-dll-issues-a-comprehensive-guide/"><u>Resolving JavaScript DLL Issues: A Comprehensive Guide</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-fixes-for-a-nonresponsive-microsoft-edge-browser/"><u>Step-By-Step Fixes for A Nonresponsive Microsoft Edge Browser</u></a></li>
+<li><a href="https://win-forum.techidaily.com/the-ultimate-step-by-step-guide-to-reaching-system-firmware-on-windows-11-computers/"><u>The Ultimate Step-by-Step Guide to Reaching System Firmware on Windows 11 Computers</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/troubleshooting-common-biosuefi-error-messages-a-step-by-step-guide/"><u>Troubleshooting Common BIOS/UEFI Error Messages: A Step-by-Step Guide</u></a></li>
 </ul></div>
 

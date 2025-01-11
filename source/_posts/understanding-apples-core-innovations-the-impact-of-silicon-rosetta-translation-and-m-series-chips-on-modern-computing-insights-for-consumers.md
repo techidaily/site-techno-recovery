@@ -1,7 +1,7 @@
 ---
 title: "Understanding Apple's Core Innovations: The Impact of Silicon, Rosetta Translation, and M-Series Chips on Modern Computing - Insights for Consumers"
-date: 2024-12-19T00:56:32.632Z
-updated: 2024-12-25T20:37:12.361Z
+date: 2025-01-07T10:22:18.048Z
+updated: 2025-01-11T04:39:44.472Z
 tags:
   - apple
 categories:
@@ -49,7 +49,7 @@ And here's another feature that I can't imagine any users clamoring for. Now, if
 So, yeah, if Grandma Sadie in Seattle has a Vision Pro, Cousin Marty in Miami has a Vision Pro, and you have a Vision Pro in Yuma, you can all stand around the virtual photo screen and ooh and ah over pictures of baby Alice. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Gestures for opening Home View and Control Center
@@ -61,7 +61,7 @@ In VisionOS 2, there are gestures. Holding your hand palm up and tapping fingers
 Unlike the previous two features, this _is_ a quality of life improvement. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Mac virtual display improvements
@@ -72,6 +72,10 @@ Screenshot by David Gewirtz/ZDNET
 
 On the other hand, Apple "later this year" will enable you to create displays with more resolutions. The most interesting is the full wrap-around display, which will be the equivalent of two 4K monitors. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. Choo-choo train mode
 
 To be fair, Apple didn't call it that. We've [talked about the Vision Pro's travel mode](https://www.zdnet.com/article/itching-to-try-vision-pros-travel-mode-heres-what-to-expect-before-you-go/), which was mostly intended for airplane travel. 
@@ -79,7 +83,7 @@ To be fair, Apple didn't call it that. We've [talked about the Vision Pro's trav
 In VisionOS 2, Apple is announcing that there is dedicated support in travel mode for train travel. We know [people have already been successful using the Vision Pro on the train and even subway](https://www.youtube.com/shorts/8ckKAjAWLw8), but in this case, Apple presumably tweaked performance somewhat. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. New developer APIs
@@ -100,10 +104,6 @@ Screenshot by David Gewirtz/ZDNET
 
 This allows more commercial and prosumer projects where the photographer or videographer needs more control over the complex range of settings available in a more traditional camera. Those videos can then be edited in Final Cut Pro, Apple's only mention of Final Cut during WWDC. There's also a new Vimeo app for VisionOS, that will allow spatial videos to be shared. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 8\. Third-party immersive video workflow
 
 One of the truly breathtaking experiences of the Vision Pro is what Apple calls Immersive video. This is a very big step beyond the typical 3D video we've seen in movies and TV shows. The entire experience wraps around you 180 degrees. When it's done right, it's astonishing. 
@@ -114,10 +114,6 @@ Apple is opening up the format for third-party creators to create immersive vide
 
 Even so, I think this is great. Those immersive videos are fantastic. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Other new features
 
 Apple didn't cover all the new features during its announcement. At the end of the Vision Pro segment, the company put up one of its feature grid graphics (shown at the beginning of this article). Here are a few that weren't mentioned: 
@@ -126,6 +122,10 @@ Apple didn't cover all the new features during its announcement. At the end of t
 * **Keyboard breakthrough:** This was another feature I felt it was important for Apple to introduce, and apparently it will be available. No mention was made of it, so we have no idea if it's limited solely to Apple's own keyboards (but that's probably the case).
 * **Bora Bora environment:** I wanted to see more environments and we get…one. Personally, I think all the work on spatial photos and spatial videos could have been replaced with the ability for third parties to create 3D environments, but Apple didn't go there. But hey, Bora Bora, right?
 * **Rearrangeable Home View:** This was also not described but I'm guessing this means you can move around the Home icons.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  What do you think?
 
@@ -171,22 +171,19 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-birds-bamboo-boogie-for-2024/"><u>[New] Birds Bamboo Boogie for 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/new-comprehensively-understanding-manual-signal-recognition/"><u>[New] Comprehensively Understanding Manual Signal Recognition</u></a></li>
-<li><a href="https://some-tips.techidaily.com/new-syma-x5c-review-best-drone-for-beginner/"><u>[New] Syma X5C Review Best Drone for Beginner</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-navigating-tiktok-profile-updates-with-linktree-integration/"><u>[Updated] Navigating TikTok Profile Updates with Linktree Integration</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/airtag-accessory-showdown-of-the-year-2024-thoroughly-tested-and-analyzed-zdnet/"><u>AirTag Accessory Showdown of the Year 2024: Thoroughly Tested & Analyzed | ZDNET</u></a></li>
-<li><a href="https://techidaily.com/all-things-you-need-to-know-about-wipe-datafactory-reset-for-samsung-galaxy-m34-5g-drfone-by-drfone-reset-android-reset-android/"><u>All Things You Need to Know about Wipe Data/Factory Reset For Samsung Galaxy M34 5G | Dr.fone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/discover-how-to-see-public-instagram-posts-without-logging-in/"><u>Discover How to See Public Instagram Posts Without Logging In</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/fixing-no-sound-problems-in-stereo-systems-a-comprehensive-guide/"><u>Fixing No-Sound Problems in Stereo Systems: A Comprehensive Guide</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-music-from-poco-x5-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Music from Poco X5 to iPod | Dr.fone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/iphone-12-now-features-enhanced-qi-wireless-charging-without-relying-on-magsafe-what-you-need-to-know-techspot/"><u>IPhone 12 Now Features Enhanced Qi Wireless Charging Without Relying on MagSafe: What You Need to Know | TechSpot</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/mastering-cross-platform-chat-learn-to-use-imessage-for-windows-insights-by-zdnet-experts/"><u>Mastering Cross-Platform Chat: Learn to Use iMessage for Windows - Insights by ZDNet Experts</u></a></li>
-<li><a href="https://extra-support.techidaily.com/premier-live-tv-service-showdown-a-comparative-look-for-2024/"><u>Premier Live TV Service Showdown A Comparative Look for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/samsung-galaxy-watch-7-what-you-need-to-know-about-price-availability-and-technical-specifications/"><u>Samsung Galaxy Watch #7: What You Need to Know About Price, Availability, and Technical Specifications</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/step-by-step-solution-restarting-and-repairing-your-zoom-camera-malfunction/"><u>Step-by-Step Solution: Restarting and Repairing Your Zoom Camera Malfunction</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/the-ambient-ws-2902a-osprey-weather-station-an-economical-choice-with-a-multitude-of-features/"><u>The Ambient WS-2902A Osprey Weather Station - An Economical Choice with a Multitude of Features</u></a></li>
-<li><a href="https://discover-guides.techidaily.com/ultimate-guide-playing-mp4-videos-smoothly-on-ios-devices-without-glitches/"><u>Ultimate Guide: Playing MP4 Videos Smoothly on iOS Devices Without Glitches</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/why-i-prefer-my-apple-watch-series-7-over-the-upcoming-series-10-insights-from-tech-guru/"><u>Why I Prefer My Apple Watch Series 7 Over the Upcoming Series 10 - Insights From Tech Guru</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-in-2024-introduction-to-basic-animation-in-graphic-design/"><u>[New] In 2024, Introduction to Basic Animation in Graphic Design</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-positive-persuasion-techniques-for-listener-loyalty/"><u>[New] Positive Persuasion Techniques for Listener Loyalty</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-story-structuring-at-its-core-for-2024/"><u>[Updated] Story Structuring at Its Core for 2024</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/android-reunion-photos-and-contacts/"><u>Android Reunion: Photos and Contacts</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/comprehensive-tp-link-re505x-range-extender-evaluation/"><u>Comprehensive TP-Link Re505x Range Extender Evaluation</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/guide-to-diagnosing-and-solving-non-receipt-of-smsmms-in-android-phones/"><u>Guide to Diagnosing and Solving Non-Receipt of SMS/MMS in Android Phones</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-methods-to-change-gps-location-on-itel-p55-drfone-by-drfone-virtual-android/"><u>In 2024, Methods to Change GPS Location On Itel P55 | Dr.fone</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/samsung-un65nu8000fxza-analysis-is-this-premium-smart-tv-worth-the-cost/"><u>Samsung UN65NU8000FXZA Analysis: Is This Premium Smart TV Worth the Cost?</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-guide-booking-your-visit-with-apple-geniuses/"><u>Step-by-Step Guide: Booking Your Visit with Apple Geniuses</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-tutorial-on-watching-and-sharing-2024-summer-olympics-online/"><u>Step-by-Step Tutorial on Watching and Sharing 2024 Summer Olympics Online</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-ultimate-checklist-key-aspects-to-review-pre-smartwatch-purchase/"><u>The Ultimate Checklist: Key Aspects to Review Pre-Smartwatch Purchase</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-9-solutions-for-troubleshooting-your-non-charging-airpods/"><u>Top 9 Solutions for Troubleshooting Your Non-Charging AirPods</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unraveling-the-mystery-behind-a-computers-bsod-issue/"><u>Unraveling the Mystery Behind a Computer's BSOD Issue</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-unleash-creativity-top-free-video-effects-apps-for-iphone-and-android-for-2024/"><u>Updated Unleash Creativity Top Free Video Effects Apps for iPhone and Android for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Top 5 Essentials: Evaluating Your Next Purchase of a Pre-Owned Laptop"
-date: 2024-08-26T06:03:18.001Z
-updated: 2024-08-27T06:03:18.001Z
+date: 2025-01-10T04:31:49.549Z
+updated: 2025-01-11T10:33:52.824Z
 categories:
   - BestProducts
 description: "This Article Describes Top 5 Essentials: Evaluating Your Next Purchase of a Pre-Owned Laptop"
@@ -19,6 +19,10 @@ In This Article
 * [Frequently Asked Questions](https://www.lifewire.com/#toc-frequently-asked-questions-c6fed4bb-9136-4083-9e82-76db0f224b34)
 
  _Heading back to school each year involves more than grabbing a backpack and pencils, whether you're studying online, in a building, or via homeschooling. My kids are in middle and high school, with a college student in the mix as well. Our family has found different tech tools helpful at various points in their educational journeys._
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Must-Haves: Computers, Laptops and Peripherals
 
@@ -44,6 +48,10 @@ Skynesher/Getty
 
  As you make your purchases, consider how long the item will last with your child. Some kids are rough on technology, while others are more thoughtful and responsible; age often dictates how nice I'm willing to purchase for a specific child.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Look for Student Discounts
 
  Check for discounts before you buy! Several major tech manufacturers offer student discounts, including HP and[Dell](https://www.lifewire.com/dell-student-discount-4686335) . Some retailers, like[Best Buy](https://www.lifewire.com/best-buy-student-discount-4684485) , offer back-to-school deals as well.
@@ -60,9 +68,6 @@ Skynesher/Getty
 
 ![](<https://www.lifewire.com/data:image/svg+xml,%3Csvg> width=%275751%27 height=%272313%27 xmlns=%27<http://www.w3.org/2000/svg%27%3E%3Cg%3E%3C/g%3E%3C/svg%3E>) ![Hands holding a smartphone with a red smartwatch on wrist over a pencil and paper.](https://www.lifewire.com/thmb/nSqWQLOUlnMzLJD1rc7f4f2qO5g=/1500x0/filters:no_upscale():max_bytes(200000):strip_icc():format(webp)/smartwatchandphone_yacobchuk_GettyImages-693332444_CROPPED-616820cc68f645c09d7153ccc1de07ff.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Connections: The Power of Phones and Smartwatches
 
  Phones can be a bone of contention for parents and kids everywhere, but the simple fact of the matter is they are fast becoming a staple for students from middle school and up.
@@ -90,11 +95,13 @@ Skynesher/Getty
 ![](<https://www.lifewire.com/data:image/svg+xml,%3Csvg> width=%275483%27 height=%272329%27 xmlns=%27<http://www.w3.org/2000/svg%27%3E%3Cg%3E%3C/g%3E%3C/svg%3E>) ![Composite drawing of books apps and devices against a blue background.](https://www.lifewire.com/thmb/afdEJWLn5Hja0WRtjgBJQP3K-8k=/1500x0/filters:no_upscale():max_bytes(200000):strip_icc():format(webp)/Compositedrawingofbooksappsanddevices_grapihcnoi_GettyImages-174551865_CROPPED-17467a01a2e44bf98bfc135e8a7cff43.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Using Apps and Sites Can Support Good Study Habits
 
  Be careful and thoughtful if you're considering using ChatGPT for your child. It can certainly be helpful in some ways (think: helping to spark ideas for a snappy essay title), but AI tools like this essentially scrub the internet for information, which isn't always accurate and can frequently be considered plagiarism if used verbatim. Encourage your child to do their internet research instead.
@@ -102,8 +109,9 @@ Skynesher/Getty
 ![Female student walking with a tablet, smartphone, and headphones.](https://www.lifewire.com/thmb/xlh2OPH52kBp--XJzwjVyR_lZN0=/960x0/filters:no_upscale():max_bytes(200000):strip_icc():format(webp)/Studentwithtabletphoneheadphones_COROIMAGE_GettyImages-1429193388_VERTICALCROP-5f30ba23f2f64ada861c3283ce518740.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Back to school means more than finding the right books this year. While those are crucial (and often spendy), a frequently overlooked aspect of getting back into the school groove involves finding and using the right apps to support learning, enhance productivity, and improve organization tactics.
 
  If your child loves using their smartphone, give them something parent-approved to use!
@@ -143,14 +151,11 @@ Skynesher/Getty
 * What percentage of schools use technology?  
  About 45 percent of all schools have a computer for every student; another 37 percent provide computers for students in at least some grades or classrooms. More than 70 percent of schools say their teachers use technology for activities usually done in the classroom. Source: The Institute of Education Sciences.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -159,4 +164,26 @@ Skynesher/Getty
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-design-excellence-premier-templates-and-free-2023-plan-guide/"><u>[Updated] 2024 Approved Design Excellence Premier Templates & Free 2023 Plan Guide</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-breaking-barriers-7-top-tools-for-artists-transforming-into-nfts-for-2024/"><u>[Updated] Breaking Barriers 7 Top Tools for Artists Transforming Into NFTs for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-front-seat-recreation-10-non-athletic-delights/"><u>2024 Approved Front Seat Recreation 10 Non-Athletic Delights</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-the-finest-videography-tools/"><u>2024 Approved The Finest Videography Tools</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/comprehensive-solutions-to-address-mscorwksdll-missing-issues/"><u>Comprehensive Solutions to Address MSCORWKS.DLL Missing Issues</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/connect-and-share-the-essential-guide-to-joining-in-on-shared-photo-albums-using-your-iphone/"><u>Connect and Share: The Essential Guide to Joining in on Shared Photo Albums Using Your iPhone</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/elevate-your-edits-pro-level-photo-color-techniques/"><u>Elevate Your Edits Pro-Level Photo Color Techniques</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/tial-asmr-channel-discoveries-for-2024/"><u>Essential ASMR Channel Discoveries for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/eu-watchdogs-encouraged-by-google-to-compel-apples-transparency-in-imessage-services/"><u>EU Watchdogs Encouraged by Google to Compel Apple's Transparency in iMessage Services</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/exposing-apples-bold-strategy-against-leading-browser-market-share-a-detailed-look-at-their-new-ad-campaign/"><u>Exposing Apple's Bold Strategy Against Leading Browser Market Share: A Detailed Look at Their New Ad Campaign</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/in-2024-fix-the-tiktok-refresh-error-instantly/"><u>In 2024, Fix the TikTok Refresh Error Instantly</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/is-it-time-for-a-reply-yet-identifying-if-someones-read-your-text/"><u>Is It Time for a Reply Yet? Identifying If Someone's Read Your Text</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/keep-your-ipad-iphone-and-macbook-energized-and-cool-using-our-recommended-3-in-1-magsafe-charger-insights-from-zdnet/"><u>Keep Your iPad, iPhone & MacBook Energized and Cool Using Our Recommended 3-in-1 MagSafe Charger - Insights From ZDNET</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/say-goodbye-to-spam-protect-your-iphone-with-these-three-essential-text-blocking-strategies-by-zdnet/"><u>Say Goodbye to Spam: Protect Your iPhone with These Three Essential Text-Blocking Strategies by ZDNet</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/the-best-ispoofer-alternative-to-try-on-motorola-moto-g84-5g-drfone-by-drfone-virtual-android/"><u>The Best iSpoofer Alternative to Try On Motorola Moto G84 5G | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-microphones-for-gamers-enhance-your-streaming-experience/"><u>Top-Rated Microphones for Gamers: Enhance Your Streaming Experience</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ultimate-guide-linking-your-amazon-firestick-with-any-projector/"><u>Ultimate Guide: Linking Your Amazon Firestick with Any Projector</u></a></li>
+<li><a href="https://extra-information.techidaily.com/unveiling-the-magic-behind-gopro-hero5-sessions/"><u>Unveiling the Magic Behind GoPro Hero5 Sessions</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/wi-fi-mesh-networks-are-they-truly-worth-the-investment/"><u>Wi-Fi Mesh Networks: Are They Truly Worth the Investment?</u></a></li>
+</ul></div>
 

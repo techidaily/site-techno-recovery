@@ -1,7 +1,7 @@
 ---
 title: "Mastering PowerPoint Sound Issues: Tips and Techniques for Flawless Playback"
-date: 2024-08-26T06:05:37.738Z
-updated: 2024-08-27T06:05:37.738Z
+date: 2025-01-08T09:50:35.324Z
+updated: 2025-01-10T18:39:32.666Z
 categories:
   - BestProducts
 description: "This Article Describes Mastering PowerPoint Sound Issues: Tips and Techniques for Flawless Playback"
@@ -10,6 +10,11 @@ thumbnail: https://thmb.techidaily.com/079f54d22d3743bae1a3750a1c4c3f2c075ed5c93
 ---
 
 ## Effortless Techniques for Inserting Text-Based Programming Into Microsoft Word
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### What to Know
 
 * Go to**Insert** \>**Object** \>**Microsoft Word Document** \>**OK** to prepare a new document.
@@ -17,6 +22,10 @@ thumbnail: https://thmb.techidaily.com/079f54d22d3743bae1a3750a1c4c3f2c075ed5c93
 * You can also use**Paste Special** to insert a variety of data into a document, including code.
 
  This article explains how to insert code in Word. Directions apply to Word 2010 and newer, including Word 2021 and Microsoft 365.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Insert Code in Word With an Embedded Document
 
@@ -34,17 +43,24 @@ These instructions only work with a single page of code.
 4. Clear the**Display as icon** check box.  
 ![Create New Object window in Word with the Display as icon box highlighted](https://www.lifewire.com/thmb/WfEAUTUH0LAddtO-6cyGBZT-mD0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/005-insert-source-code-into-word-document-3994582-4b2746dea1ed49bcada5827d208e1b0e.jpg)
 5. Select**OK** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Create New Object window in Word with the OK button highlighted](https://www.lifewire.com/thmb/8N0g_QZk5AJ8wFNEQ383YZ-mRsQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/006-insert-source-code-into-word-document-3994582-14b9900cd90341d1a925d63b07c467df.jpg)
 6. A new document opens, titled **Document in \[_target document file name_ \]** . Save the document in the same folder as the original document.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 7. [Copy and paste the source code](https://www.lifewire.com/cut-copy-and-paste-in-microsoft-word-4159583) into the new document. Word automatically ignores the spaces, tabs, and other formatting problems. Spelling errors and grammatical errors are highlighted in the document, but these errors are ignored when the code is inserted in the original document.  
 ![Microsoft Word displaying source code to insert into a Word presentation document](https://www.lifewire.com/thmb/AxWUG0N0zvb3wxwA_zIcMWY9qiI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/NewSourceCode-d276da35f0ba4f36aafddaa578cad3b0.jpg)
 8. Save and close the source code document. The code automatically appears in the main document.  
 ![Microsoft Word document with source code inserted](https://www.lifewire.com/thmb/7dbJ_9k3xe_LaP-2rOEy3ktFY-0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/PresentationWithCode-dc19c6dcca694a798e9e41a2be2eac71.jpg)  
  You can't edit this object directly because it's really just an embedded document. Double-click the object to quickly open the document with the code.
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
-<!-- affiliate ads end -->
 ## Using Different Paste Types in Word
 
  Modern versions of Word handle code better than they used to. Word for[Microsoft 365](https://www.lifewire.com/microsoft-office-4156573) supports several forms of pasting, including with and without source formatting. So pasting a block of code from your code-editing app will look different based on the paste type.
@@ -56,8 +72,9 @@ These instructions only work with a single page of code.
 * **Unformatted Unicode Text** : Pastes the text as is but strips the text and background colors. Re-format the code as needed.
 
 <!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## The Problem With Using Source Code in Word
 
  Programmers write software programs using languages like Java, C++, and HTML. Programming languages use different formatting and symbols from regular languages, so pasting a snippet of code into Word from a programming application causes errors such as text reformatting, indentation shifts, link creation, and misspellings.
@@ -95,8 +112,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -104,4 +119,20 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-the-role-of-analytics-in-amplifying-your-youtube-presence/"><u>[Updated] In 2024, The Role of Analytics in Amplifying Your YouTube Presence</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/apple-upgrades-logic-pro-with-innovative-ai-musicians-to-empower-tablet-and-desktop-producers-on-zdnet/"><u>Apple Upgrades Logic Pro with Innovative AI 'Musicians' To Empower Tablet and Desktop Producers on ZDNET</u></a></li>
+<li><a href="https://windows11.techidaily.com/boosting-taskbar-efficiency-win11-guide/"><u>Boosting Taskbar Efficiency: Win11 Guide</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/essential-steps-to-experience-superman-saga-correctly/"><u>Essential Steps to Experience Superman Saga Correctly</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-ensure-fluid-playthrough-addressing-stutter-in-ac-valhalla-for-pc-users/"><u>How to Ensure Fluid Playthrough: Addressing Stutter in AC Valhalla for PC Users</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-top-websites-for-rhythmic-alerts-unique-sounds/"><u>In 2024, Top Websites for Rhythmic Alerts Unique Sounds</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-updated-query-catalog-to-connect-with-podcast-loyalists/"><u>In 2024, Updated Query Catalog to Connect with Podcast Loyalists</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/iphone-photography-revolutionized-capturing-live-events-in-ios-16-explained/"><u>IPhone Photography Revolutionized: Capturing Live Events in iOS 16 Explained</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mercedes-benz-introduces-chatgpt-with-voice-control-to-its-vehicles/"><u>Mercedes-Benz Introduces ChatGPT With Voice Control to Its Vehicles</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-guide-adding-emails-to-your-safe-list-in-gmail/"><u>Step-by-Step Guide: Adding Emails to Your Safe List in Gmail</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-5-car-locator-apps-for-samsung-galaxy-a15-4g-drfone-by-drfone-virtual-android/"><u>Top 5 Car Locator Apps for Samsung Galaxy A15 4G | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-rated-airtag-wallet-picks-for-2/"><u>Top-Rated AirTag Wallet Picks for 2</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unveiling-secrets-to-swapping-out-cellphones-glass-scratch-guard-successfully/"><u>Unveiling Secrets to Swapping Out Cellphone's Glass Scratch Guard Successfully</u></a></li>
+</ul></div>
 

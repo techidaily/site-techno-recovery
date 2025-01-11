@@ -1,7 +1,7 @@
 ---
 title: Mastering Multiple Network Interfaces on macOS - A Step-by-Step Guide
-date: 2024-12-23T05:44:25.810Z
-updated: 2024-12-25T21:51:50.643Z
+date: 2025-01-03T22:59:00.817Z
+updated: 2025-01-10T21:46:52.943Z
 tags:
   - apple
 categories:
@@ -45,7 +45,7 @@ There's just one sticking point: Neither app supports Windows 10\. Phone Link an
 ## How to send and receive iMessages on Windows
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Use Microsoft Phone Link
@@ -66,6 +66,10 @@ Click the Start button, go to All Apps, and select Phone Link from the list. The
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Scan the QR codes
 
 A QR code should appear in the Phone Link app. Launch the camera on your iPhone and scan the code. On your iPhone, tap the link at the bottom of the camera screen to pair your devices. If you can't scan the code for any reason, click the link to continue manually without a QR code and follow those steps.
@@ -76,19 +80,11 @@ You should see pairing prompts on both your iPhone and your Windows 11 computer.
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. Sync your iPhone data
 
 Your phone should ask if you want your PC to receive notifications from your iPhone. Tap Allow to OK this. Go to the Bluetooth settings screen on your phone, tap the Info icon for your computer, and turn on the switches for Show Notifications, Sync Contacts, and Share System Notifications. Doing so will let you fully access and use the apps and data from your phone on your PC, including messages.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. Run Phone Link
 
@@ -96,15 +92,15 @@ The Phone Link welcome screen should appear on your PC and ask if you want to op
 
 Screenshot by Lance Whitney/ZDNET
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 5\. Access your recent messages
 
 To access your iPhone's text messages in Phone Link, tap the Messages heading at the top. You should see any recent messages sent to you since Phone Link has been active. If there are any, type a response to a message and send it. You can then carry on a conversation from either your iPhone or your PC, and the two will sync with each other.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Start a new chat
 
@@ -146,6 +142,10 @@ At the Messages screen, click the icon for "Compose a new message." Choose the r
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. Send a message
 
 Compose and send your message. Wait for the other person to respond. You can then carry on a conversation in the Windows Unison app or in iMessages on your iPhone as the texts sync between the two apps.
@@ -153,7 +153,7 @@ Compose and send your message. Wait for the other person to respond. You can the
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Receive a message
@@ -192,14 +192,20 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-full-examination-evaluating-the-gecata-analyzer/"><u>[New] 2024 Approved Full Examination Evaluating the Gecata Analyzer</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-solutions-to-decipher-muted-facebook-videos/"><u>[New] Solutions to Decipher Muted Facebook Videos</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/anticipated-release-apple-integrates-next-gen-m4-ai-chips-across-all-mac-models-schedule-insights/"><u>Anticipated Release: Apple Integrates Next-Gen M4 AI Chips Across All Mac Models - Schedule Insights</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/cookiebot-driven-analytics-elevate-your-websites-performance/"><u>Cookiebot-Driven Analytics: Elevate Your Website's Performance</u></a></li>
-<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-7-plus-to-an-older-ios-system-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone 7 Plus to an Older iOS System Version? | Dr.fone</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-best-investments-elite-4k-dslr-mounting-solutions/"><u>In 2024, Best Investments Elite 4K DSLR Mounting Solutions</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/pixel-vs-powerhouse-comparing-the-latest-from-google-and-apple-who-stands-out-in-the-world-of-smartwatches/"><u>Pixel Vs. Powerhouse: Comparing the Latest From Google and Apple - Who Stands Out in the World of Smartwatches?</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/troubleshooting-steps-resolving-playstation-tv-and-fire-stick-issues-with-paramountplus-service/"><u>Troubleshooting Steps: Resolving PlayStation TV & Fire Stick Issues with Paramount+ Service</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/why-i-choose-to-keep-my-apple-watch-series/"><u>Why I Choose to Keep My Apple Watch Series</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-digital-diving-into-youtubes-veiled-video-vaults-for-2024/"><u>[New] Digital Diving Into YouTube’s Veiled Video Vaults for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-elite-selection-of-nintendo-switch-fighting-games-max-156-for-2024/"><u>[New] Elite Selection of Nintendo Switch Fighting Games (Max 156) for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-mastering-the-art-of-ignoring-ig-suggestions-for-2024/"><u>[New] Mastering the Art of Ignoring IG Suggestions for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-unraveling-the-mysteries-of-digital-content-optimization-on-youtube/"><u>[Updated] In 2024, Unraveling the Mysteries of Digital Content Optimization on YouTube</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-cutting-edge-websites-for-digital-3d-gold-text-art/"><u>2024 Approved Cutting-Edge Websites for Digital 3D Gold Text Art</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/approved-navigating-youtubes-rules-the-safe-way/"><u>2024 Approved Navigating YouTube's Rules The Safe Way</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discover-the-leading-parental-monitoring-solutions/"><u>Discover the Leading Parental Monitoring Solutions</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/effective-methods-to-freeze-unnecessary-android-background-processes/"><u>Effective Methods to Freeze Unnecessary Android Background Processes</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/five-critical-considerations-for-selecting-a-quality-activity-tracker/"><u>Five Critical Considerations for Selecting a Quality Activity Tracker</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/fixing-coredll-errors-quickly-and-easily/"><u>Fixing Core.DLL Errors Quickly and Easily</u></a></li>
+<li><a href="https://win-brilliant.techidaily.com/free-online-converter-turn-wma-files-into-mp3-format-with-movavi/"><u>Free Online Converter: Turn WMA Files Into MP3 Format with Movavi</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-4-ways-to-transfer-music-from-infinix-note-30-5g-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 4 Ways to Transfer Music from Infinix Note 30 5G to iPhone | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-xiaomi-redmi-k70withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Xiaomi Redmi K70with/without a PC</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-ultimate-guide-to-selecting-a-quality-previously-owned-ipad-5-critical-considerations/"><u>The Ultimate Guide to Selecting a Quality Previously Owned iPad (5 Critical Considerations)</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/troubleshooting-techniques-for-rectifying-a-whea-irrecoverable-fault/"><u>Troubleshooting Techniques for Rectifying a WHEA Irrecoverable Fault</u></a></li>
 </ul></div>
 

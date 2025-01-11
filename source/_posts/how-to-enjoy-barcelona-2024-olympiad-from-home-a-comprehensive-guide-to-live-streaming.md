@@ -1,7 +1,7 @@
 ---
 title: How to Enjoy Barcelona 2024 Olympiad From Home - A Comprehensive Guide to Live Streaming
-date: 2024-08-26T06:03:36.379Z
-updated: 2024-08-27T06:03:36.379Z
+date: 2025-01-06T22:36:27.208Z
+updated: 2025-01-10T21:45:04.759Z
 categories:
   - BestProducts
 description: This Article Describes How to Enjoy Barcelona 2024 Olympiad From Home - A Comprehensive Guide to Live Streaming
@@ -43,25 +43,31 @@ Close
 
  In addition to the NBC Sports website, you can also download an NBC Sports[ app](https://www.lifewire.com/what-are-apps-1616114) for your phone, streaming device, or even game console. For more information about official NBC streams and additional Olympics coverage, check out[ NBCOlympics.com](https://www.nbcolympics.com/) .
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  How to Watch the NBC Sports Live Stream for Free 
 
 1. Navigate to the[ NBC Olympics Channel](http://stream.nbcsports.com/nbc/watch-olympic-channel) . The player will load, and Olympics coverage will be play if any event or other programming is currently live.  
 ![A screenshot of the Olympics on NBC Sports.](https://www.lifewire.com/thmb/UxEZ2c2brBtv7hHZuq7yYhTDwpg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/1-9de2b04320c34c62a089aa06525cb468.JPG)  
  NBC Sports only allows you to watch a short live preview by default. Users with valid cable or satellite subscriptions can remove this time limit.
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 2. When your limited preview expires, and you either have or can borrow a cable login, scroll down and select**VERIFY NOW** .  
 ![A screenshot of the limited free preview of NBC Sports.](https://www.lifewire.com/thmb/PkYWDhXk4bXGuZFzm5O5oCacnRQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/2-bf38e1e9463841a89153651f1f6c7ba3.JPG)
 3. Select your cable or satellite provider.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![A screenshot of TV providers on NBC Sports.](https://www.lifewire.com/thmb/GiKMUQCS0hciJBzv-isQjvNH78Q=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/3-bcdc9b689bc64587b76c0f9013b691fc.JPG)
 4. Log into your cable or satellite account.  
+
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![A screenshot of the TV provider login on NBC Sports.](https://www.lifewire.com/thmb/GbpDZfv2-0L8KSsy-exSaeTNUfs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/4-e588b698cf314d4b9444bc91c5d9ec36.JPG)
 5. If you provide valid login information, NBC Sports will remove the time limit, and you'll be able to watch the entire event.  
  Since the NBC Sports website only provides a short free trial viewing period, this isn't a good method for cord-cutters. For a longer trial, look at services like Hulu or fuboTV.
@@ -73,8 +79,9 @@ Close
 ![Gold Medalist Sunisa Lee of USA during the medals ceremony the gymnastics artistic Women's All-Around Final on day six of the Tokyo 2020 Olympic Games at Ariake Gymnastics Centre on July 29, 2021 in Tokyo, Japan.](https://www.lifewire.com/thmb/4TQ5wPSF8Rwx_Xvo8p2q9kyQC4c=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Sunisa_Lee_GettyImages-1331330797-06600495fda84b7d917a3e68264ea194.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Gold Medalist Sunisa Lee of USA during the medals ceremony for the gymnastics artistic Women's All-Around Final.  Jean Catuffe/Getty Images 
 
  Each of these streaming services has signed deals with networks and TV stations, which allows them to broadcast live television. That's why you get access to a live NBC stream on some services, and others only provide you with on-demand pre-recorded content from NBC. Availability is based on your physical location and whether or not any given service has made a deal with your local NBC affiliate.
@@ -85,9 +92,6 @@ Close
 * [ Sling TV](https://www.lifewire.com/sling-tv-4154536) : NBC is only available in select markets through this service, but it's a very affordable option if your area is covered.
 * [ fuboTV](https://www.lifewire.com/fubotv-4159948) : This sports-focused streaming service has limited NBC coverage, but it's still worth checking out in case your area is included.
 
-<!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Watching an Olympics Online Stream on Mobile, Streaming Devices, and Consoles 
 
  In addition to streaming through a web browser on your computer, you can also stream the Olympics on your phone, tablet, streaming device, and even game console if you have the right app. Check your app store to get the app you need for your device.
@@ -95,8 +99,9 @@ Close
  NBC Sports has apps for most major devices, but you still need a valid cable or satellite subscription to log in.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Can You Watch the Olympics With an Antenna? 
 
  Since NBC has the rights to the Olympics in the United States, you can watch a lot of coverage for free if you have an antenna and a local NBC affiliate. You'll miss out on any coverage NBC shifts to its cable channels and online streams, but the most popular events are usually broadcast on NBC.
@@ -131,8 +136,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -140,4 +143,26 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-achieving-fluidity-in-audio-blending-using-audacity-tools/"><u>[New] In 2024, Achieving Fluidity in Audio Blending Using Audacity Tools</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-the-ultimate-process-to-update-your-videos-cover-images/"><u>[New] The Ultimate Process to Update Your Videos' Cover Images</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-transform-viewing-experience-with-these-leading-top-ranked-cost-free-and-on-demand-video-downloaders/"><u>[Updated] 2024 Approved Transform Viewing Experience with These Leading Top-Ranked, Cost-Free & On-Demand Video Downloaders</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-next-level-entertainment-the-rise-of-vr-applications/"><u>[Updated] Next-Level Entertainment The Rise of VR Applications</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-voice-overhaul-made-simple-explore-7-best-audio-editing-apps/"><u>2024 Approved Voice Overhaul Made Simple Explore 7 Best Audio Editing Apps</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/apple-empowers-thousands-with-cutting-edge-ai-education-exclusive-insight-from-zdnet/"><u>Apple Empowers Thousands with Cutting-Edge AI Education - Exclusive Insight From ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/clear-iphone-photos-every-time-overcoming-camera-focusing-difficulties/"><u>Clear iPhone Photos Every Time: Overcoming Camera Focusing Difficulties</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discover-the-best-resources-your-guide-to-free-book-downloads-online/"><u>Discover the Best Resources: Your Guide to Free Book Downloads Online</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/fixing-the-elusive-osetupdll-error-a-comprehensive-solution/"><u>Fixing the Elusive osetup.dll Error: A Comprehensive Solution</u></a></li>
+<li><a href="https://discover-community.techidaily.com/high-fidelity-cloning-techniques-for-the-hunger-games-movie-part-2-on-dvd-format/"><u>High-Fidelity Cloning Techniques for The Hunger Games Movie (Part 2) on DVD Format</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ideal-mobile-devices-for-children-features-safety-and-selection-tips/"><u>Ideal Mobile Devices for Children: Features, Safety & Selection Tips</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/iphone-14-showdown-pro-vs-pro-max-deciding-on-the-ideal-device-for-tech-enthusiasts/"><u>IPhone 14 Showdown: Pro Vs. Pro Max - Deciding on the Ideal Device for Tech Enthusiasts</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/pokemon-go-cooldown-chart-on-xiaomi-redmi-note-13-proplus-5g-drfone-by-drfone-virtual-android/"><u>Pokémon Go Cooldown Chart On Xiaomi Redmi Note 13 Pro+ 5G | Dr.fone</u></a></li>
+<li><a href="https://discover-blog.techidaily.com/step-by-step-guide-trimming-and-cropping-videos-with-windows-media-player/"><u>Step-by-Step Guide: Trimming and Cropping Videos with Windows Media Player</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-ultimate-walkthrough-for-taking-plus-sharing-your-nintendo-screen-moments/"><u>The Ultimate Walkthrough for Taking + Sharing Your Nintendo Screen Moments</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/top-5-low-cost-pinterest-video-download-software-for-2024/"><u>Top 5 Low-Cost Pinterest Video Download Software for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/tutorial-detaille-sur-lutilisation-de-la-fonction-denregistrement-decran-dans-vlc-dernieres-mises-a-jour-et-ameliorations-par-movavi/"><u>Tutorial Détaillé Sur L'utilisation De La Fonction D’enregistrement D'écran Dans VLC : Dernières Mises À Jour Et Améliorations Par Movavi</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unveiling-apples-chilling-challenge-to-global-leading-web-browsers-a-deep-dive-visit-zdnet-for-details/"><u>Unveiling Apple's Chilling Challenge to Global Leading Web Browsers: A Deep Dive - Visit ZDNET for Details</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/upgrade-with-thrill-discover-the-iphone-16s-three-game-changing-innovations-as-spotlighted-by-zdnet/"><u>Upgrade with Thrill: Discover the iPhone 16'S Three Game-Changing Innovations, as Spotlighted by ZDNet</u></a></li>
+</ul></div>
 

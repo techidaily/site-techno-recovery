@@ -1,7 +1,7 @@
 ---
 title: Score a Discounted New iPad (9Th Generation) at Only $250 Following Apple Event - Insights From ZDNet
-date: 2025-01-03T16:04:20.944Z
-updated: 2025-01-04T16:20:57.309Z
+date: 2025-01-09T03:54:06.992Z
+updated: 2025-01-11T08:25:35.939Z
 tags:
   - apple
 categories:
@@ -32,7 +32,7 @@ The [Apple iPad (9th Generation)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%
 If the 9th Gen is too outdated for your liking, the [iPad 10th Gen](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BJLXMVMV%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C0e4f34d4-230d-440c-8396-9b59edfffe70%7Cdtp&dtb=1) is also discounted right now, down to only $349 after Apple [dropped the price by $100](https://www.zdnet.com/article/this-349-ipad-was-secretly-the-best-announcement-during-the-apple-event/) following the announcement of their new iPads. This model features a 10.9-inch Liquid Retina display with 64GB of storage. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -69,16 +69,20 @@ Deals are subject to sell-out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-streamlinedprocess-for-youcamwebrecord-for-2024/"><u>[Updated] StreamlinedProcess for YouCamWebRecord for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/affordable-streams-the-ultimate-walkthrough-for-acquiring-spotifys-student-price-cut/"><u>Affordable Streams: The Ultimate Walkthrough for Acquiring Spotify's Student Price Cut</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/breath-of-fresh-air-for-tech-enthusiasts-apple-eyes-adding-respiration-tracking-feature-in-vision-pro-glasses/"><u>Breath of Fresh Air for Tech Enthusiasts: Apple Eyes Adding 'Respiration Tracking' Feature in Vision Pro Glasses</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/1722899009237-deciphering-speculations-around-apples-new-audible-gadget-cost-predictions-release-plans-and-features-at-a-glance/"><u>Deciphering Speculations Around Apple’s New Audible Gadget: Cost Predictions, Release Plans & Features at a Glance!</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/did-your-iphone-se-passcode-change-itself-unlock-it-now-by-drfone-ios/"><u>Did Your iPhone SE Passcode Change Itself? Unlock It Now</u></a></li>
-<li><a href="https://blog-min.techidaily.com/fix-your-iphones-app-store-connection-issues-with-these-expert-tips-and-tricks/"><u>Fix Your iPhone’s App Store Connection Issues with These Expert Tips and Tricks!</u></a></li>
-<li><a href="https://techtrends.techidaily.com/overcoming-silence-expert-tips-for-repairing-your-dormant-receiver-speaker-system/"><u>Overcoming Silence: Expert Tips for Repairing Your Dormant Receiver Speaker System</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/revolutionizing-mac-intelligence-apple-unveils-plan-for-ai-powered-m4-chips-across-all-models-release-dates-inside/"><u>Revolutionizing Mac Intelligence: Apple Unveils Plan for AI-Powered M4 Chips Across All Models - Release Dates Inside</u></a></li>
-<li><a href="https://win-dash.techidaily.com/solved-fixes-for-realtek-wifi-drivers-on-windows-11-10-and-7/"><u>Solved: Fixes for Realtek WiFi Drivers on Windows 11, 10 & 7</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/ultimate-gameplay-display-in-depth-analysis-of-the-philips-240hz-qd-oled-evonia-49m2c8900/"><u>Ultimate Gameplay Display: In-Depth Analysis of the Philips 240Hz QD-OLED Evonia 49M2C8900</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/ultimate-tutorial-starting-command-prompt-on-any-windows-pc/"><u>Ultimate Tutorial: Starting Command Prompt on Any Windows PC</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-harmony-hub-innovations-showcased-for-2024/"><u>[Updated] Harmony Hub Innovations Showcased for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-beginners-guide-going-live-with-ease-on-facebook/"><u>[Updated] In 2024, Beginner’s Guide Going Live with Ease on Facebook</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/breaking-down-the-principles-of-net-neutrality-what-you-need-to-know/"><u>Breaking Down the Principles of Net Neutrality: What You Need to Know</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-can-vivo-v30mirror-share-to-pc-drfone-by-drfone-android/"><u>How Can Vivo V30Mirror Share to PC? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-5-easy-ways-to-change-location-on-youtube-tv-on-nubia-z50-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Easy Ways to Change Location on YouTube TV On Nubia Z50 Ultra | Dr.fone</u></a></li>
+<li><a href="https://article-posts.techidaily.com/in-2024-decoding-dynamic-range-with-an-insight-into-luminance/"><u>In 2024, Decoding Dynamic Range with an Insight Into Luminance</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/install-the-newest-driver-version-for-your-canon-mx92-to-work-with-windows-systems/"><u>Install the Newest Driver Version for Your Canon MX92 to Work with Windows Systems</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/premium-line-in-modems-a-buyers-guide-to-2024-models/"><u>Premium Line-In Modems: A Buyer's Guide to 2024 Models</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/securing-a-portion-from-the-25m-apple-family-sharing-litigation-payout-expert-tips/"><u>Securing a Portion From the $25M Apple Family Sharing Litigation Payout: Expert Tips</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-instructions-for-successful-screen-reflection-with-lg-televisions/"><u>Step-by-Step Instructions for Successful Screen Reflection with LG Televisions</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/sticking-with-my-iphone-14-top-4-reasons-im-skipping-the-upgrade-to-an-iphone-16-pro-zdnet-review/"><u>Sticking with My iPhone 14: Top 4 Reasons I'm Skipping the Upgrade to an iPhone 16 Pro | ZDNET Review</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/tech-enthusiasts-guide-unveiling-potential-pricing-and-specifications-of-the-rumored-new-tesla-phone/"><u>Tech Enthusiasts' Guide: Unveiling Potential Pricing & Specifications of the Rumored New Tesla Phone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-ranking-mac-vpn-services-comprehensive-tests-and-reviews-by-experts-find-your-perfect-match/"><u>Top-Ranking Mac VPN Services: Comprehensive Tests & Reviews by Experts - Find Your Perfect Match</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/ultimate-guide-resolving-the-windows-bsod-beep-series-error-0xc00000e9/"><u>Ultimate Guide: Resolving the Windows BSOD (Beep Series) Error 0xC00000E9</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unveiling-the-budget-friendly-side-apple-slashes-prices-of-m2-macbook-air-to-a-sizzling-low-of-799-surpassing-expected-early-prime-day-discounts-digital-inn138/"><u>Unveiling the Budget-Friendly Side: Apple Slashes Prices of M2 MacBook Air to a Sizzling Low of $799, Surpassing Expected Early Prime Day Discounts | Digital Innovation Hub</u></a></li>
 </ul></div>
 

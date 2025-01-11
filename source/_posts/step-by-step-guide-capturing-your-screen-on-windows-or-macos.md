@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Capturing Your Screen on Windows or macOS"
-date: 2024-08-26T06:00:58.016Z
-updated: 2024-08-27T06:00:58.016Z
+date: 2025-01-10T03:17:09.994Z
+updated: 2025-01-11T03:44:41.734Z
 categories:
   - BestProducts
 description: "This Article Describes Step-by-Step Guide: Capturing Your Screen on Windows or macOS"
@@ -28,9 +28,6 @@ thumbnail: https://thmb.techidaily.com/b1a9c7a0993599ed99b0e206dce7f79b24d1d4811
 
 [16 Ways To Fix It When Print Screen Is Not Working in Windows](https://www.lifewire.com/fix-print-screen-not-working-5442833)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
-<!-- affiliate ads end -->
 ## Fullscreen Screenshot and Auto-save to Folder
 
  `Win+PrtSc`
@@ -42,13 +39,11 @@ thumbnail: https://thmb.techidaily.com/b1a9c7a0993599ed99b0e206dce7f79b24d1d4811
 ![ Screenshot folder with picture inside on Windows 11.](https://www.lifewire.com/thmb/9JnkOkVNK4-g810E3yMqwhOjIcY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/windows-11-screenshots-615d31976db445bb9f725b510becd850.png)
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 [How to Screenshot on a Logitech Keyboard](https://www.lifewire.com/take-screenshot-with-logitech-keyboard-5186441)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Screenshot Part of the Screen
 
  `Win+Shift+S`
@@ -64,6 +59,10 @@ thumbnail: https://thmb.techidaily.com/b1a9c7a0993599ed99b0e206dce7f79b24d1d4811
 
 ![Windows 11 snip tool capturing calculator. ](https://www.lifewire.com/thmb/DxIz1nlXgizX8YqQ1wgTdi_r9eE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/snip-tool-windows-11-30e70f87ddfc45799a2dc78ebd4dc0b0.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  To avoid memorizing this shortcut, you can tie it to the PrtSc button so that when you press it, this same menu shows up automatically. To do this, go to**Settings** \>**Accessibility** \>**Keyboard** , and then turn on**Use the Print screen key to open screen capture** .
 
  After choosing one of those options, the image will be saved to the clipboard, which you can paste into an email or some other program that accepts pasting pictures.
@@ -73,11 +72,13 @@ thumbnail: https://thmb.techidaily.com/b1a9c7a0993599ed99b0e206dce7f79b24d1d4811
 ![A Windows 11 screenshot open in Snipping Tool](https://www.lifewire.com/thmb/n8hloKQGZfQTHNEMKqTmWZC4D_M=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/windows-11-snipping-tool-cfcc4b1e0c154d509e2d312ce4538e4e.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 <!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Delayed Screenshots With Snipping Tool
 
  Pull up the search button from the taskbar and enter**Snipping Tool** to open the app. This tool was briefly covered above, but what we'll look at now is the delayed screenshot function.
@@ -87,9 +88,9 @@ thumbnail: https://thmb.techidaily.com/b1a9c7a0993599ed99b0e206dce7f79b24d1d4811
  With the program open, select the**stopwatch** . There are three options:**3-second delay** ,**5-second delay** , and**10-second delay** . Select one, choose**New** , and then quickly arrange the screen in the way you need it for the screenshot. When the time you chose is reached, the four options above will display at the top of the screen.
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
-The ultimate burning program for all your needs!</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Tips for Taking Screenshots in Windows 11
 
 * Once an image is loaded in Snipping Tool, use the crop tool to define further which part you want to keep without needing to retake the screenshot.
@@ -127,8 +128,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -136,4 +135,19 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-10-best-history-youtube-channels-for-students-and-history-lovers/"><u>[New] 2024 Approved 10 Best History YouTube Channels for Students & History Lovers</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/a-compreranly-curated-list-best-free-srt-translators-online/"><u>A Compreranly Curated List Best Free SRT Translators Online</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/comparing-the-latest-innovations-apple-watch-series-10-against-series-8-which-is-a-smart-choice-for-tech-enthusiasts/"><u>Comparing the Latest Innovations: Apple Watch Series 10 Against Series 8 - Which Is a Smart Choice for Tech Enthusiasts?</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/declutter-your-email-effortlessly-learn-how-one-smart-trick-can-clean-up-chaos-without-multiple-accounts-or-complex-rules-according-to-zdnet/"><u>Declutter Your Email Effortlessly - Learn How One Smart Trick Can Clean Up Chaos Without Multiple Accounts Or Complex Rules, According To ZDNET</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/diving-into-the-distinctions-how-signal-stacks-up-against-whatsapp/"><u>Diving Into the Distinctions: How Signal Stacks Up Against WhatsApp</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723205381280-how-to-fix-windows-7-update-stuck-2024-tips/"><u>How to Fix Windows 7 Update Stuck - 2024 Tips</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-remove-all-marked-enjoyed-tunes-on-spotify-easy-instructions/"><u>How to Remove All Marked Enjoyed Tunes on Spotify: Easy Instructions</u></a></li>
+<li><a href="https://techidaily.com/self-fixing-operating-system-tools-for-windows-11-users/"><u>Self-Fixing Operating System Tools for Windows 11 Users</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/the-editors-treasure-trove-curated-list-of-iconic-80s-vhs-hacks-for-editing/"><u>The Editor's Treasure Trove Curated List of Iconic 80S VHS Hacks for Editing</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/the-ultimate-screen-recorder-showdown-testing-recmeister-for-2024/"><u>The Ultimate Screen Recorder Showdown Testing Recmeister for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-tips-for-selecting-the-right-video-capture-gadget-before-buying/"><u>Top Tips for Selecting the Right Video Capture Gadget Before Buying</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/watch-star-wars-movies-in-perfect-order-on-your-disneyplus-account/"><u>Watch 'Star Wars' Movies in Perfect Order on Your Disney+ Account</u></a></li>
+</ul></div>
 

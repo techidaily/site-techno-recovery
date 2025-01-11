@@ -1,7 +1,7 @@
 ---
 title: "Urgent Update: How Apple's Warning on High-Stakes Spyware Assaults Impacts iPhone Users - Should You Be Alarmed Now? | Cybersecurity Today"
-date: 2024-12-28T16:10:01.705Z
-updated: 2025-01-04T16:08:56.263Z
+date: 2025-01-06T00:53:03.864Z
+updated: 2025-01-11T01:32:45.195Z
 tags:
   - apple
 categories:
@@ -31,7 +31,7 @@ Read on for a look at some of the new accessibility features coming to Apple har
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### New eye-tracking features
@@ -48,16 +48,12 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Apple Music haptics
 
 For those who are deaf or hard of hearing, Apple plans to offer a Taptic Engine feature in Apple Music. When turned on, the feature will use a series of taps, vibrations, and other tactile responses to sync to a song's audio. Apple says the feature will work "across millions of songs in the Apple Music catalog."
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Addressing motion sickness
@@ -68,6 +64,10 @@ Motion sickness in cars can often be the result of a disconnect between what you
 
 "Using sensors built into iPhone and iPad, Vehicle Motion Cues recognizes when a user is in a moving vehicle and responds accordingly," Apple said. "The feature can be set to show automatically on iPhone, or can be turned on and off in Control Center."
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Understanding speech
 
 A new feature called Voice Shortcuts will let you "assign custom utterances" that Apple's virtual personal assistant Siri will save. When Siri hears those utterances, it'll perform whatever action was assigned to it, including launching apps or engaging in more complex tasks on the device.
@@ -75,7 +75,7 @@ A new feature called Voice Shortcuts will let you "assign custom utterances" tha
 Another feature, Listen for Atypical Speech, will use machine learning to understand your speech patterns and your requests on-device, Apple said. The feature "gives users an option for enhancing speech recognition for a wider range of speech," the company said.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### New CarPlay features
@@ -85,7 +85,7 @@ Apple's in-car CarPlay software is also getting new accessibility features, incl
 **Also: [iOS and Android owners will now be alerted if an unknown tracker is moving with them](https://www.zdnet.com/article/ios-and-android-owners-will-now-be-alerted-if-an-unknown-tracker-is-moving-with-them/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Some other updates
@@ -122,18 +122,16 @@ Beyond those updates, Apple said that it's launching a range of smaller upgrades
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-easily-add-subtitles-and-closed-captions-to-youtube-video/"><u>[Updated] In 2024, How to Easily Add Subtitles and Closed Captions to YouTube Video</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-echoes-of-exploration-in-role-playing-history/"><u>2024 Approved Echoes of Exploration in Role-Playing History</u></a></li>
-<li><a href="https://article-tips.techidaily.com/crafting-captivating-vlog-narratives-for-2024/"><u>Crafting Captivating Vlog Narratives for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/discovering-ipados-18-availability-date-no-charge-for-users-updated-features-and-breaking-news-coverage/"><u>Discovering iPadOS 18: Availability Date, No Charge for Users, Updated Features, and Breaking News Coverage</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/efficiencyinusingyourwebcamforcapturing/"><u>EfficiencyInUsingYourWebcamForCapturing</u></a></li>
-<li><a href="https://win-web3.techidaily.com/identifying-the-root-causes-of-excessive-computer-heat-insights-from-yl-computing/"><u>Identifying the Root Causes of Excessive Computer Heat: Insights From YL Computing</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-android-unlock-code-sim-unlock-your-motorola-razr-40-ultra-phone-and-remove-locked-screen-by-drfone-android/"><u>In 2024, Android Unlock Code Sim Unlock Your Motorola Razr 40 Ultra Phone and Remove Locked Screen</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/in-2024-maximizing-marketing-the-best-highlight-techniques-for-brands/"><u>In 2024, Maximizing Marketing The Best Highlight Techniques for Brands</u></a></li>
-<li><a href="https://fox-where.techidaily.com/mastering-cryptocurrency-chart-patterns-a-comprehensive-guide-with-yl-software/"><u>Mastering Cryptocurrency Chart Patterns: A Comprehensive Guide with YL Software</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/new-footage-emerges-for-apples-long-lost-airpower-pad-is-qi-charging-technology-to-blame-or-bless-zdnet/"><u>New Footage Emerges for Apple's Long-Lost AirPower Pad - Is Qi Charging Technology to Blame or Bless? | ZDNET</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/the-ultimate-guide-to-implementing-and-benefiting-from-hot-corners-on-your-macs-os-x-system-digitalinnovation/"><u>The Ultimate Guide to Implementing & Benefiting From Hot Corners on Your Mac's OS X System | DigitalInnovation</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/ultimate-guide-resolving-propsysdll-file-not-found-error/"><u>Ultimate Guide: Resolving 'Propsys.dll' File Not Found Error</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/unique-and-witty-iprank-ideas-using-ios-devices-for-some-fun/"><u>Unique and Witty iPrank Ideas Using iOS Devices for Some Fun</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-from-isolated-viewers-to-shared-experiences-online/"><u>[New] From Isolated Viewers to Shared Experiences Online</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024s-best-bargains-in-the-world-of-cloud-storage/"><u>2024'S Best Bargains in the World of Cloud Storage</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/3-best-tools-to-hard-reset-honor-x50iplus-drfone-by-drfone-reset-android-reset-android/"><u>3 Best Tools to Hard Reset Honor X50i+ | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/delving-into-the-world-of-claude-3-understanding-its-purpose-and-uses/"><u>Delving Into The World Of Claude 3: Understanding Its Purpose And Uses</u></a></li>
+<li><a href="https://extra-information.techidaily.com/elevating-your-broadcast-combining-zoom-and-fb-live/"><u>Elevating Your Broadcast Combining ZOOM & FB Live</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-the-issue-why-does-my-game-freeze-on-ring-of-elysium/"><u>Fixing the Issue: Why Does My Game Freeze on Ring of Elysium?</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/mastering-clearer-communication-the-guide-to-better-iphone-call-sound-insights-from-zdnet/"><u>Mastering Clearer Communication: The Guide to Better iPhone Call Sound - Insights From ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/pioneering-achievements-in-tech-from-1844-to-todays-era/"><u>Pioneering Achievements in Tech: From 1844 to Today's Era</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-process-handling-missing-d3dx924dll-issues/"><u>Step-by-Step Process: Handling Missing d3dx9_24.dll Issues</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-reasons-behind-avoiding-iphone-16-purchase-due-to-apples-ai-advancements-insights/"><u>The Reasons Behind Avoiding iPhone 16 Purchase Due To Apple’s AI Advancements - Insights</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/top-dvd-ripper-and-converter-software-for-windows-1011-optimal-choices-for-legal-backups-and-playback/"><u>Top DVD Ripper & Converter Software for Windows 10/11: Optimal Choices for Legal Backups and Playback</u></a></li>
 </ul></div>
 

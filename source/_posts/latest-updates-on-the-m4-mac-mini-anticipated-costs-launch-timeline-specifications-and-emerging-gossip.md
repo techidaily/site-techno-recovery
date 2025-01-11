@@ -1,7 +1,7 @@
 ---
 title: "Latest Updates on the M4 Mac Mini: Anticipated Costs, Launch Timeline, Specifications & Emerging Gossip"
-date: 2024-08-26T06:01:29.292Z
-updated: 2024-08-27T06:01:29.292Z
+date: 2025-01-04T02:30:08.712Z
+updated: 2025-01-10T16:04:53.694Z
 categories:
   - BestProducts
 description: "This Article Describes Latest Updates on the M4 Mac Mini: Anticipated Costs, Launch Timeline, Specifications & Emerging Gossip"
@@ -21,6 +21,10 @@ thumbnail: https://thmb.techidaily.com/fe142fc722967440c0a67173b1e546447bf0e8013
 
  Nothing is having a banner year with the release of the Nothing Ear (a) and the Nothing Phone 2a—and shows no signs of losing that momentum: The buzzed-about Nothing Phone 3 is expected to arrive next year. Details are hard to come by, but here’s what we anticipate so far about the debut of this next-gen phone.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## When Will the Nothing Phone 3 Be Released?
 
 [9to5Google reports](https://9to5google.com/2024/06/05/nothing-phone-3-2025-ai/) that Nothing confirmed over email that it won't be releasing its next flagship until 2025.
@@ -31,9 +35,6 @@ thumbnail: https://thmb.techidaily.com/fe142fc722967440c0a67173b1e546447bf0e8013
 
 We're betting on a July 2025 release date for the Nothing Phone 3.
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Nothing Phone 3 Price Rumors
 
  Since release and ordering details are slim to none, pricing information is still forthcoming as well.
@@ -52,6 +53,10 @@ Nothing Phone 2.
 
 Lifewire / Rob LeFebvre
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Pre-Order Information
 
  The Nothing Phone 3 hasn't yet been announced by Nothing, which means we don't have any pre-order information. Once we know more, we’ll update details here, so stay tuned. We’ll also detail how widely available the Phone 3 will be for pre-ordering.
@@ -59,6 +64,10 @@ Lifewire / Rob LeFebvre
 ## Nothing Phone 3 Specs and Features
 
  Since the Phone 3 isn't an official product, it’s hard to say for sure what we’ll see in the Phone 3\. But here’s some reliable chatter so far.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### A Newer Chip (but Just How New)?
 
@@ -69,8 +78,9 @@ Lifewire / Rob LeFebvre
  Another speculation is that the[Phone 3 will stick to the trend of previous-generation chips](https://www.gizchina.com/2024/04/23/nothing-phone-3-expected-this-summer-but-not-a-flagship-killer/) , which would point toward a Snapdragon 8 Gen 2 Phone 3.
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Better Battery
 
  The Phone 2 made significant strides with a 4,700-mAh battery, an impressive boost compared to the Phone 1's 4500 mAh (for comparison, the iPhone 15 Plus has a 4,383-mAh battery). The newest model is likely to improve upon these gains and catch up with competitors by offering faster wired charging and bigger capacity.
@@ -85,25 +95,20 @@ Lifewire / Rob LeFebvre
 
 ![A render of the Nothing Phone 1 in black against a grey background. The rear Glyph lights are on and the home screen shows off the new features of Nothing OS 2.0. ](https://www.lifewire.com/thmb/RSttfod0lFQvSSIOh_trYZHRJnA=/960x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/nothing-phone-update-a48070f52beb4a9d8c8792a6e44bb927.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
-<!-- affiliate ads end -->
 Nothing OS 2.0.
 
 Nothing
 
 <!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### An Action Button
 
  Nothing CEO Carl Pei teased several shots of an updated design on X. Though the below post asks for feedback on Nothing OS user interface updates, many suspect that Pei might have leaked the Nothing Phone 3.
 
  In this rendering, it has an additional external button on the right side. Some speculate this button[could mimic the iPhone 15's Action Button](https://beebom.com/did-carl-pei-leak-nothing-phone-3-with-action-button/) .
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Integrated AI
 
  Pei also released a video on X announcing the company's AI prototyping. Pei alluded to a[heavy AI presence on the Nothing Phone 3](https://www.lifewire.com/carl-pei-nothing-ai-phone-3-8658876) .
@@ -112,9 +117,6 @@ Nothing
 
  We’ll continue to make updates as we learn about more rumors, leaks, and official word from Nothing.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 ## The Latest News About the Nothing Phone 3
 
  You can find a lot more[smartphone news on Lifewire](https://www.lifewire.com/mobile-phones-4781509) . Here are several stories about previous Nothing Phone releases, rumors, and hands-on impressions.
@@ -127,14 +129,11 @@ Nothing
 
 [Nothing's Phone (1) Is All About Those Lights](https://www.lifewire.com/nothings-phone-1-is-all-about-those-lights-5667426)
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -143,4 +142,26 @@ Nothing
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-blue.techidaily.com/new-2024-approved-the-beginners-guide-to-iphone-slow-movement-videography/"><u>[New] 2024 Approved The Beginner's Guide to iPhone Slow Movement Videography</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-the-essential-guide-for-newcomers-on-av1/"><u>[New] The Essential Guide for Newcomers on AV1</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/1726029830904-mp4wav/"><u>「オーディオ品質向上：MP4ファイルをWAV形式にアップコンバートするテクニック」</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/1-essential-enhancements-what-apples-vision-pro-must-do-to-triumph-professionally-insights/"><u>1. Essential Enhancements: What Apple's Vision Pro Must Do to Triumph Professionally - Insights</u></a></li>
+<li><a href="https://location-fake.techidaily.com/11-best-location-changers-for-apple-iphone-12-mini-drfone-by-drfone-virtual-ios/"><u>11 Best Location Changers for Apple iPhone 12 mini | Dr.fone</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/ssd-windows/"><u>步驟指南：快速且安全地在 SSD上升級 Windows 操作系统</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/apple-pencil-showdown-unpacking-the-features-of-apple-pencil-pro-vs-apple-pencil-2-to-boost-your-ipad-experience-insights/"><u>Apple Pencil Showdown: Unpacking the Features of Apple Pencil Pro Vs. Apple Pencil 2 to Boost Your iPad Experience Insights</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/beat-apple-vision-pro-anxiety-for-less-unveiling-effective-budget-friendly-xr-glasses/"><u>Beat Apple Vision Pro Anxiety for Less: Unveiling Effective, Budget-Friendly XR Glasses</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/diy-repair-techniques-for-handling-blue-screen-error-0x0000005c/"><u>DIY Repair Techniques for Handling Blue Screen Error 0X0000005C</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/enhanced-icloud-support-apple-rolls-out-major-updates-and-bug-fixes-for-windows-users-zdnet/"><u>Enhanced iCloud Support: Apple Rolls Out Major Updates and Bug Fixes for Windows Users - ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/exploring-the-water-resistance-of-the-latest-iphone-model/"><u>Exploring the Water Resistance of the Latest iPhone Model</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/guide-adding-expressive-gifs-to-your-insta-conversations/"><u>Guide: Adding Expressive GIFs to Your Insta Conversations</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/halt-the-comparative-analysis-exploring-differences/"><u>Halt The Comparative Analysis: Exploring Differences</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/o-create-impactful-valorant-thumbnails-a-compreayers-guide/"><u>How to Create Impactful Valorant Thumbnails A Compreayer's Guide</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-effortlessly-signal-emails-as-read-on-gmail/"><u>How to Effortlessly Signal Emails as Read on Gmail</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/optimize-windows-storage-retention-strategy/"><u>Optimize Windows Storage Retention Strategy</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/rethinking-upgrades-expert-opinion-on-apples-iphone-16-and-smartphone-ai-capabilities-zdnet-analysis/"><u>Rethinking Upgrades: Expert Opinion on Apple's iPhone 16 and Smartphone AI Capabilities - ZDNet Analysis</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/speaking-spectrum-in-asia-boldest-three-dialects/"><u>Speaking Spectrum in Asia: Boldest Three Dialects</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/troubleshooting-101-eliminating-subwoofer-feedback-and-distortions-effectively/"><u>Troubleshooting 101: Eliminating Subwoofer Feedback and Distortions Effectively</u></a></li>
+</ul></div>
 

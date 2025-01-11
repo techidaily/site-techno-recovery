@@ -1,7 +1,7 @@
 ---
 title: Navigate with Ease Using Live View Feature on Google Maps - Complete Tutorial
-date: 2024-08-26T06:01:18.568Z
-updated: 2024-08-27T06:01:18.568Z
+date: 2025-01-03T23:38:30.023Z
+updated: 2025-01-10T21:29:07.939Z
 categories:
   - BestProducts
 description: This Article Describes Navigate with Ease Using Live View Feature on Google Maps - Complete Tutorial
@@ -37,8 +37,13 @@ Close
  When you arrive at your destination, your phone will vibrate.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  How to Exit Live View in Google Maps 
 
  If you want to turn off Live View before you arrive at your destination, you can do so and, instead, see the written directions.
@@ -54,11 +59,9 @@ Close
 ![Live View with directions in Google Maps](https://www.lifewire.com/thmb/1YLs4JwGMQgkJNu0XocZYSoF1a0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/B1-Use-Live-View-on-Google-Maps-15820dc3196c4e118c305edd3919b8d9.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
-<!-- affiliate ads end -->
+
 ##  Switch Between Live and Map View Automatically 
 
  You can use a combination of Live View and the 2D map view if you like. This method allows you to see Live View when you hold your phone upward and 2D map view when you tilt your phone downward.
@@ -68,8 +71,9 @@ Close
 ![Google Maps showing Navigation chosen in Settngs and Live View toggle ](https://www.lifewire.com/thmb/bWHD2Hj5liPzMW7cDlHMq7_0ZA0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/C1-Use-Live-View-on-Google-Maps-d7dfa94d9d8c4ab4831a1c56b79b4d5e.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  To turn on this setting while navigating, exit **Live View** , swipe up in 2D map view, and select **Settings** . Then, turn on the toggle for **Live View** below Walking Options.
 
  Alternatively, if available, swipe up from the 2D directions view and toggle on**Tilt up to change view** .
@@ -77,8 +81,9 @@ Close
 ![Settings in the navigation actions and the toggle next to Live View](https://www.lifewire.com/thmb/hN98kxFTj5gxDtG4aThU3yM5Se8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/C2-Use-Live-View-on-Google-Maps-2b4e3d59d7ca494f83a2fb4554771676.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 [  5 Tips for Using Google Maps Street View ](https://www.lifewire.com/using-google-maps-street-view-3486679) 
 
  FAQ
@@ -108,8 +113,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -117,4 +120,22 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-tech-triumphs-10-high-definition-screen-recorder-tools/"><u>[New] 2024 Approved Tech Triumphs #10 High-Definition Screen Recorder Tools</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-top-2-methods-to-transform-zoom-sound-ensuring-clarity-for-2024/"><u>[New] Top 2 Methods to Transform Zoom Sound, Ensuring Clarity for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/5-stars-our-handpicked-selection-of-the-best-reading-apps-dominating-2024/"><u>5 Stars: Our Handpicked Selection of the Best Reading Apps Dominating 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/access-pre-release-apple-vision-pro-features-with-testflight-a-step-by-step-guide/"><u>Access Pre-Release Apple Vision Pro Features with TestFlight – A Step-by-Step Guide</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/anticipation-builds-the-latest-rumors-confirm-new-ipad-models-set-for-release-in-spring-of-2024-zdnet-insights/"><u>Anticipation Builds: The Latest Rumors Confirm New iPad Models Set for Release in Spring of 2024 - ZDNet Insights</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/comprehensive-guide-apples-offering-update-to-watchos-11-identifying-compatible-and-incompatible-apple-watch-models/"><u>Comprehensive Guide: Apples Offering Update to WatchOS 11 - Identifying Compatible and Incompatible Apple Watch Models</u></a></li>
+<li><a href="https://program-issues.techidaily.com/game-file-recovery-techniques-fixing-broken-games-on-a-desktop-system-2024-edition/"><u>Game File Recovery Techniques: Fixing Broken Games on a Desktop System - 2024 Edition</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-detailed-guide-of-ispoofer-for-pogo-installation-on-xiaomi-mix-fold-3-drfone-by-drfone-virtual-android/"><u>In 2024, Detailed guide of ispoofer for pogo installation On Xiaomi Mix Fold 3 | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-5-car-locator-apps-for-honor-magic5-ultimate-drfone-by-drfone-virtual-android/"><u>In 2024, Top 5 Car Locator Apps for Honor Magic5 Ultimate | Dr.fone</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-s-best-free-video-editors-for-recording-gameplay/"><u>New 2024 Approved S Best Free Video Editors for Recording Gameplay</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-guide-sending-voice-notes-with-your-iphone/"><u>Step-by-Step Guide: Sending Voice Notes with Your iPhone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/taming-the-beast-resolving-winxps-network-woes/"><u>Taming the Beast: Resolving WinXP's Network Woes</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/the-ultimate-guide-to-tecno-spark-20-proplus-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>The Ultimate Guide to Tecno Spark 20 Pro+ Pattern Lock Screen Everything You Need to Know</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-tier-luxury-meets-functionality-the-ultimate-titanium-apple-watch-band-reviewed-by-zdnet/"><u>Top-Tier Luxury Meets Functionality: The Ultimate Titanium Apple Watch Band Reviewed by ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unlocking-your-full-potential-on-macos-monterey-tailoring-custom-concentration-settings-to-dodge-distractions-techniques-spotlighted/"><u>Unlocking Your Full Potential on macOS Monterey: Tailoring Custom Concentration Settings to Dodge Distractions - Techniques Spotlighted</u></a></li>
+</ul></div>
 

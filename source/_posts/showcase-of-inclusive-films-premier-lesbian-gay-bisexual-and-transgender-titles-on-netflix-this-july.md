@@ -1,7 +1,7 @@
 ---
 title: "Showcase of Inclusive Films: Premier Lesbian, Gay, Bisexual & Transgender Titles on Netflix This July"
-date: 2024-08-26T06:02:38.151Z
-updated: 2024-08-27T06:02:38.151Z
+date: 2025-01-07T23:50:34.023Z
+updated: 2025-01-11T10:11:30.544Z
 categories:
   - BestProducts
 description: "This Article Describes Showcase of Inclusive Films: Premier Lesbian, Gay, Bisexual & Transgender Titles on Netflix This July"
@@ -73,6 +73,10 @@ _The Invisible Thread_ _(Il Filo Invisibile_ ) is an Italian drama with a positi
 
 of 15
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## [ Stay on Board: The Leo Baker Story (2022)—A Tribute to a Trailblazing Transgender Athlete](https://www.imdb.com/title/tt21100124/) 
 
 ![Leo Baker in Stay on Board](https://www.lifewire.com/thmb/MBH5jhAKJCJ70_lCKsbvC965wfQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/the-best-lgbt-movies-on-netflix-right-now-august-2022-5069913-74fd4bf7bfdf4068b2b70507212c260c.jpeg) 
@@ -101,12 +105,13 @@ _Stay on Board_ follows professional skateboarder Leo Baker as he prepares for t
 
 of 15
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## [ Bruised (2020): Most Inspiring Redemption Story About Family and Cage Fighting](https://www.imdb.com/title/tt8310474/) 
 
 ![Halle Berry in Bruised](https://www.lifewire.com/thmb/Ld0dwnjfA3BreVo9a6sOD3vun8E=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_the-best-lgbt-movies-on-netflix-right-now-january-2022-cec6f4f8743944048693231b4d8f4a55.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Netflix
 
@@ -132,12 +137,13 @@ Netflix
 
 of 15
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## [ Pray Away (2021): Most Heart-Wrenching Exposé on Conversion Therapy](https://www.imdb.com/title/tt11224358/) 
 
 ![Rainbow colored stained glass window promoting Pray Away 2021 film](https://www.lifewire.com/thmb/5si0q5LmVCObpZ4mE0UWkSTn8p4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_best-lgbt-movies-on-netflix-right-now-5069913-ae23fe5d412c4381b1cbacdcaa37333a.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Netflix
 
@@ -163,13 +169,14 @@ _Pray Away_ examines the controversial practice of gay conversion therapy, which
 
 of 15
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## [ Stand Out: An LGBTQ+ Celebration (2022)—Best LGBT Standup Comedy Special](https://www.imdb.com/title/tt20723644/) 
 
 ![Wanda Sykes performs in Stand Out (2022)](https://www.lifewire.com/thmb/E4lNhdDal7jWx5UnqrMywwiUQYA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_the-best-lgbt-movies-on-netflix-right-now-june-2022-5069913-f3fab440e4184c74aa9dd559e480b2bf.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
-<!-- affiliate ads end -->
 Netflix
 
 **IMDb Rating** : 6.2/10
@@ -194,16 +201,14 @@ Netflix
 
 of 15
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
-<!-- affiliate ads end -->
 ## [ Fanfic (2023): An Unconventional Coming Out Story](https://www.imdb.com/title/tt27612422/) 
 
 ![Alin Szewczyk in Fanfic](https://www.lifewire.com/thmb/aH-Rk1QsCLC_NYUvL4vwTmuoQUQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_the-best-lgbt-movies-on-netflix-right-now-july-2023-5069913-b04870a3a482455599d60bd335bb18f5.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Netflix
 
 **IMDb Rating** : 5.8/10
@@ -256,12 +261,13 @@ Netflix
 
 of 15
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
-<!-- affiliate ads end -->
 ## [ Marry My Dead Body (2023): A Tale About Literally Being Haunted by Homophobia](https://www.imdb.com/title/tt22742964/) 
 
 ![The cast of Marry My Dead Body](https://www.lifewire.com/thmb/Mlj7-wuWMYSjXuojihpuDf1p4NI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/MarryMyDeadBodyNetflix-bb17da0de7464f9eb3cc4abe422f15ad.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **IMDb Rating** : 7.0/10
 
@@ -285,13 +291,18 @@ _Marry My Dead Body_ combines comedy with Chinese superstition to create an orig
 
 of 15
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## [ Operation Hyacinth (2021): Best Police Procedural About LGBT History in Poland](https://www.imdb.com/title/tt14315584/) 
 
 ![Tomasz Zietek in Operation Hyacinth](https://www.lifewire.com/thmb/cRILvy8cHOT82T-l3OdBvZ_NqFY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002_the-best-lgbt-movies-on-netflix-right-now-january-2022-a28deb80427c4b01917f454b976304b5.jpg) 
 
 <!-- affiliate ads begin -->
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Netflix
 
 **IMDb Rating** : 6.8/10
@@ -317,8 +328,9 @@ Netflix
 of 15
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## [ Eldorado: Everything the Nazis Hate (2023) - A Documentary About LGBT Persecution in WWII Germany](https://www.imdb.com/title/tt27906298/) 
 
 ![Eldorado: Everything the Nazis Hate](https://www.lifewire.com/thmb/uFvdxEXqQjJwD7DBm6iOVoVq9z8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_the-best-lgbt-movies-on-netflix-right-now-august-2023-5069913-8891654589fb407699c5bdac16e865d9.jpg) 
@@ -351,10 +363,6 @@ of 15
 
 ![The cast of Dancing Queens on Netflix](https://www.lifewire.com/thmb/vrH9qhpgR135LDBb-sQ-8auu0SE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_best-lgbt-movies-on-netflix-right-now-5069913-7589c1a062994bf9b719af7cae64370a.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
-</a>
-<!-- affiliate ads end -->
 Netflix
 
 **IMDb Rating** : 5.7/10
@@ -379,12 +387,13 @@ _Dancing Queens_ is a clever story about subverting gender norms. Some viewers t
 
 of 15
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 ## [ Dance of the 41 (2020): For Fans of History and Fancy Dresses](https://www.imdb.com/title/tt11525022/) 
 
 ![Alfonso Herrera and Emiliano Zurita in Dance of the 41](https://www.lifewire.com/thmb/lc34xpMWUPwr35ugd-vwDn3YpCo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_the-best-lgbt-movies-on-netflix-right-now-october-2021-5069913-55ecc68b92a84a5082972963443331b2.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Netflix
 
@@ -440,17 +449,10 @@ _Rustin's_ portrayer Colman Domingo received critical praise for his performance
 
 of 15
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## [ Valley of a Thousand Hills (2023): An Untraditional Coming Out Story](https://www.imdb.com/title/tt21437200/) 
 
 ![Sibongokuhle Nkosi and Mandisa Vilakazi in Valley of a Thousand Hills](https://www.lifewire.com/thmb/R5Iy4Iz-Ld0zSnXIlHc_2aSRdpg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_the-best-lgbt-movies-on-netflix-right-now-january-2023-5069913-24d31d0c3f294310b88e1ab92a7af9fd.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 **IMDb Rating** : 6.6/10
 
 **Genre** : Drama
@@ -491,8 +493,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -500,4 +500,24 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-obtain-exclusive-free-media-from-elite-4-youtube-clips/"><u>[New] 2024 Approved Obtain Exclusive Free Media From Elite 4 YouTube Clips</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-hue-alignment-assistant/"><u>2024 Approved Hue Alignment Assistant</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-the-ultimate-film-guide-top-15-timeless-stop-motion-classics/"><u>2024 Approved The Ultimate Film Guide - Top 15 Timeless Stop Motion Classics</u></a></li>
+<li><a href="https://location-social.techidaily.com/3-things-you-must-know-about-fake-snapchat-location-on-vivo-v27e-drfone-by-drfone-virtual-android/"><u>3 Things You Must Know about Fake Snapchat Location On Vivo V27e | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatgpt-and-law-a-conversational-overview/"><u>ChatGPT & Law: A Conversational Overview</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/complete-solution-to-fix-wpcapdll-is-missingnot-detected-mistakes-on-your-pc/"><u>Complete Solution to Fix WpcapDll Is Missing/Not Detected Mistakes on Your PC</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/experience-savings-like-never-before-grab-the-highly-anticipated-2022-ipad-pro-now-with-a-700-price-cut-on-labor-day-exclusive-news-from-zdnet/"><u>Experience Savings Like Never Before: Grab the Highly Anticipated 2022 iPad Pro Now with a $700 Price Cut on Labor Day | Exclusive News From ZDNET</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/experience-the-best-price-for-apples-airtag-bundle-24-discounted-at-walmart-during-labor-day-insights-from-zdnet/"><u>Experience the Best Price for Apple's AirTag Bundle – $24 Discounted at Walmart During Labor Day | Insights From ZDNET</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/exploring-the-working-principles-of-e-motorcycles/"><u>Exploring the Working Principles of E-Motorcycles</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-change-lock-screen-wallpaper-on-oneplus-ace-2-pro-by-drfone-android/"><u>How to Change Lock Screen Wallpaper on OnePlus Ace 2 Pro</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/mastering-imessage-communication-on-your-pc-a-detailed-walkthrough-for-windows-by-zdnet-experts/"><u>Mastering iMessage Communication on Your PC: A Detailed Walkthrough for Windows by ZDNet Experts</u></a></li>
+<li><a href="https://fake-location.techidaily.com/methods-to-change-gps-location-on-apple-iphone-se-drfone-by-drfone-virtual-ios/"><u>Methods to Change GPS Location On Apple iPhone SE | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/quick-fix-steps-to-correct-the-mscorwksdll-error-in-windows/"><u>Quick Fix Steps to Correct the Mscorwks.dll Error in Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-for-stabilizing-inconsistent-windows-printers/"><u>Steps for Stabilizing Inconsistent Windows Printers</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-ultimate-solution-for-handling-missing-mscorwksdll-files/"><u>The Ultimate Solution for Handling Missing mscorwks.dll Files</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unleashing-fitness-potential-how-the-apple-airpods-pro-3s-innovative-heart-rate-sensors-can-coach-you-to-success-zdnet/"><u>Unleashing Fitness Potential: How the Apple AirPods Pro 3'S Innovative Heart Rate Sensors Can Coach You to Success | ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/why-were-my-imessages-marked-as-undeliverable-recently-uncover-the-causes-insights-from-zdnet/"><u>Why Were My iMessages Marked as 'Undeliverable' Recently? Uncover the Causes - Insights From ZDNet</u></a></li>
+</ul></div>
 

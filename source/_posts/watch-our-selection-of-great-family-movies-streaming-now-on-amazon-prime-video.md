@@ -1,7 +1,7 @@
 ---
 title: Watch Our Selection of Great Family Movies Streaming Now on Amazon Prime Video!
-date: 2024-08-26T06:04:05.859Z
-updated: 2024-08-27T06:04:05.859Z
+date: 2025-01-09T10:24:34.384Z
+updated: 2025-01-11T10:17:20.169Z
 categories:
   - BestProducts
 description: This Article Describes Watch Our Selection of Great Family Movies Streaming Now on Amazon Prime Video!
@@ -31,8 +31,13 @@ thumbnail: https://thmb.techidaily.com/900dc848292f751f63b27f646fc76a619bc7384a4
 ![Off highlighted in Amazon Prime Video subtitle settings](https://www.lifewire.com/thmb/8EKytGwJX1b1y7HMJ1ZcV_ydGos=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002_turn-off-subtitles-amazon-prime-video-5198403-f89fd2a0ed7f40bf9c226173cbd25933.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Turn Off Subtitles on the Amazon Prime App and Smart TVs
 
  Disabling subtitles in the Amazon Prime app on your streaming device, like a[Fire Stick](https://www.lifewire.com/amazon-fire-tv-4152887) or[smart TV](https://www.lifewire.com/what-is-a-smart-tv-4140172) , works a lot like disabling subtitles in the web player, but you’ll need to use your remote.
@@ -42,29 +47,28 @@ thumbnail: https://thmb.techidaily.com/900dc848292f751f63b27f646fc76a619bc7384a4
 1. While playing a video that has subtitles turned on, pause playback to see which button opens the options menu on your device.  
 ![Options highlighted in the Amazon Prime Video app](https://www.lifewire.com/thmb/MuAh3-21niWijV65y47aTUefXBg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/003_turn-off-subtitles-amazon-prime-video-5198403-dd9213fc248d44b98431f6296b69a52c.jpg)
 2. Press the**Options** button on your remote or controller, and then select**Subtitles** .  
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
-<!-- affiliate ads end -->
 ![Subtitles highlighted in the Amazon Prime Video app](https://www.lifewire.com/thmb/PLN7QfKbcXEWHS2fL4afx9uOtgI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004_turn-off-subtitles-amazon-prime-video-5198403-ced6d8da4ee948b99fd8d9a37cb95b6f.jpg)
 3. Select**English \[CC\]** .  
 ![English [CC] highlighted in Amazon Prime Video subtitle settings](https://www.lifewire.com/thmb/bq5DZMwA1tpP-w959qUeZfe639k=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/005_turn-off-subtitles-amazon-prime-video-5198403-6586659854f0415fb882e15395c636ff.jpg)
 4. Use the navigation buttons on your remote or controller to scroll up, and select**Off** .  
+
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![Off highlighted in Amazon Prime Video app subtitle settings](https://www.lifewire.com/thmb/3uFMludW5LIDJmK7im8SdEj-vik=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/006_turn-off-subtitles-amazon-prime-video-5198403-37b5ee2dfacf418e85363c686567be0c.jpg)
 5. Subtitles are now off.  
+
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![Off under Subtitles highlighted in the Amazon Prime Video app](https://www.lifewire.com/thmb/3S5dxMcn59yiAuISeuRlrDDfR70=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/007_turn-off-subtitles-amazon-prime-video-5198403-c56bc25289d24c21a50d76295543aeac.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
-<!-- affiliate ads end -->
+
 ## How Do I Permanently Turn Off Subtitles?
 
  You may find subtitles are on automatically even though you don’t want subtitles. You can turn off subtitles while watching a video, but that may not permanently turn off subtitles. Subtitles and closed captions are supposed to remain off when you turn them off, but a bug can sometimes cause subtitles to turn back on.
@@ -109,8 +113,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -118,4 +120,26 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-enhancing-your-snap-with-soundtracks-without-stickers/"><u>[New] Enhancing Your Snap with Soundtracks (Without Stickers)</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-immediate-screen-shotter-for-chromes/"><u>[New] Immediate Screen Shotter for Chromes</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-elevate-viewership-3-key-storytelling-approaches/"><u>[New] In 2024, Elevate Viewership 3 Key Storytelling Approaches</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-2024-approved-srt-pinnacle-selecting-the-premier-turbo-charger-systems-for-os-xwin/"><u>[Updated] 2024 Approved SRT Pinnacle Selecting the Premier Turbo Charger Systems for OS X/Win</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-best-free-youtube-ending-creators-top-6-picks-for-2024/"><u>[Updated] Best Free YouTube Ending Creators - Top 6 Picks for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-cinematic-creator-win8-studio/"><u>[Updated] Cinematic Creator Win8 Studio</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/8-safe-and-effective-methods-to-unlock-your-iphone-6s-plus-without-a-passcode-drfone-by-drfone-ios/"><u>8 Safe and Effective Methods to Unlock Your iPhone 6s Plus Without a Passcode | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/can-apple-inspired-intelligence-justify-a-monthly-fee-industry-predicts-up-to-20-subscription-model-zdnet/"><u>Can Apple-Inspired Intelligence Justify a Monthly Fee? Industry Predicts Up To $20 Subscription Model | ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/can-two-people-stream-spotify-music-side-by-side-find-out/"><u>Can Two People Stream Spotify Music Side by Side? Find Out!</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/cant-retract-that-tiktok-learn-the-fix-for-removing-an-accidental-repost-here/"><u>Can't Retract That TikTok? Learn the Fix for Removing an Accidental Repost Here!</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/charge-up-your-journey-identifying-ev-charging-options-with-google-maps/"><u>Charge Up Your Journey - Identifying EV Charging Options with Google Maps</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/encountered-fluid-on-iphone-charger-end-explore-your-remedies-with-tips/"><u>Encountered Fluid on iPhone Charger End? Explore Your Remedies with Tips</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/exploring-the-world-of-immersive-audio-with-dts-virtualx/"><u>Exploring the World of Immersive Audio with DTS Virtual:X</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-sim-unlock-vivo-y56-5g-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/"><u>In 2024, Sim Unlock Vivo Y56 5G Phones without Code 2 Ways to Remove Android Sim Lock</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/super-bowl-ad-battles-overshadowed-by-apples-most-captivating-campaign-of-weekend-as-reported-by-zdnet/"><u>Super Bowl Ad Battles Overshadowed by Apple's Most Captivating Campaign of Weekend, As Reported by ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-productive-ipad-applications-streamline-your-task-management-insights/"><u>Top Productive iPad Applications: Streamline Your Task Management - Insights</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/twitch-chat-5-things-that-confuse-streaming-newbies/"><u>Twitch Chat: 5 Things That Confuse Streaming Newbies</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ultimate-face-off-samsung-galaxy-watch-ultra-versus-apple-watch-ultra-buyers-guide-by-wired/"><u>Ultimate Face-Off: Samsung Galaxy Watch Ultra versus Apple Watch Ultra – Buyer's Guide by Wired</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/understanding-openais-shap-explainer/"><u>Understanding OpenAI's SHAP Explainer</u></a></li>
+</ul></div>
 

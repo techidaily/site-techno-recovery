@@ -1,7 +1,7 @@
 ---
 title: "Xbox One Screenshot Mastery: Simple Techniques to Document Your Gaming Journey"
-date: 2024-12-28T16:32:47.538Z
-updated: 2025-01-04T16:13:01.468Z
+date: 2025-01-08T23:59:10.228Z
+updated: 2025-01-11T04:55:54.807Z
 categories:
   - BestProducts
 description: "This Article Describes Xbox One Screenshot Mastery: Simple Techniques to Document Your Gaming Journey"
@@ -24,10 +24,6 @@ thumbnail: https://thmb.techidaily.com/57dbc57b52c40c100c33b010fd03c7c914f04eea2
 
  This article explains all the different ways to make Windows 11 screenshots.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Use PrtScn to Screenshot the Whole Screen
 
  There are many ways to make screenshots in Windows 11, the most basic being to use the**PrtScn** (aka**PrtSc** ) button on your keyboard. This captures the entire screen, including multiple displays if you have them, plus all visible windows, the taskbar, the Start button, etc. You can then paste the screenshot into any program that supports image pasting.
@@ -39,7 +35,7 @@ thumbnail: https://thmb.techidaily.com/57dbc57b52c40c100c33b010fd03c7c914f04eea2
 [16 Ways To Fix It When Print Screen Is Not Working in Windows](https://www.lifewire.com/fix-print-screen-not-working-5442833)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fullscreen Screenshot and Auto-save to Folder
@@ -52,10 +48,14 @@ thumbnail: https://thmb.techidaily.com/57dbc57b52c40c100c33b010fd03c7c914f04eea2
 
 ![ Screenshot folder with picture inside on Windows 11.](https://www.lifewire.com/thmb/9JnkOkVNK4-g810E3yMqwhOjIcY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/windows-11-screenshots-615d31976db445bb9f725b510becd850.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 [How to Screenshot on a Logitech Keyboard](https://www.lifewire.com/take-screenshot-with-logitech-keyboard-5186441)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Screenshot Part of the Screen
@@ -82,11 +82,7 @@ thumbnail: https://thmb.techidaily.com/57dbc57b52c40c100c33b010fd03c7c914f04eea2
 ![A Windows 11 screenshot open in Snipping Tool](https://www.lifewire.com/thmb/n8hloKQGZfQTHNEMKqTmWZC4D_M=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/windows-11-snipping-tool-cfcc4b1e0c154d509e2d312ce4538e4e.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Delayed Screenshots With Snipping Tool
@@ -96,6 +92,10 @@ thumbnail: https://thmb.techidaily.com/57dbc57b52c40c100c33b010fd03c7c914f04eea2
  Taking screenshots of open menus and other areas of Windows can sometimes be difficult if triggering the screenshot breaks whatever it is you're doing. Snipping Tool has a timed screenshot option, so you can do what you need to and then wait for the screenshot to happen automatically, hands-free.
 
  With the program open, select the**stopwatch** . There are three options:**3-second delay** ,**5-second delay** , and**10-second delay** . Select one, choose**New** , and then quickly arrange the screen in the way you need it for the screenshot. When the time you chose is reached, the four options above will display at the top of the screen.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Tips for Taking Screenshots in Windows 11
 
@@ -143,16 +143,24 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-epic-assessment-and-alternative-measures-for-2024/"><u>[New] Epic Assessment & Alternative Measures for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/1-otter-team-edition-unveiled-revolutionize-remote-collaboration-with-adaptive-live-meeting-transcriptions-zdnet-insights/"><u>1. Otter Team Edition Unveiled: Revolutionize Remote Collaboration with Adaptive Live Meeting Transcriptions - ZDNet Insights</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/beyond-the-hype-why-apple-is-phasing-out-iphone-13-and-15-pro-top-alternatives-revealed-cnet/"><u>Beyond the Hype: Why Apple Is Phasing Out iPhone 13 and 15 Pro - Top Alternatives Revealed | CNET</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/discover-how-these-3-groundbreaking-iphone-16-innovations-make-upgrades-irresistible-zdnet-insights/"><u>Discover How These 3 Groundbreaking iPhone 16 Innovations Make Upgrades Irresistible | ZDNET Insights</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/get-ready-for-samsung-galaxy-z-fold-6-release-date-approaches-with-expert-specs-breakdown/"><u>Get Ready for Samsung Galaxy Z Fold 6 – Release Date Approaches with Expert Specs Breakdown</u></a></li>
-<li><a href="https://android-frp.techidaily.com/how-to-bypass-frp-on-realme-c67-4g-by-drfone-android/"><u>How to Bypass FRP on Realme C67 4G?</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-full-guide-to-catch-100-iv-pokemon-using-a-map-on-sony-xperia-10-v-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Catch 100 IV Pokémon Using a Map On Sony Xperia 10 V | Dr.fone</u></a></li>
-<li><a href="https://driver-download.techidaily.com/latest-nvidia-geforce-rtx-3090-drivers-compatible-with-windows-11-8-and-7-download-guide/"><u>Latest NVIDIA GeForce RTX 3090 Drivers Compatible with Windows 11, 8 & 7: Download Guide</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/pioneering-protection-paradigms-anticipating-top-7-predictions/"><u>Pioneering Protection Paradigms: Anticipating Top 7 Predictions</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/professional-advice-best-practices-for-regular-maintenance-and-cleaning-of-tv-remotes/"><u>Professional Advice: Best Practices for Regular Maintenance and Cleaning of TV Remotes</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/the-ultimate-walkthrough-linking-airpods-with-the-nintendo-switch/"><u>The Ultimate Walkthrough: Linking AirPods with the Nintendo Switch</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-in-depth-theta-s-evaluation-overview/"><u>[New] 2024 Approved In-Depth Theta S Evaluation Overview</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-instant-recovery-of-vanished-visuals/"><u>[New] In 2024, Instant Recovery of Vanished Visuals</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-screen-play-perfect-apples-no1-top-8-movie-app-guide/"><u>[New] Screen Play Perfect Apple's No.1, Top 8 Movie App Guide</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-a-comprehensive-approach-to-mastering-the-art-of-instagram-reels-for-2024/"><u>[Updated] A Comprehensive Approach to Mastering the Art of Instagram Reels for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-crafting-impeccable-srt-from-xml-ssa-and-ttml-files-for-2024/"><u>[Updated] Crafting Impeccable SRT From XML, SSA & TTML Files for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/easy-steps-for-acquiring-virtual-fun-game-downloads-on-oculus-meta-platform/"><u>Easy Steps for Acquiring Virtual Fun - Game Downloads on Oculus Meta Platform</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-nokia-105-classic-to-mac-drfone-by-drfone-android/"><u>How to Mirror Nokia 105 Classic to Mac? | Dr.fone</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-7-best-online-voice-recorders-2023/"><u>In 2024, 7 Best Online Voice Recorders 2023</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-do-itel-p55-screen-sharing-drfone-by-drfone-android/"><u>In 2024, How To Do Itel P55 Screen Sharing | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/inside-the-buzz-of-the-new-m4-mac-mini-projections-for-specs-costs-and-launch-schedule/"><u>Inside the Buzz of the New M4 Mac Mini - Projections for Specs, Costs & Launch Schedule</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/mac-personalization-tips-how-to-modify-the-color-of-file-directories/"><u>Mac Personalization Tips: How to Modify the Color of File Directories</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/1722893269583-mastering-royal-match-a-step-by-step-guide/"><u>Mastering Royal Match: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/maximize-hard-drive-capacity-with-yls-file-cleanup-tool-for-pc-effective-junk-removal-solutions-from-yl-computing/"><u>Maximize Hard Drive Capacity with YL's File Cleanup Tool for PC - Effective Junk Removal Solutions From YL Computing</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/reveal-and-reclaim-methods-to-identify-your-hidden-email-id/"><u>Reveal and Reclaim: Methods to Identify Your Hidden Email ID</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-instructions-how-to-connect-to-shared-drives-from-your-mac/"><u>Step-by-Step Instructions: How to Connect to Shared Drives From Your Mac</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/1722865231576-stop-receiving-amber-alerts-on-your-android-device-today/"><u>Stop Receiving AMBER Alerts on Your Android Device Today</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-road-to-victory-radio-highlights-of-ncaa-mens-basketball-from-electrifying-march-madness-games-to-the-epic-final-four/"><u>The Road to Victory: Radio Highlights of NCAA Men's Basketball, From Electrifying March Madness Games to the Epic Final Four!</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/top-ranked-best-sony-media-converter-apps-compatible-with-windows/"><u>Top-Ranked Best Sony Media Converter Apps Compatible with Windows</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/uncover-hidden-connections-6-tricks-for-efficiently-searching-people-on-facebook/"><u>Uncover Hidden Connections: 6 Tricks for Efficiently Searching People on Facebook</u></a></li>
 </ul></div>
 

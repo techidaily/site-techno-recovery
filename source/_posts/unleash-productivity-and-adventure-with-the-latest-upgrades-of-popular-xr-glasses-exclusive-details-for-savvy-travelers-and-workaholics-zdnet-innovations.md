@@ -1,7 +1,7 @@
 ---
 title: Unleash Productivity and Adventure with the Latest Upgrades of Popular XR Glasses - Exclusive Details for Savvy Travelers & Workaholics | ZDNET Innovations
-date: 2024-12-18T18:09:01.927Z
-updated: 2024-12-26T04:22:30.848Z
+date: 2025-01-07T18:22:33.362Z
+updated: 2025-01-10T20:57:32.715Z
 tags:
   - apple
 categories:
@@ -21,7 +21,7 @@ Matthew Miller/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -85,7 +85,7 @@ Along with the [Viture Pro XR glasses](https://buy.geni.us/Proxy.ashx?TSID=36825
 Lastly, Viture announced a new limited-edition controller in partnership with 8BitDo. You can connect this new controller, with a classic XBox-style controller layout, via Bluetooth to your gaming device, including the Nintendo Switch. The smokey translucent design looks cool and matches the Viture ecosystem. The 8BitDo controller also serves as a companion to the Viture Neckband, but I have yet to try out the Neckband, so I cannot share my experiences with that accessory.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -122,24 +122,18 @@ The [Viture Pro XR glasses](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-top-15-instagram-videophoto-downloaders-online-and-add-on-and-app-solutions/"><u>[New] 2024 Approved Top 15 Instagram Video/Photo Downloaders – Online & Add-On & App Solutions</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-2024s-optimal-video-capture-equipment-list/"><u>[Updated] 2024’S Optimal Video Capture Equipment List</u></a></li>
-<li><a href="https://blog-min.techidaily.com/5-ways-to-transfer-music-from-zte-blade-a73-5g-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways to Transfer Music from ZTE Blade A73 5G to Other Android Devices Easily | Dr.fone</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/cross-format-communication-from-srt-to-xml-ssa-and-beyond/"><u>Cross-Format Communication From SRT to XML, SSA, and Beyond</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/exclusive-presidents-day-offer-upgrade-to-a-new-macbook-pro-featuring-the-advanced-m3-pro-processor-at-15-off-shop-now-zdnet/"><u>Exclusive President's Day Offer: Upgrade to a New MacBook Pro Featuring the Advanced M3 Pro Processor at 15% Off – Shop Now! | ZDNET</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-change-lock-screen-wallpaper-on-zte-nubia-z60-ultra-by-drfone-android/"><u>How to Change Lock Screen Wallpaper on ZTE Nubia Z60 Ultra</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-12-pro-5g-photos-an-easy-method-explained-by-fonelab-android-recover-photos/"><u>How to Restore Deleted 12 Pro 5G Photos An Easy Method Explained.</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/how-to-unfreeze-your-chromebook-in-8-steps/"><u>How to Unfreeze Your Chromebook in 8 Steps</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/innovative-apple-eyes-new-projects-affordable-ar-spectacles-and-enhanced-vision-tech-revealed/"><u>Innovative Apple Eyes New Projects: Affordable AR Spectacles & Enhanced Vision Tech Revealed</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/iphone-16-upgrade-apple-enhances-camera-with-cutting-edge-visual-recognition-similar-to-google-lens-tech-news/"><u>IPhone 16 Upgrade: Apple Enhances Camera with Cutting-Edge Visual Recognition Similar to Google Lens – Tech News</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/iphone-showdown-comparing-iphone-16-pro-vs-iphone-14-pro-is-it-time-for-an-upgrade-zdnet-tech-insights/"><u>IPhone Showdown: Comparing iPhone 16 Pro Vs. IPhone 14 Pro - Is It Time for an Upgrade? | ZDNet Tech Insights</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/mastering/"><u>Mastering.</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/overcome-skype-connectivity-woes-with-our-top-10-expert-tips/"><u>Overcome Skype Connectivity Woes with Our Top 10 Expert Tips</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tackling-the-marooned-xbox-app-issue-step-by-step/"><u>Tackling the Marooned Xbox App Issue, Step-by-Step</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-flaws-of-ai-chatbots-top-8-issues-with-gpt/"><u>The Flaws of AI Chatbots: Top 8 Issues with GPT</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/to-upgrade-or-not-pros-and-cons-of-switching-to-iphone-16-insights-from-zdnet-experts/"><u>To Upgrade or Not: Pros & Cons of Switching to iPhone 16 - Insights From ZDNet Experts</u></a></li>
-<li><a href="https://win-hot.techidaily.com/top-rated-photoshop-tools-for-effortless-removal-of-unwanted-elements-from-images/"><u>Top Rated Photoshop Tools for Effortless Removal of Unwanted Elements From Images</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/ultimate-guide-to-choosing-an-apple-watch-cover-industry-picks/"><u>Ultimate Guide to Choosing an Apple Watch Cover - Industry Picks</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/understanding-apples-advanced-ai-integration-in-iphone-mac-and-ipad-an-in-depth-guide-by-zdnet/"><u>Understanding Apple's Advanced AI Integration in iPhone, Mac, and iPad - An In-Depth Guide by ZDNet</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/new-crafting-a-journalistic-closing-statement/"><u>[New] Crafting a Journalistic Closing Statement</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-transforming-ordinary-footage-to-ig-masterpieces-for-2024/"><u>[New] Transforming Ordinary Footage to IG Masterpieces for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-how-to-access-your-secret-snaps-archive/"><u>[Updated] In 2024, How to Access Your Secret Snaps Archive</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-mastering-zoom-on-xbox-a-step-by-step-guide/"><u>[Updated] Mastering Zoom on Xbox A Step-by-Step Guide</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/comprehensive-tutorial-how-to-link-up-your-printer-for-device-accessibility/"><u>Comprehensive Tutorial: How to Link Up Your Printer For Device Accessibility</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/enhance-your-sound-experience-the-process-of-matching-a-subwoofer-with-your-samsung-soundbar/"><u>Enhance Your Sound Experience: The Process of Matching a Subwoofer with Your Samsung Soundbar</u></a></li>
+<li><a href="https://fake-location.techidaily.com/fake-the-location-to-get-around-the-mlb-blackouts-on-samsung-galaxy-a14-4g-drfone-by-drfone-virtual-android/"><u>Fake the Location to Get Around the MLB Blackouts on Samsung Galaxy A14 4G | Dr.fone</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/in-2024-crafting-sequences-a-movie-maker-approach-to-animation/"><u>In 2024, Crafting Sequences A Movie Maker Approach to Animation</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-easy-ways-to-manage-your-oppo-a78-location-settings-drfone-by-drfone-virtual/"><u>In 2024, Easy Ways to Manage Your Oppo A78 Location Settings | Dr.fone</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-itop-reviewed-leading-pc-screen-recorders-face-off/"><u>In 2024, ITop Reviewed Leading PC Screen Recorders Face Off</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/mastering-microsoft-teams-with-ai-the-ultimate-guide-to-using-copilot/"><u>Mastering Microsoft Teams with AI: The Ultimate Guide to Using Copilot</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ultimate-selection-elite-network-servers-racks-for-2n4/"><u>Ultimate Selection: Elite Network Servers Racks for 2N4</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/what-exactly-is-a-dac-and-should-you-consider-investing-in-one/"><u>What Exactly Is a DAC and Should You Consider Investing in One?</u></a></li>
 </ul></div>
 
