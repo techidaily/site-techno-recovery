@@ -1,7 +1,7 @@
 ---
 title: Top-Ranking iPad Models Featured & Evaluated by Tech Experts - ZDNet's Guide
-date: 2025-01-05T09:48:44.781Z
-updated: 2025-01-10T20:28:17.838Z
+date: 2025-01-15T17:18:17.903Z
+updated: 2025-01-16T22:44:12.761Z
 tags:
   - apple
 categories:
@@ -26,10 +26,6 @@ The display sizes of small tablets can range from six to 10 inches, with eight i
 
 Based on our extensive hands-on testing with various tablets of all sizes, our pick for the best small tablet is the [iPad Mini](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2F2021-Apple-iPad-Mini-Wi-Fi%2Fdp%2FB09G9FW785%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C173a5220-77d1-43b6-a3ad-2eb6a0101999%7Cdtp&dtb=1), thanks to its 8.3-inch Liquid Retina display and weight of just under 1 pound. We also included compact-sized tablets from Amazon, Samsung, and other brands for those looking for something more compact and easy to carry. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## The best small tablets of 2024
 
 Show less 
@@ -46,14 +42,10 @@ Cons
 * Expensive
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Apple iPad Mini 6th Generation
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Best small tablet overall
 
@@ -88,10 +80,6 @@ Cons
 
 ## Amazon Fire 7 Tablet
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Best budget small tablet
 
 If you're looking for something even smaller and cheaper than the iPad Mini, the Amazon Fire 7 tablet is a great budget tablet pick. The Fire tablet's 7-inch screen has a 1024 x 600 display, so you can stream movies or play video games without hauling around a bulky tablet. 
@@ -122,14 +110,10 @@ Cons
 * Expensive
 * Some complaints of lag
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Boox Tab Mini C
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Best small tablet for note-taking
@@ -159,11 +143,11 @@ Cons
 * Web browser functionality could be better
 * No warm light option
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Amazon Kindle 11th generation
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Best small tablet for reading
 
@@ -193,6 +177,10 @@ Pros
 Cons 
 * Performance could be better
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Samsung Galaxy Tab A7 Lite
 
 ### Best Samsung small tablet
@@ -218,6 +206,10 @@ The best small tablet is the iPad Mini because of its sharp display and impressi
 | Boox Tab Mini C        | $400      | 7.8 inches          | Electronic ink    |
 | Amazon Kindle          | $100      | 6 inches            | 300ppi glare-free |
 | Samsung Galaxy A7 Lite | $100      | 8.7 inches          | 1340x800 pixels   |
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Which small tablet is right for you?
 
@@ -258,6 +250,10 @@ The smallest tablet screen size on the market is 6 to 7 inches. Anything smaller
 
 It's why you want to consider your primary uses when considering which small tablet is right for you. To demonstrate, if you travel often, one with a smaller screen will be perfect for carrying/using on an airplane. If your aim is to read more e-books or draw, you'll want one with a larger screen. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What brand of tablet is best?
 
 Tablets made by Apple, Samsung, and Microsoft are the best-made tablets in terms of quality. Amazon has well-rounded tablets in its Fire lineup but with fewer performance-focused features. Boox is also proving to be an industry underdog, with impressive tablets that function as e-readers and illustrators. 
@@ -275,6 +271,10 @@ Their lightweight body and compact design make them perfect traveling companions
 ## What is the smallest iPad?
 
 The smallest [iPad](https://www.zdnet.com/article/best-ipad/) is the iPad Mini which has a screen size of 8.3 inches. It's also lightweight at just under one pound. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Are there alternative small tablets worth considering?
 
@@ -322,21 +322,22 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-top-5-virtual-realities-samsung-gear-vr-game-hits/"><u>[New] Top 5 Virtual Realities - Samsung Gear VR Game Hits</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-resolving-disconnected-sound-on-obs-broadcast/"><u>[Updated] 2024 Approved Resolving Disconnected Sound on OBS Broadcast</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/1-how-to-deal-with-fluid-found-in-iphone-charging-port-a-comprehensive-guide/"><u>1. How To Deal With Fluid Found in iPhone Charging Port: A Comprehensive Guide</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/2024-approved-spectral-vision-next-gen-drone-review/"><u>2024 Approved Spectral Vision Next-Gen Drone Review</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/all-about-the-future-apple-event-schedule-rumored-announcements-and-more-insights/"><u>All About the Future Apple Event: Schedule, Rumored Announcements, and More Insights</u></a></li>
-<li><a href="https://driver-download.techidaily.com/effortless-driver-installation-for-arduino-mega-nano-2560-get-them-here-now/"><u>Effortless Driver Installation for Arduino Mega Nano 2560 – Get Them Here Now</u></a></li>
-<li><a href="https://win-guides.techidaily.com/excelwindows-11/"><u>Excel文件在Windows 11上恢复删除 -详解</u></a></li>
-<li><a href="https://win11.techidaily.com/innovative-approaches-to-phone-and-pc-sync-on-windows-11/"><u>Innovative Approaches to Phone & PC Sync on Windows 11</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/labor-day-sale-save-24-on-apple-airtag-4-pack-at-walmart-exclusive-offer-for-tech-enthusiasts-zdnet/"><u>Labor Day Sale: Save $24 on Apple AirTag 4-Pack at Walmart! - Exclusive Offer for Tech Enthusiasts | ZDNet</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/personalizing-the-ios-18-control-center-on-your-iphone-a-step-by-step-guide-from-zdnet/"><u>Personalizing the iOS 18 Control Center on Your iPhone - A Step-by-Step Guide From ZDNet</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/should-i-upgrade-to-ios-17/"><u>Should I Upgrade to iOS 17?</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/switching-your-whatsapp-messages-seamlessly-move-from-android-to-ios-with-ease/"><u>Switching Your WhatsApp Messages Seamlessly: Move From Android to iOS with Ease</u></a></li>
-<li><a href="https://solve-marvelous.techidaily.com/top-3-free-artificial-intelligence-tools-for-effortless-ai-pdf-to-excel-conversion/"><u>Top 3 Free Artificial Intelligence Tools for Effortless AI PDF to Excel Conversion</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/top-rated-iphone-se-protection-cases-of-2022-secure-your-device-with-style-techradar/"><u>Top-Rated iPhone SE Protection Cases of 2022 - Secure Your Device with Style | TechRadar</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/unveiling-the-newest-macbook-the-cutting-edge-laptop-from-apple/"><u>Unveiling the Newest MacBook: The Cutting-Edge Laptop From Apple</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/updated-chill-out-playlists-for-non-profit-video-arrangements/"><u>Updated Chill-Out Playlists for Non-Profit Video Arrangements</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-innovative-approaches-to-network-broadcast-with-vlc/"><u>[New] Innovative Approaches to Network Broadcast with VLC</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-spark-innovation-with-these-androids-top-graphic-designers/"><u>[Updated] 2024 Approved Spark Innovation with These Android's Top Graphic Designers</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-custom-soundtracks-simplified-converting-from-spotify-playlists-to-youtube-music/"><u>[Updated] Custom Soundtracks Simplified Converting From Spotify Playlists to YouTube Music</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-superior-sd-card-compatible-with-a7s-ii/"><u>2024 Approved Superior SD Card Compatible with A7S II</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/8-best-apps-for-screen-mirroring-oppo-a1-5g-pc-drfone-by-drfone-android/"><u>8 Best Apps for Screen Mirroring Oppo A1 5G PC | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/comprehensive-guide-navigating-and-resolving-chatgpt-moderation-mistakes/"><u>Comprehensive Guide: Navigating and Resolving ChatGPT Moderation Mistakes</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/1722897678540-discover-samsungs-next-big-thing-the-galaxy-z-fold-6-with-release-info-and-pricing-details/"><u>Discover Samsung's Next Big Thing: The Galaxy Z Fold 6 with Release Info & Pricing Details!</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/easy-steps-to-hide-personal-contact-information-on-android-phones/"><u>Easy Steps to Hide Personal Contact Information on Android Phones</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/enhance-your-samsung-tv-with-the-latest-updates-easy-tutorial-included/"><u>Enhance Your Samsung TV with the Latest Updates - Easy Tutorial Included!</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/guide-to-stop-amber-and-crisis-sms-alarms-on-your-iphone-device/"><u>Guide to Stop Amber and Crisis SMS Alarms on Your iPhone Device</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/guide-shifting-from-google-photos-storage-to-icloud-backup-solutions/"><u>Guide: Shifting From Google Photos Storage to iCloud Backup Solutions</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/lunapic-101-a-step-by-step-photo-editing-guide/"><u>LunaPic 101 A Step-by-Step Photo Editing Guide</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/no-access-to-domain-services-printer-not-responding/"><u>No Access To Domain Services, Printer Not Responding</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/quick-fixes-for-restarting-your-macbook-pro-efficiently/"><u>Quick Fixes for Restarting Your MacBook Pro Efficiently</u></a></li>
+<li><a href="https://win-answers.techidaily.com/quick-guide-overcoming-game-lag-and-crashes-on-path-of-exile-free/"><u>Quick Guide: Overcoming Game Lag and Crashes on Path of Exile (Free)</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-guide-customizing-your-macs-folder-colors/"><u>Step-by-Step Guide: Customizing Your Mac's Folder Colors</u></a></li>
+<li><a href="https://location-social.techidaily.com/why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-realme-11x-5g-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Location is Not Updating and How to Fix On Realme 11X 5G | Dr.fone</u></a></li>
 </ul></div>
 

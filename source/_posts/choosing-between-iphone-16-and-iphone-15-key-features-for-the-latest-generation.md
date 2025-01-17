@@ -1,7 +1,7 @@
 ---
 title: "Choosing Between iPhone 16 and iPhone 15: Key Features for the Latest Generation"
-date: 2025-01-05T00:26:04.713Z
-updated: 2025-01-11T01:10:54.406Z
+date: 2025-01-15T17:55:08.769Z
+updated: 2025-01-16T21:30:46.798Z
 tags:
   - apple
 categories:
@@ -46,12 +46,16 @@ To help you make this decision, we've broken down all of the most important deta
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  You should buy the iPhone 16 if...
 
 Kerry Wan/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  1\. You'd benefit from Apple Intelligence features
 
@@ -60,6 +64,10 @@ Apple is rolling out [multiple AI features to the iPhone 16](https://www.zdnet.c
 **Also: [Your AIrPods Pro 2 can soon double as over-the-counter hearing aids. Here's how](https://www.zdnet.com/article/your-airpods-pro-2-can-soon-double-as-over-the-counter-hearing-aids-heres-how/)**
 
 There is more to the AI features beyond Siri. Apple Intelligence will be able to summarize notifications and Priority Messages in the Mail app. Like Siri, the feature will be able to understand context. [Apple Intelligence](https://www.zdnet.com/article/what-is-apple-intelligence-everything-to-know-about-ai-features-coming-to-iphones-macs-and-ipads/) will gain additional features later in the year like the ability to create custom emojis and perform multiple actions across apps.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  2\. You want a better photography experience
 
@@ -70,7 +78,7 @@ The [iPhone 16](https://www.zdnet.com/article/every-iphone-16-model-compared-whi
 On the side below the [Power Button is the new Camera Control](https://www.zdnet.com/article/every-iphone-16-model-features-a-new-camera-button-heres-what-it-can-do/). It's a tactile switch with a special sensor that can perform unique actions with a light touch. For example, pressing it quickly launches the Camera app for taking quick snapshots or recording a video. It even introduces a preview feature to help you frame the shot. And if that wasn't enough, it'll work with third-party apps.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  3\. You want "next-level performance"
@@ -91,13 +99,13 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  You should buy the iPhone 15 if...
 
 Kerry Wan/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ###  1\. You don't require the generative AI capabilities
 
@@ -107,10 +115,6 @@ All of the bells and whistles on the iPhone 16 are certainly nice, but are they 
 
 Sometimes, it's best to wait until all the bugs have been ironed out. Plus, there's a lot of uncertainty surrounding the chipset. Early impressions indicate the A18 can handle all the AI features, but can it? Or will we see a performance drop once it launches? 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ###  2\. You're on a budget
 
 With the release of a new model, older phones often see a price drop, and that is exactly what we're getting here. Apple has cut the price of the iPhone 15 by about $100 off its digital storefront to entice new adopters. 
@@ -118,10 +122,6 @@ With the release of a new model, older phones often see a price drop, and that i
 It wouldn't be a bad pick-up, either. The camera system of the previous generation is great to this day, the A16 Bionic chip is still plenty powerful, and the Dynamic Island is a welcomed addition. You can enjoy a similar camera performance. Plus, you won't be bogged down by nascent AI features you may or may not ever use. 
 
 [Buy the iPhone 15 $729.99 at Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fbestbuy.7tiv.net%2Fc%2F376373%2F633495%2F10014%3Fprodsku%3D6417990%26u%3Dhttp%253A%252F%252Fwww.bestbuy.com%252Fsite%252F-%252F6417990.p%253Fcmp%253DRMX&publisher_slug=itechdaily19598&exclusive=1)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Alternatives to consider
 
@@ -157,14 +157,22 @@ It wouldn't be a bad pick-up, either. The camera system of the previous generati
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-creative-builders-top-easy-homes-in-minecraft/"><u>[New] Creative Builders Top Easy Homes in Minecraft</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-setup-made-simple-installing-vrecorder/"><u>[Updated] In 2024, Setup Made Simple Installing VRecorder</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/aumenta-la-qualita-del-tuo-video-con-winxvideo-ai-una-guida-completa/"><u>Aumenta La Qualità Del Tuo Video Con Winxvideo AI: Una Guida Completa</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/best-long-range-evs-discover-the-5-most-impressive-models-available-now/"><u>Best Long-Range EVs: Discover the 5 Most Impressive Models Available Now</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/experiencing-the-extraordinary-my-amazing-time-with-apple-vision-pro-while-binging-my-top-pick-tv-series-a-detailed-review/"><u>Experiencing the Extraordinary: My Amazing Time with Apple Vision Pro While Binging My Top Pick TV Series - A Detailed Review</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/mastering-battery-efficiency-by-pausing-android-apps-from-running-silently/"><u>Mastering Battery Efficiency by Pausing Android Apps From Running Silently</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/211210794--the-witchs-way-home/"><u>The Witch's Way Home | Free Book</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/troubleshoot-android-parse-issues-with-these-8-key-fixes/"><u>Troubleshoot Android Parse Issues with These 8 Key Fixes</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/unleashing-the-full-power-of-the-m4-ipad-pro-how-ai-innovations-will-shine-at-apples-upcoming-wwdc/"><u>Unleashing the Full Power of the M4 iPad Pro: How AI Innovations Will Shine at Apple's Upcoming WWDC</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-top-10-iphone-and-android-video-editing-apps-for-gopro-for-2024/"><u>[New] Top 10 iPhone & Android Video Editing Apps for GoPro for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-innovative-methods-to-enhance-images-through-cropping/"><u>[Updated] Innovative Methods to Enhance Images Through Cropping</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-secure-subjects-with-stealthy-image-alteration/"><u>2024 Approved Secure Subjects with Stealthy Image Alteration</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-tecno-spark-go-2023-drfone-by-drfone-virtual-android/"><u>9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On Tecno Spark Go (2023) | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/best-free-tools-and-apps-for-students-get-ready-for-back-to-school/"><u>Best Free Tools & Apps for Students: Get Ready for Back-to-School</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/easy-instructions-how-to-refresh-the-vocabulary-tools-on-your-amazon-kindle-fire-device/"><u>Easy Instructions: How to Refresh the Vocabulary Tools on Your Amazon Kindle Fire Device</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/effortless-e-reading-mastering-kindle-content-consumption-on-the-google-nexus-7-tablet/"><u>Effortless E-Reading: Mastering Kindle Content Consumption on the Google Nexus 7 Tablet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/enhance-your-ebooks-a-user-friendly-guide-to-adjusting-metadata-swiftly-in-ultimate-converter/"><u>Enhance Your eBooks: A User-Friendly Guide to Adjusting Metadata Swiftly in Ultimate Converter</u></a></li>
+<li><a href="https://some-tips.techidaily.com/experience-the-best-apple-vision-pro-showcases-superior-in-store-demos-learn-whats-new-and-secure-your-spot/"><u>Experience the Best: Apple Vision Pro Showcases Superior In-Store Demos – Learn What’s New & Secure Your Spot!</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/expertly-selected-spots-for-high-quality-smartphone-acquisitions/"><u>Expertly Selected Spots for High-Quality Smartphone Acquisitions</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/fixing-sound-glitches-for-a-perfect-gaming-experience-solutions-for-xbox-series-xs-headsets/"><u>Fixing Sound Glitches for a Perfect Gaming Experience: Solutions for Xbox Series X/S Headsets</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-downgrade-iphone-14-plus-without-data-loss-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade iPhone 14 Plus without Data Loss? | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-use-google-assistant-on-your-lock-screen-of-tecno-camon-20-premier-5g-phone-by-drfone-android/"><u>How to Use Google Assistant on Your Lock Screen Of Tecno Camon 20 Premier 5G Phone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-the-best-android-unlock-software-for-honor-v-purse-device-top-5-picks-to-remove-android-locks-by-drfone-android/"><u>In 2024, The Best Android Unlock Software For Honor V Purse Device Top 5 Picks to Remove Android Locks</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/quick-and-simple-account-creation-steps-for-seamless-online-registration/"><u>Quick and Simple Account Creation Steps for Seamless Online Registration</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/review-mophie-ac-powerstation-is-it-worth-its-high-cost/"><u>Review: Mophie AC Powerstation - Is It Worth Its High Cost?</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-guide-setting-up-your-oculus-questquest-2-account/"><u>Step-by-Step Guide: Setting Up Your Oculus Quest/Quest #2 Account</u></a></li>
 </ul></div>
 

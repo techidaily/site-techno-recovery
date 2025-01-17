@@ -1,7 +1,7 @@
 ---
 title: "Inside Scoop on Google Pixel 9: Projected Pricing Structure, Launch Window & Rumored Gadget Attributes"
-date: 2024-08-26T05:56:55.660Z
-updated: 2024-08-27T05:56:55.660Z
+date: 2025-01-13T16:22:38.053Z
+updated: 2025-01-16T18:32:12.260Z
 categories:
   - BestProducts
 description: "This Article Describes Inside Scoop on Google Pixel 9: Projected Pricing Structure, Launch Window & Rumored Gadget Attributes"
@@ -41,18 +41,12 @@ We anticipate an August 2024 event to showcase the Pixel 9 phones.
 * **Pixel 9 Pro XL** \- $1,199
 * **Pixel 9 Pro Fold** \- $1,799
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Pre-Order Information
 
  You can't pre-order the Pixel 9 just yet. We'll drop the link here when pre-ordering starts, which will likely be the same day Google unveils the phones.
 
 [The Best Waterproof Phone Cases of 2024](https://www.lifewire.com/best-waterproof-phone-cases-4158190)
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
-<!-- affiliate ads end -->
 ## Google Pixel 9 Features
 
  The Pixel 9 phones will ship with[Android 15](https://www.lifewire.com/android-15-7547471) . Here are some of the new features that are expected to arrive on the 2024 Pixel phones:
@@ -62,13 +56,14 @@ We anticipate an August 2024 event to showcase the Pixel 9 phones.
 * **Offline location tracking** : Android 15 will introduce Google's Find My Device network for locating compatible items via Bluetooth. The Pixel 9 might be the first Google phone to be findable even when it's turned off.
 * **Satellite messaging** : The Pixel 9 is expected to be the first phone to support Android's satellite communication implementation. This feature will let you text over a satellite even if you don't have a mobile data connection.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Google Pixel 9 Specs and Hardware
 
  Nothing is confirmed until Google makes it official in October. But here's what we've gathered so far from supposed leaks and rumors:  
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Display
 
  Interestingly, the Pixel 9's screen might be a little smaller than the one on the Pixel 8\. It's not a huge change—6.03 inches versus 6.1 inches—but it does seem a bit weird when you think about it. One might assume an upgraded phone means it'll be bigger (or at least stay the same size), but not get_smaller_ .
@@ -80,35 +75,42 @@ We anticipate an August 2024 event to showcase the Pixel 9 phones.
  Below is[MySmartPrice's](https://www.mysmartprice.com/gear/pixel-9-pro-5k-renders-360-degree-video-exclusive/) take on what the Pixel 9 Pro XL might look like. You can see its thin bezels and new camera layout.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Performance
 
  The Tensor G4 will likely power all four Pixel 9 phones. This is an expected upgrade, given the Pixel 8's Tensor G3 chip.[According to Android Authority](https://www.androidauthority.com/pixel-9-sos-satellite-connectivity-3433498/) , this chip will include the more power-efficient and faster Samsung Modem 5400, which may also introduce support for satellite-based messaging.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Cameras
 
  This year's Pixels are changing up the camera bar. Compared to the Pixel 8's camera housing, it looks a bit more compact and rounded, but also flatter on the sides. It now has a small gap on either end that distinguishes it from last year's phones.
 
 ![A render of the Google Pixel 9, showing the rear camera array](https://www.lifewire.com/thmb/Z-Oo9PCfnUvx4aph9Yv2DHMRXVQ=/960x0/filters:no_upscale():max_bytes(200000):strip_icc():format(webp)/Google-Pixel-Render-85e42f165c7c447db2d5f9bc9e3a7ef1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 MySmartPrice
 
  Based on those renders, it looks like the temperature sensor is returning to the lineup, and the enlarged camera sensor could point to a variable aperture lens (i.e., the aperture adjusts based on focal length).
 
  At least for the Pixel 9 Pro XL, we're hearing from MySmartPrice that the triple rear cameras will include a telephoto sensor and a periscope telephoto sensor. The selfie camera hardware will likely change, too, since the Pixel 8's remained the same as the Pixel 7's; an upgrade sounds reasonable after a few years.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Battery
 
  There haven't been any details about the Pixel 9 battery yet, except that the Pixel 9 series might support the Qi2 wireless charging standard.
 
  Some evidence to support this comes from the fact that Liyu Yang, one of the board of directors at the Wireless Power Consortium (the publisher of the Qi standard) is a senior hardware engineer at Google who's[leading the design of next-gen wireless charging platforms for future Pixel products](https://www.wirelesspowerconsortium.com/blog-pages/wpc-welcomes-new-board-member/) .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Other Specs
 
@@ -126,14 +128,11 @@ MySmartPrice
 
 [Surprise: Google's Find My May Be More Private Than Apple's](https://www.lifewire.com/google-find-my-device-better-than-apple-8629920)
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -142,4 +141,24 @@ MySmartPrice
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-dive-into-time-lapse-shooting-gopro-unveiled/"><u>[New] In 2024, Dive Into Time-Lapse Shooting GoPro Unveiled</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-live-and-learn-twitter-video-chronicles-of-23-for-2024/"><u>[New] Live and Learn Twitter Video Chronicles of '23 for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/can-iphone-users-disable-or-delete-stock-apps-purchased-with-itunes-money/"><u>Can iPhone Users Disable or Delete Stock Apps Purchased with iTunes Money?</u></a></li>
+<li><a href="https://win-great.techidaily.com/como-habilitar-la-transferencia-automatica-de-archivos-entre-carpetas-locales-y-su-nas-synology-mediante-windows/"><u>Cómo Habilitar La Transferencia Automática De Archivos Entre Carpetas Locales Y Su NAS Synology Mediante Windows</u></a></li>
+<li><a href="https://win-blog.techidaily.com/efficient-solutions-for-correcting-downloadinstall-faults-in-age-of-empires-iv-game/"><u>Efficient Solutions for Correcting Download/Install Faults in Age of Empires IV Game</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/empower-students-with-these-6-unique-homework-supporting-applications/"><u>Empower Students with These 6 Unique Homework Supporting Applications</u></a></li>
+<li><a href="https://win11.techidaily.com/guiding-through-microsoft-to-do-non-synchronization-woes/"><u>Guiding Through Microsoft To-Do Non-Synchronization Woes</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-correctly-install-d3dx933dll-and-fix-missing-errors/"><u>How to Correctly Install d3dx9_33.dll and Fix Missing Errors</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-2024-mastering-audio-file-transformation-srt-to-xmlssattml/"><u>In 2024, Mastering Audio File Transformation SRT to XML/SSA/TTML</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/inside-scoop-on-the-upcoming-google-pixel-watch-anticipated-costs-launch-timeline-and-features/"><u>Inside Scoop on the Upcoming Google Pixel Watch - Anticipated Costs, Launch Timeline & Features</u></a></li>
+<li><a href="https://discover-amazing.techidaily.com/optimiser-la-taille-de-vos-fichiers-mp4-sans-sacrifier-la-qualite-guide-complet/"><u>Optimiser La Taille De Vos Fichiers MP4 Sans Sacrifier La Qualité - Guide Complet</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solve-your-chrome-stalling-problems-effective-troubleshooting-steps/"><u>Solve Your Chrome Stalling Problems - Effective Troubleshooting Steps</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/solving-the-mystery-why-your-cd-dvd-and-bd-drive-wont-eject-and-how-to-fix-it/"><u>Solving the Mystery: Why Your CD, DVD & BD Drive Won’t Eject and How to Fix It</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-top-4-imperatives-boosting-xbox-points-strategy/"><u>The Top 4 Imperatives: Boosting Xbox Points Strategy</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-ultimate-fix-for-msvcr80dll-not-detected-tips-and-tricks-unveiled/"><u>The Ultimate Fix for 'msvcr80.dll Not Detected': Tips and Tricks Unveiled</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/troubleshooting-the-libgdk-win32-20-0dll-not-found-easy-solutions/"><u>Troubleshooting the Libgdk-Win32-2.0-0.DLL Not Found: Easy Solutions</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ultimate-guide-resolving-whea-uncorrectable-failures/"><u>Ultimate Guide: Resolving WHEA Uncorrectable Failures</u></a></li>
+</ul></div>
 

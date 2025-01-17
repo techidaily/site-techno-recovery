@@ -1,7 +1,7 @@
 ---
 title: "All You Need to Know About PSVR2: Release Info, Costs, and Tech Specs Revealed"
-date: 2024-08-20T10:01:06.457Z
-updated: 2024-08-21T10:01:06.457Z
+date: 2025-01-11T22:35:10.690Z
+updated: 2025-01-16T17:03:59.761Z
 categories:
   - BestProducts
 description: "This Article Describes All You Need to Know About PSVR2: Release Info, Costs, and Tech Specs Revealed"
@@ -25,6 +25,10 @@ Sony Interactive Entertainment
 
  You can[ order PlayStation VR2](https://direct.playstation.com/en-us/consoles/console/playstationvr2.1000033579) through PlayStation’s website.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## PSVR 2 Price 
 
  The PlayStation VR2 starts at $549.99\. This includes the headset, PSVR 2 Sense controller, stereo headphones, and USB cable.
@@ -32,8 +36,9 @@ Sony Interactive Entertainment
  The $599.99 option is identical, but includes a PlayStation Store voucher code for_Horizon Call of the Mountain_ .
 
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## PSVR 2 Features 
 
  Sony calls the PlayStation VR2 a "true next-gen experience with high-fidelity visuals, new sensory features, and enhanced tracking – along with a simplified single-cord setup." Their[ PlayStation VR2: The Ultimate FAQ](https://blog.playstation.com/2023/02/06/playstation-vr2-the-ultimate-faq/) is a great source for all things PSVR 2\. Below are some of these notable features.
@@ -52,9 +57,6 @@ Sony Interactive Entertainment
 * Cinematic Mode to let the PSVR 2 display whatever is running on the PS5 via a 1920x1080 HDR virtual screen with 120Hz refresh rate. The other mode is VR Mode, which is a 360-degree view via a 4000x2040 HDR virtual environment with 90Hz/120Hz refresh rate
 * Set up your space and view your surroundings while wearing the headset via the See-Through View feature. This is possible through the headset's function key, or Quick Settings
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## PSVR 2 Specs and Hardware 
 
  These are the official specs from Sony:
@@ -78,8 +80,9 @@ Sony Interactive Entertainment
 ![Sony PS VR2 headset and controllers](https://www.lifewire.com/thmb/YQOZPsDJRvkR6H16-bJbeNPwiEo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/sony-psvr2-headset-controllers-260b6a7a01394b4eb22225694cfa4632.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Sony
 
  Instead, you're put through a calibration that make sure your eyes are situated properly. It works by showing you two circles on an animated face. Just adjust the headset's fit and IPD so your eyes (the circles) look normal on the cartoon's face.
@@ -95,8 +98,9 @@ Sony
 ![Hands in the PSVR 2 controllers](https://www.lifewire.com/thmb/10YFeOcuuE8u308PEiKqtTNmyyg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/psvr-controllers-216b1d9a6fd1492ebdcbfc8a1b40e847.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Sony
 
 | PlayStation VR2 Sense Controller Specs |                                                                                                                                                                                                                                              |
@@ -108,9 +112,6 @@ Sony
 | **Communication:**                     | Bluetooth 5.1                                                                                                                                                                                                                                |
 | **Battery:**                           | Built-in Lithium-ion rechargeable battery​                                                                                                                                                                                                   |
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
-<!-- affiliate ads end -->
 ## Confirmed PSVR 2 Games 
 
 [ Over 40 titles launched the same day as the PSVR 2 release](https://blog.playstation.com/2023/02/21/10-new-ps-vr2-titles-revealed-launch-window-lineup-now-over-40-games/) , with others arriving shortly after or at some time in the future. There are currently[ over 100 games in development](https://www.lifewire.com/psvr-2-games-list-7509088) .
@@ -140,22 +141,9 @@ Sony
  It's worth noting here that[ there's no backwards compatibility for PSVR games](https://www.playstation.com/en-us/support/hardware/ps-vr2-compatibility/) , so you can't play original PSVR games on the PSVR 2\. The[ PlayStation Store website lists PSVR 2 games](https://store.playstation.com/en-us/category/c0fce398-e580-4d7d-b952-c6594517a8b6/1) that you can filter by price, genre, and more. Sony says games that work with the PSVR 2 have prominent branding elements to indicate compatibility.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
-VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
-
-Key features:
-
-•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
-•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
-•	Visual effects, advanced color correction and trendy Instagram-like filters   
-•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
-•	Non-linear editing: edit several files with simultaneously 
-•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
-•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
-•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
-•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  The Latest News About the PSVR 2 
 
  You can [ get more gaming news from Lifewire](https://www.lifewire.com/gaming-news-4797039) on all kinds of topics; here are more stories and some of the early rumors about Sony's PSVR 2.
@@ -194,8 +182,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -203,4 +189,20 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-excellence-in-screensnapting-fast-reliable-recorder/"><u>[New] 2024 Approved Excellence in Screensnapting Fast, Reliable Recorder</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-top-voice-modification-tools-for-youtube-creators/"><u>[New] In 2024, Top Voice Modification Tools for YouTube Creators</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-enhance-your-shorts-fresh-and-original-thumbnails-with-minimal-effort/"><u>[Updated] In 2024, Enhance Your Shorts Fresh and Original Thumbnails with Minimal Effort</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/capture-and-convey-top-10-image-writing-aid-apps-iosandroid/"><u>Capture and Convey Top 10 Image Writing Aid Apps (iOS/Android)</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/exploring-the-world-of-live-tv-boxes-unveiling-what-streamers-really-mean/"><u>Exploring the World of Live TV Boxes: Unveiling What Streamers Really Mean</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/fixing-the-not-found-opengl32dll-issue-expert-advice-and-solutions/"><u>Fixing the Not Found OpenGL32.dll Issue: Expert Advice and Solutions</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/illuminating-your-android-videos-a-quick-guide/"><u>Illuminating Your Android Videos A Quick Guide</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721444599828-no-beep-reactivate-your-iphone-text-tones-with-these-16-handy-fixes/"><u>No Beep? Reactivate Your iPhone Text Tones with These 16 Handy Fixes!</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/resolve-your-pcs-d3dx9xdll-error-essential-fixes-and-tips/"><u>Resolve Your PC's d3dx9x.dll Error: Essential Fixes and Tips</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-guide-erasing-data-from-your-dell-notebook/"><u>Step-by-Step Guide: Erasing Data From Your Dell Notebook</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/sync-your-speech-with-chatgpts-ai-response-system/"><u>Sync Your Speech with ChatGPT's AI Response System</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-essentials-of-output-impedance-explained-simply/"><u>The Essentials of Output Impedance Explained Simply</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-seven-secrets-to-boosting-your-laptops-performance-instantly/"><u>Top Seven Secrets to Boosting Your Laptop's Performance Instantly</u></a></li>
+</ul></div>
 

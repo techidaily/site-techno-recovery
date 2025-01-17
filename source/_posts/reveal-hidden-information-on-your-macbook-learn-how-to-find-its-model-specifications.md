@@ -1,7 +1,7 @@
 ---
 title: Reveal Hidden Information on Your MacBook – Learn How to Find Its Model Specifications
-date: 2024-08-20T09:59:55.020Z
-updated: 2024-08-21T09:59:55.020Z
+date: 2025-01-09T17:19:06.134Z
+updated: 2025-01-16T23:57:27.218Z
 categories:
   - BestProducts
 description: This Article Describes Reveal Hidden Information on Your MacBook – Learn How to Find Its Model Specifications
@@ -14,6 +14,10 @@ thumbnail: https://www.lifewire.com/thmb/INqYOYl0gTK-jucGkSZxrYFEREU=/400x300/fi
 
  Instructions in this article apply broadly to all devices that are able to connect to Discord.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Tell If Discord Is Down
 
  If you think the Discord servers are down for everyone, try these steps to check:
@@ -21,14 +25,28 @@ thumbnail: https://www.lifewire.com/thmb/INqYOYl0gTK-jucGkSZxrYFEREU=/400x300/fi
 1. Check the[Discord Service Status](https://status.discord.com) page to see if there have been issues.  
 ![Discord server status page](https://www.lifewire.com/thmb/yFSV49MklrykNCgZ93liSe1qZt0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/is-discord-down-or-is-it-just-you-50256951-64f18a956bac488899f2b478d1c286a9.jpg)  
  This page is hosted by Discord, so if there's a significant problem with the service, the information may not be available here.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 2. Search X (formerly Twitter) for #discorddown. Pay attention to when people tweeted about Discord being down. If the tweets are recent, they may have the same issues as you're running into.  
 ![#discorddown hashtag on Twitter](https://www.lifewire.com/thmb/VTkvVzzWtl2q1P78ZIep47rwOBo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/is-discord-down-or-is-it-just-you-50256952-c360b9c4c6d64c2e8214179b37a1931a.jpg)
 3. While you're on X, check Discord's page for any updates on whether the service is down. Discord doesn't often post service information here, but it's worth a quick look.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Discord Twitter account](https://www.lifewire.com/thmb/duH1jCzJjaIdBXNdYvzfWT2dzjk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/is-discord-down-or-is-it-just-you-50256953-0ac75f448e784f739501c218e70589b5.jpg)  
  If you can't open X either, then the problem is likely on your end or with your ISP.
 4. Use a third-party status checker website like[Down For Everyone Or Just Me](https://downforeveryoneorjustme.com/discord) ,[Downdetector](https://downdetector.com/status/discord/) ,[Is It Down Right Now?](https://www.isitdownrightnow.com/discord.com.html) , and[Outage.Report](https://outage.report/discord) .  
 ![Discord Downdetector page](https://www.lifewire.com/thmb/Dkbd1Gn7UxOCVbebPQPG9QuzVpQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/is-discord-down-or-is-it-just-you-50256954-e47fef8c259d4a9d805e652ae722fcbd.jpg)  
  If no one else is having an issue with Discord, then the problem is likely something on your end.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What to Do When You Can't Connect to Discord
 
@@ -47,8 +65,9 @@ thumbnail: https://www.lifewire.com/thmb/INqYOYl0gTK-jucGkSZxrYFEREU=/400x300/fi
  If nothing has worked yet, you're probably dealing with an internet issue on your end. Contact your[ISP](https://www.lifewire.com/internet-service-provider-isp-2625924) to request further help.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Discord Error Messages
 
  Discord is a fairly reliable service most of the time but when it has issues, it often displays error messages that explain[why you can't connect](https://www.lifewire.com/fix-it-when-discord-wont-open-5076489) . For example:
@@ -80,8 +99,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -89,4 +106,26 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-efficient-use-of-obs-studio-for-android-devices/"><u>[New] 2024 Approved Efficient Use of OBS Studio for Android Devices</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-how-to-view-comprehensively-shared-images-and-movies-by-friends/"><u>[New] 2024 Approved How To View Comprehensively Shared Images and Movies by Friends?</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-hone-your-meme-skills-quickly-using-9gag-strategies/"><u>[New] Hone Your Meme Skills Quickly Using 9GAG Strategies</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-2024-approved-high-quality-tiktok-editors-ranked-1-10-on-windows/"><u>[Updated] 2024 Approved High-Quality TikTok Editors Ranked #1-10 on Windows</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-unblemished-visuals-buying-high-quality-images/"><u>[Updated] 2024 Approved Unblemished Visuals Buying High-Quality Images</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/a-home-theater-enthusiasts-guide-to-overcoming-hdcp-complications/"><u>A Home Theater Enthusiast's Guide to Overcoming HDCP Complications</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/bid-farewell-to-twitch-the-ultimate-guide-for-account-termination/"><u>Bid Farewell to Twitch: The Ultimate Guide for Account Termination</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discovering-audio-excellence-beyond-giants-how-a-new-soundbar-outshone-bose-and-sony-on-zdnet/"><u>Discovering Audio Excellence Beyond Giants: How a New Soundbar Outshone Bose & Sony on ZDNET</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/diy-fixes-for-when-your-corsair-hs70-headset-microphone-stops-working/"><u>DIY Fixes for When Your Corsair HS70 Headset Microphone Stops Working</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/first-steps-in-the-world-of-x-comprehensive-instructions-for-new-users/"><u>First Steps in the World of X: Comprehensive Instructions for New Users</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-address-and-correct-stop-code-0x0000001d-on-your-pc/"><u>How to Address and Correct Stop Code 0X0000001D on Your PC</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/is-there-a-business-model-for-shopping-blog-reviews-in-2024/"><u>Is There a Business Model for Shopping Blog Reviews, In 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/real-world-vr-device-showcase-for-2024/"><u>Real-World VR Device Showcase for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/resolving-osetupdll-file-absent-a-comprehensive-guide/"><u>Resolving 'oSetup.dll' File Absent: A Comprehensive Guide</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/securing-your-twitch-presence-how-to-enable-and-utilize-dual-authentication-for-added-protection/"><u>Securing Your Twitch Presence: How to Enable and Utilize Dual Authentication for Added Protection</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/solving-the-mystery-a-guide-on-addressing-msvcr80dll-file-missing-issues/"><u>Solving the Mystery: A Guide on Addressing msvcr80.dll File Missing Issues</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/spark-change-with-these-10-inspirational-classics-for-2024/"><u>Spark Change with These 10 Inspirational Classics for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-secret-techniques-for-seamless-background-blur-while-using-google-meet/"><u>The Secret Techniques for Seamless Background Blur While Using Google Meet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/troubleshooting-when-xlivedll-cant-be-located-on-your-pc-step-by-step-solutions/"><u>Troubleshooting When xlive.dll Can't Be Located on Your PC: Step-by-Step Solutions</u></a></li>
+</ul></div>
 

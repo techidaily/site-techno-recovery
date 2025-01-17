@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Process: Creating & Customizing Reminders in Slack App"
-date: 2024-08-26T05:58:05.654Z
-updated: 2024-08-27T05:58:05.654Z
+date: 2025-01-11T23:14:03.974Z
+updated: 2025-01-16T20:50:09.416Z
 categories:
   - BestProducts
 description: "This Article Describes Step-by-Step Process: Creating & Customizing Reminders in Slack App"
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/fb8053ac7214659fa378f042df998d4365da978dd
 
  You can apply various effects to both photo and video snaps on[Snapchat](https://www.lifewire.com/snapchat-trends-3485994) , including one that plays your video snap in reverse. Follow these instructions to learn how to reverse video snaps before sending them off to friends or posting them to your stories.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Reverse a Video Snap
 
  Reversing a video snap is as easy as[applying a filter](https://www.lifewire.com/apply-snapchat-filters-4157939) to it. You can do this in both the iOS and Android versions of the Snapchat app using the same steps.
@@ -25,8 +29,9 @@ thumbnail: https://thmb.techidaily.com/fb8053ac7214659fa378f042df998d4365da978dd
 1. Record a new video snap in the app by tapping and holding the**record** button. Your video must be less than 10 seconds for the reverse filter to be available.  
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Note  
 
  You can apply the reverse filter effect only to videos that you've recorded on Snapchat. You won't be able to reverse video snaps from videos you[uploaded to Snapchat from your device](https://www.lifewire.com/upload-saved-photos-or-videos-to-snapchat-4103878) .
@@ -34,19 +39,22 @@ thumbnail: https://thmb.techidaily.com/fb8053ac7214659fa378f042df998d4365da978dd
 ![Steps to take to reverse a video on Snapchat with the record button and Reverse Filter icon highlighted](https://www.lifewire.com/thmb/fC-N-GZHtzhS6HfpjU3plsvT7c4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/123Reversesnapchat-21fd401ccb4347e3ab99f6189284d3a6.jpg)  
 
 <!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Tip  
 
  The reverse video filter is about the eighth filter when swiping to the left. You can find the reverse filter by swiping right through filters, but that will take you longer to get to it. Some filters let you speed up your video snap (**rabbit** filter) or slow it down (**snail** filter).
 3. Optionally, add more effects (text, stickers, drawings, etc.) to your video snap. Tap**Send To** to send it to friends and/or post it to your stories.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## When to Apply the Reverse Filter on Video Snaps
 
  Reversing your video snaps is a fun way to showcase a series of events backward. This filter is often best applied to action-packed videos.
@@ -82,8 +90,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -91,4 +97,17 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-knowledge.techidaily.com/updated-an-in-depth-look-at-basic-and-simplified-hdr-photography-for-2024/"><u>[Updated] An In-Depth Look at Basic and Simplified HDR Photography for 2024</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-elevate-your-content-tiktoks-premium-font-selection-for-2024/"><u>[Updated] Elevate Your Content TikTok's Premium Font Selection for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/demystifying-rtx-gpus-a-detailed-look-into-their-functionality/"><u>Demystifying RTX GPUs - A Detailed Look Into Their Functionality</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/improve-performance-how-to-reset-app-cache-on-your-android-device/"><u>Improve Performance: How to Reset App Cache on Your Android Device</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-unveiling-aerial-shots-the-full-potential-of-mi-drone/"><u>In 2024, Unveiling Aerial Shots The Full Potential of MI Drone</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-visual-virtuosos-curating-the-best-10-camera-optics/"><u>In 2024, Visual Virtuosos Curating the Best 10 Camera Optics</u></a></li>
+<li><a href="https://driver-error.techidaily.com/mastering-old-school-tech-tips-for-operating-classic-usb-composite-gadgets/"><u>Mastering Old School Tech: Tips for Operating Classic USB Composite Gadgets</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-best-apps-of-the-year-for-easy-and-effective-house-painting-projects/"><u>The Best Apps of the Year for Easy and Effective House Painting Projects</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-data-from-samsung-galaxy-xcover-7-by-fonelab-android-recover-data/"><u>The way to get back lost data from Samsung Galaxy XCover 7</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ultimate-guide-finding-rentals-with-these-10-essential-sites/"><u>Ultimate Guide: Finding Rentals with These 10 Essential Sites</u></a></li>
+</ul></div>
 

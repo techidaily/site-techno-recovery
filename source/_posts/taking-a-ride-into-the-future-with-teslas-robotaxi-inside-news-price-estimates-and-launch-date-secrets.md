@@ -1,7 +1,7 @@
 ---
 title: Taking a Ride Into the Future with Tesla's Robotaxi - Inside News, Price Estimates & Launch Date Secrets
-date: 2024-08-26T05:55:58.624Z
-updated: 2024-08-27T05:55:58.624Z
+date: 2025-01-10T01:29:22.952Z
+updated: 2025-01-17T00:21:35.431Z
 categories:
   - BestProducts
 description: This Article Describes Taking a Ride Into the Future with Tesla's Robotaxi - Inside News, Price Estimates & Launch Date Secrets
@@ -21,34 +21,40 @@ thumbnail: https://www.lifewire.com/thmb/wYbs9YPjfqu3bTOidf7VUpLUAgM=/400x300/fi
 
 [Samsung Unpacked](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.samsung.com%2Fglobal%2Fgalaxy%2Fevents%2Funpacked%2F) is a marketing and launch event Samsung holds regularly to introduce new products. There are typically multiple Unpacked events each year.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## When Will the Next Samsung Unpacked Take Place?
 
  We don't have details for the next Samsung Unpacked event, but we think it will be in January 2025\. It will likely focus on the company's flagship Galaxy phones.
 
  The previous Unpacked was on July 10, 2024; the company announced the latest Galaxy Z Flip and Z Fold models, along with Galaxy Buds, Galaxy Watches, and the new Galaxy Ring.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Watch Samsung Unpacked
 
  Samsung's events happen around the world, but the company streams it live on its website and YouTube channels. You can learn how to[watch it here](https://www.lifewire.com/watch-samsung-unpacked-online-5095263) .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ## Which Products Will Be Released?
 
  The last January event featured the latest versions of Samsung's flagship Galaxy S phones, so we expect the same for 2025\. We'll see the[Galaxy S25/S25+](https://www.lifewire.com/samsung-galaxy-s25-8636730) and[S25 Ultra](https://www.lifewire.com/samsung-galaxy-s25-ultra-8639667) for sure. We might also see a new Galaxy Tablet, but we'll have to wait and see.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## What Previous Unpacked Events Announced
 
  Curious about what Samsung's announced at the last event? We've got the details below. The Galaxy Flip and Fold series are the[newest phones from the tech giant](https://www.lifewire.com/newest-samsung-galaxy-phone-7567396) .
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### July 2024 Unpacked Event
 
  The following products were announced at the July 2024 Unpacked event.
@@ -68,8 +74,9 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
  The foldable devices–the Flip 6 and Fold 6–continue the company's dedication to artificial intelligence with new photo editing and generation features. One notable one has your phone generating a fully rendered image based on your sketch.
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## The Latest Samsung News
 
  While you can always read the[latest technology news on Lifewire](https://www.lifewire.com/news-4795879) , here are some pieces of interest about Samsung.
@@ -86,8 +93,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -95,4 +100,18 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-bridging-gaps-transforming-trend-data-into-video-concepts-for-2024/"><u>[Updated] Bridging Gaps Transforming Trend Data Into Video Concepts for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-simplified-screen-capture-methods-for-stories-for-2024/"><u>[Updated] Simplified Screen Capture Methods for Stories for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-reigniting-the-social-sphere-how-to-amplify-instagram-activity/"><u>2024 Approved Reigniting the Social Sphere How to Amplify Instagram Activity</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/complete-guide-resetting-your-macbook-pro-for-optimal-performance/"><u>Complete Guide: Resetting Your MacBook Pro for Optimal Performance</u></a></li>
+<li><a href="https://program-issues.techidaily.com/effective-solutions-to-address-total-war-warhammer-iis-frequent-crash-incidents/"><u>Effective Solutions to Address Total War: WARHAMMER II's Frequent Crash Incidents</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/fixes-for-android-not-delivering-incoming-text-messages-a-step-by-step-guide/"><u>Fixes for Android Not Delivering Incoming Text Messages: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-answers.techidaily.com/get-past-the-gridlock-fixing-fortnites-stalled-launch-sequence/"><u>Get Past the Gridlock: Fixing Fortnite's Stalled Launch Sequence</u></a></li>
+<li><a href="https://discover-guides.techidaily.com/mastering-disk-usage-top-techniques-for-effective-backups-using-aomei-backupper/"><u>Mastering Disk Usage: Top Techniques for Effective Backups Using AOMEI Backupper</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-creators-pick-top-5-video-editing-programs-for-stunning-visual-content/"><u>The Creator's Pick: Top 5 Video Editing Programs for Stunning Visual Content</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-ultimate-walkthrough-for-recording-and-sharing-voice-messages-using-an-iphone/"><u>The Ultimate Walkthrough for Recording and Sharing Voice Messages Using an iPhone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/uncover-six-amazing-websites-with-complimentary-kids-cinema-selections/"><u>Uncover Six Amazing Websites with Complimentary Kids' Cinema Selections</u></a></li>
+</ul></div>
 

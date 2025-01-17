@@ -1,7 +1,7 @@
 ---
 title: Top Smartphones Endorsed Editors - Real-World Usage Insights
-date: 2025-01-07T07:02:35.231Z
-updated: 2025-01-11T08:17:13.810Z
+date: 2025-01-12T17:13:35.538Z
+updated: 2025-01-16T20:41:57.758Z
 tags:
   - apple
 categories:
@@ -49,7 +49,7 @@ Cons
 ## iPhone 12 Pro
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Jason Cipriani and Simon Bisson
@@ -74,11 +74,11 @@ Pros
 Cons 
 * Lovely design with matte finish back 5G support for all bands Advanced multiple cameras S Pen support Competive pricing High end internal specifications
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Samsung Galaxy S21 Ultra
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Steven J. Vaughan-Nichols and Charlie Osborne
 
@@ -104,10 +104,6 @@ Cons
 
 ## iPhone 12 Pro Max
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Matthew Miller
 
 **Matthew Miller:** After a couple years of favoring the smaller iPhone X and XS, I made the leap to the big iPhone 12 Pro Max. As a phone reviewer, I usually move my SIM along every month or so, but it's now been four months with this phone serving as my daily driver, and not even the best Samsung S21 Ultra can knock it from my hands. The built quality is fantastic, the cameras let me capture content to my heart's delight, and regular updates keep it running perfectly for me. The addition of 5G and move to Qualcomm was the icing on the cake that set the bar for all other phones.
@@ -117,7 +113,7 @@ Cons
 Show Expert Take Show less 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## iPhone SE (2020)
@@ -166,11 +162,11 @@ Pros
 Cons 
 * Fast performance New camera features Strong battery life
 
-## iPhone 11 Pro
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+## iPhone 11 Pro
 
 ### Ed Bott
 
@@ -198,10 +194,6 @@ Cons
 
 ## Google Pixel 2
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Tony Baer
 
 **Tony Baer:** I like the Pixel because unlike branded phones (e.g., Samsung Galaxy), it has just one operating system, and therefore, just one app for things like photos. This was an endless source of confusion for me during the days with my old Samsung phones: Which photo app did my pictures go in? (Etc., etc. for other bundled apps.) However, the Pixel 2 has one mechanical defect: The charging port is just slightly too large, meaning that when I plug in the charger, I can't always be sure that the phone is getting any juice. For work at home, this is just an inconvenience, but when we go back on the road again, this will be a show stopper. 
@@ -218,10 +210,6 @@ Show less
 
 ## Huawei P20 Pro
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Federico Guerrini
 
 **Federico Guerrini:** Very good phone for its price (I bought it for 280 euros). Good camera, nice display, handy format. I bought it before the ban, so no problem with Google apps, etc. The charger is very fast, in half an hour it goes from 0% to almost 50%. I'm not very concerned about Huawei spying on me, but just in case, I have other phones on which I installed Ubuntu Touch for the "sensitive" calls. ;)
@@ -236,11 +224,11 @@ Pros
 Cons 
 * Excellent photo quality Cool color options Long battery life Loud stereo speakers Wireless charging support
 
-## iPhone XR
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+## iPhone XR
 
 ### Damian Radcliffe, Angelica Mari, and Sean Portnoy
 
@@ -262,13 +250,13 @@ Cons
 
 Show Expert Take Show less 
 
-###   
-
-###   
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+###   
+
+###   
 
 ## iPhone X
 
@@ -290,6 +278,10 @@ Cons
 
 ## iPhone XS Max
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Asha Barbaschow
 
 I've always used iPhones. Started with the iPhone 3, and never strayed. I refuse to use a case, so I'm onto phone No. 2 after shattering my first XS Max like a disco ball. The screen size is great. I had the first Max iteration and probably won't ever be able to have a smaller screen again as a result.
@@ -308,6 +300,10 @@ Purchased in 2016, I've had no reason to upgrade in four years. The thing does a
 
 ## iPhone 6s Plus
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### David Gewirtz and Iliana Meir
 
 **David Gewirtz:** I am still using my iPhone 6s Plus from 2015\. For those keeping track, that's almost six years old. But it's the best phone I've ever used (with the Palm Treo running a close second). I haven't wanted to give it up because I use the headphone adapter while filming and to be sure I have a set of earbuds that never run out of battery power. Sure, the new iPhones seem nice, but I don't have a single complaint about this one, so why spend thousands of dollars when this thing hasn't failed me once?
@@ -320,7 +316,15 @@ Purchased in 2016, I've had no reason to upgrade in four years. The thing does a
 
 **Next phone or dream phone?** I have no idea. I get overwhelmed by the amount of choice. It'll be an iPhone I guess. I'm used to them.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Lumia 1520
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Mary Branscombe
 
@@ -329,10 +333,6 @@ Yes, I am indeed still clinging to the phone that made me love phablets, upgrade
 **Next phone or dream phone?** An Arm-based Windows 10 phone with integrated Skype in a phablet form factor with 5G; while I hope that a project like Empirion can succeed, I'm not banking on it. But surely we need a third OS to balance Android and iOS as the government investigations continue?
 
 Show less 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Samsung Galaxy Note 8
 
@@ -376,24 +376,16 @@ Show Expert Take Show less
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-10-best-4k-screen-recorders/"><u>[New] 2024 Approved 10 Best 4K Screen Recorders</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-step-by-step-guide-to-designing-impactful-imagery/"><u>[New] Step-by-Step Guide to Designing Impactful Imagery</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-unleash-potential-discovering-free-onlineoffline-animations/"><u>[New] Unleash Potential Discovering Free Online/Offline Animations</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-enhancing-igtv-with-translation-captions/"><u>[Updated] In 2024, Enhancing IGTV with Translation Captions</u></a></li>
-<li><a href="https://article-tips.techidaily.com/2024-approved-crafting-precise-time-indicators-in-youtubes/"><u>2024 Approved Crafting Precise Time Indicators in YouTubes</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/a-comprehensive-guide-to-understanding-and-using-the-telegram-application/"><u>A Comprehensive Guide to Understanding and Using the Telegram Application</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/apple-iphone-15-pro-vs-iphone-13-pro-showdown-is-it-time-for-an-upgrade-techadvisor/"><u>Apple iPhone 15 Pro Vs. IPhone 13 Pro Showdown: Is It Time for an Upgrade? | TechAdvisor</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/capturing-stunning-selfies-with-ease-how-to-optimize-your-use-of-selfie-lights/"><u>Capturing Stunning Selfies with Ease: How to Optimize Your Use of Selfie Lights</u></a></li>
-<li><a href="https://howto.techidaily.com/fixing-persistent-pandora-crashes-on-vivo-v27e-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixing Persistent Pandora Crashes on Vivo V27e | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-the-ultimate-guide-to-zte-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Ultimate Guide to ZTE Pattern Lock Screen Everything You Need to Know</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/kop-movavi-video-converter-av-handelsstiftelsen-basta-pris-god-kallavsattning-och-full-gorlig-dataskicklighet/"><u>Köp Movavi Video Converter Av Handelsstiftelsen - Bästa Pris, God Kallavsättning Och Full Görlig Dataskicklighet</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/mastering-multiple-network-interfaces-on-macos-a-step-by-step-guide/"><u>Mastering Multiple Network Interfaces on macOS - A Step-by-Step Guide</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/step-by-step-guide-discontinuing-your-subscription-on-apple-music-independent-of-itunes-tips/"><u>Step-by-Step Guide: Discontinuing Your Subscription on Apple Music Independent of iTunes - Tips</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/top-10-enhancements-required-for-apples-ai-ecosystem-to-rival-the-dominance-of-openai-and-google-insights-from-zdnet/"><u>Top 10 Enhancements Required for Apple's AI Ecosystem to Rival the Dominance of OpenAI and Google: Insights From ZDNet</u></a></li>
-<li><a href="https://some-tips.techidaily.com/top-value-dome-cams-affordable-360-filmmaking-tools-for-2024/"><u>Top Value Dome Cams Affordable 360° Filmmaking Tools for 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/troubleshooting-guide-how-to-fix-an-unresponsive-infinix-smart-8-hd-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Troubleshooting Guide How to Fix an Unresponsive Infinix Smart 8 HD Screen | Dr.fone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/unlock-the-power-of-dual-boots-easily-run-ubuntu-on-your-macos-xcode-system-using-a-simple-trick-learn-how-here-zdnet/"><u>Unlock the Power of Dual Boots: Easily Run Ubuntu on Your MacOS XCode System Using a Simple Trick - Learn How Here! (ZDNet)</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/unveiling-the-most-compelling-advances-why-the-iphone-16-elevates-apples-baseline-model-a-comprehensive-review/"><u>Unveiling the Most Compelling Advances: Why the iPhone 16 Elevates Apple's Baseline Model - A Comprehensive Review</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/zdnet-exclusive-how-ios-18-revolutionizes-phone-call-capture-on-your-iphone-without-third-party-software/"><u>ZDNet Exclusive: How iOS 18 Revolutionizes Phone Call Capture on Your iPhone Without Third-Party Software</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-enhance-your-presence-how-to-change-voice-effectively-on-ig/"><u>[Updated] 2024 Approved Enhance Your Presence How to Change Voice Effectively on IG</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-finding-the-best-mp4-recorder-on-market/"><u>[Updated] Finding the Best MP4 Recorder on Market</u></a></li>
+<li><a href="https://howto.techidaily.com/4-ways-to-fix-android-blue-screen-of-death-on-oppo-a79-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Ways to Fix Android Blue Screen of Death On Oppo A79 5G | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/webmmov-movavi/"><u>將WEBM格式自網上快速轉換成MOV影片 - Movavi最佳工具選擇</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/choosing-the-perfect-small-form-factor-pc-for-gamers/"><u>Choosing the Perfect Small Form Factor PC for Gamers</u></a></li>
+<li><a href="https://facebook.techidaily.com/cutting-the-social-cord-unlinking-insta-and-fb/"><u>Cutting the Social Cord: Unlinking Insta & FB</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/everything-you-need-to-know-about-samsung-galaxy-ring-price-points-specs-release-schedule-and-current-headlines/"><u>Everything You Need to Know About Samsung Galaxy Ring - Price Points, Specs, Release Schedule & Current Headlines</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/1722886495520-gain-control-over-your-system-by-rectifying-the-gsdll32dll-not-found-problems-easily/"><u>Gain Control Over Your System by Rectifying the gsdll32.dll Not Found Problems Easily!</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/iphone-region-change-cheat-sheet-a-comprehensive-guide-for-users-worldwide/"><u>IPhone Region Change Cheat Sheet: A Comprehensive Guide for Users Worldwide</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/mastering-the-art-of-crisp-photos-troubleshooting-techniques-for-iphone-focus-failures/"><u>Mastering the Art of Crisp Photos: Troubleshooting Techniques for iPhone Focus Failures</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/zte-blade-a3y-overview-delivering-strong-value-in-an-affordable-smartphone/"><u>ZTE Blade A3Y Overview: Delivering Strong Value in an Affordable Smartphone</u></a></li>
 </ul></div>
 

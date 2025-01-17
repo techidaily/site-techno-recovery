@@ -1,7 +1,7 @@
 ---
 title: "Apple Vision Pro Sales Pitch: Discovering Spousal Affection Quotients"
-date: 2025-01-05T22:40:07.167Z
-updated: 2025-01-10T19:30:37.471Z
+date: 2025-01-14T22:32:34.268Z
+updated: 2025-01-16T17:22:44.299Z
 tags:
   - apple
 categories:
@@ -35,7 +35,7 @@ The booking process was simple. When I arrived at the very busy Apple store, the
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Spatial computing isn't for Zuckers
@@ -71,7 +71,7 @@ Yet the world around you -- and inside your head -- is fundamentally altered. Yo
 An initial couple of questions emerged: When was the last time a product made me utter "Whoa?" And: Will the world ever look the same again?
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Yes, it just works
@@ -123,7 +123,7 @@ Which led me to a digression about AI. If the Vision Pro was the future, wasn't 
 Another couple of questions emerged: Has the tech industry now constructed all the pillars of life for the next, perhaps, 50 years? And: Have we been seduced, step by step, into separating ourselves from the physical world? 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How much do I love my _what_?
@@ -197,24 +197,24 @@ But perhaps the biggest question I ended up asking myself was: What will I becom
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-advanced-tips-to-create-and-blend-hdr-images-using-lightroom/"><u>[New] Advanced Tips to Create & Blend HDR Images Using Lightroom</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-premium-screen-recording-selections/"><u>[Updated] 2024 Approved Premium Screen Recording Selections</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-enhancing-your-playtime-non-gamebar-video-recording-options/"><u>[Updated] In 2024, Enhancing Your Playtime Non-GameBar Video Recording Options</u></a></li>
-<li><a href="https://fox-access.techidaily.com/2024-approved-white-walkers-whistle-where-to-find-your-favorite-got-ringtone/"><u>2024 Approved White Walkers Whistle Where to Find Your Favorite GoT Ringtone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/academic-success-and-tech-savvy-selecting-the-right-computer-for-school-use/"><u>Academic Success and Tech Savvy: Selecting the Right Computer for School Use</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/discovering-your-hidden-reels-a-guide-to-locating-archived-content-on-instagram/"><u>Discovering Your Hidden Reels: A Guide to Locating Archived Content on Instagram</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/expand-your-viewing-options-stream-videos-on-apple-tv-via-vlc-media-player/"><u>Expand Your Viewing Options: Stream Videos on Apple TV via VLC Media Player</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/how-to-quiet-down-your-bass-units-unwanted-hum/"><u>How to Quiet Down Your Bass Unit's Unwanted Hum</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/in-2024-assemble-photos-for-a-captivating-storyboard-experience/"><u>In 2024, Assemble Photos for a Captivating Storyboard Experience</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/mastering-conversations-a-step-by-step-guide-to-using-chat-functions-in-mozilla-thunderbird/"><u>Mastering Conversations: A Step-by-Step Guide to Using Chat Functions in Mozilla Thunderbird</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/mastering-the-initial-configuration-of-amazon-echo-dot/"><u>Mastering the Initial Configuration of Amazon Echo Dot</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/211107564-9781667462295-megan-et-la-vielle-dame/"><u>Megan et la Vielle Dame | Free Book</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723016611020-pubg-mobile-sound-trouble-fix-your-voice-chats-with-these-simple-steps/"><u>PUBG Mobile Sound Trouble? Fix Your Voice Chats with These Simple Steps</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/seamless-email-management-integrating-gmail-with-ios-devices/"><u>Seamless Email Management: Integrating Gmail with iOS Devices</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/the-definitive-how-to-for-retrieving-lost-car-radio-pin-numbers/"><u>The Definitive How-To for Retrieving Lost Car Radio Pin Numbers</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/top-5-essentials-preparing-yourself-for-a-smart-stereo-speaker-purchase/"><u>Top 5 Essentials: Preparing Yourself for a Smart Stereo Speaker Purchase</u></a></li>
-<li><a href="https://win-guides.techidaily.com/troubleshooting-guide-successful-note-migration-to-your-latest-iphone-models-15-12/"><u>Troubleshooting Guide: Successful Note Migration to Your Latest iPhone (Models 15-12)</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/troubleshooting-techniques-for-smooth-video-streaming-fixing-vlc-lagging-and-buffer-issues-quickly/"><u>Troubleshooting Techniques for Smooth Video Streaming: Fixing VLC Lagging and Buffer Issues Quickly</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-2024-approved-vn-video-editor-mobile-app-review-editing-on-the-go/"><u>Updated 2024 Approved VN Video Editor Mobile App Review Editing on the Go</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-skyrocketing-your-youtube-business-the-famebit-approach-to-sponsorships/"><u>[New] Skyrocketing Your YouTube Business The FameBit Approach to Sponsorships</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-tread-lightly-in-the-digital-jungle-vr-fitness-machines-examined/"><u>[New] Tread Lightly in the Digital Jungle VR Fitness Machines Examined</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-master-the-art-of-yt-channel-creation-right-from-your-smartphone/"><u>[Updated] Master the Art of YT Channel Creation, Right From Your Smartphone</u></a></li>
+<li><a href="https://howto.techidaily.com/11-ways-to-fix-it-when-my-oppo-f23-5g-wont-charge-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Ways to Fix it When My Oppo F23 5G Wont Charge | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/experience-audio-excellence-top-rated-speaker-system-now-discounted-by-100-at-best-buy-reviewed/"><u>Experience Audio Excellence: Top Rated Speaker System Now Discounted by $100 at Best Buy - Reviewed !</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/how-asmr-can-enhance-your-physical-and-mental-health-for-2024/"><u>How ASMR Can Enhance Your Physical & Mental Health for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-unraveling-the-sideway-video-phenomenon-on-ig/"><u>In 2024, Unraveling the Sideway Video Phenomenon on IG</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ipad-pro-vs-macbook-air-showdown-which-tech-giant-reigns-supreme/"><u>IPad Pro Vs. MacBook Air Showdown: Which Tech Giant Reigns Supreme?</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/masterclass-in-data-migration-installing-a-pristine-copy-of-windows-10-onto-your-latest-drive/"><u>Masterclass in Data Migration: Installing a Pristine Copy of Windows 10 Onto Your Latest Drive</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-simplify-your-storytelling-easy-movie-making-techniques/"><u>New In 2024, Simplify Your Storytelling Easy Movie Making Techniques</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/no-roku-no-problem-streaming-tips-how-to-access-roku-channel-content-on-other-devices/"><u>No Roku? No Problem! Streaming Tips: How to Access Roku Channel Content on Other Devices</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-solution-for-fixing-broken-subtitles-in-amazon-prime-streams/"><u>Step-by-Step Solution for Fixing Broken Subtitles in Amazon Prime Streams</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-complete-tutorial-on-enhancing-your-selfies-using-dedicated-lighting-gear/"><u>The Complete Tutorial on Enhancing Your Selfies Using Dedicated Lighting Gear</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/the-most-useful-tips-for-pokemon-go-ultra-league-on-apple-iphone-13-mini-drfone-by-drfone-virtual-ios/"><u>The Most Useful Tips for Pokemon Go Ultra League On Apple iPhone 13 mini | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-10-troubleshooting-steps-for-fixing-skype-connection-issues/"><u>Top 10 Troubleshooting Steps for Fixing Skype Connection Issues</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-tips-for-recovering-from-a-crashed-video-display-driver/"><u>Troubleshooting Tips for Recovering From a Crashed Video Display Driver</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/troubleshooting-tips-how-to-tell-if-playstation-network-is-down-or-if-the-problem-lies-with-your-setup/"><u>Troubleshooting Tips: How to Tell if PlayStation Network Is Down or If the Problem Lies with Your Setup</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unlocking-the-mysteries-unknown-fascinating-facts-about-emojis/"><u>Unlocking the Mysteries: Unknown Fascinating Facts About Emojis</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unveiling-the-secrets-of-t-mobiles-nationwide-roaming-strategy/"><u>Unveiling the Secrets of T-Mobile's Nationwide Roaming Strategy</u></a></li>
 </ul></div>
 

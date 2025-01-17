@@ -1,7 +1,7 @@
 ---
 title: "Smartwatch Showdown: Deciding Whether to Go for the Google Pixel or Stick with the Apple Watch Series 8"
-date: 2025-01-10T06:03:04.734Z
-updated: 2025-01-11T04:47:49.405Z
+date: 2025-01-16T01:33:14.111Z
+updated: 2025-01-16T18:35:22.998Z
 tags:
   - apple
 categories:
@@ -48,7 +48,7 @@ To help you better decide between the two, let's take a look at the key differen
 June Wan/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  1\. The deep Fitbit and Google integration appeals to you
@@ -77,6 +77,10 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ###  3\. You like the smooth pebble design
 
 Although the first two Pixel Watch models were too small for my wrist, I loved the round, subtle design and am pleased to see Google continue with that same form factor. It stands apart from other watches that embrace a more traditional watch case and bezel. The smooth round watch makes it easy to wear while sleeping, which may lead to better sleep data results.
@@ -91,6 +95,10 @@ The design does leave the glass display unprotected, so if you are someone who i
 
 Jason Hiner/ZDNET
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ###  1\. Reliable gesture control appeals to you
 
 Apple recently added gestures with the Apple Watch Series 9 and Ultra 2, and unlike some other watches with gesture support, they work reliably. The one-handed quick double pinch is fantastic for checking the Smart Stack and scrolling while your other hand is carrying things or otherwise occupied.
@@ -98,10 +106,6 @@ Apple recently added gestures with the Apple Watch Series 9 and Ultra 2, and unl
 **Also: [The best Apple Watches you can buy: Expert tested](https://www.zdnet.com/article/best-apple-watch/)**
 
 You can answer calls, view messages from a notification, capture a photo with your iPhone while using the Camera Remote app, or snooze an alarm with gestures on an Apple Watch.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ###  2\. You want to use lots of third-party apps
 
@@ -120,16 +124,16 @@ The heart rate sensor is key to the health and wellness features, including slee
 [Buy the Apple Watch Series 9 $449 at Samsung](https://shop-links.co/link/?url=https%3A%2F%2Fwww.samsung.com%2Fus%2Fbusiness%2Fmobile%2Fwearables%2Fsmartwatches%2Fgalaxy-watch5-pro-black-titanium-bluetooth-sm-r920nzkaxaa%2F&publisher_slug=itechdaily19598&exclusive=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Alternatives to consider
 
-### BEST GOOGLE ALTERNATIVE
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+### BEST GOOGLE ALTERNATIVE
 
 ## Google Pixel Watch 2
 
@@ -138,10 +142,6 @@ You can save a bit of money on last year's model with very few compromises in ca
 View at 
 
 ### BEST RUGGED SMARTWATCH ALTERNATIVE
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Apple Watch Ultra 2
 
@@ -179,22 +179,24 @@ View at
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-in-2024-revolutionize-file-formats-with-rapid-srt-transformation/"><u>[New] In 2024, Revolutionize File Formats with Rapid SRT Transformation</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-youtubes-virality-secrets-effective-hashtag-strategies/"><u>[New] YouTube's Virality Secrets Effective Hashtag Strategies</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-2024-approved-comprehensive-breakdown-sony-fdr-x1000-video-gear/"><u>[Updated] 2024 Approved Comprehensive Breakdown Sony FDR-X1000 Video Gear</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-pushing-boundaries-top-virtual-reality-game-development-tools/"><u>[Updated] Pushing Boundaries Top Virtual Reality Game Development Tools</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/winx-dvd-ripper-platinumdvd/"><u>如何使用WinX DVD Ripper Platinum教程：無後果地解鎖DVD加密光碟革新技術</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/anticipated-arrival-of-apple-watch-series-8-insights-on-specifications-pricing-and-current-reports/"><u>Anticipated Arrival of Apple Watch Series 8 - Insights on Specifications, Pricing, and Current Reports</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/beginners-guide-the-initial-tasks-for-your-fresh-laptop-setup/"><u>Beginner's Guide: The Initial Tasks for Your Fresh Laptop Setup</u></a></li>
-<li><a href="https://win-studio.techidaily.com/enregistrement-automatique-des-fichiers-vers-onedrive-pour-business-logiciels-de-sauvegarde-gratuits/"><u>Enregistrement Automatique Des Fichiers Vers OneDrive Pour Business : Logiciels De Sauvegarde Gratuits</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/hottest-apple-watch-savings-dont-miss-out/"><u>Hottest Apple Watch Savings: Don't Miss Out!</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/how-to-address-and-fix-shelldll-not-found-error-messages-with-ease/"><u>How to Address and Fix 'Shell.dll Not Found' Error Messages with Ease</u></a></li>
-<li><a href="https://win-web.techidaily.com/rescue-strategies-for-inadvertently-lost-data-on-your-windows-11-pc/"><u>Rescue Strategies for Inadvertently Lost Data on Your Windows 11 PC</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/sequential-viewing-experience-the-matrix-trilogy-correctly/"><u>Sequential Viewing: Experience The Matrix Trilogy Correctly</u></a></li>
-<li><a href="https://games-able.techidaily.com/setting-up-an-xbox-series-x-group/"><u>Setting Up an Xbox Series X Group</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/1722871650741-should-you-make-the-leap-to-ios-17-expert-advice-inside/"><u>Should You Make the Leap to iOS 17? Expert Advice Inside.</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/step-by-step-solutions-for-dealing-with-haldll-errors-in-windows-operating-systems/"><u>Step-by-Step Solutions for Dealing with Hal.dll Errors in Windows Operating Systems</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/troubleshooting-steps-defrosting-your-macbook-air-when-its-icy/"><u>Troubleshooting Steps: Defrosting Your MacBook Air When It's Icy</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/ultimate-guide-steps-for-permanently-removing-your-tiktok-profile/"><u>Ultimate Guide: Steps for Permanently Removing Your TikTok Profile</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-on-screen-recording-assistant/"><u>[Updated] 2024 Approved On-Screen Recording Assistant</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-best-alternative-top-10-flv-to-youtube-converter-apps-for-2024/"><u>[Updated] Best Alternative Top 10 FLV to YouTube Converter Apps for 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/a-working-guide-for-pachirisu-pokemon-go-map-on-tecno-phantom-v-fold-drfone-by-drfone-virtual-android/"><u>A Working Guide For Pachirisu Pokemon Go Map On Tecno Phantom V Fold | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/all-you-need-to-know-about-samsungs-next-gen-galaxy-s25-specs-pricing-rumors-and-release-date-insights/"><u>All You Need to Know About Samsung's Next-Gen Galaxy S25 – Specs, Pricing Rumors, and Release Date Insights</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/bridge-the-gap-access-apple-services-on-your-amazon-firestick-easily/"><u>Bridge the Gap: Access Apple Services on Your Amazon Firestick Easily</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/decoding-rumors-a-closer-look-at-what-to-expect-from-the-future-google-pixel-timepiece/"><u>Decoding Rumors: A Closer Look at What to Expect From the Future Google Pixel Timepiece</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/optimal-viewing-settings-for-roblox-experience/"><u>Optimal Viewing Settings for Roblox Experience</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/protect-your-inbox-how-to-set-up-dual-verification-in-google-mail/"><u>Protect Your Inbox: How To Set Up Dual-Verification in Google Mail</u></a></li>
+<li><a href="https://program-issues.techidaily.com/quick-solutions-resolving-discords-js-errors-with-ease/"><u>Quick Solutions: Resolving Discord's JS Errors with Ease</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/quick-solutions-resolving-roblox-error-code-291-in-no-time/"><u>Quick Solutions: Resolving Roblox Error Code 291 in No Time</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/restore-sound-on-your-lenovo-notebook-quick-diy-fixes-guide/"><u>Restore Sound on Your Lenovo Notebook – Quick DIY Fixes Guide</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-ultimate-guide-solving-the-oleaut32dll-file-not-found-issue/"><u>The Ultimate Guide: Solving the OleAut32.dll File Not Found Issue</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-9-essential-skype-interview-strategies-for-success/"><u>Top 9 Essential Skype Interview Strategies for Success</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/top-rated-ethernet-cables-a-buyers-guide/"><u>Top-Rated Ethernet Cables : A Buyer's Guide</u></a></li>
+<li><a href="https://win-hot.techidaily.com/troubleshooting-graphics-card-drivers-made-easy-with-yl-computings-expert-tips/"><u>Troubleshooting Graphics Card Drivers Made Easy with YL Computing's Expert Tips</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ultimate-guide-resolving-d3dx930dll-error-missing-or-cannot-locate/"><u>Ultimate Guide: Resolving d3dx9_30.dll Error - Missing or Cannot Locate</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unlocking-the-secrets-your-ultimate-guide-to-landing-a-tidal-university-subsidy/"><u>Unlocking the Secrets: Your Ultimate Guide to Landing a Tidal University Subsidy</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/wave-goodbye-easy-steps-for-discontinuing-your-tiktok-journey/"><u>Wave Goodbye: Easy Steps for Discontinuing Your TikTok Journey</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/ways-to-trade-pokemon-go-from-far-away-on-poco-x5-pro-drfone-by-drfone-virtual-android/"><u>Ways to trade pokemon go from far away On Poco X5 Pro? | Dr.fone</u></a></li>
 </ul></div>
 

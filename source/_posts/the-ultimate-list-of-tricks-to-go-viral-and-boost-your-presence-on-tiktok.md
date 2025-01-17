@@ -1,7 +1,7 @@
 ---
 title: The Ultimate List of Tricks to Go Viral and Boost Your Presence on TikTok
-date: 2025-01-06T08:39:12.947Z
-updated: 2025-01-11T10:23:10.310Z
+date: 2025-01-09T22:12:57.064Z
+updated: 2025-01-17T01:02:02.410Z
 categories:
   - BestProducts
 description: This Article Describes The Ultimate List of Tricks to Go Viral and Boost Your Presence on TikTok
@@ -27,21 +27,17 @@ thumbnail: https://www.lifewire.com/thmb/YbDBqWuVP0UM_nU0--_fa-ISvG0=/400x300/fi
 ![The Settings item highlighted in the Gear menu on Gmail.](https://www.lifewire.com/thmb/KOGC658202lNPjWZrUD1uiPo8qY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A1-BestGmailKeyboardShortcuts-annotated-927d539b94624bf7baa0a371166f8382.jpg)
 2. Scroll down to the **Keyboard shortcuts** section and select **Keyboard shortcuts on** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![The Keyboard Shortcuts on/off buttons highlighted on Gmail's Settings screen.](https://www.lifewire.com/thmb/lPV2-ew-bY8v5xkR1Y6pZ0fLprc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A2-BestGmailKeyboardShortcuts-annotated-639cd7b44f654d4a9fc5e371f7ebae28.jpg)
 3. Scroll to the bottom of the page and select **Save Changes** .  
 
 ![The Save Changes button highlighted on Gmail's Settings screen.](https://www.lifewire.com/thmb/Ti1cWFQAWPKtDw4DsaTTA96KzR0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A3-BestGmailKeyboardShortcuts-annotated-bab1aa8c28204ee494f3daa266fd0100.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Create, Send, and Forward Email
@@ -55,12 +51,20 @@ thumbnail: https://www.lifewire.com/thmb/YbDBqWuVP0UM_nU0--_fa-ISvG0=/400x300/fi
 
  On Macs, use the**Command** key in place of the**Ctrl** key.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Reply to Email
 
  By using the**R** and**A** keys, you can quickly reply to[email messages](https://www.lifewire.com/electronic-mail-overview-1164107) or send to multiple recipients:
 
 * **Reply to a message (R)** : Press**R** to reply to an open message.
 * **Reply to all (A)** : Press**A** to reply to all recipients of a message.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Scroll Through Emails
 
@@ -75,10 +79,6 @@ thumbnail: https://www.lifewire.com/thmb/YbDBqWuVP0UM_nU0--_fa-ISvG0=/400x300/fi
  Need to select a bunch of emails at the same time? This shortcut will save you from having to click on each email separately:
 
 * **Select multiple emails in a row (Shift)** : Check the box beside the first email in the series, then press and hold the**Shift** key and check the box for the last email in the series. Everything between both boxes will be selected.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to Add Formatting to Email Text
 
@@ -123,6 +123,10 @@ thumbnail: https://www.lifewire.com/thmb/YbDBqWuVP0UM_nU0--_fa-ISvG0=/400x300/fi
 * **Go to All mail (G, then A)** : Press the**G** key, then press**A** to see all messages.
 * **Move from different fields (Tab):** Press the**Tab** key to jump down the different fields in your email composition screen. To go in the opposite direction, press**Shift** +**Tab** .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to View All Gmail Shortcuts
 
  Need help remembering a shortcut? You can quickly pull up the entire list with a keyboard shortcut:
@@ -130,10 +134,6 @@ thumbnail: https://www.lifewire.com/thmb/YbDBqWuVP0UM_nU0--_fa-ISvG0=/400x300/fi
 * **Open keyboard shortcut help (Shift** +**?)** : Press**Shift** +**?** to get the full list of Gmail keyboard shortcuts.
 
 ![Press Shift + ? to get the full list of Gmail keyboard shortcuts anytime.](https://www.lifewire.com/thmb/5ON5QzCh_hrJrz93Hlci-4WmI4Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004_best-gmail-keyboard-shortcuts-4686794-0852ef75c64547feb336f96dbb1be04e.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Was this page helpful?
 
@@ -164,18 +164,24 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-in-2024-connect-with-stars-write-inspiring-biographies-on-whatsapp/"><u>[New] In 2024, Connect with Stars – Write Inspiring Biographies on WhatsApp</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/updated-asmr-insights-understanding-its-health-benefits/"><u>[Updated] ASMR Insights Understanding Its Health Benefits</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/updated-discover-the-secret-to-friends-livestream-participation/"><u>[Updated] Discover the Secret to Friend's Livestream Participation</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-unleashing-your-viewing-experience-screen-recording-solutions/"><u>[Updated] In 2024, Unleashing Your Viewing Experience Screen Recording Solutions</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/comparing-iphones-should-you-upgrade-to-the-apple-iphone-16-from-an-older-base-model-expert-tips-zdnet/"><u>Comparing iPhones: Should You Upgrade to the Apple iPhone 16 From an Older Base Model? Expert Tips | ZDNET</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/critical-enhancements-required-for-the-success-of-apples-vision-pro-in-the-corporate-arena-a-comprehensive-review-zdnet-insights/"><u>Critical Enhancements Required for the Success of Apple's Vision Pro in the Corporate Arena: A Comprehensive Review | ZDNet Insights</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-do-you-get-sun-stone-evolutions-in-pokemon-for-xiaomi-redmi-note-13-proplus-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How Do You Get Sun Stone Evolutions in Pokémon For Xiaomi Redmi Note 13 Pro+ 5G? | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-leave-a-life360-group-on-poco-f5-pro-5g-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How To Leave a Life360 Group On Poco F5 Pro 5G Without Anyone Knowing? | Dr.fone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/mastering-iphone-emojis-a-step-by-step-guide/"><u>Mastering iPhone Emojis: A Step-by-Step Guide</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/samsung-regains-lead-in-global-smartphone-shipments-surpassing-apple-amidst-rising-competition-from-other-brands/"><u>Samsung Regains Lead in Global Smartphone Shipments, Surpassing Apple Amidst Rising Competition From Other Brands</u></a></li>
-<li><a href="https://location-social.techidaily.com/set-your-preferred-job-location-on-linkedin-app-of-your-oppo-find-x7-drfone-by-drfone-virtual-android/"><u>Set Your Preferred Job Location on LinkedIn App of your Oppo Find X7 | Dr.fone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/top-5-essential-benefits-of-using-apple-pages-insights-review/"><u>Top 5 Essential Benefits of Using Apple Pages: Insights Review</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-samsung-galaxy-a23-5g-drfone-by-drfone-virtual-android/"><u>Unova Stone Pokémon Go Evolution List and How Catch Them For Samsung Galaxy A23 5G | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/solved-display-not-compatible-with-windows-11/"><u>[Solved] Display Not Compatible with Windows 11</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-harmonizing-volume-dial-down-with-fl-studio-features/"><u>[Updated] 2024 Approved Harmonizing Volume Dial-Down with FL Studio Features</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-your-secret-to-popularity-choosing-best-thumbnail-fonts/"><u>[Updated] 2024 Approved Your Secret to Popularity Choosing Best Thumbnail Fonts</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-videos-to-vibrant-gifs-youtube-conversion-techniques/"><u>[Updated] In 2024, From Videos to Vibrant GIFs YouTube Conversion Techniques</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-top-vr-bikes-to-check-out/"><u>[Updated] In 2024, Top VR Bikes to Check Out</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-can-you-transfer-files-from-motorola-razr-40-ultra-to-iphone-151413-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How Can You Transfer Files From Motorola Razr 40 Ultra To iPhone 15/14/13? | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/instant-access-to-the-zebra-gk420d-printer-driver-hassle-free-download/"><u>Instant Access to the Zebra GK420d Printer Driver – Hassle-Free Download</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/karaoke-extravaganza-across-america-high-quality-entertainment-below-150/"><u>Karaoke Extravaganza Across America: High-Quality Entertainment Below $150</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/mastering-time-management-with-windows-11-alarm-features-a-simple-guide/"><u>Mastering Time Management with Windows 11 Alarm Features - A Simple Guide</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/msvcr100dll-missing-or-not-found-on-windows-solved/"><u>MSVCR100.dll Missing or Not Found on Windows [Solved]</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/optimize-sound-quality-on-windows-11-expert-tips-for-using-an-equalizer/"><u>Optimize Sound Quality on Windows 11: Expert Tips for Using an Equalizer</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/quick-fix-total-refresh-of-your-acer-system-using-a-step-by-step-factory-reset/"><u>Quick Fix: Total Refresh of Your Acer System Using a Step-by-Step Factory Reset</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/resolving-bluetooth-speaker-and-display-connection-errors-in-windows-environments/"><u>Resolving Bluetooth Speaker and Display Connection Errors in Windows Environments</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/run-apps-in-compatibility-mode-in-windows-11/"><u>Run Apps in Compatibility Mode in Windows 11</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/secure-your-internet-with-top-us-based-vpns-offering-a-complimentary-trial-for-privacy-enthusiasts/"><u>Secure Your Internet with Top US-Based VPNs Offering a Complimentary Trial for Privacy Enthusiasts</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/solution-for-when-windows-11-applets-fail-to-load-step-by-step-fixes/"><u>Solution for When Windows 11 Applets Fail to Load: Step-by-Step Fixes</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/transforming-facebook-watchlists-implementing-autoplay-for-youtube-content/"><u>Transforming Facebook Watchlists Implementing Autoplay for YouTube Content</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/turning-compressed-files-into-srt-speaking-texts-quickly-for-2024/"><u>Turning Compressed Files Into .Srt Speaking Texts Quickly for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/unveiling-the-secrets-an-overview-of-using-ez-grabber-professionally-for-2024/"><u>Unveiling the Secrets An Overview of Using EZ Grabber Professionally for 2024</u></a></li>
 </ul></div>
 

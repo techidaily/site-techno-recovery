@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Instructions to Expand Your Xbox One's Memory with an External Drive
-date: 2025-01-05T18:54:53.778Z
-updated: 2025-01-11T01:36:27.719Z
+date: 2025-01-12T19:41:24.339Z
+updated: 2025-01-17T01:27:19.573Z
 categories:
   - BestProducts
 description: This Article Describes Step-by-Step Instructions to Expand Your Xbox One's Memory with an External Drive
@@ -22,7 +22,7 @@ thumbnail: https://www.lifewire.com/thmb/ymgpKWwkBGzI4C83qsg8l2d2Lqs=/400x300/fi
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## If the Printer Isn't Showing Up in the List on Your iPad
@@ -34,7 +34,7 @@ thumbnail: https://www.lifewire.com/thmb/ymgpKWwkBGzI4C83qsg8l2d2Lqs=/400x300/fi
 ![No AirPrint Printers Found message on an iPad.](https://www.lifewire.com/thmb/PINbY5NNM2YpYVf6BIRAjMvyfYs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_my-ipad-wont-print-cant-find-printer-1994541-d3ec6679b22b423d876a15837e54cd6e.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Try these troubleshooting steps, in order:
@@ -50,7 +50,7 @@ thumbnail: https://www.lifewire.com/thmb/ymgpKWwkBGzI4C83qsg8l2d2Lqs=/400x300/fi
 6. Verify it's an AirPrint printer. If this is a new printer, it should say that it's AirPrint compatible on the packaging. Some older printers use a specific app to print from the iPad, so refer to the owner's manual. You can see a[list of AirPrint printers on Apple's website](https://support.apple.com/en-us/HT201311) .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## If the Printer Appears in the List
@@ -96,22 +96,22 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/ed-in-2024-explore-and-evaluate-top-7-free-android-adblockers-unveiled/"><u>[Updated] In 2024, Explore & Evaluate Top 7 Free Android AdBlockers Unveiled</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-the-art-of-story-lensing-smart-zooms-on-instagram/"><u>[Updated] The Art of Story Lensing Smart Zooms on Instagram</u></a></li>
-<li><a href="https://extra-information.techidaily.com/2024-approved-5-must-have-mkv-tools-for-macos/"><u>2024 Approved 5 Must-Have MKV Tools for macOS</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/accelerate-your-pc-choose-winning-apps-of-2023/"><u>Accelerate Your PC: Choose Winning Apps of 2023</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/apple-targets-top-browser-with-bone-chilling-campaign-revealed/"><u>Apple Targets Top Browser with Bone-Chilling Campaign Revealed</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/building-an-empire-in-smm-a-step-by-step-guide-for-success-for-2024/"><u>Building an Empire in SMM A Step-by-Step Guide for Success for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/fix-your-pc-the-complete-walkthrough-to-correct-ocidll-errors/"><u>Fix Your PC: The Complete Walkthrough to Correct Oci.dll Errors</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/guide-halting-unnecessary-android-application-activity-in-the-background/"><u>Guide: Halting Unnecessary Android Application Activity in the Background</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/how-to-burn-video-to-dvd-on-mac-for-2024/"><u>How to Burn Video to DVD on Mac for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/initiating-pairing-process-amazon-echo-dot-user-manual/"><u>Initiating Pairing Process: Amazon Echo Dot User Manual</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/mastering-multi-tasking-how-to-set-up-and-enjoy-dual-monitor-support-on-your-m3-macbook-pro-a-comprehensive-guide/"><u>Mastering Multi-Tasking: How to Set Up and Enjoy Dual Monitor Support on Your M3 MacBook Pro - A Comprehensive Guide</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/movavi-mp3-split-tool-professioneel-mp3-knippen-en-versplitten-voor-veiligere-downloads/"><u>Movavi Mp3 Split Tool: Professioneel MP3 Knippen en Versplitten Voor Veiligere Downloads</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/pickus-triumph-in-android-photo-editing-a-comprehensible-review-for-2024/"><u>PickU's Triumph in Android Photo Editing – A Comprehensible Review for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/samsung-regains-lead-in-global-smartphone-shipments-surpassing-apple-emerging-competitor-closes-the-gap-zdnet/"><u>Samsung Regains Lead in Global Smartphone Shipments, Surpassing Apple: Emerging Competitor Closes the Gap | ZDNet</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/step-by-step-guide-turning-the-on-screen-keyboard-feature-onoff-on-windows-10/"><u>Step-by-Step Guide: Turning the On-Screen Keyboard Feature ON/OFF on Windows 10</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-tech-picks-and-expert-opinions-from-toms-hardware-source/"><u>Top Tech Picks & Expert Opinions From Tom's Hardware Source</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/top-ranking-ipad-models-comprehensive-reviews-by-tech-experts-zdnet/"><u>Top-Ranking iPad Models - Comprehensive Reviews by Tech Experts | ZDNet</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-dji-takes-flight-the-game-changing-faceoff-of-mavic-air-vs-spark/"><u>2024 Approved DJI Takes Flight The Game-Changing Faceoff of Mavic Air Vs. Spark</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-comprehensive-guide-to-editing-tiktok-account-numbers/"><u>2024 Approved The Comprehensive Guide to Editing TikTok Account Numbers</u></a></li>
+<li><a href="https://android-location.techidaily.com/3-effective-methods-to-fake-gps-location-on-android-for-your-tecno-spark-10-5g-drfone-by-drfone-virtual/"><u>3 Effective Methods to Fake GPS location on Android For your Tecno Spark 10 5G | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/crack-the-case-fixes-for-previously-persistent-issues-in-death-stranding-on-pc-unveiled/"><u>Crack the Case: Fixes for Previously Persistent Issues in Death Stranding on PC Unveiled</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/demystifying-memes-everything-you-need-to-know/"><u>Demystifying Memes: Everything You Need to Know</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discover-the-latest-budget-friendly-study-apps-for-students-preparing-for-school/"><u>Discover the Latest Budget-Friendly Study Apps for Students Preparing for School</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-change-your-apple-id-on-iphone-11-pro-max-with-or-without-password-drfone-by-drfone-ios/"><u>How To Change Your Apple ID on iPhone 11 Pro Max With or Without Password | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-check-distance-and-radius-on-google-maps-for-your-samsung-galaxy-f14-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Check Distance and Radius on Google Maps For your Samsung Galaxy F14 5G | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/instagram-personalization-how-to-disable-recommended-user-tags/"><u>Instagram Personalization: How to Disable Recommended User Tags</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/macos-15-sequoia-is-coming-find-out-the-announcement-date-enhancements-and-latest-updates/"><u>MacOS 15 Sequoia Is Coming: Find Out the Announcement Date, Enhancements & Latest Updates!</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/no-more-buffering-defeat-the-netflix-error-code-nw-1-19-with-these-proven-solutions/"><u>No More Buffering: Defeat the Netflix Error Code NW-1-19 with These Proven Solutions</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-art-of-photo-edits-a-newcomers-guide-to-lunapic/"><u>The Art of Photo Edits A Newcomer’s Guide to LunaPic</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-ultimate-screen-experience-with-hp-envy-27-display-for-2024/"><u>The Ultimate Screen Experience with HP Envy 27 Display for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ultimate-tutorial-easy-techniques-to-screen-capture-like-a-pro/"><u>Ultimate Tutorial: Easy Techniques to Screen Capture Like a Pro</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unlocking-efficiency-top-5-tactics-for-maximizing-your-facebook-usage/"><u>Unlocking Efficiency: Top 5 Tactics for Maximizing Your Facebook Usage</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unveiling-sony-2024-forecast-major-releases-industry-news-and-insider-details/"><u>Unveiling Sony 2024 Forecast: Major Releases, Industry News & Insider Details</u></a></li>
+<li><a href="https://solve-manuals.techidaily.com/warum-sind-alle-bildschirmaufnahmen-auf-windows-10-plotzlich-verschwunden/"><u>Warum Sind Alle Bildschirmaufnahmen Auf Windows 10 Plötzlich Verschwunden?</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Managing iCloud Photo Space: Securely Delete Without Affecting iPhone's Gallery"
-date: 2024-08-20T10:02:00.623Z
-updated: 2024-08-21T10:02:00.623Z
+date: 2025-01-15T00:28:47.869Z
+updated: 2025-01-16T18:34:15.620Z
 categories:
   - BestProducts
 description: "This Article Describes Managing iCloud Photo Space: Securely Delete Without Affecting iPhone's Gallery"
@@ -13,6 +13,10 @@ thumbnail: https://thmb.techidaily.com/773b13fe6e17412a9b5b64d4e711163f73a0c0700
  NETGEAR routers usually have a default password of**password** and a default IP address of either**192.168.1.1** or**192.168.0.1** . However, as the table below shows, there are plenty of exceptions.
 
 [The Best Netgear Routers of 2024](https://www.lifewire.com/best-netgear-routers-4159862)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## NETGEAR Default Passwords (Valid July 2024)
 
@@ -259,6 +263,10 @@ thumbnail: https://thmb.techidaily.com/773b13fe6e17412a9b5b64d4e711163f73a0c0700
 
  If you don't see your NETGEAR router, switch, or other network device listed in the table above,[contact us](https://www.lifewire.com/mailto:feedback@lifewire.com) to have your router added to the list.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What to Do If the NETGEAR Default Password Doesn't Work
 
  When the NETGEAR default password for your device is no longer the configured password, reset the device to the factory defaults.
@@ -270,8 +278,9 @@ thumbnail: https://thmb.techidaily.com/773b13fe6e17412a9b5b64d4e711163f73a0c0700
  If this process doesn't work, reference the PDF manual for your specific NETGEAR router, available from[NETGEAR Support](https://www.netgear.com/support/) .
 
 <!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## What to Do If the NETGEAR Default IP Address Doesn't Work
 
  A factory reset also resets the IP address to the default for your model in the table above.
@@ -283,8 +292,9 @@ thumbnail: https://thmb.techidaily.com/773b13fe6e17412a9b5b64d4e711163f73a0c0700
  If this doesn't work,[find the default gateway IP address](https://www.lifewire.com/how-to-find-your-default-gateway-ip-address-2626072) to determine the default gateway on your network, which is also the IP address for the router.
 
 <!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Change Your NETGEAR Default Password
 
  While you can log in to your NETGEAR router or switch with the default data, this information is all public. This means that anyone can access any NETGEAR device and make changes, including injecting malware and doing other damage.
@@ -313,8 +323,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -322,4 +330,24 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-the-ins-and-outs-of-designing-a-standout-podcast-promo/"><u>[New] In 2024, The Ins and Outs of Designing a Standout Podcast Promo</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/op-11-wallet-friendly-vlogging-tools-compiled-for-2024/"><u>[New] Top 11 Wallet-Friendly Vlogging Tools Compiled for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-eyepoint-expertise-essay-for-2024/"><u>[Updated] Eyepoint Expertise Essay for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-elevate-video-engagement-by-inserting-captions/"><u>[Updated] In 2024, Elevate Video Engagement by Inserting Captions</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-leveraging-kinemasters-strengths-for-video-magic-and-10-esteemed-competitors/"><u>[Updated] Leveraging KineMaster's Strengths for Video Magic & 10 Esteemed Competitors</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-key-techniques-to-optimize-igtv-video-dimensions/"><u>2024 Approved Key Techniques to Optimize IGTV Video Dimensions</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-top-8-free-software-solutions-revolutionizing-corporate-video-meetings/"><u>2024 Approved Top 8 Free Software Solutions Revolutionizing Corporate Video Meetings</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/can-you-submerge-the-iphone-15-pro-max-underwater-is-it-water-resistant/"><u>Can You Submerge the iPhone 15 Pro Max Underwater? - Is It Water-Resistant?</u></a></li>
+<li><a href="https://some-skills.techidaily.com/decoding-visual-changes-a-complete-overview-of-desktop-images-in-windows-os-history/"><u>Decoding Visual Changes: A Complete Overview of Desktop Images in Windows OS History</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/essential-tips-to-rectify-sound-interruptions-during-powerpoint-deliveries/"><u>Essential Tips to Rectify Sound Interruptions During PowerPoint Deliveries</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/explore-the-elite-selection-top-10-notes-management-tools/"><u>Explore the Elite Selection: Top 10 Notes Management Tools</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-restore-functionality-to-a-broken-apple-watch-touch-screen/"><u>How to Restore Functionality to a Broken Apple Watch Touch Screen</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-itel-p55t-phone-password-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Itel P55T Phone Password Without Factory Reset?</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/mastering-the-art-of-securely-connecting-your-android-device-to-wi-fi-networks/"><u>Mastering the Art of Securely Connecting Your Android Device to Wi-Fi Networks</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/quieting-down-the-sound-repair-solutions-for-loud-computer-fans/"><u>Quieting Down the Sound: Repair Solutions for Loud Computer Fans</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/resolving-the-winhttpdll-file-absent-dilemma-a-comprehensive-guide/"><u>Resolving the 'WinHttp.dll File Absent' Dilemma: A Comprehensive Guide</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-guide-to-using-emojis-effectively-on-the-iphone/"><u>Step-by-Step Guide to Using Emojis Effectively on the iPhone</u></a></li>
+</ul></div>
 

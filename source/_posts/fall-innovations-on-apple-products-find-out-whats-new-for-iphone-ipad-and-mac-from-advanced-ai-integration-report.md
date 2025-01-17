@@ -1,7 +1,7 @@
 ---
 title: Fall Innovations on Apple Products! Find Out What's New for iPhone, iPad & Mac - From Advanced AI Integration Report
-date: 2025-01-07T02:34:06.475Z
-updated: 2025-01-10T17:27:39.507Z
+date: 2025-01-15T18:12:35.237Z
+updated: 2025-01-16T22:19:16.570Z
 tags:
   - apple
 categories:
@@ -38,6 +38,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Apple Intelligence (AI)
 
 Maria Diaz/ZDNET
@@ -60,10 +64,6 @@ Maria Diaz/ZDNET
 * In the Notes app, users can **record and transcribe audio**, which Apple Intelligence will generate a text summary of. This experience is also available in the Notes phone app.
 * Apple Intelligence is free on iOS 18, iPadOS 18, and MacOS Sequoia, and will be available to try in English only this summer.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Partnership with OpenAI
 
 Jason Hiner/ZDNET
@@ -73,7 +73,7 @@ Jason Hiner/ZDNET
 * The ChatGPT integration will be coming to iOS 18, iPadOS 18, and MacOS Sequoia later this year.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## iOS 18
@@ -93,10 +93,6 @@ Adam Breeden/ZDNET
 * The Messages app now supports [**Rich Communication Services (RCS).**](https://www.zdnet.com/article/apple-is-finally-adding-rcs-to-the-iphone-and-i-couldnt-be-more-excited/)
 * The **Safari app** was upgraded to include key information about a webpage. You can read more about the Safari upgrades under the MacOS section of this article.
 * The **Calendar app** can now pull from the Reminders app for a more seamless schedule overview.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## WatchOS 11
 
@@ -123,7 +119,7 @@ Adam Breeden/ZDNET
 * iPadOS 18 supports **screen-sharing via SharePlay** and the same Control Center customizations, Photos app upgrades, Safari updates, and emoji Tapbacks found in **iOS 18.**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## MacOS 15 (Sequoia)
@@ -138,7 +134,7 @@ Adam Breeden/ZDNET
 * Apple also launched a new **Viewer experience**, which does for video what Reader does for text.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## VisionOS 2
@@ -157,6 +153,10 @@ Jason Hiner/ZDNET
 * Apple TV brings **multiview to Vision Pro**, which is especially useful when watching sports games.
 * Users can **cast content** from their iPhone, iPad, or Mac to the Vision Pro using AirPlay.
 * Apple is also making the Vision Pro available in more countries starting June 28\. You can see the full list [here](https://www.apple.com/newsroom/2024/06/apple-vision-pro-arrives-in-new-countries-and-regions-beginning-june-28/).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## AirPods
 
@@ -210,14 +210,15 @@ Screenshot by Nina Raemont/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-hints.techidaily.com/new-all-encompassing-review-djis-inspire-1-drone/"><u>[New] All-Encompassing Review DJI's Inspire 1 Drone</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-rapid-photovideo-resurrection-tactics-for-2024/"><u>[New] Rapid Photo/Video Resurrection Tactics for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-flashclip-quick-checkup-review/"><u>[Updated] 2024 Approved FlashClip Quick Checkup Review</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/revealed-apples-next-gen-audio-wearable-pricing-launch-and-features-uncovered/"><u>Revealed: Apple's Next-Gen Audio Wearable - Pricing, Launch & Features Uncovered!</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/samsung-smart-tv-app-management-how-to-download-and-enjoy-new-apps/"><u>Samsung Smart TV App Management: How to Download and Enjoy New Apps</u></a></li>
-<li><a href="https://common-error.techidaily.com/syncing-valorant-gameplay-post-restart/"><u>Syncing Valorant Gameplay Post-Restart</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/ultimate-list-of-free-film-streamers-top-12-picks/"><u>Ultimate List of Free Film Streamers: Top 12 Picks</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/unveiling-the-true-eco-friendliness-of-electric-cars/"><u>Unveiling the True Eco-Friendliness of Electric Cars</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/youtube-income-guide-whats-new/"><u>YouTube Income Guide - What's New?</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-crafting-perfect-youtube-introend-videos-at-no-cost/"><u>[New] 2024 Approved Crafting Perfect YouTube Intro/End Videos at No Cost</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-yt-highlights-year-end-spotlight-on-top-music-reactions/"><u>2024 Approved YT Highlights Year-End Spotlight on Top Music Reactions</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/delete-gmail-account-withwithout-password-on-vivo-y100i-power-5g-by-drfone-android/"><u>Delete Gmail Account With/Without Password On Vivo Y100i Power 5G</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/effective-techniques-to-resolve-computer-display-coloring-issues/"><u>Effective Techniques to Resolve Computer Display Coloring Issues</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/electric-cars-and-extreme-weather-a-functional-analysis/"><u>Electric Cars and Extreme Weather - A Functional Analysis</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-train-your-dragon-series-the-perfect-movie-watching-order-revealed/"><u>How to Train Your Dragon Series: The Perfect Movie-Watching Order Revealed!</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-remove-apple-iphone-xs-sim-lock-by-drfone-ios/"><u>In 2024, How to Remove Apple iPhone XS SIM Lock?</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/overcoming-common-keyboard-problems-a-comprehensive-guide-to-fixing-unresponsive-keys/"><u>Overcoming Common Keyboard Problems: A Comprehensive Guide to Fixing Unresponsive Keys</u></a></li>
+<li><a href="https://some-tips.techidaily.com/revolutionizing-business-with-red-hats-new-enterprise-linux-ai-capabilities-zdnet-insights/"><u>Revolutionizing Business with Red Hat's New Enterprise Linux AI Capabilities | ZDNet Insights</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/step-by-step-strategy-achieving-perfect-4k-streams-on-youtube-a-how-to/"><u>Step-by-Step Strategy: Achieving Perfect 4K Streams on YouTube – A How-To</u></a></li>
 </ul></div>
 

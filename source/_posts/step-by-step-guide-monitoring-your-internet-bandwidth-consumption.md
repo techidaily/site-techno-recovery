@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Monitoring Your Internet Bandwidth Consumption"
-date: 2024-08-26T05:59:15.506Z
-updated: 2024-08-27T05:59:15.506Z
+date: 2025-01-15T19:40:44.220Z
+updated: 2025-01-17T01:05:07.546Z
 categories:
   - BestProducts
 description: "This Article Describes Step-by-Step Guide: Monitoring Your Internet Bandwidth Consumption"
@@ -14,6 +14,10 @@ thumbnail: https://thmb.techidaily.com/99fe81a7264fad21c10b59936e2340ed2f52f70dd
 
  Instructions in this article apply to Windows 11, Windows 10, Windows 8.1, and Windows 7.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Clean up Junk Files and Programs
 
  Getting rid of unnecessary files, applications, and other "junk" is an effective way to speed up any computer. Freeing your computer of these unnecessary items opens up storage for your important things and helps with overall performance.
@@ -22,6 +26,11 @@ thumbnail: https://thmb.techidaily.com/99fe81a7264fad21c10b59936e2340ed2f52f70dd
  If these temporary internet files and other useless items stick around for too long, they can not only cause programs to hang and become unresponsive and sluggish but also take up valuable hard drive space.  
 ![A list of junk files analyzed by CCleaner](https://www.lifewire.com/thmb/fcJdBbMmX-n1fr28E8-tAXm60bc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ccleaner-f6f275a2e09b4fa8821c232149546fd7.png)
 2. [Remove unwanted programs](https://www.lifewire.com/windows-uninstaller-to-remove-unused-programs-3506955) that are just lingering on your computer. These are not only taking up hard drive space but they might [open automatically with Windows](https://www.lifewire.com/change-startup-programs-windows-11-6823499) and be running in the background all the time, sucking away at the processor and memory.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  There are several[free program uninstaller apps](https://www.lifewire.com/free-uninstaller-programs-2625188) that make doing this really easy.
 3. Also considered junk files are anything you simply don't use or want anymore. So, delete those old video files that you downloaded a year ago and[back up all the data you rarely access](https://www.lifewire.com/ways-to-back-up-your-data-2640426) , like vacation pictures.
 4. [Clean up your desktop](https://www.lifewire.com/cleaning-and-speeding-up-windows-desktop-3506952) if it's cluttered. Making File Explorer load those icons and folders each time the desktop refreshes can put unnecessary load on your hardware, which takes away[system resources](https://www.lifewire.com/what-is-a-system-resource-2626016) that could be used elsewhere.
@@ -35,8 +44,9 @@ thumbnail: https://thmb.techidaily.com/99fe81a7264fad21c10b59936e2340ed2f52f70dd
 [How Often Should You Defrag Your Computer?](https://www.lifewire.com/how-often-should-you-defrag-3976922)
 
 <!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Remove Viruses, Malware, Spyware, Adware, etc
 
  Every Windows computer is vulnerable to malware, but your risk of infection is low if you regularly use anti-malware programs.
@@ -48,27 +58,21 @@ thumbnail: https://thmb.techidaily.com/99fe81a7264fad21c10b59936e2340ed2f52f70dd
 [How to Tell if You Have a Computer Virus on Windows](https://www.lifewire.com/how-to-tell-if-your-computer-has-a-virus-4590200)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fix Windows System Errors
 
  Installing and uninstalling software and Windows updates, rebooting your computer during an update, forcing your PC to shut down immediately, and other things can cause errors within the Windows system files.
 
  These errors can cause things to lock up, halt program installs and updates, and generally prevent a smooth computer experience. Speeding up a computer this way is easy; just[repair the system files](https://www.lifewire.com/how-to-use-sfc-scannow-to-repair-windows-system-files-2626161) .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 ## Adjust Visual Effects
 
  Windows provides numerous interesting visual effects including animated windows and fading menus. These extras are usually fine to have turned on, but they're only worth it if you have enough system memory.
 
  If this is why your PC is slow, you can[turn off these visual effects to speed up the computer in seconds](https://www.lifewire.com/adjust-visual-effects-to-improve-speed-3506867) .
 
-<!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Clean, Replace, or Upgrade Your Hardware
 
  While software problems often cause a slow computer, you can only get so far before you need to address the hardware.
@@ -81,10 +85,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
  You can use a[free system information utility](https://www.lifewire.com/free-system-information-tools-2625772) to see the specs of your hardware. These tools are helpful if you're planning on replacing hardware so that you don't have to[open your computer](https://www.lifewire.com/how-to-open-a-desktop-computer-case-2624589) just to check on things. For example, if you want more[RAM](https://www.lifewire.com/what-is-random-access-memory-ram-2618159) , you can use a system info tool to confirm the type and amount you already have so you know what to buy.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
-</a>
-<!-- affiliate ads end -->
 ## Reinstall the Entire Windows Operating System
 
  The most drastic solution to speeding up your computer is to delete all the software and files, remove the whole Windows OS, and start from scratch. You can do this with a[clean install of Windows](https://www.lifewire.com/how-to-clean-install-windows-2624904) .
@@ -94,8 +94,9 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
  Reinstalling Windows is a permanent solution. Back up your files and make note of any programs you will want to reinstall.
 
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Why Is My Computer So Slow?
 
  Over time, as you download files, browse the internet, remove programs, leave applications open, and do pretty much anything else on your computer, it slowly collects junk and causes behind-the-scenes problems that aren't always so easy to catch at first.
@@ -137,8 +138,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -146,4 +145,24 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-information.techidaily.com/new-constructing-compelling-trailer-crafts/"><u>[New] Constructing Compelling Trailer Crafts</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-unmuting-your-social-network-fixing-half-volume-videos/"><u>[Updated] Unmuting Your Social Network Fixing Half-Volume Videos</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/audio-visual-synergy-iphones-role-in-modern-music-videos-for-2024/"><u>Audio-Visual Synergy IPhone's Role in Modern Music Videos for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/easy-steps-activatedeactivate-your-computers-touch-keyboard-on-windows-10-systems/"><u>Easy Steps: Activate/Deactivate Your Computer’s Touch Keyboard on Windows 10 Systems</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/essential-strategies-to-recover-or-restore-missing-wpcpatdll-components/"><u>Essential Strategies to Recover or Restore Missing WPCPAT.DLL Components</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/exploring-the-functions-of-smartwatches-a-comprehensive-guide/"><u>Exploring the Functions of Smartwatches: A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/exploring-the-next-wave-of-ai-innovation-beyond-traditional-chatbots/"><u>Exploring the Next Wave of AI Innovation: Beyond Traditional Chatbots</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/graphical-interface-resumed-after-interruption/"><u>Graphical Interface Resumed After Interruption</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-fix-ssleay32dll-not-found-or-missing-errors/"><u>How to Fix Ssleay32.dll Not Found or Missing Errors</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/how-to-safely-obtain-vlc-player-at-no-charge-on-macos-for-2024/"><u>How to Safely Obtain VLC Player at No Charge on MacOS for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-successfully-overcome-instagram-story-upload-issues/"><u>How to Successfully Overcome Instagram Story Upload Issues</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/navigating-the-maze-of-zoom-broadcasting-tools-for-2024/"><u>Navigating the Maze of Zoom Broadcasting Tools for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/smart-texting-strategies-keep-your-data-plan-intact/"><u>Smart Texting Strategies: Keep Your Data Plan Intact</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-guide-linking-your-amazon-fire-tv-stick-with-wifi-through-a-smartphones-tethered-connection/"><u>Step-by-Step Guide: Linking Your Amazon Fire TV Stick with WiFi Through a Smartphone's Tethered Connection</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-tutorial-locating-personal-telephone-information-digitally/"><u>Step-by-Step Tutorial: Locating Personal Telephone Information Digitally</u></a></li>
+<li><a href="https://fox-links.techidaily.com/tactical-phone-data-shift-android-to-iphone/"><u>Tactical Phone Data Shift Android to iPhone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/win-the-battle-against-frozen-fortnite-scenes-masterful-fixes-for-gaming-enthusiasts/"><u>Win the Battle Against Frozen Fortnite Scenes: Masterful Fixes for Gaming Enthusiasts</u></a></li>
+</ul></div>
 

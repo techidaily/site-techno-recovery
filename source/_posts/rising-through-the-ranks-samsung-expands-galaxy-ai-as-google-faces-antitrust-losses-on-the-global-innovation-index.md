@@ -1,7 +1,7 @@
 ---
 title: "Rising Through the Ranks: Samsung Expands Galaxy AI as Google Faces Antitrust Losses on the Global Innovation Index"
-date: 2025-01-05T23:25:58.248Z
-updated: 2025-01-10T20:54:27.841Z
+date: 2025-01-14T21:40:50.308Z
+updated: 2025-01-17T01:51:47.560Z
 tags:
   - apple
 categories:
@@ -71,19 +71,21 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/updated-2024-approved-the-virtual-quest-a-jaunt-vr-exploration/"><u>[Updated] 2024 Approved The Virtual Quest A Jaunt VR Exploration</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-muting-problem-solutions-for-obs-sound-capture/"><u>[Updated] Muting Problem Solutions for OBS Sound Capture</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/captivating-content-crafting-impactful-insta-videos/"><u>Captivating Content Crafting Impactful Insta-Videos</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-track-a-lost-lava-blaze-2-pro-for-free-drfone-by-drfone-virtual-android/"><u>How to Track a Lost Lava Blaze 2 Pro for Free? | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-track-imei-number-of-infinix-hot-30i-through-google-earth-by-drfone-android/"><u>In 2024, How To Track IMEI Number Of Infinix Hot 30i Through Google Earth?</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/rectifying-the-dll-mishap-how-to-address-btballoondll-errors-successfully/"><u>Rectifying the DLL Mishap: How to Address btballoon.dll Errors Successfully</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/smart-choices-for-smart-watches-discover-the-5-must-know-tips-pre-purchase/"><u>Smart Choices for Smart Watches: Discover the 5 Must-Know Tips Pre-Purchase</u></a></li>
-<li><a href="https://article-posts.techidaily.com/top-picks-ultimate-guide-to-the-most-outstanding-17-inch-laptops/"><u>Top Picks: Ultimate Guide to the Most Outstanding 17-Inch Laptops</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/turning-off-safety-notifications-how-to-manage-emergency-and-amber-alerts-on-iphone/"><u>Turning Off Safety Notifications: How to Manage Emergency & AMBER Alerts on iPhone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/understanding-nintendo-switch-online-disruptions-a-widespread-problem-or-individual-concerns/"><u>Understanding Nintendo Switch Online Disruptions – A Widespread Problem or Individual Concerns?</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/he-artisans-approach-to-crafting-channel-identities-for-2024/"><u>[New] The Artisan's Approach to Crafting Channel Identities for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/asmr-quality-meets-economic-realities/"><u>ASMR Quality Meets Economic Realities</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-and-install-soundmax-audio-drivers-for-windows-systems/"><u>Download & Install SoundMax Audio Drivers for Windows Systems</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-come-up-with-the-best-pokemon-team-on-motorola-moto-g23-drfone-by-drfone-virtual-android/"><u>In 2024, How to Come up With the Best Pokemon Team On Motorola Moto G23? | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/nsp4dll-not-detected-heres-how-to-resolve-the-issue/"><u>nsp4.dll Not Detected? Here’s How to Resolve the Issue</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/optimizing-gaming-performance-on-sony-ps5-through-ssd-hard-drive-replacement/"><u>Optimizing Gaming Performance on Sony PS5 Through SSD Hard Drive Replacement</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/scooping-tech-step-by-step-guide-to-screen-recording-for-2024/"><u>Scooping Tech Step-by-Step Guide to Screen Recording for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/silence-running-apps-on-windows-11/"><u>Silence Running Apps on Windows 11</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/step-by-step-guide-integrating-audio-into-your-reels-for-2024/"><u>Step-by-Step Guide Integrating Audio Into Your Reels for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unleash-your-reading-habit-explore-our-pick-of-the-top-17-free-e-book-websites/"><u>Unleash Your Reading Habit: Explore Our Pick of the Top 17 Free E-Book Websites</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unlocking-concealed-ios-apps-your-ultimate-how-to-manual/"><u>Unlocking Concealed iOS Apps: Your Ultimate How-To Manual</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/1722900788783-what-to-binge-on-max-right-now-our-expert-selection/"><u>What to Binge on Max Right Now? Our Expert Selection</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 

@@ -1,7 +1,7 @@
 ---
 title: "Your Preview of the Epic Samsung Event : Date, Hottest News + Anticipated Product Leaks Decoded!"
-date: 2024-08-20T10:00:08.540Z
-updated: 2024-08-21T10:00:08.540Z
+date: 2025-01-15T17:45:57.529Z
+updated: 2025-01-16T18:24:43.264Z
 categories:
   - BestProducts
 description: "This Article Describes Your Preview of the Epic Samsung Event : Date, Hottest News + Anticipated Product Leaks Decoded!"
@@ -27,27 +27,34 @@ thumbnail: https://thmb.techidaily.com/e694a122580d35baa4ea409639e0ea6a835876b9d
 
  The previous Unpacked was on July 10, 2024; the company announced the latest Galaxy Z Flip and Z Fold models, along with Galaxy Buds, Galaxy Watches, and the new Galaxy Ring.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Watch Samsung Unpacked
 
  Samsung's events happen around the world, but the company streams it live on its website and YouTube channels. You can learn how to[watch it here](https://www.lifewire.com/watch-samsung-unpacked-online-5095263) .
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Which Products Will Be Released?
 
  The last January event featured the latest versions of Samsung's flagship Galaxy S phones, so we expect the same for 2025\. We'll see the[Galaxy S25/S25+](https://www.lifewire.com/samsung-galaxy-s25-8636730) and[S25 Ultra](https://www.lifewire.com/samsung-galaxy-s25-ultra-8639667) for sure. We might also see a new Galaxy Tablet, but we'll have to wait and see.
 
 <!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## What Previous Unpacked Events Announced
 
  Curious about what Samsung's announced at the last event? We've got the details below. The Galaxy Flip and Fold series are the[newest phones from the tech giant](https://www.lifewire.com/newest-samsung-galaxy-phone-7567396) .
 
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### July 2024 Unpacked Event
 
  The following products were announced at the July 2024 Unpacked event.
@@ -67,8 +74,9 @@ thumbnail: https://thmb.techidaily.com/e694a122580d35baa4ea409639e0ea6a835876b9d
  The foldable devices–the Flip 6 and Fold 6–continue the company's dedication to artificial intelligence with new photo editing and generation features. One notable one has your phone generating a fully rendered image based on your sketch.
 
 <!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## The Latest Samsung News
 
  While you can always read the[latest technology news on Lifewire](https://www.lifewire.com/news-4795879) , here are some pieces of interest about Samsung.
@@ -85,8 +93,6 @@ thumbnail: https://thmb.techidaily.com/e694a122580d35baa4ea409639e0ea6a835876b9d
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -94,4 +100,18 @@ thumbnail: https://thmb.techidaily.com/e694a122580d35baa4ea409639e0ea6a835876b9d
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/new-cut-the-red-tape-simplify-xboxfb-broadcasting/"><u>[New] Cut the Red Tape Simplify Xbox/FB Broadcasting</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/aether-what-it-is-and-how-to-join-it/"><u>Aether: What It Is and How to Join It</u></a></li>
+<li><a href="https://win11.techidaily.com/enabling-secure-data-transfer-application-guard-edge-use-case-win-11-methodology/"><u>Enabling Secure Data Transfer: Application Guard (Edge) Use Case, Win 11 Methodology</u></a></li>
+<li><a href="https://solve-hot.techidaily.com/enhanced-performance-with-the-help-of-cookiebot-technology/"><u>Enhanced Performance with the Help of Cookiebot Technology</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/greatest-childrens-entertainment-on-netflix/"><u>Greatest Children’s Entertainment on Netflix</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/overcoming-communication-barriers-repairing-call-capabilities-in-android-systems/"><u>Overcoming Communication Barriers: Repairing Call Capabilities in Android Systems</u></a></li>
+<li><a href="https://some-tips.techidaily.com/revolutionary-mobile-app-transforms-bathroom-visits-into-comprehensive-health-assessments-the-tech-trend-from-zdnet/"><u>Revolutionary Mobile App Transforms Bathroom Visits Into Comprehensive Health Assessments - The Tech Trend From ZDNet</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/step-by-step-tutorial-on-preserving-video-clarity-during-online-compression/"><u>Step-by-Step Tutorial on Preserving Video Clarity During Online Compression</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-future-of-remote-work-how-chatgpt-opens-doors-to-innovation/"><u>The Future of Remote Work: How ChatGPT Opens Doors to Innovation</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-ultimate-tutorial-batch-posting-images-on-your-facebook-page/"><u>The Ultimate Tutorial: Batch Posting Images on Your Facebook Page</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/top-9-outils-darborescence-familiale-preferes-pour-les-genealogistes-de-2024-movavi/"><u>Top 9 Outils D'Arborescence Familiale Préférés Pour Les Genealogistes De 2024 - Movavi</u></a></li>
+</ul></div>
 

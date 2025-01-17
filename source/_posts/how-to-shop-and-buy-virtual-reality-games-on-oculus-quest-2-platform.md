@@ -1,7 +1,7 @@
 ---
 title: How to Shop and Buy Virtual Reality Games on Oculus Quest 2 Platform
-date: 2024-08-26T05:56:23.083Z
-updated: 2024-08-27T05:56:23.083Z
+date: 2025-01-12T23:21:20.335Z
+updated: 2025-01-16T22:41:37.922Z
 categories:
   - BestProducts
 description: This Article Describes How to Shop and Buy Virtual Reality Games on Oculus Quest 2 Platform
@@ -21,6 +21,10 @@ Close
 
  This article explains how to buy new games on your Meta Quest 2.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  How to Buy Games for Meta (Oculus) Quest 2 
 
  The Quest 2 has a built-in storefront you can access in VR, so you can buy games, download them, and jump right into the action without taking off your headset.
@@ -33,9 +37,6 @@ Close
 
  The Oculus desktop app also has a storefront, but it’s focused on Rift and Rift S games. You can buy games through that app and play them when your Quest 2 is tethered to a VR-ready PC, but you won’t be able to play them on an untethered Quest 2 unless it specifies in the game details that it's cross-buy compatible.
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ##  How to Buy Games for Quest 2 From the Headset in VR 
 
  If you’re already in virtual reality (VR) and you want to get into a new game fast, the best way is to buy a game through the Quest 2 storefront. Here’s how to buy a game from the Quest 2 store in VR:  
@@ -45,6 +46,11 @@ Close
 1. Press the Oculus button on your right touch controller to bring up the Toolbar, and select the**Store** (the shopping bag) icon.  
 ![The store icon (orange shopping bag) highlighted on the Quest 2 toolbar.](https://www.lifewire.com/thmb/7FrHRSwPcNnHEOUU-JheXy62pog=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_how-to-get-free-games-on-meta-oculus-quest-and-quest-2-6362547-4f476cd7eaaf450c841a3eab5de9f4b1.jpg)
 2. Scroll through the list of games, use the search field to look for a specific game, or select a filter on the right like**Genre** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Genre highlighted in the Quest 2 store filters.](https://www.lifewire.com/thmb/BzFwxJ2kyVwlq36h_EHB2ruQMZ8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002_how-to-buy-games-on-meta-oculus-quest-2-6362981-bce2ac22b7a24ac386d5c3a9d2c0890a.jpg)  
  You can also select the search field and type the name of a specific game, or scroll down to see a select of deals and recommended games.
 3. Narrow your search by selecting a**Genre** option.  
@@ -52,14 +58,8 @@ Close
 4. Locate and select a game you want.  
 ![Rez Infinite highlighted in the Quest 2 store.](https://www.lifewire.com/thmb/6-Jnwu5ZDaNlVBcBBhzX6ZsUsaA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004_how-to-buy-games-on-meta-oculus-quest-2-6362981-89648f7fa8f34d5abff77ed499fe1b05.jpg)
 5. Select the blue price button.  
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![The blue price icon highlighted in a game listing in Quest VR.](https://www.lifewire.com/thmb/cdEdp7qcUvcU5YwpWC2TT5T6rts=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/005_how-to-buy-games-on-meta-oculus-quest-2-6362981-daa552883d0443a8ad602ec93692fd49.jpg)
 6. Select**Purchase** .  
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Purchase highlighted in the Quest 2 store.](https://www.lifewire.com/thmb/baf-kKFv5jco3Iix164qbVMvSQU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/006_how-to-buy-games-on-meta-oculus-quest-2-6362981-ed0f7dd945be4b68ab25cbf897adc911.jpg)
 7. Your default payment method will be charged, and the game will be added to your library.
 
@@ -75,20 +75,24 @@ Close
 3. Tap the game you want.  
 ![Store, Search icon, and Zenith highlighted in the Oculus app store.](https://www.lifewire.com/thmb/X12UCrvmKH13ZkePkgckwr70ElE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/007_how-to-buy-games-on-meta-oculus-quest-2-6362981-81b7952cda394641b097eb77092c08be.jpg)  
  If you have other headsets connected to your app, like a Rift or Rift S, make sure that the app says Oculus/Oculus 2 in the upper right corner. If it doesn’t, tap the name of the headset that is shown there and select Oculus/Oculus 2\. If you don’t, you could end up buying games for the wrong platform.
+
 <!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 4. Tap the blue price button.
 5. Tap**Purchase** .  
 ![Price button and Purchase highlighted in the Oculus app store.](https://www.lifewire.com/thmb/nJtTk5p2_mOLXqSsta49Yk1bhr8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/008_how-to-buy-games-on-meta-oculus-quest-2-6362981-e64e49259a7049c88439ed152908458d.jpg)
 6. Your default payment method will be charged, and the game will be added to your Quest 2 library.
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  What Is Oculus Quest Cross Buy? 
 
  Cross buy is a feature that lets you buy certain games one time and then play them in both tethered and untethered mode.
@@ -130,8 +134,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -139,4 +141,19 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/new-brainless-battles-top-8-zombie-shooter-contenders-for-2024/"><u>[New] Brainless Battles Top 8 Zombie Shooter Contenders for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-7-pro-tips-to-enhance-your-foodie-filmography-for-2024/"><u>[Updated] 7 Pro Tips to Enhance Your Foodie Filmography for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-in-2024-dive-deep-into-quality-2023s-premier-aquatic-recorders/"><u>[Updated] In 2024, Dive Deep Into Quality 2023'S Premier Aquatic Recorders</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-unveiling-the-powerhouse-q500-typhoon/"><u>2024 Approved Unveiling the Powerhouse Q500 Typhoon</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/enhancing-home-entertainment-casting-apple-tv-plus-programs-using-your-chromecast-setup/"><u>Enhancing Home Entertainment: Casting Apple TV Plus Programs Using Your Chromecast Setup</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-2-ways-to-monitor-xiaomi-14-activity-drfone-by-drfone-virtual-android/"><u>In 2024, 2 Ways to Monitor Xiaomi 14 Activity | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/is-it-possible-to-use-airpods-as-headphones-for-a-nintendo-switch/"><u>Is It Possible to Use AirPods as Headphones for a Nintendo Switch?</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/mastering-twitch-basics-understanding-streamer-viewer-interactions-for-starters/"><u>Mastering Twitch Basics: Understanding Streamer-Viewer Interactions for Starters</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/resolving-dsounddll-missing-or-unavailable-error-messages-a-comprehensive-guide/"><u>Resolving dSound.dll Missing or Unavailable Error Messages: A Comprehensive Guide</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-art-of-perusing-past-facebook-pages-to-review-or-not-to-for-2024/"><u>The Art of Perusing Past Facebook Pages To Review or Not To for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unlocking-energy-efficiency-activating-battery-saving-features-on-your-apple-watch-a-guide/"><u>Unlocking Energy Efficiency: Activating Battery Saving Features on Your Apple Watch - A Guide</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unraveling-the-secrets-of-rtx-graphics-cards-by-nvidia-explained/"><u>Unraveling the Secrets of RTX Graphics Cards by Nvidia Explained</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Unlocking the Mysteries: Unknown Fascinating Facts About Emojis"
-date: 2024-08-26T05:57:33.019Z
-updated: 2024-08-27T05:57:33.019Z
+date: 2025-01-11T18:50:29.502Z
+updated: 2025-01-17T00:17:08.709Z
 categories:
   - BestProducts
 description: "This Article Describes Unlocking the Mysteries: Unknown Fascinating Facts About Emojis"
@@ -16,6 +16,10 @@ thumbnail: https://thmb.techidaily.com/97473d93769b74152c0b0b04df270598f5aded179
 
  Emoji are here to stay as long as we all continue tweeting and texting. Here are a few interesting facts about those crazy, colorful little emoji that prove just how much the world loves them.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Apple Is Credited for Emoji Popularity
 
  Emoji have been around since 1999 when Japanese designer Shigetaka Kurita made the first emoji for cellphones, but they weren't fully embraced by the masses until 2012 when Apple released iOS 6.
@@ -28,24 +32,22 @@ thumbnail: https://thmb.techidaily.com/97473d93769b74152c0b0b04df270598f5aded179
 
  The Museum of Modern Art owns and displays Kurita's original set of emoji.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Emoji on X (formerly Twitter) Are Tracked in Real Time
 
  Want to see how many people around the world are tweeting out emoji? You can do that with a tool called[Emoji Tracker](http://www.emojitracker.com/) , described as being "an experiment in real-time visualization" of all emoji found on X.
 
  It constantly updates based on emoji information it pulls from X so that you can see the number count beside each emoji increase right before your eyes. The change is so rapid, the website bears a warning to anyone with sensitivity to rapidly blinking lights.
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Emoji Was Added to Oxford Dictionaries in 2013
 
  The emoji craze caught on so rapidly in 2012 and 2013 that it was added as a word by Oxford Dictionaries in August 2013, along with several other strange new words that could only be explained by the internet.
 
 The plural of emoji is emoji, not emojis.
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->
 ## New Emoji Are Announced Regularly
 
  New emoji are being added all the time. In 2017 the Unicode Consortium finalized 69 new ones including a vampire, a genie, a mermaid, and many more.
@@ -55,8 +57,9 @@ The plural of emoji is emoji, not emojis.
  New emoji are released each year. In 2018,[157 new emoji](https://blog.emojipedia.org/157-new-emojis-in-the-final-2018-emoji-list/) were added.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Emoji Tattoos Show Up in Odd Places
 
  What's the latest trend in tattoo art? Emoji, of course.
@@ -65,6 +68,10 @@ The plural of emoji is emoji, not emojis.
 
  Miley Cyrus also has some ink featuring the sad cat emoji, though a bit more discrete, located on the[inside of her lower lip](http://www.mtv.com/news/2306842/miley-cyrus-cat-emoji-lip-tattoo/) . Is it real? Who knows, but it sure makes a statement.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## The Face With Tears of Joy Emoji Is the Most Popular
 
  People seriously love to use the Face With Tears of Joy to express their laughter seeing as how it's the number-one most popular emoji used on X.
@@ -72,18 +79,15 @@ The plural of emoji is emoji, not emojis.
  The red heart, the heart eyes face, and the pink hearts emoji fall in second, third, and fourth place, respectively, suggesting that people enjoy expressing their love for someone or something online.
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## A Documentary Sums Up Our Obsession With Emoji
 
  Dissolve.com[published a creative short film](http://www.dissolve.com/showreels/emoji) featuring emoji as the subject of a documentary, inspired by the work and distinct voice of Sir David Attenborough.
 
  The film is less than two minutes long, but it sums up our strange and confusing obsession with emoji quite well
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
-</a>
-<!-- affiliate ads end -->
 ## People Turn Their Selfies Into Emoji
 
  There are several apps and websites you can use to turn a selfie into a personalized emoji. The Emoji Me Keyboard app, Emoji Me Face Maker app, and other similar apps are available for Android and iOS devices. Google Allo chat transforms your selfies into custom emoji.
@@ -96,10 +100,6 @@ The plural of emoji is emoji, not emojis.
 
  For the record, you can now add[Emoji keyboards to your Android device](https://www.lifewire.com/add-emojis-to-android-4149696) , too. So Android users don't have to suffer through those strange square boxes, either.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
-</a>
-<!-- affiliate ads end -->
 ## Emoji Trivia
 
  It shouldn't be a surprise that the skull emoji is most used in October and the Christmas tree in December, but no one knows why the 100 emoji is so popular in November.
@@ -137,8 +137,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -146,4 +144,24 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-synthesizing-sound-and-slides-incorporating-melodies-in-ppt/"><u>[New] 2024 Approved Synthesizing Sound and Slides Incorporating Melodies in PPT</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-ghostly-movie-editing-hacks-for-2024/"><u>[Updated] Ghostly Movie Editing Hacks for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-screen-to-streamer-effortlessly-reviewed/"><u>[Updated] Screen to Streamer, Effortlessly Reviewed</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-unlocking-fb-video-content-with-1-5-downloaders/"><u>2024 Approved Unlocking FB Video Content with #1-5 Downloaders</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discovering-lost-contacts-recover-deleted-numbers-from-your-android-device/"><u>Discovering Lost Contacts: Recover Deleted Numbers From Your Android Device</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/discovering-the-top-8-truly-efficient-advancement-services-for-2024/"><u>Discovering the Top 8 Truly Efficient Advancement Services for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/hilarity-awaits-top-iphone-and-ipad-tricks-to-play-on-your-buddies/"><u>Hilarity Awaits: Top iPhone & iPad Tricks to Play on Your Buddies</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-pinnacle-graphics-the-ultimate-4k-game-enhancement/"><u>In 2024, Pinnacle Graphics The Ultimate 4K Game Enhancement</u></a></li>
+<li><a href="https://win-web3.techidaily.com/integrate-interactive-ebooks-into-your-web-presence-expert-tips-from-flipbuildercom/"><u>Integrate Interactive eBooks Into Your Web Presence: Expert Tips From FlipBuilder.com</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ios-and-android-showdown-a-detailed-look-at-apples-app-store-vs-google-play-stores/"><u>IOS and Android Showdown: A Detailed Look at Apple's App Store vs Google Play Stores</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/mastery-of-fixes-for-an-internal-server-error-http-500/"><u>Mastery of Fixes for an Internal Server Error (HTTP 500)</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/photographic-fixes-adjusting-and-improving-animal-eyes-in-images/"><u>Photographic Fixes: Adjusting and Improving Animal Eyes in Images</u></a></li>
+<li><a href="https://windows11.techidaily.com/resolving-steam-cloud-connectivity-issues/"><u>Resolving Steam Cloud Connectivity Issues</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-ultimate-guide-to-redialing-anonymous-or-blocked-incoming-calls/"><u>The Ultimate Guide to Redialing Anonymous or Blocked Incoming Calls</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-8-must-have-ebook-applications/"><u>Top 8 Must-Have eBook Applications</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/troubleshooting-how-to-repair-when-propsysdll-file-is-lost/"><u>Troubleshooting: How to Repair When PropSys.dll File Is Lost</u></a></li>
+<li><a href="https://howto.techidaily.com/why-is-my-vivo-t2-5g-offline-troubleshooting-guide-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Is My Vivo T2 5G Offline? Troubleshooting Guide | Dr.fone</u></a></li>
+</ul></div>
 

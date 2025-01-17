@@ -1,7 +1,7 @@
 ---
 title: Score a Discounted New iPad (9Th Generation) at Only $250 Following Apple Event - Insights From ZDNet
-date: 2025-01-09T03:54:06.992Z
-updated: 2025-01-11T08:25:35.939Z
+date: 2025-01-14T20:21:16.743Z
+updated: 2025-01-16T23:06:29.156Z
 tags:
   - apple
 categories:
@@ -32,7 +32,7 @@ The [Apple iPad (9th Generation)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%
 If the 9th Gen is too outdated for your liking, the [iPad 10th Gen](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0BJLXMVMV%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C0e4f34d4-230d-440c-8396-9b59edfffe70%7Cdtp&dtb=1) is also discounted right now, down to only $349 after Apple [dropped the price by $100](https://www.zdnet.com/article/this-349-ipad-was-secretly-the-best-announcement-during-the-apple-event/) following the announcement of their new iPads. This model features a 10.9-inch Liquid Retina display with 64GB of storage. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -69,20 +69,19 @@ Deals are subject to sell-out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/updated-harmony-hub-innovations-showcased-for-2024/"><u>[Updated] Harmony Hub Innovations Showcased for 2024</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-beginners-guide-going-live-with-ease-on-facebook/"><u>[Updated] In 2024, Beginner’s Guide Going Live with Ease on Facebook</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/breaking-down-the-principles-of-net-neutrality-what-you-need-to-know/"><u>Breaking Down the Principles of Net Neutrality: What You Need to Know</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-can-vivo-v30mirror-share-to-pc-drfone-by-drfone-android/"><u>How Can Vivo V30Mirror Share to PC? | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-5-easy-ways-to-change-location-on-youtube-tv-on-nubia-z50-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Easy Ways to Change Location on YouTube TV On Nubia Z50 Ultra | Dr.fone</u></a></li>
-<li><a href="https://article-posts.techidaily.com/in-2024-decoding-dynamic-range-with-an-insight-into-luminance/"><u>In 2024, Decoding Dynamic Range with an Insight Into Luminance</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/install-the-newest-driver-version-for-your-canon-mx92-to-work-with-windows-systems/"><u>Install the Newest Driver Version for Your Canon MX92 to Work with Windows Systems</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/premium-line-in-modems-a-buyers-guide-to-2024-models/"><u>Premium Line-In Modems: A Buyer's Guide to 2024 Models</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/securing-a-portion-from-the-25m-apple-family-sharing-litigation-payout-expert-tips/"><u>Securing a Portion From the $25M Apple Family Sharing Litigation Payout: Expert Tips</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/step-by-step-instructions-for-successful-screen-reflection-with-lg-televisions/"><u>Step-by-Step Instructions for Successful Screen Reflection with LG Televisions</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/sticking-with-my-iphone-14-top-4-reasons-im-skipping-the-upgrade-to-an-iphone-16-pro-zdnet-review/"><u>Sticking with My iPhone 14: Top 4 Reasons I'm Skipping the Upgrade to an iPhone 16 Pro | ZDNET Review</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/tech-enthusiasts-guide-unveiling-potential-pricing-and-specifications-of-the-rumored-new-tesla-phone/"><u>Tech Enthusiasts' Guide: Unveiling Potential Pricing & Specifications of the Rumored New Tesla Phone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/top-ranking-mac-vpn-services-comprehensive-tests-and-reviews-by-experts-find-your-perfect-match/"><u>Top-Ranking Mac VPN Services: Comprehensive Tests & Reviews by Experts - Find Your Perfect Match</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/ultimate-guide-resolving-the-windows-bsod-beep-series-error-0xc00000e9/"><u>Ultimate Guide: Resolving the Windows BSOD (Beep Series) Error 0xC00000E9</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/unveiling-the-budget-friendly-side-apple-slashes-prices-of-m2-macbook-air-to-a-sizzling-low-of-799-surpassing-expected-early-prime-day-discounts-digital-inn138/"><u>Unveiling the Budget-Friendly Side: Apple Slashes Prices of M2 MacBook Air to a Sizzling Low of $799, Surpassing Expected Early Prime Day Discounts | Digital Innovation Hub</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-foundations-of-fast-and-easy-nft-innovation/"><u>[New] Foundations of Fast & Easy NFT Innovation</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-leveraging-virtual-collaboration-with-zoom-and-win11-tools/"><u>[New] In 2024, Leveraging Virtual Collaboration with Zoom & Win11 Tools</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-simplifying-video-production-in-captivate-software/"><u>[New] In 2024, Simplifying Video Production in Captivate Software</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-spark-viewers-attention-with-these-10-youtube-responses/"><u>[Updated] 2024 Approved Spark Viewer's Attention with These 10 YouTube Responses</u></a></li>
+<li><a href="https://games-able.techidaily.com/enhancing-your-gaming-commentary-on-steam/"><u>Enhancing Your Gaming Commentary on Steam</u></a></li>
+<li><a href="https://techidaily.com/factory-reset-apple-iphone-14-pro-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>Factory Reset Apple iPhone 14 Pro | Dr.fone</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/guida-completa-alluso-di-su-aiomei-ripristina-universale/"><u>Guida Completa All'uso Di SU AIOMEI - Ripristina Universale</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-restore-your-files-from-the-backup-in-windows-10/"><u>How to Restore Your Files From the Backup in Windows 10?</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-setup-remote-desktop-in-windows-11/"><u>How To: Setup Remote Desktop in Windows 11</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/laminar-flow-occurs-at-low-velocities-with-a-smooth-orderly-movement-of-fluid-particles-in-layers/"><u>Laminar Flow Occurs at Low Velocities with a Smooth, Orderly Movement of Fluid Particles in Layers.</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/maintenance-therapy-typically-involves-lower-doses-of-steroids-with-azathioprine-or-continued-use-of-mycophenolate-mofetil-to-prevent-relapses/"><u>Maintenance Therapy Typically Involves Lower Doses of Steroids with Azathioprine or Continued Use of Mycophenolate Mofetil to Prevent Relapses</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/master-the-art-of-fixing-glitches-solutions-for-windows-11-and-windows-10-users/"><u>Master the Art of Fixing Glitches: Solutions for Windows 11 & Windows 10 Users</u></a></li>
+<li><a href="https://howto.techidaily.com/super-easy-ways-to-deal-with-oneplus-11-5g-unresponsive-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Super Easy Ways To Deal with OnePlus 11 5G Unresponsive Screen | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/when-virtual-meets-real-8-ai-innovations/"><u>When Virtual Meets Real: 8 AI Innovations</u></a></li>
 </ul></div>
 

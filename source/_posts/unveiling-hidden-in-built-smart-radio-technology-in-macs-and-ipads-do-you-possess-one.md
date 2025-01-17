@@ -1,7 +1,7 @@
 ---
 title: "Unveiling Hidden In-Built Smart Radio Technology in Macs & iPads: Do You Possess One?"
-date: 2025-01-06T04:13:13.567Z
-updated: 2025-01-11T04:37:33.960Z
+date: 2025-01-16T00:52:20.927Z
+updated: 2025-01-17T00:56:07.708Z
 tags:
   - apple
 categories:
@@ -63,7 +63,7 @@ Since the iPad and Mac run Apple's Home app, they could function as Thread borde
 The best way to determine if your device has a Thread radio built-in is to look for evidence of Thread testing in the device's [FCC reports](https://fcc.report/). 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Find your device's model number or FCC ID
@@ -78,6 +78,10 @@ You can also look for your [iPad](https://support.apple.com/en-us/108043), [MacB
 
 You can access the Apple FCC database by clicking [FCC.Report/company/Apple](https://fcc.report/company/apple). This will bring up a complete list of the company's FCC reports, from the first one in 1981 through today.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Search for your device's model number or FCC ID
 
 Search for your device's model number or FCC ID by performing a quick **Find** using _Ctrl F_ or _cmd F_.
@@ -88,6 +92,10 @@ Clicking on the device's report will bring up a list of all the reports created 
 
 **Also: [iPad Air (2024) review: Apple's M2 tablet is even better than my $1,200 Android](https://www.zdnet.com/article/ipad-air-2024-review/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. Find the Thread testing report
 
 Search for any test reports mentioning "Thread" or "IEEE 802.15.4," which is the technical standard on which Thread is built. 
@@ -95,14 +103,10 @@ Search for any test reports mentioning "Thread" or "IEEE 802.15.4," which is the
 If a Thread radio exists in that device, you should find a report of its compliance testing since a non-existent feature wouldn't be tested.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## FAQ
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What is Thread?
 
@@ -129,7 +133,7 @@ Thread creates a self-healing mesh network, so having more border routers in a s
 For example, if you have a Thread smart lock and temperature sensor and a Wi-Fi smart thermostat, a Thread border router like the HomePod mini connects the smart lock and sensor to the Wi-Fi network and enables communication between the sensor and thermostat. It also would allow you to control all three devices through a single app -- in this case, Apple Home -- even if you're not home.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Why would Apple give some iPads and Macs Thread radios and not all?
@@ -139,10 +143,6 @@ No Thread protocol information was found for the [11-inch M2 Wi-Fi iPad Air](htt
 **Also: [Google Home pro tip: How to use Gemini to broadcast messages between your Nest devices](https://www.zdnet.com/home-and-office/smart-home/google-home-pro-tip-how-to-use-gemini-to-broadcast-messages-between-your-nest-devices/)**
 
 While Apple hasn't explicitly confirmed this information, the company may have used tri-band radio chips in the iPads and Macs with Thread radios. These integrated circuits support three different frequency bands for wireless communication, combining Wi-Fi, Bluetooth, and Thread into a single chip to make it more energy-efficient and compact. The multi-protocol support helps future-proof devices by supporting emerging wireless protocols.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Will iPads and Macs be Thread border routers?
 
@@ -204,22 +204,19 @@ The Apple Watch primarily uses Bluetooth to connect to the iPhone, but when Blue
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-in-2024-key-concepts-in-image-manipulation/"><u>[New] In 2024, Key Concepts in Image Manipulation</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-2024-approved-essential-tips-for-mac-users-with-obs-and-streamlabs/"><u>[Updated] 2024 Approved Essential Tips for Mac Users with OBS & Streamlabs</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/adding-your-ca-drivers-license-to-digital-wallets-easy-steps-for-apples-and-googles-integration/"><u>Adding Your CA Driver’s License to Digital Wallets: Easy Steps for Apples & Googles Integration</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/auditory-enhancement-unlocked-delve-into-freeware-audio-effect-software-for-2024/"><u>Auditory Enhancement Unlocked Delve Into Freeware Audio Effect Software for 2024</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/como-migrar-tu-sistema-basado-en-gpt-a-una-unidad-ssd-en-windows-1110-tutorial-integral/"><u>Cómo Migrar Tu Sistema Basado en GPT a Una Unidad SSD en Windows 11/10 - Tutorial Integral</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-a-guide-nokia-150-2023-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/"><u>In 2024, A Guide Nokia 150 (2023) Wireless and Wired Screen Mirroring | Dr.fone</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-conquer-kinemaster-rule-the-meme-world/"><u>In 2024, Conquer KineMaster, Rule the Meme World</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/in-depth-review-and-comparison-of-the-newly-released-third-gen-airpods-by-apple-significant-upgrades-unveiled/"><u>In-Depth Review and Comparison of the Newly Released Third Gen AirPods by Apple - Significant Upgrades Unveiled</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/mastering-the-basics-of-lg-channels-whats-important-to-learn/"><u>Mastering the Basics of LG Channels: What's Important to Learn</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/solutions-for-restoring-sound-output-in-malfunctioning-receivers/"><u>Solutions for Restoring Sound Output in Malfunctioning Receivers</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/the-future-is-on-your-wrist-unpacking-rumors-surrounding-the-new-google-pixel-smartwatch-series-4-pricing-estimates-release-dates-and-speculative-specs/"><u>The Future Is on Your Wrist: Unpacking Rumors Surrounding the New Google Pixel Smartwatch Series 4 - Pricing Estimates, Release Dates & Speculative Specs.</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/the-social-media-marketers-cheat-sheet-to-timely-twitter-content/"><u>The Social Media Marketer's Cheat Sheet to Timely Twitter Content</u></a></li>
-<li><a href="https://win11.techidaily.com/the-windows-wizardry-of-managing-system-activities-and-changes/"><u>The Windows Wizardry of Managing System Activities & Changes</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/top-rated-ipad-pro-protectors-2024-comprehensive-reviews-and-ratings-insights-from-tech-gurus-zdnet/"><u>Top-Rated iPad Pro Protectors 2024: Comprehensive Reviews & Ratings - Insights From Tech Gurus | ZDNet</u></a></li>
-<li><a href="https://fox-that.techidaily.com/1721448220300-trouble-with-full-screen-captures-in-safari-browser-here-are-the-solutions/"><u>Trouble with Full-Screen Captures in Safari Browser? Here Are the Solutions</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/unlock-hours-of-joy-7-great-online-game-options-for-children/"><u>Unlock Hours of Joy: 7 Great Online Game Options for Children</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/unveiling-the-eco-friendlinncy-of-battery-powered-vehicles-fact-or-fiction/"><u>Unveiling the Eco-Friendlinncy of Battery Powered Vehicles: Fact or Fiction?</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-bridging-games-and-friends-xbox-live-to-facebook-broadcasting/"><u>[New] 2024 Approved Bridging Games and Friends Xbox Live to Facebook Broadcasting</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-fast-track-to-facebooks-latest-viewing-history-2e23/"><u>[New] 2024 Approved Fast Track to Facebook’s Latest Viewing History (2E23)</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-a-strategic-approach-to-increase-likes-on-your-tiktok-video-content/"><u>[Updated] A Strategic Approach to Increase 'Likes' On Your TikTok Video Content</u></a></li>
+<li><a href="https://app-tips.techidaily.com/enterprise-tech-adopts-the-ops-approach-amidst-emerging-challenges-zdnet-insights/"><u>Enterprise Tech Adopts the 'Ops' Approach Amidst Emerging Challenges | ZDNet Insights</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-block-all-pop-up-ads-on-chrome-without-adblock/"><u>How to Block All Pop Up Ads on Chrome [without AdBlock]</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-install-vpn-on-netgear-router-steps-with-pictures/"><u>How to Install VPN on Netgear Router [Steps with Pictures]</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-make-pubg-run-better-the-top-7-tips/"><u>How to Make PUBG Run Better [the Top 7 Tips]</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-remove-microsoft-account-from-windows-11-easily-solved/"><u>How to Remove Microsoft Account From Windows 11 Easily [Solved]</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-remove-or-bypass-knox-enrollment-service-on-xiaomi-redmi-note-13-5g-by-drfone-android/"><u>How To Remove or Bypass Knox Enrollment Service On Xiaomi Redmi Note 13 5G</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-speed-up-your-windows-10-or-11-boot-process-expert-advice-here/"><u>How to Speed Up Your Windows 10 or 11 Boot Process – Expert Advice Here</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-start-windows-11-in-safe-mode-4-different-methods-with-screenshots/"><u>How to Start Windows 11 in Safe Mode - 4 Different Methods (with Screenshots)</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-quick-guide-to-overcoming-instagram-video-hiccups/"><u>In 2024, Quick Guide to Overcoming Instagram Video Hiccups</u></a></li>
+<li><a href="https://win-trending.techidaily.com/maximize-your-readership-and-virality-with-flipbuilders-social-sharing-ebooks/"><u>Maximize Your Readership & Virality with FlipBuilder's Social Sharing Ebooks</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/the-ultimate-shortcut-to-achieving-unique-vocal-flair-in-pubg/"><u>The Ultimate Shortcut to Achieving Unique Vocal Flair in PUBG</u></a></li>
 </ul></div>
 

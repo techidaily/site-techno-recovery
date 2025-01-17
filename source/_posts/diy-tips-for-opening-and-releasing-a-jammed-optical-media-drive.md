@@ -1,7 +1,7 @@
 ---
 title: DIY Tips for Opening and Releasing a Jammed Optical Media Drive
-date: 2024-08-26T05:56:28.934Z
-updated: 2024-08-27T05:56:28.934Z
+date: 2025-01-11T17:42:15.194Z
+updated: 2025-01-17T01:16:17.371Z
 categories:
   - BestProducts
 description: This Article Describes DIY Tips for Opening and Releasing a Jammed Optical Media Drive
@@ -13,6 +13,10 @@ thumbnail: https://www.lifewire.com/thmb/uiJ1_1vH4xyewMxC_c8WHih8X3w=/400x300/fi
  Have you ever needed to open your CD or DVD drive (also referred to as your[optical drive](https://www.lifewire.com/what-is-an-optical-disc-drive-2618157) ) but couldn't? There's no reason to rush out and replace the disc or drive just because the eject button doesn't do what you expected it to do.
 
  Fortunately, one of the following two methods_almost always_ does the trick to get the drive open:
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Fix a DVD/BD/CD Drive That Won't Open or Eject Within the OS
 
@@ -28,11 +32,19 @@ thumbnail: https://www.lifewire.com/thmb/uiJ1_1vH4xyewMxC_c8WHih8X3w=/400x300/fi
 ![File Explorer in Windows 10 showing right-click menu with Eject command highlighted](https://www.lifewire.com/thmb/JdH15OVtIjSJeEPIvh9TCVtlnYc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_fix-dvd-bd-cd-drive-that-wont-open-or-eject-2626113-5bf8523e46e0fb0083220b80.jpg)
 4. The drive bay or disc should spin down and eject within seconds.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Using a Mac?** Similar to the method described above for Windows, find the disc icon, right-click it, and then choose**Eject** .
 
 [How Do I Eject a CD or DVD From My Mac?](https://www.lifewire.com/how-do-i-eject-cd-from-mac-2260195)
 
  If this doesn't work (Windows, macOS, Linux, etc.), it's time to get physical with it!
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Fix a DVD/BD/CD Drive That Won't Open or Eject With a Paper Clip
 
@@ -54,9 +66,9 @@ thumbnail: https://www.lifewire.com/thmb/uiJ1_1vH4xyewMxC_c8WHih8X3w=/400x300/fi
  Those are not necessarily in a step-by-step troubleshooting order. What steps you take depends a lot on the type of computer and optical drive you have, as well as your specific situation.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## No Luck? Here's What to Do Next
 
  At this point, there's likely something physically wrong with the drive or another part of the computer. Here are some things to consider doing:
@@ -67,8 +79,9 @@ DbSchema database designer for all databases, schema design in the team, schema 
 * Replace the drive. Optical drives are relatively cheap—Amazon sells many for around $20 USD.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Causes of a DVD/BD/CD Drive That Won't Open or Eject
 
  There are a few reasons why a CD or DVD doesn’t eject. A loss of power either from your laptop/desktop or the power to the drive itself. This can include a faulty or damaged power cable to your optical drive.
@@ -106,8 +119,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -115,4 +126,24 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-prime-10-gif-maker-services-transforming-jpgs-at-no-cost-for-2024/"><u>[New] Prime 10 GIF Maker Services Transforming JPGs at No Cost for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-ways-to-teach-you-to-transfer-files-from-honor-90-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways To Teach You To Transfer Files from Honor 90 to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/easy-setup-instructions-for-linking-bluetooth-audio-devices-to-computers/"><u>Easy Setup Instructions for Linking Bluetooth Audio Devices to Computers</u></a></li>
+<li><a href="https://win-tutorials.techidaily.com/easy-steps-for-upgrading-your-graphic-card-drivers-on-pcs-with-windows-expert-advice-from-yl-computing-software-team/"><u>Easy Steps for Upgrading Your Graphic Card Drivers on PCs with Windows - Expert Advice From YL Computing Software Team</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/experience-quality-audio-at-a-budget-soundpeats-space-series-wireless-headphones-reviewed-for-ultimate-comfort-and-extended-playtime/"><u>Experience Quality Audio at a Budget: Soundpeats' Space Series Wireless Headphones Reviewed for Ultimate Comfort and Extended Playtime!</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-fix-ac1st16dll-is-missing-or-not-found-errors/"><u>How to Fix Ac1st16.dll Is Missing or Not Found Errors</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-send-recorded-phone-calls-on-apple-devices-effortlessly/"><u>How to Send Recorded Phone Calls on Apple Devices Effortlessly</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-12-pro-max-to-android-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 12 Pro Max to Android? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-does-life360-notify-when-you-log-out-on-nubia-z50-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, Does Life360 Notify When You Log Out On Nubia Z50 Ultra? | Dr.fone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-mastering-youtube-audio-uploads/"><u>In 2024, Mastering YouTube Audio Uploads</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/resurrecting-quirkiness-top-10-unconventional-pc-computer-chassis/"><u>Resurrecting Quirkiness: Top 10 Unconventional PC Computer Chassis</u></a></li>
+<li><a href="https://win11.techidaily.com/systematic-solutions-locating-and-correcting-windows-errors-via-the-power-of-command-prompt/"><u>Systematic Solutions: Locating & Correcting Windows Errors via the Power of Command Prompt</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-apple-domestic-automaton-saga-continues-expected-launch-specs-and-cost-estimates-detailed/"><u>The Apple Domestic Automaton Saga Continues: Expected Launch, Specs & Cost Estimates Detailed</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unleash-your-inner-champion-a-list-of-the-11-most-encouraging-movies-ever-made/"><u>Unleash Your Inner Champion: A List of the 11 Most Encouraging Movies Ever Made</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unlock-the-potential-of-microsoft-teams-with-copilot-best-practices-and-strategies/"><u>Unlock the Potential of Microsoft Teams with Copilot: Best Practices and Strategies</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/untangling-bootmgr-missing-problems-on-your-pc-fixes-revealed/"><u>Untangling 'BOOTMGR Missing' Problems on Your PC - Fixes Revealed</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/what-to-do-when-you-encounter-a-missing-coredll-file/"><u>What to Do When You Encounter a Missing Core.dll File</u></a></li>
+</ul></div>
 

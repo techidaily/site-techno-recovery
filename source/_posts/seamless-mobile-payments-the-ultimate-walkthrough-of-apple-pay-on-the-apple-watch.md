@@ -1,7 +1,7 @@
 ---
 title: "Seamless Mobile Payments: The Ultimate Walkthrough of Apple Pay on the Apple Watch"
-date: 2024-08-20T10:01:17.452Z
-updated: 2024-08-21T10:01:17.452Z
+date: 2025-01-10T19:49:26.618Z
+updated: 2025-01-16T17:34:22.236Z
 categories:
   - BestProducts
 description: "This Article Describes Seamless Mobile Payments: The Ultimate Walkthrough of Apple Pay on the Apple Watch"
@@ -25,9 +25,6 @@ Close
 
  You can set up Apple Pay on your Apple Watch using available cards in the Wallet app on your iPhone or with a new card. Additionally, you can add these cards using the Wallet app on your Apple Watch or the Watch app on your iPhone.
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  How to Add Cards in the Wallet App on Apple Watch 
 
  If you’re wearing your Apple Watch, you can add cards to use with Apple Pay in just a few taps.
@@ -37,15 +34,14 @@ Close
 3. Select**Add Card** .  
 ![The Wallet app, More menu, and Add Card button on an Apple Watch](https://www.lifewire.com/thmb/trDkvexkVR-llTkgd4Fj0gNlxRg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Apple-Watch-Wallet-2-e0323eabe2964d319bbce2fbadd1b005.jpg)
 4. For an existing card, pick**Previous Cards** and select one.
-<!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
-<!-- affiliate ads end -->
 5. For a new card, pick**Debit or Credit Card** (or Apple Account or Transit Card) and then**Continue** .  
 ![Card Options and the Continue button in the Apple Watch Wallet app](https://www.lifewire.com/thmb/F7cgJeaTpjbLMae_beleljwCTtY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Card-Options-05dc0100a6fd4127b79501d6591bf9b1.jpg)
 6. Adjust your name if necessary and enter the card number and additional details, and then select**Continue** .
+
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 7. Follow the subsequent prompts to complete the setup, depending on the card you’re adding.  
  For a new card, you may need to verify your identity with the card issuer.
 
@@ -71,13 +67,13 @@ Close
    * Either scan your card in the frame that appears on the screen, or choose**Enter Card Details Manually** .
 6. Follow the subsequent prompts to complete the process. You may need to authorize any new cards you add.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
-LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 ##  How to Pay With an Apple Watch 
 
  Once you have Apple Pay set up on your Apple Watch, you can use it to make in-store purchases, app purchases, and person-to-person payments by sending or requesting money.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  Use Apple Pay in a Store 
 
@@ -85,9 +81,6 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
 
 ![Symbols for Apple Pay and contactless payments](https://www.lifewire.com/thmb/-WUg_MRUSoiLIwf-Fpq6OetTcoM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Apple-Pay-Contactless-Symbols-8666454-0e4c8825b974465b97c30ecf0140d17e.jpeg) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
-<!-- affiliate ads end -->
  If you’re able to use Apple Pay, double-press the**side** button (the rectangular button on the right).  
 
 * To pay with your default payment card, hold your Apple Watch near the card reader.
@@ -95,7 +88,15 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
 
 ![Payment card on Apple Watch](https://www.lifewire.com/thmb/BFatjHmSq2X-nO5qwiO8njc6hZg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Apple-Watch-Payment-Card-Near-Reader-8666454-926234f728dc4f0ba1bbdcae94974e2b.jpeg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If wrist detection is disabled, you’ll be asked for your passcode each time you use Apple Pay.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  Use Apple Pay in an App 
 
@@ -103,10 +104,6 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
 
  Select**Apple Pay** , review the amount, shipping, and billing details, and double-press the**side** button to make your purchase.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 ###  Send or Request a Payment on Apple Watch 
 
  Maybe you owe a pal money or need to borrow cash from a friend. You can do both with Apple Pay on Apple Watch using the Messages app.  
@@ -117,6 +114,10 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 * To request money, swipe from right to left. Then, use the**Digital Crown** or**plus sign** to enter the amount and tap**Request** .
 
 ![Request money screen on Apple Watch](https://www.lifewire.com/thmb/gxKeARrFL2ecS3ZuQmgQt81W-ow=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Reqest-Money-Apple-Pay-Apple-Watch-8666454-a22bb4f7d7054ab595b62fc2cdc8ae5d.jpeg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Requirements for Apple Pay on Apple Watch 
 
@@ -150,8 +151,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -159,4 +158,22 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-pro-video-tech-selecting-advanced-recording-software/"><u>[Updated] 2024 Approved Pro Video Tech Selecting Advanced Recording Software</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-mastering-google-meet-customization-filter-and-effect-techniques/"><u>[Updated] Mastering Google Meet Customization Filter & Effect Techniques</u></a></li>
+<li><a href="https://article-files.techidaily.com/best-intro-editors-for-app-devices/"><u>Best Intro Editors for App Devices</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/decoding-the-concept-of-net-neutrality-for-everyone/"><u>Decoding the Concept of Net Neutrality for Everyone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/diagnosing-and-fixing-power-issues-in-pcs-that-refuse-to-boot-up/"><u>Diagnosing and Fixing Power Issues in PCs That Refuse to Boot Up</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discovering-sharers-a-step-by-step-guide-to-tracking-shares-of-your-facebook-post/"><u>Discovering Sharers: A Step-by-Step Guide to Tracking Shares of Your Facebook Post</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fix-your-steam-issues-how-to-get-steam-games-running-again-on-windows-11/"><u>Fix Your Steam Issues: How to Get Steam Games Running Again on Windows 11</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-save-spotify-playlist-information-in-plain-text-files/"><u>How to Save Spotify Playlist Information in Plain Text Files</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-expert-analysis-vita-video-editor-full-insight/"><u>In 2024, Expert Analysis Vita Video Editor - Full Insight</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/master-the-art-of-a-cozy-home-karaoke-gathering-with-these-essential-tips/"><u>Master the Art of a Cozy Home Karaoke Gathering with These Essential Tips</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/optimieren-sie-ihre-mkv-reproduktionsverzogerungen-und-storungen-unter-windows-and-macos/"><u>Optimieren Sie Ihre MKV-Reproduktionsverzögerungen Und Störungen Unter Windows & macOS</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/seamless-streaming-connect-chromecast-with-your-fire-stick/"><u>Seamless Streaming: Connect Chromecast with Your Fire Stick</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/seamlessly-sync-your-airpods-with-your-hp-notebook-a-comprehensive-tutorial/"><u>Seamlessly Sync Your AirPods with Your HP Notebook: A Comprehensive Tutorial</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/solutions-to-spy-on-samsung-galaxy-a14-5g-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>Solutions to Spy on Samsung Galaxy A14 5G with and without jailbreak | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/top-10-airplay-apps-in-motorola-moto-g23-for-streaming-drfone-by-drfone-android/"><u>Top 10 AirPlay Apps in Motorola Moto G23 for Streaming | Dr.fone</u></a></li>
+</ul></div>
 

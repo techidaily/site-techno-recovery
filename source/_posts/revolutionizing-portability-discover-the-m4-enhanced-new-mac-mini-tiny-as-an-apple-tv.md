@@ -1,7 +1,7 @@
 ---
 title: "Revolutionizing Portability: Discover the M4-Enhanced New Mac Mini, Tiny as an Apple TV!"
-date: 2025-01-07T22:25:55.683Z
-updated: 2025-01-10T18:02:49.940Z
+date: 2025-01-13T01:43:40.965Z
+updated: 2025-01-16T19:17:51.357Z
 tags:
   - apple
 categories:
@@ -23,7 +23,7 @@ The ever-evolving, rapidly changing landscape of mobile technology means that wh
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### SPECIAL FEATURE
@@ -35,7 +35,7 @@ This year, five topics will likely dominate the headlines, dictate the next indu
 And that's just the beginning, as you'll find more notable trends in the list below, all of which have already begun to take shape.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. On-device AI puts the 'smart' in smartphone
@@ -51,6 +51,10 @@ Samsung's just-released [Galaxy S24 smartphones](https://www.zdnet.com/article/e
 **Also: [Apple research reveals some dazzling AI tech could be headed to your iPhone](https://www.zdnet.com/article/apple-research-reveals-some-dazzling-ai-tech-headed-to-your-iphone/)**
 
 Qualcomm is playing a major role here as well, with its flagship [Snapdragon 8 Gen 3 chipset](https://www.zdnet.com/article/qualcomms-new-snapdragon-8-gen-3-mobile-chip-brings-generative-ai-to-smartphones/) enabling performance gains across the board on smartphones, from a 20% improvement in CPU, 30% in GPU, and 41% in NPU -- the latter of which is critical for devices to perform generative AI tasks in a power-efficient manner. Expect more flagship [Android phones](https://www.zdnet.com/article/best-android-phone/) this year -- as well as [VR and XR headsets](https://www.zdnet.com/article/best-vr-headset/) \-- to field Qualcomm's new processor, with plenty of AI-enabled capabilities in tow.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Foldables are getting better (and cheaper)
 
@@ -69,7 +73,7 @@ Now that the major players have entered the competition, the big question this y
 But there's hope. Carrier providers, who often discount the latest devices aggressively in exchange for customer loyalty (read: agreement to long-term installment plans), remain a primary source of US smartphone sales. Motorola's [standard Razr model](https://www.zdnet.com/article/this-motorola-is-still-200-off-and-its-surprisingly-capable/), which can be purchased for [as low as $499](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fmotorola-razr-2023-128gb-unlocked-sage-green%2F6557867.p%3F&publisher_slug=itechdaily19598&exclusive=1) at the time of writing, is another sign of good things to come. With that in mind, 2024 is looking to be a promising sequel to foldables' breakout year in 2023.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Qi2 bridges a long-standing gap in charging
@@ -89,7 +93,7 @@ The adoption of such technology bridges a longstanding gap between MagSafe-compa
 **Also: [The best wireless chargers for iPhone and Android phones](https://www.zdnet.com/article/best-wireless-charger/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Periscope lenses push cameras to further distances
@@ -109,10 +113,6 @@ Companies like Samsung have long adopted periscope lenses to improve their camer
 As manufacturers continue to figure out ways to shrink and fit better components within the framework of smartphones, expect better, more capable cameras in 2024 and beyond.
 
 **Also:** [**The evolution of smartphone cameras: From megapixels to AI-driven photography**](https://www.zdnet.com/article/the-evolution-of-smartphone-cameras-from-megapixels-to-ai-driven-photography/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5\. A new class of mobile devices
 
@@ -168,24 +168,22 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-2024-approved-replay-the-art-of-twitch-livestream-control/"><u>[New] 2024 Approved Replay The Art of Twitch Livestream Control</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-hairstyles-for-visual-gurus-for-2024/"><u>[New] Hairstyles for Visual Gurus for 2024</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-the-ultimate-guide-to-creating-share-worthy-memes-on-9gag-for-2024/"><u>[New] The Ultimate Guide to Creating Share-Worthy Memes on 9GAG for 2024</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-cutting-through-limitations-with-top-video-editor-alternatives/"><u>[Updated] Cutting Through Limitations with Top Video Editor Alternatives</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-peak-performance-powerhouses-gadgets-galore/"><u>[Updated] Peak Performance Powerhouses, Gadgets Galore</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-the-initial-stages-of-joining-youtube-as-a-chanel-owner/"><u>[Updated] The Initial Stages of Joining YouTube as a Chanel Owner</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-uniting-friends-across-operating-systems-with-skype-groups/"><u>[Updated] Uniting Friends Across Operating Systems with Skype Groups</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-how-to-upload-and-post-gifs-onto-instagram-4-steps/"><u>2024 Approved How To Upload and Post GIFs Onto Instagram [4 Steps]</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-steps-to-eliminate-the-obs-blank-screens-in-gaming-setup/"><u>2024 Approved Steps to Eliminate the OBS Blank Screens in Gaming Setup</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/1722889278100-google-maps-for-ev-owners-mastering-the-search-for-public-charging-locations/"><u>Google Maps for EV Owners: Mastering the Search for Public Charging Locations</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/24-designcut-pro/"><u>In 2024, DesignCut Pro</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/mastering-the-art-of-diagnosing-and-correcting-code-39-issues-in-windows/"><u>Mastering the Art of Diagnosing & Correcting Code 39 Issues in Windows</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/microsoft-teams-not-responding-determining-whether-service-interruptions-exist-or-network-problems-persist/"><u>Microsoft Teams Not Responding: Determining Whether Service Interruptions Exist or Network Problems Persist</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/navigate-effortlessly-with-our-selection-of-8-top-planner-apps-for-globetrotters/"><u>Navigate Effortlessly with Our Selection of 8 Top Planner Apps for Globetrotters</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/step-by-step-guide-to-correct-msvcr70dll-file-absence/"><u>Step-by-Step Guide to Correct MSVCR70.DLL File Absence</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/the-verdict-exploring-multiple-perspectives-in-line-app-review/"><u>The Verdict: Exploring Multiple Perspectives in LINE App Review</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/troubleshooting-and-resolving-a-502-bad-gateway-mistake-on-your-site/"><u>Troubleshooting and Resolving a 502 Bad Gateway Mistake on Your Site</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/troubleshooting-the-notorious-code-31-issues-on-your-pc/"><u>Troubleshooting the Notorious Code 31 Issues on Your PC</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/unveiling-ipados-15s-arrival-timeline-complimentary-price-tag-cutting-edge-capabilities-and-fresh-announcements/"><u>Unveiling iPadOS 15'S Arrival: Timeline, Complimentary Price Tag, Cutting-Edge Capabilities, and Fresh Announcements</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-become-a-yt-hub-pro-complete-guide-revealed/"><u>[New] 2024 Approved Become a YT Hub Pro Complete Guide Revealed</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-in-2024-6-best-free-apps-to-compress-videos-on-android/"><u>[New] In 2024, 6 Best Free Apps to Compress Videos on Android</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-cutting-edge-look-ups-top-15-luts-for-gopro-action-footage/"><u>[Updated] 2024 Approved Cutting-Edge Look-Ups Top 15 LUTs for GoPro Action Footage</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-seamless-android-screen-grabber/"><u>2024 Approved Seamless Android Screen Grabber</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/a-perfect-guide-to-remove-or-disable-google-smart-lock-on-oneplus-nord-ce-3-lite-5g-by-drfone-android/"><u>A Perfect Guide To Remove or Disable Google Smart Lock On OnePlus Nord CE 3 Lite 5G</u></a></li>
+<li><a href="https://win-webmaster.techidaily.com/conversione-libera-online-da-swf-a-wmv-utilizzando-il-servizio-di-movavi/"><u>Conversione Libera Online Da SWF a WMV Utilizzando Il Servizio Di Movavi</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/dealing-with-server-errors-insight-into-the-40urt-request-timed-out-problem-definition-plus-solutions/"><u>Dealing with Server Errors: Insight Into the 40Urt Request Timed Out Problem (Definition + Solutions)</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-reinitialize-bios-settings-using-the-cmos-reset-method/"><u>How To Reinitialize BIOS Settings Using the CMOS Reset Method</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-resolve-problems-with-a-non-functioning-zoom-webcam/"><u>How To Resolve Problems With A Non-Functioning Zoom Webcam</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-use-pokemon-emerald-master-ball-cheat-on-vivo-y36-drfone-by-drfone-virtual-android/"><u>How to Use Pokémon Emerald Master Ball Cheat On Vivo Y36 | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/is-optimal-internet-coverage-worth-it-with-a-wi-fi-mesh-setup/"><u>Is Optimal Internet Coverage Worth It with a Wi-Fi Mesh Setup?</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/solutions-for-microsoft-edge-malfunctioning-problems/"><u>Solutions for Microsoft Edge Malfunctioning Problems</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/solving-the-problem-no-signal-on-your-stadia-headset-how-to-reconnect/"><u>Solving the Problem: No Signal on Your Stadia Headset - How to Reconnect?</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-ultimate-list-of-15-free-protective-boot-loaders-you-should-try-today/"><u>The Ultimate List of 15 Free Protective Boot Loaders You Should Try Today</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-11-motivational-films-that-will-fuel-your-spirit/"><u>Top 11 Motivational Films That Will Fuel Your Spirit</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshooting-tips-for-overcoming-netflixs-error-code-nw-1-19/"><u>Troubleshooting Tips for Overcoming Netflix's Error Code NW-1-19</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/ultimate-guide-updating-your-ati-radeon-graphics-card-drivers-on-windows/"><u>Ultimate Guide: Updating Your ATI Radeon Graphics Card Drivers on Windows</u></a></li>
 </ul></div>
 

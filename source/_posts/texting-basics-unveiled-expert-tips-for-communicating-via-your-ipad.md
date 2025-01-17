@@ -1,7 +1,7 @@
 ---
 title: "Texting Basics Unveiled: Expert Tips for Communicating via Your iPad"
-date: 2024-08-20T09:59:53.799Z
-updated: 2024-08-21T09:59:53.799Z
+date: 2025-01-12T20:59:17.583Z
+updated: 2025-01-16T21:52:01.305Z
 categories:
   - BestProducts
 description: "This Article Describes Texting Basics Unveiled: Expert Tips for Communicating via Your iPad"
@@ -33,27 +33,21 @@ thumbnail: https://thmb.techidaily.com/b2e6162c64c71916b12953aa4e598d6dbab13589e
 3. This screen lists the Apple devices you own that can use the Continuity feature. Tap the toggle switch**On** beside your iPad to enable text message forwarding for it.  
 ![Three iOS screens showing Messages icon, Text Message Forwarding, and iPad toggle to ON](https://www.lifewire.com/thmb/Pycxc-rb6i-156HiPxbUAYDRAt0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_text-message-on-ipad-1994688-5c30051546e0fb00012bffe8.jpg)
 4. You are prompted to type a code on the iPad to activate the feature. After you type the code, your iPad can send text messages to both iPhone users and non-iPhone users.  
- The iPad uses the same stickers, animations, and drawings that are included with the iPhone text messaging app.[Upgrade to the latest operating system](https://www.lifewire.com/upgrade-iphones-operating-system-2000293) to ensure you have the recent features.
 
 <!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ The iPad uses the same stickers, animations, and drawings that are included with the iPhone text messaging app.[Upgrade to the latest operating system](https://www.lifewire.com/upgrade-iphones-operating-system-2000293) to ensure you have the recent features.
+
 ## How to Text on Your iPad if You Don't Own an iPhone
 
  If you don't own an iPhone, there are several ways to use your iPad to send text messages. Use Apple's service, alternatives to text messaging, or one of the apps that provide free SMS messaging on the iPad.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Messages App
 
  The Messages app can send text messages to anyone who owns an iPhone or iPad, even if you don't own an iPhone.
@@ -62,23 +56,22 @@ thumbnail: https://thmb.techidaily.com/b2e6162c64c71916b12953aa4e598d6dbab13589e
 
  To turn on this feature, tap**Settings** \>**Messages** \>**Send & Receive** . The iPad lists the email accounts associated with your Apple ID. Tap to put a check mark next to the email addresses you want to use.
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Facebook Messenger
 
  If you have friends or family that use Android or a Windows Phone, send them messages using the Facebook Messenger app. Anyone who has a Facebook account can be reached via Facebook Messenger.
 
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Skype
 
  Skype allows you to use your iPad as a phone. In addition to sending text messages, you can send video messages, place phone calls, and video conference. If you want to stay in touch with someone and can't use Messages because they don't own an iOS device, Skype is a great alternative.
 
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Snapchat
 
  Snapchat works on the iPad. However, you'll jump through a hoop to install it.
@@ -88,8 +81,9 @@ thumbnail: https://thmb.techidaily.com/b2e6162c64c71916b12953aa4e598d6dbab13589e
  Snapchat isn't true text messaging because you can only message people who signed up for the service, but it offers a fun alternative to traditional text messaging.
 
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Viber
 
  Viber has all the bells and whistles you would expect in a social messaging service, including Viber Wink, which deletes the message after it is viewed.
@@ -133,8 +127,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -142,4 +134,18 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-blue.techidaily.com/new-drones-to-dream-innovative-editing-approaches-for-2024/"><u>[New] Drones to Dream Innovative Editing Approaches for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-maximizing-game-replays-in-roblox-with-macos-tips-for-2024/"><u>[New] Maximizing Game Replays in Roblox with macOS Tips for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-harvesting-hours-top-10-friendly-farm-gaming-experiences/"><u>[Updated] 2024 Approved Harvesting Hours Top 10 Friendly Farm Gaming Experiences</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-best-10-mininano-drones-in-the-market/"><u>[Updated] Best 10 Mini/Nano Drones in the Market</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-music-from-moto-g-stylus-5g-2023-by-fonelab-android-recover-music/"><u>Easy steps to recover deleted music from Moto G Stylus 5G (2023)</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/expert-advice-seamlessly-integrating-google-home-into-your-pc-routine/"><u>Expert Advice: Seamlessly Integrating Google Home Into Your PC Routine</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-reset-apple-id-and-apple-password-on-apple-iphone-14-by-drfone-ios/"><u>How to Reset Apple ID and Apple Password On Apple iPhone 14</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/navigating-permissions-in-windows-10-how-to-get-full-access-from-trustedinstaller/"><u>Navigating Permissions in Windows 10: How to Get Full Access From TrustedInstaller</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/resetting-passwords-for-other-users-in-windows-a-comprehensive-tutorial/"><u>Resetting Passwords for Other Users in Windows - A Comprehensive Tutorial</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-guide-linking-your-laptop-and-television-with-an-hdmi-cable/"><u>Step-by-Step Guide: Linking Your Laptop and Television with an HDMI Cable</u></a></li>
+<li><a href="https://article-files.techidaily.com/top-10-methods-for-effective-youtube-transcoding-for-2024/"><u>Top 10 Methods for Effective YouTube Transcoding for 2024</u></a></li>
+</ul></div>
 

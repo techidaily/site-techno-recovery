@@ -1,7 +1,7 @@
 ---
 title: "Fix the Problem: What To Do When Your Computer's Media Drive Won't Open or Eject"
-date: 2024-08-20T10:00:50.395Z
-updated: 2024-08-21T10:00:50.395Z
+date: 2025-01-11T21:37:54.831Z
+updated: 2025-01-16T19:30:03.416Z
 categories:
   - BestProducts
 description: "This Article Describes Fix the Problem: What To Do When Your Computer's Media Drive Won't Open or Eject"
@@ -13,6 +13,10 @@ thumbnail: https://thmb.techidaily.com/279c7ee1ef176fcfbe647ba1dd5b67d647bd153ee
  Have you ever needed to open your CD or DVD drive (also referred to as your[optical drive](https://www.lifewire.com/what-is-an-optical-disc-drive-2618157) ) but couldn't? There's no reason to rush out and replace the disc or drive just because the eject button doesn't do what you expected it to do.
 
  Fortunately, one of the following two methods_almost always_ does the trick to get the drive open:
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Fix a DVD/BD/CD Drive That Won't Open or Eject Within the OS
 
@@ -28,11 +32,19 @@ thumbnail: https://thmb.techidaily.com/279c7ee1ef176fcfbe647ba1dd5b67d647bd153ee
 ![File Explorer in Windows 10 showing right-click menu with Eject command highlighted](https://www.lifewire.com/thmb/JdH15OVtIjSJeEPIvh9TCVtlnYc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_fix-dvd-bd-cd-drive-that-wont-open-or-eject-2626113-5bf8523e46e0fb0083220b80.jpg)
 4. The drive bay or disc should spin down and eject within seconds.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Using a Mac?** Similar to the method described above for Windows, find the disc icon, right-click it, and then choose**Eject** .
 
 [How Do I Eject a CD or DVD From My Mac?](https://www.lifewire.com/how-do-i-eject-cd-from-mac-2260195)
 
  If this doesn't work (Windows, macOS, Linux, etc.), it's time to get physical with it!
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Fix a DVD/BD/CD Drive That Won't Open or Eject With a Paper Clip
 
@@ -54,8 +66,9 @@ thumbnail: https://thmb.techidaily.com/279c7ee1ef176fcfbe647ba1dd5b67d647bd153ee
  Those are not necessarily in a step-by-step troubleshooting order. What steps you take depends a lot on the type of computer and optical drive you have, as well as your specific situation.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## No Luck? Here's What to Do Next
 
  At this point, there's likely something physically wrong with the drive or another part of the computer. Here are some things to consider doing:
@@ -66,8 +79,9 @@ thumbnail: https://thmb.techidaily.com/279c7ee1ef176fcfbe647ba1dd5b67d647bd153ee
 * Replace the drive. Optical drives are relatively cheap—Amazon sells many for around $20 USD.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Causes of a DVD/BD/CD Drive That Won't Open or Eject
 
  There are a few reasons why a CD or DVD doesn’t eject. A loss of power either from your laptop/desktop or the power to the drive itself. This can include a faulty or damaged power cable to your optical drive.
@@ -105,8 +119,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -114,4 +126,22 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-masterfulaiimageeditor-the-best-of-both-worlds/"><u>[New] In 2024, MasterfulAiImageEditor The Best of Both Worlds</u></a></li>
+<li><a href="https://win11.techidaily.com/4-cool-things-you-can-do-with-windows-11-god-mode/"><u>4 Cool Things You Can Do With Windows 11 God Mode</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/7-best-online-voice-recorders-2023-for-2024/"><u>7 Best Online Voice Recorders 2023 for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/boosting-your-insta-followers-a-comprehensive-guide-for-engaging-viewers/"><u>Boosting Your Insta-Followers: A Comprehensive Guide for Engaging Viewers</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/defeating-powerful-enemies-essential-tips-to-beat-a-lynel-in-loz-botw/"><u>Defeating Powerful Enemies: Essential Tips to Beat a Lynel in LoZ BotW</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/essential-software-to-keep-up-with-your-favorite-hashtags-on-twitter/"><u>Essential Software to Keep Up with Your Favorite Hashtags on Twitter</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/hassle-free-methods-to-install-and-keep-canon-printer-drivers-updated-in-windows/"><u>Hassle-Free Methods to Install & Keep Canon Printer Drivers Updated in Windows</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/24-discovering-the-unique-benefits-of-youtube-tv/"><u>In 2024, Discovering the Unique Benefits of YouTube TV</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-card-on-realme-gt-neo-5-se-online-without-jailbreak-by-drfone-android/"><u>In 2024, How to Unlock SIM Card on Realme GT Neo 5 SE online without jailbreak</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/is-there-a-characterword-limit-on-chatgpts-answers/"><u>Is There a Character/Word Limit on ChatGPT's Answers?</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/savor-these-tantalizing-titles-top-ten-cooking-masterpieces-streamed-on-netflix/"><u>Savor These Tantalizing Titles: Top Ten Cooking Masterpieces Streamed on Netflix</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/simple-guide-sharing-tweets-with-imagesvideos-directly-to-twitter-for-2024/"><u>Simple Guide Sharing Tweets with Images/Videos Directly to Twitter for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-perfect-viewing-sequence-for-star-wars-movies-on-disney-plus-explained/"><u>The Perfect Viewing Sequence for ‘Star Wars’ Movies on Disney Plus Explained</u></a></li>
+<li><a href="https://discover-forum.techidaily.com/ultimate-guide-to-top-music-video-websites-enjoy-endless-tracks-both-on-demand-and-downloadable/"><u>Ultimate Guide to Top Music Video Websites: Enjoy Endless Tracks Both On-Demand and Downloadable</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-video-storytelling-made-easy-best-iphone-and-ipad-collage-apps-2023/"><u>Updated 2024 Approved Video Storytelling Made Easy Best iPhone and iPad Collage Apps 2023</u></a></li>
+</ul></div>
 

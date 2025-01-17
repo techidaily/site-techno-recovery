@@ -1,7 +1,7 @@
 ---
 title: Navigating WhatsApp and Instagram Messaging without a Facebook Login – Strategies Inside
-date: 2024-08-20T10:02:12.108Z
-updated: 2024-08-21T10:02:12.108Z
+date: 2025-01-10T22:56:53.253Z
+updated: 2025-01-17T01:29:38.318Z
 categories:
   - BestProducts
 description: This Article Describes Navigating WhatsApp and Instagram Messaging without a Facebook Login – Strategies Inside
@@ -22,17 +22,14 @@ thumbnail: https://www.lifewire.com/thmb/b-Yi8mhn97HYobcfL08fGxXH2Yc=/400x300/fi
 
  The steps and screenshots below are from Google Maps in iOS. The steps are similar for Android.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
-<!-- affiliate ads end -->
 ## How to Find EV Charging Stations in Google Maps
 
  You must set up Google Maps before you start searching for electric charging stations. If you have it set up, skip the step below.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Select the Charger Type for Your Car
 
  Choosing the correct charger plug-in Google Maps settings for your car can help you avoid confusion and reach the right station.
@@ -43,8 +40,9 @@ thumbnail: https://www.lifewire.com/thmb/b-Yi8mhn97HYobcfL08fGxXH2Yc=/400x300/fi
 ![Settings, Electric vehicle settings, and plug types in the Google Maps app](https://www.lifewire.com/thmb/wMpdBksqOMkGz-2SiabokHxq8DA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Google-Maps-EV-setup-plugs-d2076a4c269b46cba08e894002ab9456.jpg)  
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Search and Find Compatible EV Charging Stations  
 
  You can use keywords like "EV charging stations near me" in the search bar at the top of the Explore screen. For more specific searches, enter your charger type. Alternatively, you can use the Categories menu below the search bar.
@@ -55,6 +53,10 @@ thumbnail: https://www.lifewire.com/thmb/b-Yi8mhn97HYobcfL08fGxXH2Yc=/400x300/fi
 8. For[cars with Google Maps built-in](https://www.lifewire.com/how-to-add-google-maps-to-carplay-4766807) , Maps will automatically suggest the best charging stops along the way based on your car's battery's charge level.  
 ![More > Charging stations and search results in Google Maps](https://www.lifewire.com/thmb/IG4VxN8sPiw_vbAU-h1cNAR1pv8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Charging-Stations-in-Google-Maps-da9289494ce3410bbe4c7fa74f4bdaa1.jpg)  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Navigate to the Charging Station  
 
  On a long trip, you should always add a charging station to your route before you begin your journey. It can help you optimize your route, even though you can search and divert to a charging station anytime.  
@@ -62,6 +64,14 @@ thumbnail: https://www.lifewire.com/thmb/b-Yi8mhn97HYobcfL08fGxXH2Yc=/400x300/fi
  You can even change them on the fly to expand your options when the pins are displayed on the map.  
  Tap the icon of an EV charging station for details like charging speeds (kW), real-time availability (if provided by the station), and user photos. If it's an option, check out the Street View to familiarize yourself with the approach.  
 ![Filter options for EV charging stations in Google Maps](https://www.lifewire.com/thmb/kIqr0_Zyzxw2aMpRgZyvq_WcKpk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/EV-station-filters-9c5b18a3975d4359a6e533d1ba96624a.jpg)  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Add EV Charging Stations to Your Route  
 
@@ -72,17 +82,7 @@ thumbnail: https://www.lifewire.com/thmb/b-Yi8mhn97HYobcfL08fGxXH2Yc=/400x300/fi
 12. Search for the chosen EV station by name or address and select it to add to your route. Google Maps will optimize your route to include the charging stop.  
 ![The "Add Stop" option along with the "Add Stop" field and icon in Google Maps](https://www.lifewire.com/thmb/iwL3JclIX4F7Gouw7HVNJoXAI9c=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Add-Stop-EV-station-Google-Maps-c3f67642de1e4b73bc2b413b97be8b2c.jpg)  
  A red icon for the Charging stations category can also appear next to icons for other categories. Your**Engine type** must be set to "Electric" in the**Trip options** for this icon to be visible.  
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
-<!-- affiliate ads end -->
 
-<!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
-<!-- affiliate ads end -->
 ## Take a More Efficient Route With Trip Options  
 
  Use the Trip Options settings to help Google Maps choose a more optimized route, hopefully saving you some battery charge.
@@ -93,9 +93,6 @@ No advertising on the website.
 ![The "More" menu, Options heading, and "Prefer fuel-efficient routes" & Engine type options in Google Maps](https://www.lifewire.com/thmb/rQO9h7LEvVKQtN8Ic6b5xiJa1-Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Efficient-route-options-Google-Maps-627d7d46908d4c65964001452e23f23f.jpg)
 17. Go back to the map.
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Tip
 
  The information on each charging station also includes a**Call** feature in many cases. It's always a good idea to call ahead and check their service.
@@ -120,8 +117,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -129,4 +124,23 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-aural-archive-download-preserve-and-examine-tracks/"><u>[New] 2024 Approved Aural Archive Download, Preserve & Examine Tracks</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-in-2024-efficiently-change-your-facebook-videos-into-mp3-songs/"><u>[New] In 2024, Efficiently Change Your Facebook Videos Into MP3 Songs</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/nsightful-comparisons-top-android-applications-for-youtube-download/"><u>[New] Insightful Comparisons Top Android Applications for YouTube Download</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-simplified-pathway-using-instagram-live-effectively/"><u>[New] Simplified Pathway Using Instagram Live Effectively</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/hriving-in-the-world-of-youtube-content-creation/"><u>[New] Thriving in the World of YouTube Content Creation</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/boost-your-email-security-with-gmail-two-factor-auth-setup-guide/"><u>Boost Your Email Security with Gmail Two-Factor Auth Setup Guide</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/campus-harmony-how-to-access-exclusive-savings-on-spotify-with-your-student-id/"><u>Campus Harmony: How to Access Exclusive Savings on Spotify with Your Student ID</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/easy-guide-to-transferring-tunes-onto-your-android-device/"><u>Easy Guide to Transferring Tunes Onto Your Android Device</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/exclusive-info-on-upcoming-apple-domestic-companion-unit-estimated-price-points-and-release-forecast/"><u>Exclusive Info on Upcoming Apple Domestic Companion Unit – Estimated Price Points & Release Forecast</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/fixing-errors-with-missing-mfc42dll-for-windows-users/"><u>Fixing Errors with Missing mfc42.dll for Windows Users</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-can-samsung-galaxy-m34-5gmirror-share-to-pc-drfone-by-drfone-android/"><u>In 2024, How Can Samsung Galaxy M34 5GMirror Share to PC? | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-graphics-glitches-fixing-the-rdr2-errgfxstate-mistake/"><u>Troubleshooting Graphics Glitches: Fixing the RDR2 ERR_GFX_STATE Mistake</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-strategies-for-the-new-world-connection-error/"><u>Troubleshooting Strategies for the 'New World Connection Error'</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ultimate-guide-resolving-the-coredll-file-absence-issue/"><u>Ultimate Guide: Resolving the 'Core.dll' File Absence Issue</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/understanding-the-limitations-when-is-facebook-marketplace-unavailable/"><u>Understanding the Limitations: When Is Facebook Marketplace Unavailable?</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/1722898108565-yahoo-mail-alert-steps-for-restoring-your-inbox-and-ensuring-new-emails-arrive/"><u>Yahoo Mail Alert: Steps for Restoring Your Inbox and Ensuring New Emails Arrive</u></a></li>
+</ul></div>
 

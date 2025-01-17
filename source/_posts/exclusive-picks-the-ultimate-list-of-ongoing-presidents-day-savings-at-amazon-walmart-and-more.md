@@ -1,7 +1,7 @@
 ---
 title: "Exclusive Picks: The Ultimate List of Ongoing Presidents' Day Savings at Amazon, Walmart, and More"
-date: 2025-01-06T07:37:59.047Z
-updated: 2025-01-11T08:35:27.784Z
+date: 2025-01-12T01:44:55.164Z
+updated: 2025-01-16T16:05:31.218Z
 tags:
   - apple
 categories:
@@ -22,9 +22,17 @@ Tablets run the gamut in terms of everything they can do (and all the prices the
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What is the best note-taking tablet you can buy right now?
 
 ZDNET went hands-on with the following tablets, with our pick for the best note-taking tablet overall being the [iPad Air](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fapple-10-9-inch-ipad-air-latest-model-5th-generation-with-wi-fi-64gb-purple%2F4909101.p&publisher_slug=itechdaily19598&exclusive=1), thanks to its lightweight build and compatibility with the second-generation Apple Pencil. But we also included tablets from Boox, Amazon, and more to take digital notes on this back-to-school season. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## The best note-taking tablets of 2024
 
@@ -72,14 +80,10 @@ Cons
 * Screen lags when browsing web or watching videos
 * Speaker could be better
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Boox Note Air 3 C
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Best lightweight note-taking tablet
@@ -111,11 +115,11 @@ Cons
 * Premium Pen upgrade will cost you more
 * Does not support note-taking on magazines or newspapers
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Amazon Kindle Scribe
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Best note-taking tablet for reading
 
@@ -145,11 +149,11 @@ Pros
 Cons 
 * Missing apps
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Samsung Galaxy Tab S9
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Best note-taking tablet for Android users
 
@@ -182,6 +186,10 @@ Cons
 
 ## Amazon Fire Max 11
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Best budget note-taking tablet
 
 With a starting price of $245, the Fire Max 11 brings an 11-inch display, 4GB of memory and 64GB of storage with support for 1TB of microSD card storage. If you're looking for a tablet for work and play, the Fire Max 11 Productivity Bundle costs $370, but comes with a keyboard with touchpad, case, and a stylus that has 4,096 levels of pressure.
@@ -197,6 +205,10 @@ Overall, 94% of Best Buy customers would recommend this tablet to others, giving
 **Amazon Fire Max 11 specs: Display**: 11-inch, 2000 x 1200, 410 nits brightness, 213 ppi | **Processor**: MediaTek MT8188J, 2.2Ghz octa-core processor | **Storage**: 64GB or 128GB | **Memory:** 4GB | **Colors**: Gray | **Cameras**: 8MP rear and 8MP front-facing camera | **Weight**: 490 grams | **Dimensions**: 259.1 x 163.7 x 7.50 millimeters | **Connections**: 3.5mm headphone jack, USB-C port | **Battery life:** 14 hours
 
 Show Expert Take Show less 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What is the best note-taking tablet?
 
@@ -235,10 +247,6 @@ Before you buy a note-taking tablet, you'll want to consider the following:
 * **Size:** Tablets that you will mainly use for note-taking purposes will have different requirements than tablets you need to replace a laptop with. Smaller size tablets are best for note-taking purposes and are lightweight and portable.
 * **Price:** Tablets will vary in price from $150 all the way up to $1,000 or more, depending on storage capacity, display quality, processors, and more.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How we test tablets
 
 The ZDNET team chose all of the tablets included in this list based on their performance when [tested in the real world](https://www.zdnet.com/article/how-we-test-tablets-at-zdnet-in-2024/). When we test tablets, we typically follow the same routine for each one to see which performs best.
@@ -259,10 +267,6 @@ Using a stylus is totally up to you, but it can definitely help with functionali
 
 The [best note-taking apps](https://www.zdnet.com/article/best-note-taking-app-for-ipad/) let you digitize your notes and to-dos while keeping them all in one place or syncing them to a cloud. Our favorites are Notability, Evernote, GoodNotes 5, and even Apple's free Notes app is a worthy choice.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Does the Apple Pencil convert handwriting to text?
 
 Yes--the Apple Pencil can convert your handwritten notes into text for better legibility. Here's how: 
@@ -270,10 +274,6 @@ Yes--the Apple Pencil can convert your handwritten notes into text for better le
 1. In the Notes or Freeform apps, tap to show the tool palette.
 2. In the tool palette, tap the Handwriting tool (to the left of the pen).
 3. Write with Apple Pencil, and Scribble automatically converts your handwriting into typed text.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Other note-taking tablets we've tested:
 
@@ -321,24 +321,20 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-learning-the-ropes-of-telegram-promotion-for-beginners/"><u>[Updated] 2024 Approved Learning the Ropes of Telegram Promotion for Beginners</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-prime-pick-extensive-digital-vaults/"><u>[Updated] Prime Pick Extensive Digital Vaults</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/approved-the-infographic-cache-of-2017s-yt-facts-and-figures/"><u>2024 Approved The Infographic Cache of 2017’S YT Facts and Figures</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/affordable-high-performance-game-mice-and-keyboards-for-gamers/"><u>Affordable High-Performance Game Mice and Keyboards for Gamers</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/apples-push-in-artificial-intelligence-unveiling-the-capabilities-of-their-latest-innovations-insights/"><u>Apple's Push in Artificial Intelligence: Unveiling the Capabilities of Their Latest Innovations - Insights</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/celebrate-diversity-curated-selection-of-lgbtq-shows-streaming-now-on-netflix-july-2024/"><u>Celebrate Diversity: Curated Selection of LGBTQ Shows Streaming Now on Netflix (July 2024)</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/effective-ways-for-deleting-windows-boot-recovery-section/"><u>Effective Ways for Deleting Windows Boot Recovery Section</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/essential-guide-to-mastering-asmr-experience/"><u>Essential Guide to Mastering ASMR Experience</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/huge-savings-on-apple-airpods-grab-them-at-a-40-discount-before-independence-day-insights/"><u>Huge Savings on Apple AirPods: Grab Them at a $40 Discount Before Independence Day - Insights</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/ideal-ringtones-picks-high-quality-destinations/"><u>Ideal Ringtones Picks High-Quality Destinations</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-apply-these-techniques-to-improve-how-to-detect-fake-gps-location-on-samsung-galaxy-a23-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Apply These Techniques to Improve How to Detect Fake GPS Location On Samsung Galaxy A23 5G | Dr.fone</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-vivo-y78t-frp-in-3-different-ways-by-drfone-android/"><u>In 2024, How To Bypass Vivo Y78t FRP In 3 Different Ways</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/mastering-the-art-of-reactivating-a-dormant-snapchat-account/"><u>Mastering the Art of Reactivating a Dormant Snapchat Account</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/mondly-brings-you-a-diverse-new-phrasebook/"><u>Mondly Brings You a Diverse New Phrasebook!</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/step-by-step-solution-resolving-time-delays-in-chromecast-audio-playback/"><u>Step-by-Step Solution: Resolving Time Delays in Chromecast Audio Playback</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/the-ultimate-guide-to-premium-ipad-extras-recommended/"><u>The Ultimate Guide to Premium iPad Extras – Recommended</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/ultimate-showdown-features-benefits-and-differences-between-apple-watch-ultra-vs-series-8-zdnet-guide/"><u>Ultimate Showdown: Features, Benefits & Differences Between Apple Watch Ultra Vs. Series 8 | ZDNET Guide</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/what-does-the-blue-marker-on-fb-chat-reveal-in-2024/"><u>What Does the Blue Marker on FB Chat Reveal, In 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/what-is-net-neutrality-an-in-depth-explanation/"><u>What Is Net Neutrality? An In-Depth Explanation</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-pinnacle-eight-video-recording-apps/"><u>[Updated] In 2024, Pinnacle Eight Video Recording Apps</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-perfect-your-movie-watching-with-added-captions-on-windows-media-player/"><u>2024 Approved Perfect Your Movie Watching with Added Captions on Windows Media Player</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-shape-and-size-matter-video-aspect-ratios-explained/"><u>2024 Approved Shape & Size Matter Video Aspect Ratios Explained</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/1726228069719-m4bmp3-movavi/"><u>線上無限制 M4B到MP3自由下載 - 使用Movavi優化</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-pc-instances-when-sons-of-the-forest-keeps-crashing-a-comprehensive-guide/"><u>Fixing PC Instances When 'Sons of the Forest' Keeps Crashing - A Comprehensive Guide</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/1723808346841-get-your-hands-on-the-newest-direct3d-version-with-a-smooth-download-process/"><u>Get Your Hands on the Newest Direct3D Version with a Smooth Download Process!</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/1723808172698-harness-the-power-to-control-your-phone-line-comprehveiw-and-execute-a-swift-call-block-on-ios-and-android/"><u>Harness the Power to Control Your Phone Line: Comprehveiw and Execute a Swift Call Block on iOS and Android</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-address-the-msvcr110dll-lack-issue/"><u>How to Address the Msvcr110.dll Lack Issue</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/1723808107535-identify-and-retrieve-your-internet-ip-address-for-free-today/"><u>Identify and Retrieve Your Internet IP Address for Free Today</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/1723808148407-simple-steps-for-finding-deleted-microsoft-word-documents-on-windows-10-plus-images/"><u>Simple Steps for Finding Deleted Microsoft Word Documents on Windows 10 + Images</u></a></li>
+<li><a href="https://fox-links.techidaily.com/sonic-pixels-turning-sound-into-visual-storytelling/"><u>Sonic Pixels Turning Sound Into Visual Storytelling</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/1723808033940-swift-direct3d-downloader-simple-and-fast/"><u>Swift Direct3D Downloader - Simple and Fast</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/windows-11-and-directx-12-downloading-the-newest-fully-working-version/"><u>Windows 11 and DirectX 12: Downloading the Newest, Fully Working Version</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/1723808250907-windows-11-hack-bypassing-driver-signature-checks-with-ease/"><u>Windows 11 Hack: Bypassing Driver Signature Checks with Ease!</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/yuneec-typhoon-h-exposed-drone-review-in-detail/"><u>Yuneec Typhoon H Exposed Drone Review in Detail</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Cost-Effective Study Tools: How Students Can Access Discounted Prices at the Microsoft Store"
-date: 2024-08-26T05:56:24.220Z
-updated: 2024-08-27T05:56:24.220Z
+date: 2025-01-16T01:27:06.832Z
+updated: 2025-01-16T20:36:53.158Z
 categories:
   - BestProducts
 description: "This Article Describes Cost-Effective Study Tools: How Students Can Access Discounted Prices at the Microsoft Store"
@@ -25,8 +25,17 @@ thumbnail: https://thmb.techidaily.com/813a9502afb8de635476ba31b55634d6451dae2f4
 4. Locate the software or device you want to buy, and add it to your cart.  
 ![Adding an item to your cart.](https://www.lifewire.com/thmb/syXuUKJeVh9EZEPIoxTMwY8Li3g=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004-how-to-get-a-microsoft-store-student-discount-0d1004a1092e4a5dbf63a1905d0fa237.jpg)
 5. Complete the checkout process.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Checking out at the online Microsoft store.](https://www.lifewire.com/thmb/gF3Dy3jJNOJlbYJPatebpx5EyGw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/005-how-to-get-a-microsoft-store-student-discount-011f2569dab04dcb8c3c942c4cba5e55.jpg)  
  If you choose to pick up your order at a local Microsoft store, remember to bring your student ID. Microsoft doesn't verify enrollment during online purchases, but they may ask for proof of enrollment during pickup.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Who Is Eligible for Microsoft's Student Discount?
 
@@ -39,8 +48,13 @@ thumbnail: https://thmb.techidaily.com/813a9502afb8de635476ba31b55634d6451dae2f4
 ![Person accessing the Microsoft student discount on a phone.](https://www.lifewire.com/thmb/h1sE0kaVMIxmUmfOCw7SnD4v-cI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/microsoftstudentdiscount-3fb8972d9f274cb5a0c5dbc2bc56beb1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What Does Microsoft's Student Discount Get You?
 
  The Microsoft student discount typically provides up to 10-percent savings on hardware like desktop computers, laptops, and tablets. It also grants free access to some software, like Office 365.
@@ -53,13 +67,9 @@ Certain items are specifically excluded, including:
 * Gift cards and subscriptions to services like Xbox Game Pass.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
-
- Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
-
- DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
- PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How Does Microsoft Verify Student Enrollment?
 
  When you request the student discount at a physical Microsoft store, you need to show your student ID or some another supporting document like a class schedule, transcript, or acceptance letter.
@@ -90,8 +100,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -99,4 +107,22 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-tomtoms-actioncamera-reveal-2023-edition/"><u>[New] 2024 Approved TomTom's ActionCamera Reveal - 2023 Edition</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-secrets-unlocked-advanced-techniques-to-sculpt-your-igtv-content-size/"><u>[Updated] In 2024, Secrets Unlocked Advanced Techniques to Sculpt Your IGTV Content Size</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-pcs-ultimate-selection-of-ps3-emulation-tools/"><u>[Updated] PC's Ultimate Selection of PS3 Emulation Tools</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-optimal-vr-headset-choice-embracing-the-freedom-of-mobile-or-the-tethered-experience/"><u>2024 Approved Optimal VR Headset Choice Embracing the Freedom of Mobile Or The Tethered Experience?</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/bluetooth-integration-tips-easily-hook-up-your-speaker-to-a-pc/"><u>Bluetooth Integration Tips: Easily Hook Up Your Speaker to a PC</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/95948900-9781785356636-earth-astrologys-missing-planet/"><u>Earth: Astrology's Missing Planet | Free Book</u></a></li>
+<li><a href="https://fox-search.techidaily.com/expert-tips-for-recovering-microsoft-sql-server-data-with-aomei-cyber-backup-software/"><u>Expert Tips for Recovering Microsoft SQL Server Data with AOMEI Cyber Backup Software</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-hidefake-snapchat-location-on-your-motorola-g54-5g-drfone-by-drfone-virtual-android/"><u>How to Hide/Fake Snapchat Location on Your Motorola G54 5G | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/portable-charging-hacks-for-your-cell-phone-when-youre-out-of-juice/"><u>Portable Charging Hacks for Your Cell Phone When You're Out of Juice</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/quick-fixes-to-overcome-access-point-error-messages-easily/"><u>Quick Fixes to Overcome Access Point Error Messages Easily</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/solving-the-problem-what-to-do-when-your-windows-11-fails-to-shut-down/"><u>Solving the Problem: What to Do When Your Windows 11 Fails to Shut Down</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-guide-activating-browser-cookie-settings/"><u>Step-by-Step Guide: Activating Browser Cookie Settings</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-tutorial-for-perfecting-photo-manipulation-with-iphones-ios-16-feature/"><u>Step-by-Step Tutorial for Perfecting Photo Manipulation with iPhone's iOS 16 Feature</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-10-telegram-spy-tools-on-infinix-note-30i-for-parents-drfone-by-drfone-virtual-android/"><u>Top 10 Telegram Spy Tools On Infinix Note 30i for Parents | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/1722886088333-top-5-complimentary-malware-scrubbers-find-the-best-one/"><u>Top 5 Complimentary Malware Scrubbers - Find the Best One</u></a></li>
+</ul></div>
 

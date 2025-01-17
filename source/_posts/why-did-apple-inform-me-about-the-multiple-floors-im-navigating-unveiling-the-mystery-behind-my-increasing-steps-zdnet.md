@@ -1,7 +1,7 @@
 ---
 title: Why Did Apple Inform Me About the Multiple Floors I'm Navigating? Unveiling the Mystery Behind My Increasing Steps | ZDNet
-date: 2025-01-09T18:00:23.573Z
-updated: 2025-01-10T18:56:31.855Z
+date: 2025-01-09T16:41:11.726Z
+updated: 2025-01-16T19:05:01.281Z
 tags:
   - apple
 categories:
@@ -22,13 +22,13 @@ The display sizes of small tablets can range from six to 10 inches, with eight i
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What is the best small tablet right now?
 
 Based on our extensive hands-on testing with various tablets of all sizes, our pick for the best small tablet is the [iPad Mini](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2F2021-Apple-iPad-Mini-Wi-Fi%2Fdp%2FB09G9FW785%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C0030e106-6fcb-4a82-b8e0-c075a87c771e%7Cdtp&dtb=1), thanks to its 8.3-inch Liquid Retina display and weight of just under 1 pound. We also included compact-sized tablets from Amazon, Samsung, and other brands for those looking for something more compact and easy to carry. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## The best small tablets of 2024
 
@@ -46,10 +46,6 @@ Cons
 * Expensive
 
 ## Apple iPad Mini 6th Generation
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Best small tablet overall
 
@@ -82,15 +78,7 @@ Cons
 * Performance is slightly slow
 * Cameras aren't as great as other options
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Amazon Fire 7 Tablet
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Best budget small tablet
 
@@ -122,11 +110,11 @@ Cons
 * Expensive
 * Some complaints of lag
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Boox Tab Mini C
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Best small tablet for note-taking
 
@@ -185,11 +173,11 @@ Pros
 Cons 
 * Performance could be better
 
-## Samsung Galaxy Tab A7 Lite
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+## Samsung Galaxy Tab A7 Lite
 
 ### Best Samsung small tablet
 
@@ -214,6 +202,10 @@ The best small tablet is the iPad Mini because of its sharp display and impressi
 | Boox Tab Mini C        | $400      | 7.8 inches          | Electronic ink    |
 | Amazon Kindle          | $100      | 6 inches            | 300ppi glare-free |
 | Samsung Galaxy A7 Lite | $100      | 8.7 inches          | 1340x800 pixels   |
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Which small tablet is right for you?
 
@@ -248,11 +240,19 @@ We also compare the display's performance with what the manufacturer promised, t
 
 For a deeper look into our testing process, check out our comprehensive [tablet testing methodology](https://www.zdnet.com/article/how-we-test-tablets-at-zdnet-in-2024/). 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What is the smallest tablet screen size?
 
 The smallest tablet screen size on the market is 6 to 7 inches. Anything smaller would be more similar to a smartphone.
 
 It's why you want to consider your primary uses when considering which small tablet is right for you. To demonstrate, if you travel often, one with a smaller screen will be perfect for carrying/using on an airplane. If your aim is to read more e-books or draw, you'll want one with a larger screen. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What brand of tablet is best?
 
@@ -273,7 +273,7 @@ Their lightweight body and compact design make them perfect traveling companions
 The smallest [iPad](https://www.zdnet.com/article/best-ipad/) is the iPad Mini which has a screen size of 8.3 inches. It's also lightweight at just under one pound. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Are there alternative small tablets worth considering?
@@ -322,20 +322,22 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-2024-approved-dissecting-gopros-max-and-hero-11-video-capabilities/"><u>[New] 2024 Approved Dissecting GoPro's Max and Hero 11 Video Capabilities</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-mastering-windows-ranked-5-best-screen-capture-programs/"><u>[New] Mastering Windows Ranked 5 Best Screen Capture Programs</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-in-2024-sound-capture-gadget-testing/"><u>[Updated] In 2024, Sound Capture Gadget Testing</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-the-interactive-index-for-ig-and-tiktok-connection/"><u>[Updated] The Interactive Index for IG & TikTok Connection</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/2024-approved-surviving-snapstreaks-essential-strategies-for-longevity/"><u>2024 Approved Surviving Snapstreaks Essential Strategies for Longevity</u></a></li>
-<li><a href="https://windows11.techidaily.com/bypassing-tpm-in-win11-the-ultimate-rufus-technique/"><u>Bypassing TPM in Win11: The Ultimate Rufus Technique</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/compact-yet-potent-the-newly-released-m4-powered-mac-mini-comparable-to-apple-tv-in-size/"><u>Compact Yet Potent: The Newly Released M4-Powered Mac Mini – Comparable to Apple TV in Size?</u></a></li>
-<li><a href="https://discover-cheats.techidaily.com/download-the-ultimate-qcp-player-and-converter-effortlessly-convert-qcp-to-multiple-formats-including-mp3-wav-wma-and-more/"><u>Download the Ultimate QCP Player & Converter - Effortlessly Convert QCP to Multiple Formats Including MP3, WAV, WMA, and More!</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/efficiently-sort-and-manage-your-emails-using-gmail-labels-a-comprehensive-guide/"><u>Efficiently Sort and Manage Your Emails Using Gmail Labels: A Comprehensive Guide</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/harnessing-microsoft-teams-power-with-simple-snap-camera-use/"><u>Harnessing Microsoft Teams' Power with Simple Snap Camera Use</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/how-does-apple-protect-your-cloud-based-artificam-intelligence-exploring-safeguards-and-significance-zdnet/"><u>How Does Apple Protect Your Cloud-Based Artificam Intelligence? Exploring Safeguards and Significance | ZDNet</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/revolutionize-your-mobile-power-needs-with-an-affordable-20-anker-charger-insights-and-benefits-guide/"><u>Revolutionize Your Mobile Power Needs with an Affordable $20 Anker Charger – Insights and Benefits Guide</u></a></li>
-<li><a href="https://techtrends.techidaily.com/ultimate-guide-linking-your-pc-and-bluetooth-audio-device-successfully/"><u>Ultimate Guide: Linking Your PC and Bluetooth Audio Device Successfully</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/unboxing-the-bargain-apples-newly-priced-17earpods-with-usb-c-snagged-impulsively-on-prime-day-analysis/"><u>Unboxing the Bargain: Apple's Newly Priced $1^7$EarPods with USB-C, Snagged Impulsively on Prime Day Analysis</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/what-to-expect-with-apples-airpods-pro-and-max-unveiling-key-features-and-enhancements-zdnet/"><u>What to Expect with Apple's AirPods Pro & Max? Unveiling Key Features and Enhancements | ZDNET</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-in-depth-insights-perfecting-the-craft-of-screen-recording-on-macbooks-for-2024/"><u>[New] In-Depth Insights Perfecting the Craft of Screen Recording on MacBooks for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-essential-guide-to-the-top-6-head-mounted-gopro-options-for-2024/"><u>[Updated] Essential Guide to the Top 6 Head-Mounted GoPro Options for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-mastering-borders-on-instagrams-short-films/"><u>[Updated] In 2024, Mastering Borders on Instagram's Short Films</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-top-voice-altering-tool-for-free-enhance-your-valorant-experience/"><u>2024 Approved Top Voice Altering Tool for Free - Enhance Your Valorant Experience</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/5-best-vpn-for-netflix/"><u>5 Best VPN for Netflix</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/bypassing-google-account-with-vnrom-bypass-for-lava-storm-5g-by-drfone-android/"><u>Bypassing Google Account With vnROM Bypass For Lava Storm 5G</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/digging-deeper-into-uncomplicated-hdr-methods/"><u>Digging Deeper Into Uncomplicated HDR Methods</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/1723808259886-gpu-benchmark-test-your-gpu-performance-quickly-and-easily/"><u>GPU Benchmark – Test Your GPU Performance Quickly & Easily</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-solve-no-battery-found-in-a-moment-a-simple-guide/"><u>How to Solve 'No Battery Found' In a Moment - A Simple Guide</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/temporary-deactivation-of-windows-security-features-quick-fixes-inside/"><u>Temporary Deactivation of Windows Security Features – Quick Fixes Inside</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/the-definitive-guide-ios-screenshots-and-recording-2inas-2023-for-2024/"><u>The Definitive Guide IOS Screenshots & Recording (2Inas 2023) for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-simplest-way-to-convert-your-soundcloud-content-into-mp3s-for-easy-sharing/"><u>The Simplest Way to Convert Your SoundCloud Content Into MP3s for Easy Sharing</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/troubleshooting-and-resolving-the-problem-of-installing-windows-on-non-gpt-disks/"><u>Troubleshooting and Resolving the Problem of Installing Windows on Non-GPT Disks</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-guide-resolving-issues-with-amazon-prime-video-access/"><u>Troubleshooting Guide: Resolving Issues with Amazon Prime Video Access</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unraveling-the-mystery-of-hxtsrexe-in-windows-11-diagnosis-and-solutions/"><u>Unraveling the Mystery of HxTsr.exe in Windows 11: Diagnosis & Solutions</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/1723808096145-usb-selective-suspend-everything-you-need-to-know-about-it/"><u>USB Selective Suspend - Everything You Need to Know About It!</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/windows-7-wireless-connection-tutorial-easy-setup-for-seamless-internet-access/"><u>Windows 7 Wireless Connection Tutorial - Easy Setup for Seamless Internet Access</u></a></li>
 </ul></div>
 

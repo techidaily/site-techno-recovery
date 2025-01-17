@@ -1,7 +1,7 @@
 ---
 title: "Unlocking the Full Potential of Your PS5: A Comprehensive Tutorial to Reach 120FPS Gaming Experience"
-date: 2024-08-26T05:56:21.876Z
-updated: 2024-08-27T05:56:21.876Z
+date: 2025-01-11T01:07:30.872Z
+updated: 2025-01-16T23:51:41.110Z
 categories:
   - BestProducts
 description: "This Article Describes Unlocking the Full Potential of Your PS5: A Comprehensive Tutorial to Reach 120FPS Gaming Experience"
@@ -10,6 +10,11 @@ thumbnail: https://thmb.techidaily.com/9ad9147e4fbb8c24ccda197a0486be5c1d9c044a4
 ---
 
 ## Unlock the Full Potential of PS5 Gaming - Achieve a Smooth 120 FPS Experience
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### What to Know
 
 * Go to**Settings** \>**Screen and Video** \>**Video Output** and enable 120 Hz output. You'll also have to turn it on in-game.
@@ -17,6 +22,10 @@ thumbnail: https://thmb.techidaily.com/9ad9147e4fbb8c24ccda197a0486be5c1d9c044a4
 * Only certain games support 120 frames per second on PS5.
 
  This article explains how to get 120 frames per second—which you'll also see as "FPS" or "Hz"–on PS5\. Not every game on PS5 supports this option, so while you can prep your console for it, it won't work for every title.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Turn On 120 FPS on PS5
 
@@ -27,18 +36,25 @@ thumbnail: https://thmb.techidaily.com/9ad9147e4fbb8c24ccda197a0486be5c1d9c044a4
 1. Turn on your PS5, and open**Settings** from the main menu.  
 ![Playstation 5 dashboard with Settings highlighted](https://www.lifewire.com/thmb/SgkRTTRVRqbxRg0AJLYr6FWqfG4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-remote-play-ps5-games-on-android-50896111-df8a16a465fe41e7aef3d5ad05b4a7c8.jpg)
 2. Then, navigate to**Screen and Video** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Screen and Video in PS5 settings](https://www.lifewire.com/thmb/YCLQ2vGLnavPgpRPNtxhU7n6NFw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Screen-and-Video-Settings-aa8ff277b8254627a1a8c88e1c91f9cf.jpg)
 3. Choose**Video Output** on the left side of the screen.  
 ![Video Output in PS5 Screen and Video settings](https://www.lifewire.com/thmb/Xgk1MNv2WwvyRO7tv2bHEF4oiqo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Video-Output-46b505f379064535ac4977a29faee336.jpg)
 4. Select**120 Hz Output** .  
 ![120 Hz Output in PS5 settings](https://www.lifewire.com/thmb/hxj9hKX_96UCkA07Y8Rzo91hvKo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/120-Output-9e18a336656f4caf97cc91724b032df2.jpg)
 5. Select**Automatic** (you won't have an**On** option because not every game supports 120 Hz output).  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![The "Automatic" option ](https://www.lifewire.com/thmb/N0N2mbCdwDADtM0UH7Q50TlNT2U=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Automatic-8261fa6f79014410bb3948ebcbcac568.jpg)
 6. Now, if a game has an option for 120 frames per second and you turn it on, your PS5 will output at that rate.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## What You Need to Get 120 FPS on PS5
 
  The most important requirement is a display with a 120 Hz refresh rate. You can use a TV or a monitor, and displays with 120 Hz support are pretty common today, so you shouldn't have trouble finding one.
@@ -50,8 +66,9 @@ thumbnail: https://thmb.techidaily.com/9ad9147e4fbb8c24ccda197a0486be5c1d9c044a4
  Lastly, keep in mind that not every game supports 120 FPS. You won't typically see that information on the game box, unfortunately, but you should find it in shop listings. And, of course, you can check the menus for a 120 FPS option.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Which PS5 Games Support 120 FPS?
 
  There are over 100 PlayStation 5 games that support 120Hz, with more coming out all the time. Here are some popular ones:
@@ -89,8 +106,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -98,4 +113,26 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-build-your-dreamy-oriental-villas-in-minecraft/"><u>[New] In 2024, Build Your Dreamy Oriental Villas in Minecraft</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ptimal-voice-modification-software-for-video-makers/"><u>[New] Optimal Voice Modification Software for Video Makers</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-the-art-of-directly-posting-tiktok-videos-on-facebook/"><u>[New] The Art of Directly Posting TikTok Videos on Facebook</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-achieving-asmr-bliss-selecting-the-right-mic/"><u>[Updated] 2024 Approved Achieving ASMR Bliss Selecting the Right Mic</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-elevating-your-music-crafting-stunning-lyric-videos-using-lyric-video-maker-for-2024/"><u>[Updated] Elevating Your Music Crafting Stunning Lyric Videos Using Lyric Video Maker for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-hands-on-guide-to-optimize-your-youtube-channels-with-adsense/"><u>[Updated] In 2024, Hands-On Guide to Optimize Your YouTube Channels with AdSense</u></a></li>
+<li><a href="https://solve-lab.techidaily.com/1725616869984-best-manycam-alternatives-top-live-streaming-and-virtual-cam-options/"><u>Best ManyCam Alternatives: Top Live Streaming and Virtual Cam Options</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/comprehensive-troubleshooting-for-the-binkw32dll-is-missing-problem/"><u>Comprehensive Troubleshooting for the 'binkw32.dll Is Missing' Problem</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/enhance-performance-with-simple-steps-keeping-your-samsung-tv-current/"><u>Enhance Performance with Simple Steps: Keeping Your Samsung TV Current</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/getting-acquainted-with-langchain-technology/"><u>Getting Acquainted with LangChain Technology</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/home-charging-guide-essential-tips-for-powering-up-your-electric-vehicle/"><u>Home Charging Guide: Essential Tips for Powering Up Your Electric Vehicle</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-building-brands-on-instagram-a-playbook-for-sponsorship-success/"><u>In 2024, Building Brands on Instagram A Playbook for Sponsorship Success</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/managing-notification-preferences-avoiding-amber-warnings-on-android/"><u>Managing Notification Preferences: Avoiding Amber Warnings on Android</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/samsungs-trailblazing-gadget-the-galaxy-z-flip-6-insights-on-price-release-timeline-and-feature-breakdown/"><u>Samsung's Trailblazing Gadget - The Galaxy Z Flip 6: Insights on Price, Release Timeline & Feature Breakdown</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/seamless-hd-experience-how-to-link-and-share-your-computer-display-on-a-television-via-chromecast/"><u>Seamless HD Experience: How to Link and Share Your Computer Display on a Television via Chromecast</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/solving-common-issues-with-xbox-series-x-and-s-gaming-headsets/"><u>Solving Common Issues with Xbox Series X & S Gaming Headsets</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-ultimate-guide-to-powerful-instagram-hashtags-in-year/"><u>The Ultimate Guide to Powerful Instagram Hashtags in [Year]</u></a></li>
+<li><a href="https://program-issues.techidaily.com/ultimate-troubleshooting-guide-to-stop-among-us-from-freezing-and-crashing/"><u>Ultimate Troubleshooting Guide to Stop Among Us From Freezing and Crashing</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unlocking-android-potential-with-easy-tips-for-using-quick-settings/"><u>Unlocking Android Potential with Easy Tips for Using Quick Settings</u></a></li>
+</ul></div>
 

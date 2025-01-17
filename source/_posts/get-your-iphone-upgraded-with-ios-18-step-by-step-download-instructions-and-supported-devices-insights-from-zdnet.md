@@ -1,7 +1,7 @@
 ---
 title: Get Your iPhone Upgraded with iOS 18! Step-by-Step Download Instructions and Supported Devices | Insights From ZDNET
-date: 2025-01-06T18:40:50.013Z
-updated: 2025-01-11T03:06:17.549Z
+date: 2025-01-15T00:36:40.303Z
+updated: 2025-01-16T16:14:17.222Z
 tags:
   - apple
 categories:
@@ -26,6 +26,10 @@ While the official iOS 18 general release is today, users have already been able
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to install iOS 18
 
 Jason Hiner/ZDNET
@@ -37,16 +41,12 @@ Jason Hiner/ZDNET
 Go to your iPhone's Settings and select General. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Go to Software Update in Settings
 
 Within General, tap on Software Update. This will show you if the iOS 18 update is available for you to download.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Download and install
 
@@ -58,21 +58,29 @@ Enter your passcode, if necessary, to authorize the installation of the new iOS 
 
 After installing the latest iOS update, your iPhone will restart.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## FAQs
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### When is Apple Intelligence coming out?
 
 Apple Intelligence, featuring the company's AI tools, will begin to roll out for compatible iPhones over the next few weeks, with more features to join in the coming months. This slew of AI features will be available on the iPhone 16 lineup and the iPhones 15 Pro and Pro Max.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### When was iOS 18 released?
 
 Apple released the iOS 18 developer beta during WWDC 2024 in June, and the public beta version was released on July 15\. The general release of iOS 18 is September 16.
 
 **Also: [The best iOS 18 features that will make updating your iPhone worthwhile](https://www.zdnet.com/article/the-best-ios-18-features-that-will-make-updating-your-iphone-worthwhile/)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Can you still download the iOS 18 public beta?
 
@@ -81,10 +89,6 @@ You can always be part of the Apple Beta program to get the latest beta versions
 * Back up your device and personal information.
 * Don't download beta software, which will likely have bugs and glitches, on your everyday iPhone.
 * You should go into the experience to test new features and share feedback to improve iOS, which is why beta versions are released.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### How do I install the iOS 18 beta version?
 
@@ -96,10 +100,6 @@ You'll need an iPhone running iOS 16.5 or later. Since not all iPhones are compa
 4. Select iOS 18 Public Beta. Then you'll begin receiving automatic software updates to the latest beta version of iOS 18\. Apple currently has four beta versions of iOS: iOS 18 public beta, iOS 18 developer beta, iOS 17 public beta, and iOS 17 developer beta. These four options will soon be reduced to just the two iOS 18 variants. Once you do this, return to the previous page. If an update is available now, your iPhone will prompt you to download and install it.
 
 Screenshot: Maria Diaz/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### How to download the iOS 18 developer beta?
 
@@ -161,17 +161,20 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-2024-approved-snap-scissor-and-save-how-the-iphone-revolutionizes-image-cropping/"><u>[New] 2024 Approved Snap, Scissor & Save How the iPhone Revolutionizes Image Cropping</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/024-approved-youtube-mastery-comprehensive-editing-for-lifelong-learners/"><u>[New] 2024 Approved YouTube Mastery Comprehensive Editing for Lifelong Learners</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-cutting-edge-clarity-in-depth-analysis-of-asuss-mg28uq-monitor/"><u>[New] Cutting-Edge Clarity In-Depth Analysis of ASUS's MG28UQ Monitor</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-ultimate-vault-explorers-superior-cloud-service-review/"><u>[Updated] Ultimate Vault Explorers Superior Cloud Service Review</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/a-comprehensive-guide-to-aol-instant-messenger-and-its-impact-on-digital-communication/"><u>A Comprehensive Guide to AOL Instant Messenger and Its Impact on Digital Communication</u></a></li>
-<li><a href="https://program-issues.techidaily.com/conquering-elden-rings-launch-hurdle-a-step-by-estep-guide-to-fixing-the-games-black-screen-glitch/"><u>Conquering Elden Ring's Launch Hurdle: A Step-by-eStep Guide to Fixing the Game's Black Screen Glitch</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/evaluating-tunefab-for-video-capture-excellence-for-2024/"><u>Evaluating Tunefab for Video Capture Excellence for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/exploring-apples-secretive-superiority-how-zdnet-unearthed-a-revolutionary-feature-on-the-latest-iphone/"><u>Exploring Apple's Secretive Superiority: How ZDNet Unearthed a Revolutionary Feature on the Latest iPhone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/mastering-ultimate-canon-temporal-capture/"><u>Mastering Ultimate Canon Temporal Capture</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/navigating-the-process-of-identifying-an-individuals-whereabouts-on-an-iphone/"><u>Navigating the Process of Identifying an Individual's Whereabouts on an iPhone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/unlocking-secrets-how-your-new-iphone-has-an-amazing-feature-you-might-not-know-about-exposed-by-zdnet/"><u>Unlocking Secrets: How Your New iPhone Has an Amazing Feature You Might Not Know About, Exposed by ZDNet</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/vivo-x60-proplus-updates-price-predictions-expected-arrival-specifications-the-latest-hearsay/"><u>Vivo X60 Pro+ Updates: Price Predictions, Expected Arrival, Specifications – The Latest Hearsay</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-synchronized-intro-editing-across-all-your-devices-this-year/"><u>[New] Synchronized Intro Editing Across All Your Devices This Year</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/solved-mouse-lagging-and-stuttering-on-windows-11/"><u>[SOLVED] Mouse Lagging and Stuttering on Windows 11</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-crafting-the-perfect-soundscape-with-googles-ringtone/"><u>[Updated] 2024 Approved Crafting the Perfect Soundscape with Google's Ringtone</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-vlc-vs-mx-player-which-is-better/"><u>2024 Approved VLC vs MX Player Which Is Better?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/apples-recent-showcase-of-ai-innovations-what-we-didnt-see-but-could-expect-in-the-future-zdnet/"><u>Apple's Recent Showcase of AI Innovations - What We Didn't See, but Could Expect in the Future? | ZDNet</u></a></li>
+<li><a href="https://driver-install.techidaily.com/configure-marvell-avastar-wifi-on-intel-system/"><u>Configure Marvell Avastar WiFi on Intel System</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/high-definition-gaming-with-lg-27ud68-monitor-review-for-2024/"><u>High Definition Gaming with LG 27UD68 Monitor Review for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-2023how-to-share-videos-on-twitter-on-your-phone-without-retweeting/"><u>In 2024, 2023|How to Share Videos on Twitter on Your Phone Without Retweeting?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-top-notch-solutions-for-disabled-apple-id-on-iphone-se-2022-making-it-possible-by-drfone-ios/"><u>In 2024, Top-Notch Solutions for Disabled Apple ID On iPhone SE (2022) Making It Possible</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/recognizing-and-resolving-computer-cpu-heat-issues-a-comprehensive-guide/"><u>Recognizing & Resolving Computer CPU Heat Issues: A Comprehensive Guide</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/resource-allocation/"><u>Resource Allocation</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/revitalize-your-pc-with-these-hassle-free-windows-11-refresh-tricks/"><u>Revitalize Your PC with These Hassle-Free Windows 11 Refresh Tricks</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/solution-for-sluggish-windows-1011-launch-times-a-step-by-step-fix/"><u>Solution for Sluggish Windows 10/11 Launch Times - A Step-by-Step Fix</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/steams-hidden-feature-easily-switching-to-offline-gameplay-on-any-device/"><u>Steam's Hidden Feature: Easily Switching to Offline Gameplay on Any Device</u></a></li>
+<li><a href="https://howto.techidaily.com/super-easy-ways-to-deal-with-samsung-galaxy-a14-5g-unresponsive-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Super Easy Ways To Deal with Samsung Galaxy A14 5G Unresponsive Screen | Dr.fone</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Diagnosing and Repairing Common Errors with Microsoft Outlook's Spell Check Utility
-date: 2024-08-26T05:55:40.017Z
-updated: 2024-08-27T05:55:40.017Z
+date: 2025-01-11T00:50:34.218Z
+updated: 2025-01-16T19:51:15.860Z
 categories:
   - BestProducts
 description: This Article Describes Diagnosing and Repairing Common Errors with Microsoft Outlook's Spell Check Utility
@@ -17,6 +17,10 @@ Close
 
  These solutions apply to Outlook for Microsoft 365, Outlook 2021, Outlook 2019, Outlook 2016, Outlook 2013, and Outlook 2010.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Why the Spell Check in Outlook Is Not Working 
 
  This handy feature saves you from embarrassing misspelling blunders, but only when it works. Here are some factors that can make Outlook's spell check tool misfire or stop working:
@@ -29,6 +33,10 @@ Close
 
  If you're using Outlook in your web browser, you should know that[ Outlook.com does not have a built-in spell checker](https://www.lifewire.com/hotmail-spell-checker-1174278) . Instead, install a browser extension like Grammarly or enable the spell checker built into your computer (in Windows, search Settings for**Highlight misspelled words** ).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  How to Fix Outlook Spell Check Not Working 
 
  Follow these solutions in the order we've listed them to try the easier fixes first.
@@ -38,6 +46,11 @@ Close
  For example, if spell check didn't catch a mistake when you sent a message, ensure**Always check spelling before sending** is turned on. In the**Spelling and Autocorrect** options are several other settings that, if turned off, will make spell check stop working, like**Check spelling as you type** and**Mark grammar errors as you type** .  
 ![Spell check and other proofing options in Outlook for Windows](https://www.lifewire.com/thmb/7aJakEF1RoFUzmRdKy98rLjw4oI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/outlook-proofing-options-cf0374fcf9dd4a8a83c71944367a8088.png)
 3. Change the proofing language. A language variation could make it seem as though the spell check tool is not working correctly. For instance, UK English and US English spell many words slightly differently. Go to**File** \>**Options** \>**Language** section to see how your app is set up.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Run spell check manually. Enter multiple misspelled words into a new message, then select**Review** \>**Spelling and Grammar** . This lets you see if spell check is working at all.
 5. Turn on connected experiences. When disabled, Microsoft Editor can't check your grammar. It's easy to switch on: Go to**File** \>**Options** \>**General** \>**Privacy Settings** and then check the box next to**Turn on experiences that analyze your content** .
 6. Check if spell check ignores certain parts of your emails. If Outlook is set to ignore areas in replies and forwarded messages, it may cause the tool to not work. Go to**File** \>**Options** \>**Mail** and clear the**Ignore original message text in reply or forward** option.
@@ -77,8 +90,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -86,13 +97,22 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-blue.techidaily.com/new-beam-breakthroughs-lighting-know-how-for-video-success/"><u>[New] Beam Breakthroughs Lighting Know-How for Video Success</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-in-2024-the-beginners-guide-to-iphone-slow-movement-videography/"><u>[New] In 2024, The Beginner's Guide to iPhone Slow Movement Videography</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-best-practices-for-documenting-chat-history-on-whatsapp-for-2024/"><u>[Updated] Best Practices for Documenting Chat History on WhatsApp for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-how-to-use-google-trends-to-come-up-with-video-ideas-easy-guide/"><u>[Updated] In 2024, How to Use Google Trends to Come up with Video Ideas [Easy Guide]</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-prime-monitors-ranked-for-ps5-gameplay-for-2024/"><u>[Updated] Prime Monitors Ranked for PS5 Gameplay for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-powered-healthful-eating-strategies-via-gpt-tips/"><u>AI-Powered Healthful Eating Strategies via GPT Tips</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/diagnosing-and-repairing-loud-or-malfunctioning-cpugpu-fans/"><u>Diagnosing and Repairing Loud or Malfunctioning CPU/GPU Fans</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/diy-methods-to-restore-the-sparkle-cleaning-guide-for-modern-tv-displays/"><u>DIY Methods to Restore the Sparkle: Cleaning Guide for Modern TV Displays</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722968348429-effortless-setup-for-microsoft-wireless-mouse-5000-instant-driver-downloads-available/"><u>Effortless Setup for Microsoft Wireless Mouse 5000 - Instant Driver Downloads Available!</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/is-there-an-active-roblox-downtime-or-could-the-problem-be-on-your-end/"><u>Is There an Active Roblox Downtime? Or Could the Problem Be on Your End?</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/optimize-your-gaming-setup-logitech-driving-force-pro-driver-for-windows-operating-systems/"><u>Optimize Your Gaming Setup: Logitech Driving Force Pro Driver for Windows Operating Systems</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/overcome-netflix-glitches-with-ease-fixing-error-code-nw-1-19/"><u>Overcome Netflix Glitches with Ease: Fixing Error Code NW-1-19</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/professionals-choice-top-performing-laser-cutting-systems-revealed/"><u>Professional's Choice: Top-Performing Laser Cutting Systems Revealed</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-guide-bypassing-your-ipads-security-without-the-original-password/"><u>Step-by-Step Guide: Bypassing Your iPad's Security without the Original Password</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/troubleshooting-steps-how-to-address-the-missing-mfc42dll-issue/"><u>Troubleshooting Steps: How to Address the Missing mfc42.dll Issue</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
-
- Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
-
- DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
- PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
-<!-- affiliate ads end -->

@@ -1,7 +1,7 @@
 ---
 title: Seamless Techniques to Photograph Your Display on an HP Computer System
-date: 2024-08-20T10:01:43.315Z
-updated: 2024-08-21T10:01:43.315Z
+date: 2025-01-13T17:36:23.940Z
+updated: 2025-01-16T21:57:59.000Z
 categories:
   - BestProducts
 description: This Article Describes Seamless Techniques to Photograph Your Display on an HP Computer System
@@ -10,6 +10,11 @@ thumbnail: https://www.lifewire.com/thmb/sIRRvPp4GzqLCXz0OS2Z_jLLP7g=/540x405/fi
 ---
 
 ## Windows 11 Screen Shot Techniques - Learn the Four Key Strategies
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### What to Know
 
 * The**PrtScn** /**PrtSc** button captures the entire screen and saves it to the clipboard.
@@ -17,6 +22,10 @@ thumbnail: https://www.lifewire.com/thmb/sIRRvPp4GzqLCXz0OS2Z_jLLP7g=/540x405/fi
 * **Win** +**Shift** +**S** lets you pick a window or section of the screen.
 
  This article explains all the different ways to make Windows 11 screenshots.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Use PrtScn to Screenshot the Whole Screen
 
@@ -29,12 +38,9 @@ thumbnail: https://www.lifewire.com/thmb/sIRRvPp4GzqLCXz0OS2Z_jLLP7g=/540x405/fi
 [16 Ways To Fix It When Print Screen Is Not Working in Windows](https://www.lifewire.com/fix-print-screen-not-working-5442833)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fullscreen Screenshot and Auto-save to Folder
 
  `Win+PrtSc`
@@ -45,9 +51,6 @@ No advertising on the website.
 
 ![ Screenshot folder with picture inside on Windows 11.](https://www.lifewire.com/thmb/9JnkOkVNK4-g810E3yMqwhOjIcY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/windows-11-screenshots-615d31976db445bb9f725b510becd850.png)
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 [How to Screenshot on a Logitech Keyboard](https://www.lifewire.com/take-screenshot-with-logitech-keyboard-5186441)
 
 ## Screenshot Part of the Screen
@@ -66,8 +69,9 @@ No advertising on the website.
 ![Windows 11 snip tool capturing calculator. ](https://www.lifewire.com/thmb/DxIz1nlXgizX8YqQ1wgTdi_r9eE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/snip-tool-windows-11-30e70f87ddfc45799a2dc78ebd4dc0b0.png)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  To avoid memorizing this shortcut, you can tie it to the PrtSc button so that when you press it, this same menu shows up automatically. To do this, go to**Settings** \>**Accessibility** \>**Keyboard** , and then turn on**Use the Print screen key to open screen capture** .
 
  After choosing one of those options, the image will be saved to the clipboard, which you can paste into an email or some other program that accepts pasting pictures.
@@ -76,13 +80,6 @@ No advertising on the website.
 
 ![A Windows 11 screenshot open in Snipping Tool](https://www.lifewire.com/thmb/n8hloKQGZfQTHNEMKqTmWZC4D_M=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/windows-11-snipping-tool-cfcc4b1e0c154d509e2d312ce4538e4e.png)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ## Delayed Screenshots With Snipping Tool
 
  Pull up the search button from the taskbar and enter**Snipping Tool** to open the app. This tool was briefly covered above, but what we'll look at now is the delayed screenshot function.
@@ -92,9 +89,9 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
  With the program open, select the**stopwatch** . There are three options:**3-second delay** ,**5-second delay** , and**10-second delay** . Select one, choose**New** , and then quickly arrange the screen in the way you need it for the screenshot. When the time you chose is reached, the four options above will display at the top of the screen.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Tips for Taking Screenshots in Windows 11
 
 * Once an image is loaded in Snipping Tool, use the crop tool to define further which part you want to keep without needing to retake the screenshot.
@@ -132,8 +129,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -141,4 +136,21 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-techniques.techidaily.com/new-examining-the-efficacy-of-toolwiz-for-image-enhancement/"><u>[New] Examining the Efficacy of Toolwiz for Image Enhancement</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-best-free-and-paid-drawing-apps-for-android-os/"><u>[New] In 2024, Best Free and Paid Drawing Apps for Android OS</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-step-by-step-guide-to-creating-a-peak-vr-environment/"><u>[Updated] 2024 Approved Step-by-Step Guide to Creating a Peak VR Environment</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/action-unleashed-the-latest-in-filmmaking-from-polaroids-xs/"><u>Action Unleashed The Latest in Filmmaking From Polaroid's XS</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/all-about-samsung-z-fold-4-stay-updated-on-launch-info-costs-and-technical-details/"><u>All About Samsung Z Fold 4: Stay Updated on Launch Info, Costs, and Technical Details</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/amazons-alexa-or-google-assistant-a-comprehensive-guide-to-determining-the-perfect-choice-for-you/"><u>Amazon's Alexa or Google Assistant: A Comprehensive Guide to Determining the Perfect Choice for You</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/expert-advice-repairing-the-blackout-a-guide-for-clear-facetime-visuals/"><u>Expert Advice: Repairing the Blackout – A Guide for Clear FaceTime Visuals</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-tips-for-correcting-and-preventing-windows-error-0xc00000xe9-a-detailed-guide/"><u>Expert Tips for Correcting and Preventing Windows Error 0xC00000^XE9 – A Detailed Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/mastering-steam-troubleshooting-avoiding-fatal-connection-errors-with-client-processes/"><u>Mastering Steam Troubleshooting – Avoiding Fatal Connection Errors with Client Processes</u></a></li>
+<li><a href="https://fake-location.techidaily.com/prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-apple-iphone-11-drfone-by-drfone-virtual-ios/"><u>Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Apple iPhone 11 | Dr.fone</u></a></li>
+<li><a href="https://win-lab.techidaily.com/secure-ihr-system-mit-kostenlosem-aomei-backupper-hochwertige-sicherungs-and-wiederherstelllosung-fur-ordner-and-daten/"><u>Secure Ihr System Mit Kostenlosem AOMEI Backupper - Hochwertige Sicherungs- & Wiederherstelllösung Für Ordner & Daten</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-future-of-compact-power-speculations-on-the-m4-mac-minis-features-cost-and-launch-schedule/"><u>The Future of Compact Power: Speculations on the M4 Mac Mini’s Features, Cost, and Launch Schedule</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ultimate-guide-broadcasting-the-2024-olympic-games-in-real-time/"><u>Ultimate Guide: Broadcasting the 2024 Olympic Games in Real-Time</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ultimate-guide-capturing-your-gaming-moments-recording-playstation-4/"><u>Ultimate Guide: Capturing Your Gaming Moments - Recording PlayStation 4</u></a></li>
+</ul></div>
 

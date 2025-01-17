@@ -1,7 +1,7 @@
 ---
 title: Complete Guide to Clearing Your Inbox on the Gmail Mobile Application
-date: 2024-08-26T05:55:43.622Z
-updated: 2024-08-27T05:55:43.622Z
+date: 2025-01-14T23:05:04.539Z
+updated: 2025-01-16T22:22:04.464Z
 categories:
   - BestProducts
 description: This Article Describes Complete Guide to Clearing Your Inbox on the Gmail Mobile Application
@@ -10,6 +10,11 @@ thumbnail: https://www.lifewire.com/thmb/b7LvjRLIfI3iLMrcimmC6cevruA=/400x300/fi
 ---
 
 ## The Complete Tutorial on Snapping Pics with a Logitech Keyboard - No Hassle
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### What to Know
 
 * Windows: Press**Windows key+PrtSc** or**Windows key+Alt+PrtScn** to capture only the active window.
@@ -17,6 +22,10 @@ thumbnail: https://www.lifewire.com/thmb/b7LvjRLIfI3iLMrcimmC6cevruA=/400x300/fi
 * Macs: Press**Shift+Command+3** or**Shift+Command+4** or**Shift+Command+4+Spacebar** for partial capture.
 
  This article explains how to screenshot on a Logitech keyboard. The instructions below apply to all Logitech keyboards, including the Logitech K780 Multi-Device Wireless Keyboard.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### How Do You Screenshot on a Logitech Wireless Keyboard?
 
@@ -33,8 +42,9 @@ thumbnail: https://www.lifewire.com/thmb/b7LvjRLIfI3iLMrcimmC6cevruA=/400x300/fi
  You can also press**Shift+Command+4+Spacebar** to capture a specific screen element (such as a menu or app). To see all of your screenshot options, including a screen recorder, press**Shift+Command+5** .
 
 <!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How Do You Print Screen on a Logitech Wireless Keyboard?
 
  A Camera icon may represent the Print Screen key (often shortened to PrtScr or PrtSc). It might have a dedicated key or share one of the function keys at the top of the keyboard.
@@ -44,11 +54,13 @@ thumbnail: https://www.lifewire.com/thmb/b7LvjRLIfI3iLMrcimmC6cevruA=/400x300/fi
 ![Print Screen Key on a Dell XPS 13.](https://www.lifewire.com/thmb/69ba7xDN0RG382zPypUBUTaZYpE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A2-TakeaScreenshotonaDellLaptop-annotated-ec47a86d15a142dc8eb5a740ef6d3284.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Where Are My Screenshots Saved?
 
  On Windows, open the File Explorer and go to**This PC** \>**Pictures** \>**Screenshots** to see your screenshots. On Mac, screenshots are saved to the desktop.
@@ -86,8 +98,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -95,4 +105,16 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-durecorder-simplified-essential-guidelines-and-reviews/"><u>[Updated] 2024 Approved DuRecorder Simplified Essential Guidelines & Reviews</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/approved-navigating-the-nuances-of-gamers-channel-templates/"><u>2024 Approved Navigating the Nuances of Gamers' Channel Templates</u></a></li>
+<li><a href="https://win11.techidaily.com/elite-screen-grabbers-5-non-windows-counterparts-to-snipping-tool/"><u>Elite Screen Grabbers: 5 Non-Windows Counterparts to Snipping Tool</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/expert-advice-how-to-address-and-repair-missing-jvm-dll-errors/"><u>Expert Advice: How To Address and Repair Missing JVM DLL Errors</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-obscure-watching-methods-5-unique-stories-apps/"><u>In 2024, Obscure Watching Methods 5 Unique Stories Apps</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/mastering-regional-preferences-transforming-iphone-locale-effortlessly/"><u>Mastering Regional Preferences: Transforming iPhone Locale Effortlessly</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-pioneering-audio-creation-with-lexisedit-a-beginners-blueprint/"><u>New Pioneering Audio Creation with LexisEdit A Beginners Blueprint</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-tutorial-on-connecting-with-a-bose-soundlink-speaker/"><u>Step-by-Step Tutorial on Connecting with a Bose SoundLink Speaker</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/troubleshooting-solutions-why-isnt-my-amazon-prime-video-closed-captioning-functioning/"><u>Troubleshooting Solutions: Why Isn't My Amazon Prime Video Closed Captioning Functioning?</u></a></li>
+</ul></div>
 

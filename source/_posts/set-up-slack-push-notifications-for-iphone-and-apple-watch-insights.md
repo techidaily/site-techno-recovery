@@ -1,7 +1,7 @@
 ---
 title: Set Up Slack Push Notifications for iPhone and Apple Watch | Insights
-date: 2025-01-05T20:10:59.605Z
-updated: 2025-01-10T20:11:47.921Z
+date: 2025-01-13T17:11:29.166Z
+updated: 2025-01-17T00:39:28.896Z
 tags:
   - apple
 categories:
@@ -45,7 +45,7 @@ Here's how.
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to enable Slack notifications on your Apple Watch
@@ -72,10 +72,6 @@ Now, back out to the top of the Settings app and tap the red Notifications icon.
 
 Screenshot by David Gewirtz/ZDNET
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. Set up Slack notifications in the Slack app
 
 Next, open the Slack app. Tap your profile image in the upper right corner of the screen. Then tap Notifications.
@@ -99,7 +95,7 @@ Screenshot by David Gewirtz/ZDNET
 Set it to "Always, even when I'm active". That way, you'll always get notifications, no matter what you're doing (unless you have Do Not Disturb turned on).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Set your notification schedule
@@ -123,12 +119,16 @@ So, make sure you set the Start and End times that fit with your schedule.
 Recommendation to Slack: Where you put the "Every day" option in that setting, add the times as well (e.g., "Every day 8 a.m. - 11 p.m."). That way, it's clear to users what they might need to change. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Enable Slack notifications in the Watch app
 
 We're almost done configuring notifications. Open the Watch app and scroll down to Notifications. Then scroll down to Slack and make sure it's turned on.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##   
 
@@ -137,7 +137,7 @@ Screenshot by David Gewirtz/ZDNET
 There. You've set up notifications. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  6\. Use the Watch to get Slack notifications
@@ -179,24 +179,20 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/n-2024-prolific-producers-of-profits-online/"><u>[New] In 2024, Prolific Producers of Profits Online</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-2024-approved-7-low-cost-tiktok-video-enhancements-on-macos/"><u>[Updated] 2024 Approved 7 Low-Cost TikTok Video Enhancements on MacOS</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-how-to-convert-youtubes-audios-to-mp3-safely-step-by-step-guide/"><u>[Updated] 2024 Approved How To Convert YouTube's Audios to MP3 Safely - Step-by-Step Guide</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/updated-2024-approved-snack-sensation-tiktoks-viral-culinary-adventures/"><u>[Updated] 2024 Approved Snack Sensation TikTok's Viral Culinary Adventures</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-advanced-techniques-for-effective-mobile-screen-capturing-with-mobizen-for-2024/"><u>[Updated] Advanced Techniques for Effective Mobile Screen Capturing with Mobizen for 2024</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/approved-how-to-change-youtube-playback-speed-to-speed-up-or-slow-down-video/"><u>2024 Approved How to Change YouTube Playback Speed to Speed Up or Slow Down Video</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/choosing-the-perfect-phone-for-your-child-expert-reviews-and-picks/"><u>Choosing the Perfect Phone for Your Child: Expert Reviews & Picks</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/discover-the-enhanced-camera-functionality-a-closer-look-at-iphone-16s-innovative-camera-toggle-insights-from-tech-experts/"><u>Discover the Enhanced Camera Functionality: A Closer Look at iPhone 16'S Innovative Camera Toggle - Insights From Tech Experts</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/discover-the-top-sites-to-streamline-your-search-for-an-ideal-living-space/"><u>Discover the Top Sites to Streamline Your Search for an Ideal Living Space</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/expert-picks-top-iphone-12-and-12-pro-protective-cases-insights-s-analysis/"><u>Expert Picks: Top iPhone 12 & 12 Pro Protective Cases - Insights 'S Analysis</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/forgotten-the-voicemail-password-of-realme-c67-4g-try-these-fixes-by-drfone-android/"><u>Forgotten The Voicemail Password Of Realme C67 4G? Try These Fixes</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-sony-blu-ray-player-s6500-fresh-perspective/"><u>In 2024, Sony Blu-Ray Player S6500 Fresh Perspective</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-turn-up-the-volume-a-guide-to-personalizing-ringtone-and-sound-settings-on-android-devices/"><u>In 2024, Turn Up the Volume A Guide to Personalizing Ringtone & Sound Settings on Android Devices</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/introducing-apples-cutting-edge-artificial-intelligence-transforming-siri-with-advanced-insight-into-your-home-interface/"><u>Introducing Apple’s Cutting-Edge Artificial Intelligence: Transforming Siri with Advanced Insight Into Your Home Interface</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/iphone-showdown-deciding-between-the-iphone-1nfone-14-pro-and-iphone-14-pro-max-a-detailed-guide/"><u>IPhone Showdown: Deciding Between the iPhone 1Nfone 14 Pro and iPhone 14 Pro Max – A Detailed Guide</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/revolutionizing-smartphone-durability-apple-reveals-enhanced-iphone-16-repairability-features-compared-to-earlier-models-insights-from-zdnet/"><u>Revolutionizing Smartphone Durability: Apple Reveals Enhanced iPhone 16 Repairability Features Compared to Earlier Models - Insights From ZDNet</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/troubleshooting-iphone-wont-connect-to-mobile-data-post-ios-update-1721-expert-solutions/"><u>Troubleshooting: IPhone Won't Connect to Mobile Data Post-iOS Update 17.2.1? Expert Solutions</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/ultimate-steps-for-turning-pin-videos-into-music-files-for-2024/"><u>Ultimate Steps for Turning Pin Videos Into Music Files for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/why-will-apples-new-ai-innovations-not-upgrade-your-previous-iphone-the-high-price-tag-explained-zdnet/"><u>Why Will Apple’s New AI Innovations Not Upgrade Your Previous iPhone? The High Price Tag Explained | ZDNET</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ake-big-bucks-fast-with-a-focus-on-youtube-short-video-creation-for-2024/"><u>[New] Make Big Bucks Fast with a Focus on YouTube Short Video Creation for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-orchestrating-scene-sounds-with-imovie/"><u>[New] Orchestrating Scene Sounds with iMovie</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-essential-6-apps-elevating-your-instagram-reels/"><u>[Updated] 2024 Approved Essential 6 Apps Elevating Your Instagram Reels</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/accessing-the-official-samsung-unpacked-presentation-online-how/"><u>Accessing the Official Samsung Unpacked Presentation Online – How?</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-come-up-with-the-best-pokemon-team-on-infinix-gt-10-pro-drfone-by-drfone-virtual-android/"><u>How to Come up With the Best Pokemon Team On Infinix GT 10 Pro? | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-successfully-cancel-and-retrieve-funds-for-steam-games-bought/"><u>How To Successfully Cancel and Retrieve Funds for Steam Games Bought</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-realme-11-proplus-drfone-by-drfone-virtual-android/"><u>In 2024, Why Your WhatsApp Live Location is Not Updating and How to Fix on your Realme 11 Pro+ | Dr.fone</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/innovate-your-live-broadcast-on-mac-with-1-5-software-for-2024/"><u>Innovate Your Live Broadcast on Mac with #1-5 Software for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/leveraging-meta-ai-features-for-enhanced-instagram-presence/"><u>Leveraging Meta AI Features for Enhanced Instagram Presence</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/mastering-the-art-of-screenshots-on-a-logitech-keyboard-quick-and-simple-steps-inside/"><u>Mastering the Art of Screenshots on a Logitech Keyboard – Quick and Simple Steps Inside</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/revolutionize-your-fitness-journey-with-our-top-picks-for-training-apps/"><u>Revolutionize Your Fitness Journey with Our Top Picks for Training Apps</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-ultimate-fix-for-when-windows-cant-find-d3dx925dll/"><u>The Ultimate Fix for When Windows Can't Find d3dx9_25.dll</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-7-no-cost-internet-fax-solutions/"><u>Top 7 No-Cost Internet Fax Solutions</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unlocking-lost-render-capabilities-in-overwatch-2-pc/"><u>Unlocking Lost Render Capabilities in Overwatch 2 PC</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/wiederherstellung-von-geloschten-dateien-erfolgreiches-retrieven-aus-dem-papierkorb-papierkorb-auf-ihrem-pc/"><u>Wiederherstellung Von Gelöschten Dateien: Erfolgreiches Retrieven Aus Dem Papierkorb (Papierkorb) Auf Ihrem PC</u></a></li>
 </ul></div>
 

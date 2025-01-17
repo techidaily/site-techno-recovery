@@ -1,7 +1,7 @@
 ---
 title: "Creating Custom Notifications: Setting Your Own Gmail Sounds"
-date: 2024-08-26T05:59:38.535Z
-updated: 2024-08-27T05:59:38.535Z
+date: 2025-01-15T18:46:43.777Z
+updated: 2025-01-16T21:09:01.914Z
 categories:
   - BestProducts
 description: "This Article Describes Creating Custom Notifications: Setting Your Own Gmail Sounds"
@@ -10,6 +10,11 @@ thumbnail: https://thmb.techidaily.com/cfaa471734b434d1f940355dfb1b76c8db9d162f4
 ---
 
 ## Removing User Pin Authentication From Windows 10 – Easy Instructions Inside
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### What to Know
 
 * Be sure you've signed in to the account you want to remove the PIN from before you begin.
@@ -27,18 +32,34 @@ thumbnail: https://thmb.techidaily.com/cfaa471734b434d1f940355dfb1b76c8db9d162f4
 1. Open the**Start menu** and select**Settings** .  
 ![Windows Start menu with Settings highlighted](https://www.lifewire.com/thmb/Xh323qeKgfTT7cDK7p2Ui2ux_Ag=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Settings-b9a2a9d31e8548659b1219cae32012ae.jpg)
 2. Navigate to**Accounts** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Windows 10 Settings with Accounts highlighted](https://www.lifewire.com/thmb/vpsWFRAd7gB_e4Zkj-FgqKx7KBw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Accounts-511820ef10754bcbaca751b5eb70fec4.jpg)
 3. Select**Sign-in options** on the left side.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Windows 10 with Sign-in options highlighted](https://www.lifewire.com/thmb/jDsnWitS8GNFUdRNA0osEGYtesI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Sign-inoptions-2f83a29036b64d6593277d28ed806539.jpg)
 4. Select**Windows Hello PIN** , and then press**Remove** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Windows Hello Pin settings with Remove highlighted](https://www.lifewire.com/thmb/KHHk-iH0M4X5ZC54CXHzsFVBWSw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Remove-3cfbe86970974b50b3d81675d133fb41.jpg)
 5. When asked to confirm to remove your PIN, select**Remove** once more, and then your PIN will be gone.  
 ![Windows 10 remove PIN confirmation with Remove highlighted](https://www.lifewire.com/thmb/peU3MzjEzUzSP4Xgj8-CByqsmso=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Removetoconfirm-453f94caf8cc4385ad2cc8ccb73f0762.jpg)  
  If you signed in to Windows with your Microsoft account, you'll need to enter your Microsoft account password to remove your PIN after confirming.
 
 <!-- affiliate ads begin -->
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Windows 10 PIN Tips and Tricks
 
  If you change your mind and want a PIN again, making one is just as easy. From the same place where you chose**Remove** ,**you can now** select**Add** . Set and confirm your PIN to be prompted for it the next time you sign in. In the future, select**Change** instead to make a new PIN.
@@ -74,8 +95,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -83,4 +102,23 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-facebooks-favorites-top-10-viral-music-videos-guide/"><u>[New] 2024 Approved Facebook's Favorites TOP 10 Viral Music Videos Guide</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-produce-fb-profile-visuals/"><u>[Updated] In 2024, Produce FB Profile Visuals</u></a></li>
+<li><a href="https://extra-information.techidaily.com/ae-text-and-title-styles-guide/"><u>AE Text & Title Styles Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723205620823-constraint-a-the-footnotes-must-be-numbered-sequentially-starting-with-1/"><u>Constraint A: The Footnotes Must Be Numbered Sequentially Starting with [^1].</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/enterprise-oriented-strategies-with-gpt-ai/"><u>Enterprise-Oriented Strategies with GPT AI</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-infinix-note-30-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Infinix Note 30 to Any iOS Devices | Dr.fone</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-journey-into-virtual-realms-best-8-metaverse-visors-and-goggles/"><u>In 2024, Journey Into Virtual Realms Best 8 Metaverse Visors & Goggles</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/overcoming-common-problems-on-the-tiktok-platform-a-comprehveiw-guide/"><u>Overcoming Common Problems on the TikTok Platform: A Comprehveiw Guide</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/selecting-the-top-infinite-storage-providers/"><u>Selecting the Top Infinite Storage Providers</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/sony-vr-tech-update-expected-debut-date-and-pricing-innovative-specs-and-rumored-insights/"><u>Sony VR Tech Update: Expected Debut Date & Pricing, Innovative Specs, and Rumored Insights</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/stay-ahead-with-the-newest-netgear-default-password-compilation-july-2024/"><u>Stay Ahead with the Newest Netgear Default Password Compilation (July 2024)</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/steps-to-remove-on-screen-translations-from-amazon-prime-media-library/"><u>Steps to Remove On-Screen Translations From Amazon Prime Media Library</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/toms-tech-review-comprehensive-insights-into-the-latest-computer-equipment/"><u>Tom's Tech Review: Comprehensive Insights Into the Latest Computer Equipment</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ultimate-guide-downloading-your-favorite-films-from-netflix-onto-your-pc/"><u>Ultimate Guide: Downloading Your Favorite Films From Netflix Onto Your PC</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ultimate-review-and-insights-on-the-line-communication-app/"><u>Ultimate Review and Insights on the Line Communication App</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unlocking-dragon-ball-narrative-flow-the-right-way-to-follow-the-shows-storyline/"><u>Unlocking Dragon Ball Narrative Flow: The Right Way to Follow the Show's Storyline</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Urgent Update: How Apple's Warning on High-Stakes Spyware Assaults Impacts iPhone Users - Should You Be Alarmed Now? | Cybersecurity Today"
-date: 2025-01-06T00:53:03.864Z
-updated: 2025-01-11T01:32:45.195Z
+date: 2025-01-12T18:13:02.094Z
+updated: 2025-01-16T18:10:30.429Z
 tags:
   - apple
 categories:
@@ -31,7 +31,7 @@ Read on for a look at some of the new accessibility features coming to Apple har
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### New eye-tracking features
@@ -48,13 +48,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Apple Music haptics
 
 For those who are deaf or hard of hearing, Apple plans to offer a Taptic Engine feature in Apple Music. When turned on, the feature will use a series of taps, vibrations, and other tactile responses to sync to a song's audio. Apple says the feature will work "across millions of songs in the Apple Music catalog."
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Addressing motion sickness
 
@@ -65,7 +65,7 @@ Motion sickness in cars can often be the result of a disconnect between what you
 "Using sensors built into iPhone and iPad, Vehicle Motion Cues recognizes when a user is in a moving vehicle and responds accordingly," Apple said. "The feature can be set to show automatically on iPhone, or can be turned on and off in Control Center."
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Understanding speech
@@ -75,7 +75,7 @@ A new feature called Voice Shortcuts will let you "assign custom utterances" tha
 Another feature, Listen for Atypical Speech, will use machine learning to understand your speech patterns and your requests on-device, Apple said. The feature "gives users an option for enhancing speech recognition for a wider range of speech," the company said.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### New CarPlay features
@@ -85,7 +85,7 @@ Apple's in-car CarPlay software is also getting new accessibility features, incl
 **Also: [iOS and Android owners will now be alerted if an unknown tracker is moving with them](https://www.zdnet.com/article/ios-and-android-owners-will-now-be-alerted-if-an-unknown-tracker-is-moving-with-them/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Some other updates
@@ -122,16 +122,22 @@ Beyond those updates, Apple said that it's launching a range of smaller upgrades
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-stream.techidaily.com/new-from-isolated-viewers-to-shared-experiences-online/"><u>[New] From Isolated Viewers to Shared Experiences Online</u></a></li>
-<li><a href="https://extra-information.techidaily.com/2024s-best-bargains-in-the-world-of-cloud-storage/"><u>2024'S Best Bargains in the World of Cloud Storage</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/3-best-tools-to-hard-reset-honor-x50iplus-drfone-by-drfone-reset-android-reset-android/"><u>3 Best Tools to Hard Reset Honor X50i+ | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/delving-into-the-world-of-claude-3-understanding-its-purpose-and-uses/"><u>Delving Into The World Of Claude 3: Understanding Its Purpose And Uses</u></a></li>
-<li><a href="https://extra-information.techidaily.com/elevating-your-broadcast-combining-zoom-and-fb-live/"><u>Elevating Your Broadcast Combining ZOOM & FB Live</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fixing-the-issue-why-does-my-game-freeze-on-ring-of-elysium/"><u>Fixing the Issue: Why Does My Game Freeze on Ring of Elysium?</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/mastering-clearer-communication-the-guide-to-better-iphone-call-sound-insights-from-zdnet/"><u>Mastering Clearer Communication: The Guide to Better iPhone Call Sound - Insights From ZDNet</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/pioneering-achievements-in-tech-from-1844-to-todays-era/"><u>Pioneering Achievements in Tech: From 1844 to Today's Era</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/step-by-step-process-handling-missing-d3dx924dll-issues/"><u>Step-by-Step Process: Handling Missing d3dx9_24.dll Issues</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/the-reasons-behind-avoiding-iphone-16-purchase-due-to-apples-ai-advancements-insights/"><u>The Reasons Behind Avoiding iPhone 16 Purchase Due To Apple’s AI Advancements - Insights</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/top-dvd-ripper-and-converter-software-for-windows-1011-optimal-choices-for-legal-backups-and-playback/"><u>Top DVD Ripper & Converter Software for Windows 10/11: Optimal Choices for Legal Backups and Playback</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-perfecting-your-linkedin-summary-statement/"><u>[New] 2024 Approved Perfecting Your LinkedIn Summary Statement</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-top-ranked-text-enhancers-for-after-effects/"><u>[New] Top-Ranked Text Enhancers for After Effects</u></a></li>
+<li><a href="https://media-tips.techidaily.com/how-to-activate-dlna-support-on-windows-10-for-seamless-video-sharing/"><u>How To Activate DLNA Support On Windows 10 For Seamless Video Sharing</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-discover-your-current-ip-address-without-cost-a-guide/"><u>How to Discover Your Current IP Address Without Cost – A Guide</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-download-fortnite-on-android-phone/"><u>How to Download Fortnite on Android Phone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-gear-up-a-dual-step-guide-to-embrace-the-windows-11-creators-update/"><u>How to Gear Up? A Dual-Step Guide to Embrace the Windows 11 Creator’s Update</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-optimize-windows-10-for-gaming/"><u>How to Optimize Windows 10 for Gaming</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-remove-onedrive-from-file-explorer-on-windows-11-solved/"><u>How to Remove OneDrive From File Explorer on Windows 11 [Solved]</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-restore-desktop-icons-on-your-windows-10-pc-a-step-by-step-guide/"><u>How to Restore Desktop Icons on Your Windows 10 PC: A Step-by-Step Guide</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-secure-your-wi-fi-network-windows-11-7-81-quickly-and-easily/"><u>How to Secure Your Wi-Fi Network | Windows 11, 7, 8.1 | Quickly & Easily</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-uninstall-windows-11-and-downgrade-to-windows-7-or-windows-81-quickly-and-easily/"><u>How to Uninstall Windows 11 and Downgrade to Windows 7 or Windows 8.1, Quickly and Easily!</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/immersive-graphics-meet-unyielding-difficulty-demons-souls-resurgence-examined/"><u>Immersive Graphics Meet Unyielding Difficulty - Demon's Souls Resurgence Examined</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/in-2024-dive-deep-into-smooth-aquatic-footage-top-tips-unveiled/"><u>In 2024, Dive Deep Into Smooth Aquatic Footage Top Tips Unveiled</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-top-10-youtube-rippers-for-media-conversion/"><u>In 2024, Top 10 YouTube Rippers for Media Conversion</u></a></li>
+<li><a href="https://win11.techidaily.com/personalize-task-execution-efficient-keybinds-in-win-os/"><u>Personalize Task Execution: Efficient Keybinds in WIN OS</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/toms-tech-insights-in-depth-computer-component-reviews/"><u>Tom's Tech Insights: In-Depth Computer Component Reviews</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/ultimate-list-of-apples-best-photo-watermark-applications/"><u>Ultimate List of Apple's Best Photo Watermark Applications</u></a></li>
 </ul></div>
 

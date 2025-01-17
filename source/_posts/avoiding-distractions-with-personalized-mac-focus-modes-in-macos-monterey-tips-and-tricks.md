@@ -1,7 +1,7 @@
 ---
 title: Avoiding Distractions with Personalized Mac Focus Modes in macOS Monterey - Tips & Tricks
-date: 2025-01-06T22:19:40.547Z
-updated: 2025-01-10T19:56:06.968Z
+date: 2025-01-11T18:41:54.536Z
+updated: 2025-01-16T17:19:22.575Z
 tags:
   - apple
 categories:
@@ -102,10 +102,6 @@ Share: Are you prepared for the future of AI, automation, and jobs?
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 
 
 [Facebook](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.zdnet.com%2Fvideo%2Fits-like-magic-how-to-use-universal-control-to-control-your-ipad-from-a-mac%2F&title=Are%20you%20prepared%20for%20the%20future%20of%20AI%2C%20automation%2C%20and%20jobs%3F "Facebook") [Twitter](https://twitter.com/intent/tweet?original%5Freferer=https%3A%2F%2Fabout.twitter.com%2Fresources%2Fbuttons&text=Are%20you%20prepared%20for%20the%20future%20of%20AI%2C%20automation%2C%20and%20jobs%3F&tw%5Fp=tweetbutton&url=https%3A%2F%2Fwww.zdnet.com%2Fvideo%2Fits-like-magic-how-to-use-universal-control-to-control-your-ipad-from-a-mac%2F "Twitter") 
@@ -119,7 +115,7 @@ Apple's latest software update to the Mac and iPad has enabled a feature that, n
 That means when you move your Mac's pointer beyond the edge of your screen, it will automatically switch to your iPad and allow you to use iPadOS without switching devices. To be clear, Universal Control isn't only designed to work between an iPad and a Mac. It'll actually work between multiple Macs as well. For the purpose of this guide, I'm going to stick to using it between and iPad and Mac to cover both devices. But you could easily do the same thing with two Macs by following the steps below. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Featured
@@ -131,10 +127,6 @@ That means when you move your Mac's pointer beyond the edge of your screen, it w
 
 There are a couple of things you'll need to do before you can use Universal Control. I'll walk you through the initial setup, and then how to use it. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Update your Mac and iPad
 
 Before you'll have the option to turn on Universal Control, you need to update the software on your Mac and your iPad. The current versions are MacOS 12.3 and iPadOS 15.4\. 
@@ -143,6 +135,10 @@ On a Mac, open **System Preferences**, then select **Software Update**.
 
 On your iPad, open the **Settings app** then go to **General** \> **Software Update** and follow the prompts. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  How to set up Universal Control on your iPad
 
 Screenshot by Jason Cipriani/ZDNet
@@ -150,6 +146,10 @@ Screenshot by Jason Cipriani/ZDNet
 There isn't a dedicated Universal Control setting or section in iPadOS. In fact, you won't find a setting titled "Universal Control" on the iPad at all. 
 
 In order to make sure your iPad is setup, open the **Settings app** then select **General** \> **AirPlay & Handoff**. Next, make sure the switch next to **Cursor and Keyboard** is turned _On_. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  How to set up Universal Control on your Mac
 
@@ -174,7 +174,7 @@ Want to go back to your Mac? Drag the mouse pointer off the iPad's screen in the
 You can even drag and drop documents between your Mac or iPad, instead of waiting for iCloud Drive to sync or if, for example, you were drawing out an idea in the Notes app with the Apple Pencil on your iPad -- you can easily move that to your Mac once you're finished. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Arrange your displays, adjust settings
@@ -184,7 +184,7 @@ Screenshot by Jason Cipriani/ZDNet
 Your Mac will try its best to locate your iPad's location in relation to your main display, but it's not perfect. If you go back into System Preferences on your Mac, you can click-and-drag to rearrange the displays, putting your iPad's screen in the right spot, allowing you to seamlessly move your mouse between the two devices. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Troubleshooting Universal Control
@@ -239,18 +239,17 @@ Finally, if you're still not having any luck, it could be that your device isn't
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-video-sizing-anomalies-what-causes-imovie-to-crop/"><u>[New] 2024 Approved Video Sizing Anomalies What Causes iMovie to Crop?</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-2024-approved-windows-8-screen-snapping-tools/"><u>[New] 2024 Approved Windows 8 Screen Snapping Tools</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-the-art-of-photo-refreshment-how-to-tidy-up-images-on-canva-for-2024/"><u>[Updated] The Art of Photo Refreshment How to Tidy Up Images on Canva for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-stuck-mouse-issues-on-your-windows-or-mac-device/"><u>Fixing Stuck Mouse Issues on Your Windows or Mac Device</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/is-it-time-to-switch-to-an-apple-m1-macbook-pro-from-a-previous-generation-model-tech-insights/"><u>Is It Time to Switch to an Apple M1 MacBook Pro From a Previous Generation Model? | Tech Insights</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/launching-with-the-essentials-apple-vision-pro-integrates-word-and-excel-from-microsoft-365-right-away/"><u>Launching with the Essentials: Apple Vision Pro Integrates Word & Excel From Microsoft 365 Right Away</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-the-easy-way-to-compress-mpeg2-videos-using-virtualdub-for-2024/"><u>New The Easy Way to Compress MPEG2 Videos Using VirtualDub for 2024</u></a></li>
-<li><a href="https://change-location.techidaily.com/pokemon-go-cooldown-chart-on-samsung-galaxy-s23-ultra-drfone-by-drfone-virtual-android/"><u>Pokémon Go Cooldown Chart On Samsung Galaxy S23 Ultra | Dr.fone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/1722883229119-prank-your-pals-iphone-or-ipad-7-witty-ideas-you-must-try/"><u>Prank Your Pal's iPhone or iPad: 7 Witty Ideas You Must Try!</u></a></li>
-<li><a href="https://facebook.techidaily.com/sifting-through-the-real-facebook-defections/"><u>Sifting Through the Real Facebook Defections</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/speedy-upgrade-leading-android-video-tuners-for-2024/"><u>Speedy Upgrade Leading Android Video Tuners for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/ultimate-guide-to-the-best-slate-guardians-of-2024-for-your-pad-zdnets-expert-opinions/"><u>Ultimate Guide to the Best Slate Guardians of 2024 for Your Pad - ZDNET's Expert Opinions</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/zdnet-exclusive-apple-phases-out-apple-pay-later-introduces-future-financial-solution-for-users/"><u>ZDNet Exclusive: Apple Phases Out Apple Pay Later, Introduces Future Financial Solution for Users</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/nhancing-video-visibility-with-optimal-thumbnails/"><u>[New] Enhancing Video Visibility with Optimal Thumbnails</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-2024s-cloud-price-tracker-find-the-lowest-bills-here/"><u>[Updated] 2024'S Cloud Price Tracker Find the Lowest Bills Here</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-filmmakers-key-to-cohesion-mastering-kinemaster-edits/"><u>[Updated] The Filmmaker's Key to Cohesion Mastering Kinemaster Edits</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/comprehensive-guide-to-install-and-use-your-new-wireless-keyboard/"><u>Comprehensive Guide to Install and Use Your New Wireless Keyboard</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/diy-screen-care-uncover-how-to-clear-up-phantom-lines-quickly/"><u>DIY Screen Care: Uncover How to Clear Up Phantom Lines Quickly</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/easily-update-dell-drivers-for-windows-10/"><u>Easily Update Dell Drivers for Windows 10</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-apple-iphone-xs-drfone-by-drfone-ios/"><u>How to Unlock Apple iPhone XS? | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/1723808125928-kodinerds-repository-how-to-install-kodinerds-repo-on-kodi/"><u>KodiNerds Repository - How to Install KodiNerds Repo on Kodi</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/the-m3-macbook-air-unveiled-how-apples-latest-entry-in-affordable-ai-computing-stacks-up-insights-from-a-comprehensive-review-by-zdnet/"><u>The M3 MacBook Air Unveiled: How Apple's Latest Entry in Affordable AI Computing Stacks Up - Insights From a Comprehensive Review by ZDNet</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/top-rated-solar-garden-lights-an-ultimate-guide/"><u>Top Rated Solar Garden Lights : An Ultimate Guide</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/tutorial-to-change-honor-100-imei-without-root-a-comprehensive-guide-by-drfone-android/"><u>Tutorial to Change Honor 100 IMEI without Root A Comprehensive Guide</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/what-does-jailbreaking-iphone-se-2022-i-do-get-answers-here-by-drfone-ios/"><u>What Does Jailbreaking iPhone SE (2022) i Do? Get Answers here</u></a></li>
 </ul></div>
 

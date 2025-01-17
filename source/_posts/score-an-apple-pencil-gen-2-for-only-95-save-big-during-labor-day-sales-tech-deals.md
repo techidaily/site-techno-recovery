@@ -1,7 +1,7 @@
 ---
 title: Score an Apple Pencil (Gen 2) for Only $95 - Save Big During Labor Day Sales Tech Deals
-date: 2025-01-05T09:05:06.734Z
-updated: 2025-01-11T08:54:17.145Z
+date: 2025-01-14T19:53:38.613Z
+updated: 2025-01-16T19:28:29.981Z
 tags:
   - apple
 categories:
@@ -34,7 +34,7 @@ By using the Apple Pencil with your iPad (specifically, the iPad Pro 2022 model)
 Get the [Apple Pencil (2nd Gen)](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FApple-Pencil-2nd-Generation-Pixel-Perfect-Precision-Industry-Leading-Low-Latency-Perfect-Note-Taking-Drawing-Signing-documents-Attaches-Charges-Pairs%2F949679706&subId1=zd-__COM_CLICK_ID__-dtp) with $35 in savings right now if you want to upgrade your iPad stylus. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -71,15 +71,20 @@ Deals are subject to sell-out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/n-2024-unveiling-the-secrets-of-successful-youtube-videos/"><u>[New] In 2024, Unveiling the Secrets of Successful YouTube Videos</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-in-2024-crafting-precise-shadows-with-adobe-curves/"><u>[Updated] In 2024, Crafting Precise Shadows with Adobe Curves</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/1722882492834-discover-different-web-browsing-options-for-your-samsung-smart-tv-here/"><u>Discover Different Web Browsing Options for Your Samsung Smart TV Here!</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/exploring-the-depths-of-apples-ai-innovations-showcased-at-wwdc-2024/"><u>Exploring the Depths of Apple's AI Innovations Showcased at WWDC 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/how-to-fix-it-tecno-spark-10-pro-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix It Tecno Spark 10 Pro Wont Turn On | Dr.fone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/how-to-set-up-and-benefit-from-extra-storage-with-an-external-hard-drive-on-your-xbox-one-console/"><u>How to Set Up and Benefit From Extra Storage with an External Hard Drive on Your Xbox One Console</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/july-must-see-curated-list-of-top-max-documentaries-by-us/"><u>July Must-See: Curated List of Top Max Documentaries by Us!</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/step-by-step-guide-to-facebook-mastery-pro-and-novice-edition-for-2024/"><u>Step-by-Step Guide to Facebook Mastery Pro & Novice Edition for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/timing-of-a-20mb-sized-video-for-2024/"><u>Timing of a 20MB-Sized Video for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/understanding-the-408-error-causes-solutions-and-prevention/"><u>Understanding the 408 Error: Causes, Solutions and Prevention</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-perfecting-the-bokeh-aesthetic-for-social-media-posts/"><u>[New] Perfecting the Bokeh Aesthetic for Social Media Posts</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-learn-the-art-of-green-screen-without-costs-top-4-youtube-techniques-for-aspiring-vfx-artists/"><u>[Updated] 2024 Approved Learn the Art of Green Screen Without Costs Top 4 YouTube Techniques for Aspiring VFX Artists</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/convertir-archivo-pef-a-formato-digital-de-forma-gratuita-con-movavi/"><u>Convertir Archivo PEF a Formato Digital De Forma Gratuita Con Movavi</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-cant-take-screenshot-due-to-security-policy-on-honor-magic-vs-2-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Cant Take Screenshot Due to Security Policy on Honor Magic Vs 2 | Dr.fone</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-2024-pinterest-videos-top-5-no-pay-extractors-online/"><u>In 2024, Pinterest Videos Top 5 No-Pay Extractors Online</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210348063-9782226389930-sagesses-pour-notre-temps/"><u>Sagesses pour notre temps | Free Book</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-guide-for-emailing-e-books-from-calibre-to-kindle-devices-over-lanwlan/"><u>Step-by-Step Guide for Emailing E-Books From Calibre to Kindle Devices over LAN/WLAN</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-guide-converting-aax-files-to-mp3-on-windows-11/"><u>Step-by-Step Guide: Converting AAX Files to MP3 on Windows 11</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-guide-converting-and-importing-ebooks-from-kindle-to-kobo-devices/"><u>Step-by-Step Guide: Converting and Importing eBooks From Kindle to Kobo Devices</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-guide-drm-removal-from-ebooks-starting-on-page-1/"><u>Step-by-Step Guide: DRM Removal From eBooks - Starting on Page 1</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-guide-how-to-printer-documents-from-your-kindle-fire-device/"><u>Step-by-Step Guide: How to Printer Documents From Your Kindle Fire Device</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-guide-how-to-safely-eliminate-drm-protection-from-epub-pdf-and-azw-digital-books/"><u>Step-by-Step Guide: How to Safely Eliminate DRM Protection From EPUB, PDF, and AZW Digital Books</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-ultimate-list-of-top-5-most-amazing-ebook-readers-for-your-computer/"><u>The Ultimate List of Top 5 Most Amazing eBook Readers for Your Computer</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unveiling-the-magic-of-vision-pro-with-apples-latest-virtual-experience-my-enlightening-encounter/"><u>Unveiling the Magic of Vision Pro with Apple’s Latest Virtual Experience - My Enlightening Encounter</u></a></li>
+<li><a href="https://games-able.techidaily.com/xbox-s-embracing-a-disc-free-future/"><u>Xbox S: Embracing a Disc-Free Future</u></a></li>
 </ul></div>
 

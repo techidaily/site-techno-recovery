@@ -1,7 +1,7 @@
 ---
 title: "Unraveling the Secrets: Understanding Snapchat's Emoji Language"
-date: 2025-01-06T19:57:32.394Z
-updated: 2025-01-10T18:42:45.887Z
+date: 2025-01-10T21:05:41.889Z
+updated: 2025-01-16T23:25:42.450Z
 categories:
   - BestProducts
 description: "This Article Describes Unraveling the Secrets: Understanding Snapchat's Emoji Language"
@@ -28,17 +28,9 @@ You can also customize Snapchat emojis. This is covered below.
 
  You're both best friends. You send the most snaps to this friend, and they send the most snaps to you.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Red Heart (BFF) ❤️
 
  A yellow heart becomes a red heart when you remain each other's BFF for a period of two weeks.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Two Pink Hearts (Super BFF) 💕
 
@@ -46,17 +38,21 @@ You can also customize Snapchat emojis. This is covered below.
 
  Due to a bug, the pink hearts emoji has been known to occasionally be replaced by a yellow heart.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Grimacing Face 😬
 
  A smiley bearing his teeth as if grimacing beside a friend's name means that your number one best friend is their number one best friend as well. In other words, you share a best friend.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Smirking Face 😏
 
  When you see an emoji with a smirk beside a friend's name, it means that you're that friend's best friend, but they're not your best friend (you have a different best friend).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Smiling Face 😊
 
@@ -66,12 +62,16 @@ You can also customize Snapchat emojis. This is covered below.
 
  If you see a sunglasses-wearing smiley face beside a username, it means that one of your best friends is one of their best friends, too.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Sparkles ✨
 
  If you're snapping with multiple friends as a group, you'll see the sparkle emoji, which can help you identify all the friends you're including in group chats.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Baby 👶
@@ -95,10 +95,6 @@ You can also customize Snapchat emojis. This is covered below.
 ## 100💯
 
  You'll see 100 next to Fire emoji when you snap back and forth for 100 days in a row.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Birthday Cake 🎂
 
@@ -127,6 +123,10 @@ You can also customize Snapchat emojis. This is covered below.
 * ♐: Saggitarius
 * ♑: Capricorn
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Other Emojis You Might See That Aren't Generated by Snapchat
 
  Snapchat automatically adds the above emojis to people's profiles and avatars, but you may run into some other ones in usernames and elsewhere that the platform doesn't make. Here are some of them:
@@ -151,15 +151,15 @@ You can also customize Snapchat emojis. This is covered below.
 5. Tap the**poop emoji** (or anything else). Now, any time you have a Super BFF, this emoji will appear next to that friend's name in the chat tab.  
 ![The Friend Emojis, Super BFF and Pile of Poo emoji in Snapchat](https://www.lifewire.com/thmb/ZZkR-gSlSDVsEHF8VDb0iPAp5rY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002_snapchat-emoji-meanings-3485999-5bd8f85a46e0fb002d14ba7f-76670bbfad7a421ca6d2c539eb86833c.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Snapchat's Shift From Best Friends to Friend Emojis
 
  Older versions of Snapchat included the[ best friends feature](https://www.lifewire.com/how-to-delete-or-change-snapchat-best-friends-3485996) , which listed 3-7 of the friends you snapped with the most at the top of your friend list. In fact, you could tap on anyone's username to reveal who their best friends were. Due to privacy concerns from Snapchat users, the best friends feature was taken away via an update in 2015.
 
  You can still see your own best friends from the chat tab; tap**Best Friends** to see your list.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What Are Snapchat Emojis?
 
@@ -207,15 +207,17 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-video-files.techidaily.com/updated-carving-a-path-individuality-in-the-face-of-tiktok-influencers-for-2024/"><u>[Updated] Carving a Path Individuality in the Face of TikTok Influencers for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-unleash-potential-essential-windows-10-skills-review/"><u>[Updated] Unleash Potential Essential Windows 10 Skills Review</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-android-phone-not-powering-up-despite-being-connected-to-charger/"><u>Fixing Android Phone Not Powering Up Despite Being Connected to Charger</u></a></li>
-<li><a href="https://fox-that.techidaily.com/fixing-the-frozen-hey-siri-17-proven-steps-to-reactivate-iphone-voice-command-feature/"><u>Fixing the Frozen 'Hey Siri': 17 Proven Steps to Reactivate iPhone Voice Command Feature</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/gear-up-your-new-iphone-with-the-latest-anker-chargers-the-ultimate-guide-for-smart-shoppers-insights-from-zdnet/"><u>Gear Up Your New iPhone with the Latest Anker Chargers: The Ultimate Guide for Smart Shoppers - Insights From ZDNet</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/imovie-why-does-it-alter-my-videos-in-2024/"><u>IMovie Why Does It Alter My Videos, In 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/mastering-mobile-connectivity-fixing-authentication-hitches-on-android-devices/"><u>Mastering Mobile Connectivity: Fixing Authentication Hitches on Android Devices</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/rectify-not-found-libxml2dll-error-with-easy-steps-for-windows-and-mac-users/"><u>Rectify 'Not Found: libxml2.dll' Error with Easy Steps for Windows and Mac Users</u></a></li>
-<li><a href="https://win-latest.techidaily.com/setting-up-password-only-protection-without-security-questions-in-windows-11/"><u>Setting Up Password-Only Protection Without Security Questions in Windows 11</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/top-6-best-free-editors-instead-of-adobe-photoshop/"><u>Top 6 Best Free Editors Instead of Adobe Photoshop</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-gaining-insights-how-to-ask-the-right-questions/"><u>[New] Gaining Insights How to Ask the Right Questions</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-how-to-personalize-and-change-ringtones-on-your-iphone-in-2024/"><u>[Updated] How to Personalize and Change Ringtones on Your iPhone, In 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-optimal-webcam-options-for-professional-zoom-use/"><u>2024 Approved Optimal Webcam Options for Professional Zoom Use</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/expert-tips-for-rectifying-unresponsive-usb-ports-on-your-notebook-computer/"><u>Expert Tips for Rectifying Unresponsive USB Ports on Your Notebook Computer</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/explore-pubg-minimum-and-recommended-specs-optimize-your-gaming-experience/"><u>Explore PUBG Minimum & Recommended Specs – Optimize Your Gaming Experience</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/fixes-and-solutions-successfully-installing-oculus-on-windows-11-and-10/"><u>Fixes & Solutions: Successfully Installing Oculus on Windows 11 and 10</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/guide-to-deactivate-microsofts-cortana-assistant-for-windows-11-users/"><u>Guide to Deactivate Microsoft's Cortana Assistant for Windows 11 Users</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-disable-avast-antivirus-temporarily/"><u>How to Disable Avast Antivirus Temporarily</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-get-out-of-dfu-mode-on-iphone-12-pro-max-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Get Out of DFU Mode on iPhone 12 Pro Max? | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-top-picks-for-optimal-cloud-space-solutions/"><u>In 2024, Top Picks for Optimal Cloud Space Solutions</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolve-unseen-second-display-in-win1110/"><u>Resolve Unseen Second Display in Win11/10</u></a></li>
+<li><a href="https://media-tips.techidaily.com/ultimate-methods-for-playing-converting-and-sharing-aviasf-videos-on-any-device/"><u>Ultimate Methods for Playing, Converting & Sharing AVI/ASF Videos on Any Device</u></a></li>
 </ul></div>
 

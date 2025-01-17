@@ -1,7 +1,7 @@
 ---
 title: "Unveiling the New Nothing Phone 3: Anticipated Costs, Launch Timeline & Key Features Revealed"
-date: 2024-08-26T05:57:31.853Z
-updated: 2024-08-27T05:57:31.853Z
+date: 2025-01-10T19:50:53.293Z
+updated: 2025-01-16T21:37:19.326Z
 categories:
   - BestProducts
 description: "This Article Describes Unveiling the New Nothing Phone 3: Anticipated Costs, Launch Timeline & Key Features Revealed"
@@ -50,16 +50,14 @@ Patent US8929085B2.
 
  Could it be worked into a foldable phone? We are eagerly waiting to see how/if they use these inventions.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ### Lifewire's Release Date Estimate
 
 We don’t expect a foldable iPhone until at least 2026.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Foldable iPhone Price Rumors
 
  It won’t be cheap. Phones are increasingly approaching or even exceeding $1,000\. Just look at the[iPhone 15 Pro Max](https://www.lifewire.com/iphone-15-5202683) which starts at just over a grand.
@@ -73,8 +71,9 @@ We don’t expect a foldable iPhone until at least 2026.
 ![iPhone Fold concept](https://www.lifewire.com/thmb/rZm7q7oXYP54-AV8Jq5MPj1vPos=/960x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Final_1-d0db91df8e834c7ab0aa2da0ab61b943.png)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 iPhone Fold concept.
 
 Michal Dufka
@@ -84,8 +83,9 @@ Michal Dufka
  It's way too early to suggest a pre-order date, but we'll keep this updated as the launch nears.  
 
 <!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Foldable iPhone Features
 
  Over the years, as phones have gotten larger, we’ve enjoyed more screen real estate for things like reading, watching movies, playing games, and multitasking. A foldable phone is perfect for these activities.
@@ -99,8 +99,9 @@ Michal Dufka
  When it comes down to it, a foldable phone is beneficial purely for its bigger screen. Since this would be Apple’s first attempt at this kind of phone, it’d probably be the only significant change to the iPhone that year. Meaning: no stunning new camera, massive storage capacity boost, etc. (though maybe a big battery boost).
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Foldable iPhone Specs and Hardware
 
  So how will the iPhone Flip work? It’s anyone’s guess, but there are a few options: one large, foldable screen like the Galaxy Fold; two separate screens that fold over a purposefully visible hinge like the[Surface Duo](https://www.lifewire.com/microsoft-surface-duo-review-5113055) ; or_three_ screens—two regular ones and a third for when the device is in its folded position.
@@ -126,8 +127,9 @@ Michal Dufka
  Bolstering the battery, processing power, and RAM will be a must to sustain multiple displays that could all independently multitask. Storage space might not change from the current iPhone lineup.
 
 <!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## The Latest News About the Foldable iPhone
 
  You can [get more smartphone news from Lifewire](https://www.lifewire.com/mobile-phone-news-4796390) . Here are some of the latest stories about foldable phones in particular:  
@@ -138,14 +140,11 @@ Michal Dufka
 
 [Sony Foldable Phone: News and Expected Price, Release Date, Specs; and More Rumors](https://www.lifewire.com/sony-foldable-phone-7553435)
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -154,4 +153,24 @@ Michal Dufka
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-an-introduction-to-simple-and-effective-hdr-methods/"><u>2024 Approved An Introduction to Simple and Effective HDR Methods</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/a-guide-to-aether-understanding-its-core-and-steps-for-participation/"><u>A Guide to Aether - Understanding Its Core and Steps for Participation</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/catching-every-dribble-live-coverage-of-mens-ncaa-basketball-from-march-madness-to-championship-game/"><u>Catching Every Dribble: Live Coverage of Mens NCAA Basketball From March Madness to Championship Game</u></a></li>
+<li><a href="https://win11.techidaily.com/combat-reduced-desktop-icon-dimensions-on-windows-11/"><u>Combat Reduced Desktop Icon Dimensions on Windows 11</u></a></li>
+<li><a href="https://win-blog.techidaily.com/curing-the-lag-in-grand-theft-auto-v-effective-solutions/"><u>Curing the Lag in Grand Theft Auto V – Effective Solutions</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/download-unique-fonts-for-your-iphone-a-comprehensive-walkthrough/"><u>Download Unique Fonts for Your iPhone - A Comprehensive Walkthrough</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/gestion-optimale-des-disques-dur-sous-windows-amelioree-par-le-logiciel-ghost-choix-incontournable-pour-les-experts-informatiques/"><u>Gestion Optimale Des Disques Dur Sous Windows Améliorée Par Le Logiciel Ghost - Choix Incontournable Pour Les Experts Informatiques</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-easy-guide-how-to-bypass-honor-magic-vs-2-frp-android-10111213-by-drfone-android/"><u>In 2024, Easy Guide How To Bypass Honor Magic Vs 2 FRP Android 10/11/12/13</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-can-i-get-more-stardust-in-pokemon-go-on-oppo-a58-4g-drfone-by-drfone-virtual-android/"><u>In 2024, How can I get more stardust in pokemon go On Oppo A58 4G? | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/is-facebook-marketplace-missing-from-my-profile-heres-why-and-what-you-can-do/"><u>Is Facebook Marketplace Missing From My Profile? Here's Why and What You Can Do!</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/mastering-the-fix-effective-strategies-when-your-user32dll-is-missing/"><u>Mastering the Fix: Effective Strategies When Your User32.dll Is Missing</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/revive-lost-correspondence-a-comprehensive-tutorial-for-finding-misplaced-emails-in-gmail/"><u>Revive Lost Correspondence: A Comprehensive Tutorial for Finding Misplaced Emails in Gmail</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/revolutionize-your-recording-experience-top-18-cam-tools-showcase/"><u>Revolutionize Your Recording Experience - Top 18 Cam Tools Showcase</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-social-media-puzzle-deciphering-retweets-and-re-tweets/"><u>The Social Media Puzzle: Deciphering 'Retweets' And 'Re-Tweets'</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/top-10-video-editing-software-pick-of-the-year-best-choices-for-your-pc/"><u>Top 10 Video Editing Software Pick of the Year: Best Choices for Your PC</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unlock-endless-reading-options-find-and-save-money-with-these-17-book-downloads-sites/"><u>Unlock Endless Reading Options: Find and Save Money with These 17 Book Downloads Sites</u></a></li>
+<li><a href="https://win-dash.techidaily.com/update-your-system-with-the-newest-intel-hd-4400-graphics-card-drivers/"><u>Update Your System with the Newest Intel HD 4400 Graphics Card Drivers</u></a></li>
+</ul></div>
 

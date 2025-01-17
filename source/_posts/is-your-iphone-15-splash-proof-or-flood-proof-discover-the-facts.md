@@ -1,7 +1,7 @@
 ---
 title: Is Your IPhone 15 Splash Proof or Flood Proof? Discover the Facts!
-date: 2024-08-20T10:02:01.762Z
-updated: 2024-08-21T10:02:01.762Z
+date: 2025-01-13T19:00:12.201Z
+updated: 2025-01-16T17:03:26.303Z
 categories:
   - BestProducts
 description: This Article Describes Is Your IPhone 15 Splash Proof or Flood Proof? Discover the Facts!
@@ -18,6 +18,10 @@ thumbnail: https://www.lifewire.com/thmb/6g5JDO8Lu0fWrxjcvM1ESmI93f4=/400x300/fi
 
  Netflix's DVD program included some TV shows and movies that weren't available through[their streaming service](https://www.lifewire.com/overview-of-the-netflix-streaming-service-1847831) . You could watch both DVDs and Blu-rays, and there were a few plans to pick from depending on how many discs you wanted to borrow at once.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Netflix's DVD Plans
 
  There are three DVD Netflix plans. All of them offer unlimited discs per month, no late fees, free shipping and returns, DVDs and Blu-rays, and no long-term commitment (just month-by-month).
@@ -29,28 +33,31 @@ thumbnail: https://www.lifewire.com/thmb/6g5JDO8Lu0fWrxjcvM1ESmI93f4=/400x300/fi
 * **Premium** : $19.99 /month; three discs at a time
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Sign Up for DVD Netflix
 
  If you’re already subscribed to Netflix’s streaming service, follow these steps, otherwise skip down to the next set of instructions:
 
  These directions are for using a desktop web browser, but you can also sign up with the DVD Netflix mobile app.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
-<!-- affiliate ads end -->
 ### Existing Users
 
 1. Visit DVD Netflix and sign in with your Netflix information.
 2. Choose**Add DVD Plan** .  
 ![Netflix Add DVD Plan button](https://www.lifewire.com/thmb/Uh6KVZq2Icc6DLgr76WSO5J6VpQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/netflix-add-dvd-plan-239476fd7dbc48c398d157361b9b4dba.png)
 3. Select the plan you want to subscribe to, and then choose**Get Started** .  
-<!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Netflix DVD plans](https://www.lifewire.com/thmb/uPDzNtMV66dcBkk8Rbo7T-7ekq8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/dvd-netflix-prices-30f879c3750545099db9e01e04334ae2.png)
 4. Fill out your shipping information, and then select**Start** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### New Users
 
@@ -60,17 +67,20 @@ thumbnail: https://www.lifewire.com/thmb/6g5JDO8Lu0fWrxjcvM1ESmI93f4=/400x300/fi
 2. Select**Sign Up** .  
 ![DVD Netflix sign up button](https://www.lifewire.com/thmb/NCQ1shSEvKeXqCYIEdWZYEWasfA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/dvd-netflix-2b9f1a1370d042f7bbc87dde135db231.png)
 3. Choose the plan you want, and then select**Get Started** .  
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
-<!-- affiliate ads end -->
 ![DVD Netflix plan options](https://www.lifewire.com/thmb/1IHiA9MQesi6AeoZW2OuFx4JbUc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/dvd-netflix-pricing-fa3f2e4b64fa4137ac42d44abc0c8d19.png)
 4. Enter your email address, choose a password, and then select**Continue** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Enter your shipping information, and then press**Continue** .
 6. Provide payment details, and then select**Start Membership** .
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Choose DVDs
 
  Netflix automatically sends DVDs to you based on what you've added to your personal queue. The order in which you receive them is based on the way they're arranged within the queue.
@@ -84,35 +94,33 @@ thumbnail: https://www.lifewire.com/thmb/6g5JDO8Lu0fWrxjcvM1ESmI93f4=/400x300/fi
 1. From DVD Netflix, select**Add to Queue** or**Add** , depending on the screen you're looking at, next to any DVD you want.  
 ![DVD Netflix Add to Queue button](https://www.lifewire.com/thmb/3_4_AW0IsPIrCM861X44RVIPLxc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/dvd-netflix-add-to-queue-d48f9e0f986242f98683ce1ee0581732.png)  
  To add a whole season of a TV show, pick the season you want to rent and choose**Add All to Queue** .  
+
 <!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![DVD Netflix Add All to Queue button](https://www.lifewire.com/thmb/4jU-S_bFoGdZ4nf5ZGnyf6fxTY8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/dvd-netflix-add-all-to-queue-bdfdf210723748faaac13e57e6679b7e.png)  
  You can find titles by searching by name, people, or genre. There's also a**Browse** menu for locating popular movies, new releases, and Netflix's top 100 titles.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 2. Open your queue via the**QUEUE** menu at the top of the site to manage the DVDs. You can adjust the order by dragging the titles up and down. Delete an item by hovering your mouse over it and selecting the trash icon.  
 ![DVD Netflix Queue](https://www.lifewire.com/thmb/x6QarMAaIe0NyqowLEYhKYw2Z1k=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/dvd-netflix-queue-ab624110eea644f1b0b4d462894431ea.png)
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ### With the Mobile App
 
  Mobile users can manage the DVD Netflix queue as well. Tap the plus sign to add a movie to TV show to the queue, and use the disc icon at the top right to edit the order or remove DVDs.
 
 ![DVD Netflix Android app](https://www.lifewire.com/thmb/ii9vuANqrg_bkNWRzzL_j3kfJ0Q=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/dvd-netflix-app-android-7a1276941cdd4127bdefa7be8a7bc832.png)
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Return Netflix DVDs
 
  You have to return DVDs to Netflix in order to get the next one from your queue.
 
  Returning your rented DVDs to Netflix is easy. Just put the disc into the sleeve and envelope that came with it when you received it, and then put it in your mailbox or drop it off at a local post office.
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Cancel DVD Netflix
 
  You can leave the DVD Netflix program at any time to stop getting DVDs from Netflix.
@@ -131,9 +139,6 @@ thumbnail: https://www.lifewire.com/thmb/6g5JDO8Lu0fWrxjcvM1ESmI93f4=/400x300/fi
 5. Scroll down and choose**Yes, cancel my account** .  
 ![DVD Netflix confirm cancel screen](https://www.lifewire.com/thmb/3APn5Z7GYqY6Ttv_8RKqLWKM9eg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/dvd-netflix-confirm-cancel-fc127afe34264138af39754bb77e0c7a.png)
 6. Choose**Done** on the final page.
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
 Was this page helpful?
 
@@ -155,8 +160,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -164,4 +167,23 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-links.techidaily.com/new-top-9-live-stream-networks-revealed-secrets/"><u>[New] Top 9 Live Stream Networks - Revealed Secrets</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-boost-podcast-visibility-through-strategic-seo-tactics-for-2024/"><u>[Updated] Boost Podcast Visibility Through Strategic SEO Tactics for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-unlocking-subscriber-success-youtubes-best-practices/"><u>[Updated] In 2024, Unlocking Subscriber Success YouTube's Best Practices</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-agriplay-squad-top-10-farming-games-to-bond-over/"><u>2024 Approved AgriPlay Squad Top 10 Farming Games to Bond Over</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/alternative-techniques-opening-your-iphones-sim-card-bay-without-a-puncher/"><u>Alternative Techniques: Opening Your iPhone's SIM Card Bay Without a Puncher</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/disabling-auto-play-feature-in-apple-music-a-step-by-step-guide/"><u>Disabling Auto-Play Feature in Apple Music: A Step-by-Step Guide</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210375265-9781786786432-how-to-be-highly-sensitive-and-empowered/"><u>How To Be Highly Sensitive and Empowered | Free Book</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-link-your-nintendo-switch-device-to-your-televisor-a-complete-walkthrough/"><u>How to Link Your Nintendo Switch Device to Your Televisor: A Complete Walkthrough</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-pair-a-different-receiver-with-your-logitech-wireless-device/"><u>How to Pair a Different Receiver With Your Logitech Wireless Device</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-full-guide-to-catch-100-iv-pokemon-using-a-map-on-xiaomi-redmi-note-13-proplus-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Catch 100 IV Pokémon Using a Map On Xiaomi Redmi Note 13 Pro+ 5G | Dr.fone</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-step-wise-technique-turn-video-upside-down-in-vlc-media-player/"><u>In 2024, Step-Wise Technique Turn Video Upside Down in VLC Media Player</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/iphone-15-pro-max-versus-samsung-s24-ultra-showdown-what-sets-them-apart/"><u>IPhone 15 Pro Max versus Samsung S24 Ultra Showdown: What Sets Them Apart?</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/mastering-hidden-path-finder-functionality-the-definitive-tutorial-for-quick-access-navigation/"><u>Mastering Hidden Path Finder Functionality: The Definitive Tutorial for Quick Access Navigation</u></a></li>
+<li><a href="https://win11.techidaily.com/mending-a-broken-path-with-win11s-ccleaner/"><u>Mending a Broken Path with Win11's CCleaner</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/sneak-peek-at-instagram-stories-and-posts-without-an-official-profile/"><u>Sneak Peek at Instagram Stories & Posts without an Official Profile</u></a></li>
+<li><a href="https://android-frp.techidaily.com/ultimate-guide-from-samsung-galaxy-m34-frp-bypass-by-drfone-android/"><u>Ultimate Guide from Samsung Galaxy M34 FRP Bypass</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Discover the Premiere Apple Watch Accessory: A Comprehensive Look at Our Favorite Titanium Band, Featured"
-date: 2025-01-04T03:35:50.771Z
-updated: 2025-01-11T10:24:52.780Z
+date: 2025-01-11T23:57:16.140Z
+updated: 2025-01-16T21:42:47.190Z
 tags:
   - apple
 categories:
@@ -60,6 +60,10 @@ Maria Diaz/ZDNET
 * In the Notes app, users can **record and transcribe audio**, which Apple Intelligence will generate a text summary of. This experience is also available in the Notes phone app.
 * Apple Intelligence is free on iOS 18, iPadOS 18, and MacOS Sequoia, and will be available to try in English only this summer.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Partnership with OpenAI
 
 Jason Hiner/ZDNET
@@ -67,10 +71,6 @@ Jason Hiner/ZDNET
 * Apple also confirmed its partnership with OpenAI by integrating [ChatGPT](https://www.zdnet.com/article/what-is-chatgpt-and-why-does-it-matter-heres-everything-you-need-to-know/) with Siri. With a user's permission, Siri can send a request to ChatGPT for help. For example, if you ask Siri for assistance on a task it deems better for ChatGPT, Siri will suggest you use the chatbot instead and forward your request. ChatGPT's writing capabilities can also be leveraged within certain writing tasks.
 * Users can access ChatGPT via this integration for free, and OpenAI will not log their data. ChatGPT Plus users can connect their subscriptions to access more advanced features, in which case OpenAI's data usage policies apply.
 * The ChatGPT integration will be coming to iOS 18, iPadOS 18, and MacOS Sequoia later this year.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## iOS 18
 
@@ -104,6 +104,10 @@ Adam Breeden/ZDNET
 * **Check In** is available on Apple Watch, even during workouts, to help users stay safe. **Translate** is also coming to Apple Watch so users can translate text right from their wrists.
 * Another notable change is that the **double tap gesture** can be used to scroll through apps.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## iPadOS 18
 
 Adam Breeden/ZDNET
@@ -113,10 +117,6 @@ Adam Breeden/ZDNET
 * In a long-awaited release, iPads will now have a **[calculator app](https://www.zdnet.com/article/after-14-years-apple-expected-to-unveil-the-ipad-app-weve-all-been-waiting-for-at-wwdc/)** for the first time, complete with the same interface as the one currently found on iPhones. Plus, users can use it with the Apple Pencil through a new **Math Notes** experience, which allows users to write expressions that the calculator app will solve for them once they type the equal sign, in their own handwriting,
 * Handwriting in Notes also got an upgrade with **Smart** **Script**, which refines users' writing to make it more legible while keeping the authenticity of the user's handwriting style. The feature can also match copied and pasted text to the user's handwriting. Typed text was also enhanced, with five new highlight colors and the ability to toggle sections under headings or subheadings.
 * iPadOS 18 supports **screen-sharing via SharePlay** and the same Control Center customizations, Photos app upgrades, Safari updates, and emoji Tapbacks found in **iOS 18.**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## MacOS 15 (Sequoia)
 
@@ -130,7 +130,7 @@ Adam Breeden/ZDNET
 * Apple also launched a new **Viewer experience**, which does for video what Reader does for text.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## VisionOS 2
@@ -151,7 +151,7 @@ Jason Hiner/ZDNET
 * Apple is also making the Vision Pro available in more countries starting June 28\. You can see the full list [here](https://www.apple.com/newsroom/2024/06/apple-vision-pro-arrives-in-new-countries-and-regions-beginning-june-28/).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## AirPods
@@ -163,7 +163,7 @@ Jason Hiner/ZDNET
 * Apple is also releasing a **Personalized Spatial Audio API** for game developers to build around the AirPods' audio technology.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## tvOS 18
@@ -210,22 +210,18 @@ Screenshot by Nina Raemont/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-mastering-zoom-establishing-a-top-tier-video-conferencing-space/"><u>[Updated] 2024 Approved Mastering Zoom Establishing a Top-Tier Video Conferencing Space</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-in-2024-uncluttered-window-logger-w10-version/"><u>[Updated] In 2024, Uncluttered Window Logger W10 Version</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-the-essential-checklist-for-yt-creator-mastery/"><u>[Updated] The Essential Checklist for YT Creator Mastery</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/battle-of-the-titans-how-to-decide-between-a-google-pixel-watch-and-an-apple-watch-series-nine-for-unmatched-smartwatch-excellence/"><u>Battle of the Titans: How to Decide Between a Google Pixel Watch and an Apple Watch Series Nine for Unmatched Smartwatch Excellence</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/comment-recuperer-des-photos-supprimees-de-votre-ordinateur-portable-lenovo/"><u>Comment Récupérer Des Photos Supprimées De Votre Ordinateur Portable Lenovo</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/durecorder-uncovered-features-and-analysis/"><u>DuRecorder Uncovered Features and Analysis</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/how-to-seamlessly-sync-apple-homepod-with-your-television-device/"><u>How to Seamlessly Sync Apple HomePod With Your Television Device</u></a></li>
-<li><a href="https://driver-download.techidaily.com/install-latest-hp-officejet-pro-6970-drivers-and-software-step-by-step-guide-for-window-users/"><u>Install Latest HP OfficeJet Pro 6970 Drivers & Software: Step-by-Step Guide for Window Users</u></a></li>
-<li><a href="https://techtrends.techidaily.com/navigating-your-macs-deepest-corners-with-terminal-how-to-find-and-show-hidden-files/"><u>Navigating Your Mac's Deepest Corners with Terminal: How to Find and Show Hidden Files</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/say-goodbye-to-clutter-master-the-simple-technique-for-a-cleaner-email-experience-discover-how/"><u>Say Goodbye to Clutter: Master the Simple Technique for a Cleaner Email Experience – Discover How</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/top-ranking-iphone-devices-unveiled-by-tech-experts-comprehensive-reviews/"><u>Top-Ranking iPhone Devices Unveiled by Tech Experts - Comprehensive Reviews</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/top-rated-smartwatches-in-depth-reviews-by-tech-experts/"><u>Top-Rated Smartwatches : In-Depth Reviews by Tech Experts</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/ultimate-guide-eradicating-permanent-display-impressions-on-screens/"><u>Ultimate Guide: Eradicating Permanent Display Impressions on Screens</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/ultimate-tutorial-on-creating-an-oculus-quest-or-quest-2-profile/"><u>Ultimate Tutorial on Creating an Oculus Quest or Quest 2 Profile</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/unveiling-our-selection-of-leading-learning-applications/"><u>Unveiling Our Selection of Leading Learning Applications</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/velocity-vision-speed-up-videos-on-android-for-2024/"><u>Velocity Vision Speed Up Videos on Android for 2024</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/windows-1011avi/"><u>Windows 10/11で効率良くAVI動画再生のコツ</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-download-youtube-gallery-files-instantly/"><u>[New] 2024 Approved Download YouTube Gallery Files Instantly</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-mac-screenshot-format-reconfiguration-guide/"><u>[New] Mac Screenshot Format Reconfiguration Guide</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-ultimate-guide-to-slomo-videography-app-review-update-for-2024/"><u>[New] Ultimate Guide to SloMo Videography App Review Update for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-8-hit-virtual-reality-titles-for-oculus-enthusiasts/"><u>[Updated] 2024 Approved 8 Hit Virtual Reality Titles for Oculus Enthusiasts</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-windows-hdplus-insights-exploring-hdr-video-potential/"><u>[Updated] In 2024, Windows HD+ Insights Exploring HDR Video Potential</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-low-cost-cloud-vaulting-for-massive-file-stashing/"><u>[Updated] Low Cost Cloud Vaulting for Massive File Stashing</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-top-15-essential-gopro-accessories-for-newbies/"><u>[Updated] Top 15 Essential GoPro Accessories for Newbies</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/solving-the-persistent-problem-of-sticky-keys-in-windows-computers/"><u>Solving the Persistent Problem of Sticky Keys in Windows Computers</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-guide-booting-your-computer-using-usb-dvd-or-cd/"><u>Step-by-Step Guide: Booting Your Computer Using USB, DVD, or CD</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-guide-erasing-android-viruses-without-the-need-for-factory-resetting/"><u>Step-by-Step Guide: Erasing Android Viruses without the Need for Factory Resetting</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-guide-setting-up-multiple-gpus-with-nvidias-scalable-link-interface/"><u>Step-by-Step Guide: Setting Up Multiple GPUs with Nvidia's Scalable Link Interface</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-guide-setting-up-your-wifi-printer/"><u>Step-by-Step Guide: Setting Up Your WiFi Printer</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-guide-turning-off-auto-driver-updates-in-windows-11/"><u>Step-by-Step Guide: Turning Off Auto Driver Updates in Windows 11</u></a></li>
 </ul></div>
 

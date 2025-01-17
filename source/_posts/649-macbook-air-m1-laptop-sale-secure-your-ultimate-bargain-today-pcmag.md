@@ -1,7 +1,7 @@
 ---
 title: "$649 MacBook Air M1 Laptop Sale: Secure Your Ultimate Bargain Today! | PCMag"
-date: 2025-01-10T03:57:44.047Z
-updated: 2025-01-11T03:49:46.227Z
+date: 2025-01-15T20:28:59.326Z
+updated: 2025-01-17T00:35:20.164Z
 tags:
   - apple
 categories:
@@ -42,7 +42,7 @@ At $649, this is the lowest price for the M1 version of the MacBook Air that we'
 The [M1 MacBook Air](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fmacbook-air-13-3-laptop-apple-m1-chip-8gb-memory-256gb-ssd-space-gray-space-gray%2F5721600.p%3FskuId%3D5721600&publisher_slug=itechdaily19598&exclusive=1) first retailed for $999 when it was released, but Apple sells refurbished versions for $799, making these deals even better than anything Apple is offering. The [M1 MacBook Air](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FApple-MacBook-Air-13-3-inch-Laptop-Silver-M1-Chip-8GB-RAM-256GB-storage%2F609040889&subId1=zd-__COM_CLICK_ID__-dtp) is available in three different colors: gold, space gray, and silver. Snag these savings while you can. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -81,17 +81,24 @@ However, deals are subject to sell out or expire at any time, though ZDNET remai
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-2024-approved-essential-skills-for-successful-interviews/"><u>[New] 2024 Approved Essential Skills for Successful Interviews</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-acclaimed-15-video-filters-to-elevate-gopro-cinematography/"><u>[New] Acclaimed 15 Video Filters to Elevate GoPro Cinematography</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-gopro-hero5-black-vs-yi-4k-latest-camera-showdown/"><u>[New] GoPro Hero5 Black VS Yi 4K - Latest Camera Showdown</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-most-compelling-5-ios-podcast-solutions-for-2024/"><u>[Updated] Most Compelling 5 iOS Podcast Solutions for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/celebrate-pride-with-these-amazing-lgbtq-show-selections-on-netflix-for-july-2024/"><u>Celebrate Pride with These Amazing LGBTQ Show Selections on Netflix for July 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/decoding-wireless-standards-everything-you-need-to-know-about-80211-be-ax-ac-bgn-and-a/"><u>Decoding Wireless Standards: Everything You Need to Know About 802.11 Be, Ax, Ac, B/G/N & A</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/exploring-the-importance-of-a-dac-in-your-audio-system/"><u>Exploring the Importance of a DAC in Your Audio System</u></a></li>
-<li><a href="https://article-tips.techidaily.com/in-2024-peering-into-the-heart-of-4k-vision-with-benqs-ultra-hd-model-bl2711u/"><u>In 2024, Peering Into the Heart of 4K Vision with BenQ’s Ultra HD Model, BL2711U</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/lollipop-lens-detailed-analysis-and-how-to-for-sweet-filming/"><u>Lollipop Lens Detailed Analysis & How-To for Sweet Filming</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/step-by-step-approach-to-address-black-screen-problem-even-when-pc-is-powered-on/"><u>Step-by-Step Approach to Address Black Screen Problem Even When PC Is Powered ON</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/the-6-most-popular-destinations-for-viewing-music-videoclips-on-the-web/"><u>The 6 Most Popular Destinations for Viewing Music Videoclips on the Web</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/the-best-of-2013-a-deep-dive-into-creative-labs-sound-blaster-zxr-headset-review/"><u>The Best Of 2013: A Deep Dive Into Creative Lab's Sound Blaster ZxR Headset Review</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-expert-guide-amplifying-your-tiktok-post-reach-with-hashtags-for-2024/"><u>[New] Expert Guide Amplifying Your TikTok Post Reach with Hashtags for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-transform-viewership-elevate-your-live-stream-game-with-just-a-few-supporters/"><u>[New] Transform Viewership Elevate Your Live Stream Game with Just a Few Supporters</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-prestigious-top-8-sites-combining-vivid-3d-graphics-and-luxe-text/"><u>[Updated] 2024 Approved Prestigious Top 8 Sites Combining Vivid 3D Graphics & Luxe Text</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-cyberlink-reviewed-precision-in-video-capturing-for-2024/"><u>[Updated] Cyberlink Reviewed Precision in Video Capturing for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/8-things-to-consider-before-buying-a-desktop-pc/"><u>8 Things to Consider Before Buying a Desktop PC</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/detecting-deceitful-networking-tips-for-uncovering-phony-social-invites-on-the-internet/"><u>Detecting Deceitful Networking: Tips for Uncovering Phony Social Invites on the Internet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discover-the-ultimate-guide-to-best-visual-voicemail-apps/"><u>Discover The Ultimate Guide to Best Visual Voicemail Apps</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/diy-fixes-for-chromecast-speaker-problems-getting-your-sounds-back/"><u>DIY Fixes for Chromecast Speaker Problems - Getting Your Sounds Back!</u></a></li>
+<li><a href="https://techtrends.techidaily.com/easy-methods-for-deleting-facebook-photographs-a-step-by-step-tutorial/"><u>Easy Methods for Deleting Facebook Photographs - A Step-by-Step Tutorial</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/1722886655628-fixing-computer-screen-discoloration-and-distortion-effective-solutions-inside/"><u>Fixing Computer Screen Discoloration and Distortion – Effective Solutions Inside!</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-oppo-find-x6-pro-device-by-drfone-android/"><u>Mastering Android Device Manager The Ultimate Guide to Unlocking Your Oppo Find X6 Pro Device</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/oculus-rift-s-mic-problem-try-these-5-quick-fixes-for-immediate-results/"><u>Oculus Rift S Mic Problem? Try These 5 Quick Fixes for Immediate Results</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/simple-guide-updating-your-default-sata-and-ahci-drive-controllers/"><u>Simple Guide: Updating Your Default SATA and AHCI Drive Controllers</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-solutions-for-fixing-zoom-camera-malfunctions/"><u>Step-by-Step Solutions for Fixing Zoom Camera Malfunctions</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-ultimate-guide-to-snappy-driver-installer-v1n13-performance-review-and-insights/"><u>The Ultimate Guide to Snappy Driver Installer v1.n13: Performance Review and Insights</u></a></li>
+<li><a href="https://driver-error.techidaily.com/this-is-an-article-for-this-case-the-daylightning-disease-of-the-other-handicaps/"><u>This Is an Article for This Case the Daylightning Disease of the Other Handicaps</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/transforming-ai-with-context-the-breakthrough-significance-of-gemini-v15-and-its-one-million-token-enhancement/"><u>Transforming AI with Context: The Breakthrough Significance of Gemini v1.5 and Its One Million Token Enhancement</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/understanding-and-repairing-faults-identified-during-power-on-self-test-post/"><u>Understanding and Repairing Faults Identified During Power-On Self Test (POST)</u></a></li>
+<li><a href="https://meme-emoji.techidaily.com/updated-in-2024-best-10-emoji-makers-to-create-your-own-emojispconlineandroidiphone/"><u>Updated In 2024, Best 10 Emoji Makers to Create Your Own EmojisPC/Online/Android/iPhone</u></a></li>
 </ul></div>
 

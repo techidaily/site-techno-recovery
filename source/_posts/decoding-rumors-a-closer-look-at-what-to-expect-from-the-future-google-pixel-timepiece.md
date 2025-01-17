@@ -1,7 +1,7 @@
 ---
 title: "Decoding Rumors: A Closer Look at What to Expect From the Future Google Pixel Timepiece"
-date: 2024-08-26T05:59:59.855Z
-updated: 2024-08-27T05:59:59.855Z
+date: 2025-01-09T18:09:04.838Z
+updated: 2025-01-16T21:49:07.508Z
 categories:
   - BestProducts
 description: "This Article Describes Decoding Rumors: A Closer Look at What to Expect From the Future Google Pixel Timepiece"
@@ -21,33 +21,34 @@ In This Article
 
  A new Google TV streaming device appears to be in the works. The so-called Google TV Streamer will likely function much like the[Chromecast](https://www.lifewire.com/guide-to-chromecast-2438213) , but that's where their likeness ends. This device loses the dongle form factor and includes a redesigned remote with a customizable button.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## When Will the Google TV Streamer Be Released?
 
  Rumors say the company will announce this Google TV streaming device at[the next Google event](https://www.lifewire.com/google-event-5205756) in August. This is the same event poised to introduce several other Google products like the[Pixel Watch 3](https://www.lifewire.com/google-pixel-watch-3-8431024) and[Pixel 9 smartphone](https://www.lifewire.com/google-pixel-9-8630767) .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Lifewire's Release Date Estimate
 
 August 13 is our best guess.
 
 <!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Google TV Streamer Price Rumors
 
  The only reference point we have to price this new[streaming device](https://www.lifewire.com/what-is-a-streaming-device-5208767) is Google's 4K Chromecast with Google TV, which is priced at $50\. They could easily drop that price and slot the Google TV Streamer in its place. If not, the most we can see Google charging for the Google TV Streamer is $70.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Pre-Order Information
 
  Pre-orders for the Google TV Streamer will probably start immediately following its announcement on August 13.
@@ -56,14 +57,8 @@ August 13 is our best guess.
 
 ![The Google TV Streamer and remote](https://www.lifewire.com/thmb/-vnWbTJuk9OzmaxhkBjEiqhYPRA=/960x0/filters:no_upscale():max_bytes(200000):strip_icc():format(webp)/google-tv-streamer-remote-f778bf371f604247a3e9592a4f4d4f6b.jpg)
 
-<!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
-<!-- affiliate ads end -->
 9to5Google
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Google TV Streamer Specs & Features
 
  In the picture above, you can see that, apart from the remote, this device looks nothing like the Chromecast with Google TV. Otherwise, we think it will work exactly like a Chromecast, letting you stream music and videos from online services and cast media to it from other devices.
@@ -78,15 +73,12 @@ August 13 is our best guess.
 
 ![Google TV Streamer remote](https://www.lifewire.com/thmb/a47wfU6UCU7urolc1HR8HsvT2D8=/960x0/filters:no_upscale():max_bytes(200000):strip_icc():format(webp)/Google-TV-Streamer-Remote-ee116f9ff7d44f16a632d2414517c129.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 9to5Google
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## The Latest News About the Google TV Streamer
 
  You can[read all the latest on streaming devices here on Lifewire](https://www.lifewire.com/streaming-news-4797038) . Below are some stories about Google products that you might find interesting.
@@ -97,14 +89,11 @@ August 13 is our best guess.
 
 [Chromecast vs. Roku: Which Streaming Device Is Better?](https://www.lifewire.com/chromecast-vs-roku-4580492)
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -113,4 +102,22 @@ August 13 is our best guess.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-techniques.techidaily.com/new-free-and-fantastic-the-top-10-lut-sources/"><u>[New] Free & Fantastic The Top 10 LUT Sources</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-in-2024-iphone-jokes-and-gag-collection/"><u>[New] In 2024, IPhone Jokes & Gag Collection</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-win11-savvy-essentials-you-cant-miss-for-2024/"><u>[Updated] Win11 Savvy Essentials You Can't Miss for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-kinemasters-secret-to-meme-making-mastery/"><u>2024 Approved KineMaster's Secret to Meme-Making Mastery</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/avoiding-common-pitfalls-ensuring-successful-ipad-to-printer-connections/"><u>Avoiding Common Pitfalls: Ensuring Successful iPad-to-Printer Connections</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/clear-guide-to-understanding-and-fixing-error-code-19-in-windows-environment/"><u>Clear Guide to Understanding and Fixing Error Code #19 in Windows Environment</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722958451907-compatible-sound-device-software-for-windows-pcs-get-them-here/"><u>Compatible Sound Device Software for Windows PCs - Get Them Here!</u></a></li>
+<li><a href="https://win-top.techidaily.com/dvdflac/"><u>DVDコレクションからファイルをFLACにアップグレード: ステップバイステップチュートリアル</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/expert-techniques-for-inserting-code-snippets-into-documents-in-ms-word/"><u>Expert Techniques for Inserting Code Snippets Into Documents in MS Word</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/get-more-done-on-facebook-uncover-5-effective-tips-to-boost-your-productivity/"><u>Get More Done on Facebook: Uncover 5 Effective Tips to Boost Your Productivity</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/360655-9781440650833-the-inner-west/"><u>The Inner West | Free Book</u></a></li>
+<li><a href="https://win-forum.techidaily.com/the-ultimate-tutorial-for-finding-and-erasing-threatening-android-programs-with-revouninstaller/"><u>The Ultimate Tutorial for Finding and Erasing Threatening Android Programs with RevoUninstaller</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/troubleshooting-netflixs-ui-80n-3-mishap-easy-fixes-you-should-know/"><u>Troubleshooting Netflix's UI-80n-3 Mishap - Easy Fixes You Should Know</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ultimate-guide-troubleshooting-steps-for-unresponsive-optical-drives/"><u>Ultimate Guide: Troubleshooting Steps for Unresponsive Optical Drives</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/understanding-espnpluss-streaming-platform-a-comprehensive-guide/"><u>Understanding ESPN+'s Streaming Platform: A Comprehensive Guide</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "MacOS Users' Tutorial: Refreshing and Purging the DNS Cache"
-date: 2025-01-06T23:30:34.040Z
-updated: 2025-01-11T09:02:02.277Z
+date: 2025-01-11T19:02:48.022Z
+updated: 2025-01-16T17:46:28.702Z
 categories:
   - BestProducts
 description: "This Article Describes MacOS Users' Tutorial: Refreshing and Purging the DNS Cache"
@@ -26,7 +26,7 @@ New Line Cinemas
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Watch 'The Lord of the Rings' in Chronological Order
@@ -47,7 +47,7 @@ New Line Cinemas
  If you think you're going to make it through this epic adventure in one sitting, you might be in for a surprise. The_Hobbit_ trilogy totals almost 8 hours._The Lord of the Rings_ trilogy is a whopping 9.5 hours. To watch all six, you'd have to sit for almost 17.5 hours straight. But don't worry, as Samwise Gamgee said, "It's the job that never started as takes longest to finish."
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Watch 'The Lord of the Rings' in Order of Release
@@ -66,7 +66,7 @@ New Line Cinemas
 | _The Hobbit: The Battle of the Five Armies_         | December 4, 2014  | Max                 | •Amazon Prime •Apple TV •Fandango at Home •Google Play •YouTube                                                                                                                                                                                                                             |
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Which Is the Right Order?
@@ -76,7 +76,7 @@ New Line Cinemas
  The bottom line is when it comes to_The Lord of the Rings_ , the end of each story tends to mold into the beginning of another. Or as Gandalf said, "For even the very wise cannot see all ends." The movies are so addictive you'll see them all from wherever you start. And back again.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When Does 'The Rings of Power' Take Place?
@@ -86,7 +86,7 @@ New Line Cinemas
  Completion fans will want to watch_The Rings of Power_ before the other two stories, but as it's still running, you can't see all of that story just yet.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What Is 'The Hunt for Gollum'?
@@ -137,17 +137,18 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-enhance-visibility-editing-igtv-video-texts-for-2024/"><u>[New] Enhance Visibility Editing IGTV Video Texts for 2024</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-earning-strategies-for-successful-youtube-shorts-must-haves-earnings-prospects-for-2024/"><u>[Updated] Earning Strategies for Successful Youtube Shorts Must-Haves, Earnings Prospects for 2024</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-top-youtube-cameras-a-guide-for-novices-and-pros/"><u>[Updated] In 2024, Top YouTube Cameras A Guide for Novices & Pros</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/choosing-the-right-sidekick-for-your-wrist-google-pixel-watch-3-vs-apple-watch-series-9-face-off/"><u>Choosing the Right Sidekick for Your Wrist: Google Pixel Watch 3 Vs. Apple Watch Series 9 Face-Off</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/complete-resolution-steps-for-not-detected-cygwin1dll-mishap/"><u>Complete Resolution Steps for 'Not Detected' cygwin1.dll Mishap</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/free-oculus-vr-headset-drivers-for-various-windows-versions-download-now/"><u>Free Oculus VR Headset Drivers for Various Windows Versions: Download Now!</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-can-i-use-a-fake-gps-without-mock-location-on-tecno-spark-10-pro-drfone-by-drfone-virtual-android/"><u>How Can I Use a Fake GPS Without Mock Location On Tecno Spark 10 Pro? | Dr.fone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/iphone-and-ipad-mastery-tips-for-smooth-zooming-techniques/"><u>IPhone & iPad Mastery: Tips for Smooth Zooming Techniques</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/step-by-step-guide-correcting-a-repost-mistake-on-tiktok/"><u>Step-by-Step Guide: Correcting a Repost Mistake on TikTok</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/understanding-apples-core-innovations-the-impact-of-silicon-rosetta-translation-and-m-series-chips-on-modern-computing-insights-for-consumers/"><u>Understanding Apple's Core Innovations: The Impact of Silicon, Rosetta Translation, and M-Series Chips on Modern Computing - Insights for Consumers</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/unveiling-top-7-crypto-creators-for-nft-conversion/"><u>Unveiling Top 7 Crypto-Creators for NFT Conversion</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/what-does-enter-puk-code-mean-and-why-did-the-sim-get-puk-blocked-on-samsung-galaxy-f34-5g-device-by-drfone-android/"><u>What Does Enter PUK Code Mean And Why Did The Sim Get PUK Blocked On Samsung Galaxy F34 5G Device</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-a-guide-for-mobile-filmmakers-on-crafting-youtube-thumbnails/"><u>[New] 2024 Approved A Guide for Mobile Filmmakers on Crafting YouTube Thumbnails</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-top-free-video-capture-apps-exploring-the-leaders/"><u>[New] In 2024, Top Free Video Capture Apps – Exploring the Leaders</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-the-most-engaging-sandbox-gaming-titles-for-2024/"><u>[New] The Most Engaging Sandbox Gaming Titles for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-9-metaverse-blueprints-illuminating-virtual-realities-for-2024/"><u>[Updated] 9 Metaverse Blueprints Illuminating Virtual Realities for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-metaverse-laughs-crafting-funny-virtual-memes-for-2024/"><u>[Updated] Metaverse Laughs Crafting Funny Virtual Memes for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-unlocking-the-secrets-of-advanced-virtualization/"><u>[Updated] Unlocking the Secrets of Advanced Virtualization</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-compreenhensive-guide-for-youtube-short-video-creators/"><u>2024 Approved Compreenhensive Guide for YouTube Short Video Creators</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-premier-strategies-in-sport-broadcasting-technology/"><u>2024 Approved Premier Strategies in Sport Broadcasting Technology</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/easy-methods-to-initiate-windows-boot-up-from-safe-mode-directly/"><u>Easy Methods to Initiate Windows Boot Up From Safe Mode Directly</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/easy-techniques-to-clean-up-your-facebook-picture-gallery/"><u>Easy Techniques to Clean Up Your Facebook Picture Gallery</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-building-your-virtual-persona-with-minimal-hassle/"><u>In 2024, Building Your Virtual Persona with Minimal Hassle</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-solution-how-to-recover-from-bsod-errors-on-your-pc/"><u>Step-by-Step Solution: How to Recover From BSOD Errors on Your PC</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/what-is-rcs-messaging/"><u>What Is RCS Messaging?</u></a></li>
 </ul></div>
 
