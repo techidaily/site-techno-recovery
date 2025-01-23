@@ -1,7 +1,7 @@
 ---
 title: Apple Targets Top Browser with Bone-Chilling Campaign Revealed
-date: 2025-01-07T00:36:10.628Z
-updated: 2025-01-11T06:38:54.547Z
+date: 2025-01-15T20:37:52.855Z
+updated: 2025-01-22T22:43:35.207Z
 tags:
   - apple
 categories:
@@ -73,24 +73,23 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/updated-in-2024-essential-guide-to-high-quality-fee-free-luts/"><u>[Updated] In 2024, Essential Guide to High-Quality, Fee-Free LUTs</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/decoding-the-5nt-error-message-a-comprehensive-guide-to-fixing-it-quickly/"><u>Decoding the 5nT Error Message: A Comprehensive Guide to Fixing It Quickly</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/diagnosing-and-repairing-osetupdll-error-messages-on-pc/"><u>Diagnosing and Repairing OSETUP.DLL Error Messages on PC</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1723006064602-directx-troubles-in-anno-1800-heres-how-you-can-fix-it/"><u>DirectX Troubles in Anno 1800? Here's How You Can Fix It</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/diy-fixes-for-a-quiet-stereo-system-restarting-the-audio-experience/"><u>DIY Fixes for a Quiet Stereo System – Restarting the Audio Experience!</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/fixing-the-unreachable-steamdll-error-on-your-pc-with-ease/"><u>Fixing the Unreachable Steam.dll Error on Your PC with Ease</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/how-to-resolve-issues-with-apple-watch-failure-to-recognize-steps-or-exercise/"><u>How to Resolve Issues with Apple Watch Failure to Recognize Steps or Exercise</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-vivo-s17-pro-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Vivo S17 Pro to BlackBerry | Dr.fone</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/leading-family-friendly-routers-the-ultimate-guide/"><u>Leading Family-Friendly Routers: The Ultimate Guide</u></a></li>
-<li><a href="https://fox-within.techidaily.com/locating-and-adjusting-your-pcs-audio-configuration-via-windows-control-panel-step-by-step-guide-by-yl-computing/"><u>Locating and Adjusting Your PC's Audio Configuration via Windows Control Panel - Step-by-Step Guide by YL Computing</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/mastering-the-fix-a-detailed-approach-for-windows-code-errors-28/"><u>Mastering the Fix: A Detailed Approach for Windows Code Errors - 28</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/1722885947141-subwoofer-dilemma-solved-get-rid-of-the-irritating-audio-hum-once-and-for-all/"><u>Subwoofer Dilemma Solved? Get Rid of the Irritating Audio Hum Once and For All</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/the-shoppers-quick-guide-to-choosing-top-notch-360cams/"><u>The Shopper’s Quick Guide to Choosing Top-Notch 360Cams</u></a></li>
-<li><a href="https://facebook.techidaily.com/unveiling-the-most-effective-crowdflower-technologies/"><u>Unveiling the Most Effective CrowdFlower Technologies</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/youtubes-monetization-value-per-million-views-for-2024/"><u>Youtube's Monetization Value per Million Views for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-how-to-transfer-videos-and-photos-from-a-pc-to-an-iphone/"><u>[New] How to Transfer Videos and Photos From a PC to an iPhone</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-unlocking-vimeos-potential-screen-and-webcam-capture-mastery/"><u>[Updated] 2024 Approved Unlocking Vimeo's Potential Screen and Webcam Capture Mastery</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-mastering-youtube-stat-tracking-essentials/"><u>[Updated] Mastering YouTube Stat Tracking Essentials</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-the-essential-guide-to-cinematic-instagram-videos/"><u>2024 Approved The Essential Guide to Cinematic Instagram Videos</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-vectors-explained-an-entry-level-guide-to-forms-and-applications/"><u>2024 Approved Vectors Explained An Entry-Level Guide to Forms and Applications</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/cat-s22-flip-assessment-the-perfect-blend-of-classic-style-and-advanced-connectivity-in-rugged-conditions-gadgetflow/"><u>CAT S22 Flip Assessment - The Perfect Blend of Classic Style & Advanced Connectivity in Rugged Conditions | GadgetFlow</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/error-webpage-unavailable-encountering-a-404-issue/"><u>Error: Webpage Unavailable – Encountering a 404 Issue</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/explore-our-selection-of-highly-rated-no-cost-photo-manipulation-apps/"><u>Explore Our Selection of Highly-Rated No-Cost Photo Manipulation Apps</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/google-pixel-watch-2-versus-apple-watch-series-9-determining-the-premier-smartwatch-for-your-lifestyle-zdnet-insights/"><u>Google Pixel Watch 2 Versus Apple Watch Series 9: Determining the Premier Smartwatch for Your Lifestyle | ZDNET Insights</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-watch-hulu-outside-us-on-samsung-galaxy-z-fold-5-drfone-by-drfone-virtual-android/"><u>How to Watch Hulu Outside US On Samsung Galaxy Z Fold 5 | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/time-savers-alert-discover-the-best-3-zero-cost-chrome-plugins-as-recommended-by-zdnet/"><u>Time Savers Alert: Discover the Best 3 Zero-Cost Chrome Plugins as Recommended by ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-5-professional-grade-chromebook-models-for-office-use-insights-from-zdnet/"><u>Top 5 Professional-Grade Chromebook Models for Office Use - Insights From ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-wireless-earphones-war-comparing-sound-quality-of-galaxy-buds-ter-vs-pixel-buds-vs-airpods-pro-gadgetguru-guide/"><u>Top Wireless Earphones War: Comparing Sound Quality of Galaxy Buds Ter Vs. Pixel Buds Vs. AirPods Pro | GadgetGuru Guide</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/turning-your-american-passport-into-an-e-pass-via-google-wallet-step-by-step-instructions/"><u>Turning Your American Passport Into an E-Pass via Google Wallet – Step-by-Step Instructions</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 

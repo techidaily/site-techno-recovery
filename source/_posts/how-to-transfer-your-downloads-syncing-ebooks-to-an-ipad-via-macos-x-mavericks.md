@@ -1,7 +1,7 @@
 ---
 title: "How to Transfer Your Downloads: Syncing Ebooks to an iPad via MacOS X Mavericks"
-date: 2024-08-20T09:52:38.734Z
-updated: 2024-08-21T09:52:38.734Z
+date: 2025-01-20T04:26:29.777Z
+updated: 2025-01-22T21:14:41.019Z
 categories:
   - epubor
 thumbnail: https://thmb.techidaily.com/b52695e8d8e71746809895655de9f8c6acd7b0659cd0b84f4316b6b432fb112c.jpg
@@ -9,19 +9,29 @@ thumbnail: https://thmb.techidaily.com/b52695e8d8e71746809895655de9f8c6acd7b0659
 
 ## How to Transfer Your Downloads: Syncing Ebooks to an iPad via MacOS X Mavericks
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Sync Downloaded Books to iPad in Mac OS X 10.9 Mavericks
 
 Posted by [Jonny Greenwood](https://plus.google.com/u/0/+JonnyGreenwood999) on 11/28/2018 4:21:19 PM.
 
 4.3 [(28 comments)](http://www.epubor.com/#comment-area) 
 
-
-
 ![follow](http://www.epubor.com/images/follow.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Apple surprisingly makes the Mac OS X Mavericks upgrade free to all the Mac users, which makes Mac OS X 10.9 Mavericks the most "popular" version ever, for the activation speed is faster than any previous version.
 
 The new Mac OS X 10.9 Mavericks brings many exciting new features, of which the most attractive one to me is the independent iBooks application. With it we can finally read iBooks on Mac computers. But it is the iBooks application that makes many people want to downgrade to Mac OS X 10.8.5, saying the iBooks application is totally a mess.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### iTunes can't sync/transfer local downloaded EPUB books to iPad under Mavericks
 
@@ -31,9 +41,6 @@ In the past we need to use iTunes to sync any kind of contents or apps to our iP
 
 And when you want to drag a downloaded local EPUB or PDF books into iTunes, it just bounces back and nothing changes. What's worse, you cannot find a sync button on the new iBooks for Mac application, either. In another word, we are unable to sync downloaded local EPUB and PDF books to our iPad, or other iOS devices.
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### iTunes says no, we make it yes
 
 I am not saying cracking iTunes or iBooks for Mac. To transfer or sync downloaded local EPUB and PDF eBooks to iPad, we have many other choices, and here I will introduce the most capable and simplest way - **Calibre Content Server**.
@@ -52,9 +59,6 @@ Calibre is totally free to download and use. Click the buttons below you can dow
 
 [![calibre for mac](http://www.epubor.com/images/guide-download-mac.png)](http://status.calibre-ebook.com/dist/osx32)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
-<!-- affiliate ads end -->
 2Load the books you want to sync into Calibre
 
 By directly dragging eBook files into Calibre you can load them in.
@@ -62,8 +66,9 @@ By directly dragging eBook files into Calibre you can load them in.
 ![load-books-into-calibre-mac](http://www.epubor.com/images/load-books-into-calibre-mac.png)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 3Enable Calibre Content Server feature
 
 Look at the menu bar at the top, click "Connect/share --> Start Content Server". Then the three blue ball will turn to green, and there will display your IP address and port information, which will be necessary in the following steps.
@@ -71,17 +76,15 @@ Look at the menu bar at the top, click "Connect/share --> Start Content Server".
 ![mac-calibre-content-server](http://www.epubor.com/images/mac-calibre-content-server.png)
 
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 4Visit Calibre Content Server on your iPad
 
 Now take your iPad and open the web browser, input \[your IP address:port\] in the url address bar and visit it. For example, my IP address is 192.168.1.16 and my port is 8080, then I should visit 192.168.1.16:8080.
 
 ![visit-calibre-content-server-on-ipad](http://www.epubor.com/images/visit-calibre-content-server-on-ipad.png)
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 5Sync/Transfer books to iPad under Mavericks
 
 Click the "Get" button under book cover, then we will be navigated to a page which asks you how to open this file. "Open in 'iBooks'" is what we choose.
@@ -100,10 +103,6 @@ Related Reading
 
 ![author](http://www.epubor.com/images/uppic/jonny.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 [Jonny Greenwood](https://plus.google.com/u/0/+JonnyGreenwood999) joined Epubor since 2011, loves everything about eBooks and eReaders. He seeks the methods to read eBooks more freely and wants to share all he has got with you.
 
 SHARING IS GREAT!
@@ -111,8 +110,6 @@ SHARING IS GREAT!
 [Tweet](https://twitter.com/share) 
 
 [SAVE PAGE AS PDF](https://tools.techidaily.com/epubor/products/) 
-
-
 
 28 Comments
 
@@ -431,8 +428,6 @@ Leave a comment
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -440,4 +435,21 @@ Leave a comment
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-securing-privacy-efficient-blur-techniques-in-images/"><u>[Updated] 2024 Approved Securing Privacy Efficient Blur Techniques in Images</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-essential-gif-making-software-the-ultimate-guide/"><u>[Updated] In 2024, Essential GIF Making Software The Ultimate Guide</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/all-things-you-need-to-know-about-wipe-datafactory-reset-for-infinix-zero-30-5g-drfone-by-drfone-reset-android-reset-android/"><u>All Things You Need to Know about Wipe Data/Factory Reset For Infinix Zero 30 5G | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discover-the-leading-news-curators-our-ultimate-list/"><u>Discover the Leading News Curators : Our Ultimate List</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-create-reverse-motion-videos-on-snapchat-tips-and-tricks-uncovered/"><u>How To Create Reverse-Motion Videos On Snapchat: Tips and Tricks Uncovered</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-in-depth-asmr-video-insights/"><u>In 2024, In-Depth ASMR Video Insights</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/iphone-protection-myths-debunked-the-absolute-need-for-a-reliable-case-even-without-prior-usage/"><u>IPhone # Protection Myths Debunked: The Absolute Need for a Reliable Case Even Without Prior Usage</u></a></li>
+<li><a href="https://program-issues.techidaily.com/mastering-mfs-xbox-series-xs-how-to-fix-dev-error-6068-and-enhance-your-gaming-experience/"><u>Mastering MFS Xbox Series X/S: How to Fix Dev Error 6068 and Enhance Your Gaming Experience</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/record-screen-and-upload-to-youtube-pc-mac-online-for-2024/"><u>Record Screen and Upload to YouTube [PC, Mac, Online] for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-essentials-of-tagging-an-in-depth-explanastope/"><u>The Essentials of Tagging: An In-Depth Explanastope</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-future-is-bright-with-oneplus-10-anticipate-release-timing-cost-guesswork-rumored-perks-and-speculative-insights/"><u>The Future Is Bright with OnePlus 10 – Anticipate Release Timing, Cost Guesswork, Rumored Perks & Speculative Insights</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/top-strategies-for-retrieving-data-from-a-reformatted-xqd-memory-card/"><u>Top Strategies for Retrieving Data From a Reformatted XQD Memory Card</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ultimate-tutorial-integrating-samsung-soundbar-and-television-seamlessly/"><u>Ultimate Tutorial: Integrating Samsung Soundbar and Television Seamlessly</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unveiling-the-8-most-effective-second-phone-numbers-services/"><u>Unveiling the 8 Most Effective Second Phone Numbers Services</u></a></li>
+</ul></div>
 

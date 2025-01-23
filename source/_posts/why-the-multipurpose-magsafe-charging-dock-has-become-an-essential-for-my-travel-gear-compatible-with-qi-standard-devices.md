@@ -1,7 +1,7 @@
 ---
 title: "Why the Multipurpose MagSafe Charging Dock Has Become an Essential for My Travel Gear: Compatible with QI-Standard Devices"
-date: 2025-01-11T17:00:58.090Z
-updated: 2025-01-16T22:10:15.302Z
+date: 2025-01-16T07:22:31.832Z
+updated: 2025-01-23T05:52:28.423Z
 tags:
   - apple
 categories:
@@ -41,7 +41,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Generative AI for a context-aware Siri
@@ -55,7 +55,7 @@ If Apple can give Siri generative AI, iPhone users could ask the voice assistant
 The biggest challenge for Apple will be running large language models (LLMs) on-device, as one would expect it to do after its long-standing focus on consumer privacy. On-device processing means questions and responses won't have to be sent to remote cloud servers, minimizing data exposure.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Contextual search through image gallery
@@ -69,7 +69,7 @@ Apple already uses AI for facial recognition to create Memories and organize pho
 Other AI upgrades to photo galleries that could benefit smartphone users include finding and suggesting duplicate photos to free up storage, integrating AI voice assistants to search for photos with voice commands, recommending AI enhancements, and applying edits to photos. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Personalized text generation
@@ -81,7 +81,7 @@ ChatGPT became popular for its ability to generate text and have conversations t
 This is another instance where Apple trails behind competitors, as AI text generation is available in the [Google Pixel 8](https://www.kqzyfj.com/click-9041660-15823334-1717160402000?sid=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) and the Samsung [Galaxy S24 lineup](https://shop-links.co/link/?url=https%3A%2F%2Fwww.samsung.com%2Fus%2Fsmartphones%2Fgalaxy-s24%2Fbuy%2Fgalaxy-s24-256gb-unlocked-sm-s921ulbexaa%2F&publisher_slug=itechdaily19598&exclusive=1) of smartphones, as well as Microsoft 365, Gmail, Google Docs, Sheets, and more. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. AI-powered photo and video editing
@@ -126,21 +126,20 @@ It would be surprising to see Apple incorporate AI video features such as real-t
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-step-by-step-how-to-master-these-7-expert-graders/"><u>[New] Step-by-Step How to Master These 7 Expert Graders</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/2024-approved-step-by-step-process-to-master-color-grading-with-luts-in-pscc/"><u>2024 Approved Step-by-Step Process to Master Color Grading with LUTs in PSCC</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/adapting-to-the-elements-do-electric-vehicles-thrive-in-intense-heat-or-frigid-conditions/"><u>Adapting to the Elements: Do Electric Vehicles Thrive in Intense Heat or Frigid Conditions?</u></a></li>
-<li><a href="https://some-tips.techidaily.com/big-discounts-on-bluetti-portable-solar-generators-dont-miss-the-summer-clearance-event-insights-from-zdnet/"><u>Big Discounts on Bluetti Portable Solar Generators: Don't Miss the Summer Clearance Event - Insights From ZDNet</u></a></li>
-<li><a href="https://discover-comparisons.techidaily.com/how-to-fix-nonfunctional-hyperlinks-in-your-flipbook-ebook-on-flipbuilder/"><u>How to Fix Nonfunctional Hyperlinks in Your Flipbook eBook on FlipBuilder</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-pinpointing-your-custom-designed-music-haven-on-youtube/"><u>In 2024, Pinpointing Your Custom-Designed Music Haven on Youtube</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/insightful-strategies-for-monitoring-an-individuals-place-on-iphone-devices/"><u>Insightful Strategies for Monitoring an Individual's Place on iPhone Devices</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/instructions-for-disabling-the-ai-writing-assistant-on-your-windows-11-pc/"><u>Instructions for Disabling the AI Writing Assistant on Your Windows 11 PC</u></a></li>
-<li><a href="https://win-answers.techidaily.com/mafia-the-ultimate-collection-release-delay-explained/"><u>Mafia: The Ultimate Collection Release Delay Explained</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/master-the-fix-comprehensive-tips-for-handling-code-43-on-your-pregnancy-tests/"><u>Master the Fix: Comprehensive Tips for Handling Code 43 on Your Pregnancy Tests</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/mastering-convenience-a-how-to-for-activating-auto-user-sign-in-on-your-windows-device/"><u>Mastering Convenience: A How-To for Activating Auto User Sign-In on Your Windows Device</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/mastering-shadows-and-highlights-through-photoshop-curves-for-2024/"><u>Mastering Shadows & Highlights Through Photoshop Curves for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/mitigating-tech-disruptions-why-government-over-reliance-on-titans-like-microsoft-is-unwise/"><u>Mitigating Tech Disruptions: Why Government Over-Reliance on Titans Like Microsoft Is Unwise</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/top-13-complimentary-hddssd-diagnostic-software-of-july-2024/"><u>Top 13 Complimentary HDD/SSD Diagnostic Software of July 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/troubleshooting-and-resolving-401-unauthorized-issues-on-your-website/"><u>Troubleshooting and Resolving '401 Unauthorized' Issues on Your Website</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/96170556-9781684030774-when-spirit-leaps/"><u>When Spirit Leaps | Free Book</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-comprehensive-step-by-step-on-zooms-video-broadcasting/"><u>[New] 2024 Approved Comprehensive Step-by-Step on Zoom's Video Broadcasting</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-key-elements-for-compelling-facebook-ad-textual-content/"><u>[New] In 2024, Key Elements for Compelling Facebook Ad Textual Content</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-snap-and-crop-utilizing-iphones-image-editing-capabilities-for-2024/"><u>[New] Snap & Crop Utilizing iPhone’s Image Editing Capabilities for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-multimedia-iptv-networking/"><u>[Updated] 2024 Approved Multimedia IPTV Networking</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discover-the-ultimate-solar-torch-selection-in-depth-analysis-by-techradar/"><u>Discover the Ultimate Solar Torch Selection : In-Depth Analysis by TechRadar</u></a></li>
+<li><a href="https://app-tips.techidaily.com/eminent-linux-professionals-support-ciq-in-launch-of-new-rocky-linux-distribution/"><u>Eminent Linux Professionals Support CIQ in Launch of New Rocky Linux Distribution</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/essential-must-haves-for-newlyweds-starting-their-first-home-tips-and-guides-from-zdnet/"><u>Essential Must-Haves for Newlyweds Starting Their First Home: Tips and Guides From ZDNet</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-do-i-sim-unlock-my-iphone-11-pro-max-by-drfone-ios/"><u>How Do I SIM Unlock My iPhone 11 Pro Max?</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/learn-green-energy-solutions-at-a-steal-exclusive-40-discount-join-our-eco-friendly-engineering-bootcamp-zdnet/"><u>Learn Green Energy Solutions at a Steal - Exclusive $40 Discount! Join Our Eco-Friendly Engineering Bootcamp | ZDNET</u></a></li>
+<li><a href="https://win-able.techidaily.com/solving-me3-legendary-ed-stability-issues-on-pc-and-xbox-a-step-by-step-guide/"><u>Solving ME3 Legendary Ed. Stability Issues on PC and Xbox: A Step-by-Step Guide</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/surging-rankings-for-electric-car-battery-manufacturer-post-entry-into-the-seoul-stock-exchange-insights-and-predictions/"><u>Surging Rankings for Electric Car Battery Manufacturer Post-Entry Into the Seoul Stock Exchange - Insights and Predictions</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/think-about-you/"><u>Think About You</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-5-solar-powered-presents-perfect-for-eco-friendly-celebrations-zdnet/"><u>Top 5 Solar-Powered Presents Perfect for Eco-Friendly Celebrations - ZDNET</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unmissable-savings-alert-get-your-sense-energy-monitor-at-a-steep-discount-of-80-off-this-black-friday-limited-time-offer-zdnet/"><u>Unmissable Savings Alert: Get Your Sense Energy Monitor at a Steep Discount of $80 Off This Black Friday, Limited-Time Offer | ZDNET</u></a></li>
+<li><a href="https://driver-error.techidaily.com/windows-7-troubleshooting-overcoming-the-blue-screen-error-0x0000007e/"><u>Windows 7 Troubleshooting: Overcoming the Blue Screen Error 0X0000007E</u></a></li>
 </ul></div>
 

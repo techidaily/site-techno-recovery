@@ -1,7 +1,7 @@
 ---
 title: "Simple Guide: Converting LIT Files Into PDF Format in Minutes"
-date: 2024-08-20T09:53:15.199Z
-updated: 2024-08-21T09:53:15.199Z
+date: 2025-01-20T23:20:41.097Z
+updated: 2025-01-22T20:02:24.575Z
 categories:
   - epubor
 thumbnail: https://thmb.techidaily.com/88fe982f8ab0af867f1f236b151f6e7396d26757691ab451f3dce8ae4b3a818b.jpg
@@ -15,8 +15,6 @@ Posted by [Ada Wang](https://plus.google.com/+AdaWang/posts) on 4/23/2019 1:44:3
 
 5 [(1 comments)](http://www.epubor.com/#comment-area) 
 
-
-
 ![follow](http://www.epubor.com/images/follow.png)
 
 ![convert lit to pdf](http://www.epubor.com/images/uppic/convert-lit-to-pdf .jpg)Lit (shortened from "literature") is a file format which can only be accessed on Microsoft Reader. It is an extension of the Microsoft Compressed HTML Help format that includes drm. Because of its restricted access on other popular e-reader devices, such as iPad, nook, kobo, and Sony, it seems impossible for you to read lit ebook on other devices. However, it's possible now for I'm writing this guide to teach you how to convert lit to pdf with easy steps.
@@ -26,6 +24,10 @@ By converting lit to pdf free, you can read your books on various devices or sha
 In the following content, I will introduce three free and simple ways to assist you to convert lit to pdf, you can choose whichever way you like.
 
 Before you start to convert lit to pdf, I want to give you an important tip. That is you have to make sure your lit ebook is drm free. If it's drm protected, you should remove drm first as usual. Otherwise, you won't succeed. About how to remove drm from lit ,you can refer to [this article](https://www.wikihow.com/Open-Lit-Files). 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 1: Using online converter tools
 
@@ -38,6 +40,10 @@ You can follow me and visit this website <http://www.convertfiles.com/convert/eb
 **Step 1:** Open the above website. Click "Browse" to select your lit file.
 
 ![choose lit file](http://www.epubor.com/images/uppic/choose-lit-file.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 2:** Choose "pdf" as the output format. And then hit "Convert" button to begin the conversion.
 
@@ -56,6 +62,10 @@ Visit this website <http://ebook.online-convert.com/convert-to-pdf>. The operati
 **Step 1:** Choose " convert to pdf" on the left side of the window.
 
 ![select "convert to pdf" item](http://www.epubor.com/images/uppic/select-the-convert-to-pdf-item.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 2:** Select your lit file prepared to convert to pdf.
 
@@ -81,6 +91,10 @@ Output formats: EPB, MOBI, AZW3, FB2, HTMLZ, LIT, LRF, PDB, PDF, PMLZ, RB, RTF, 
 
 ![add lit ebook](http://www.epubor.com/images/uppic/add-lit-ebook.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 3:** Hit once on the lit file you want to convert to pdf, and then click "Convert books". 
 
 **Step 4:** It will pop up such a window for you to choose the output format. Select "pdf" from the drop-down choice of output format. And then hit "OK" on the bottom.
@@ -91,12 +105,6 @@ Output formats: EPB, MOBI, AZW3, FB2, HTMLZ, LIT, LRF, PDB, PDF, PMLZ, RB, RTF, 
 
 ![complete the conversion](http://www.epubor.com/images/uppic/complete-the-conversion.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Method 3: Convert with MS Reader Converter
 
 MS Reader Converter is specially designed for the lit format reader, Microsoft Reader. It converts lit ebooks files to pdf format easily and quickly. Now follow me to use this lit to pdf converter.
@@ -106,16 +114,17 @@ MS Reader Converter is specially designed for the lit format reader, Microsoft R
 ![launch the software](http://www.epubor.com/images/uppic/launch-the-software.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **Step 2:** Follow the instruction to run Microsoft Reader, open your book, go to first page, and then click "Search" button. When the right side bottom shows "Microsoft Reader found", you can tag "Next" to continue the process.
 
 ![open lit ebook in MS reader](http://www.epubor.com/images/uppic/open-lit-ebook-in-MS-reader.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **Step 3:** Hide the Riffle Control as the picture shows and go on with "Next".
 
 ![hide the Riffle Control](http://www.epubor.com/images/uppic/hide-the-Riffle-Control.jpg)
@@ -124,16 +133,10 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
 ![set output file name](http://www.epubor.com/images/uppic/set-output-file-name.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
-<!-- affiliate ads end -->
 **Step 5:** Press the Capture button to start capture. Within a few seconds, you can see your converted pdf file.
 
 ![converted pdf ebook](http://www.epubor.com/images/uppic/converted-pdf-ebook.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 The above-mentioned methods are practical and easy. Hope they will help you successfully convert lit to pdf free so that you can read your lit ebooks on multiple devices.
 
 Related Readings
@@ -142,6 +145,10 @@ Related Readings
 
 ![author](https://www.epubor.com/images/uppic/1-22-2013 12-03-06 AM.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 [Ada Wang](https://plus.google.com/+AdaWang/posts) works for Epubor and writes articles for a collection of blogs such as ebookconverter.blogspot.com.
 
 SHARING IS GREAT!
@@ -149,8 +156,6 @@ SHARING IS GREAT!
 [Tweet](https://twitter.com/share) 
 
 [SAVE PAGE AS PDF](https://tools.techidaily.com/epubor/products/) 
-
-
 
 1 Comments
 
@@ -188,8 +193,6 @@ Leave a comment
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -197,4 +200,24 @@ Leave a comment
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-posts.techidaily.com/new-in-2024-enhancing-virtual-collaborations-blending-zoom-with-skype-techniques/"><u>[New] In 2024, Enhancing Virtual Collaborations Blending ZOOM with SKYPE Techniques</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-assessment-of-vlcs-digital-screen-monitoring/"><u>[Updated] Assessment of VLC’s Digital Screen Monitoring</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-guide-to-supercharged-video-engagement-with-youtube-notes/"><u>[Updated] In 2024, Guide to Supercharged Video Engagement with YouTube Notes</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/a-buyers-compass-to-choosing-correctly-between-surge-protectors/"><u>A Buyer's Compass to Choosing Correctly Between Surge Protectors</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/best-budget-friendly-online-tv-options-similar-to-netflix/"><u>Best Budget-Friendly Online TV Options Similar To Netflix</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/cutting-cord-costs-alternative-approaches-for-internet-access-at-home/"><u>Cutting Cord Costs: Alternative Approaches for Internet Access at Home</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/effective-solutions-for-fixing-code-41-errors-in-windows-device-manager/"><u>Effective Solutions for Fixing Code 41 Errors in Windows Device Manager</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/essential-guide-to-navigating-xbox-game-pass-ultimate-and-its-cloud-gaming-features/"><u>Essential Guide to Navigating Xbox Game Pass Ultimate and Its Cloud Gaming Features</u></a></li>
+<li><a href="https://win-studio.techidaily.com/expert-tips-on-disconnecting-your-gpu-without-risk-yl-softwares-essential-advice/"><u>Expert Tips on Disconnecting Your GPU Without Risk - YL Software's Essential Advice</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-use-life360-on-windows-pc-for-motorola-moto-e13-drfone-by-drfone-virtual-android/"><u>How to Use Life360 on Windows PC For Motorola Moto E13? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fake-snapchat-location-without-jailbreak-on-honor-magic-v2-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fake Snapchat Location without Jailbreak On Honor Magic V2 | Dr.fone</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/in-depth-look-at-the-newly-launched-samsung-galaxy-chromebook-2-for-seamless-mobile-workflows/"><u>In-Depth Look at the Newly Launched Samsung Galaxy Chromebook 2 for Seamless Mobile Workflows</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/seamless-communication-tips-setting-up-a-single-phone-number-for-all-gadgets/"><u>Seamless Communication Tips: Setting Up a Single Phone Number for All Gadgets</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-ultimate-guide-erasing-windows-rebuild-sector-from-your-computer/"><u>The Ultimate Guide: Erasing Windows Rebuild Sector From Your Computer</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-ultimate-list-of-maxs-documentary-favorites-for-july-2024/"><u>The Ultimate List of Max's Documentary Favorites for July 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unlocking-your-saved-password-vault-on-a-mac-a-comprehensive-guide/"><u>Unlocking Your Saved Password Vault on a Mac - A Comprehensive Guide</u></a></li>
+<li><a href="https://howto.techidaily.com/why-does-my-realme-12-pro-5g-keep-turning-off-by-itself-6-fixes-are-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Does My Realme 12 Pro 5G Keep Turning Off By Itself? 6 Fixes Are Here | Dr.fone</u></a></li>
+</ul></div>
 

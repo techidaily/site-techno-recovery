@@ -1,7 +1,7 @@
 ---
 title: "Unlock Your VitalSource Content: Step-by-Step Guide to Removing DRM From .VBK Files"
-date: 2024-08-20T09:53:21.219Z
-updated: 2024-08-21T09:53:21.219Z
+date: 2025-01-20T17:18:22.238Z
+updated: 2025-01-23T02:09:25.270Z
 categories:
   - epubor
 thumbnail: https://thmb.techidaily.com/f5d1594082aca6452dbc25a49388a37fc7e84721f123ecd76572cb92530c4365.jpg
@@ -14,8 +14,6 @@ thumbnail: https://thmb.techidaily.com/f5d1594082aca6452dbc25a49388a37fc7e84721f
 Posted by [Angel Dan](http://www.epubor.com/mailto:epubor.muzhi1989@gmail.com) on 1/14/2019 10:15:33 AM.
 
 4.8 [(35 comments)](http://www.epubor.com/#comment-area) 
-
-
 
 ![follow](http://www.epubor.com/images/follow.png)
 
@@ -35,6 +33,10 @@ Quick Accesses:
 * [Method 2: **ebook-converter vitalsource drm removal**](https://tools.techidaily.com/epubor/products/) \-- If you want to convert vitalsource EPUBBook to regular ePub
 * [Method 3: **Epubor Vitalsource Downloader**](https://tools.techidaily.com/epubor/products/) \-- The most effortless and cost-effective tool
 * [Choose the best one suitable for you](https://tools.techidaily.com/epubor/products/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### What is .VBK File
 
@@ -64,6 +66,10 @@ For example here I want to bought this book for learning "Publication Manual of 
 
 ![VitalBook PDF format](https://www.epubor.com/images/uppic/vitalbook-pdf.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 If you can see the "Fixed Layout" from the "eTextbook Features" area, it says that the truly eBook format of that book is PDF, while if you see the "Reflowerbale" it says that it's an ePub format. Of course both of these 2 formats are saved as .vbk file after you syncing them via Bookshelf app.
 
 ![VitalBook EPUB format](https://www.epubor.com/images/uppic/vitalbook-epub.png)
@@ -82,6 +88,10 @@ If it says "epub", this means that book is EPUB format; If it says "pbk", this m
 
 ![vbk epub or pdf](https://epubor.com/images/uppic/vbk-epub-pdf.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Why We Need VitalSource DRM Removal
 
 As what I explained above that the first feature of the vbk files is that they are DRM protected by Vitalsource unique technology, which prevents us reading vitalsource books freely on other devices or apps, for example, reading vitalsource books on Sony Reader, Kindle, or iBooks. We paid so much money (you know the price of the text book is not so cheap) to purchase a book to learn something new and useful, but finally we found that what we bought is not belong to us! This really hurts us too much, isn't it?
@@ -92,12 +102,6 @@ As my own opinion, the final most important reason that urges me to use a vbk dr
 
 ![print limit of vitalsource textbook](https://www.epubor.com/images/uppic/print-limit-of-vitalsource-textbook.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Method 1: Remove Vitalsource DRM with Python Script
 
 This tool is only for those readers who are familiar with Python and computers. If not, please skip this part.
@@ -131,20 +135,17 @@ In this case the number 9781911531081 is my book number.
 ![vbk vbid](https://epubor.com/images/uppic/vbk-vbid.png)
 
 <!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Once finished the commanding you will soon get your VitalSource eText book drm removed, they will be saved as a PDF file (many images included). Please remember that this tool only for vbk PDF format books, not for reflowable ePubs. 
 
 Note: This method was first provided and share here: [Vitalsource to PDF reddit](https://www.reddit.com/r/Piracy/comments/7hxjgz/cracking%5Fvitalsource%5Fformat%5Fvbk%5Fdrm/). 
 
 <!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Method 2: Remove VBK DRM with Vitalsource Converter Pro
 
 When searching on the Internet to find an easy-to-use tool to help us remove DRM from .vbk files, you will soon find this [ebook-converter Vitalsource Converter Pro](https://www.ebook-converter.com/vitalsource-drm-removal.htm).
@@ -156,6 +157,10 @@ This is a shareware but here I just used the demo version for testing.
 When I start the software, I'm requested to input the vitalsource account email address and password. Then it take several seconds to list my library (at first what I see is blank, I guess it takes time to read my library data), soon I see what I want. Click on the book cover to open one book, the same phenomenon appears again (blank window) but soon I see a window like this.
 
 ![ebook-converter vitalsource converter pro introduction](https://www.epubor.com/images/uppic/use-ebook-converter-vitalsource-converter-pro.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 It's preparing to download the vitalsource vbk files to pdf. Then click on "Download" button, it will begin to download all pages and save them in an entire PDF or ePub. 
 
@@ -170,9 +175,9 @@ Here I need to tips you that the demo version will add watermarks into all pages
 ![ebook-converter cut converted vitalsource pages out](https://www.epubor.com/images/uppic/bad-point-of-ebook-converter-vitalsource-drm-removal.png)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Method 3: Remove VBK DRM with Epubor Vitalsource Downloader
 
 This tool [Epubor Vitalsource Downloader](https://tools.techidaily.com/epubor/products/) introduced here was developed by Epubor team in April 2018\. At first the new released version 1.0 does the same processing which keeps the original eBooks formats (if the original eBook file format is ePub, the output will be ePub; if it's a PDF the output format will be worPDF). But soon a new version updated since nearly 90% of customers sent letters to the support team that they want to print the vitalsource text books and wish to get all the books as PDF format. So you will find that from version 1.2 the software supported output is PDF only (but no changes to the original books' contents). I guess you may be one of them who just wants to use a vitalsource drm ripper to print vitalsource eBooks, right?
@@ -195,9 +200,6 @@ Another thing I need to let you know that the free trial version of this softwar
 
 ![Epubor Vitalsource VBK DRM Removal](https://www.epubor.com/images/uppic/epbuor-vitalsource-vbk-drm-removal.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
-<!-- affiliate ads end -->
 I choose the same 2 books to test, the converting speed of PDF format text book is 10-15 pages per minute (from the new version 1.0.5, the speed is improved much up to 30 pages per minute), and the ePub to PDF will be a little slowly that about 3-5 pages per minute. 
 
 Once the conversion finishes, a window will pop up which shows you the pdf file. 
@@ -205,8 +207,9 @@ Once the conversion finishes, a window will pop up which shows you the pdf file.
 ![output vbk pdf](https://www.epubor.com/images/uppic/output-vbk-pdf.png)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 In general the saved output path is \\Users\\...\\Documents\\Epubor VitalSource Downloader. You can copy them to other readers such as Kindle, Kobo and even iPad with iBooks. And as the PDF files are drm removed out so you can also share them with families and friends (for personal use). 
 
 Should let you know that the free trial version of this tool only helps download 5 pages of each book. After the free trial if you love it and want to keep using, I will recommend you buy the vitalsource drm removal full version.
@@ -214,6 +217,10 @@ Should let you know that the free trial version of this tool only helps download
 ![why you should choose epubor vital source drm removal](https://www.epubor.com/images/uppic/why-choose-epubor-vitalsource-downloader.png)
 
 ![](http://www.epubor.com/images/faq.png) Frequently Asked Questions when using Epubor VBK DRM Removal
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##### Q: I've tried several times but why I still can't log in to my vitalsource account
 
@@ -231,9 +238,6 @@ A: As far as I know, there doesn't exist any any ebook converter capable of dire
 
 ![edit vitalsource pdf text book](https://www.epubor.com/images/uppic/edit-vitalsource-pdf.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
-<!-- affiliate ads end -->
 ### Conclusion: Just choose one tool to achieve your goals
 
 These 3 tools I all tried, but here I won't recommend you to try one by one because it's a waste of time and in fact there is no need to do like so. Of course if you have much interest in them, do as what you want, that's also great.
@@ -266,23 +270,6 @@ Updated 2/18/2019: Epubor Vitalsource Downloader is not available for downloadin
 
 ![author](http://www.epubor.com/images/uppic/author-dan.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
-VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
-
-Key features:
-
-•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
-•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
-•	Visual effects, advanced color correction and trendy Instagram-like filters   
-•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
-•	Non-linear editing: edit several files with simultaneously 
-•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
-•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
-•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
-•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
-</a>
-<!-- affiliate ads end -->
 [Angel Dan](http://www.epubor.com/mailto:epubor.muzhi1989@gmail.com) has covered software online marketing for more than 10 years. She joined Epubor since 2013, covering content writing, affiliate marketing, global brand expansion, video marketing, and business development.
 
 SHARING IS GREAT!
@@ -290,8 +277,6 @@ SHARING IS GREAT!
 [Tweet](https://twitter.com/share) 
 
 [SAVE PAGE AS PDF](https://tools.techidaily.com/epubor/products/) 
-
-
 
 35 Comments
 
@@ -725,8 +710,6 @@ Leave a comment
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -734,4 +717,19 @@ Leave a comment
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://blog-min.techidaily.com/5-techniques-to-transfer-data-from-vivo-y27s-to-iphone-15141312-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Techniques to Transfer Data from Vivo Y27s to iPhone 15/14/13/12 | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/digitizing-documents-ai-driven-pdf-focused-methodologies-with-chatgpt/"><u>Digitizing Documents: AI-Driven, PDF-Focused Methodologies with ChatGPT</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/exploring-the-ins-and-outs-of-atandt-cellular-roaming-agreements/"><u>Exploring the Ins and Outs of AT&T Cellular Roaming Agreements</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/failed-to-play-mkv-movies-on-samsung-galaxy-m34-5g-by-aiseesoft-video-converter-play-mkv-on-android/"><u>Failed to play MKV movies on Samsung Galaxy M34 5G</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/frp-hijacker-by-hagard-download-and-bypass-your-nubia-red-magic-8s-pro-frp-locks-by-drfone-android/"><u>FRP Hijacker by Hagard Download and Bypass your Nubia Red Magic 8S Pro FRP Locks</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-register-and-activate-a-playstation-online-presence/"><u>How To Register & Activate a PlayStation Online Presence</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-vivo-y100i-drfone-by-drfone-android/"><u>How to Screen Mirroring Vivo Y100i? | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-universal-unlock-pattern-for-motorola-g54-5g-by-drfone-android/"><u>In 2024, Universal Unlock Pattern for Motorola G54 5G</u></a></li>
+<li><a href="https://driver-download.techidaily.com/install-amd-rx-5700-xt-video-card-drivers-on-windows-support-for-versions-111087/"><u>Install AMD RX 5700 XT Video Card Drivers on Windows: Support for Versions 11/10/8/7</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/the-art-of-podcast-imagery-creating-memorable-graphics/"><u>The Art of Podcast Imagery Creating Memorable Graphics</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/what-causes-youtube-malfunction-and-how-can-you-fix-it/"><u>What Causes YouTube Malfunction and How Can You Fix It?</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/why-is-my-ps4-controller-flickering-in-various-colors-a-guide-to-understanding-the-codes/"><u>Why Is My PS4 Controller Flickering in Various Colors? A Guide to Understanding the Codes</u></a></li>
+</ul></div>
 

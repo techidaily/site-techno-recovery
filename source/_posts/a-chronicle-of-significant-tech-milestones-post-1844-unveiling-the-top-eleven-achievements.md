@@ -1,7 +1,7 @@
 ---
 title: "A Chronicle of Significant Tech Milestones Post-1844: Unveiling the Top Eleven Achievements"
-date: 2024-08-20T09:55:46.689Z
-updated: 2024-08-21T09:55:46.689Z
+date: 2025-01-20T04:15:01.523Z
+updated: 2025-01-23T05:49:27.423Z
 categories:
   - BestProducts
 description: "This Article Describes A Chronicle of Significant Tech Milestones Post-1844: Unveiling the Top Eleven Achievements"
@@ -15,6 +15,10 @@ thumbnail: https://thmb.techidaily.com/d594c9f97f5c7acf04e5131f6f5a4cdb7d19c04f5
  Since then, the way we communicate has evolved in leaps and bounds to the point where the device we (sometimes) use for phone calls can fit in our pocket and has more processing power than the room-sized computers of the 60s. New technology has connected us in many ways, making it easier to communicate and get around.
 
  Over the past 175 years, we’ve seen an array of emerging technologies. Here are ten of the most significant technological advances since 1844.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## The Telephone — 1876
 
@@ -41,8 +45,9 @@ thumbnail: https://thmb.techidaily.com/d594c9f97f5c7acf04e5131f6f5a4cdb7d19c04f5
 ![Old television on stand, in front of curtain](https://www.lifewire.com/thmb/sT1Lb9obt08EDKCn3w7CXCy6tE0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/old-television-on-stand--in-front-of-curtain-200453943-001-293b961ae282457791c4eed589eff3cb.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Steven Errico / Getty Images
 
  Before appointment TV and binge-watching, movie theaters were king. They’re still the best venue for seeing blockbuster films, but the invention of the television paved the way for the home entertainment we enjoy now. The first TV sets were black and white; then came color TVs and the ever-convenient remote control.
@@ -56,8 +61,9 @@ thumbnail: https://thmb.techidaily.com/d594c9f97f5c7acf04e5131f6f5a4cdb7d19c04f5
 ![alter IBM Compter von 1981](https://www.lifewire.com/thmb/4cl0LjPSEzswX-i1Q48NuRe8jNk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/alter-ibm-compter-von-1981-513809422-7189b1cbfe1b47339bdda64dc60627e0.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 EdnaM / Getty Images
 
  First arriving as what we'd consider today to be pretty rudimentary machines (or even as kits), they were computers in all senses of the word.
@@ -66,17 +72,14 @@ EdnaM / Getty Images
 
  The personal computer we all know today exploded once IBM introduced the IBM PC in 1981\. Once businesses adopted it, the entire industry expanded to produce all the products we know and use today.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ## Global Positioning System — 1970s
 
 ![Satellite in foreground, Earth and rising Sun in background](https://www.lifewire.com/thmb/4j6-zIts28nfLPj-zcJ1Pt9zw3Q=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1032649842-5c2d15de46e0fb0001ea64df.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Launched in 1973, the Global Positioning System (GPS) became fully operational in 1995\. Originally called Navstar GPS, the U.S. government owns it, and the U.S. Air Force operates it.
 
  The system can triangulate data and pinpoint your location, and it powers the GPS devices and apps that people use now to get around.
@@ -85,9 +88,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 ![Arpanet Map from May 1973](https://www.lifewire.com/thmb/fsyBzcuavn9WlcR_Ve8EK_dlpro=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Arpanet_map_1973-2983e062888f4a23a9ec989af0c6f487.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 ARPANET /Public domain
 
  It’s hard to imagine a computer without the[internet or the web](https://www.lifewire.com/difference-between-the-internet-and-the-web-2483335) . In the early '80s, ARPANET, a precursor to the internet, was created with funding from the U.S. Department of Defense and the Advanced Research Projects Agency Network (hence the acronym).
@@ -97,8 +97,9 @@ ARPANET /Public domain
  It’s common for people to conflate the two terms. The internet is a global computer network running standardized communication protocols, while the WWW consists of public sites connected to the internet.
 
 <!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## GPS Navigation — 1990s
 
 ![San Francisco, California scenics](https://www.lifewire.com/thmb/JBcxbVh9X27hnW5roLmvGZOywbM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/san-francisco--california-scenics-1048327060-238a789e54b94cf799aee655c2f19c1b.jpg)
@@ -118,8 +119,9 @@ ARPANET /Public domain
 ![3rd Annual Kodak Awards, February 15, 2019](https://www.lifewire.com/thmb/cayBRtQKgfVN8wWhxkH2-SxSTwU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/3rd-annual-kodak-awards--february-15--2019-1125163754-9bc15e8e2dbe4be18b8ad4369c4a929d.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Getty Images for Kodak Motion Picture & Entertainment / Getty Images
 
  Technically, the first digital camera was invented by Kodak in the 1970s. It took a while before the technology made its way into the ancestors of the products we use today.
@@ -132,9 +134,6 @@ ARPANET /Public domain
 
 ![Mosaic web browser](https://www.lifewire.com/thmb/ZHIWa9h-A3m6SDVXmfSIkj-wQP8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/NCSA_Mosaic_Browser_Screenshot-2f1f4b065a284b37bb79f433cc515659.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
-<!-- affiliate ads end -->
  Programm: National Center for Supercomputing Applications/CC0
 
  Surfing the web was made more comfortable with the arrival of Mosaic, a web browser that was significantly more intuitive than its predecessors.
@@ -145,16 +144,21 @@ ARPANET /Public domain
 
 ![Facebook's Sign Up Page](https://www.lifewire.com/thmb/49daxvoCJfOTzoBPeb_SlLG6Eho=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/FacebookSignIn-a4c1c336e92a436c952e1dc7e3813c40.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
  Love it or hate it (or both), but Facebook (initially The Facebook), which launched out of Mark Zuckerberg’s dorm room, was the first social media platform to gain worldwide popularity.
 
  From connecting with the people you went to high school to planning protests against the government, Facebook brings people together. Of course, it also causes all sorts of strife, including hate speech and “fake news,” which the platform struggles to contain.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## The Modern Smartphone — 2007
 
 ![Steve Jobs Unveils Apple iPhone At MacWorld Expo](https://www.lifewire.com/thmb/sdGuvRRk_ow4aOyoLK4f3ibKOwo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/steve-jobs-unveils-apple-iphone-at-macworld-expo-72959794-9b26521ca5f743119fc6b509d51ec8cc.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  David Paul Morris / Getty Images
 
@@ -186,8 +190,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -195,4 +197,24 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/new-unlocking-your-creative-potential-with-picsart-2024-edition/"><u>[New] Unlocking Your Creative Potential with PicsArt 2024 Edition</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-photography-editing-tips-for-creating-stunning-photos/"><u>[Updated] In 2024, Photography Editing Tips for Creating Stunning Photos</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-youtube-playlist-building-step-by-step-expertise/"><u>[Updated] YouTube Playlist Building Step-by-Step Expertise</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/2024-approved-make-memories-not-videos-top-10-buzz-creating-tiktok-hacks/"><u>2024 Approved Make Memories, Not Videos! Top 10 Buzz-Creating TikTok Hacks</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/blurring-your-background-for-virtual-calls-expert-advice-for-optimizing-your-appearance-on-google-meet/"><u>Blurring Your Background for Virtual Calls: Expert Advice For Optimizing Your Appearance on Google Meet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/complete-walkthrough-accessing-imessage-without-an-iphone-android-users/"><u>Complete Walkthrough: Accessing iMessage Without an iPhone (Android Users)</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/customizing-your-email-experience-with-gmail-rules-for-any-scenario/"><u>Customizing Your Email Experience with Gmail Rules for Any Scenario</u></a></li>
+<li><a href="https://android-frp.techidaily.com/full-guide-to-bypass-nokia-g42-5g-frp-by-drfone-android/"><u>Full Guide to Bypass Nokia G42 5G FRP</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/gmail-whitelisting-guide-mastering-email-protection/"><u>Gmail Whitelisting Guide: Mastering Email Protection</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-fake-android-location-without-rooting-for-your-oneplus-nord-3-5g-drfone-by-drfone-virtual/"><u>In 2024, Fake Android Location without Rooting For Your OnePlus Nord 3 5G | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-frp-from-asus-rog-phone-7-ultimate-by-drfone-android/"><u>In 2024, How to Bypass FRP from Asus ROG Phone 7 Ultimate?</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/in-depth-assessment-of-the-tp-link-re505x-wi-fi-signal-booster/"><u>In-Depth Assessment of the TP-Link RE505X Wi-Fi Signal Booster</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/solving-media-malfunctions-techniques-for-opening-stuck-disc-drives/"><u>Solving Media Malfunctions: Techniques for Opening Stuck Disc Drives</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-guide-enabling-automatic-user-login-on-your-windows-pc/"><u>Step-by-Step Guide: Enabling Automatic User Login on Your Windows PC</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/steps-to-unsubscribe-from-paramountplus-service/"><u>Steps to Unsubscribe From Paramount+ Service</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-unleash-your-creativity-top-video-collage-apps-for-iphone-and-ipad/"><u>Updated 2024 Approved Unleash Your Creativity Top Video Collage Apps for iPhone and iPad</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/xbox-network-outage-how-to-tell-if-its-a-server-issue-or-local-connectivity-problem/"><u>Xbox Network Outage: How to Tell If It's a Server Issue or Local Connectivity Problem?</u></a></li>
+</ul></div>
 

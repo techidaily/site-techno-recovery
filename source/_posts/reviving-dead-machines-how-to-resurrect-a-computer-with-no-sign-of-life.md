@@ -1,7 +1,7 @@
 ---
 title: "Reviving Dead Machines: How to Resurrect a Computer with No Sign of Life"
-date: 2024-08-20T09:58:25.492Z
-updated: 2024-08-21T09:58:25.492Z
+date: 2025-01-20T03:37:03.571Z
+updated: 2025-01-22T16:57:51.764Z
 categories:
   - BestProducts
 description: "This Article Describes Reviving Dead Machines: How to Resurrect a Computer with No Sign of Life"
@@ -12,11 +12,19 @@ thumbnail: https://thmb.techidaily.com/8fb2d0d577922e31978350cb180e7bc0e8d3ea4b5
 ## Unexpected Black Screen Blues? Here's How To Get Your Computer Showing Again
  The most common way that a computer "won't turn on" is when the PC actually does power on but doesn't display anything on the monitor. You see lights on the computer case, probably hear fans running from inside, and may even hear sounds, but nothing at all shows up on your screen.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Why the PC Turns on With No Display
 
  When a computer powers on but shows nothing on the screen, the most likely issue is the monitor. It's either off, disconnected, or broken. However, you should also consider that a peripheral device connected to the PC, or the computer itself, could be to blame. The steps below will help identify the cause.  
 
  If your computer is showing information on the monitor but is still not booting fully, see[How to Fix a Computer That Won't Turn On](https://www.lifewire.com/how-to-fix-a-computer-that-wont-turn-on-2624450) for a better troubleshooting guide. We also have unique solutions for[when a computer turns off right after turning on](https://www.lifewire.com/how-to-fix-a-computer-that-turns-on-and-then-off-2624444) .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Fix a Computer That Turns on but Displays Nothing
 
@@ -37,6 +45,11 @@ thumbnail: https://thmb.techidaily.com/8fb2d0d577922e31978350cb180e7bc0e8d3ea4b5
 6. [Reseat](https://www.lifewire.com/what-does-reseat-mean-2625987) everything possible inside your PC. Reseating will reestablish the various connections inside your computer and is very often a "magic" fix to problems like this one.  
 ![PC motherboard](https://www.lifewire.com/thmb/ZZzfc8Lt1xAaaZzhSPLA2gT6XMM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/technology-1396677_1280-5c4263c2c9e77c0001be18e4.jpg)  
  skeeze/Pixabay  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Verify that all the cables are connected correctly. For example, if the onboard video card has been disabled, plugging a VGA cable into it will result in nothing on the monitor even if the computer is powered on. In this case, you'd want to plug the VGA cable into the correct video card.  
  Try reseating the following components and then test if your computer displays something on screen:  
    * [Reseat all internal data and power cables](https://www.lifewire.com/how-to-reseat-internal-data-and-power-cables-2624536)  
@@ -97,8 +110,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -106,9 +117,26 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-the-visual-vault-techniques-for-capturing-tweets-animated-content/"><u>[New] 2024 Approved The Visual Vault Techniques for Capturing Tweets’ Animated Content</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-mobile-mastery-saving-igtv-videos-on-your-device/"><u>[New] Mobile Mastery Saving IGTV Videos on Your Device</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-10-best-intro-maker-apps-for-iphone-and-android/"><u>[Updated] 2024 Approved 10 Best Intro Maker Apps for iPhone and Android</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-broadcasting-twitch-to-facebook-friends-easily/"><u>2024 Approved Broadcasting Twitch to Facebook Friends Easily</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/are-apples-default-apps-removable-from-iphones-and-ipads/"><u>Are Apple's Default Apps Removable From iPhones and iPads?</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/bose-soundsport-frames-unveiled-excellent-audio-plus-solar-defense/"><u>Bose Soundsport Frames Unveiled: Excellent Audio + Solar Defense</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/effective-steps-for-background-blurring-on-google-meet-sessions/"><u>Effective Steps for Background Blurring on Google Meet Sessions</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/electric-vs-gasoline-why-evs-are-leading-the-charge-in-automotive-innovation/"><u>Electric Vs. Gasoline: Why EVs Are Leading the Charge in Automotive Innovation</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/eliminate-dll-not-found-faults-by-replacing-or-reinstating-msstdfmtdll-in-windows-systems/"><u>Eliminate 'DLL Not Found' Faults by Replacing or Reinstating Msstdfmt.dll in Windows Systems</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/24-8-key-money-making-moves-for-youtube-rookies/"><u>In 2024, 8 Key Money-Making Moves for YouTube Rookies</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-top-tips-mastering-music-on-instagram/"><u>In 2024, Top Tips Mastering Music on Instagram</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-xmlssa-conversion-manual-for-professional-srt-production/"><u>In 2024, XML/SSA Conversion Manual for Professional SRT Production</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/solving-the-issue-unmatched-profiles-on-bumble-a-step-by-step-guide/"><u>Solving the Issue: Unmatched Profiles on Bumble – A Step-by-Step Guide</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-comprehensive-insight-into-meta-ai-technologies/"><u>The Comprehensive Insight Into Meta AI Technologies</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/troubleshooting-microsoft-teams-when-is-downtime-user-error/"><u>Troubleshooting Microsoft Teams – When Is Downtime User Error?</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unmasking-impostors-in-digital-friend-circles-strategies-and-signs/"><u>Unmasking Impostors in Digital Friend Circles: Strategies and Signs</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unveiling-skagen-falster-2-the-refined-competitor-in-the-smartphone-arena/"><u>Unveiling Skagen Falster 2 - The Refined Competitor in the Smartphone Arena</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-capabilities-of-the-kingston-fury-ddr5-6000-a-closer-look-at-its-high-speed-32gbx2-performance/"><u>Unveiling the Capabilities of the Kingston Fury DDR5-6000: A Closer Look at Its High-Speed 32GBx2 Performance</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/zoom-update-tutorial-for-pcs-and-mac-computers-a-comprehensive-approach/"><u>Zoom Update Tutorial for PCs & Mac Computers - A Comprehensive Approach</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
-<!-- affiliate ads end -->

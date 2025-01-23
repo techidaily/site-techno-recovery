@@ -1,7 +1,7 @@
 ---
 title: "Top Strategies for Free Texting: Save on Data & Stay Connected"
-date: 2024-08-20T09:56:41.257Z
-updated: 2024-08-21T09:56:41.257Z
+date: 2025-01-20T18:41:15.721Z
+updated: 2025-01-23T06:22:42.623Z
 categories:
   - BestProducts
 description: "This Article Describes Top Strategies for Free Texting: Save on Data & Stay Connected"
@@ -24,6 +24,10 @@ thumbnail: https://thmb.techidaily.com/eb38171b90ca32075b41aaee38a26564bdab0e720
 
  If you're having issues[making HD video calls with Skype](https://www.lifewire.com/how-to-make-hd-skype-calls-3426508) , there are a number of other factors that go into troubleshooting the reason.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Step 1: Reset Your Password
 
  Reset your password if you can't log in to Skype. Visit[Microsoft's Recover Your Account](https://account.live.com/resetpassword.aspx) page to walk through resetting your Skype password, or use our[step-by-step guide for resetting your Microsoft Account password](https://www.lifewire.com/how-to-reset-your-microsoft-account-password-2624953) (it's the same account).
@@ -40,12 +44,13 @@ thumbnail: https://thmb.techidaily.com/eb38171b90ca32075b41aaee38a26564bdab0e720
 
 ![Skype Status Normal Service](https://www.lifewire.com/thmb/gelce_nk6NZFVOXIBopwnyukvrE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/skype-status-normal-service-002401f4bdd54451a46e388b733ee6d5.png)
 
-<!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
-<!-- affiliate ads end -->
  Something else you can do to troubleshoot the problem is to check[Skype's status on Down Detector](https://downdetector.com/status/skype/) to see if other users are reporting that it's down or having some other connection problem.
 
  If either website shows a problem, it most likely means that you're not the only one that can't use Skype. Just wait an hour or so and try again.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Step 3: Check Your Network Connection
 
@@ -55,33 +60,28 @@ thumbnail: https://thmb.techidaily.com/eb38171b90ca32075b41aaee38a26564bdab0e720
 
  If other websites are working normally, the reason Skype can't make calls or why it's experiencing dropped calls could be related to[bandwidth](https://www.lifewire.com/what-is-bandwidth-2625809) usage. If there are multiple other people on your network that are using the internet at the same time, pause or stop the activity on those devices and then see if Skype starts working again.
 
-<!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Step 4: Check Skype's Audio Settings and Permissions
 
  If you can't hear the other caller(s), double-check that other sources of audio, like a YouTube video, works as you'd expect. Just open any video there to see if you can hear it.
 
  If there's a playback error in Skype specifically (and not on YouTube, etc.) and you can't hear the other person you're talking with, or they can't hear you, you need to check that the program has access to your speakers and microphone.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Using Skype on a Computer
 
  If you're using Skype on a computer, open it and tap the **Alt** key so that you can see the main menu. Then, go to **Tools** \>**Audio & Video Settings** .
 
 ![Skype audio and video settings](https://www.lifewire.com/thmb/FU_qqJ8uZhHzdcMgOGYhQ0knAjc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/skype-audio-video-settings-b7970d044c6b40cd8f900fda61bf7555.png)
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
-<!-- affiliate ads end -->
 * With that setting open, notice the volume area under**Microphone** . As you talk, you should see the bar light up.
 * If the microphone doesn't work with Skype, select the menu next to**Microphone** and see if there are any other options; you might have the wrong device selected.
 * If there aren't other ones to pick from, make sure the microphone is plugged in, powered on (if it has a power switch), and has batteries (if wireless). Finally, unplug the microphone and then reattach it.
 * To check the sound in Skype to make sure that it's using the right speakers, select**Test audio** under the**Speakers** option. You should hear sound in your headset or speakers.
 * If you don't hear anything when you play the sample sound, make sure your speakers or headphones are turned all the way up (some headphones have physical volume buttons) and that the on-screen settings are at**10** .
 * If the volume is fine, double-check the menu next to**Speakers** and see if there's another option to pick from, and then try the sample sound again.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Using Skype for Mobile Devices
 
@@ -99,6 +99,10 @@ thumbnail: https://thmb.techidaily.com/eb38171b90ca32075b41aaee38a26564bdab0e720
 2. Find and open**Skype** and then**Permissions** .
 3. Tap**Microphone** , and then choose**Allow only while using the app** .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Step 5: Check Skype's Video Settings and Permissions
 
  Problems with how Skype accesses the camera might be the reason the person you're talking with can't see your video.
@@ -114,6 +118,10 @@ thumbnail: https://thmb.techidaily.com/eb38171b90ca32075b41aaee38a26564bdab0e720
 * Try unplugging and then reattaching the webcam if it's an external one.
 * Make sure that there's nothing physically blocking the camera.
 * Use the menu to the right of the**Camera** area in the settings to choose a different camera if you have more than one.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Skype for Mobile Devices
 
@@ -145,9 +153,6 @@ thumbnail: https://thmb.techidaily.com/eb38171b90ca32075b41aaee38a26564bdab0e720
 
  You should definitely[update to the latest version of Skype](https://www.lifewire.com/how-to-update-skype-4173260) if you can[use it through the web version](https://www.lifewire.com/using-skype-in-browser-4000450) normally but not the desktop version. If the webcam and mic work through your web browser just fine, then there's a problem with the offline version that needs to be taken care of through a reinstallation.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Step 8: Update Device Drivers
 
  At this point, you've verified all the proper Skype-related settings are set up correctly, so it's time to move beyond the program and onto your actual computer and other hardware.
@@ -155,17 +160,15 @@ thumbnail: https://thmb.techidaily.com/eb38171b90ca32075b41aaee38a26564bdab0e720
  Specifically, if you're using Skype on Windows, check the device driver for the webcam and sound card. If there's something wrong with either, then your camera and/or sound won't work anywhere, including with Skype, and you may need to[update your drivers](https://www.lifewire.com/how-to-update-drivers-in-windows-2619214) .
 
 <!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Step 9: Verify the Microphone Works
 
  If your microphone ultimately still doesn't work, try testing it with [Online Mic Test](https://www.onlinemictest.com/) . If it doesn't let you talk through it there either, then your microphone probably isn't working anymore.
 
  Replacing your mic would be a good idea at this point, assuming it's an external mic. If not, you can always add one.
 
-<!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
-<!-- affiliate ads end -->
 ## Step 10: Check the System Sound
 
  If you[can't hear audio anywhere else](https://www.lifewire.com/fix-no-sound-from-computer-speakers-5219903) , like from websites or system sounds, and the speakers are plugged in (if they're external), and the sound card drivers are updated, then see if the[operating system](https://www.lifewire.com/operating-systems-2625912) is blocking the sound.
@@ -196,8 +199,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -205,4 +206,17 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-mastering-nvidia-professional-screen-recording/"><u>[Updated] 2024 Approved Mastering NVIDIA Professional Screen Recording</u></a></li>
+<li><a href="https://win-ratings.techidaily.com/aomei-backupper-mac/"><u>AOMEI Backupper Mac上での基本的な使い方</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/decoding-and-correcting-the-infamous-500-internal-server-error-insider-advice-for-webmasters/"><u>Decoding and Correcting the Infamous 500 Internal Server Error: Insider Advice for Webmasters</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/exploring-the-new-frontier-of-tech-at-apples-wwdc-202n5-conference/"><u>Exploring the New Frontier of Tech at Apple's WWDC 202N5 Conference</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-samsung-galaxy-s24-phone-password-without-factory-reset-by-drfone-android/"><u>How to Unlock Samsung Galaxy S24 Phone Password Without Factory Reset?</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-step-by-step-for-flawless-audio-transitions-with-audacity/"><u>In 2024, Step-by-Step for Flawless Audio Transitions with Audacity</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/master-the-art-of-monitoring-saved-instagram-posts-by-others-tips-and-tricks/"><u>Master the Art of Monitoring Saved Instagram Posts by Others – Tips & Tricks</u></a></li>
+<li><a href="https://games-able.techidaily.com/reflecting-on-6-factors-that-make-gaming-monitors-overhyped/"><u>Reflecting on 6 Factors That Make Gaming Monitors Overhyped</u></a></li>
+<li><a href="https://win-trending.techidaily.com/resolve-stop-error-stop-code-0xc000021a-in-windows-11-a-comprehensive-guide/"><u>Resolve 'Stop Error' (STOP Code 0xC000021A) in Windows 11 - A Comprehensive Guide</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unveiling-the-top-six-photoshop-alternatives-that-wont-break-your-budget/"><u>Unveiling the Top Six Photoshop Alternatives That Won't Break Your Budget</u></a></li>
+</ul></div>
 

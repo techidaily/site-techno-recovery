@@ -1,7 +1,7 @@
 ---
 title: "Initiating Pairing Process: Amazon Echo Dot User Manual"
-date: 2025-01-09T16:21:35.077Z
-updated: 2025-01-11T09:46:33.043Z
+date: 2025-01-20T22:35:56.851Z
+updated: 2025-01-23T00:37:03.381Z
 categories:
   - BestProducts
 description: "This Article Describes Initiating Pairing Process: Amazon Echo Dot User Manual"
@@ -15,10 +15,6 @@ thumbnail: https://thmb.techidaily.com/a284b8622794b8ba45f3866eaa63e737e0684e210
 >
 
 ## Initiating Pairing Process: Amazon Echo Dot User Manual
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### What to Know
 
@@ -43,7 +39,7 @@ Amazon
 4. Tap**Amazon Echo** .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 5. Tap**Echo, Echo Dot, Echo Plus, and More** .
@@ -52,22 +48,22 @@ Amazon
 ![Amazon Echo, Echo, Echo Dot, Echo Plus and more, and Yes highlighted in the Alexa app](https://www.lifewire.com/thmb/UE0z8bUMn60LsBQya2lLNUVhZ_Q=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002_setup-mode-echo-dot-5183932-f64149726d28456fa00caa1502870548.jpg)
 8. Tap your**Echo Dot** under Available Devices.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 9. Choose your Wi-Fi network, then tap**Continue** .  
 ![Echo Dot, Wi-Fi Network, and Continue highlighted in the Alexa app](https://www.lifewire.com/thmb/UyNdVW6oqTvBgXlIe9w8W6AlCF0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/003_setup-mode-echo-dot-5183932-1c64692464f74859a9dbf7eb004911b2.jpg)
 10. Continue following the prompts in the app to finish setting up your device. Select**Skip** when the option appears to configure these settings later.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Skip highlighted in the Alexa app setup screen](https://www.lifewire.com/thmb/t9cr0zEBHSfzkkSTPWqdkks-pu8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004_setup-mode-echo-dot-5183932-ef2640f0d0fb4cada97bfb3801deec7d.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What Is Echo Dot Setup Mode?
@@ -75,6 +71,10 @@ Amazon
  The first time it powers on, your Echo device will automatically enter setup mode. In setup mode, the Echo Dot connects to the Alexa app on your phone via Bluetooth. Once connected, you must connect your Dot to your Wi-Fi network. Your Echo Dot will not work without a Wi-Fi connection.
 
  You can tell your Echo is in setup mode when the ring of light turns from blue to orange. Once you've set up your Echo Dot, you can start using Alexa voice commands and[Alexa skills](https://www.lifewire.com/alexa-skills-4126799) .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Why Won't My Echo Dot Go Into Setup Mode?
 
@@ -116,16 +116,20 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/024-approved-selecting-snug-winter-scenes-as-video-sets/"><u>[New] 2024 Approved Selecting Snug Winter Scenes as Video Sets</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-in-2024-essential-design-modifications/"><u>[Updated] In 2024, Essential Design Modifications</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-luminous-language-the-secret-of-dynamic-story-titles/"><u>[Updated] Luminous Language The Secret of Dynamic Story Titles</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-do-i-stop-someone-from-tracking-my-vivo-y55s-5g-2023-drfone-by-drfone-virtual-android/"><u>In 2024, How Do I Stop Someone From Tracking My Vivo Y55s 5G (2023)? | Dr.fone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/is-it-possible-to-own-multiple-youtube-channels-simultaneously/"><u>Is It Possible to Own Multiple YouTube Channels Simultaneously?</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/1722883876264-join-forces-and-catch-em-all-team-up-for-ultimate-success-in-pokemon-go/"><u>Join Forces and Catch 'Em All: Team Up for Ultimate Success in Pokemon GO</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/overcoming-screen-issues-mastering-the-fix-for-askew-horizontal-bars-on-desktops-and-laptops/"><u>Overcoming Screen Issues: Mastering the Fix for Askew Horizontal Bars on Desktops and Laptops</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/pinnacle-goggles-ranking-best-5-for-drone-flyers-for-2024/"><u>Pinnacle Goggles Ranking Best 5 for Drone Flyers for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolving-the-dark-launch-issue-when-starting-monster-hunter-world/"><u>Resolving the Dark Launch Issue When Starting Monster Hunter: World</u></a></li>
-<li><a href="https://fox-http.techidaily.com/steady-silence-decreasing-volume-in-logic-pro-projects/"><u>Steady Silence Decreasing Volume in Logic Pro Projects</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/unlocking-new-features-how-to-make-the-most-of-iphones-live-activities-on-ios-16/"><u>Unlocking New Features: How to Make the Most of iPhone's Live Activities on iOS 16</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-elevate-narrative-flow-expert-tips-on-using-jump-cuts/"><u>[New] 2024 Approved Elevate Narrative Flow Expert Tips on Using Jump Cuts</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-from-shadowy-fringe-to-front-row-action-gaining-popularity-in-tiktok-unboxings/"><u>[Updated] From Shadowy Fringe to Front Row Action Gaining Popularity in TikTok Unboxings</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-techniques-for-subtle-sound-diminution-in-audacity/"><u>[Updated] Techniques for Subtle Sound Diminution in Audacity</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-the-finest-cams-to-document-snow-sports-for-2024/"><u>[Updated] The Finest Cams to Document Snow Sports for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-cost-effective-streaming-on-low-cost-pcs/"><u>2024 Approved Cost-Effective Streaming on Low-Cost PCs</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-mastering-the-art-of-video-discovery-on-facebook/"><u>2024 Approved Mastering the Art of Video Discovery on Facebook</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/affordable-marvel-discover-the-most-stunning-non-samsung-android-device-for-just-200-exclusive-review-by-zdnet/"><u>Affordable Marvel: Discover the Most Stunning Non-Samsung Android Device for Just $200 - Exclusive Review by ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discover-the-incredible-pixel-9-deal-at-only-100-unlock-the-secret-tech-tips-from-zdnet-now/"><u>Discover the Incredible Pixel 9 Deal at Only $100! Unlock The Secret Tech Tips From ZDNET Now!</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/durable-and-timeless-exploring-the-cat-s22-flip-smartphones-performance-for-outdoor-use-techadvisor/"><u>Durable and Timeless: Exploring the CAT S22 Flip Smartphone's Performance for Outdoor Use | TechAdvisor</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/mastering-the-circle-app-compatible-android-models-and-optimal-usage-tips/"><u>Mastering the 'Circle' App: Compatible Android Models and Optimal Usage Tips</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/pixel-pop-goes-the-laptop-screen-with-these-websites-for-2024/"><u>Pixel Pop Goes the Laptop Screen with These Websites for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/protect-your-surface-duo-2-in-style-discover-the-perfect-pen-cover-for-added-safety-and-seamless-wireless-power-zdnets-latest-feature/"><u>Protect Your Surface Duo 2 in Style! Discover the Perfect Pen Cover for Added Safety and Seamless Wireless Power | ZDNET's Latest Feature</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/rapid-entry-methods-for-google-shortcuts-on-macos-a-comprehensive-guide/"><u>Rapid Entry Methods for Google Shortcuts on macOS: A Comprehensive Guide</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/streamline-email-writing-using-gmail-snippets-for-reduced-errors-and-faster-communication-a-must-read-guide-zdnet/"><u>Streamline Email Writing Using Gmail Snippets for Reduced Errors & Faster Communication: A Must-Read Guide | ZDNET.</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/ultimate-list-of-free-solutions-to-securely-archive-your-messages-in-gmail-outlook-and-yahoo/"><u>Ultimate List of Free Solutions to Securely Archive Your Messages in Gmail, Outlook, and Yahoo</u></a></li>
 </ul></div>
 

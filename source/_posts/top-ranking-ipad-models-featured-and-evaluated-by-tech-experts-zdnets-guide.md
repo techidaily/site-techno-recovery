@@ -1,7 +1,7 @@
 ---
 title: Top-Ranking iPad Models Featured & Evaluated by Tech Experts - ZDNet's Guide
-date: 2025-01-15T17:18:17.903Z
-updated: 2025-01-16T22:44:12.761Z
+date: 2025-01-16T01:44:38.048Z
+updated: 2025-01-23T07:23:55.651Z
 tags:
   - apple
 categories:
@@ -22,6 +22,10 @@ The display sizes of small tablets can range from six to 10 inches, with eight i
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What is the best small tablet right now?
 
 Based on our extensive hands-on testing with various tablets of all sizes, our pick for the best small tablet is the [iPad Mini](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2F2021-Apple-iPad-Mini-Wi-Fi%2Fdp%2FB09G9FW785%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C173a5220-77d1-43b6-a3ad-2eb6a0101999%7Cdtp&dtb=1), thanks to its 8.3-inch Liquid Retina display and weight of just under 1 pound. We also included compact-sized tablets from Amazon, Samsung, and other brands for those looking for something more compact and easy to carry. 
@@ -41,11 +45,11 @@ Cons
 * Cellular connectivity is additional cost
 * Expensive
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Apple iPad Mini 6th Generation
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Best small tablet overall
 
@@ -77,6 +81,10 @@ Pros
 Cons 
 * Performance is slightly slow
 * Cameras aren't as great as other options
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Amazon Fire 7 Tablet
 
@@ -112,10 +120,6 @@ Cons
 
 ## Boox Tab Mini C
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Best small tablet for note-taking
 
 Boox is an e-reader and drawing tablet with a vivid color display, so your e-book's illustrations will pop as you read, and so will your color-coordinated notes. Speaking of which, the note-taking templates on the Tab Mini C are handy. Whether you're a student taking Cornell-style notes, a desk job employee making an hourly plan for your day, a musician crafting a piece of sheet music, or a historian drafting a timeline, the Tab Mini C offers a template for that. 
@@ -144,10 +148,6 @@ Cons
 * No warm light option
 
 ## Amazon Kindle 11th generation
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Best small tablet for reading
 
@@ -178,7 +178,7 @@ Cons
 * Performance could be better
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Samsung Galaxy Tab A7 Lite
@@ -208,7 +208,7 @@ The best small tablet is the iPad Mini because of its sharp display and impressi
 | Samsung Galaxy A7 Lite | $100      | 8.7 inches          | 1340x800 pixels   |
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Which small tablet is right for you?
@@ -222,6 +222,10 @@ It really depends on what size tablet you're looking for, which operating system
 | Boox Tab Mini C                             | The best close-to-high-end tablet that functions as an e-reader, note-taker, illustrator, and web-surfer. With a vivid display, long-lasting battery life, and customizable settings for the ultimate user experience, this tablet is the stylish and sleek deskside companion you need. |
 | Amazon Kindle                               | A small and portable tablet designed for reading with dark mode and six weeks of battery life. Its 300ppi is the same display as the Kindle Paperwhite and the Kindle Oasis.                                                                                                             |
 | Samsung Galaxy A7 Lite                      | A small Samsung tablet with expandable storage and an exceptional battery life. The tablet allows for up to 1TB of expandable storage.                                                                                                                                                   |
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Factors to consider when choosing the best small tablets:
 
@@ -250,10 +254,6 @@ The smallest tablet screen size on the market is 6 to 7 inches. Anything smaller
 
 It's why you want to consider your primary uses when considering which small tablet is right for you. To demonstrate, if you travel often, one with a smaller screen will be perfect for carrying/using on an airplane. If your aim is to read more e-books or draw, you'll want one with a larger screen. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What brand of tablet is best?
 
 Tablets made by Apple, Samsung, and Microsoft are the best-made tablets in terms of quality. Amazon has well-rounded tablets in its Fire lineup but with fewer performance-focused features. Boox is also proving to be an industry underdog, with impressive tablets that function as e-readers and illustrators. 
@@ -261,6 +261,10 @@ Tablets made by Apple, Samsung, and Microsoft are the best-made tablets in terms
 Keep in mind in certain cases (Apple, Samsung), you can pair your other devices with the tablet. In the case of Apple tablets, you can log in using your Apple ID to access the same apps, pictures, and more from your phone on your iPad. 
 
 Meanwhile, with Samsung devices, you can implement Samsung Flow. Download the app on your phone and tablet. You can connect your tablet to your phone via Bluetooth or Wi-Fi. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Are mini Android tablets worth it?
 
@@ -271,10 +275,6 @@ Their lightweight body and compact design make them perfect traveling companions
 ## What is the smallest iPad?
 
 The smallest [iPad](https://www.zdnet.com/article/best-ipad/) is the iPad Mini which has a screen size of 8.3 inches. It's also lightweight at just under one pound. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Are there alternative small tablets worth considering?
 
@@ -322,22 +322,22 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-innovative-approaches-to-network-broadcast-with-vlc/"><u>[New] Innovative Approaches to Network Broadcast with VLC</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-spark-innovation-with-these-androids-top-graphic-designers/"><u>[Updated] 2024 Approved Spark Innovation with These Android's Top Graphic Designers</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-custom-soundtracks-simplified-converting-from-spotify-playlists-to-youtube-music/"><u>[Updated] Custom Soundtracks Simplified Converting From Spotify Playlists to YouTube Music</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-superior-sd-card-compatible-with-a7s-ii/"><u>2024 Approved Superior SD Card Compatible with A7S II</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/8-best-apps-for-screen-mirroring-oppo-a1-5g-pc-drfone-by-drfone-android/"><u>8 Best Apps for Screen Mirroring Oppo A1 5G PC | Dr.fone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/comprehensive-guide-navigating-and-resolving-chatgpt-moderation-mistakes/"><u>Comprehensive Guide: Navigating and Resolving ChatGPT Moderation Mistakes</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/1722897678540-discover-samsungs-next-big-thing-the-galaxy-z-fold-6-with-release-info-and-pricing-details/"><u>Discover Samsung's Next Big Thing: The Galaxy Z Fold 6 with Release Info & Pricing Details!</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/easy-steps-to-hide-personal-contact-information-on-android-phones/"><u>Easy Steps to Hide Personal Contact Information on Android Phones</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/enhance-your-samsung-tv-with-the-latest-updates-easy-tutorial-included/"><u>Enhance Your Samsung TV with the Latest Updates - Easy Tutorial Included!</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/guide-to-stop-amber-and-crisis-sms-alarms-on-your-iphone-device/"><u>Guide to Stop Amber and Crisis SMS Alarms on Your iPhone Device</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/guide-shifting-from-google-photos-storage-to-icloud-backup-solutions/"><u>Guide: Shifting From Google Photos Storage to iCloud Backup Solutions</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/lunapic-101-a-step-by-step-photo-editing-guide/"><u>LunaPic 101 A Step-by-Step Photo Editing Guide</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/no-access-to-domain-services-printer-not-responding/"><u>No Access To Domain Services, Printer Not Responding</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/quick-fixes-for-restarting-your-macbook-pro-efficiently/"><u>Quick Fixes for Restarting Your MacBook Pro Efficiently</u></a></li>
-<li><a href="https://win-answers.techidaily.com/quick-guide-overcoming-game-lag-and-crashes-on-path-of-exile-free/"><u>Quick Guide: Overcoming Game Lag and Crashes on Path of Exile (Free)</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/step-by-step-guide-customizing-your-macs-folder-colors/"><u>Step-by-Step Guide: Customizing Your Mac's Folder Colors</u></a></li>
-<li><a href="https://location-social.techidaily.com/why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-realme-11x-5g-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Location is Not Updating and How to Fix On Realme 11X 5G | Dr.fone</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-navigating-exit-the-guide-to-disconnecting-from-a-discord-community/"><u>[New] Navigating Exit The Guide to Disconnecting From a Discord Community</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/bring-your-digital-world-bigger-a-step-by-step-tutorial-for-connecting-windows-desktop-to-tv-using-chromecast/"><u>Bring Your Digital World Bigger: A Step-by-Step Tutorial for Connecting Windows Desktop to TV Using Chromecast</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/connecting-with-friends-a-guide-to-using-messenger-independently-of-facebook/"><u>Connecting with Friends: A Guide to Using Messenger Independently of Facebook</u></a></li>
+<li><a href="https://win-blog.techidaily.com/find-the-right-solution-for-your-xcom-2-game-crash-issues-on-a-windows-computer/"><u>Find the Right Solution for Your XCOM 2 Game Crash Issues on a Windows Computer.</u></a></li>
+<li><a href="https://howto.techidaily.com/fixes-for-apps-keep-crashing-on-vivo-y17s-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixes for Apps Keep Crashing on Vivo Y17s | Dr.fone</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-the-newest-80211n-wireless-network-drivers-compatible-with-windows-111087/"><u>Get the Newest 802.11N Wireless Network Drivers Compatible with Windows 11/10/8/7</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-ultimate-guide-on-oppo-reno-10-pro-5g-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide on Oppo Reno 10 Pro 5G FRP Bypass</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ios-vs-android-a-detailed-look-at-app-store-features-against-google-play/"><u>IOS Vs. Android: A Detailed Look at App Store Features Against Google Play</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/mac-versus-pc-understanding-their-fundamental-variances/"><u>Mac versus PC: Understanding Their Fundamental Variances</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/master-the-fix-a-guide-to-overcoming-your-apple-watchs-pairing-problem-with-6-solutions/"><u>Master the Fix: A Guide to Overcoming Your Apple Watch's Pairing Problem with 6 Solutions</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/navigating-the-vulnerabilities-the-risk-of-maliciously-exploiting-windows-update-for-counteracting-security-patches/"><u>Navigating the Vulnerabilities: The Risk of Maliciously Exploiting Windows Update for Counteracting Security Patches</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/overcoming-challenges-repairing-steam-errors-related-to-disk-operations/"><u>Overcoming Challenges: Repairing Steam Errors Related to Disk Operations</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/review-insight-on-garmins-best-featured/"><u>Review Insight on Garmin's Best Featured</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-solutions-when-usb-internet-sharing-fails/"><u>Step-by-Step Solutions When USB Internet Sharing Fails</u></a></li>
+<li><a href="https://techtrends.techidaily.com/transforming-your-windows-11-experience-altering-taskbar-hue/"><u>Transforming Your Windows 11 Experience - Altering Taskbar Hue</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/troubleshooting-and-correcting-missing-mfc42ddll-error-messages/"><u>Troubleshooting and Correcting Missing mfc42d.dll Error Messages</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/tutorial-securely-transferring-netflix-tv-shows-and-movies-to-your-computer/"><u>Tutorial: Securely Transferring Netflix TV Shows and Movies to Your Computer</u></a></li>
 </ul></div>
 

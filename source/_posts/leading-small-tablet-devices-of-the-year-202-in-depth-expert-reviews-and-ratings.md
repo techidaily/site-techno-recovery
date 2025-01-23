@@ -1,7 +1,7 @@
 ---
 title: "Leading Small Tablet Devices of the Year (202#): In-Depth Expert Reviews & Ratings"
-date: 2025-01-12T19:55:35.538Z
-updated: 2025-01-16T16:23:19.728Z
+date: 2025-01-22T07:06:56.507Z
+updated: 2025-01-23T04:53:00.356Z
 tags:
   - apple
 categories:
@@ -22,13 +22,13 @@ The display sizes of small tablets can range from six to 10 inches, with eight i
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What is the best small tablet right now?
 
 Based on our extensive hands-on testing with various tablets of all sizes, our pick for the best small tablet is the [iPad Mini](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2F2021-Apple-iPad-Mini-Wi-Fi%2Fdp%2FB09G9FW785%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C479d813a-a6f1-4037-9b2e-301b10e6bf17%7Cdtp&dtb=1), thanks to its 8.3-inch Liquid Retina display and weight of just under 1 pound. We also included compact-sized tablets from Amazon, Samsung, and other brands for those looking for something more compact and easy to carry. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## The best small tablets of 2024
 
@@ -45,7 +45,15 @@ Cons
 * Cellular connectivity is additional cost
 * Expensive
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Apple iPad Mini 6th Generation
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Best small tablet overall
 
@@ -81,7 +89,7 @@ Cons
 ## Amazon Fire 7 Tablet
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Best budget small tablet
@@ -116,6 +124,10 @@ Cons
 
 ## Boox Tab Mini C
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Best small tablet for note-taking
 
 Boox is an e-reader and drawing tablet with a vivid color display, so your e-book's illustrations will pop as you read, and so will your color-coordinated notes. Speaking of which, the note-taking templates on the Tab Mini C are handy. Whether you're a student taking Cornell-style notes, a desk job employee making an hourly plan for your day, a musician crafting a piece of sheet music, or a historian drafting a timeline, the Tab Mini C offers a template for that. 
@@ -143,11 +155,11 @@ Cons
 * Web browser functionality could be better
 * No warm light option
 
-## Amazon Kindle 11th generation
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+## Amazon Kindle 11th generation
 
 ### Best small tablet for reading
 
@@ -178,7 +190,7 @@ Cons
 * Performance could be better
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Samsung Galaxy Tab A7 Lite
@@ -194,10 +206,6 @@ In addition, you can expand your storage beyond the 32GB or 64GB allotted. The t
 **Samsung Galaxy Tab A7 Lite tech specs: Display**: 8.7-inch, 1340x800 display | **Processor**: MediaTek MT8768N | **Storage**: 32GB or 64GB | **Colors**: Gray | **Cameras**: 2MP front and 8MP rear | **Weight**: 0.81lbs | **Dimensions**: 8.37 x 4.91 x 0.31 inches | **Connections**: 3.5mm headphone jack, USB-C | **Battery:** 10 to 12 hours
 
 Show Expert Take Show less 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What is the best small tablet?
 
@@ -222,10 +230,6 @@ It really depends on what size tablet you're looking for, which operating system
 | Boox Tab Mini C                             | The best close-to-high-end tablet that functions as an e-reader, note-taker, illustrator, and web-surfer. With a vivid display, long-lasting battery life, and customizable settings for the ultimate user experience, this tablet is the stylish and sleek deskside companion you need. |
 | Amazon Kindle                               | A small and portable tablet designed for reading with dark mode and six weeks of battery life. Its 300ppi is the same display as the Kindle Paperwhite and the Kindle Oasis.                                                                                                             |
 | Samsung Galaxy A7 Lite                      | A small Samsung tablet with expandable storage and an exceptional battery life. The tablet allows for up to 1TB of expandable storage.                                                                                                                                                   |
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Factors to consider when choosing the best small tablets:
 
@@ -271,10 +275,6 @@ Their lightweight body and compact design make them perfect traveling companions
 ## What is the smallest iPad?
 
 The smallest [iPad](https://www.zdnet.com/article/best-ipad/) is the iPad Mini which has a screen size of 8.3 inches. It's also lightweight at just under one pound. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Are there alternative small tablets worth considering?
 
@@ -322,24 +322,20 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-in-2024-sync-audio-to-powerpoint-presentations/"><u>[New] In 2024, Sync Audio to PowerPoint Presentations</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-the-filmmakers-roadmap-creating-youtube-trailers-using-filmora/"><u>[New] The Filmmaker's Roadmap Creating YouTube Trailers Using Filmora</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-forward-thinking-desktopmobile-chat-apps/"><u>[Updated] 2024 Approved Forward-Thinking Desktop/Mobile Chat Apps</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-unlocking-network-growth-share-igtv-videos-and-fb/"><u>[Updated] 2024 Approved Unlocking Network Growth Share IGTV Videos & FB</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-in-2024-compiling-the-best-12-cost-free-video-apps-for-all-platforms/"><u>[Updated] In 2024, Compiling the Best 12 Cost-Free Video Apps for All Platforms</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-instantvideo-snipper-fb-edition-for-2024/"><u>[Updated] InstantVideo Snipper - FB Edition for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-wildlife-documentary-contenders-hero5-black-vs-sj7-for-2024/"><u>[Updated] Wildlife Documentary Contenders Hero5 Black Vs SJ7 for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/computer-speed-upgrade-success-story-bid-farewell-to-freezes-and-stalls/"><u>Computer Speed Upgrade Success Story: Bid Farewell to Freezes and Stalls!</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/connect-and-enjoy-a-visual-walkthrough-of-adding-a-bluetooth-headset-to-your-ps4-gaming-system/"><u>Connect & Enjoy: A Visual Walkthrough of Adding a Bluetooth Headset to Your PS4 Gaming System</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/connecting-devices-made-easy-hook-up-your-laptop-to-a-large-screen-display/"><u>Connecting Devices Made Easy: Hook Up Your Laptop to a Large Screen Display</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/connecting-your-brother-printer-to-wifi-a-comprehensive-guide-including-driver-download/"><u>Connecting Your Brother Printer to WiFi - A Comprehensive Guide Including Driver Download</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/diy-fixes-for-when-your-lenovos-backlit-keyboard-stops-working/"><u>DIY Fixes for When Your Lenovo's Backlit Keyboard Stops Working</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/does-my-laptop-have-bluetooth-two-ways-to-check/"><u>Does My Laptop Have Bluetooth? [Two Ways to Check]</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/easy-diy-system-refresh-how-to-factory-reset-windows-7-without-needing-an-installation-cd/"><u>Easy DIY System Refresh: How to Factory Reset Windows 7 Without Needing an Installation CD</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/easy-guide-to-trigger-safe-mode-on-your-windows-n-methods-and-images-included/"><u>Easy Guide to Trigger Safe Mode on Your Windows N - Methods & Images Included</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/easy-steps-to-successful-torrent-downloads-an-in-depth-guide-for-newbies/"><u>Easy Steps to Successful Torrent Downloads: An In-Depth Guide for Newbies</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/error-1068-troubleshooting-for-windows-users-quick-fixes-inside/"><u>Error 1068 Troubleshooting for Windows Users - Quick Fixes Inside!</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/liberate-yourself-with-free-movie-player-software-for-2024/"><u>Liberate Yourself with FREE MOVIE PLAYER Software for 2024</u></a></li>
-<li><a href="https://discover-cloud.techidaily.com/transferer-avec-succes-vos-fonds-aifc-a-une-plateforme-en-ligne-gratuite-guide-de-movavi/"><u>Transférer Avec Succès Vos Fonds AIFC À Une Plateforme en Ligne Gratuite - Guide De Movavi</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-a-list-ps3-mimicry-software-on-pcs-ranked-1-5/"><u>[Updated] A-List PS3 Mimicry Software on PCs, Ranked #1-5</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-perfecting-your-makeup-mastery/"><u>[Updated] In 2024, Perfecting Your Makeup Mastery</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-maximizing-gaming-experience-record-games-on-win10-for-2024/"><u>[Updated] Maximizing Gaming Experience Record Games on Win10 for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/all-you-need-to-know-about-the-next-google-pixel-anticipated-price-launch-date-and-specs-rumors-included/"><u>All You Need to Know About the Next Google Pixel: Anticipated Price, Launch Date & Specs - Rumors Included!</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/complete-dragon-ball-saga-experience-how-to-watch-in-order/"><u>Complete Dragon Ball Saga Experience – How to Watch In Order?</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/create-unforgettable-moments-with-this-how-to-on-throwing-an-at-home-karaoke-gathering/"><u>Create Unforgettable Moments with This How-To on Throwing an At-Home Karaoke Gathering</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discover-the-best-6-mobile-journal-apps-that-enhance-personal-productivity/"><u>Discover the Best 6 Mobile Journal Apps That Enhance Personal Productivity</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/essential-tips-for-fixing-non-printing-problems-with-your-printer-by-yl-software-experts/"><u>Essential Tips for Fixing Non-Printing Problems with Your Printer by YL Software Experts</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/guide-repairing-winhttpdll-missing-error-messages-on-your-pc/"><u>Guide: Repairing 'Winhttp.dll' Missing Error Messages on Your PC</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-resolve-d3dx933dll-could-not-be-loaded-issue-effectively/"><u>How to Resolve d3dx9_33.dll Could Not Be Loaded Issue Effectively</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/navigating-the-market-is-buying-a-blu-ray-player-a-good-decision-now/"><u>Navigating the Market: Is Buying a Blu-Ray Player a Good Decision Now?</u></a></li>
+<li><a href="https://extra-support.techidaily.com/optimal-websites-to-increase-youtube-views-for-2024/"><u>Optimal Websites to Increase YouTube Views for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/paint-jocular-visuals-with-giphy-in-mind/"><u>Paint Jocular Visuals with Giphy in Mind</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/securely-execute-a-full-ms-sql-server-table-backup-6-effective-methods/"><u>Securely Execute a Full MS SQL Server Table Backup: 6 Effective Methods</u></a></li>
+<li><a href="https://discover-exclusive.techidaily.com/yl-computings-comprehensive-collection-of-wide-angle-photography-stunning-backgrounds-and-wallpapers/"><u>YL Computing's Comprehensive Collection of Wide Angle Photography: Stunning Backgrounds & Wallpapers</u></a></li>
 </ul></div>
 

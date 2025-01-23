@@ -1,7 +1,7 @@
 ---
 title: "Revolutionizing Portability: Discover the M4-Enhanced New Mac Mini, Tiny as an Apple TV!"
-date: 2025-01-13T01:43:40.965Z
-updated: 2025-01-16T19:17:51.357Z
+date: 2025-01-18T04:14:00.083Z
+updated: 2025-01-22T23:17:53.354Z
 tags:
   - apple
 categories:
@@ -23,7 +23,7 @@ The ever-evolving, rapidly changing landscape of mobile technology means that wh
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### SPECIAL FEATURE
@@ -35,7 +35,7 @@ This year, five topics will likely dominate the headlines, dictate the next indu
 And that's just the beginning, as you'll find more notable trends in the list below, all of which have already begun to take shape.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. On-device AI puts the 'smart' in smartphone
@@ -53,7 +53,7 @@ Samsung's just-released [Galaxy S24 smartphones](https://www.zdnet.com/article/e
 Qualcomm is playing a major role here as well, with its flagship [Snapdragon 8 Gen 3 chipset](https://www.zdnet.com/article/qualcomms-new-snapdragon-8-gen-3-mobile-chip-brings-generative-ai-to-smartphones/) enabling performance gains across the board on smartphones, from a 20% improvement in CPU, 30% in GPU, and 41% in NPU -- the latter of which is critical for devices to perform generative AI tasks in a power-efficient manner. Expect more flagship [Android phones](https://www.zdnet.com/article/best-android-phone/) this year -- as well as [VR and XR headsets](https://www.zdnet.com/article/best-vr-headset/) \-- to field Qualcomm's new processor, with plenty of AI-enabled capabilities in tow.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Foldables are getting better (and cheaper)
@@ -73,7 +73,7 @@ Now that the major players have entered the competition, the big question this y
 But there's hope. Carrier providers, who often discount the latest devices aggressively in exchange for customer loyalty (read: agreement to long-term installment plans), remain a primary source of US smartphone sales. Motorola's [standard Razr model](https://www.zdnet.com/article/this-motorola-is-still-200-off-and-its-surprisingly-capable/), which can be purchased for [as low as $499](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fmotorola-razr-2023-128gb-unlocked-sage-green%2F6557867.p%3F&publisher_slug=itechdaily19598&exclusive=1) at the time of writing, is another sign of good things to come. With that in mind, 2024 is looking to be a promising sequel to foldables' breakout year in 2023.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Qi2 bridges a long-standing gap in charging
@@ -93,7 +93,7 @@ The adoption of such technology bridges a longstanding gap between MagSafe-compa
 **Also: [The best wireless chargers for iPhone and Android phones](https://www.zdnet.com/article/best-wireless-charger/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Periscope lenses push cameras to further distances
@@ -168,22 +168,24 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/024-approved-become-a-yt-hub-pro-complete-guide-revealed/"><u>[New] 2024 Approved Become a YT Hub Pro Complete Guide Revealed</u></a></li>
-<li><a href="https://article-posts.techidaily.com/new-in-2024-6-best-free-apps-to-compress-videos-on-android/"><u>[New] In 2024, 6 Best Free Apps to Compress Videos on Android</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-2024-approved-cutting-edge-look-ups-top-15-luts-for-gopro-action-footage/"><u>[Updated] 2024 Approved Cutting-Edge Look-Ups Top 15 LUTs for GoPro Action Footage</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-seamless-android-screen-grabber/"><u>2024 Approved Seamless Android Screen Grabber</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/a-perfect-guide-to-remove-or-disable-google-smart-lock-on-oneplus-nord-ce-3-lite-5g-by-drfone-android/"><u>A Perfect Guide To Remove or Disable Google Smart Lock On OnePlus Nord CE 3 Lite 5G</u></a></li>
-<li><a href="https://win-webmaster.techidaily.com/conversione-libera-online-da-swf-a-wmv-utilizzando-il-servizio-di-movavi/"><u>Conversione Libera Online Da SWF a WMV Utilizzando Il Servizio Di Movavi</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/dealing-with-server-errors-insight-into-the-40urt-request-timed-out-problem-definition-plus-solutions/"><u>Dealing with Server Errors: Insight Into the 40Urt Request Timed Out Problem (Definition + Solutions)</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/how-to-reinitialize-bios-settings-using-the-cmos-reset-method/"><u>How To Reinitialize BIOS Settings Using the CMOS Reset Method</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/how-to-resolve-problems-with-a-non-functioning-zoom-webcam/"><u>How To Resolve Problems With A Non-Functioning Zoom Webcam</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-use-pokemon-emerald-master-ball-cheat-on-vivo-y36-drfone-by-drfone-virtual-android/"><u>How to Use Pokémon Emerald Master Ball Cheat On Vivo Y36 | Dr.fone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/is-optimal-internet-coverage-worth-it-with-a-wi-fi-mesh-setup/"><u>Is Optimal Internet Coverage Worth It with a Wi-Fi Mesh Setup?</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/solutions-for-microsoft-edge-malfunctioning-problems/"><u>Solutions for Microsoft Edge Malfunctioning Problems</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/solving-the-problem-no-signal-on-your-stadia-headset-how-to-reconnect/"><u>Solving the Problem: No Signal on Your Stadia Headset - How to Reconnect?</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/the-ultimate-list-of-15-free-protective-boot-loaders-you-should-try-today/"><u>The Ultimate List of 15 Free Protective Boot Loaders You Should Try Today</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/top-11-motivational-films-that-will-fuel-your-spirit/"><u>Top 11 Motivational Films That Will Fuel Your Spirit</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/troubleshooting-tips-for-overcoming-netflixs-error-code-nw-1-19/"><u>Troubleshooting Tips for Overcoming Netflix's Error Code NW-1-19</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/ultimate-guide-updating-your-ati-radeon-graphics-card-drivers-on-windows/"><u>Ultimate Guide: Updating Your ATI Radeon Graphics Card Drivers on Windows</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-the-pathway-to-captivating-audio-on-macos-via-audacity/"><u>[New] In 2024, The Pathway to Captivating Audio on MacOS via Audacity</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-top-10-free-os-compatible-videography-applications/"><u>[New] Top 10 Free, OS-Compatible Videography Applications</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-introducing-sw320s-visionary-approach-to-4k-monitoring-for-2024/"><u>[Updated] Introducing Sw320’s Visionary Approach to 4K Monitoring for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-android-guide-enhance-your-video/"><u>2024 Approved Android Guide Enhance Your Video</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-game-on-with-the-samsung-ue590-a-freesync-dream-tv-review/"><u>2024 Approved Game On with the Samsung UE590 A FreeSync Dream TV Review</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/2024s-ultimate-selection-of-vehicle-battery-boosters-professional-evaluations-and-rankings-cnet/"><u>2024'S Ultimate Selection of Vehicle Battery Boosters: Professional Evaluations and Rankings | CNET</u></a></li>
+<li><a href="https://article-posts.techidaily.com/comparing-the-best-gopro-max-360-vs-hero-11/"><u>Comparing the Best GoPro Max 360 VS Hero 11</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/exploring-the-latest-innovations-in-smart-home-technology-dive-into-google-nest-learning-thermostats-enhanced-capabilities-technical-details-cost-breakdown-72/"><u>Exploring the Latest Innovations in Smart Home Technology: Dive Into Google Nest Learning Thermostat's Enhanced Capabilities, Technical Details, Cost Breakdown & Extra Insights | TechRadar</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-newest-amd-ati-radeon-hd-3450-driver-software-instantly/"><u>Get the Newest AMD ATI Radeon HD 3450 Driver Software Instantly</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/get-your-hands-on-the-powerful-jackery-explorer-1000-with-a-whopping-250-off-this-black-friday-exclusive-zdnet-scoop-inside/"><u>Get Your Hands on the Powerful Jackery Explorer 1000 with a Whopping $250 Off This Black Friday, Exclusive ZDNET Scoop Inside</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/govees-clever-space-heater-discount-get-it-now-for-40-less-discover-more-on-zdnet/"><u>Govee's Clever Space Heater Discount: Get It Now for $40 Less! Discover More on ZDNET</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-resolve-the-dragon-age-origins-keeps-crashing-issue-on-windows-10-computers/"><u>How to Resolve the 'Dragon Age: Origins Keeps Crashing' Issue on Windows 10 Computers</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-data-from-iphone-12-pro-max-to-other-iphone-11-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone 12 Pro Max To Other iPhone 11 devices? | Dr.fone</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-say-goodbye-to-filmora-watermark-free-and-paid-solutions-revealed/"><u>New Say Goodbye to Filmora Watermark Free and Paid Solutions Revealed</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-2023-tesla-models-ranked-a-comprehensive-review-of-model-s-3-x-and-y-zdnet-analysis/"><u>Top 2023 Tesla Models Ranked: A Comprehensive Review of Model S, 3, X, and Y | ZDNet Analysis</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-rated-electric-vehicle-home-charging-stations-zdnets-expert-picks/"><u>Top Rated Electric Vehicle Home Charging Stations - ZDNET's Expert Picks</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-rated-portable-power-station-reviews-comprehensive-guide-by-tech-experts-zdnet/"><u>Top-Rated Portable Power Station Reviews : Comprehensive Guide by Tech Experts | ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-rated-space-heaters-expert-picks-and-reviews/"><u>Top-Rated Space Heaters : Expert Picks & Reviews</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unleash-ultimate-productivity-with-the-zendure-superbase-pro-200-cu-ft-tank-expert-hands-on-test-results-revealed-tech-innovation-today/"><u>Unleash Ultimate Productivity with the Zendure SuperBase Pro 200 Cu Ft Tank: Expert Hands-On Test Results Revealed | Tech Innovation Today</u></a></li>
 </ul></div>
 

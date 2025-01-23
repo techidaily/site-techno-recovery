@@ -1,7 +1,7 @@
 ---
 title: Extend the Battery Life of Your Apple Watch by Tweaking These 8 Settings | ZDNet
-date: 2025-01-08T16:38:24.875Z
-updated: 2025-01-11T09:25:50.229Z
+date: 2025-01-16T03:08:03.665Z
+updated: 2025-01-22T18:48:36.719Z
 tags:
   - apple
 categories:
@@ -37,7 +37,7 @@ Even with a healthy battery life in my device, I'm not sure when the problem ori
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Turn off the always-on display
@@ -47,7 +47,7 @@ This is the most effective thing you can do to preserve your Apple Watch's batte
 **How to:** On your Apple Watch, head to Settings > Display & Brightness > Always On, then toggle the feature off.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Use Low Power Mode when you can
@@ -65,6 +65,10 @@ If you have an Apple Watch with cellular connectivity, it's best to not use your
 **How to:** Open Settings > Cellular on your watch and toggle off "Cellular." Then, when you want to turn it back on, flick the switch again. It's worth noting that airplane mode will essentially do the same thing, but it also turns off Wi-Fi which you need for certain things, so manually disabling cellular data will save some steps.
 
 Jason Hiner/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Turn off background app refresh
 
@@ -84,15 +88,15 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. Turn off irregular heart rate notifications
 
 With some of the newest Apple Watches, Apple includes a feature that can alert you when your heart rate is beating in irregular intervals and alert you when it may be atrial fibrillation. While that's nice to have for tracking your health over time, it means the heart rate sensor is constantly on collecting your heart rate, which isn't good for battery life.
 
 **How to:** Visit Settings > Heart > Irregular Rhythm Notifications and flick the feature off.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 6\. Reduce the amount of notifications you get
 
@@ -101,10 +105,6 @@ When a notification comes in, it not only plays a "ding!" to alert you, it also 
 **How to:** On your iPhone, open the Apple Watch app and navigate to "Notifications." From there, you'll be presented with a list of the apps on your phone that are sending notifications to your watch. Go through the list and turn off the ones you don't want to receive any longer. You also have the option to group notifications together if a particular app sends you a lot during the day but you want to keep them on.
 
 **Also:** [**Your Apple Watch is getting an upgrade - here are the best features in WatchOS 11**](https://www.zdnet.com/article/your-apple-watch-is-getting-an-upgrade-here-are-the-best-features-in-watchos-11/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 7\. Turn off Siri
 
@@ -115,7 +115,7 @@ Ah, Siri. Many people swear by the voice assistant and use it daily to do things
 Adrian Kingsley-Hughes/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 8\. Factory reset your Apple Watch (a.k.a. the last resort)
@@ -165,24 +165,20 @@ For a deeper look at our testing process, check out our comprehensive [smartwatc
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-exceptional-hd-video-capturing-options-compiled-here-for-2024/"><u>[New] Exceptional HD Video Capturing Options Compiled Here for 2024</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-in-2024-master-the-art-of-photo-purity-with-picart/"><u>[New] In 2024, Master the Art of Photo Purity with PicArt</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-experts-guide-to-minecraft-3d-shapes-crafting/"><u>[Updated] 2024 Approved Expert's Guide to Minecraft 3D Shapes Crafting</u></a></li>
-<li><a href="https://win11.techidaily.com/5-apps-that-elevate-your-desktop-writing-game/"><u>5 Apps That Elevate Your Desktop Writing Game</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/best-books-apps-you-cant-miss-out-on-this-year/"><u>Best Books Apps You Can't Miss Out On This Year</u></a></li>
-<li><a href="https://discover-advanced.techidaily.com/effortless-windows-file-server-snapshots-a-step-by-step-tutorial-for-all-system-types/"><u>Effortless Windows File Server Snapshots - A Step-By-Step Tutorial for All System Types</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/essential-techniques-for-resolving-windows-upgrade-frustrations/"><u>Essential Techniques for Resolving Windows Upgrade Frustrations</u></a></li>
-<li><a href="https://extra-information.techidaily.com/greatest-20-open-source-copy-free-pubg/"><u>Greatest 20 Open Source, Copy-Free PUBG</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/how-to-integrate-multiple-playlists-on-spotify-with-simple-steps/"><u>How to Integrate Multiple Playlists on Spotify with Simple Steps</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-rootjunky-apk-to-bypass-google-frp-lock-for-vivo-by-drfone-android/"><u>In 2024, Rootjunky APK To Bypass Google FRP Lock For Vivo</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/overcome-your-chromebooks-frozen-state-with-these-nine-fixes/"><u>Overcome Your Chromebook's Frozen State with These Nine Fixes</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/reap-endless-visual-resources-via-four-prime-youtube-sites-for-2024/"><u>Reap Endless Visual Resources via Four Prime YouTube Sites for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/step-by-step-instructions-to-activate-picture-in-picture-on-your-android-device/"><u>Step-by-Step Instructions to Activate Picture-in-Picture on Your Android Device</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/troubleshooting-the-missing-d3dx9nine-dll-effective-solutions-explored/"><u>Troubleshooting the Missing D3dx9_nine Dll: Effective Solutions Explored</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/ultimate-guide-on-how-to-forever-eliminate-your-yahoo-email-account/"><u>Ultimate Guide on How to Forever Eliminate Your Yahoo Email Account</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/ultimate-guide-setting-up-your-network-drive-on-macos/"><u>Ultimate Guide: Setting Up Your Network Drive on macOS</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/unraveling-the-mystery-behind-google-hangouts-everything-you-need-to-know/"><u>Unraveling the Mystery Behind Google Hangouts: Everything You Need to Know</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/unveiling-the-cryptic-direct-x-malfunction-in-lol/"><u>Unveiling the Cryptic Direct X Malfunction in LoL</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/upcoming-apple-home-automation-bot-insights-on-costs-launch-timeline-and-features/"><u>Upcoming Apple Home Automation Bot: Insights on Costs, Launch Timeline & Features</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-rapid-ascension-harness-likes-and-videos-for-insta-success/"><u>[New] 2024 Approved Rapid Ascension Harness Likes & Videos for Insta Success</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/new-effortless-entertainment-looping-youtube-videos-for-tv-viewers/"><u>[New] Effortless Entertainment Looping YouTube Videos for TV Viewers</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-changing-frozen-moments-into-sequential-movies/"><u>[New] In 2024, Changing Frozen Moments Into Sequential Movies</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-the-truth-about-magix-video-pro-xs-performance/"><u>[Updated] In 2024, The Truth About Magix Video Pro X's Performance</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-trailblazers-in-vr-eyewear-design/"><u>2024 Approved Trailblazers in VR Eyewear Design</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/enhance-your-living-room-soundscape-save-big-on-a-discounted-jbl-soundbar-during-amazon-prime-day-insider-tips/"><u>Enhance Your Living Room Soundscape: Save Big on a Discounted JBL Soundbar During Amazon Prime Day - Insider Tips!</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/exclusive-picks-top-presidents-day-blowout-sales-on-amazon-walmart-and-best-buy-dont-miss-out/"><u>Exclusive Picks: Top President's Day Blowout Sales on Amazon, Walmart & Best Buy – Don't Miss Out!</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/re-virtual-realms-with-these-videos/"><u>Explore Virtual Realms with These Videos</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/hosting-success-expert-strategies-for-a-memorable-labor-day-bash-inspired-by-zdnet-proven-ideas/"><u>Hosting Success: Expert Strategies for a Memorable Labor Day Bash Inspired by ZDNET Proven Ideas</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/in-2024-cutting-edge-techniques-elevating-your-youtube-edits-using-imovie/"><u>In 2024, Cutting-Edge Techniques Elevating Your YouTube Edits Using iMovie</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-apps-from-samsung-galaxy-a25-5g-to-another-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Apps from Samsung Galaxy A25 5G to Another | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/labor-day-deals-alert-score-your-new-echo-show-8-with-an-exclusive-30-discount-now-techreview/"><u>Labor Day Deals Alert: Score Your New Echo Show 8 with an Exclusive 30% Discount - Now! | TechReview</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/optimized-visual-quality-black-bar-and-box-frame-for-social-media-posts/"><u>Optimized Visual Quality Black Bar & Box Frame for Social Media Posts</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/revolutionize-your-living-space-grab-the-amazing-deal-on-the-affordable-30-echo-dot-and-transform-your-smart-home-zdnet-insights/"><u>Revolutionize Your Living Space: Grab the Amazing Deal on the Affordable $30 Echo Dot and Transform Your Smart Home - ZDNET Insights</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/section-3b-five-facts-to-remember/"><u>Section 3B: Five Facts to Remember</u></a></li>
 </ul></div>
 

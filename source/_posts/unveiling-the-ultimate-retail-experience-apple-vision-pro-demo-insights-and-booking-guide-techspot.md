@@ -1,7 +1,7 @@
 ---
 title: "Unveiling the Ultimate Retail Experience: Apple Vision Pro Demo Insights & Booking Guide | TechSpot"
-date: 2025-01-12T22:10:12.202Z
-updated: 2025-01-16T20:42:55.159Z
+date: 2025-01-20T17:27:23.847Z
+updated: 2025-01-22T23:42:13.958Z
 tags:
   - apple
 categories:
@@ -32,6 +32,10 @@ Before you get started using Apple Pay in stores and online, here's what you nee
 
 **What you need:** iPhone, banking information
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Set up Apple Pay in the Wallet app
 
 Before using Apple Pay as your contactless payment form, you need to set it up by adding your credit or debit cards to your iPhone. You can set up Apple Pay from your [iPhone's settings](https://www.zdnet.com/article/dont-change-five-these-iphone-settings/) or simply by going to the Wallet app and adding your cards there. 
@@ -41,7 +45,7 @@ Tap on the Wallet app to open it.
 Screenshot by Maria Diaz/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Tap on the Add Card button and enter Apple Pay info
@@ -65,10 +69,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
  Subscribe
 
 [See all](https://www.zdnet.com/newsletters/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. During check-out, double-click the right-side button of your iPhone
 
@@ -100,10 +100,6 @@ Apple
 
 That's it! Apple Pay is as easy as apple pie. (Sorry, I had to.) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## FAQ
 
 ## How do I set up Apple Pay from my iPhone Settings?
@@ -115,6 +111,10 @@ To set up Apple Pay, you go to your iPhone's Settings and follow these steps:
 
 Once you add your card to your Wallet, you can edit your settings to suit your needs. You can choose to enable Apple Cash; enable the double-click side button to work as a shortcut for Apple Pay' add Express Transit Cards to pay for transit automatically without a passcode or Face ID; edit your transaction information like default card, shipping address, and contact info; and toggle payments on your Mac on and off. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Where can I use Apple Pay to pay in stores and online?
 
 You can use Apple Pay with an iPhone or Apple Watch at checkout wherever there is a payment terminal with NFC. Most retailers have them at the checkout counter, with some exceptions. Just look for the NFC symbol on the card reader or an Apple Pay logo. Some banks even support Apple Pay at NFC-enabled ATMs so you can make withdrawals or access your account. 
@@ -122,10 +122,6 @@ You can use Apple Pay with an iPhone or Apple Watch at checkout wherever there i
 ## What is NFC?
 
 NFC stands for [near-field communication](https://www.zdnet.com/article/near-field-communication-aims-to-simplify-our-lives/). It's a technology that employs magnetic field induction to allow wireless communication between two electronic devices at a short range, typically less than 4 centimeters or 1.5 inches.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Can I use Apple Pay online?
 
@@ -145,6 +141,10 @@ To use Apple Pay online, choose Apple Pay at checkout from your iPhone or other 
 
 Some services from Apple offer rewards, like cash back on its credit cards, which also translate into Apple Cash. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to use Apple Pay on your Apple Watch
 
 The days of "I forgot my wallet" are long gone. Once you add a card to your Apple Wallet, you enable Apple Pay on your iPhone. But if you have an active Apple Watch linked to that iPhone, you can also use Apple Pay with just your watch, even if you don't have your iPhone with you when you check out. 
@@ -160,7 +160,7 @@ In order to use Apple Pay for contactless payments with your Apple Watch, you ne
 5. Select Transit Card to add an eligible transportation payment card.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Is Apple Pay secure?
@@ -197,22 +197,18 @@ Using Apple Pay or [Google Pay](https://www.zdnet.com/finance/google-pay-vs-sams
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://techno-recovery.techidaily.com/a-required-cddvd-drive-device-driver-missing-troubleshooting-and-fixes/"><u>'A Required CD/DVD Drive Device Driver Missing': Troubleshooting and Fixes</u></a></li>
-<li><a href="https://extra-information.techidaily.com/new-blur-no-more-top-10-web-photo-sharpening-apps/"><u>[New] Blur No More! Top 10 Web Photo Sharpening Apps</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-a-compre-written-by-daniel-kelley-for-2024/"><u>[Updated] A Compre Written by Daniel Kelley for 2024</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/buying-a-new-phone-iphone-vs-samsung-which-brand-wins-the-battle/"><u>Buying a New Phone : IPhone Vs. Samsung - Which Brand Wins the Battle?</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/clearing-up-space-effective-strategies-for-deleting-windowsold-files-in-windows-nvme/"><u>Clearing Up Space: Effective Strategies for Deleting Windows.old Files in Windows Nvme</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/complete-guide-restoring-your-acer-laptop-to-its-original-settings/"><u>Complete Guide: Restoring Your Acer Laptop to Its Original Settings</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/cost-free-strategies-for-locating-a-callers-cellular-signature/"><u>Cost-Free Strategies for Locating a Caller’s Cellular Signature</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/decoding-csrssexe-essential-info-on-the-client-server-runtime-process-for-your-pc-security/"><u>Decoding CSRSS.exe: Essential Info on the Client-Server Runtime Process for Your PC Security</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/get-acquainted-a-quick-guide-to-windows-11-basics-for-2024/"><u>Get Acquainted A Quick Guide to Windows 11 Basics for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/huge-discount-alert-grab-your-dream-laptop-this-cyber-monday-get-the-innovative-lg-gram-17-now-at-an-unbeatable-price-of-599-on-big-screen-and-lightweight-f36/"><u>Huge Discount Alert: Grab Your Dream Laptop This Cyber Monday! Get the Innovative LG Gram 17, Now at an Unbeatable Price of $599 on Big-Screen and Lightweight Features</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/in-2024-perfect-pixels-a-guide-to-the-11-best-edits-for-color-balance/"><u>In 2024, Perfect Pixels A Guide to the 11 Best Edits for Color Balance</u></a></li>
-<li><a href="https://win-blog.techidaily.com/overcoming-battlefield-4-launch-issues-on-personal-computers-solutions-included/"><u>Overcoming Battlefield 4 Launch Issues on Personal Computers - Solutions Included</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/1723808157763-quick-and-easy-chrome-browser-tricks-for-effective-website-blocking/"><u>Quick & Easy Chrome Browser Tricks for Effective Website Blocking!</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolved-tips-for-when-your-nvidia-sharing-tool-wont-work-properly/"><u>Resolved! Tips for When Your NVIDIA Sharing Tool Won't Work Properly</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ing-for-starred-youtube-conversations-for-2024/"><u>Scouting for Starred YouTube Conversations for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/1723808135348-windows-10-and-logitech-mouse-trouble-heres-how-you-can-solve-it/"><u>Windows 10 and Logitech Mouse Trouble? Here's How You Can Solve It</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/1723808056603-windows-11-installation-hurdles-cleared-strategies-that-worked-for-us/"><u>Windows 11 Installation Hurdles Cleared - Strategies That Worked for Us!</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-vr-headset-showdown-the-best-of-2023-for-pc/"><u>[New] In 2024, VR Headset Showdown The Best of 2023 for PC</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-navigating-account-creation-on-youtube/"><u>[Updated] Navigating Account Creation on YouTube</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/anticipating-verizons-future-with-5g-technology/"><u>Anticipating Verizon's Future with 5G Technology</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/battlenet-server-issues-are-other-players-experiencing-them-too/"><u>Battle.net Server Issues: Are Other Players Experiencing Them Too?</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/comprehensive-walkthrough-how-to-harness-the-power-of-google-gemini/"><u>Comprehensive Walkthrough: How to Harness the Power of Google Gemini</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-and-update-toshiba-device-drivers-for-windows-a-comprehensive-guide/"><u>Download & Update Toshiba Device Drivers for Windows: A Comprehensive Guide</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-android-to-apple-how-to-transfer-photos-from-xiaomi-redmi-13c-5g-to-ipad-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Android to Apple How To Transfer Photos From Xiaomi Redmi 13C 5G to iPad Easily | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-gps-location-on-motorola-moto-g73-5g-easily-and-safely-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change GPS Location on Motorola Moto G73 5G Easily & Safely | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-strategies-for-becoming-a-pro-at-pokemon-go/"><u>Step-by-Step Strategies for Becoming a Pro at Pokémon Go</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-10-resources-for-finding-your-ideal-rental-property/"><u>Top 10 Resources for Finding Your Ideal Rental Property</u></a></li>
+<li><a href="https://howto.techidaily.com/top-4-android-system-repair-software-for-vivo-y56-5g-bricked-devices-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 4 Android System Repair Software for Vivo Y56 5G Bricked Devices | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unlocking-a-secure-connection-strategies-to-fix-the-http-401-error/"><u>Unlocking a Secure Connection: Strategies to Fix the HTTP 401 Error</u></a></li>
+<li><a href="https://howto.techidaily.com/vivo-x90s-screen-unresponsive-heres-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Vivo X90S Screen Unresponsive? Heres How to Fix It | Dr.fone</u></a></li>
 </ul></div>
 

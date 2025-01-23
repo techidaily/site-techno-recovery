@@ -1,7 +1,7 @@
 ---
 title: Set Up Slack Push Notifications for iPhone and Apple Watch | Insights
-date: 2025-01-13T17:11:29.166Z
-updated: 2025-01-17T00:39:28.896Z
+date: 2025-01-18T07:20:43.746Z
+updated: 2025-01-23T00:03:05.809Z
 tags:
   - apple
 categories:
@@ -45,7 +45,7 @@ Here's how.
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to enable Slack notifications on your Apple Watch
@@ -58,9 +58,17 @@ There is no dedicated Slack app for the Apple Watch, but there is an iPhone app.
 
 Once it's installed, go ahead and log into your various Slack channels. Get those setup and working as you like before configuring the app for notifications.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Set up Slack notifications in the system settings
 
 Let's make sure iOS is set up to allow Slack notifications. Go to the main Settings app and on the main settings screen, scroll all the way down to Slack. It's a long scroll past many other apps. Tap into Slack.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##   
 
@@ -71,6 +79,10 @@ Once you're in the Slack settings pane, make sure Background App Refresh and Cel
 Now, back out to the top of the Settings app and tap the red Notifications icon. Make sure you Allow Notifications and turn on Time Sensitive Notifications. I also recommend you make sure Sounds is set to on. 
 
 Screenshot by David Gewirtz/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Set up Slack notifications in the Slack app
 
@@ -95,7 +107,7 @@ Screenshot by David Gewirtz/ZDNET
 Set it to "Always, even when I'm active". That way, you'll always get notifications, no matter what you're doing (unless you have Do Not Disturb turned on).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Set your notification schedule
@@ -118,27 +130,15 @@ So, make sure you set the Start and End times that fit with your schedule.
 
 Recommendation to Slack: Where you put the "Every day" option in that setting, add the times as well (e.g., "Every day 8 a.m. - 11 p.m."). That way, it's clear to users what they might need to change. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 5\. Enable Slack notifications in the Watch app
 
 We're almost done configuring notifications. Open the Watch app and scroll down to Notifications. Then scroll down to Slack and make sure it's turned on.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##   
 
 Screenshot by David Gewirtz/ZDNET
 
 There. You've set up notifications. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  6\. Use the Watch to get Slack notifications
 
@@ -179,20 +179,17 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/ake-big-bucks-fast-with-a-focus-on-youtube-short-video-creation-for-2024/"><u>[New] Make Big Bucks Fast with a Focus on YouTube Short Video Creation for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-orchestrating-scene-sounds-with-imovie/"><u>[New] Orchestrating Scene Sounds with iMovie</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-essential-6-apps-elevating-your-instagram-reels/"><u>[Updated] 2024 Approved Essential 6 Apps Elevating Your Instagram Reels</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/accessing-the-official-samsung-unpacked-presentation-online-how/"><u>Accessing the Official Samsung Unpacked Presentation Online – How?</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-to-come-up-with-the-best-pokemon-team-on-infinix-gt-10-pro-drfone-by-drfone-virtual-android/"><u>How to Come up With the Best Pokemon Team On Infinix GT 10 Pro? | Dr.fone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/how-to-successfully-cancel-and-retrieve-funds-for-steam-games-bought/"><u>How To Successfully Cancel and Retrieve Funds for Steam Games Bought</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-realme-11-proplus-drfone-by-drfone-virtual-android/"><u>In 2024, Why Your WhatsApp Live Location is Not Updating and How to Fix on your Realme 11 Pro+ | Dr.fone</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/innovate-your-live-broadcast-on-mac-with-1-5-software-for-2024/"><u>Innovate Your Live Broadcast on Mac with #1-5 Software for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/leveraging-meta-ai-features-for-enhanced-instagram-presence/"><u>Leveraging Meta AI Features for Enhanced Instagram Presence</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/mastering-the-art-of-screenshots-on-a-logitech-keyboard-quick-and-simple-steps-inside/"><u>Mastering the Art of Screenshots on a Logitech Keyboard – Quick and Simple Steps Inside</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/revolutionize-your-fitness-journey-with-our-top-picks-for-training-apps/"><u>Revolutionize Your Fitness Journey with Our Top Picks for Training Apps</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/the-ultimate-fix-for-when-windows-cant-find-d3dx925dll/"><u>The Ultimate Fix for When Windows Can't Find d3dx9_25.dll</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/top-7-no-cost-internet-fax-solutions/"><u>Top 7 No-Cost Internet Fax Solutions</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unlocking-lost-render-capabilities-in-overwatch-2-pc/"><u>Unlocking Lost Render Capabilities in Overwatch 2 PC</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/wiederherstellung-von-geloschten-dateien-erfolgreiches-retrieven-aus-dem-papierkorb-papierkorb-auf-ihrem-pc/"><u>Wiederherstellung Von Gelöschten Dateien: Erfolgreiches Retrieven Aus Dem Papierkorb (Papierkorb) Auf Ihrem PC</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-2024-approved-essential-skills-for-effective-discord-message-pinning/"><u>[New] 2024 Approved Essential Skills for Effective Discord Message Pinning</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-optimal-environmental-film-tech-roundup/"><u>[New] 2024 Approved Optimal Environmental Film Tech Roundup</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ringing-bygone-era-filmmaking-to-life-today/"><u>[New] Bringing Bygone Era Filmmaking to Life Today</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/1722857787298-d3dx927dll-mistakenly-absent-heres-how-to-restore-it/"><u>D3dx9_27.dll Mistakenly Absent? Here's How to Restore It!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-updated-drivers-for-your-hp-scanjet-optimized-for-windows-operating-systems-including-11-and-7/"><u>Download Updated Drivers for Your HP Scanjet: Optimized for Windows Operating Systems Including 11 & 7</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-realme-12-5g-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Realme 12 5G to Outlook | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-lock-apps-on-motorola-g24-power-to-protect-your-individual-information-by-drfone-android/"><u>In 2024, How to Lock Apps on Motorola G24 Power to Protect Your Individual Information</u></a></li>
+<li><a href="https://article-helps.techidaily.com/incor-written-by-a-professor-the-article-discusses-the-use-of-metaphors-and-analogies-to-explain-complex-scientific-concepts-how-can-teachers-effectively-in/"><u>Incor Written by a Professor, the Article Discusses the Use of Metaphors and Analogies to Explain Complex Scientific Concepts. How Can Teachers Effectively Incorporate These Rhetorical Devices Into Their Teaching Methods?</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/is-it-possible-to-play-ps4-video-games-on-the-latest-ps5-platforms/"><u>Is It Possible to Play PS4 Video Games on the Latest PS5 Platforms?</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/quick-start-10-effective-tips-for-first-time-users-of-formerly-known-as-twitter/"><u>Quick Start: 10 Effective Tips for First-Time Users of Formerly Known as Twitter</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/signal-versus-whatsapp-understanding-their-unique-features-and-differences/"><u>Signal Versus WhatsApp: Understanding Their Unique Features and Differences</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/your-quick-guide-to-google-voice-call-history/"><u>Your Quick Guide to Google Voice Call History</u></a></li>
 </ul></div>
 

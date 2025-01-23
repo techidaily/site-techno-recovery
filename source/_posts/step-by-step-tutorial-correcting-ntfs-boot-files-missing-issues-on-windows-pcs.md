@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Tutorial: Correcting NTFS Boot Files Missing Issues on Windows PCs"
-date: 2024-08-20T09:58:49.309Z
-updated: 2024-08-21T09:58:49.309Z
+date: 2025-01-19T23:16:56.513Z
+updated: 2025-01-22T22:32:16.260Z
 categories:
   - BestProducts
 description: "This Article Describes Step-by-Step Tutorial: Correcting NTFS Boot Files Missing Issues on Windows PCs"
@@ -32,9 +32,6 @@ thumbnail: https://thmb.techidaily.com/cbd55a60b36d243580c486b7896cd6baf0fe5a1c6
 
  Some popular Command Prompt commands you might have heard of include[ping](https://www.lifewire.com/ping-command-2618099) ,[netstat](https://www.lifewire.com/netstat-command-2618098) ,[tracert](https://www.lifewire.com/tracert-command-2618101) ,[shutdown](https://www.lifewire.com/shutdown-command-2618100) , and[attrib](https://www.lifewire.com/attrib-command-2625802) , but there are_many_ more. We have a[complete list of Windows Command Prompt commands](https://www.lifewire.com/list-of-command-prompt-commands-4092302) .
 
-<!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Open Command Prompt Through the Start Menu Folder
 
  Another way to open the Windows Command Prompt in Windows 10 is to look in its Start menu folder. Open the**Start menu** , select the**Windows System** folder from the list, and then choose**Command Prompt** from the folder group.
@@ -42,8 +39,9 @@ thumbnail: https://thmb.techidaily.com/cbd55a60b36d243580c486b7896cd6baf0fe5a1c6
 ![Command Prompt menu item in Windows System folder in Start menu on Windows 10](https://www.lifewire.com/thmb/M8TRCTyz0ujUzmDzFZsFJjffiq4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/003_how-to-open-command-prompt-2618089-5c6468a146e0fb0001f25667.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Open Command Prompt Using Power User Menu
 
  One more method is through the[Power User Menu](https://www.lifewire.com/what-is-the-power-user-menu-2625968) . If you're using a keyboard or mouse, choose**Terminal** (Windows 11) or**Command Prompt** (Windows 10) from the menu that appears after pressing**Win** +**X** or right-clicking the**Start** **Menu** .
@@ -51,9 +49,14 @@ thumbnail: https://thmb.techidaily.com/cbd55a60b36d243580c486b7896cd6baf0fe5a1c6
 ![Command Prompt in Windows 10 Power User menu](https://www.lifewire.com/thmb/7_8z-AOur7jJSd6_2bz9Yp2VnDA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004_how-to-open-command-prompt-2618089-5c646ad746e0fb0001dcd81a.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  You might see PowerShell options in the Power User Menu instead of Command Prompt. In more recent versions of Windows 10, Command Prompt has been replaced by PowerShell, but you can[switch between PowerShell and Command Prompt](https://www.lifewire.com/switch-command-prompt-and-powershell-on-the-win-x-menu-2626247) from the Power User Menu. Terminal is the replacement in Windows 11.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Open Command Prompt in Windows 8 or 8.1
 
@@ -68,8 +71,9 @@ thumbnail: https://thmb.techidaily.com/cbd55a60b36d243580c486b7896cd6baf0fe5a1c6
  See our [list of Windows 8 Command Prompt commands](https://www.lifewire.com/windows-8-command-prompt-commands-4172073) for all of the commands available through Command Prompt in Windows 8, including short descriptions and links to more in-depth information if we have it.
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Open Command Prompt in Windows 7, Vista, or XP
 
  In these versions of Windows, Command Prompt is found through a folder group in the Start menu.
@@ -82,8 +86,9 @@ thumbnail: https://thmb.techidaily.com/cbd55a60b36d243580c486b7896cd6baf0fe5a1c6
  See our [list of Windows 7 commands](https://www.lifewire.com/list-of-windows-7-command-prompt-commands-4107370) and[list of Windows XP commands](https://www.lifewire.com/windows-xp-commands-4687695) if you need a command reference for any of those versions of Windows.
 
 <!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Other Ways to Open Command Prompt
 
  Command Prompt in Windows 11 through Windows XP can also be opened with a command. This is especially helpful if you like using the Run dialog box or if File Explorer has crashed and the Start menu is inaccessible (and thus the directions above don't work).
@@ -92,9 +97,6 @@ thumbnail: https://thmb.techidaily.com/cbd55a60b36d243580c486b7896cd6baf0fe5a1c6
 
 ![cmd command in Windows task manager](https://www.lifewire.com/thmb/vmaNGH1y0PVAMe1joTnnpWVqJ-Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/cmd-command-task-manager-da3a31f675de41198c4948fbaff46829.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 ## Elevated Command Prompts and Old Windows Versions
 
  Command Prompt doesn't exist in versions of Windows released before Windows XP, like Windows 98 and Windows 95\. However, the older and very similar MS-DOS Prompt does. This program is located in the Start menu and can be opened with the**command** run command.
@@ -142,8 +144,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -151,4 +151,26 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-techniques.techidaily.com/new-from-cinema-scenes-to-speaking-scenes-discovering-the-top-32-tools-for-video-translation/"><u>[New] From Cinema Scenes to Speaking Scenes Discovering the Top 32 Tools for Video Translation</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-a-comparative-look-at-samsung-photo-tools/"><u>2024 Approved A Comparative Look at Samsung Photo Tools</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-expertly-crafted-the-best-8-convertor-list-for-sub-to-srt/"><u>2024 Approved Expertly Crafted The Best 8 Convertor List for Sub to Srt</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-is-consumer-feedback-compensated-in-vlogs/"><u>2024 Approved Is Consumer Feedback Compensated in Vlogs?</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/easy-instructions-on-casting-disneyplus-videos-using-a-google-chromecast-device/"><u>Easy Instructions on Casting Disney+ Videos Using a Google Chromecast Device</u></a></li>
+<li><a href="https://fox-info.techidaily.com/essential-tips-for-kinemasters-chroma-keying-for-2024/"><u>Essential Tips for KineMaster's Chroma Keying for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/explore-the-best-web-based-amusements-a-parents-guide-to-kid-friendly-gaming/"><u>Explore the Best Web-Based Amusements: A Parent’s Guide to Kid-Friendly Gaming</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/googles-next-gen-wrist-device-projected-pricing-launch-date-and-expected-specifications/"><u>Google's Next-Gen Wrist Device: Projected Pricing, Launch Date, and Expected Specifications</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-apple-became-the-pioneer-of-ultimate-viewing-experiences-with-vision-pro-insights/"><u>How Apple Became the Pioneer of Ultimate Viewing Experiences with Vision Pro – Insights</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-show-wi-fi-password-on-motorola-g24-power-by-drfone-android/"><u>How to Show Wi-Fi Password on Motorola G24 Power</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-10-telegram-spy-tools-on-oppo-find-n3-for-parents-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Telegram Spy Tools On Oppo Find N3 for Parents | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/instagram-enterprise-account-the-complete-guidebook-for-2024/"><u>Instagram Enterprise Account The Complete Guidebook for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/mastering-the-basics-of-samsung-tvs-a-comprehensive-walkthrough-for-hardware-restoration/"><u>Mastering the Basics of Samsung TVs: A Comprehensive Walkthrough for Hardware Restoration</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/navigating-apples-macos-updates-your-ultimate-guide-to-different-releases/"><u>Navigating Apple's macOS Updates: Your Ultimate Guide to Different Releases</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-ultimate-list-of-top-7-freely-accessible-online-fax-services/"><u>The Ultimate List of Top 7 Freely Accessible Online Fax Services</u></a></li>
+<li><a href="https://location-social.techidaily.com/top-7-skype-hacker-to-hack-any-skype-account-on-your-tecno-spark-20c-drfone-by-drfone-virtual-android/"><u>Top 7 Skype Hacker to Hack Any Skype Account On your Tecno Spark 20C | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unraveling-the-mystery-how-quick-should-your-computer-perform/"><u>Unraveling the Mystery: How Quick Should Your Computer Perform?</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/what-sets-signal-apart-from-whatsapp-an-in-depth-analysis/"><u>What Sets Signal Apart From WhatsApp: An In-Depth Analysis</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/wireless-broadband-options-accessing-the-internet-without-traditional-cables/"><u>Wireless Broadband Options: Accessing the Internet without Traditional Cables</u></a></li>
+</ul></div>
 

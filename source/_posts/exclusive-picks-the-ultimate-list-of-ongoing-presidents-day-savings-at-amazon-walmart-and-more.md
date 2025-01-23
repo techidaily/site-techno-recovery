@@ -1,7 +1,7 @@
 ---
 title: "Exclusive Picks: The Ultimate List of Ongoing Presidents' Day Savings at Amazon, Walmart, and More"
-date: 2025-01-12T01:44:55.164Z
-updated: 2025-01-16T16:05:31.218Z
+date: 2025-01-21T19:21:41.703Z
+updated: 2025-01-23T02:18:38.197Z
 tags:
   - apple
 categories:
@@ -22,17 +22,9 @@ Tablets run the gamut in terms of everything they can do (and all the prices the
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What is the best note-taking tablet you can buy right now?
 
 ZDNET went hands-on with the following tablets, with our pick for the best note-taking tablet overall being the [iPad Air](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fapple-10-9-inch-ipad-air-latest-model-5th-generation-with-wi-fi-64gb-purple%2F4909101.p&publisher_slug=itechdaily19598&exclusive=1), thanks to its lightweight build and compatibility with the second-generation Apple Pencil. But we also included tablets from Boox, Amazon, and more to take digital notes on this back-to-school season. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## The best note-taking tablets of 2024
 
@@ -48,6 +40,10 @@ Pros
 Cons 
 * Only compatible with iOS
 * Camera cannot be used with other apps
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Apple iPad Air (5th generation)
 
@@ -80,11 +76,11 @@ Cons
 * Screen lags when browsing web or watching videos
 * Speaker could be better
 
-## Boox Note Air 3 C
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+## Boox Note Air 3 C
 
 ### Best lightweight note-taking tablet
 
@@ -117,10 +113,6 @@ Cons
 
 ## Amazon Kindle Scribe
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Best note-taking tablet for reading
 
 The Kindle Scribe is perhaps the perfect example of part e-reader, part tablet. It has the same functions you've come to know and love in a Kindle, like a 300 ppi glare-free screen, weeks of battery life, and adjustable warm light. It's also compatible with Amazon's Basic or Premium Pen, so you can take handwritten notes or underline important quotations within the book you're reading. 
@@ -149,11 +141,11 @@ Pros
 Cons 
 * Missing apps
 
-## Samsung Galaxy Tab S9
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+## Samsung Galaxy Tab S9
 
 ### Best note-taking tablet for Android users
 
@@ -187,7 +179,7 @@ Cons
 ## Amazon Fire Max 11
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Best budget note-taking tablet
@@ -207,7 +199,7 @@ Overall, 94% of Best Buy customers would recommend this tablet to others, giving
 Show Expert Take Show less 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What is the best note-taking tablet?
@@ -238,6 +230,10 @@ However, if you want a tablet you can use for school and for everyday things lik
 | Samsung Galaxy Tab S9                 | An Android tablet for note-taking. An S Pen is included in the box.                                                                  |
 | Amazon Fire Max 11                    | A budget-friendly tablet for under $350\. It is compatible with the Amazon Stylus pen, and you can also attach a keyboard to it.     |
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Factors to consider when choosing the best note-taking tablet
 
 Before you buy a note-taking tablet, you'll want to consider the following:
@@ -262,6 +258,10 @@ For a deeper look into our testing process, check out our comprehensive [tablet 
 ## Do I need a stylus for a note-taking tablet?
 
 Using a stylus is totally up to you, but it can definitely help with functionality. Some tablets come with a stylus, while others will have them sold separately. If you're looking at this from a cost perspective, consider the fact that the stylus will often be an added expense, but you may find it worth it for ease of use, especially if you're the type that likes the feeling of writing out your notes rather than typing them.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What are the best note-taking apps?
 
@@ -321,20 +321,18 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/updated-in-2024-pinnacle-eight-video-recording-apps/"><u>[Updated] In 2024, Pinnacle Eight Video Recording Apps</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-perfect-your-movie-watching-with-added-captions-on-windows-media-player/"><u>2024 Approved Perfect Your Movie Watching with Added Captions on Windows Media Player</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/2024-approved-shape-and-size-matter-video-aspect-ratios-explained/"><u>2024 Approved Shape & Size Matter Video Aspect Ratios Explained</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/1726228069719-m4bmp3-movavi/"><u>線上無限制 M4B到MP3自由下載 - 使用Movavi優化</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixing-pc-instances-when-sons-of-the-forest-keeps-crashing-a-comprehensive-guide/"><u>Fixing PC Instances When 'Sons of the Forest' Keeps Crashing - A Comprehensive Guide</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/1723808346841-get-your-hands-on-the-newest-direct3d-version-with-a-smooth-download-process/"><u>Get Your Hands on the Newest Direct3D Version with a Smooth Download Process!</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/1723808172698-harness-the-power-to-control-your-phone-line-comprehveiw-and-execute-a-swift-call-block-on-ios-and-android/"><u>Harness the Power to Control Your Phone Line: Comprehveiw and Execute a Swift Call Block on iOS and Android</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-address-the-msvcr110dll-lack-issue/"><u>How to Address the Msvcr110.dll Lack Issue</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/1723808107535-identify-and-retrieve-your-internet-ip-address-for-free-today/"><u>Identify and Retrieve Your Internet IP Address for Free Today</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/1723808148407-simple-steps-for-finding-deleted-microsoft-word-documents-on-windows-10-plus-images/"><u>Simple Steps for Finding Deleted Microsoft Word Documents on Windows 10 + Images</u></a></li>
-<li><a href="https://fox-links.techidaily.com/sonic-pixels-turning-sound-into-visual-storytelling/"><u>Sonic Pixels Turning Sound Into Visual Storytelling</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/1723808033940-swift-direct3d-downloader-simple-and-fast/"><u>Swift Direct3D Downloader - Simple and Fast</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/windows-11-and-directx-12-downloading-the-newest-fully-working-version/"><u>Windows 11 and DirectX 12: Downloading the Newest, Fully Working Version</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/1723808250907-windows-11-hack-bypassing-driver-signature-checks-with-ease/"><u>Windows 11 Hack: Bypassing Driver Signature Checks with Ease!</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/yuneec-typhoon-h-exposed-drone-review-in-detail/"><u>Yuneec Typhoon H Exposed Drone Review in Detail</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-calculating-costs-in-youtube-advertising-campaigns/"><u>[New] 2024 Approved Calculating Costs in YouTube Advertising Campaigns</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-time-management-wizards-the-ultimate-guide-to-facebook-timetables/"><u>[New] In 2024, Time Management Wizards The Ultimate Guide to Facebook Timetables</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-schedule-smarter-the-art-of-youtube-content-timing/"><u>[New] Schedule Smarter The Art of YouTube Content Timing</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-the-music-law-guide-for-instagram-users-for-2024/"><u>[New] The Music Law Guide for Instagram Users for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/3-ways-to-track-oppo-reno-11f-5g-without-them-knowing-drfone-by-drfone-virtual-android/"><u>3 Ways to Track Oppo Reno 11F 5G without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/blue-screen-of-death-bsod/"><u>Blue Screen of Death (BSOD)</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/customize-your-windows-11-experience-with-a-new-taskbar-hue-a-comprehensive-tutorial/"><u>Customize Your Windows 11 Experience with a New Taskbar Hue - A Comprehensive Tutorial</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/enhance-your-digital-habitat-steps-to-utilize-the-google-home-app-on-windows-and-mac-computers/"><u>Enhance Your Digital Habitat: Steps to Utilize the Google Home App on Windows & Mac Computers</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-from-freezing-points-to-inviting-landscapes/"><u>In 2024, From Freezing Points to Inviting Landscapes</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723013778226-maplestory-game-launch-fixed-enjoy-uninterrupted-playtime/"><u>MapleStory Game Launch Fixed - Enjoy Uninterrupted Playtime!</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/1722844798210-no-more-dll-drama-expert-tips-on-restoring-lost-advapi3and-files-and-ending-error-messages/"><u>No More DLL Drama: Expert Tips on Restoring Lost Advapi3^& Files and Ending Error Messages</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/online-amv-mp3-converter-free-download-and-use-with-movavi/"><u>Online AMV MP3 Converter - Free Download & Use with Movavi</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/protecting-your-phone-what-you-need-to-know-about-iphone-13-waterproof-ratings/"><u>Protecting Your Phone: What You Need to Know About iPhone 13 Waterproof Ratings</u></a></li>
 </ul></div>
 

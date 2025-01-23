@@ -1,7 +1,7 @@
 ---
 title: Easy Steps to Set Up Multiple Network Interfaces on Your Mac - Get Ultimate Connectivity
-date: 2025-01-09T22:43:55.574Z
-updated: 2025-01-16T18:05:02.560Z
+date: 2025-01-18T23:18:18.142Z
+updated: 2025-01-23T01:53:50.524Z
 tags:
   - apple
 categories:
@@ -27,22 +27,18 @@ So, how do you create this custom Flow? Let me show you. All you'll need to make
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Create a custom Focus
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 1\. Open System Preferences
 
 Click on the Apple menu in the top left corner of your desktop. From the resulting pop-up menu, click System Preferences.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 2\. Access Notifications & Focus
 
@@ -61,7 +57,7 @@ Once Notifications & Focus is opened, click the Focus tab (**Figure 2**).
 Image: Jack Wallen
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 4\. Create the new Focus
@@ -81,7 +77,7 @@ Image: Jack Wallen
 After naming and selecting a color/icon, click Add to save the new Focus.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 5\. Allowing specific notifications
@@ -97,6 +93,10 @@ From the pop-up list, select the contact(s) you want to be allowed to interrupt 
 **Figure 6:** Adding contacts to a Focus in macOS Monterey.
 
 Image: Jack Wallen
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 6\. Set the Focus to be enabled
 
@@ -140,18 +140,22 @@ Use this new Focus feature wisely, and it will help you be more productive while
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-webcam-filming-made-professional-in-no-time/"><u>[New] In 2024, Webcam Filming Made Professional in No Time</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-innovative-approaches-to-fb-video-sharing-pcandroid-platforms/"><u>[New] Innovative Approaches to FB Video Sharing PC/Android Platforms</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-optimal-offerings-best-devices-for-hd-video-processing/"><u>[New] Optimal Offerings Best Devices for HD Video Processing</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-illusions-manipulating-past-and-future-events/"><u>[Updated] Illusions Manipulating Past & Future Events</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-leave-a-life360-group-on-google-pixel-7a-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How To Leave a Life360 Group On Google Pixel 7a Without Anyone Knowing? | Dr.fone</u></a></li>
-<li><a href="https://win-awesome.techidaily.com/kickstart-your-property-flipping-business-with-no-cost-layouts-and-tools-from-flipbuildercom/"><u>Kickstart Your Property Flipping Business with No-Cost Layouts and Tools From FlipBuilder.com</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/step-by-step-guide-syncing-your-iphone-screen-with-ipad/"><u>Step-by-Step Guide: Syncing Your iPhone Screen with iPad</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/step-by-step-instructions-for-installing-fortnite-game-on-your-personal-computer-pc/"><u>Step-by-Step Instructions for Installing Fortnite Game on Your Personal Computer (PC)</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/step-by-step-tutorial-clearing-clutter-and-expanding-memory-on-your-windows-10-pc/"><u>Step-by-Step Tutorial: Clearing Clutter and Expanding Memory on Your Windows 10 PC</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/streamlined-directx-upgrade-guide-for-users-of-windows-11-and-10/"><u>Streamlined DirectX Upgrade Guide for Users of Windows 11 and 10</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/tech-savvy-easy-methods-for-adding-bluetooth-support-on-desktops-and-notebooks/"><u>Tech Savvy: Easy Methods for Adding Bluetooth Support on Desktops and Notebooks</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/turbocharge-your-windows-11-updates-expert-tips-to-save-time-and-frustration/"><u>Turbocharge Your Windows 11 Updates – Expert Tips to Save Time and Frustration.</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-the-internet-is-flooded-with-poorly-edited-videos-movies-and-photos-despite-the-huge-number-of-free-green-screen-apps-so-we-choose-the/"><u>Updated 2024 Approved The Internet Is Flooded with Poorly Edited Videos, Movies and Photos Despite the Huge Number of Free Green Screen Apps, so We Choose the Best Programs to Help You</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-harnessing-the-power-of-3d-luts-in-creative-pixels/"><u>[New] Harnessing the Power of 3D LUTs in Creative Pixels</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-engaging-audiences-the-path-to-instagram-video-fame/"><u>[New] In 2024, Engaging Audiences The Path to Instagram Video Fame</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-innovations-for-elevating-your-gopro-filmmaking-skills-for-2024/"><u>[New] Innovations for Elevating Your GoPro Filmmaking Skills for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-youtube-streams-optimal-webm-converters-ranked/"><u>[Updated] 2024 Approved YouTube Streams Optimal WebM Converters Ranked!</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-browsing-boredom-away-15-chuckle-inducing-youtubers/"><u>[Updated] Browsing Boredom Away 15 Chuckle-Inducing YouTubers</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/efficiently-link-to-shared-resources-a-mac-users-guide-to-mapping-drives/"><u>Efficiently Link to Shared Resources: A Mac User's Guide to Mapping Drives</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/explore-the-leading-voice-message-viewers-of-2024-for-a-revolutionary-audio-experience/"><u>Explore the Leading Voice Message Viewers of 2024 for a Revolutionary Audio Experience</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exploring-the-features-of-claude-pro-versus-chatgpt-plus-by-microsoft/"><u>Exploring the Features of Claude Pro Versus ChatGPT Plus by Microsoft</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-2024-how-to-use-movie-maker-on-windows-11/"><u>In 2024, How to Use Movie Maker on Windows 11</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/mastering-the-art-of-screenshotting-in-windows-11-the-four-methods-you-need-to-know/"><u>Mastering the Art of Screenshotting in Windows 11 – The Four Methods You Need to Know</u></a></li>
+<li><a href="https://games-able.techidaily.com/relive-sonyenas-golden-years-with-these-30-top-ranked-ps3-emulators-on-pc/"><u>Relive Sony'enas Golden Years with These 30 Top-Ranked PS3 Emulators on PC</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-10-must-see-80s-cinema-classics-watch-them-today/"><u>Top 10 Must-See '80S Cinema Classics - Watch Them Today</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/troubleshooting-the-not-found-error-in-mingwm10dll-fixes-and-tips/"><u>Troubleshooting the 'Not Found' Error in mingwm10.dll - Fixes & Tips</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ultimate-guide-to-the-best-server-racks-and-cabinets-2024-edition/"><u>Ultimate Guide to the Best Server Racks and Cabinets - 2024 Edition</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unexpected-black-screen-blues-heres-how-to-get-your-computer-showing-again/"><u>Unexpected Black Screen Blues? Here's How To Get Your Computer Showing Again</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/unraveling-connections-expert-tips-for-overcoming-new-world-game-glitches/"><u>Unraveling Connections: Expert Tips for Overcoming New World Game Glitches</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/version-52-the-next-level-of-email-management-on-mozilla-thunderbird/"><u>Version 52: The Next Level of Email Management on Mozilla Thunderbird</u></a></li>
 </ul></div>
 

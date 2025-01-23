@@ -1,7 +1,7 @@
 ---
 title: Get Your iPhone Upgraded with iOS 18! Step-by-Step Download Instructions and Supported Devices | Insights From ZDNET
-date: 2025-01-15T00:36:40.303Z
-updated: 2025-01-16T16:14:17.222Z
+date: 2025-01-18T20:02:00.034Z
+updated: 2025-01-23T04:18:54.956Z
 tags:
   - apple
 categories:
@@ -27,7 +27,7 @@ While the official iOS 18 general release is today, users have already been able
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to install iOS 18
@@ -41,7 +41,7 @@ Jason Hiner/ZDNET
 Go to your iPhone's Settings and select General. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Go to Software Update in Settings
@@ -52,21 +52,17 @@ Within General, tap on Software Update. This will show you if the iOS 18 update 
 
 When you tap on Software Update, your iPhone will check for the latest version of iOS available. Then, you'll be able to Download and Install the new update. Your iPhone will begin the download immediately.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. Enter your passcode and follow steps to install
 
 Enter your passcode, if necessary, to authorize the installation of the new iOS on your iPhone, and follow the prompts to complete the installation.
 
 After installing the latest iOS update, your iPhone will restart.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## FAQs
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### When is Apple Intelligence coming out?
 
@@ -77,10 +73,6 @@ Apple Intelligence, featuring the company's AI tools, will begin to roll out for
 Apple released the iOS 18 developer beta during WWDC 2024 in June, and the public beta version was released on July 15\. The general release of iOS 18 is September 16.
 
 **Also: [The best iOS 18 features that will make updating your iPhone worthwhile](https://www.zdnet.com/article/the-best-ios-18-features-that-will-make-updating-your-iphone-worthwhile/)**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Can you still download the iOS 18 public beta?
 
@@ -101,6 +93,10 @@ You'll need an iPhone running iOS 16.5 or later. Since not all iPhones are compa
 
 Screenshot: Maria Diaz/ZDNET
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### How to download the iOS 18 developer beta?
 
 To download the iOS 18 developer beta version, navigate to your settings to install the iOS 18 developer beta if your device runs iOS 16.4 and is used with an Apple ID enrolled in the Apple Developer Program:
@@ -116,6 +112,10 @@ If you can't see this option, go to your **Settings,** select **Privacy & Securi
 **Also: [How to use and customize your iPhone's new Control Center with iOS 18](https://www.zdnet.com/article/how-to-use-and-customize-your-iphones-new-control-center-with-ios-18/)**
 
 If you aren't already a member of the Apple Developer Program, you can sign up to become one in the app. An annual membership costs $99.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### What is in iOS 18 beta 3?
 
@@ -161,20 +161,18 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-guidance.techidaily.com/new-synchronized-intro-editing-across-all-your-devices-this-year/"><u>[New] Synchronized Intro Editing Across All Your Devices This Year</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/solved-mouse-lagging-and-stuttering-on-windows-11/"><u>[SOLVED] Mouse Lagging and Stuttering on Windows 11</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-2024-approved-crafting-the-perfect-soundscape-with-googles-ringtone/"><u>[Updated] 2024 Approved Crafting the Perfect Soundscape with Google's Ringtone</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/2024-approved-vlc-vs-mx-player-which-is-better/"><u>2024 Approved VLC vs MX Player Which Is Better?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/apples-recent-showcase-of-ai-innovations-what-we-didnt-see-but-could-expect-in-the-future-zdnet/"><u>Apple's Recent Showcase of AI Innovations - What We Didn't See, but Could Expect in the Future? | ZDNet</u></a></li>
-<li><a href="https://driver-install.techidaily.com/configure-marvell-avastar-wifi-on-intel-system/"><u>Configure Marvell Avastar WiFi on Intel System</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/high-definition-gaming-with-lg-27ud68-monitor-review-for-2024/"><u>High Definition Gaming with LG 27UD68 Monitor Review for 2024</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/in-2024-2023how-to-share-videos-on-twitter-on-your-phone-without-retweeting/"><u>In 2024, 2023|How to Share Videos on Twitter on Your Phone Without Retweeting?</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-top-notch-solutions-for-disabled-apple-id-on-iphone-se-2022-making-it-possible-by-drfone-ios/"><u>In 2024, Top-Notch Solutions for Disabled Apple ID On iPhone SE (2022) Making It Possible</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/recognizing-and-resolving-computer-cpu-heat-issues-a-comprehensive-guide/"><u>Recognizing & Resolving Computer CPU Heat Issues: A Comprehensive Guide</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/resource-allocation/"><u>Resource Allocation</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/revitalize-your-pc-with-these-hassle-free-windows-11-refresh-tricks/"><u>Revitalize Your PC with These Hassle-Free Windows 11 Refresh Tricks</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/solution-for-sluggish-windows-1011-launch-times-a-step-by-step-fix/"><u>Solution for Sluggish Windows 10/11 Launch Times - A Step-by-Step Fix</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/steams-hidden-feature-easily-switching-to-offline-gameplay-on-any-device/"><u>Steam's Hidden Feature: Easily Switching to Offline Gameplay on Any Device</u></a></li>
-<li><a href="https://howto.techidaily.com/super-easy-ways-to-deal-with-samsung-galaxy-a14-5g-unresponsive-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Super Easy Ways To Deal with Samsung Galaxy A14 5G Unresponsive Screen | Dr.fone</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-fastest-8-capture-tools-unveiled/"><u>[New] In 2024, Fastest 8 Capture Tools Unveiled</u></a></li>
+<li><a href="https://fake-location.techidaily.com/can-life360-track-you-when-your-apple-iphone-7-is-off-drfone-by-drfone-virtual-ios/"><u>Can Life360 Track You When Your Apple iPhone 7 is off? | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/finding-lost-online-identities-tips-for-recovering-deleted-emails/"><u>Finding Lost Online Identities: Tips for Recovering Deleted Emails</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fake-gps-on-nubia-z50s-pro-for-mobile-legends-drfone-by-drfone-virtual-android/"><u>How To Fake GPS On Nubia Z50S Pro For Mobile Legends? | Dr.fone</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-the-ultimate-selection-high-quality-zero-price-free-luts/"><u>In 2024, The Ultimate Selection High Quality, Zero Price Free LUTs</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-tips-of-transferring-messages-from-samsung-galaxy-s23plus-to-iphone-1415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Tips of Transferring Messages from Samsung Galaxy S23+ to iPhone 14/15 | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/innovative-srt-conversion-tactics-for-pc-and-mac-for-2024/"><u>Innovative SRT Conversion Tactics for PC and Mac for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/rapidly-increasing-your-xtwitter-following-expert-tips-and-tricks-to-attract-more-users/"><u>Rapidly Increasing Your X/Twitter Following: Expert Tips & Tricks to Attract More Users</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/resolving-permanent-display-damage-a-complete-strategy-for-all-screens/"><u>Resolving Permanent Display Damage: A Complete Strategy for All Screens</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-guide-setting-up-your-oculus-questquest-account/"><u>Step-by-Step Guide: Setting Up Your Oculus Quest/Quest ✨ Account</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/the-ultimate-guide-to-the-acer-aspire-e15-your-perfect-low-cost-laptop-choice/"><u>The Ultimate Guide to the Acer Aspire E15 - Your Perfect Low-Cost Laptop Choice</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/tips-for-successfully-participating-in-live-tweeting-sessions-on-twitter/"><u>Tips for Successfully Participating in Live Tweeting Sessions on Twitter</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/troubleshooting-mapi3ndll-missing-error-effective-fixes-to-try-now/"><u>Troubleshooting Mapi3nDll Missing Error – Effective Fixes to Try Now!</u></a></li>
 </ul></div>
 

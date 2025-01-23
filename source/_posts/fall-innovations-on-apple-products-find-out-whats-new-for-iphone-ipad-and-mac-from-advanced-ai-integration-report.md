@@ -1,7 +1,7 @@
 ---
 title: Fall Innovations on Apple Products! Find Out What's New for iPhone, iPad & Mac - From Advanced AI Integration Report
-date: 2025-01-15T18:12:35.237Z
-updated: 2025-01-16T22:19:16.570Z
+date: 2025-01-18T05:23:55.414Z
+updated: 2025-01-23T00:59:45.425Z
 tags:
   - apple
 categories:
@@ -38,10 +38,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Apple Intelligence (AI)
 
 Maria Diaz/ZDNET
@@ -64,6 +60,10 @@ Maria Diaz/ZDNET
 * In the Notes app, users can **record and transcribe audio**, which Apple Intelligence will generate a text summary of. This experience is also available in the Notes phone app.
 * Apple Intelligence is free on iOS 18, iPadOS 18, and MacOS Sequoia, and will be available to try in English only this summer.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Partnership with OpenAI
 
 Jason Hiner/ZDNET
@@ -73,7 +73,7 @@ Jason Hiner/ZDNET
 * The ChatGPT integration will be coming to iOS 18, iPadOS 18, and MacOS Sequoia later this year.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## iOS 18
@@ -119,7 +119,7 @@ Adam Breeden/ZDNET
 * iPadOS 18 supports **screen-sharing via SharePlay** and the same Control Center customizations, Photos app upgrades, Safari updates, and emoji Tapbacks found in **iOS 18.**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## MacOS 15 (Sequoia)
@@ -134,7 +134,7 @@ Adam Breeden/ZDNET
 * Apple also launched a new **Viewer experience**, which does for video what Reader does for text.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## VisionOS 2
@@ -155,7 +155,7 @@ Jason Hiner/ZDNET
 * Apple is also making the Vision Pro available in more countries starting June 28\. You can see the full list [here](https://www.apple.com/newsroom/2024/06/apple-vision-pro-arrives-in-new-countries-and-regions-beginning-june-28/).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## AirPods
@@ -210,15 +210,19 @@ Screenshot by Nina Raemont/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-crafting-perfect-youtube-introend-videos-at-no-cost/"><u>[New] 2024 Approved Crafting Perfect YouTube Intro/End Videos at No Cost</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/approved-yt-highlights-year-end-spotlight-on-top-music-reactions/"><u>2024 Approved YT Highlights Year-End Spotlight on Top Music Reactions</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/delete-gmail-account-withwithout-password-on-vivo-y100i-power-5g-by-drfone-android/"><u>Delete Gmail Account With/Without Password On Vivo Y100i Power 5G</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/effective-techniques-to-resolve-computer-display-coloring-issues/"><u>Effective Techniques to Resolve Computer Display Coloring Issues</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/electric-cars-and-extreme-weather-a-functional-analysis/"><u>Electric Cars and Extreme Weather - A Functional Analysis</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/how-to-train-your-dragon-series-the-perfect-movie-watching-order-revealed/"><u>How to Train Your Dragon Series: The Perfect Movie-Watching Order Revealed!</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-remove-apple-iphone-xs-sim-lock-by-drfone-ios/"><u>In 2024, How to Remove Apple iPhone XS SIM Lock?</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/overcoming-common-keyboard-problems-a-comprehensive-guide-to-fixing-unresponsive-keys/"><u>Overcoming Common Keyboard Problems: A Comprehensive Guide to Fixing Unresponsive Keys</u></a></li>
-<li><a href="https://some-tips.techidaily.com/revolutionizing-business-with-red-hats-new-enterprise-linux-ai-capabilities-zdnet-insights/"><u>Revolutionizing Business with Red Hat's New Enterprise Linux AI Capabilities | ZDNet Insights</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/step-by-step-strategy-achieving-perfect-4k-streams-on-youtube-a-how-to/"><u>Step-by-Step Strategy: Achieving Perfect 4K Streams on YouTube – A How-To</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-in-2024-top-conversion-suite-for-mp4fb-sharing/"><u>[New] In 2024, Top Conversion Suite for MP4/FB Sharing</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-quick-fit-enhance-your-photo-posts-with-automated-mac-video-scaling/"><u>[Updated] In 2024, Quick Fit Enhance Your Photo Posts with Automated Mac Video Scaling</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-mastering-zoom-integration-with-gmail-messages/"><u>2024 Approved Mastering Zoom Integration with Gmail Messages</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ermoves-in-media-how-to-reverse-videos-for-2024/"><u>Countermoves in Media How to Reverse Videos for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/elite-online-archives-for-graffiti-fonts/"><u>Elite Online Archives for Graffiti Fonts</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-2024-setting-the-price-for-higher-youtube-engagement/"><u>In 2024, Setting the Price for Higher YouTube Engagement</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/innovative-stock-maintenance-discover-the-power-of-machine-learning-and-computer-vision-in-maintaining-fully-stocked-shelves-at-a-top-retailer/"><u>Innovative Stock Mainten#ance: Discover the Power of Machine Learning and Computer Vision in Maintaining Fully-Stocked Shelves at a Top Retailer</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/is-purchasing-from-tiktok-shops-secure-my-satisfying-gift-find-on-zdnet/"><u>Is Purchasing From TikTok Shops Secure? My Satisfying Gift Find on ZDNET</u></a></li>
+<li><a href="https://win-latest.techidaily.com/keine-sorge-mehr-funfzehn-tipps-um-verlorene-apps-auf-ihrem-desktop-mit-windows-11-8-oder-7-wiederherzustellen/"><u>Keine Sorge Mehr! Fünfzehn Tipps, Um Verlorene Apps Auf Ihrem Desktop Mit Windows 11, 8 Oder 7 Wiederherzustellen</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/mastering-the-art-of-customer-satisfaction-with-insights-from-square-a-guide-for-businesses-zdnet/"><u>Mastering the Art of Customer Satisfaction with Insights From Square - A Guide for Businesses | ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/need-a-quick-present-find-out-which-retailers-guarantee-on-time-delivery-zdnet/"><u>Need a Quick Present? Find Out Which Retailers Guarantee On-Time Delivery | ZDNet</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/nextgencams-investigation-pushing-the-envelope-further/"><u>NextGenCams Investigation Pushing the Envelope Further</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/transforming-trade-with-generative-ai-unveiling-5-key-strategies-revolutionizing-business-operations-zdnet/"><u>Transforming Trade with Generative AI: Unveiling 5 Key Strategies Revolutionizing Business Operations | ZDNet</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/easy-guide-to-youtube-downloads-on-idevices-for-2024/"><u>Your Easy Guide to YouTube Downloads on iDevices for 2024</u></a></li>
 </ul></div>
 

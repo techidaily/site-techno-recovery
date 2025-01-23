@@ -1,7 +1,7 @@
 ---
 title: Get Your MacBook Air with Powerful M1 Chip for Only $649 - Best Price Available | Shop Smart With ZDNET
-date: 2025-01-10T08:37:28.672Z
-updated: 2025-01-11T03:03:43.034Z
+date: 2025-01-19T20:35:01.765Z
+updated: 2025-01-22T16:37:39.539Z
 tags:
   - apple
 categories:
@@ -42,7 +42,7 @@ At $649, this is the lowest price for the M1 version of the MacBook Air that we'
 The [M1 MacBook Air](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fmacbook-air-13-3-laptop-apple-m1-chip-8gb-memory-256gb-ssd-space-gray-space-gray%2F5721600.p%3FskuId%3D5721600&publisher_slug=itechdaily19598&exclusive=1) first retailed for $999 when it was released, but Apple sells refurbished versions for $799, making these deals even better than anything Apple is offering. The [M1 MacBook Air](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FApple-MacBook-Air-13-3-inch-Laptop-Silver-M1-Chip-8GB-RAM-256GB-storage%2F609040889&subId1=zd-__COM_CLICK_ID__-dtp) is available in three different colors: gold, space gray, and silver. Snag these savings while you can. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -81,21 +81,16 @@ However, deals are subject to sell out or expire at any time, though ZDNET remai
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-hints.techidaily.com/new-capturing-every-angle-samsungs-pro-versus-lgs/"><u>[New] Capturing Every Angle Samsung's Pro Versus LG's</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-sparkling-ideas-crafting-creative-and-engaging-facebook-ads-for-2024/"><u>[New] Sparkling Ideas Crafting Creative and Engaging Facebook Ads for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-unleash-your-podcast-potential-with-cutting-edge-techniques/"><u>[New] Unleash Your Podcast Potential with Cutting-Edge Techniques</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/a-complete-breakdown-of-freelens-cam-software-for-2024/"><u>A Complete Breakdown of Freelens Cam Software for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/a-step-by-step-guide-to-fixing-samsung-printer-issues-in-windows-environments/"><u>A Step-by-Step Guide to Fixing Samsung Printer Issues in Windows Environments</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/bulk-up-your-storage-with-a-steep-discount-get-the-8tb-samsung-t5-at-amazon-for-36-less-after-prime-day-zdnet/"><u>Bulk Up Your Storage with a Steep Discount: Get the 8TB Samsung T5 at Amazon for 36% Less After Prime Day | ZDNET</u></a></li>
-<li><a href="https://program-issues.techidaily.com/effective-remedies-to-fix-crash-errors-due-to-kernelbasedll-flaw/"><u>Effective Remedies to Fix Crash Errors Due to KernelBase.dll Flaw</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/finding-vanished-contact-information-in-your-androids-address-book/"><u>Finding Vanished Contact Information in Your Android's Address Book</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/fixing-damaged-video-files-in-windowsmac/"><u>Fixing Damaged Video Files in Windows/Mac</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/how-to-rectify-the-invisible-wi-fi-network-dilemma/"><u>How to Rectify the Invisible Wi-Fi Network Dilemma?</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/learn-quickly-with-these-10-beginner-secrets-to-navigating-x-the-successor-of-twitter/"><u>Learn Quickly with These 10 Beginner Secrets to Navigating X, the Successor of Twitter</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/overcoming-the-challenge-of-a-non-existent-microsoft-visual-cplusplus-redistributable-dll/"><u>Overcoming the Challenge of a Non-Existent Microsoft Visual C++ Redistributable DLL</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/solutions-for-resolving-d3dx925dll-missing-file-issue/"><u>Solutions for Resolving d3dx9_25.dll Missing File Issue</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/step-by-step-guide-to-fix-activity-tracking-on-your-apple-watch/"><u>Step-by-Step Guide to Fix Activity Tracking on Your Apple Watch</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/the-ultimate-list-of-queer-entertainment-top-netflix-shows-for-the-lgbtq-community-in-july-2024/"><u>The Ultimate List of Queer Entertainment: Top Netflix Shows for the LGBTQ Community in July 2024</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/troubleshooting-guide-resolving-tech-problems-in-tekken-8-pc-edition/"><u>Troubleshooting Guide: Resolving Tech Problems in Tekken 8 PC Edition</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-commercial-free-android-vision-capturer/"><u>[Updated] Commercial-Free Android Vision Capturer</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-in-2024-navigating-the-world-of-spotifys-advertising-landscape/"><u>[Updated] In 2024, Navigating the World of Spotify's Advertising Landscape</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-unlocking-the-power-of-blur-in-virtual-meetings/"><u>[Updated] Unlocking the Power of Blur in Virtual Meetings</u></a></li>
+<li><a href="https://location-fake.techidaily.com/4-methods-to-turn-off-life-360-on-oppo-k11x-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>4 Methods to Turn off Life 360 On Oppo K11x without Anyone Knowing | Dr.fone</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/elevate-user-participation-via-personalized-ig-story-polls/"><u>Elevate User Participation via Personalized IG Story Polls</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/essential-tips-and-tricks-for-a-memorable-labor-day-celebration-smarttechsavvy/"><u>Essential Tips & Tricks for a Memorable Labor Day Celebration - SmartTechSavvy</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/experience-crystal-clear-audio-with-this-compact-bluetooth-speaker-minimal-distortion-maximum-quality-techreviews/"><u>Experience Crystal Clear Audio with This Compact Bluetooth Speaker - Minimal Distortion, Maximum Quality | TechReviews</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-oneplus-12withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on OnePlus 12with/without a PC</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-5-must-have-audio-experts-insights-from-zdnet/"><u>Top 5 Must-Have Audio Experts : Insights From ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-tier-audio-experience-the-ultimate-non-vizio-non-jbl-soundbar-reviewed-on-zdnet/"><u>Top-Tier Audio Experience: The Ultimate Non-Vizio, Non-JBL Soundbar Reviewed on ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-tier-audio-picks-for-gamers-comprehensive-reviews-by-tech-aficionados/"><u>Top-Tier Audio Picks for Gamers : Comprehensive Reviews by Tech Aficionados</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Discover the Ultimate List of Gmail Hotkeys: Boost Your Productivity"
-date: 2024-08-20T09:57:29.768Z
-updated: 2024-08-21T09:57:29.768Z
+date: 2025-01-17T21:04:32.285Z
+updated: 2025-01-22T22:50:12.703Z
 categories:
   - BestProducts
 description: "This Article Describes Discover the Ultimate List of Gmail Hotkeys: Boost Your Productivity"
@@ -21,6 +21,10 @@ of 05
 ## [ProtonMail](https://www.lifewire.com/protonmail-review-4107075)
 
 ![ProtonMail welcome screen](https://www.lifewire.com/thmb/_qJAC5Bm3hlBSGO_O_57PcrBJrw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ProtonMail2017-04-16-58f52e025f9b581d59d0ced8.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  What We Like
 
@@ -55,6 +59,10 @@ of 05
 02
 
 of 05
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## [Hushmail](https://www.hushmail.com/)
 
@@ -94,9 +102,6 @@ of 05
 
 ![CounterMail](https://www.lifewire.com/thmb/3ES3dmQEQGY_OP0mwI9RxbhdnqI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Countermail2017-04-16-58f52e9b3df78ca159ddb2e8.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  What We Like
 
 * Supports IMAP.
@@ -126,20 +131,13 @@ of 05
 of 05
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## [​Tutanota](https://tuta.com/)
 
 ![Tutanota](https://www.lifewire.com/thmb/XOLtTNRVO2lmtyVkLajAIo6kLQo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Tutanota2017-04-16-58f52e305f9b581d59d14020.png)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
-
- Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
-
- DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
- PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
  What We Like
 
 * Apps for iOS and Android.
@@ -171,16 +169,14 @@ of 05
 
 of 05
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## [Mailfence](https://mailfence.com/)
 
 ![Mailfence](https://www.lifewire.com/thmb/Fuv___7pv6oEvB7cacxTttuCEOM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Mailfence2017-04-16-58f52e665f9b581d59d1ca01.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  What We Like
 
 * Digital email signatures prove authorship.
@@ -212,8 +208,9 @@ of 05
 [Sign up for Mailfence](https://mailfence.com/)
 
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Additional Tips to Keep Email Secure and Private
 
  If you use an email service that offers end-to-end encryption, you've taken a huge step toward making your email secure and private. To make life even more difficult for hackers, here are a few more precautions:
@@ -243,8 +240,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -252,4 +247,23 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/new-creating-compelling-visual-collections-from-single-images/"><u>[New] Creating Compelling Visual Collections From Single Images</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-igtv-video-submission-made-simple/"><u>[New] IGTV Video Submission Made Simple</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-innovative-techniques-in-picking-the-best-fpv-drone-propellers/"><u>[New] In 2024, Innovative Techniques in Picking the Best FPV Drone Propellers</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ive-broadcasting-bliss-comprehensive-list-of-hardware-and-software-for-successful-streams/"><u>[New] Live Broadcasting Bliss Comprehensive List of Hardware & Software for Successful Streams</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-freely-accessing-pinterest-vids-top-5-free-downloader-rankings-for-2024/"><u>[Updated] Freely Accessing Pinterest Vids Top 5 Free Downloader Rankings for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/burn-video-to-dvd-on-mac-2-ways/"><u>Burn Video to DVD on Mac [2 Ways]</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/diagnosing-and-repairing-silent-calls-a-comprehensive-guide-for-iphones/"><u>Diagnosing and Repairing Silent Calls: A Comprehensive Guide for iPhones</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discover-these-6-fantastic-no-cost-photo-editing-tools/"><u>Discover These 6 Fantastic No-Cost Photo Editing Tools</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/effective-ways-to-correct-pixel-damage-causing-image-deformation-on-monitors/"><u>Effective Ways to Correct Pixel Damage Causing Image Deformation on Monitors</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/is-twitch-experiencing-a-blackout-or-is-my-stream-lagging-due-to-other-factors/"><u>Is Twitch Experiencing a Blackout, or Is My Stream Lagging Due to Other Factors?</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/mastering-tech-essentials-expert-advice-from-toms-computer-and-peripherals-rundown/"><u>Mastering Tech Essentials - Expert Advice From Tom's Computer and Peripherals Rundown</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/top-free-speech-to-text-apps-for-mac-you-need-to-try-for-2024/"><u>Top Free Speech to Text Apps for Mac You Need to Try for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/trouble-logging-into-playstation-network-system-outage-or-user-setup-woes/"><u>Trouble Logging Into PlayStation Network - System Outage or User Setup Woes?</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ultimate-guide-connecting-your-subwoofer-with-samsungs-premium-soundbar/"><u>Ultimate Guide: Connecting Your Subwoofer with Samsung's Premium Soundbar</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/understanding-dts-play-fi-an-introduction/"><u>Understanding DTS Play-Fi: An Introduction</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/why-the-barnes-and-noble-nook-glowlight-3-shines-in-nighttime-reading/"><u>Why the Barnes & Noble Nook GlowLight 3 Shines in Nighttime Reading</u></a></li>
+</ul></div>
 

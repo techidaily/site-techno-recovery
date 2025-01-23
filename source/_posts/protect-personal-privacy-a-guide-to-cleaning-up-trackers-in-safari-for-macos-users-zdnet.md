@@ -1,7 +1,7 @@
 ---
 title: "Protect Personal Privacy: A Guide to Cleaning Up Trackers in Safari for macOS Users | ZDNet"
-date: 2025-01-13T23:14:34.989Z
-updated: 2025-01-17T01:36:56.433Z
+date: 2025-01-18T21:32:34.034Z
+updated: 2025-01-22T22:34:57.999Z
 tags:
   - apple
 categories:
@@ -47,7 +47,7 @@ Let me show you how to enable this feature.
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to remove tracking information in MacOS Safari
@@ -55,7 +55,7 @@ Let me show you how to enable this feature.
 **What you'll need:** To gain the benefit of advanced tracking and fingerprint protection, you'll need [MacOS Sonoma](https://www.zdnet.com/article/whats-new-in-macos-sonoma-heres-everything-you-need-to-know/), which ships with version 17.0 of Safari. You will only find this feature in Safari if you've upgraded to Sonoma.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Open Safari Settings
@@ -67,7 +67,7 @@ You can also access Safari settings with the Cmd+, key combination.
 Jack Wallen/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Enable advanced track protection
@@ -119,19 +119,17 @@ Even so, getting rid of tracking information from even a percentage of sites you
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-zero.techidaily.com/comparing-data-protection-titans-is-aomei-backupper-or-macrium-reflect-the-better-choice-for-your-computers-safety/"><u>Comparing Data Protection Titans: Is AOMEI Backupper or Macrium Reflect the Better Choice for Your Computer's Safety?</u></a></li>
-<li><a href="https://win11.techidaily.com/effortless-dvd-to-mkv-conversion-guide-for-windows-11-and-10-users/"><u>Effortless DVD-to-MKV Conversion Guide for Windows 11 and 10 Users</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/free-steelseries-driver-software-downloads-and-easy-setup-guide-for-pcs/"><u>Free SteelSeries Driver Software Downloads & Easy Setup Guide for PCs</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/how-to-ensure-crystal-clear-sound-from-your-airpods-while-using-a-windows-pc/"><u>How To Ensure Crystal Clear Sound From Your AirPods While Using A Windows PC</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/how-to-remove-extensions-on-chrome-solved/"><u>How to Remove Extensions on Chrome [SOLVED]</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/how-to-set-up-multiple-desktops-in-windows-11/"><u>How to Set Up Multiple Desktops in Windows 11</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/how-to-speed-up-a-deteriorating-performance-on-an-hp-computer/"><u>How To Speed Up A Deteriorating Performance On An HP Computer</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/improve-your-listening-experience-on-windows-11-the-ultimate-equalizer-tweaks/"><u>Improve Your Listening Experience on Windows 11: The Ultimate Equalizer Tweaks</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-crafting-captivating-time-lapse-videos-a-simple-guide-with-gopro-studio/"><u>In 2024, Crafting Captivating Time-Lapse Videos A Simple Guide with GoPro Studio</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/innovative-approaches-to-achieve-stunning-gopro-time-lapse/"><u>Innovative Approaches to Achieve Stunning GoPro Time Lapse</u></a></li>
-<li><a href="https://fox-place.techidaily.com/integrale-protection-de-votre-systeme-les-services-dassistance-aomei/"><u>Intégrale Protection De Votre Système: Les Services D'Assistance AOMEI</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/mastering-the-art-of-high-fps-in-csgo-the-comprehensive-improvement-guide-you-need/"><u>Mastering the Art of High FPS in CS:GO - The Comprehensive Improvement Guide You Need</u></a></li>
-<li><a href="https://games-able.techidaily.com/pokemon-legacy-emulating-the-original-series/"><u>Pokémon Legacy: Emulating the Original Series</u></a></li>
-<li><a href="https://ai-topics.techidaily.com/top-10-talking-photo-online-tools-you-have-to-try/"><u>Top 10 Talking Photo Online Tools You Have To Try</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-beginners-pathway-to-grasping-hd-content-standards/"><u>[New] 2024 Approved Beginner’s Pathway to Grasping HD Content Standards</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-premier-screenshots-software-for-linux-users-for-2024/"><u>[New] Premier Screenshots Software for Linux Users for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-peeking-into-instagram-stories-what-viewers-dont-know/"><u>[Updated] 2024 Approved Peeking Into Instagram Stories What Viewers Don’t Know</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-combat-blurry-iphone-hdri-4-pivotal-tips-for-premiere-pro-users/"><u>[Updated] Combat Blurry iPhone HDRI 4 Pivotal Tips for Premiere Pro Users</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-uncover-exquisite-vr-trails-for-bikers/"><u>[Updated] Uncover Exquisite VR Trails for Bikers</u></a></li>
+<li><a href="https://win11.techidaily.com/addressing-cannot-access-errors-for-files-in-win1011/"><u>Addressing 'Cannot Access' Errors for Files in Win10/11</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discover-these-16-no-cost-tools-for-learning-sign-language-easily/"><u>Discover These 16 No-Cost Tools for Learning Sign Language Easily</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/inside-scoop-on-the-pixel-watch-release-specs-price-forecast-and-rumored-updates/"><u>Inside Scoop on The Pixel Watch - Release Specs, Price Forecast & Rumored Updates</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-easy-way-to-take-photos-of-your-desktop-using-an-hp-computer/"><u>The Easy Way to Take Photos of Your Desktop Using an HP Computer</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-ultimate-guide-to-resolving-printer-visibility-issues-on-your-ipad-device/"><u>The Ultimate Guide to Resolving Printer Visibility Issues on Your iPad Device</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/top-imei-unlokers-for-your-samsung-galaxy-f34-5g-phone-by-drfone-android/"><u>Top IMEI Unlokers for Your Samsung Galaxy F34 5G Phone</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-performing-240hz-panels-for-competitive-play/"><u>Top Performing 240Hz Panels for Competitive Play</u></a></li>
 </ul></div>
 

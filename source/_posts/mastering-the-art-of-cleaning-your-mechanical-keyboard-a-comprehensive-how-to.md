@@ -1,7 +1,7 @@
 ---
 title: Mastering the Art of Cleaning Your Mechanical Keyboard - A Comprehensive How-To
-date: 2024-08-20T09:58:50.432Z
-updated: 2024-08-21T09:58:50.432Z
+date: 2025-01-18T05:50:47.946Z
+updated: 2025-01-22T22:43:03.241Z
 categories:
   - BestProducts
 description: This Article Describes Mastering the Art of Cleaning Your Mechanical Keyboard - A Comprehensive How-To
@@ -14,6 +14,10 @@ thumbnail: https://www.lifewire.com/thmb/-_GboZmA1Og4NgF0YS4PV_BpDsI=/400x300/fi
 
  Instructions in this article apply to Minecraft for all platforms including Windows, PS4, and Xbox One.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Make an Awkward Potion in Minecraft
 
  Follow these steps to collect the materials and craft an Awkward Potion in Minecraft.  
@@ -23,6 +27,11 @@ thumbnail: https://www.lifewire.com/thmb/-_GboZmA1Og4NgF0YS4PV_BpDsI=/400x300/fi
 2. Make a**Crafting Table** with 4 wood planks. Any type of plank (**Warped Planks** , **Crimson Planks** , etc.) will do.  
 ![Make a Crafting Table with 4 wood planks.](https://www.lifewire.com/thmb/FrhprZpyD-UmvnQ8_WU_j2ywbTM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002-2b6becda954b4f6ca22144303a9d7a30.jpg)
 3. Place the Crafting Table on the ground and open it to bring up the 3X3 crafting grid.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Place the Crafting Table on the ground and open it to bring up the 3X3 crafting grid.](https://www.lifewire.com/thmb/_KMBsLRFlAKz_Vsv7IDm4NPdlsc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/003-7747868208ee4f78a3588c8c7f34ed57.jpg)
 4. Craft a **Brewing Stand** . Put**1** **Blaze Rod** in the middle of the top row, then put **3 Cobblestones** in the middle row.  
 ![Put 1 Blaze Rod in the middle of the top row, then put 3 Cobblestones in the middle row.](https://www.lifewire.com/thmb/xhvaykHAzNU4zphBdJKIhTqT72A=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004-ca12414471df435c88e8e25d694c853e.jpg)
@@ -33,10 +42,24 @@ thumbnail: https://www.lifewire.com/thmb/-_GboZmA1Og4NgF0YS4PV_BpDsI=/400x300/fi
 7. Put a **Water Bottle** in one of the three boxes at the bottom of the brewing menu.  
 ![Add the Water Bottle to one of the three boxes at the bottom of the brewing menu.](https://www.lifewire.com/thmb/XN8yw9gjspE70SuTZBbP7LahfTg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/007-483d26234f9a46d49dcc4cb51bdc1556.jpg)  
  Make up-to three potions at once by putting Water Bottles in the other bottom boxes.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 8. Put**1 Nether Wart** in the box at the top of the brewing menu.  
 ![Put 1 Nether Wart in the box at the top of the brewing menu.](https://www.lifewire.com/thmb/MjgshJ6DqtRW1P8bW7GvdnTRDOQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/008-7bb3bff99f2d4daebf1c93c83857ae01.jpg)
 9. Wait for the brewing process to complete. When the progress bar is full, your bottle will contain an **Awkward Potion** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![An Awkward Potion in the Minecraft brewing menu](https://www.lifewire.com/thmb/Xzcxnyt-aDK0ePczNoemcIAZvHg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/009-0b25cf0050e941f79637b623ef38296d.jpg)  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Awkward Potion Recipe  
 
@@ -48,10 +71,6 @@ thumbnail: https://www.lifewire.com/thmb/-_GboZmA1Og4NgF0YS4PV_BpDsI=/400x300/fi
 * 1 Water Bottle  
 * 1 Nether Wart  
 
-<!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
-<!-- affiliate ads end -->
 ## What Does an Awkward Potion Do in Minecraft?  
 
  The Awkward Potion is an essential base ingredient for many other potions. Here's a list of what you can make with an Awkward Potion.  
@@ -89,8 +108,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -98,4 +115,26 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/new-in-2024-secure-your-links-no-cost-high-efficiency-exporters-for-23-online/"><u>[New] In 2024, Secure Your Links No-Cost, High-Efficiency Exporters for '23 Online</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-navigating-legal-boundaries-in-whatsapp-call-recordings-for-2024/"><u>[New] Navigating Legal Boundaries in WhatsApp Call Recordings for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-compiling-the-top-windows-11-video-capture-tools/"><u>[Updated] Compiling the Top Windows 11 Video Capture Tools</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-troubleshooting-tips-for-a-stable-windows-11-photo-experience/"><u>[Updated] Troubleshooting Tips for a Stable Windows 11 Photo Experience</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/approved-exploring-t-series-youtube-profit-strategy/"><u>2024 Approved Exploring T-Series YouTube Profit Strategy</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/android-users-manual-how-to-permanently-deactivate-facebook-app/"><u>Android Users' Manual: How to Permanently Deactivate Facebook App</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/back-up-and-rip-the-ultimate-johnny-depp-movie-the-lone-ranger-dvd-tutorial/"><u>Back Up & Rip the Ultimate Johnny Depp Movie - The Lone Ranger DVD Tutorial</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/building-your-own-studiopc-a-4k-video-editing-system-blueprint-for-2024/"><u>Building Your Own StudioPC A 4K Video Editing System Blueprint for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/essential-top-five-tools-for-success-on-twitch-a-must-have-guide/"><u>Essential Top Five Tools for Success on Twitch: A Must-Have Guide</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/exclusive-insights-unveiling-rumors-surrounding-the-new-apple-annulus-device/"><u>Exclusive Insights: Unveiling Rumors Surrounding the New Apple Annulus Device</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/harmonize-your-online-identity-iphoneandroid-music-integration-for-2024/"><u>Harmonize Your Online Identity IPhone/Android Music Integration for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/hulu-standard-vs-huluplus-a-side-by-side-comparison-for-better-choices/"><u>Hulu Standard Vs. Hulu+: A Side-by-Side Comparison for Better Choices</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-reset-your-vivo-v29-pro-lock-screen-password-by-drfone-android/"><u>In 2024, How to Reset your Vivo V29 Pro Lock Screen Password</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-initialization-errors-in-metro-mania-skylines-2-edition-launch-problems/"><u>Overcoming Initialization Errors in Metro Mania: Skylines 2 Edition Launch Problems</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/pc-performance-basics-how-quickly-should-it-run/"><u>PC Performance Basics: How Quickly Should It Run?</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/protect-your-linksys-device-unlocking-the-july-2024-default-password-guide/"><u>Protect Your Linksys Device: Unlocking the July 2024 Default Password Guide</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-tutorial-for-managing-google-smart-speakers-using-the-compatible-phone-application-on-pc/"><u>Step-by-Step Tutorial for Managing Google Smart Speakers Using the Compatible Phone Application on PC</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-10-workout-journaling-apps-of-2024/"><u>Top 10 Workout Journaling Apps of 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/troubleshooting-made-simple-how-to-perform-a-full-cmos-reset/"><u>Troubleshooting Made Simple: How to Perform a Full CMOS Reset</u></a></li>
+</ul></div>
 

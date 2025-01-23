@@ -1,7 +1,7 @@
 ---
 title: "1. Mastering the Art of E-Book Reading on Microsoft's Win 8 Tablets: Surface RT & Pro Guides"
-date: 2024-08-20T09:52:16.983Z
-updated: 2024-08-21T09:52:16.983Z
+date: 2025-01-15T22:21:02.095Z
+updated: 2025-01-23T00:07:24.322Z
 categories:
   - epubor
 thumbnail: https://thmb.techidaily.com/0138e2483878b61786c62e2e9ead335ddaa2649c1800ba21659cf76cde33dc5d.jpg
@@ -15,9 +15,11 @@ Posted by [Ada Wang](https://plus.google.com/+AdaWang/posts) on 11/21/2018 4:11:
 
 5 [(7 comments)](http://www.epubor.com/#comment-area) 
 
-
-
 ![follow](http://www.epubor.com/images/follow.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Reading eBooks on Microsoft Surface RT/Pro (Windows 8) tablets is an important experience for many people, together with office use and diversified forms of entertainments. However, eBooks from different stores are mostly DRM protected and come in different formats, thus we cannot read all eBooks on Surface RT / Pro in a consistent way. This guide will explain how to read eBooks on Surface tablets in different cases.
 
@@ -63,6 +65,10 @@ The solution is to **remove DRM from EPUB / PDF books with Epubor Ultimate on yo
 
 ![read eBooks on Microsoft Surface PT / Pro (win 8) tablets - use Epubor Ultimate](https://www.epubor.com/images/uppic/Microsoft-Surface-use-Ultimate-guide.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **#1\. Install Adobe Digital Editions (ADE) on your computer** and authorize your computer with Adobe ID. [**Make sure you can read the EPUB / PDF books on Adobe Digital Editions(ADE)**](https://tools.techidaily.com/epubor/products/). That's how the right decryption key is generated to decrypt your books and you can’t skip this step.
 
 **#2.** Download and install Epubor Ultimate Converter, which enables you to remove DRM from eBooks and convert formats at the same time.
@@ -81,7 +87,15 @@ If you want to read eBooks with Metro Reader app (supports EPUB and TXT only), y
 
 ![read eBooks on Microsoft Surface PT / Pro (win 8) tablets - Nook win 8 app](https://www.epubor.com/images/uppic/read-eBooks-on-Microsoft-Surface-Nook-for-win8.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![read eBooks on Microsoft Surface PT / Pro (win 8) tablets - Kobo win 8 app](https://www.epubor.com/images/uppic/read-eBooks-on-Microsoft-Surface-Kobo-for-win8.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 We can easily get [Nook for Win / RT](http://apps.microsoft.com/windows/en-us/app/nook/05dbbb07-cd42-4a5f-9cd3-a329d52bd372) and [Kobo for Win 8 / RT](http://apps.microsoft.com/windows/en-ca/app/kobo/05e8583d-b242-43be-8dcf-c8a9c49d8ee3) reading app from Windows app store to read Nook and Kobo books on MS Surface tablets. They can also be used to read DRM-free EPUB and PDF books from public domains.
 
@@ -93,17 +107,14 @@ However, there is no such a compatible version for Sony reading app. We can't ei
 
 Frankly, I do not that like reading eBooks in PDF format, which is not as flexible as EPUB or Kindle books. Luckily, Adobe Reader gives us another free way, along with Nook / Kobo reading apps, to read eBooks on Surface tablets with password-protected PDFs supported. It enables readers to quickly open PDF documents, search text, select reading modes, share & email PDFs, draw markups, zoom text & images, use bookmarks & links and the like.
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
-</a>
-<!-- affiliate ads end -->
 ### 2\. How to read Amazon Kindle books on Microsoft Surface RT / Pro (Windows 8)
 
 ![read eBooks on Microsoft Surface PT / Pro (win 8) tablets - Kindle for Win 8](https://www.epubor.com/images/uppic/read-eBooks-on-Microsoft-Surface-kindle-for-win8.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Reading Kindle books on Surface tablets is much easier.
 
 **1** Go to Windows app store and [download & install Kindle for Win 8 app](http://apps.microsoft.com/windows/en-us/app/kindle/1d7e4396-0143-4aed-8892-84eb75e799f3) on Surface RT / Pro.
@@ -118,9 +129,6 @@ Do hope this post will deliver you readers a good understanding of how to read e
 
 ![author](https://www.epubor.com/images/uppic/1-22-2013 12-03-06 AM.png)
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 [Ada Wang](https://plus.google.com/+AdaWang/posts) works for Epubor and writes articles for a collection of blogs such as ebookconverter.blogspot.com.
 
 SHARING IS GREAT!
@@ -128,8 +136,6 @@ SHARING IS GREAT!
 [Tweet](https://twitter.com/share) 
 
 [SAVE PAGE AS PDF](https://tools.techidaily.com/epubor/products/) 
-
-
 
 7 Comments
 
@@ -230,8 +236,6 @@ Leave a comment
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -239,4 +243,26 @@ Leave a comment
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://techno-recovery.techidaily.com/conjuring-movie-order-explained-a-viewing-guide-for-fans/"><u>'Conjuring' Movie Order Explained: A Viewing Guide for Fans</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-effective-group-meetings-googles-top-solutions-4/"><u>[New] Effective Group Meetings Google's Top Solutions (#4)</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-navigating-the-depths-of-vlc-player-capabilities/"><u>[New] Navigating the Depths of VLC Player Capabilities</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/best-no-cost-video-trimming-tools-compatible-with-windowsmacos-perfect-solution-to-remove-unnecessary-audio-and-visuals/"><u>Best No-Cost Video Trimming Tools Compatible with Windows/macOS: Perfect Solution to Remove Unnecessary Audio and Visuals</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/essential-troubleshooting-steps-to-correct-xinput13dll-errors/"><u>Essential Troubleshooting Steps to Correct xinput1_3.dll Errors</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-frp-from-samsung-galaxy-a05-by-drfone-android/"><u>How to Bypass FRP from Samsung Galaxy A05?</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-frp-hijacker-by-hagard-download-and-bypass-your-lava-yuva-2-pro-frp-locks-by-drfone-android/"><u>In 2024, FRP Hijacker by Hagard Download and Bypass your Lava Yuva 2 Pro FRP Locks</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-why-does-the-pokemon-go-battle-league-not-available-on-realme-c55-drfone-by-drfone-virtual-android/"><u>In 2024, Why does the pokemon go battle league not available On Realme C55 | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/prepare-for-the-next-big-apple-unveiling-news-gossip-and-important-information-ahead-of-time/"><u>Prepare for the Next Big Apple Unveiling: News, Gossip, and Important Information Ahead of Time</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-tutorial-on-forcing-a-reboot-into-safe-mode-on-windows/"><u>Step-by-Step Tutorial on Forcing a Reboot Into Safe Mode on Windows</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-art-of-alteration-a-guide-to-video-color-correction-11-parts-for-2024/"><u>The Art of Alteration A Guide to Video Color Correction (11 Parts) for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/the-essential-guide-to-using-supplementary-film-scenes/"><u>The Essential Guide to Using Supplementary Film Scenes</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-full-compendium-of-psvr2-game-announcements-explore-all-titles-revealed-to-the-public-thus-far/"><u>The Full Compendium of PSVR2 Game Announcements: Explore All Titles Revealed to the Public Thus Far</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-ultimate-guide-to-buying-a-quality-projector-what-matters-most/"><u>The Ultimate Guide to Buying a Quality Projector - What Matters Most?</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-ultimate-selection-5-best-sleep-trackers-for-your-apple-watch/"><u>The Ultimate Selection: 5 Best Sleep Trackers for Your Apple Watch</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/top-rated-photo-editing-tools-with-transparent-background-features/"><u>Top Rated Photo Editing Tools with Transparent Background Features</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/ultimate-list-of-the-7-finest-gratis-videa-to-dvd-conversion-tools-your-essential-how-to/"><u>Ultimate List of the 7 Finest Gratis VIDEA to DVD Conversion Tools - Your Essential How-To</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unlocking-cable-free-entertainment-a-guide-to-pairing-disneyplus-with-chromecast-technology/"><u>Unlocking Cable-Free Entertainment: A Guide to Pairing Disney+ with Chromecast Technology</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unveiling-the-details-what-you-should-know-about-atandts-roaming-agreements/"><u>Unveiling the Details: What You Should Know About AT&T's Roaming Agreements</u></a></li>
+</ul></div>
 

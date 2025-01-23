@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Step-by-Step: Enable and Use Split View on a MacBook Air"
-date: 2024-08-20T09:57:13.877Z
-updated: 2024-08-21T09:57:13.877Z
+date: 2025-01-16T01:41:52.894Z
+updated: 2025-01-23T00:47:37.773Z
 categories:
   - BestProducts
 description: "This Article Describes Ultimate Step-by-Step: Enable and Use Split View on a MacBook Air"
@@ -10,6 +10,11 @@ thumbnail: https://thmb.techidaily.com/6d3bb4c433103a9800faaf6de96c171f6d26a01b4
 ---
 
 ## Ultimate Step-by-Step: Enable and Use Split View on a MacBook Air
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### What to Know
 
 * Hover your mouse over the**Green Circle** (full-screen button) in the left corner of an open window.
@@ -37,8 +42,18 @@ thumbnail: https://thmb.techidaily.com/6d3bb4c433103a9800faaf6de96c171f6d26a01b4
 4. On the other half of the screen, you’ll see all of your other open windows. Click the one you want to view, and it should snap into place beside the original window.  
 ![Split view between Lifewire and Apple home pages on Google Chrome for Mac.](https://www.lifewire.com/thmb/x9FQUuRcpsMmovvnN_-Se9XX1OM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004_how-to-do-split-screen-on-a-macbook-air-01c3445392a446f3918a88fe65f6e04f.jpg)
 5. To switch window positions, click and drag one to the left or right. The windows should swap places.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Swapping window positioning in Mac Split View.](https://www.lifewire.com/thmb/GAwIa1w8f77NK8-gBbBHusTCjRY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/005_how-to-do-split-screen-on-a-macbook-air-cfa17d37feff42d497f36d89c8511b4c.jpg)
 6. If you’d like one window to be larger than the other, you can resize them by clicking and dragging the border between the two windows. Both windows will still fill the entire screen.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  In macOS Monterey (12.0) and later, you can also swap out apps in Split View and make either pane switch to full screen.  
 ![Adjusting window sizing in Mac Split View with window border highlighted](https://www.lifewire.com/thmb/ky3DzDBOWrxCjrhndHnTSpdFrq8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Resizewindowborder-8af934138964454391c58ee55601ccf8.jpg)
 7. To exit Split View, hover over the top of the screen until the grey menu bar reappears. Next, hover over the green circle button and select**Exit Full Screen** . Alternatively, you can click the green circle button.  
@@ -46,9 +61,6 @@ thumbnail: https://thmb.techidaily.com/6d3bb4c433103a9800faaf6de96c171f6d26a01b4
  Sometimes, exiting full screen will cause one of your windows to disappear. If this happens to you, it’s most likely because something put the window in a separate view in[Mission Control.](https://www.lifewire.com/assign-mac-apps-to-open-in-specific-desktop-space-2260812) On your keyboard, tap**F3** (it looks like a series of rectangles) to open Mission Control, and you should see your lost window in the bar at the top of your screen.  
 [How to Connect a MacBook Air to a Monitor](https://www.lifewire.com/connect-monitor-to-macbook-air-5192977)  
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ## How to Open Other Apps in Split View  
 
  You can easily toggle between apps or open a new one while in Split View by opening Mission Control, which lets you view all your open windows, apps, and desktop spaces. With Split View active, click F3 on your keyboard to open Mission Control. You should now be able to access any app you wish.  
@@ -59,17 +71,9 @@ thumbnail: https://thmb.techidaily.com/6d3bb4c433103a9800faaf6de96c171f6d26a01b4
 * Double-tap with two fingers on your Magic Mouse (if applicable)  
 
 <!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Why Won't My Mac Do Split Screen?  
 
  If you can’t access Split View on your Mac, it’s most likely because your operating system is outdated.  
@@ -83,19 +87,15 @@ thumbnail: https://thmb.techidaily.com/6d3bb4c433103a9800faaf6de96c171f6d26a01b4
    9. Select**System Preferences** .  
 ![Selecting System Preferences from Apple Menu on Mac desktop.](https://www.lifewire.com/thmb/AT4sp2cD3Beo1IheLO6LBwWi3y4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/SystemPreferences-160902a7424c425ca3f1db702db4a8ae.jpg)
    10. Click**Mission Control** .  
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
-<!-- affiliate ads end -->
 ![Selecting Mission Control from Mac System Preferences.](https://www.lifewire.com/thmb/70YcgJiWcCWWw-8xubpZZzUJapI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/MissionControl-c80efa1f457e4e39a0ce93d76f1bfeb2.jpg)
    11. Ensure**Displays have separate Spaces** is selected.  
-<!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
-![Mission Control settings in Mac System Preferences with "Displays have separate Spaces" highlighted](https://www.lifewire.com/thmb/KZRt3NLpeVf-QkSjk6E3D8vx96s=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Displayshaveseparatefaces-f4ce44168f12424f9a0739d255350714.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![Mission Control settings in Mac System Preferences with "Displays have separate Spaces" highlighted](https://www.lifewire.com/thmb/KZRt3NLpeVf-QkSjk6E3D8vx96s=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Displayshaveseparatefaces-f4ce44168f12424f9a0739d255350714.jpg)
+
  FAQ
 
 * How do I split the screen on a MacBook Pro?  
@@ -127,8 +127,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -136,4 +134,26 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-guidance.techidaily.com/new-the-metrics-of-mastery-assessing-luminances-hdr-capabilities/"><u>[New] The Metrics of Mastery Assessing Luminance's HDR Capabilities</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-dive-into-social-media-streams-watching-facebook-live-on-roku/"><u>[Updated] 2024 Approved Dive Into Social Media Streams Watching Facebook Live on Roku</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-essential-guide-to-hashtagging-for-game-focused-yt-channels/"><u>[Updated] 2024 Approved Essential Guide to Hashtagging for Game-Focused YT Channels</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-essential-methods-youtube-to-mpeg-transformation-guide/"><u>[Updated] Essential Methods YouTube to MPEG Transformation Guide</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-photographers-path-to-perfected-colors/"><u>[Updated] The Photographer's Path to Perfected Colors</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-8-pioneering-online-photo-combination-suite/"><u>2024 Approved 8 Pioneering Online Photo Combination Suite</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/4-easy-ways-for-your-motorola-edge-40-pro-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>4 Easy Ways for Your Motorola Edge 40 Pro Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/achieving-optimal-dns-performance-via-reset/"><u>Achieving Optimal DNS Performance via Reset</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/digital-disguise-tactics-hiding-or-faking-location-data-on-smartphones/"><u>Digital Disguise Tactics: Hiding or Faking Location Data on Smartphones</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-free-asrock-ab350-pro4-graphics-card-drivers-quick-and-easy-setup/"><u>Download [FREE] ASRock AB350 Pro4 Graphics Card Drivers - Quick & Easy Setup</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/expert-advice-on-repairing-broken-email-functionality-on-your-iphone/"><u>Expert Advice on Repairing Broken Email Functionality on Your iPhone.</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/pairing-disney-plus-with-chromecast-a-comprehensive-tutorial-on-smart-view-casting/"><u>Pairing Disney Plus with Chromecast – A Comprehensive Tutorial on Smart View Casting</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-guide-correcting-windows-error-code-19-issues/"><u>Step-by-Step Guide: Correcting Windows Error Code 19 Issues</u></a></li>
+<li><a href="https://win-able.techidaily.com/stop-dread-hunger-from-crashing-quick-pc-repairs-and-tips/"><u>Stop Dread Hunger From Crashing: Quick PC Repairs & Tips</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-ultimate-tutorial-hp-laptop-screen-capture-techniques/"><u>The Ultimate Tutorial: HP Laptop Screen Capture Techniques</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/troubleshooting-sound-problems-a-guide-to-solving-audio-glitches-in-powerpoint/"><u>Troubleshooting Sound Problems: A Guide to Solving Audio Glitches in PowerPoint</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unlocking-the-full-potential-of-your-lg-television-by-watching-espn-plus/"><u>Unlocking the Full Potential of Your LG Television by Watching ESPN Plus</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unveiling-the-new-m4-mac-mini-release-timeline-cost-estimates-and-tech-specs/"><u>Unveiling the New M4 Mac Mini - Release Timeline, Cost Estimates, and Tech Specs</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/why-does-my-car-battery-keep-going-dead-explore-these-6-reasons/"><u>Why Does My Car Battery Keep Going Dead? Explore These 6 Reasons</u></a></li>
+</ul></div>
 

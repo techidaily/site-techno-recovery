@@ -1,7 +1,7 @@
 ---
 title: "Exposing AirTag Surveillance: Your Complete Manual on Privacy Protection"
-date: 2025-01-10T21:15:45.194Z
-updated: 2025-01-16T16:27:58.690Z
+date: 2025-01-19T20:50:51.434Z
+updated: 2025-01-23T03:28:08.674Z
 tags:
   - apple
 categories:
@@ -49,7 +49,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## A trained charm offensive
@@ -83,7 +83,7 @@ She began to play a demonstration video that, dare I confess, is quite moving.
 The fact that someone else can see (a digital version of) your eyes is a touchingly humane feature, even if imperfect. But the simple gesturing and the apparent power of that gesturing is, even on video, quite something.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Suddenly, it's all business
@@ -125,7 +125,7 @@ I asked if she thought this would become the new way of living, where people wan
 (Well, not quite all the apps. Netflix and YouTube [aren't there](https://www.zdnet.com/article/what-apps-will-be-on-apple-vision-pro-not-these-two-major-ones/).)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Was I sold? Not quite yet
@@ -191,22 +191,18 @@ I asked the female store employee whether she'd be able to try one on before the
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-conquering-screenshots-a-compreayer-on-lenovo-tech/"><u>[New] In 2024, Conquering Screenshots A Compreayer on Lenovo Tech</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-claritycleanseapp-top-tier-background-eraser/"><u>[Updated] ClarityCleanseApp Top-Tier Background Eraser</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/2024-approved-youtubes-time-loop-video-recovery-explained/"><u>2024 Approved YouTube's Time Loop Video Recovery Explained</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/captureconqueror-a-comprehensive-guide-to-screen-recording-for-2024/"><u>CaptureConqueror A Comprehensive Guide to Screen Recording for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/ensuring-optimal-performance-a-how-to-for-driver-updates-on-windows-operating-systems/"><u>Ensuring Optimal Performance: A How-To for Driver Updates on Windows Operating Systems</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/find-and-configure-your-pcs-dashboard-windows-10-instructions/"><u>Find and Configure Your PC's Dashboard - Windows 10 Instructions</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/five-fundamental-internet-browsing-security-tips-for-novice-users/"><u>Five Fundamental Internet Browsing Security Tips for Novice Users</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/for-laminar-flow-in-pipes-the-pressure-drop-can-be-calculated-using-the-hagen-poiseuille-equation-dpl-32mvrd2/"><u>For Laminar Flow in Pipes, the Pressure Drop Can Be Calculated Using the Hagen-Poiseuille Equation: ΔP/L = 32μV/(ρD^2)</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/how-to-fix-not-detectable-issues-with-your-sd-card-easily/"><u>How to Fix 'Not Detectable' Issues with Your SD Card Easily</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-overcome-compatibility-problems-with-new-minecraft-launchers/"><u>How to Overcome Compatibility Problems with New Minecraft Launchers?</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/how-to-repair-the-infamous-goose-and-duck-bug-on-your-computer-gaming-experience/"><u>How to Repair the Infamous 'Goose and Duck' Bug on Your Computer Gaming Experience</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/how-to-restore-your-arch-bluetooth-mouse-functionality-post-windows-11-creators-update/"><u>How To Restore Your Arch Bluetooth Mouse Functionality Post-Windows 11 Creator's Update</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/how-to-set-up-miracast-in-windows-1011-fix-it-if-it-stops-working-solved/"><u>How to Set up Miracast in Windows 10/11; Fix It if It Stops Working? [Solved]</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-apple-iphone-6-plus-official-method-to-unlock-your-apple-iphone-6-plus-by-drfone-ios/"><u>How To Unlock Apple iPhone 6 Plus Official Method to Unlock Your Apple iPhone 6 Plus</u></a></li>
-<li><a href="https://win-blog.techidaily.com/internet-explorer-display-troubles-resolved-techniques-and-tips/"><u>Internet Explorer Display Troubles - Resolved Techniques and Tips</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/step-by-step-instructions-on-wiring-a-subwoofer-with-your-samsung-audio-bar/"><u>Step-by-Step Instructions on Wiring a Subwoofer with Your Samsung Audio Bar</u></a></li>
-<li><a href="https://program-issues.techidaily.com/top-tips-for-resolving-minecrafts-audio-malfunction-on-your-personal-computer/"><u>Top Tips for Resolving Minecraft's Audio Malfunction on Your Personal Computer</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-bring-the-chuckles-home-creating-memes-on-demand/"><u>[New] 2024 Approved Bring the Chuckles Home Creating Memes on Demand</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/apple-mac-mini-with-m1-chip-2020-a-revolutionary-leap-beyond-the-rival-computers/"><u>Apple Mac Mini with M1 Chip (2020): A Revolutionary Leap Beyond the Rival Computers</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/boost-engagement-by-permanent-display-of-key-talks-on-instagram-a-how-to/"><u>Boost Engagement by Permanent Display of Key Talks on Instagram – A How-To</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/boost-your-start-menu-efficiency-in-the-world-of-windows-11/"><u>Boost Your Start Menu Efficiency in the World of Windows 11</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discover-the-expanded-world-of-tcls-q-and-s-series-now-featuring-19-cutting-edge-smart-tvs/"><u>Discover the Expanded World of TCL's Q and S Series - Now Featuring 19 Cutting-Edge Smart TVs</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/diy-approach-eliminating-the-infamous-hulu-rununk13-error-once-and-for-all/"><u>DIY Approach: Eliminating the Infamous Hulu RUNUNK13 Error Once and For All</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-the-error-of-unfortunately-the-processcomandroidphone-has-stopped-on-oppo-a79-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix the Error of Unfortunately the Process.com.android.phone Has Stopped on Oppo A79 5G | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/instructions-switch-network-browsing-on-or-off-in-windows-11-easily/"><u>Instructions: Switch Network Browsing On or Off in Windows 11 Easily</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/seamless-integration-moving-your-google-photos-library-to-icloud/"><u>Seamless Integration: Moving Your Google Photos Library to iCloud</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-recent-calls-back-from-vivo-y36i-by-fonelab-android-recover-call-logs/"><u>Simple ways to get recent calls back from Vivo Y36i</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/539135-9780307757753-soul-psychology/"><u>Soul Psychology | Free Book</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-guide-correcting-inpage-kernel-memory-errors/"><u>Step-by-Step Guide: Correcting Inpage Kernel Memory Errors</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-imessage-disconnection-problems-on-iphone-devices/"><u>Troubleshooting iMessage Disconnection Problems on iPhone Devices</u></a></li>
 </ul></div>
 

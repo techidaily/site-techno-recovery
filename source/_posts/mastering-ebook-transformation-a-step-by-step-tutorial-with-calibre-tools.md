@@ -1,7 +1,7 @@
 ---
 title: "Mastering eBook Transformation: A Step-by-Step Tutorial with Calibre Tools"
-date: 2024-08-20T09:52:43.336Z
-updated: 2024-08-21T09:52:43.336Z
+date: 2025-01-17T19:46:12.530Z
+updated: 2025-01-22T19:06:01.500Z
 categories:
   - epubor
 thumbnail: https://thmb.techidaily.com/b15acb0e615e51b4bca2cf04ecdca80b947c552152a5ac4f569d3fcb7ad77d05.jpg
@@ -14,8 +14,6 @@ thumbnail: https://thmb.techidaily.com/b15acb0e615e51b4bca2cf04ecdca80b947c55215
 Posted by [Ada Wang](https://plus.google.com/+AdaWang/posts) on 5/4/2023 2:39:24 PM.
 
 4.1 [(20 comments)](http://www.epubor.com/#comment-area) 
-
-
 
 ![follow](http://www.epubor.com/images/follow.png)
 
@@ -31,6 +29,10 @@ The supported output formats include EPUB, FB2, OEB, LIT, LRF, MOBI, PDB, PML, R
 
 ![Calibre](https://www.epubor.com/images/remote/D4/1D/D41D8C_D41D8C_bre-install.jpg "calibre")
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Step 1: Download & install [Calibre](http://calibre-ebook.com/download).
 
 #### Tips:
@@ -40,6 +42,10 @@ The supported output formats include EPUB, FB2, OEB, LIT, LRF, MOBI, PDB, PML, R
 * [How to convert Kindle AZW to ePUB](https://tools.techidaily.com/epubor/products/)
 * [Read kindle books on nook](https://tools.techidaily.com/epubor/products/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Step 2: After successfully installing the best ebook converter--Calibre , launch it. 
 
 This is the main interface of the Calibre ebook converter.
@@ -47,11 +53,9 @@ This is the main interface of the Calibre ebook converter.
 ![Calibre screenshot](https://www.epubor.com/images/uppic/calibre-interface-1.png "calibre screenshot")
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+
 ### **Step 3: Add your ebooks to library**. 
 
 You can either drag and drop the books to the Calibre main interface or click "Add books" and then navigate to the folder stored your ebooks to add ebooks to Calibre. When you add a new book, it will appear at the top of the list of books.
@@ -64,9 +68,6 @@ The output is list all the book types, like ePUB,FBZ,HTMLZ,LIT,LRF,MOBI,PDB,PDF,
 
 ![Calibre output setting](https://www.epubor.com/images/uppic/convert-ebooks-calibre-1.png "calibre output setting")
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 After configuring the conversion settings, click 'OK' to start the conversion process. The pop-up window will close and the conversion process will begin.
 
 If you're not paying close attention, you may not notice any immediate changes to the main window, and may be unsure when the conversion process will be finished.
@@ -75,13 +76,18 @@ To monitor the progress of the conversion, look at the bottom-right corner of th
 
 ![Calibre](https://www.epubor.com/images/remote/D4/1D/D41D8C_converter-status.jpg "calibre")
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 When the conversion process is complete, the status will change to '**Jobs: 0**'.
 
 You may notice that there is now a section labeled '**Formats: EPUB, PDF**'. These are the different file types for the converted book.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Step 5: To locate the converted files, click '**Click to open**'. This will open the folder where the converted files are saved."
 
 ![Calibre out formats](https://www.epubor.com/images/remote/D4/1D/D41D8C_books-type.jpg "calibre out formats")
@@ -108,9 +114,6 @@ How to use Epubor Ultimate to remove ebook drm?
 * [Sony / Kobo / Google EPUB & PDF DRM Removal](https://tools.techidaily.com/epubor/products/) (ADE DRM Removal)
 * [Nook DRM Removal](https://tools.techidaily.com/epubor/nook-drm-removal/)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Pro step 6: send ebook to device with Calibre
 
 Once the books has converted successfully, connect the device to your computer and right click the book. From there, hover over '**Send to Device**' and select '**Send to Main Memory**'.
@@ -120,8 +123,9 @@ Once the books has converted successfully, connect the device to your computer a
 ![author](https://www.epubor.com/images/uppic/1-22-2013 12-03-06 AM.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 [Ada Wang](https://plus.google.com/+AdaWang/posts) works for Epubor and writes articles for a collection of blogs such as ebookconverter.blogspot.com.
 
 SHARING IS GREAT!
@@ -129,8 +133,6 @@ SHARING IS GREAT!
 [Tweet](https://twitter.com/share) 
 
 [SAVE PAGE AS PDF](https://tools.techidaily.com/epubor/products/) 
-
-
 
 20 Comments
 
@@ -386,8 +388,6 @@ Leave a comment
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -395,4 +395,22 @@ Leave a comment
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-transforming-frost-into-warmth-video-backdrops-guide/"><u>[New] 2024 Approved Transforming Frost Into Warmth Video Backdrops Guide</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ehind-the-mascara-youtubes-top-makeup-artists-unveiled-for-2024/"><u>[New] Behind the Mascara YouTube's Top Makeup Artists Unveiled for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/a-comprehensive-guide-to-fixing-accurate-apple-screen-time-records-for-your-iphone/"><u>A Comprehensive Guide to Fixing Accurate Apple Screen Time Records for Your iPhone</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210676438-9781639854042-a-guiding-light-to-the-future/"><u>A Guiding Light To The Future | Free Book</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/detecting-inauthentic-connections-identifying-false-friendship-bids-online/"><u>Detecting Inauthentic Connections: Identifying False Friendship Bids Online</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/guide-how-to-hide-subtitle-text-in-amazon-prime-videos/"><u>Guide: How to Hide Subtitle Text in Amazon Prime Videos</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-repair-non-verified-hardware-drivers-for-your-computer/"><u>How to Repair: Non-Verified Hardware Drivers for Your Computer</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-skyrocketing-revenue-mastering-video-monetization-everywhere/"><u>In 2024, Skyrocketing Revenue Mastering Video Monetization Everywhere</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-top-6-ways-to-transfer-text-messages-from-vivo-y200-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Top 6 Ways to Transfer Text Messages from Vivo Y200 to Other Android Devices | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-guide-to-fixing-shutdown-problems-on-your-windows-11-machine/"><u>Step-by-Step Guide to Fixing Shutdown Problems on Your Windows 11 Machine</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/transforming-your-college-space-with-a-portable-wireless-movie-hub/"><u>Transforming Your College Space with a Portable Wireless Movie Hub</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/troubleshooting-resolving-issues-with-failed-instagram-story-uploads/"><u>Troubleshooting: Resolving Issues with Failed Instagram Story Uploads</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/any-youtube-experience-into-a-fun-animated-gif-on-devices/"><u>Turn Any YouTube Experience Into a Fun, Animated GIF on Devices</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ultimate-guide-mastering-the-art-of-selecting-multiple-emails-in-gmail/"><u>Ultimate Guide: Mastering the Art of Selecting Multiple Emails in Gmail</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/whats-ahead-at-samsung-unpacked-exclusive-info-on-the-date-latest-product-teasers-and-speculations/"><u>What's Ahead at Samsung Unpacked? Exclusive Info on the Date, Latest Product Teasers, and Speculations</u></a></li>
+</ul></div>
 

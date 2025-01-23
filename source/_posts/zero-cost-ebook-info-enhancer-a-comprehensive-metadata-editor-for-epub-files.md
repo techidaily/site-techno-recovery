@@ -1,7 +1,7 @@
 ---
 title: "Zero Cost eBook Info Enhancer: A Comprehensive Metadata Editor for ePUB Files"
-date: 2024-08-20T09:53:02.490Z
-updated: 2024-08-21T09:53:02.490Z
+date: 2025-01-16T06:23:35.153Z
+updated: 2025-01-23T07:17:23.804Z
 categories:
   - epubor
 thumbnail: https://thmb.techidaily.com/eb38171b90ca32075b41aaee38a26564bdab0e720e595c798abbf52d66cb7d09.jpg
@@ -15,8 +15,6 @@ Posted by [Jonny Greenwood](https://plus.google.com/u/0/+JonnyGreenwood999) on 5
 
 4.5 [(10 comments)](http://www.epubor.com/#comment-area) 
 
-
-
 ![follow](http://www.epubor.com/images/follow.png)
 
 As an eBook reader, we may always find there are some eBooks have wrong metadata or miss some important information, especially when the book is downloaded from the internet such as torrent sites, unfortunately, it's always ePub format.
@@ -24,6 +22,10 @@ As an eBook reader, we may always find there are some eBooks have wrong metadata
 But don't worry, there are many useful tools can help us edit the epub books metadata, in this post, I will recommend you a very powerful ePub metadata editor, it's free and very easy to use.
 
 Someone may don't know what's the meaning of metadata, in fact it's very simple, metadata is the basic information of a book, including the book title, cover, author, publisher and publish data, ISBN or ASIN number, sometimes it contains a brief introduction of the book. It helps us identify the book and manage our eBooks in an easy way.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Powerful Features of ePub Metadata Editor - [Epubor Ultimate](https://tools.techidaily.com/epubor/ultimate/)
 
@@ -44,8 +46,9 @@ Download Epubor Ultimate for Free
 [](https://tools.techidaily.com/epubor/ultimate/) [](https://tools.techidaily.com/epubor/ultimate/) 
 
 <!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Step 1, Add Books to Epubor Ultimate
 
 In order to edit metadata of your epub files, first of all, just drag and drop them to the right main interface for editing. 
@@ -53,11 +56,9 @@ In order to edit metadata of your epub files, first of all, just drag and drop t
 ![epubor-edit-metadata](http://www.epubor.com/images/uppic/Epubor-libraryo-interface.png)
 
 <!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+
 ### Step 2: Edit ePub metadata information
 
 Once loaded the ePub books to the program, it will display the book in the main interface. 
@@ -67,15 +68,17 @@ To edit the ePub metadata, click the pencil icon to the right of the book title,
 ![edit-matadata](http://www.epubor.com/images/uppic/edit-metadata-with-Epubor.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 In this window, you can edit all the necessary information of the book, such as the title, author, data, identifiers (ISBN or ASIN number), language, publishers. If you like, you can also write a short introduction of the book.
 
 You can see this book is the lack of ISBN, type the ISBN or leave it whatever you like. Perhaps you don't like the cover? Click **Replace** button to change or add a cover which you like.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Step 3: Save the Metadata Information
 
 After finished editing process, click "Finished" button, and the window will be close, the new metadata is just saved.
@@ -92,9 +95,6 @@ Download Epubor
 
 ![author](http://www.epubor.com/images/uppic/jonny.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
-<!-- affiliate ads end -->
 [Jonny Greenwood](https://plus.google.com/u/0/+JonnyGreenwood999) joined Epubor since 2011, loves everything about eBooks and eReaders. He seeks the methods to read eBooks more freely and wants to share all he has got with you.
 
 SHARING IS GREAT!
@@ -102,8 +102,6 @@ SHARING IS GREAT!
 [Tweet](https://twitter.com/share) 
 
 [SAVE PAGE AS PDF](https://tools.techidaily.com/epubor/products/) 
-
-
 
 10 Comments
 
@@ -236,8 +234,6 @@ Leave a comment
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -245,4 +241,18 @@ Leave a comment
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/1-top-convertidor-de-video-hevch265-para-mac-guia-2023/"><u>1. Top Convertidor De Video HEVC/H.265 Para Mac: Guía 2023</u></a></li>
+<li><a href="https://os-tips.techidaily.com/apple-introduces-new-lending-services-in-latest-iphone-update/"><u>Apple Introduces New Lending Services in Latest iPhone Update</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/beyond-marketing-honest-review-of-recordcast/"><u>Beyond Marketing Honest Review of RecordCast</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discover-the-most-anticipated-sony-playstation-5-exclusives/"><u>Discover the Most Anticipated Sony PlayStation 5 Exclusives</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/exploring-premium-features-in-spotify-music-service/"><u>Exploring Premium Features in Spotify Music Service</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-3-ways-to-track-samsung-galaxy-a23-5g-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Track Samsung Galaxy A23 5G without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/solving-windows-kernel32dll-malfunctions-a-comprehensive-guide/"><u>Solving Windows Kernel32.dll Malfunctions: A Comprehensive Guide</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/by-step-guide-to-skyrocketing-video-views/"><u>Step-by-Step Guide to Skyrocketing Video Views</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-tutorial-keeping-your-tv-remote-germ-free-and-fresh/"><u>Step-by-Step Tutorial: Keeping Your TV Remote Germ-Free and Fresh</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ultimate-guide-mastering-the-art-of-coding-your-own-versatile-smartphone-remote/"><u>Ultimate Guide: Mastering the Art of Coding Your Own Versatile Smartphone Remote</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/why-does-the-pokemon-go-battle-league-not-available-on-infinix-smart-7-hd-drfone-by-drfone-virtual-android/"><u>Why does the pokemon go battle league not available On Infinix Smart 7 HD | Dr.fone</u></a></li>
+</ul></div>
 

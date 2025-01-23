@@ -1,7 +1,7 @@
 ---
 title: Top Essentials When Selecting Your Perfect Gaming Computer
-date: 2024-08-20T09:57:55.178Z
-updated: 2024-08-21T09:57:55.178Z
+date: 2025-01-19T22:10:47.057Z
+updated: 2025-01-23T06:23:31.018Z
 categories:
   - BestProducts
 description: This Article Describes Top Essentials When Selecting Your Perfect Gaming Computer
@@ -32,11 +32,21 @@ lolostock / Getty Images
 2. Alternately, press**Win** +**x** to call the[Power User Menu](https://www.lifewire.com/what-is-the-power-user-menu-2625968) .  
 ![The Windows "Power User" Menu](https://www.lifewire.com/thmb/kgpd2560_TwRJkuY7a59tVapXF0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-scan-from-printer-computer-2-fddf79dcabde4333869b9e58bb271f87.jpg)
 3. Select**Settings** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Select**Devices** from the main Settings screen.  
 ![The Windows 10 Settings App Home Screen with Devices highlighted](https://www.lifewire.com/thmb/eDONGxJf7R2qCHBGD978GGxclL4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Devices-d1d66147ad624e268dbeba04e5b237ca.jpg)
 5. Next, click**Printers & Scanners** .  
 ![The Windows 10 Settings App Devices Screen with Printers & Scanners highlighted](https://www.lifewire.com/thmb/x9HL3nDN07axKHJsiygffYWVwYo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/printersandscanners-0b40e3c4f97a4e998c6fb41cd89cd739.jpg)
 6. Click on your desired printer, then click**Manage** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![The Windows 10 Settings App Printers & scanners Screen with Manage highlighted](https://www.lifewire.com/thmb/Bufectav3Z2SYkpSnHtUajfbvLI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Manage-93049873ca554c60adb81714a71c063f.jpg)
 7. If the printer is a multi-function device, it will include a drop-down menu. Select the entry starting with**Scanner** .  
 ![The Windows 10 Settings App Printer Configuration Screen with Scanner function highlighted](https://www.lifewire.com/thmb/Y-QajltiFDvfDF-v2ir44sI--SI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Scanner-84125b5402814c6987469662d6d379c3.jpg)
@@ -46,11 +56,17 @@ lolostock / Getty Images
 10. Click the**Scan** button in the app.  
 ![The Windows 10 Scan App with the Scan button highlighted](https://www.lifewire.com/thmb/WLr6RpHDDLddotjF9KKk8SDNUEo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ClickScan-c4149a12b3204f6aaba63680ccbfd6b7.jpg)  
  The Scan app's**Source** setting dictates if it will scan from the device's document feeder (if there is one), or from the flatbed. Unless you know you need to change it, it's a good idea to leave this set on**Auto** . Document feeders typically have a lever to detect if there are pages inside, and leaving this set to**Auto** will scan from the feeder if there’s something loaded, and the flatbed otherwise. Note that when scanning with the flatbed, you'll need to scan one page at a time.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Your scan will automatically be saved in the**Scans** sub-directory of your standard**Pictures** folder. It will be saved in PNG format by default and named "Scan" appended with a date stamp (e.g. Scan\_20210614.PNG).  
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Capturing a Scan From a Printer on a Mac  
 
  Scanning from a Mac is just as easy as on Windows 10 (arguably, even easier).
@@ -58,30 +74,24 @@ lolostock / Getty Images
 12. Click**Printers & Scanners** .  
 ![The macOS System Preferences Screen with Printers & Scanners highlighted](https://www.lifewire.com/thmb/kKB-VHVfmhPQBA1nK35yWTJhURw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/PrintersScanners-08c144e554c34b8fb7d8712f0b93da0c.jpg)
 13. Select your printer, then click**Scan** .  
-<!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![The macOS System Preferences Printers & Scanners Screen with Scan button highlighted](https://www.lifewire.com/thmb/ktR2WSWzlEpbc2NybPodItSivPc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ClickScan-c2dda167a6f64532b0d662ba60fbfe31.jpg)
 14. Click**Open Scanner** .  
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
-<!-- affiliate ads end -->
 ![The macOS System Preferences Scan Dialog with Open Scanner highlighted](https://www.lifewire.com/thmb/4DMwvMWBnIx8IPv3Hgkl-uBcm_s=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/OpenScanner-14267d0b3c344e82bb76d483242ca332.jpg)
 15. In the Scanner program, you can select the folder to which your scans will be saved by making a select in the**Scan to** drop-down menu (shown as**Pictures** in the below image).  
+
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![The macOS Scanner Application with the Picture folder highlighted](https://www.lifewire.com/thmb/4Q2yOFaCL5sBUADyZYmgtNYn9o8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Pictures-be3197066428416cb2444bb85fdf59dd.jpg)
 16. To the right, the**Size** drop-down menu (shown as**US Letter** in the above screenshot) will also let you choose the size of the item.
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 17. If your scanner has a document feeder and you want to use it, select**Use Document Feeder** .
 18. Clicking on**Show Details** will display a number of additional options, as follows:**Scan Mode** (Flatbed or Document Feeder),**Kind** (Text, Black & White, or Color),**Resolution** (quality of the image in DPI),**Rotation Angle** (to change the rotation of the saved image),**Auto Selection** (which can try to detect multiple items on the flatbed and save them separately, for example),**Name** ,**Format** , and**Image Correction** (which provides options to adjust coloring).  
 ![The macOS Scanner Application Scanning a Document with Details highlighted](https://www.lifewire.com/thmb/_CU3M_zojdub71CJo_K9LWxslG8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ScanDetails-74517a6b0c814e1f8cf950c48fa53b2f.jpg)
 19. Click**Scan** to start your scanning job.
+
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  FAQ
@@ -113,8 +123,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -122,4 +130,24 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-tailored-techniques-to-procure-tweets-gifs/"><u>[New] In 2024, Tailored Techniques to Procure Tweets GIFs</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-strategy-revealed-a-box-opening-narrative/"><u>[New] Strategy Revealed A Box-Opening Narrative</u></a></li>
+<li><a href="https://program-issues.techidaily.com/sovled-necromunda-hired-gun-keeps-crashing-on-pc/"><u>[SOVLED] Necromunda: Hired Gun Keeps Crashing on PC</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-boost-your-drive-10-top-motivation-films/"><u>[Updated] 2024 Approved Boost Your Drive 10 Top Motivation Films</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-quickcut-youtube-artist/"><u>[Updated] 2024 Approved QuickCut YouTube Artist</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-chortlechorus-choosing-the-happiest-websites-for-ringtones/"><u>[Updated] ChortleChorus Choosing the Happiest Websites for Ringtones</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-advanced-techniques-for-precise-online-image-cropping/"><u>[Updated] In 2024, Advanced Techniques for Precise Online Image Cropping</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/canvas-hidden-power-ups-for-stunning-visuals/"><u>Canva's Hidden Power-Ups for Stunning Visuals</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/catchemall-celebrate-national-pokemon-day-with-virtual-location-on-lava-blaze-2-drfone-by-drfone-virtual-android/"><u>CatchEmAll Celebrate National Pokémon Day with Virtual Location On Lava Blaze 2 | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-stream-apples-march-2022-product-launch-and-top-anticipated-releases/"><u>How to Stream Apple's March 2022 Product Launch & Top Anticipated Releases</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-todays-technology-overrelies-on-online-network-access/"><u>How Today's Technology Overrelies on Online Network Access</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/improvements-in-apples-independent-repair-initiative-what-you-need-to-know/"><u>Improvements in Apple's Independent Repair Initiative: What You Need to Know</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/interact-using-your-voice-experience-upgraded-communication-with-bing-chat-online/"><u>Interact Using Your Voice: Experience Upgraded Communication with Bing Chat Online</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/introducing-new-smarter-rewrite-features-in-microsoft-words-office-copilot/"><u>Introducing New Smarter Rewrite Features in Microsoft Word's Office Copilot</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/mastering-midjourney-techniques-for-building-reliable-and-compelling-literary-figures/"><u>Mastering MidJourney Techniques for Building Reliable and Compelling Literary Figures</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/new-tariffs-lead-to-a-surge-in-pricing-for-the-futuristic-tesla-cybertruck/"><u>New Tariffs Lead to a Surge in Pricing for the Futuristic Tesla Cybertruck</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/reflecting-on-the-journey-of-non-fungible-tokens-nfts-the-current-state/"><u>Reflecting on the Journey of Non-Fungible Tokens (NFTs): The Current State</u></a></li>
+</ul></div>
 

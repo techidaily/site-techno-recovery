@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Guide to Handle RAR Files on Your Apple Mac
-date: 2025-01-14T23:44:26.567Z
-updated: 2025-01-17T01:21:38.582Z
+date: 2025-01-22T00:04:20.377Z
+updated: 2025-01-23T04:00:23.630Z
 categories:
   - BestProducts
 description: This Article Describes Step-by-Step Guide to Handle RAR Files on Your Apple Mac
@@ -16,6 +16,10 @@ thumbnail: https://www.lifewire.com/thmb/SS82nvdrFUbXoE4knhk3ysBLegA=/400x300/fi
 
 ## Revamp Your File Organizer's Appearance - Changing Folder Colors on a Mac
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### What to Know
 
 * First,**copy** folder >**Preview app** \> go to**File** \>**New from Clipboard** \>**Markup tool** icon.
@@ -23,10 +27,6 @@ thumbnail: https://www.lifewire.com/thmb/SS82nvdrFUbXoE4knhk3ysBLegA=/400x300/fi
 * You can also use apps like Folder Color to automate the process.
 
  This article explains how to use Mac's built-in Preview app to color-code your folders to any hue in the rainbow, or even replace the default folder icons with your own images. If that's too complicated, you can also accomplish the same task much faster with a premium app from the[App Store](https://www.lifewire.com/using-mac-app-store-4171845) .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Ways to Customize Folder Colors on Mac
 
@@ -37,10 +37,6 @@ thumbnail: https://www.lifewire.com/thmb/SS82nvdrFUbXoE4knhk3ysBLegA=/400x300/fi
 * **Use the built-in Preview app** : This method uses the Preview app to tweak the color of a folder icon.
 * **Copy a different image using the Preview app** : This method copies a photo or icon using the Preview app, so it can change the color of a folder icon, replace it with an image, or even replace it with a custom icon.
 * **Use a premium app like Folder Color** : This method requires a premium app like Folder Color, which you can buy from the App Store. It automates the process and makes it easier.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to Change Folder Color on Mac Using Preview
 
@@ -56,11 +52,23 @@ thumbnail: https://www.lifewire.com/thmb/SS82nvdrFUbXoE4knhk3ysBLegA=/400x300/fi
 ![A screenshot of the folder info box on macOS.](https://www.lifewire.com/thmb/3dEqd1G-bbtDdiGsMpSUPtPn-sA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A3-ChangeFolderColoronMac-annotated-bf971c3eafea41448cee2071f8520c6e.jpg)
 4. Click**Edit** in the menu bar near the top left of the screen and select**Copy** from the drop down menu.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![A screenshot of copying an icon on macOS.](https://www.lifewire.com/thmb/4puIgoAvE_ObPrZ4A1_Ht2wNxyQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A4-ChangeFolderColoronMac-annotated-30f95819009f4d888881324def4972cb.jpg)
 5. Locate and open the**Preview** app.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![A screenshot of the Applications folder on macOS.](https://www.lifewire.com/thmb/QLXtd-veloVkY8ge5HI9PdIVlA0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A5-ChangeFolderColoronMac-annotated-8465f773aeb74caa9b1dbc0525a419ef.jpg)
 6. With Preview open, click**File** in the menu bar.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![The File menu in the Preview app on macOS.](https://www.lifewire.com/thmb/qiZ22LU6m8SiaCUJcNrGLv6kQfk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A6-ChangeFolderColoronMac-annotated-3092277a9357429fa325ccba6b0cb43f.jpg)
 7. Select**New from Clipboard** .  
@@ -69,7 +77,7 @@ thumbnail: https://www.lifewire.com/thmb/SS82nvdrFUbXoE4knhk3ysBLegA=/400x300/fi
 8. Select the**Markup tool** (looks like the tip of a pencil).  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![The Markup tool highlighted in the Preview app on macOS.](https://www.lifewire.com/thmb/l3BVxdPgJm5W8koZRv2XglMO_Os=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A8-ChangeFolderColoronMac-annotated-0249c263cdfc438b89827e3df055280d.jpg)
@@ -78,12 +86,13 @@ thumbnail: https://www.lifewire.com/thmb/SS82nvdrFUbXoE4knhk3ysBLegA=/400x300/fi
 ![The Adjust color tool highlighted in the Preview app on macOS.](https://www.lifewire.com/thmb/TMySW-VtU7UNm-ziPdu5TA9ECjY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A9-ChangeFolderColoronMac-annotated-13601116017d42e89eb5c1ac3b9a7d59.jpg)
 10. In the Adjust Color window, adjust the**Tint** ,**Saturation** ,**Tempurature** , and**Sepia** sliders to get a color you want, and then close the window.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![A screenshot of Tint slider in Preview app on macOS.](https://www.lifewire.com/thmb/WmhDBeevux4zXDNtHs9-i4BqrBM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A10-ChangeFolderColoronMac-annotated-1e5ee4342431465a953da0717e62b70f.jpg)  
  Want more options? You can paste the folder icon into any image-editing software you have.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 11. Select the colored folder, and press**Command+C** to copy it.  
 ![A screenshot of copying from Preview on macOS.](https://www.lifewire.com/thmb/ldf1VkMQPfhuL1qS5bP9aKcyjos=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/1-003a69e747f84b01a9b4ad148b9071cf.jpg)
 12. Return to the Folder Info box from earlier. If you have closed it, get it back by right-clicking the folder you are trying to customize.
@@ -91,14 +100,6 @@ thumbnail: https://www.lifewire.com/thmb/SS82nvdrFUbXoE4knhk3ysBLegA=/400x300/fi
 13. Click the folder in the Folder Info box, and press**Command+V** .  
 ![A screenshot of a customized folder color on macOS.](https://www.lifewire.com/thmb/VI5EKewsKE1LGj0OEbsL44ijJnY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A13-ChangeFolderColoronMac-annotation-5bd8b4aff78648508db5492dbe49a580.jpg)
 14. You can now close the Folder Info box, and your folder will have the new color. If you want, you can repeat this process to customize as many folders as you like.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Customizing Folders With Images and Icons
 
@@ -152,20 +153,22 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/ed-educational-journey-through-time-with-top-history-yt-channels/"><u>[Updated] Educational Journey Through Time with Top History YT Channels</u></a></li>
-<li><a href="https://location-fake.techidaily.com/3-ways-to-fake-gps-without-root-on-oppo-find-x7-drfone-by-drfone-virtual-android/"><u>3 Ways to Fake GPS Without Root On Oppo Find X7 | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/considerations-for-a-smart-ps5-acquisition/"><u>Considerations for a Smart PS5 Acquisition</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/debugging-tips-for-handling-parse-errors-in-android-development-a-guide-to-8-fixes/"><u>Debugging Tips for Handling Parse Errors in Android Development – A Guide to 8 Fixes</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722960211798-effortless-download-hp-officejet-5740-printer-drivers-available-now/"><u>Effortless Download: HP OfficeJet 5740 Printer Drivers Available Now!</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/essential-picks-6-best-free-editors-that-can-match-photoshop/"><u>Essential Picks: 6 Best Free Editors That Can Match Photoshop</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/essential-tips-for-navigating-and-utilizing-google-gemini-effectively/"><u>Essential Tips for Navigating and Utilizing Google Gemini Effectively</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-7-ways-to-unlock-a-locked-motorola-edge-40-neo-phone-by-drfone-android/"><u>In 2024, 7 Ways to Unlock a Locked Motorola Edge 40 Neo Phone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-change-lock-screen-wallpaper-on-xiaomi-redmi-a2plus-by-drfone-android/"><u>In 2024, How to Change Lock Screen Wallpaper on Xiaomi Redmi A2+</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/in-depth-look-at-the-new-samsung-z-fold-4-when-its-out-and-what-it-offers/"><u>In-Depth Look at the New Samsung Z Fold 4 - When It's Out & What It Offers</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/incredible-hidden-details-in-the-world-of-emojis-top-10-facts/"><u>Incredible Hidden Details in the World of Emojis - Top 10 Facts</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-attraction-of-ai-understanding-the-reasons-behind-hacker-interest-in-chatgpt/"><u>The Attraction of AI: Understanding the Reasons Behind Hacker Interest in ChatGPT</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/trouble-with-iphone-15-plus-swipe-up-try-these-11-solutions-drfone-by-drfone-ios/"><u>Trouble with iPhone 15 Plus Swipe-Up? Try These 11 Solutions | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unbelievable-deal-save-nearly-300-on-the-latest-msi-gaming-monitor-at-newegg-detailed-review/"><u>Unbelievable Deal: Save Nearly $300 on the Latest MSI Gaming Monitor at Newegg - Detailed Review</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/watching-transformers-a-step-by-step-movie-marathon-plan/"><u>Watching Transformers: A Step-by-Step Movie Marathon Plan</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-the-complete-guide-to-editing-youtube-on-the-go-with-sony-vegas/"><u>[Updated] 2024 Approved The Complete Guide to Editing YouTube on the Go With Sony Vegas</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-harness-the-power-of-instagrams-hidden-features/"><u>[Updated] In 2024, Harness the Power of Instagram's Hidden Features</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-mastering-chroma-magic-with-green-background-tech-for-newbies-for-2024/"><u>[Updated] Mastering Chroma Magic with Green Background Tech for Newbies for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/44cm44ow44op44km44k26zplusz5aow44gu5ysq44km44gf44kv44kq44oq44og44kj44o844ks56k65lplusd44gx44cb54sh5paz44k944ov44oi44go44k144kk44oi44gn5yq55p6c55qe44gr6kiy6y31/"><u>「ブラウザ音声の優れたクオリティーを確保し、無料ソフトとサイトで効果的に記録するコツと推奨」</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/comparing-giants-can-googles-gemini-artificial-intelligence-outshine-chatgpt-in-functionality/"><u>Comparing Giants: Can Google's Gemini Artificial Intelligence Outshine ChatGPT in Functionality?</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/decoding-digital-currency-an-introductory-guide-for-aspiring-traders-insights-by-zdnet/"><u>Decoding Digital Currency: An Introductory Guide for Aspiring Traders - Insights by ZDNet</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/tial-guide-to-writing-click-worthy-youtube-titles/"><u>Essential Guide to Writing Click-Worthy Youtube Titles</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/evaluating-the-10-monthly-amazon-grocardis-delivery-test-is-it-a-bargain/"><u>Evaluating the $10 Monthly Amazon Grocardis Delivery Test - Is It a Bargain?</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/expanded-bank-compatibility-google-wallet-adds-access-to-40-new-financial-institutions-for-mobile-payments-is-it-time-to-ditch-your-debit-card/"><u>Expanded Bank Compatibility: Google Wallet Adds Access to 40 New Financial Institutions for Mobile Payments – Is It Time to Ditch Your Debit Card?</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/exploring-why-savvy-travelers-prefer-southwest-to-united-a-comparative-study-by-zdnet/"><u>Exploring Why Savvy Travelers Prefer Southwest to United: A Comparative Study by ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/historic-discount-alert-the-roborock-s8-pro-ultra-now-just-650-cheaper-remains-the-best-deal-post-prime-day-insights-by-zdnet/"><u>Historic Discount Alert: The Roborock S8 Pro Ultra Now Just $650 Cheaper, Remains the Best Deal Post-Prime Day - Insights by ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-are-shoppers-using-generative-ai-uncovering-statistics-and-trends-from-a-recent-zdnet-survey/"><u>How Are Shoppers Using Generative AI? Uncovering Statistics and Trends From a Recent ZDNET Survey</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/innovative-facial-recognition-technology-replaces-traditional-tickets-at-new-mlb-stadium-a-closer-look-into-the-system/"><u>Innovative Facial Recognition Technology Replaces Traditional Tickets at New MLB Stadium: A Closer Look Into the System</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolving-microphone-issues-in-windows-11-a-step-by-step-guide/"><u>Resolving Microphone Issues in Windows 11: A Step-by-Step Guide</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/revolutionize-social-media-success-with-the-best-30-tiktok-names/"><u>Revolutionize Social Media Success with the Best 30 TikTok Names</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-ultimate-guide-to-import-photos-and-videos-into-windows-10-for-2024/"><u>The Ultimate Guide to Import Photos & Videos Into Windows 10 for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-5-credit-cards-ideal-for-e-commerce-transactions-insights-from-zdnet/"><u>Top 5 Credit Cards Ideal for E-Commerce Transactions: Insights From ZDNet</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "1. Editing EPUB Books at Zero Cost: Master the Art of Using Sigil"
-date: 2024-08-20T09:52:15.882Z
-updated: 2024-08-21T09:52:15.882Z
+date: 2025-01-18T20:10:06.213Z
+updated: 2025-01-23T03:28:53.706Z
 categories:
   - epubor
 thumbnail: https://thmb.techidaily.com/8122148ffac7fe0a0e1d193ba9a136b7cccae081b7348173d3861777fbb2c2bf.jpg
@@ -14,8 +14,6 @@ thumbnail: https://thmb.techidaily.com/8122148ffac7fe0a0e1d193ba9a136b7cccae081b
 Posted by [Ada Wang](https://plus.google.com/+AdaWang/posts) on 12/8/2014 8:56:08 PM.
 
 4.9 [(7 comments)](http://www.epubor.com/#comment-area) 
-
-
 
 ![follow](http://www.epubor.com/images/follow.png)
 
@@ -41,13 +39,25 @@ Make sure to download the correct version on your computer (with "Featured"). He
 
 ![Start install Sigil](https://www.epubor.com/images/uppic/sigil-install.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Uncheck "Associate ebook files with Sigil" and "EPUB" on the "Select Components" screen. Or every time you open an EPUB file, it will be opened with Sigil by default.
 
 ![install Sigil - select components](https://www.epubor.com/images/uppic/Sigil-open-with.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3 Open your EPUB book with Sigil. Right-click the book, select "Open with" -> Sigil is a ...
 
 ![edit EPUB files - open with Sigil](https://www.epubor.com/images/uppic/sigil-install-uncheck.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 4 When the EPUB is opened, the cover page will come in front of you. All content pages are listed under the "Text" folder on the left-hand side.
 
@@ -73,9 +83,17 @@ After finishing editting one page, you'd better close the corresponding page tab
 
 ![edit EPUB files - close tab](https://www.epubor.com/images/uppic/sigil-close-tab.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 7 When all editting is done, click "File" -> "Save" to overwrite the original. Or select "Save as..." to save as a copy.
 
 ![save as EPUB](https://www.epubor.com/images/uppic/sigil-save.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### Conclusion
 
@@ -90,8 +108,6 @@ SHARING IS GREAT!
 [Tweet](https://twitter.com/share) 
 
 [SAVE PAGE AS PDF](https://tools.techidaily.com/epubor/products/) 
-
-
 
 7 Comments
 
@@ -192,8 +208,6 @@ Leave a comment
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -201,8 +215,24 @@ Leave a comment
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-mastering-the-art-of-streaming-via-obs-into-social-networks/"><u>[New] In 2024, Mastering the Art of Streaming via OBS Into Social Networks</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-the-complete-wm-maker-playbook-for-youtube-clips-perfection/"><u>[New] The Complete WM Maker Playbook for YouTube Clips Perfection</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-how-to-set-up-smooth-transitions-youtube-content-playback-on-facebook/"><u>[Updated] 2024 Approved How to Set Up Smooth Transitions YouTube Content Playback on Facebook</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-the-art-of-adaptation-uploading-your-horizon-content-to-instagram-tv-for-2024/"><u>[Updated] The Art of Adaptation Uploading Your Horizon Content to Instagram TV for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/complete-tutorial-connecting-to-whatsapp-chats-from-a-mac-computer/"><u>Complete Tutorial: Connecting to WhatsApp Chats From a Mac Computer</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/essential-insights-navigating-samsungs-smart-tv-applications/"><u>Essential Insights: Navigating Samsung's Smart TV Applications</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/experiencing-lag-on-zoom-determining-if-its-the-platform-or-your-internet/"><u>Experiencing Lag on Zoom? Determining If It's the Platform or Your Internet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/home-audio-systems-unveiled-a-starter-guide-for-enthusiasts/"><u>Home Audio Systems Unveiled: A Starter Guide for Enthusiasts</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/1722850438266-how-to-navigate-and-utilize-the-revolutionary-photo-cutout-function-on-your-iphone-ios-16-unveiled/"><u>How to Navigate and Utilize the Revolutionary Photo Cutout Function on Your iPhone - iOS 16 Unveiled!</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-melody-on-calls-the-complete-guide-to-downloading-and-editing-tamil-tracks/"><u>In 2024, Melody on Calls The Complete Guide to Downloading & Editing Tamil Tracks</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/rip-your-dvds-into-digital-format-with-ease-using-winx-dvd-copy-pro/"><u>Rip Your DVDs Into Digital Format with Ease Using WinX DVD Copy Pro</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-guide-updating-your-samsung-smart-tv/"><u>Step-by-Step Guide: Updating Your Samsung Smart TV</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/troubleshooting-tips-for-ssleay32dll-error-missing-or-unavailable-dll-files/"><u>Troubleshooting Tips for Ssleay32.dll Error: Missing or Unavailable DLL Files</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ultimate-guide-to-understanding-different-ipados-releases/"><u>Ultimate Guide to Understanding Different iPadOS Releases</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/wie-sie-effektiv-einen-backup-ihres-iphones-auf-einer-network-attached-storage-nas-losung-erstellen/"><u>Wie Sie Effektiv Einen Backup Ihres iPhones Auf Einer Network Attached Storage (NAS)-Lösung Erstellen</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/wmv-m4vmovavi/"><u>オンラインで簡単に WMV M4VファイルをMovavi無料コンバーター</u></a></li>
+<li><a href="https://discover-great.techidaily.com/dvd-17/"><u>デジアーティ公式チャンネルで学ぶ！ DVDクローニング技術解説 17ページ目</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

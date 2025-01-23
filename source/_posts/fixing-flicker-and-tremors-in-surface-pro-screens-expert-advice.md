@@ -1,7 +1,7 @@
 ---
 title: Fixing Flicker & Tremors in Surface Pro Screens – Expert Advice
-date: 2024-08-20T09:55:42.083Z
-updated: 2024-08-21T09:55:42.083Z
+date: 2025-01-18T23:40:06.353Z
+updated: 2025-01-23T06:45:29.950Z
 categories:
   - BestProducts
 description: This Article Describes Fixing Flicker & Tremors in Surface Pro Screens – Expert Advice
@@ -12,11 +12,19 @@ thumbnail: https://www.lifewire.com/thmb/ceHOQKbcyRnfVEXPX_ylVyHhN1w=/400x300/fi
 ## Solve the Annoying Shake & Flicker on Your Surface Pro's Screen Today
  Surface Pro owners have reported problems with their Surface Pro's screen shaking or flickering. The problem appears as fast, flickering vertical distortions across the Surface Pro's display. These distortions can appear at any time, even just after the Surface Pro is turned on and loading Windows.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## The Cause of Surface Pro Screen Shaking and Flickering
 
  A hardware defect in the Surface Pro 4 is the most common cause of the Surface Pro screen shaking and flickering. The cause of the defect remains arguable, but the Surface Pro owner community members troubleshooting this problem have settled on it being a problem with the display hardware, and it's thought to be brought on by heat.
 
  Other Surface devices can have problems that are perceived as screen flickering. If you don't own a Surface Pro 4, the problem probably isn't caused by a hardware defect, so the additional fixes in this article are more likely to resolve the issue.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Fix Surface Pro Screen Shaking and Flickering
 
@@ -25,14 +33,20 @@ thumbnail: https://www.lifewire.com/thmb/ceHOQKbcyRnfVEXPX_ylVyHhN1w=/400x300/fi
 1. Turn off automatic brightness adjustments. Right-click on the Windows desktop and select**Display Settings** . A window will open, and a checkbox labeled**Change brightness automatically when lighting changes** appears near the top of it. De-select the checkbox.  
 ![Display settings in Microsoft Windows 10.](https://www.lifewire.com/thmb/ReZ2XirBPkgMNJ2U0JdtvRoNjQE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A2-FixSurfaceProScreenShakingandFlickering-annotated-67bf52e272534991821edafbefd462eb.jpg)
 2. [Roll back your display driver](https://www.lifewire.com/how-to-roll-back-a-driver-in-windows-2619217) . This will uninstall the current driver and replace it with an older version, fixing the issue if the cause is a bug in a new display driver.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. [Run Windows Update](https://www.lifewire.com/how-to-check-for-install-windows-updates-2624596) . This will install all Windows bug fixes and the latest drivers for your Surface device.
 4. [Perform a "two-button shutdown" of your Surface Pro](https://www.thewindowsclub.com/surface-pro-two-button-shutdown) . This will force the device to reboot Windows instead of hibernating.
 5. [Factory reset your Surface Device](https://www.lifewire.com/how-to-factory-reset-surface-pro-laptop-book-4175122) . This will clear up any software or driver conflicts causing screen flicker.
 6. [Connect your Surface Pro to an external monitor](https://www.lifewire.com/connect-surface-pro-to-a-monitor-5112683) . This does not fix the issue with the Surface Pro's display but, if it's caused by a hardware defect in the display itself, the issue won't appear on an external monitor.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## The Freezer Trick: Not Recommended
 
  Users' attempts to resolve screen flickering on the Surface Pro 4 led to some bizarre fixes. The most popular is placing the Surface Pro in a freezer. We don't recommend this because not only is it a temporary fix (if it even works), but placing the Surface Pro in the freezer could damage it further.
@@ -66,8 +80,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -75,4 +87,17 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-transform-your-channel-with-effective-youtube-link-protocols/"><u>[Updated] In 2024, Transform Your Channel with Effective YouTube Link Protocols</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-professional-tips-for-efficient-screen-casting-in-meet/"><u>2024 Approved Professional Tips for Efficient Screen Casting in Meet</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/cutting-costs-with-amazonbasics-a-comprehensive-review-of-their-tv-antenna-solution/"><u>Cutting Costs with AmazonBasics: A Comprehensive Review of Their TV Antenna Solution</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/enhance-your-viewing-experience-finding-the-ideal-pixel-configuration-on-a-samsung-qled-tv/"><u>Enhance Your Viewing Experience: Finding the Ideal Pixel Configuration on a Samsung QLED TV</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-videos-on-poco-m6-5g-by-fonelab-android-recover-video/"><u>How to restore wiped videos on Poco M6 5G</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-tutorial-on-building-a-projector-screen-at-home/"><u>Step-by-Step Tutorial on Building a Projector Screen at Home</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/egies-to-triple-your-earnings-on-youtube-shorts/"><u>Strategies to Triple Your Earnings on Youtube Shorts</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/streamline-your-gaming-experience-by-merging-various-fortnite-accounts-together/"><u>Streamline Your Gaming Experience by Merging Various Fortnite Accounts Together</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/streamlining-media-edits-storyremix-and-windows-11-photos-integration-for-2024/"><u>Streamlining Media Edits StoryRemix & Windows 11 Photos Integration for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unleash-creativity-using-our-top-5-video-editing-solutions/"><u>Unleash Creativity Using Our Top 5 Video Editing Solutions</u></a></li>
+</ul></div>
 

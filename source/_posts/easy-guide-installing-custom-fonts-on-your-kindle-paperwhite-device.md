@@ -1,7 +1,7 @@
 ---
 title: "Easy Guide: Installing Custom Fonts on Your Kindle Paperwhite Device"
-date: 2024-08-20T09:53:08.043Z
-updated: 2024-08-21T09:53:08.043Z
+date: 2025-01-15T16:19:07.476Z
+updated: 2025-01-23T03:48:21.303Z
 categories:
   - epubor
 thumbnail: https://thmb.techidaily.com/5e6778b56bd7ea57ea083d57b5f2921418b00d25e671abbc75a29215718a300d.jpg
@@ -9,21 +9,31 @@ thumbnail: https://thmb.techidaily.com/5e6778b56bd7ea57ea083d57b5f2921418b00d25e
 
 ## Easy Guide: Installing Custom Fonts on Your Kindle Paperwhite Device
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to add fonts to Kindle Paperwhite
 
 Posted by [Jonny Greenwood](https://plus.google.com/u/0/+JonnyGreenwood999) on 11/22/2018 4:24:04 PM.
 
 4.7 [(23 comments)](http://www.epubor.com/#comment-area) 
 
-
-
 ![follow](http://www.epubor.com/images/follow.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Note: The trick only works with Kindle Paperwhite 1\. Read [install custom fonts to Kindle](https://tools.techidaily.com/epubor/products/) for Kindle Paperwhite 2/3, Kindle Voyage or other Kindle eReaders.**
 
 Comparing with paper book, e-book gives us an easy and various reading experience. We can adjust the text display style when reading with an e-book reader. Let's take the Amazon Kindle Paperwhite for example, it allows you to change the font effect such as type, font size, line spacing, margins just with simple settings. You may have find that every e-book has the same font-size, spacing and margins settings, but as for font type, different e-books have different font types. This is because the font types are provided by the publishers. Just like this:
 
 ![choose-font](https://www.epubor.com/images/uppic/1-choose-font.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 The publisher only offers 5 font types for this book. We have no more choice. So what if you just don't like the font types they provide? Does it possible to add some extra font types to the Kindle Paper white?
 
@@ -49,6 +59,10 @@ They navigate to the root directory again. Right click on the blank and choose "
 
 ![confirm-to-delect-suffix](https://www.epubor.com/images/uppic/5-confirm-to-delect-suffix.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Click "Yes" to confirm and you'll find the file has no suffix.
 
 Someone may find that all the files on their computer have no suffix. This is because the Windows has hiden the file extension by default. We can let it show again. Click "**Organize**" at the folder window and choose "**Properties**" – "**View**" – "**Files and Folder**", deselect the option "**Hide extension for known file types**". Then you can see the file extension again.
@@ -60,6 +74,10 @@ Someone may find that all the files on their computer have no suffix. This is be
 Eject your Kindle Paperwhite from PC. Tap "Menu" – "Settings" – "Menu" – "Restart" to reboot device. Open an e-book, tap the top area of the screen and choose "**Aa**". You'll find there are more fonts which you haven't seen before and the new font "_**Elephant**_" I added just before is in the font list too. Tap the new font and you can find it works.
 
 ![old-font](https://www.epubor.com/images/uppic/7-old-font.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![add-font-to-kindle-paperwhite](https://www.epubor.com/images/uppic/8-set-new-font.jpg)
 
@@ -82,8 +100,6 @@ SHARING IS GREAT!
 [Tweet](https://twitter.com/share) 
 
 [SAVE PAGE AS PDF](https://tools.techidaily.com/epubor/products/) 
-
-
 
 23 Comments
 
@@ -384,8 +400,6 @@ Leave a comment
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -393,12 +407,21 @@ Leave a comment
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-tips.techidaily.com/new-10-athletic-free-front-rows-for-relaxing/"><u>[New] 10 Athletic-Free Front Rows for Relaxing</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-cutting-edge-approaches-to-mov-file-recordings-on-windows-10/"><u>[New] 2024 Approved Cutting-Edge Approaches to MOV File Recordings on Windows 10</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-top-8-mobile-tools-transforming-slow-mo-to-fast-forward/"><u>[New] 2024 Approved Top 8 Mobile Tools Transforming Slow Mo to Fast-Forward</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/n-2024-quick-subscribe-does-it-really-amplify-watch-time/"><u>[New] In 2024, Quick-Subscribe Does It Really Amplify Watch Time?</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/nlock-free-youtube-gallery-downloads-now/"><u>[New] Unlock Free YouTube Gallery Downloads Now</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-professional-footage-with-top-tier-stabilizers/"><u>[Updated] Professional Footage with Top-Tier Stabilizers</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-step-by-step-tutorial-for-efficient-video-capturing-via-zd-for-2024/"><u>[Updated] Step-by-Step Tutorial for Efficient Video Capturing via ZD for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/best-investment-selecting-the-top-5-pro-drones/"><u>Best Investment - Selecting the Top 5 Pro Drones</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/comprehensive-d-link-router-passwords-guide-updated-july-2024/"><u>Comprehensive D-Link Router Passwords Guide Updated July 2024</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-flash-dead-motorola-moto-e13-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead Motorola Moto E13 Safely | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-successfully-address-and-resolve-netflix-error-code-nw-1-19/"><u>How to Successfully Address and Resolve Netflix Error Code NW-1-19</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/overcoming-connectivity-issues-with-your-apple-watchs-motion-sensor-for-accurate-steps/"><u>Overcoming Connectivity Issues with Your Apple Watch’s Motion Sensor for Accurate Steps</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-funny-iphoneipad-scams-for-a-good-laugh-ideas-for-tech-savvy-pranksters/"><u>Top Funny iPhone/iPad Scams for a Good Laugh: Ideas for Tech-Savvy Pranksters</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unveiling-the-top-3-must-watch-tech-movements-now/"><u>Unveiling the Top 3 Must-Watch Tech Movements Now</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
-<!-- affiliate ads end -->

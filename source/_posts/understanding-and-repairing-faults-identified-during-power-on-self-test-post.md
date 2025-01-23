@@ -1,7 +1,7 @@
 ---
 title: Understanding and Repairing Faults Identified During Power-On Self Test (POST)
-date: 2024-08-20T09:58:42.540Z
-updated: 2024-08-21T09:58:42.540Z
+date: 2025-01-17T19:44:54.637Z
+updated: 2025-01-23T07:09:40.807Z
 categories:
   - BestProducts
 description: This Article Describes Understanding and Repairing Faults Identified During Power-On Self Test (POST)
@@ -14,6 +14,10 @@ thumbnail: https://www.lifewire.com/thmb/nfInx4n5soF-0joJBb7VAEyT5KU=/400x300/fi
 
  WHEA uncorrectable errors are usually associated with faulty hardware, but they can also be caused by driver conflicts, missing Windows updates, and even[overclocking](https://www.lifewire.com/what-is-overclocking-a-computer-4092341) .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How the WHEA Uncorrectable Error Appears
 
  When this error occurs, you'll usually see a message like one of these:
@@ -22,6 +26,10 @@ thumbnail: https://www.lifewire.com/thmb/nfInx4n5soF-0joJBb7VAEyT5KU=/400x300/fi
  If you'd like to know more, you can search online for this error: WHEA\_UNCORRECTABLE\_ERROR
 * A problem has been detected, and Windows has been shut down to prevent damage to your computer.  
  WHEA\_UNCORRECTABLE\_ERROR
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Causes of the WHEA Uncorrectable Error
 
@@ -32,8 +40,9 @@ thumbnail: https://www.lifewire.com/thmb/nfInx4n5soF-0joJBb7VAEyT5KU=/400x300/fi
  In some cases, overclocking can also cause this error to appear due to the extra strain overclocking puts on your CPU.
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Fix a WHEA Uncorrectable Error
 
  Since most WHEA uncorrectable errors are caused by hardware failure, fixing this error usually involves tracking down the problem component and replacing it. However, the best place to start is on the software end because that's easier and less expensive.
@@ -59,9 +68,9 @@ thumbnail: https://www.lifewire.com/thmb/nfInx4n5soF-0joJBb7VAEyT5KU=/400x300/fi
  If you reset Windows and still experience the WHEA uncorrectable error, you have a hardware issue. Carefully inspect your hardware again, and seek professional assistance if you can't determine which piece of hardware has failed.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Other Blue Screen Problems Like the WHEA Uncorrectable Error
 
  The WHEA uncorrectable error is just one of many errors that can cause Windows to display the blue screen of death. If you're experiencing blue screen issues, we have a[complete list of blue screen error codes](https://www.lifewire.com/blue-screen-error-codes-4065576) that can help you get to the bottom of your problem.
@@ -97,8 +106,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -106,4 +113,24 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-links.techidaily.com/new-2024-approved-cutting-edge-video-editing-software-guide-for-windows-creatives/"><u>[New] 2024 Approved Cutting-Edge Video Editing Software Guide for Windows Creatives</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-android-sound-logging-without-need-for-rooting-for-2024/"><u>[Updated] Android Sound Logging Without Need for Rooting for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-learn-to-conquer-the-clutter-efficient-editing-of-tiktok-drafts/"><u>[Updated] Learn to Conquer the Clutter Efficient Editing of TikTok Drafts</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-achieving-stunning-iphone-hdr-results/"><u>2024 Approved Achieving Stunning iPhone HDR Results</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-audio-experts-choice-best-6-microphone-picks-for-online-broadcasting/"><u>2024 Approved Audio Experts' Choice Best 6 Microphone Picks for Online Broadcasting</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-crafting-spectacular-time-lapses-with-gopro-hero5-black/"><u>2024 Approved Crafting Spectacular Time-Lapses with GoPro Hero5 Black</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/academic-citing-standards-for-using-chatgpt-references-in-your-work/"><u>Academic Citing Standards for Using ChatGPT References in Your Work</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/expert-advice-how-to-repair-and-prevent-persistent-whea-hardware-failures/"><u>Expert Advice: How to Repair and Prevent Persistent WHEA Hardware Failures</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-recover-camera-functionality-in-zoom-conferencing-applications/"><u>How To Recover Camera Functionality in Zoom Conferencing Applications</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-recommended-best-applications-for-mirroring-your-xiaomi-redmi-k70e-screen-drfone-by-drfone-android/"><u>In 2024, Recommended Best Applications for Mirroring Your Xiaomi Redmi K70E Screen | Dr.fone</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-ticklish-titles-laugh-out-loud-gaming-for-children/"><u>In 2024, Ticklish Titles Laugh-Out-Loud Gaming for Children</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/step-by-step-guide-downloading-twitch-stream-highlights-across-devices/"><u>Step-by-Step Guide: Downloading Twitch Stream Highlights Across Devices</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/tcl-launches-19-innovative-models-in-q-and-s-series-of-smart-televisions/"><u>TCL Launches 19 Innovative Models in Q and S Series of Smart Televisions</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-ultimate-cheat-sheet-to-strategically-plan-and-publish-tweets-in-advance/"><u>The Ultimate Cheat Sheet to Strategically Plan and Publish Tweets in Advance</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ultimate-troubleshooting-restarting-your-macbook-pro-effectively/"><u>Ultimate Troubleshooting: Restarting Your MacBook Pro Effectively</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/understanding-and-fixing-a-401-authentication-failure-online/"><u>Understanding and Fixing a 401 Authentication Failure Online</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/verifying-true-dolby-atmos-sound-quality-at-home/"><u>Verifying True Dolby Atmos Sound Quality at Home</u></a></li>
+</ul></div>
 

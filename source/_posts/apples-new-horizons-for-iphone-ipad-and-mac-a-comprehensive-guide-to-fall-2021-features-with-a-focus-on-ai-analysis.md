@@ -1,7 +1,7 @@
 ---
 title: "Apple's New Horizons for iPhone, iPad & Mac: A Comprehensive Guide to Fall 2021 Features with a Focus on AI | Analysis"
-date: 2025-01-04T03:17:50.150Z
-updated: 2025-01-10T16:12:55.943Z
+date: 2025-01-19T02:26:26.888Z
+updated: 2025-01-22T20:51:37.412Z
 tags:
   - apple
 categories:
@@ -38,6 +38,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Apple Intelligence (AI)
 
 Maria Diaz/ZDNET
@@ -59,10 +63,6 @@ Maria Diaz/ZDNET
 * Apple Intelligence will also upgrade the Photos app with a new **clean-up tool** that removes unwanted objects. **Search in videos** allows users to easily find specific snippets of content, and users can create **Memories** on-demand, using text to edit and organize photos into movies.
 * In the Notes app, users can **record and transcribe audio**, which Apple Intelligence will generate a text summary of. This experience is also available in the Notes phone app.
 * Apple Intelligence is free on iOS 18, iPadOS 18, and MacOS Sequoia, and will be available to try in English only this summer.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Partnership with OpenAI
 
@@ -90,6 +90,10 @@ Adam Breeden/ZDNET
 * The **Safari app** was upgraded to include key information about a webpage. You can read more about the Safari upgrades under the MacOS section of this article.
 * The **Calendar app** can now pull from the Reminders app for a more seamless schedule overview.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## WatchOS 11
 
 Adam Breeden/ZDNET
@@ -115,7 +119,7 @@ Adam Breeden/ZDNET
 * iPadOS 18 supports **screen-sharing via SharePlay** and the same Control Center customizations, Photos app upgrades, Safari updates, and emoji Tapbacks found in **iOS 18.**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## MacOS 15 (Sequoia)
@@ -128,10 +132,6 @@ Adam Breeden/ZDNET
 * **Video meetings** are also getting an upgrade, with new backgrounds and a preview experience that allows you to see what you are about to share before sharing it. This feature works with popular video conferencing applications such as FaceTime and Zoom.
 * The **AI summarization** tool will live in Safari to help users process content like web pages and articles more efficiently. Safari will also assist users in discovering more helpful information about a page they are browsing when relevant, such as directions.
 * Apple also launched a new **Viewer experience**, which does for video what Reader does for text.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## VisionOS 2
 
@@ -151,7 +151,7 @@ Jason Hiner/ZDNET
 * Apple is also making the Vision Pro available in more countries starting June 28\. You can see the full list [here](https://www.apple.com/newsroom/2024/06/apple-vision-pro-arrives-in-new-countries-and-regions-beginning-june-28/).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## AirPods
@@ -163,7 +163,7 @@ Jason Hiner/ZDNET
 * Apple is also releasing a **Personalized Spatial Audio API** for game developers to build around the AirPods' audio technology.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## tvOS 18
@@ -210,17 +210,22 @@ Screenshot by Nina Raemont/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/updated-2024-approved-intense-moment-capture-iphone-burst-mode/"><u>[Updated] 2024 Approved Intense Moment Capture IPhone Burst Mode</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-charting-the-course-to-youtube-livestream-mastery/"><u>[Updated] Charting the Course to YouTube Livestream Mastery</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-streamers-financial-health-check-in-youtubers-for-2024/"><u>[Updated] Streamer's Financial Health Check in YouTubers for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/consolidate-calls-utilizing-your-mobile-number-with-different-gadgets-effortlessly/"><u>Consolidate Calls: Utilizing Your Mobile Number with Different Gadgets Effortlessly</u></a></li>
-<li><a href="https://apple-account.techidaily.com/everything-to-know-about-apple-id-password-requirements-for-apple-iphone-13-pro-max-by-drfone-ios/"><u>Everything To Know About Apple ID Password Requirements For Apple iPhone 13 Pro Max</u></a></li>
-<li><a href="https://techidaily.com/how-to-recover-apple-iphone-6-data-from-ios-itunes-backup-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How to Recover Apple iPhone 6 Data From iOS iTunes Backup? | Dr.fone</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/24-social-blades-role-in-deciphering-the-dynamics-of-youtube-statistics/"><u>In 2024, Social Blade's Role in Deciphering the Dynamics of YouTube Statistics</u></a></li>
-<li><a href="https://common-error.techidaily.com/simple-fix-for-the-apex-anti-cheat-system-bug-now-solved/"><u>Simple Fix for the Apex Anti-Cheat System Bug - Now Solved</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/smooth-setup-tutorial-syncing-airpods-earbuds-with-an-hp-desktop-or-laptop-system/"><u>Smooth Setup Tutorial: Syncing AirPods Earbuds with an HP Desktop or Laptop System</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/stream-on-stream-strong-the-ultimate-trio-of-applications-every-twitcher-needs/"><u>Stream On, Stream Strong: The Ultimate Trio of Applications Every Twitcher Needs</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/the-ultimate-tutorial-for-locking-instachats-into-place/"><u>The Ultimate Tutorial for Locking InstaChats Into Place</u></a></li>
-<li><a href="https://techtrends.techidaily.com/unveiling-android-16-predictions-on-cost-release-plans-and-hardware-details-join-us-at-no-charge/"><u>Unveiling Android 16: Predictions on Cost, Release Plans, & Hardware Details - Join Us at No Charge</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-digital-converters-showcase-optimal-ytvideo-text-extraction/"><u>[New] 2024 Approved Digital Converters Showcase Optimal YTVideo Text Extraction</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-analysis-of-fb-video-proportions/"><u>[New] Analysis of FB Video Proportions</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-peek-at-all-shared-images-and-videos-in-chats/"><u>[New] Peek at All Shared Images & Videos in Chats</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ltimate-youtuber-wealth-wonders/"><u>[New] Ultimate Youtuber Wealth Wonders</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-elite-4k-reflections-the-best-mirrorless-picks/"><u>[Updated] 2024 Approved Elite 4K Reflections The Best Mirrorless Picks</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-miniature-harmonies-character-music-journey/"><u>[Updated] In 2024, Miniature Harmonies Character Music Journey</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/2023s-leading-stereo-audio-devices-reviewed-by-tech-experts/"><u>2023'S Leading Stereo Audio Devices Reviewed by Tech Experts</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/alexa-assistants-showdown-picking-the-perfect-partner-between-echo-pop-and-echo-dot/"><u>Alexa Assistants Showdown: Picking the Perfect Partner Between Echo Pop and Echo Dot</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/approach-examine-specific-exclusions-within-the-nlra-regarding-public-sector-employees-and-essential-services/"><u>Approach: Examine Specific Exclusions Within the NLRA Regarding Public Sector Employees and Essential Services.</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/budget-beats-and-thunderous-sound-discovering-the-best-high-volume-low-cost-bluetooth-speakers-on-the-market/"><u>Budget Beats & Thunderous Sound: Discovering the Best High-Volume, Low-Cost Bluetooth Speakers on the Market</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/expert-evaluation-of-marshall-active-noise-cancellation-tech-by-zdnet-reviews/"><u>Expert Evaluation of Marshall Active Noise Cancellation Tech by ZDNet Reviews</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/experts-choose-the-safest-kids-headphones-for-2e-2023-edition-gizmodo/"><u>Experts Choose the Safest Kids' Headphones for 2E, 2023 Edition | Gizmodo</u></a></li>
+<li><a href="https://win-dash.techidaily.com/performance-beyond-expectations-in-depth-analysis-of-the-lenovo-legion-7i-16-gen-9/"><u>Performance Beyond Expectations: In-Depth Analysis of the Lenovo Legion 7I, 16 Gen 9</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/stylish-and-durable-nomad-case-for-iphone-13-with-magsafe-compatibility-and-superior-drop-proof-design-reviews-from-zdnet/"><u>Stylish & Durable Nomad Case for iPhone 13 with MagSafe Compatibility & Superior Drop-Proof Design – Reviews From ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ultimate-guide-to-premium-mobile-sound-the-leading-portable-speaker-picks-for-2n23-zdnet-insights/"><u>Ultimate Guide to Premium Mobile Sound: The Leading Portable Speaker Picks for 2N23 | ZDNet Insights</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unlock-the-full-potential-16-essential-functions-of-alexa-on-amazon-echo-as-revealed-by-zdnet/"><u>Unlock the Full Potential: 16 Essential Functions of Alexa on Amazon Echo as Revealed by ZDNet</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723009424928-windows-11-taskbar-trouble-heres-how-to-make-it-work-again/"><u>Windows 11 Taskbar Trouble? Here's How to Make It Work Again</u></a></li>
 </ul></div>
 

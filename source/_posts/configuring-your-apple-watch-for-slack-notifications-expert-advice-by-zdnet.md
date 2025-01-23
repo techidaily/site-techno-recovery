@@ -1,7 +1,7 @@
 ---
 title: "Configuring Your Apple Watch for Slack Notifications: Expert Advice by ZDNet"
-date: 2025-01-08T03:28:43.114Z
-updated: 2025-01-11T08:00:17.626Z
+date: 2025-01-22T03:36:15.780Z
+updated: 2025-01-22T17:16:47.763Z
 tags:
   - apple
 categories:
@@ -44,17 +44,9 @@ Here's how.
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to enable Slack notifications on your Apple Watch
 
 **What you'll need:** Have the latest versions of iOS and watchOS installed on your iPhone and Apple Watch, respectively. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 1\. Install the Slack app on your iPhone
 
@@ -67,7 +59,7 @@ Once it's installed, go ahead and log into your various Slack channels. Get thos
 Let's make sure iOS is set up to allow Slack notifications. Go to the main Settings app and on the main settings screen, scroll all the way down to Slack. It's a long scroll past many other apps. Tap into Slack.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##   
@@ -80,13 +72,13 @@ Now, back out to the top of the Settings app and tap the red Notifications icon.
 
 Screenshot by David Gewirtz/ZDNET
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. Set up Slack notifications in the Slack app
 
 Next, open the Slack app. Tap your profile image in the upper right corner of the screen. Then tap Notifications.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##   
 
@@ -105,6 +97,10 @@ Next, tap Notify Me on Mobile. This will give you a few options.
 Screenshot by David Gewirtz/ZDNET
 
 Set it to "Always, even when I'm active". That way, you'll always get notifications, no matter what you're doing (unless you have Do Not Disturb turned on).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Set your notification schedule
 
@@ -126,6 +122,10 @@ So, make sure you set the Start and End times that fit with your schedule.
 
 Recommendation to Slack: Where you put the "Every day" option in that setting, add the times as well (e.g., "Every day 8 a.m. - 11 p.m."). That way, it's clear to users what they might need to change. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. Enable Slack notifications in the Watch app
 
 We're almost done configuring notifications. Open the Watch app and scroll down to Notifications. Then scroll down to Slack and make sure it's turned on.
@@ -137,7 +137,7 @@ Screenshot by David Gewirtz/ZDNET
 There. You've set up notifications. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  6\. Use the Watch to get Slack notifications
@@ -179,18 +179,22 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-in-2024-perfect-pals-and-plotlines-the-10-best-family-flicks/"><u>[New] In 2024, Perfect Pals and Plotlines The 10 Best Family Flicks</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ailoring-trending-topics-to-endings/"><u>[New] Tailoring Trending Topics to Endings</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-unlocking-fun-navigating-ifunny-meme-app/"><u>[Updated] Unlocking Fun Navigating iFunny Meme App</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/comprehensive-guide-to-developing-your-personal-universal-command-device/"><u>Comprehensive Guide to Developing Your Personal Universal Command Device</u></a></li>
-<li><a href="https://games-able.techidaily.com/controller-or-joystick-a-fighters-verdict/"><u>Controller or Joystick: A Fighter's Verdict</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/get-the-best-of-fandango-films-installation-and-streaming-guide-on-amazon-fire-stick/"><u>Get the Best of Fandango Films: Installation and Streaming Guide on Amazon Fire Stick</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/is-xbox-network-down-or-is-it-just-you/"><u>Is Xbox Network Down ... Or Is It Just You?</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/perfect-stocking-stuffers-kid-friendly-gaming-systems-and-accessory-picks/"><u>Perfect Stocking Stuffers: Kid-Friendly Gaming Systems & Accessory Picks</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/resolving-skewed-online-video-quality/"><u>Resolving Skewed Online Video Quality</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/step-by-step-solutions-for-when-your-corsair-microphone-fails-to-work/"><u>Step-by-Step Solutions for When Your Corsair Microphone Fails to Work</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/steps-for-hiding-your-contact-info-in-android-settings/"><u>Steps for Hiding Your Contact Info in Android Settings</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/the-best-network-server-racks-and-enclosures-of-2024/"><u>The Best Network Server Racks and Enclosures of 2024</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/the-ultimate-pathway-for-redefining-your-tiktok-signature-for-2024/"><u>The Ultimate Pathway for Redefining Your TikTok Signature for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-amp-up-your-audiovideo-quality-with-these-10-android-players-for-2024/"><u>[New] Amp Up Your Audio/Video Quality with These 10 Android Players for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-edible-imagery-stepwise-food-film-making/"><u>[New] In 2024, Edible Imagery Stepwise Food Film Making</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-inside-track-to-premiere-pro-full-screen-viewing/"><u>[Updated] Inside Track to Premiere Pro Full Screen Viewing</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-navigating-the-path-to-youtube-video-co-creation-and-partnerships/"><u>[Updated] Navigating the Path to YouTube Video Co-Creation & Partnerships</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-unlocking-instagram-potential-a-comprehensible-guide-for-2024/"><u>[Updated] Unlocking Instagram Potential A Comprehensible Guide for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/combatting-tech-overload-with-artificial-intelligence-strategies-for-it-professionals/"><u>Combatting Tech Overload with Artificial Intelligence: Strategies for IT Professionals</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/elevate-your-code-game-mastering-the-art-of-creating-a-memorable-software-developer-resume-computerworld/"><u>Elevate Your Code Game: Mastering the Art of Creating a Memorable Software Developer Resume | ComputerWorld</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/five-key-strategies-for-achieving-developer-excellence-and-boosting-your-appeal-to-employers-insights-from-zdnet/"><u>Five Key Strategies for Achieving Developer Excellence and Boosting Your Appeal to Employers - Insights From ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-can-you-master-artificial-intelligence-without-technical-expertise-unraveling-the-need-for-multidisciplinary-education-in-intricate-systems-zdnet/"><u>How Can You Master Artificial Intelligence Without Technical Expertise? Unraveling the Need for Multidisciplinary Education in Intricate Systems | ZDNET</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-skyrocket-your-it-career-expert-tips-by-zdnet/"><u>How to Skyrocket Your IT Career: Expert Tips by ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/improve-your-focus-and-task-completion-learn-about-the-pomodoro-techniques-benefits-for-busy-professionals-tips-and-tricks-by-zdnet/"><u>Improve Your Focus and Task Completion: Learn About the Pomodoro Technique's Benefits for Busy Professionals | Tips & Tricks by ZDNet</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/in-2024-elevate-your-game-with-immediate-skilled-valorant-thumbnails/"><u>In 2024, Elevate Your Game with Immediate, Skilled Valorant Thumbnails</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-integrating-slack-and-filmora-for-smooth-meeting-operations/"><u>In 2024, Integrating Slack & Filmora for Smooth Meeting Operations</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/navigating-ai-education-effortlessly-tips-and-tricks-from-zdnet/"><u>Navigating AI Education Effortlessly – Tips & Tricks From ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/secrets-unveiled-the-ultimate-pathway-to-landing-an-elite-job-at-a-top-technology-firm/"><u>Secrets Unveiled: The Ultimate Pathway to Landing an Elite Job at a Top Technology Firm</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/step-by-step-guide-to-iphones-dynamic-images-for-2024/"><u>Step-by-Step Guide to iPhone's Dynamic Images for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/uncover-recent-instagram-unfollow-patterns/"><u>Uncover Recent Instagram Unfollow Patterns</u></a></li>
 </ul></div>
 

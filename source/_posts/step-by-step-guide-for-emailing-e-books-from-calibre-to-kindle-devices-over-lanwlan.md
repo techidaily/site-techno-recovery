@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Guide for Emailing E-Books From Calibre to Kindle Devices over LAN/WLAN
-date: 2024-08-20T09:52:51.337Z
-updated: 2024-08-21T09:52:51.337Z
+date: 2025-01-16T23:42:11.265Z
+updated: 2025-01-22T17:52:30.287Z
 categories:
   - epubor
 thumbnail: https://thmb.techidaily.com/d141dd05ed10b1bd39fa40502c6b028dc88f2f05d25c3ac4b8799745512b0ec6.jpg
@@ -15,13 +15,19 @@ Posted by [Amy Lopez](https://shorturl.at/bmsEO) on 5/9/2021 4:51:49 PM.
 
 4.9 [(14 comments)](http://www.epubor.com/#comment-area) 
 
-
-
 ![follow](http://www.epubor.com/images/follow.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 In this article I'll introduce local transmission skills. If you want to push e-books to cloud via email please read this article Calibre tutorial: push e-books via email.
 
 For those people who need to local transmit e-books to kindle, they must have been tired of using USB cable. But if you have installed Calibre on your computer, you can turn Calibre into a small server by connecting to wireless router. Then you can download Calibre library's e-books to your kindle by visiting kindle experimental web browser.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1\. Click "connect/share" in Calibre
 
@@ -30,20 +36,19 @@ Click **start content server** in the pop-up window
 ![Calibre-connect](http://www.epubor.com/images/uppic/Calibre-connect.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 2\. Record IP and port 
 
 ![Calibre-IP](http://www.epubor.com/images/uppic/Calibre-IP.png)
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->
 As shown, the IP is 192.168.1.125 and the port is 8080\. 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 3\. Use kindle experimental web browser to visit and download
 
 Open kindle, click three-lined button and click **experimental web browser**, then input IP and port in the browser address bar and enter the site.
@@ -52,9 +57,6 @@ For Example: http://192.168.1.125:8080
 
 ![kindle-web-browser](http://www.epubor.com/images/uppic/kindle-web-browser.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 If your Calibre's library has a lot of e-books, you can also search the book through search function. When you don't need to use this function, you can click **stop content server** at any time. Isn't convenient?
 
 Note
@@ -64,8 +66,9 @@ Because of the design theory of **experimental web browser**, Kindle can't conne
 ![author](http://www.epubor.com/images/uppic/Hillary.png)
 
 <!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 [Amy Lopez](https://shorturl.at/bmsEO) crafts informative articles on eBooks and eReaders, uncovering optimal methods to enhance your eBook reading experience, and eagerly shares her findings with you.
 
 SHARING IS GREAT!
@@ -73,8 +76,6 @@ SHARING IS GREAT!
 [Tweet](https://twitter.com/share) 
 
 [SAVE PAGE AS PDF](https://tools.techidaily.com/epubor/transfer/) 
-
-
 
 14 Comments
 
@@ -251,8 +252,6 @@ Leave a comment
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -260,4 +259,24 @@ Leave a comment
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-share-the-laughs-right-top-gif-saver-for-twitter/"><u>[Updated] 2024 Approved Share the Laughs Right Top GIF Saver for Twitter</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-step-by-step-recording-google-voice-conversations/"><u>2024 Approved Step-by-Step Recording Google Voice Conversations</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/209544166-9781547534784-6bue6yer44gu6auy6b2i6icf44gu5liw55wmicjnnphmg7pjga7oq5boqzxjgagpioobqatqeobhoobpuobhoocimwkobqixiuobiobquaikomvtw/"><u>黄金の高齢者の世界 (瞑想の論評と) に歩いている間に豊かな成長 | Free Book</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/a-detailed-overview-of-the-discontinued-netflix-dvd-by-mail-service/"><u>A Detailed Overview of the Discontinued Netflix DVD-by-Mail Service</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/collaborative-playlist-sharing-on-spotify-a-friend-friendly-guide/"><u>Collaborative Playlist Sharing on Spotify: A Friend-Friendly Guide</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-deleted-photos-on-hot-40-pro-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to Retrieve deleted photos on Hot 40 Pro</u></a></li>
+<li><a href="https://techidaily.com/how-to-soft-reset-vivo-y100t-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Vivo Y100t phone? | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-adding-dimension-incor-written-by-john-doe-for-tech-today-magazine-february-15-2023/"><u>In 2024, Adding Dimension Incor Written by John Doe for Tech Today Magazine, February 15, 2023</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/in-2024-yotube-success-crafting-unforgettable-music-reaction-content/"><u>In 2024, YoTube Success Crafting Unforgettable Music Reaction Content</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/master-your-d-link-security-essential-default-passwords-updated-for-july-2024/"><u>Master Your D-Link Security - Essential Default Passwords Updated for July 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/mastering-the-art-of-pc-screenshots-quick-and-simple-techniques-explained/"><u>Mastering the Art of PC Screenshots: Quick and Simple Techniques Explained</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/95935356-9781844093816-the-order-of-melchizedek/"><u>The Order of Melchizedek | Free Book</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ultimate-guide-speeding-up-your-computer-in-just-7-steps/"><u>Ultimate Guide: Speeding Up Your Computer in Just 7 Steps</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unlocking-solutions-to-your-androids-text-messaging-glitches/"><u>Unlocking Solutions to Your Android's Text Messaging Glitches</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unlocking-the-power-of-emoji-on-iphones-a-step-by-step-guide/"><u>Unlocking the Power of Emoji on iPhones: A Step-by-Step Guide</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/unveiling-the-best-3-video-hosts-post-youtube-era/"><u>Unveiling the Best 3 Video Hosts Post-YouTube Era</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unveiling-the-mystery-of-meta-quest-3-lite-release-timeline-price-predictions-and-key-features-explored/"><u>Unveiling the Mystery of Meta Quest 3 Lite: Release Timeline, Price Predictions, and Key Features Explored</u></a></li>
+</ul></div>
 

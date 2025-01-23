@@ -1,7 +1,7 @@
 ---
 title: "Effortless E-Reading: Mastering Kindle Content Consumption on the Google Nexus 7 Tablet"
-date: 2024-08-20T09:53:27.735Z
-updated: 2024-08-21T09:53:27.735Z
+date: 2025-01-21T23:54:13.419Z
+updated: 2025-01-23T00:36:28.181Z
 categories:
   - epubor
 thumbnail: https://thmb.techidaily.com/ce2efe940111a7e6cca801caf2d213cdd3c650dded56c51fea507b1e98fc61ee.jpg
@@ -9,13 +9,15 @@ thumbnail: https://thmb.techidaily.com/ce2efe940111a7e6cca801caf2d213cdd3c650dde
 
 ## Effortless E-Reading: Mastering Kindle Content Consumption on the Google Nexus 7 Tablet
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Read Kindle Books on Google Nexus 7
 
 Posted by [Ada Wang](https://plus.google.com/+AdaWang/posts) on 11/28/2018 11:49:15 AM.
 
 4.8 [(2 comments)](http://www.epubor.com/#comment-area) 
-
-
 
 ![follow](http://www.epubor.com/images/follow.png)
 
@@ -32,8 +34,9 @@ Make sure your Nexus 7 is connected to your Google account and there is Internet
 ![search for Kindle for Android on Nexus 7](https://www.epubor.com/images/remote/D4/1D/D41D8C_kn_kindle_search.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Method 2: Read Kindle books on Nexus 7 with FB Reader
 
 Regardless of the reputation, Kindle for Android app is not an ideal reading app. A big defect is that it can't read Kindle books to you, which actually counts much for people who have eye problems (strain) or like reading on the go (driving). On the contrary, there are a couple of free apps coming with richer features and better performances, such as FB Reader, which belongs to Android apps to read Kindle books to you with multi-language supported: English, Spanish, French, German and Italian and offer a collection of extra features: multi formats support (Kindle MOBI, EPUB, FB2, TXT, etc.), book info edit (title, language, encoding), free-book fetch, CSS customization, book / content sharing, font size zooming (little-by-little) and so on.
@@ -50,9 +53,6 @@ As Amazon Kindle books are typically protected by Kindle DRM, we can't directly 
 
 ![transfer Kindle books to Nexus 7](https://www.epubor.com/images/remote/D4/1D/D41D8C_kn_transfer_book.png)
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **Note** that if the extensions of the decrypted books are AZW or AZW3, directly rename them as MOBI. Or [refer to this guide to convert them to EPUB with Calibre](https://tools.techidaily.com/epubor/products/).
 
 **Step 3:** Launch Google play on Nexus 7 and search for "FBReader", there will be many results displayed. Tab "**FBReader**", "**FBReader TTS+ Plugin**" and "**FBReader local OPDS scanner**" respectively to install. They contribute to the full features of FBReader. 
@@ -60,8 +60,9 @@ As Amazon Kindle books are typically protected by Kindle DRM, we can't directly 
 _![search for FBReader on Nexus 7](https://www.epubor.com/images/remote/D4/1D/D41D8Cknfbsearch.png)_
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **Step 4:** Launch FBReader and read books.
 
 #### **FBReader menu** 
@@ -69,6 +70,10 @@ _![search for FBReader on Nexus 7](https://www.epubor.com/images/remote/D4/1D/D4
 **1:** Library **2:** Network Library **3:** Bookmarks **4:** Day/Night Mode **5:** More
 
 ![FBReader menu](https://www.epubor.com/images/remote/D4/1D/D41D8C_kn_fb_options.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Note that when the app is run the first time, there will be some tips and the five menu options may not fully display. 
 
@@ -124,9 +129,6 @@ Tap more icon in the upper right corner and select "Speak+" to start TTS (text-t
 
 ![turn on TTS](https://www.epubor.com/images/remote/D4/1D/D41D8C_kn_turn_on_tts.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 **#1 Multi-language supported**
 
 US English and UK English are available by default. We can also select "Set Language" then "Add a new language" to download another 4 language packages (Spanish / French / German / Italian) manually. Thus we can let Kindle books both in English and in Spanish / French / German / Italian to read to us without restriction. And this function is totally free and without any ads! Awesome!
@@ -146,15 +148,13 @@ Tap the last icon on the control bar to minimize / restore the TTS panel.
 ![read Kindle books to you with FBReader](https://www.epubor.com/images/uppic/read-kindle-with-nexus7.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Have you found FBReader makes it so nice to read Kindle books on Google Nexus 7? Although it has some minor shorts (words selection), you are likely to get used to it after a period of usage. And we will save a lot on audio books! 
 
 ![author](https://www.epubor.com/images/uppic/1-22-2013 12-03-06 AM.png)
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 [Ada Wang](https://plus.google.com/+AdaWang/posts) works for Epubor and writes articles for a collection of blogs such as ebookconverter.blogspot.com.
 
 SHARING IS GREAT!
@@ -162,8 +162,6 @@ SHARING IS GREAT!
 [Tweet](https://twitter.com/share) 
 
 [SAVE PAGE AS PDF](https://tools.techidaily.com/epubor/products/) 
-
-
 
 2 Comments
 
@@ -211,8 +209,6 @@ Leave a comment
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -220,4 +216,24 @@ Leave a comment
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-captivate-audiences-perfecting-snapchats-boomerang-feature/"><u>[Updated] 2024 Approved Captivate Audiences Perfecting Snapchat's Boomerang Feature</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-the-blueprint-of-writing-appealing-vlog-storylines/"><u>[Updated] The Blueprint of Writing Appealing Vlog Storylines</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-how-to-live-stream-gopro-to-facebook-and-periscope/"><u>2024 Approved How to Live Stream Gopro to Facebook and Periscope?</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/complete-guide-steps-to-remove-your-tiktok-presence/"><u>Complete Guide: Steps to Remove Your TikTok Presence</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/control-your-windows-10-connectivity-tips-for-managing-network-discovery-settings/"><u>Control Your Windows 10 Connectivity: Tips for Managing Network Discovery Settings</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/do-you-really-not-have-rights-to-your-favorite-shows-and-movies-from-amazon-prime-video/"><u>Do You Really Not Have Rights to Your Favorite Shows and Movies From Amazon Prime Video?</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/effective-solutions-resolving-the-mystery-of-stop-code-0x0000007b-blue-screen-error/"><u>Effective Solutions: Resolving the Mystery of Stop Code 0X0000007B Blue Screen Error</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/eight-techniques-to-correct-syntax-errors-in-android-programming/"><u>Eight Techniques to Correct Syntax Errors in Android Programming</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/groundbreaking-google-pixel-10-on-the-horizon-projections-for-cost-release-moment-and-teasers-from-inside-scoop/"><u>Groundbreaking Google Pixel 10 on the Horizon: Projections for Cost, Release Moment and Teasers From Inside Scoop</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/latest-guide-how-to-bypass-realme-c67-4g-frp-without-computer-by-drfone-android/"><u>Latest Guide How To Bypass Realme C67 4G FRP Without Computer</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/premier-picture-voicemail-programs-to-try-in-amoons-and-that-could-be-an-interesting-anglemoon-photography-apps-or-software-for-astronomers-and-space-enthus48/"><u>Premier Picture Voicemail Programs to Try in Amoons, and that Could Be an Interesting Angle—Moon Photography Apps or Software for Astronomers and Space Enthusiasts.</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/restoring-sound-resolving-unplugged-speakers-glitch-in-windows-operating-systems/"><u>Restoring Sound: Resolving Unplugged Speakers Glitch in Windows Operating Systems</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/rumored-apple-ring-info-leaked-insights-into-price-points-release-schedule-and-features-awaiting-confirmation/"><u>Rumored Apple Ring Info Leaked: Insights Into Price Points, Release Schedule & Features Awaiting Confirmation!</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/safe-recovery-techniques-from-faulty-dynamic-disks-a-comprehensive-step-by-step-manual/"><u>Safe Recovery Techniques From Faulty Dynamic Disks: A Comprehensive Step-by-Step Manual</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/solving-the-issue-how-to-prevent-crashes-in-cod-modern-warfare/"><u>Solving the Issue: How to Prevent Crashes in COD: Modern Warfare</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/toolwiz-explored-detailed-review-for-image-enthusiasts/"><u>Toolwiz Explored Detailed Review for Image Enthusiasts</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-6-kid-friendly-websites-offering-complimentary-film-viewings/"><u>Top 6 Kid-Friendly Websites Offering Complimentary Film Viewings</u></a></li>
+</ul></div>
 

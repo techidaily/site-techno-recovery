@@ -1,7 +1,7 @@
 ---
 title: The 11 Major Tech Milestones that Transformed the World After 1844
-date: 2024-08-20T09:57:51.199Z
-updated: 2024-08-21T09:57:51.199Z
+date: 2025-01-21T01:26:23.376Z
+updated: 2025-01-22T23:22:36.312Z
 categories:
   - BestProducts
 description: This Article Describes The 11 Major Tech Milestones that Transformed the World After 1844
@@ -30,15 +30,16 @@ of 10
 
 of 10
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## [Youtube.com](https://www.youtube.com/)
 
 ![YouTube video page for Queen Don't Stop Me](https://www.lifewire.com/thmb/rFOKe3q4uBPjwlCxJ4lTmxSS01Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/youtube-queen-fd9c6346838a488cbb1ee4965d58e7ad.png)
 
  You've probably watched a video on YouTube this week, as did billions of other people who use both crowdsourced and commercial content to entertain themselves, learn new skills and ideas, pursue self-improvement goals, and stay current.
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### More About YouTube
 
 * [What Is YouTube?](https://www.lifewire.com/youtube-101-3481847) : Learn more about this hub of entertainment and how to use it. It hosts videos uploaded by individuals, groups, and businesses.
@@ -50,9 +51,6 @@ of 10
 
 of 10
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## [Facebook.com](https://www.facebook.com/)
 
 ![facebook website](https://www.lifewire.com/thmb/D2RvdzEk0fBJ1N-HZIf48oa4Y6Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/facebook-c116fb827c0d4faf93691a60e54194db.png)
@@ -70,8 +68,9 @@ of 10
 of 10
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## [Instagram.com](https://www.instagram.com/)
 
 ![Instagram website](https://www.lifewire.com/thmb/o-Wwnyz07hlG0Qs30pJPC8Tqy6A=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/instagram-271633aa2b954d0ebcaff87ecdaa2a7a.png)
@@ -89,15 +88,17 @@ of 10
 ![Twitter home page](https://www.lifewire.com/thmb/0HI3KUZNmLiPylhh0AlLRjjidCc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/twitter-3b99b74bcbf24f10bc03565b2c7cb3a5.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Despite changing its name to X, the twitter.com domain is the same. This microblogging platform isn't doing as well as it used to, but it's still near the top.
 
  On the business end, most major companies and organizations have accounts, which figure prominently in their marketing and customer service efforts.
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## More About X
 
 * [The History of X](https://www.lifewire.com/history-of-twitter-3288854) : This rundown of the major events from Twitter's founding to its present state as X will give you a basic idea of where it's been and where it's going.
@@ -111,15 +112,13 @@ of 10
 of 10
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## [Baidu.com](http://www.baidu.com/)
 
 ![Baidu search engine home page](https://www.lifewire.com/thmb/RxRit1jWsji7xjZp7ZBNVozPc4c=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/baidu-search-engine-1d9f8f16377841dd9df1ceb2106839bc.png)
 
-<!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  With a massive search market share, Baidu is the largest Chinese-language search engine and is used by millions of people every day. The estimate is that 90 percent of China uses Baidu as a search engine.
 
  Much like Google, Baidu offers companion sites including an alternative to AdWords, Translate, and Maps.
@@ -139,8 +138,9 @@ of 10
  Wikipedia is one of the most useful and most visited sites on the web. It's a "living" resource, in the sense that any piece of content can be edited by anyone with expertise in that particular topic. More people use Wikipedia worldwide than any other knowledge-based resource on the web.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## More About Wikipedia
 
 * [How to Search on Wikipedia](https://www.lifewire.com/wikipedia-search-4685975) : There's far too much content on Wikipedia to look through it by hand. Learn how to quickly search for something on Wikipedia to use it like a pro.
@@ -149,9 +149,6 @@ of 10
 
 of 10
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## [Yahoo.com](https://www.yahoo.com/)
 
 ![Yahoo.com home page](https://www.lifewire.com/thmb/mAovWDfF2rH3dfKsj9I0IElfo28=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/yahoo-home-page-8a1f84a985744d6a9fc331cfdd377642.png)
@@ -172,8 +169,9 @@ of 10
 ![yandex search engine](https://www.lifewire.com/thmb/dBO-dlg5ZCMlmtkNAGkgFZdpFtk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/yandex-bb7bb0d53ec549c686cb43f1a373500d.png)
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Yandex is a Russian technology company. It offers several services and could easily be compared to Google, with its search engine, translation service, navigation tools, email, file storage, and more.
 
 [How to Get a Free Yandex.Mail Account](https://www.lifewire.com/get-free-yandex-account-1170779)
@@ -182,9 +180,17 @@ of 10
 
 of 10
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## [Whatsapp.com](https://whatsapp.com)
 
 ![WhatsApp home page](https://www.lifewire.com/thmb/W31lzNGLDHtJJidx8MyNVXuAcsg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ScreenShot2022-01-22at10.27.13PM-9b3154b1d4c3479eb38689edfda87029.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  More than a billion users worldwide have made[WhatsApp](https://www.lifewire.com/what-is-whatsapp-all-about-4781062) the most popular messaging platform in the world. With end-to-end message encryption, WhatsApp offers a safe, free way to communicate electronically.
 
@@ -210,8 +216,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -219,4 +223,20 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-tips.techidaily.com/new-2024-approved-unseen-streamers-handbook-going-incognito-on-ig-live/"><u>[New] 2024 Approved Unseen Streamer's Handbook Going Incognito on IG Live</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-iphone-and-android-tips-direct-video-sharing-to-twitter-no-retweets-for-2024/"><u>[New] IPhone & Android Tips Direct Video Sharing to Twitter No Retweets for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-how-to-make-good-youtube-banner-dos-and-donts/"><u>[Updated] How To Make Good YouTube Banner - Dos and Don’ts</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-capturing-the-essence-recording-conversations-on-whatsapp-efficiently/"><u>[Updated] In 2024, Capturing the Essence Recording Conversations on WhatsApp Efficiently</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-secure-methods-for-youtube-to-mp4-conversion/"><u>[Updated] In 2024, Secure Methods for Youtube-to-MP4 Conversion</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/boosting-command-prompt-convenience-on-windows-tweaking-your-system-path-settings-for-quick-access/"><u>Boosting Command Prompt Convenience on Windows: Tweaking Your System PATH Settings for Quick Access</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/modify-your-system-clock-changing-datetime-formats-in-windows-11-easily/"><u>Modify Your System Clock: Changing Date/Time Formats in Windows 11 Easily</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-list-of-supported-iphone-video-formats-and-best-iphone-video-editor/"><u>New 2024 Approved List of Supported iPhone Video Formats and Best iPhone Video Editor</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/reassert-true-look-corrected-video-error/"><u>Reassert True Look Corrected Video Error</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/reviving-your-missing-mouse-pointer-in-windows-effective-solutions-explored/"><u>Reviving Your Missing Mouse Pointer in Windows: Effective Solutions Explored</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-guide-to-adding-remarks-to-directories-in-windows-11/"><u>Step-by-Step Guide to Adding Remarks to Directories in Windows 11</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-guide-turning-off-background-processes-on-your-windows-11-pc/"><u>Step-by-Step Guide: Turning Off Background Processes on Your Windows 11 PC</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/windows-10-ultimate-guide-distinguishing-between-home-and-pro-versions-for-optimal-use/"><u>Windows 10 Ultimate Guide: Distinguishing Between Home and Pro Versions for Optimal Use</u></a></li>
+</ul></div>
 

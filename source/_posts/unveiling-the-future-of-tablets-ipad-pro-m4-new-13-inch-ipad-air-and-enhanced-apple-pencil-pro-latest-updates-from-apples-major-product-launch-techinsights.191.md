@@ -1,7 +1,7 @@
 ---
 title: "Unveiling the Future of Tablets: IPad Pro M4, New 13-Inch iPad Air & Enhanced Apple Pencil Pro - Latest Updates From Apple's Major Product Launch | TechInsights."
-date: 2025-01-05T09:07:57.318Z
-updated: 2025-01-11T08:11:04.972Z
+date: 2025-01-17T20:38:12.566Z
+updated: 2025-01-22T22:35:33.690Z
 tags:
   - apple
 categories:
@@ -26,15 +26,15 @@ Tim Cook kicked off the event by speaking about how the Apple Vision Pro has bee
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Everything announced at Apple's 'Let Loose' event
 
 Apple's "Let Loose" was a virtual product launch event that took place on May 7, at 7 am PT/10 am ET. It lasted about 35 minutes and was live-streamed on [Apple.com](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2F&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp), [YouTube](https://www.youtube.com/watch?v=f1J38FlDKxo), and via the Apple TV app. 
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. iPad Pro, now with OLED displays and M4
 
@@ -56,6 +56,10 @@ Like previous generations, Apple is making the latest iPad Pro available in 11-i
 
 The iPad Pro starts at $999 for the 11-inch model and $1,299 for the 13-inch model. It's available in Silver and Space Black, with storage sizes ranging from 256GB to 2TB. You can [available to preorder now](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-ipad%2Fipad-pro&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp), with orders shipping next week.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. iPad Air gets a new, larger size
 
 Apple
@@ -71,6 +75,10 @@ Apple
 Unlike the M4-equipped iPad Pro, the iPad Air comes with an M2 chip, making it almost 50% faster than the previous model with M1 and three times faster than the A13 Bionic model. The faster processor supports AI editing in photos with a single tap on the screen, as well as Apple Pencil hover, whether you use the lower-cost USB-C version or the new Apple Pencil Pro.
 
 The new iPad Air is available in Blue, Purple, Starlight, and Space Gray, with [prices starting at $599](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-ipad%2Fipad-air&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) for the 11-inch iPad Air, and $799 for the 13-inch model.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Apple Pencil Pro
 
@@ -89,7 +97,7 @@ Apple
 The Apple Pencil Pro costs $129 and supports Apple's Find My service, letting you track the location of the accessory should you drop or misplace it. You can purchase the [Apple Pencil Pro](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fproduct%2FMX2D3AM%2FA%2Fapple-pencil-pro&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) today, and it will start shipping next week.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Magic Keyboard
@@ -99,16 +107,12 @@ Apple
 The iPad event also included a new, more durable Magic Keyboard, featuring a larger trackpad and a function row along the top. The Magic Keyboard's new look and upgraded aluminum construction is meant to make the iPad Pro look and feel more like a laptop, rather than a tablet with an optional keyboard case.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Why would Apple host an event before WWDC?
 
 Although Apple is hosting its [Worldwide Developers Conference (WWDC)](https://www.zdnet.com/article/apple-confirms-wwdc-2024-for-june-10-will-ai-steal-the-show/) on June 10, that event is reserved for new iOS, iPadOS, visionOS, and macOS announcements, plus Apple's new AI strategy. The Let Loose event was focused on the latest hardware offerings, with the [OLED iPad Pro](https://www.zdnet.com/article/7-ipad-pro-features-that-would-make-me-instantly-upgrade-to-apples-next-model/) being the main star.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Did the Let Loose event cover iPadOS 17.5 or iPadOS 18?
 
@@ -121,10 +125,6 @@ Apple unveiled new versions of Final Cut Pro 2 and Logic Pro 2 for iPadOS. Apple
 Logic Pro 2 introduces Session Players, an AI-created Bass and Keyboard player available alongside the Drummer feature. The ChromaGlow feature adds sound effects to tracks. Logic Pro 2 also offers a Stem Splitter feature that can split recordings into voice, bass, drums, and other instruments.
 
 iOS 17.5 doesn't have many exciting new features outside of the European Union, where iPhone users can now [download apps directly from websites](https://www.zdnet.com/article/apple-to-let-eu-users-download-apps-from-the-web-with-ios-17-5-beta-2-how-it-works/). The new devices are expected to ship with iPadOS 17.5, but these features are available for iPadOS 17.4.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How do I watch Apple's Let Loose event?
 
@@ -160,19 +160,18 @@ The Apple Let Loose event was a pre-recorded video but is still available for st
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-simple-method-setting-up-snapchat-for-mac-users/"><u>[New] Simple Method Setting up Snapchat for Mac Users</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-snapchats-creative-frontier-mastering-more-than-120-stories-with-individual-flair-for-2024/"><u>[New] Snapchat's Creative Frontier Mastering More than 120 Stories with Individual Flair for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-unleashing-potential-learning-to-race-with-drones-and-best-models/"><u>[New] Unleashing Potential Learning to Race with Drones and Best Models</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/5-essential-tools-for-following-trending-topics-on-twitter-with-ease/"><u>5 Essential Tools for Following Trending Topics on Twitter with Ease</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/capture-it-right-essential-camera-lenses-for-video-blogging-for-2024/"><u>Capture It Right Essential Camera Lenses for Video Blogging for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/data-dispatch-simple-ways-to-shift-files-to-pc-for-2024/"><u>Data Dispatch Simple Ways To Shift Files to PC for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/decoding-the-contrasts-between-apples-macintosh-and-microsofts-pc/"><u>Decoding the Contrasts Between Apple's Macintosh and Microsoft's PC</u></a></li>
-<li><a href="https://article-posts.techidaily.com/in-2024-easy-steps-making-time-lapses-on-galaxy-phones/"><u>In 2024, Easy Steps Making Time-Lapses on Galaxy Phones</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-how-can-we-bypass-poco-c50-frp-by-drfone-android/"><u>In 2024, How Can We Bypass Poco C50 FRP?</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/in-2024-seamless-social-sharing-upload-a-twt/"><u>In 2024, Seamless Social Sharing Upload a Twt</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/overcoming-shell32dll-errors-in-windows-a-comprehensive-guide/"><u>Overcoming Shell32.dll Errors in Windows: A Comprehensive Guide</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/samsung-galaxy-z-flip-6-unveiling-the-costs-launch-timeline-latest-updates-and-key-attributes/"><u>Samsung Galaxy Z Flip 6 - Unveiling the Costs, Launch Timeline, Latest Updates & Key Attributes</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/solving-the-whea-uncorrectable-error-a-comprehensive-guide/"><u>Solving the 'WHEA Uncorrectable Error': A Comprehensive Guide</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/step-by-step-guide-to-multi-monitor-setup-on-desktops/"><u>Step-by-Step Guide to Multi-Monitor Setup on Desktops</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-financial-projections-producing-a-music-video/"><u>[New] 2024 Approved Financial Projections Producing a Music Video</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-integrating-video-content-from-youtube-into-websites-a-comprehensive-guide/"><u>[Updated] In 2024, Integrating Video Content From YouTube Into Websites - A Comprehensive Guide</u></a></li>
+<li><a href="https://win-lab.techidaily.com/boost-your-surface-pros-storage-capacity-and-slash-costs-in-just-7-steps-learn-how-smarttechguru/"><u>Boost Your Surface Pro's Storage Capacity and Slash Costs in Just 7 Steps! Learn How | SmartTechGuru</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discover-exceptional-quality-in-audio-a-premier-desk-speaker-beyond-logitech-and-pioneer-featured-at-zdnet/"><u>Discover Exceptional Quality in Audio: A Premier Desk Speaker Beyond Logitech and Pioneer Featured at ZDNet</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/filmoras-recipe-for-captivating-youtube-trailers/"><u>Filmora’s Recipe for Captivating YouTube Trailers</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-reset-gmail-password-on-infinix-smart-8-devices-by-drfone-android/"><u>How to Reset Gmail Password on Infinix Smart 8 Devices</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-what-is-the-best-pokemon-for-pokemon-pvp-ranking-on-vivo-y100-drfone-by-drfone-virtual-android/"><u>In 2024, What is the best Pokemon for pokemon pvp ranking On Vivo Y100? | Dr.fone</u></a></li>
+<li><a href="https://video-capture.techidaily.com/integrating-advanced-movie-capture-on-diverse-tech-environments/"><u>Integrating Advanced Movie Capture on Diverse Tech Environments</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/overcoming-audio-barriers-repairing-the-mic-feature-for-airpods-in-windows-11-environments/"><u>Overcoming Audio Barriers: Repairing the Mic Feature for AirPods in Windows 11 Environments</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-best-tech-innovations-of-2-grove-as-chosen-by-zdnet-editors/"><u>The Best Tech Innovations of 2 Grove, as Chosen by ZDNet Editors</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-rated-bookcase-audio-systems-the-ultimate-picks-techadvisor/"><u>Top-Rated Bookcase Audio Systems - The Ultimate Picks | TechAdvisor</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ultimate-portable-audio-experience-with-this-small-yet-powerful-bluetooth-speaker-insights-from-zdnet/"><u>Ultimate Portable Audio Experience with This Small Yet Powerful Bluetooth Speaker - Insights From ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/zdnet-review-soul-s-storm-max-the-ultimate-waterproof-bluetooth-speaker-with-dynamic-bass-and-stunning-led-displays/"><u>ZDNet Review: Soul S-Storm Max - The Ultimate Waterproof Bluetooth Speaker with Dynamic Bass & Stunning LED Displays</u></a></li>
 </ul></div>
 

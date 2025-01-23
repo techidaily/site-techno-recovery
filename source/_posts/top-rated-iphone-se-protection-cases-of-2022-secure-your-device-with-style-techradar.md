@@ -1,7 +1,7 @@
 ---
 title: Top-Rated iPhone SE Protection Cases of 2022 - Secure Your Device with Style | TechRadar
-date: 2024-12-04T06:15:46.722Z
-updated: 2024-12-11T07:01:36.175Z
+date: 2025-01-21T22:20:27.669Z
+updated: 2025-01-23T05:45:04.962Z
 tags:
   - apple
 categories:
@@ -17,7 +17,7 @@ thumbnail: https://www.zdnet.com/a/img/resize/d80a32d454504b6d888c4af8ea78a395c4
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
@@ -73,7 +73,7 @@ Cons
 ## Apple Silicone Case with MagSafe
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Best MagSafe iPhone 12 case
@@ -100,15 +100,7 @@ Pros
 Cons 
 * Clear design may yellow
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Bodyguardz Ace Pro
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Best budget iPhone 12 case
 
@@ -134,7 +126,7 @@ Cons
 * Shipping can take up to 12 business days for US orders and up to 23 business days for non-US orders
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Casetify cases
@@ -159,6 +151,10 @@ Pros
 
 Cons 
 * May still yellow over time
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## ESR Air Armor
 
@@ -210,10 +206,14 @@ Cons
 * May show scratches easily
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Nomad Rugged case
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Best leather iPhone 12 case
 
@@ -241,6 +241,10 @@ Cons
 
 ## Speck Presidio Edition
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Best iPhone 12 case for drop protection
 
 The Speck Presidio is a perfectly clear case that offers up to 13 feet of drop protection. This is how it works: When you drop your phone, the clear impact technology of the Speck case compresses on impact, absorbing shock, and protecting your phone. Speck's Perfect-Clear coating works against discoloration and yellowing to keep your case in clear condition. If you notice yellowing or discoloration, you can send your phone case back to Speck for a free replacement. 
@@ -266,11 +270,11 @@ Cons
 * No drop protection
 * Original price ($39) is too expensive for what it is
 
-## Totallee case
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+## Totallee case
 
 ### Best slim iPhone 12 case
 
@@ -330,16 +334,12 @@ Wireless charging does work with phone cases. Almost all of the cases on this li
 The Pela case is my favorite because it combines drop protection with environmental friendliness and durability. The flax-based material is unique and 100% compostable -- and the case protects your phone from drops of up to 20 feet. It comes in a variety of colors and ships free to the United States and Canada in plastic-free packaging. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Is OtterBox good for iPhone 12?
 
 Yes. OtterBox cases are durable, and I added an OtterBox option to my list of favorite alternatives. Some OtterBox lines are made with partially recycled materials. You can also alter the bulkiness of your OtterBox, depending on how much protection you need.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What is the safest case for iPhone 12 Pro?
 
@@ -389,20 +389,24 @@ Of course. Here are a few options to consider.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-accessing-audio-at-no-cost-the-ultimate-list-of-8-mp3-seekers-android/"><u>[Updated] 2024 Approved Accessing Audio at No Cost The Ultimate List of 8 MP3 Seekers (Android)</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-icy-images-cozier-cinematics-best-bgs-selection/"><u>[Updated] Icy Images, Cozier Cinematics Best Bgs Selection</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-unveiling-the-power-of-three-tiers-in-crafting-fb-ad-engaging-messages/"><u>[Updated] In 2024, Unveiling the Power of Three Tiers in Crafting FB Ad Engaging Messages</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/boosting-your-macs-performance-a-user-friendly-guide-to-installing-and-using-dual-monitors/"><u>Boosting Your Mac's Performance: A User-Friendly Guide to Installing and Using Dual Monitors</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/deciding-on-an-rtx-graphic-card-upgrade-top-benefits-and-considerations/"><u>Deciding on an RTX Graphic Card Upgrade – Top Benefits and Considerations</u></a></li>
-<li><a href="https://driver-download.techidaily.com/enhance-your-connectivity-updating-and-downloading-new-drivers-for-bluetooth-usb-devices-in-windows/"><u>Enhance Your Connectivity: Updating and Downloading New Drivers for Bluetooth USB Devices in Windows</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/exhaustive-strategies-for-fixing-the-elusive-steamdll-file-error/"><u>Exhaustive Strategies for Fixing the Elusive Steam.dll File Error</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-13-pro-max-with-an-apple-watch-and-what-to-do-if-it-doesnt-work-by-drfone-ios/"><u>How to Unlock Apple iPhone 13 Pro Max With an Apple Watch & What to Do if It Doesnt Work</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/inside-look-the-latest-on-the-samsung-galaxy-z-fold-6-when-can-you-buy-it/"><u>Inside Look: The Latest on the Samsung Galaxy Z Fold 6 - When Can You Buy It?</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/iphone-time-lapse-101-minimizing-wait-times/"><u>IPhone Time Lapse 101 Minimizing Wait Times</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/quick-and-easy-way-to-choose-all-messages-for-bulk-actions-in-gmail/"><u>Quick and Easy Way to Choose All Messages for Bulk Actions in Gmail</u></a></li>
-<li><a href="https://extra-support.techidaily.com/samsung-gear-360-vs-lg-360-cam-which-360-degree-camera-is-better-for-2024/"><u>Samsung Gear 360 vs LG 360 Cam Which 360 Degree Camera Is Better for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/step-by-step-fix-running-idt-high-definition-sound-encoder-on-windows-11/"><u>Step-by-Step Fix: Running IDT High Definition Sound Encoder on Windows 11</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/step-by-step-instructions-the-correct-order-to-view-indiana-jones-movies/"><u>Step-by-Step Instructions: The Correct Order to View Indiana Jones Movies</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/the-fixes-you-need-for-streaming-success-overcoming-netflix-problems-on-roku/"><u>The Fixes You Need for Streaming Success: Overcoming Netflix Problems on Roku</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-virtual-aid-fb-stories-downloader/"><u>[New] 2024 Approved Virtual Aid FB Stories Downloader</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/new-crafting-the-perfect-strategy-exclusive-youtube-to-gmail-connection/"><u>[New] Crafting the Perfect Strategy Exclusive YouTube to Gmail Connection</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-uniting-single-scenes-iphone-multi-media-magic/"><u>[New] In 2024, Uniting Single Scenes IPhone Multi-Media Magic</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-samsung-ue590-unveiled-ultra-hd-4k-and-freesync-edition/"><u>[New] Samsung UE590 Unveiled Ultra HD 4K & FreeSync Edition</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-enhancing-remote-communication-with-effective-skype-screen-sharing/"><u>[Updated] In 2024, Enhancing Remote Communication with Effective Skype Screen Sharing</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-celestial-wonders-at-your-fingertips-hd-sky-website-guide/"><u>2024 Approved Celestial Wonders at Your Fingertips - HD Sky Website Guide</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/a-close-match-to-perfection-secure-your-home-with-the-sale-priced-arlo-pro-nv-why-its-worth-180-less-zdnet-exclusive/"><u>A Close Match to Perfection: Secure Your Home with the Sale-Priced Arlo Pro nV: Why It's Worth $180 Less | ZDNET Exclusive</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/arlo-pro-5s-unveiled-near-perfect-surveillance-meets-irresistible-discounts-tech-deals-blog/"><u>Arlo Pro 5S Unveiled: Near-Perfect Surveillance Meets Irresistible Discounts | Tech Deals Blog</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/arlo-pro-5s-security-camera-and-home-security-systems/"><u>Arlo Pro 5S, Security Camera, and Home Security Systems.</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discover-the-deal-of-the-season-blinks-four-camera-setup-with-floodlight-at-only-80-this-labor-day-exclusive-offer-on-zdnet/"><u>Discover the Deal of the Season: Blink's Four-Camera Setup with Floodlight at Only $80 This Labor Day - Exclusive Offer on ZDNet!</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-and-install-dell-wd19-printer-drivers-step-by-step-guide/"><u>Download & Install Dell WD19 Printer Drivers: Step-by-Step Guide</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/free-and-easy-winx-dvd-creator-professional-video-and-data-dvd-burning-software-for-windows-1011/"><u>Free and Easy WinX DVD Creator: Professional Video & Data DVD Burning Software for Windows 10/11</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/maximizing-usability-with-the-lamicall-s-tablet-support-an-insightful-evaluation/"><u>Maximizing Usability with the Lamicall S Tablet Support - An Insightful Evaluation</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ride-and-grill-in-style-explore-the-new-e-bike-featuring-a-complimentary-grill-attachment-gizmodo/"><u>Ride and Grill in Style - Explore the New E-Bike Featuring a Complimentary Grill Attachment | Gizmodo</u></a></li>
+<li><a href="https://discover-guides.techidaily.com/steps-zum-wiederherstellen-von-ext4ext3-festplattenpartitionen-unter-windows-losungen-und-tipps/"><u>Steps Zum Wiederherstellen Von Ext4/Ext3 Festplattenpartitionen Unter Windows - Lösungen Und Tipps</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-5-contemporary-compact-living-spaces-explore-minimalist-designs/"><u>Top 5 Contemporary Compact Living Spaces - Explore Minimalist Designs</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-rated-seed-distribution-firms-reviews-and-comparisons/"><u>Top-Rated Seed Distribution Firms: Reviews & Comparisons</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unpacking-the-excellence-of-ecoflow-river-3-a-must-have-portable-battery-according-to-zdnets-test-results/"><u>Unpacking the Excellence of EcoFlow River 3 - A Must-Have Portable Battery, According to ZDNET's Test Results</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/zdnet-reviews-the-surprising-impact-of-rings-spotlight-cam-pro/"><u>ZDNet Reviews: The Surprising Impact of Ring's Spotlight Cam Pro</u></a></li>
 </ul></div>
 

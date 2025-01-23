@@ -1,7 +1,7 @@
 ---
 title: "Understanding Apple's Core Innovations: The Impact of Silicon, Rosetta Translation, and M-Series Chips on Modern Computing - Insights for Consumers"
-date: 2025-01-07T10:22:18.048Z
-updated: 2025-01-11T04:39:44.472Z
+date: 2025-01-21T20:08:28.818Z
+updated: 2025-01-22T20:09:08.226Z
 tags:
   - apple
 categories:
@@ -30,6 +30,10 @@ Did they improve the overall quality of life and usability of Apple's most quixo
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Turn 2D images into spatial photos
 
 I've never been terribly impressed by Apple's implementation of spatial photos, which are photos that have a 3D feel to them. The little square box and the fairly minimal lens separation of the [iPhone 15 Pro](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-iphone%2Fiphone-15-pro&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) resulted in something that seems more novelty than noteworthy. 
@@ -49,7 +53,7 @@ And here's another feature that I can't imagine any users clamoring for. Now, if
 So, yeah, if Grandma Sadie in Seattle has a Vision Pro, Cousin Marty in Miami has a Vision Pro, and you have a Vision Pro in Yuma, you can all stand around the virtual photo screen and ooh and ah over pictures of baby Alice. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Gestures for opening Home View and Control Center
@@ -61,7 +65,7 @@ In VisionOS 2, there are gestures. Holding your hand palm up and tapping fingers
 Unlike the previous two features, this _is_ a quality of life improvement. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Mac virtual display improvements
@@ -73,7 +77,7 @@ Screenshot by David Gewirtz/ZDNET
 On the other hand, Apple "later this year" will enable you to create displays with more resolutions. The most interesting is the full wrap-around display, which will be the equivalent of two 4K monitors. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Choo-choo train mode
@@ -83,7 +87,7 @@ To be fair, Apple didn't call it that. We've [talked about the Vision Pro's trav
 In VisionOS 2, Apple is announcing that there is dedicated support in travel mode for train travel. We know [people have already been successful using the Vision Pro on the train and even subway](https://www.youtube.com/shorts/8ckKAjAWLw8), but in this case, Apple presumably tweaked performance somewhat. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. New developer APIs
@@ -122,10 +126,6 @@ Apple didn't cover all the new features during its announcement. At the end of t
 * **Keyboard breakthrough:** This was another feature I felt it was important for Apple to introduce, and apparently it will be available. No mention was made of it, so we have no idea if it's limited solely to Apple's own keyboards (but that's probably the case).
 * **Bora Bora environment:** I wanted to see more environments and we get…one. Personally, I think all the work on spatial photos and spatial videos could have been replaced with the ability for third parties to create 3D environments, but Apple didn't go there. But hey, Bora Bora, right?
 * **Rearrangeable Home View:** This was also not described but I'm guessing this means you can move around the Home icons.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  What do you think?
 
@@ -171,19 +171,19 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-in-2024-introduction-to-basic-animation-in-graphic-design/"><u>[New] In 2024, Introduction to Basic Animation in Graphic Design</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/new-positive-persuasion-techniques-for-listener-loyalty/"><u>[New] Positive Persuasion Techniques for Listener Loyalty</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-story-structuring-at-its-core-for-2024/"><u>[Updated] Story Structuring at Its Core for 2024</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/android-reunion-photos-and-contacts/"><u>Android Reunion: Photos and Contacts</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/comprehensive-tp-link-re505x-range-extender-evaluation/"><u>Comprehensive TP-Link Re505x Range Extender Evaluation</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/guide-to-diagnosing-and-solving-non-receipt-of-smsmms-in-android-phones/"><u>Guide to Diagnosing and Solving Non-Receipt of SMS/MMS in Android Phones</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-methods-to-change-gps-location-on-itel-p55-drfone-by-drfone-virtual-android/"><u>In 2024, Methods to Change GPS Location On Itel P55 | Dr.fone</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/samsung-un65nu8000fxza-analysis-is-this-premium-smart-tv-worth-the-cost/"><u>Samsung UN65NU8000FXZA Analysis: Is This Premium Smart TV Worth the Cost?</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/step-by-step-guide-booking-your-visit-with-apple-geniuses/"><u>Step-by-Step Guide: Booking Your Visit with Apple Geniuses</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/step-by-step-tutorial-on-watching-and-sharing-2024-summer-olympics-online/"><u>Step-by-Step Tutorial on Watching and Sharing 2024 Summer Olympics Online</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/the-ultimate-checklist-key-aspects-to-review-pre-smartwatch-purchase/"><u>The Ultimate Checklist: Key Aspects to Review Pre-Smartwatch Purchase</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/top-9-solutions-for-troubleshooting-your-non-charging-airpods/"><u>Top 9 Solutions for Troubleshooting Your Non-Charging AirPods</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/unraveling-the-mystery-behind-a-computers-bsod-issue/"><u>Unraveling the Mystery Behind a Computer's BSOD Issue</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-unleash-creativity-top-free-video-effects-apps-for-iphone-and-android-for-2024/"><u>Updated Unleash Creativity Top Free Video Effects Apps for iPhone and Android for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-the-future-at-your-fingertips-mycams-video-recorder-examined/"><u>[New] 2024 Approved The Future at Your Fingertips – MyCam's Video Recorder Examined</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-instantaneous-picture-viewing-on-windows-11/"><u>2024 Approved Instantaneous Picture Viewing on Windows 11</u></a></li>
+<li><a href="https://win-web3.techidaily.com/best-computer-systems-for-djs-and-video-mix-engineers-a-comprehensive-guide-to-optimal-performance/"><u>Best Computer Systems for DJs & Video Mix Engineers: A Comprehensive Guide to Optimal Performance</u></a></li>
+<li><a href="https://win-forum.techidaily.com/connect-and-engage-on-major-platforms-facebook-twitter-instagram-youtube-insights/"><u>Connect & Engage on Major Platforms: Facebook, Twitter, Instagram, YouTube Insights</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-4-ways-to-transfer-music-from-samsung-galaxy-m34-5g-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 4 Ways to Transfer Music from Samsung Galaxy M34 5G to iPhone | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/navigating-through-windows-11-a-guide-to-automatic-hdr-mode-for-2024/"><u>Navigating Through Windows 11 A Guide to Automatic HDR Mode for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-lenovo-laptop-camera-issues-a-step-by-step-fix/"><u>Solving Lenovo Laptop Camera Issues - A Step-by-Step Fix</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-artisans-approach-expert-color-alteration-tactics-for-2024/"><u>The Artisan's Approach Expert Color Alteration Tactics for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ultimate-guide-to-choosing-a-premium-apple-tv-vpn-in-202amelios-reviewed-rankings-for-the-best-of-2024-zdnet/"><u>Ultimate Guide to Choosing a Premium Apple TV VPN in 202Amelio's Reviewed Rankings for the Best of 2024 | ZDNET</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ultimate-guide-to-configuring-a-vpn-directly-through-your-home-router-tips-and-tricks/"><u>Ultimate Guide to Configuring a VPN Directly Through Your Home Router - Tips & Tricks</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ultimate-guide-to-streaming-with-a-vpn-pros-cons-and-reviews-curated-by-tech-experts-zdnet/"><u>Ultimate Guide to Streaming with a VPN: Pros, Cons & Reviews Curated by Tech Experts | ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/understanding-vpn-quality-assurance-a-detailed-look-by-zdnet/"><u>Understanding VPN Quality Assurance: A Detailed Look by ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/understanding-vpn-a-comprehensive-guide-on-how-it-works-and-its-importance/"><u>Understanding VPN: A Comprehensive Guide on How It Works & Its Importance</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unlock-the-ultimate-privacy-with-these-premier-vpn-trials-curated-and-scrutinized-by-professionals-at-zdnet/"><u>Unlock the Ultimate Privacy with These Premier VPN Trials, Curated and Scrutinized by Professionals at ZDNET</u></a></li>
 </ul></div>
 

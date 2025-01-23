@@ -1,7 +1,7 @@
 ---
 title: Unleash Productivity and Adventure with the Latest Upgrades of Popular XR Glasses - Exclusive Details for Savvy Travelers & Workaholics | ZDNET Innovations
-date: 2025-01-07T18:22:33.362Z
-updated: 2025-01-10T20:57:32.715Z
+date: 2025-01-20T23:54:33.987Z
+updated: 2025-01-23T04:11:21.423Z
 tags:
   - apple
 categories:
@@ -21,7 +21,7 @@ Matthew Miller/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -85,7 +85,7 @@ Along with the [Viture Pro XR glasses](https://buy.geni.us/Proxy.ashx?TSID=36825
 Lastly, Viture announced a new limited-edition controller in partnership with 8BitDo. You can connect this new controller, with a classic XBox-style controller layout, via Bluetooth to your gaming device, including the Nintendo Switch. The smokey translucent design looks cool and matches the Viture ecosystem. The 8BitDo controller also serves as a companion to the Viture Neckband, but I have yet to try out the Neckband, so I cannot share my experiences with that accessory.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -122,18 +122,14 @@ The [Viture Pro XR glasses](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-clips.techidaily.com/new-crafting-a-journalistic-closing-statement/"><u>[New] Crafting a Journalistic Closing Statement</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-transforming-ordinary-footage-to-ig-masterpieces-for-2024/"><u>[New] Transforming Ordinary Footage to IG Masterpieces for 2024</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-how-to-access-your-secret-snaps-archive/"><u>[Updated] In 2024, How to Access Your Secret Snaps Archive</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-mastering-zoom-on-xbox-a-step-by-step-guide/"><u>[Updated] Mastering Zoom on Xbox A Step-by-Step Guide</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/comprehensive-tutorial-how-to-link-up-your-printer-for-device-accessibility/"><u>Comprehensive Tutorial: How to Link Up Your Printer For Device Accessibility</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/enhance-your-sound-experience-the-process-of-matching-a-subwoofer-with-your-samsung-soundbar/"><u>Enhance Your Sound Experience: The Process of Matching a Subwoofer with Your Samsung Soundbar</u></a></li>
-<li><a href="https://fake-location.techidaily.com/fake-the-location-to-get-around-the-mlb-blackouts-on-samsung-galaxy-a14-4g-drfone-by-drfone-virtual-android/"><u>Fake the Location to Get Around the MLB Blackouts on Samsung Galaxy A14 4G | Dr.fone</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/in-2024-crafting-sequences-a-movie-maker-approach-to-animation/"><u>In 2024, Crafting Sequences A Movie Maker Approach to Animation</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-easy-ways-to-manage-your-oppo-a78-location-settings-drfone-by-drfone-virtual/"><u>In 2024, Easy Ways to Manage Your Oppo A78 Location Settings | Dr.fone</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/in-2024-itop-reviewed-leading-pc-screen-recorders-face-off/"><u>In 2024, ITop Reviewed Leading PC Screen Recorders Face Off</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/mastering-microsoft-teams-with-ai-the-ultimate-guide-to-using-copilot/"><u>Mastering Microsoft Teams with AI: The Ultimate Guide to Using Copilot</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/ultimate-selection-elite-network-servers-racks-for-2n4/"><u>Ultimate Selection: Elite Network Servers Racks for 2N4</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/what-exactly-is-a-dac-and-should-you-consider-investing-in-one/"><u>What Exactly Is a DAC and Should You Consider Investing in One?</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-a-compreenas-step-by-step-guide-for-bordered-instagram-images/"><u>[New] A Compreenas Step-by-Step Guide for Bordered Instagram Images</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-profiles-in-metaverse-promotion-case-studies-and-more/"><u>[New] Profiles in Metaverse Promotion Case Studies and More</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-going-vertical-post-production-strategies-with-fcpx-and-insta-for-2024/"><u>[Updated] Going Vertical Post-Production Strategies with FCPX and Insta for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/emerging-leadership-in-the-age-of-generative-ai-how-new-software-management-positions-are-shaping-up-zdnet/"><u>Emerging Leadership in the Age of Generative AI: How New Software Management Positions Are Shaping Up | ZDNet</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-behind-the-scenes-developing-vegaspro-19/"><u>In 2024, Behind-the-Scenes Developing VegasPro '19</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/learn-sustainable-energy-practices-in-this-affordable-engineering-bootcamp-now-available-at-just-40-detailed-review-and-offer/"><u>Learn Sustainable Energy Practices in This Affordable Engineering Bootcamp Now Available at Just $40 - Detailed Review & Offer</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/secrets-to-successfully-arranging-information-rich-conversations-with-experts-a-non-intrusive-guide-by-zdnet/"><u>Secrets to Successfully Arranging Information-Rich Conversations With Experts - A Non-Intrusive Guide by ZDNet</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ify-your-path-to-youtube-short-mastery/"><u>Simplify Your Path to YouTube Short Mastery</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-free-artificial-intelligence-learning-programs-is-investing-in-an-ai-certificate-beneficial-zdnet-insights/"><u>Top Free Artificial Intelligence Learning Programs: Is Investing in an AI Certificate Beneficial? - ZDNet Insights</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Officially Unveiled: Full Roster of PS VR2 Titles Announced"
-date: 2024-08-20T09:58:05.440Z
-updated: 2024-08-21T09:58:05.440Z
+date: 2025-01-20T00:55:22.085Z
+updated: 2025-01-22T21:43:03.877Z
 categories:
   - BestProducts
 description: "This Article Describes Officially Unveiled: Full Roster of PS VR2 Titles Announced"
@@ -16,6 +16,10 @@ Close
  If you just picked up a[ PlayStation VR 2](https://www.lifewire.com/psvr-2-price-specs-news-5087719) and are wondering what to play on it, here's a list of every game that's compatible. All of these are[ available digitally via the PlayStation Store](https://store.playstation.com/en-us/pages/browse/1?PSVR2=productVrCompatibility) , but you can also buy physical copies of some of them at retail.
 
  After the full list, I've included some lists of recommendations if you're looking for something specific.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Every PSVR 2 Game, Alphabetically 
 
@@ -55,6 +59,10 @@ These games have all been announced, but some may not be out yet.
 
 ![A Fisherman's Tale](https://www.lifewire.com/thmb/SQvLDa9twYc17O5BjVy1iRN_KZ8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/AFishermansTale-23a53ec805f74de8a12a4fa77770b6e8.jpeg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 * _Big Shots_
 * _Black Hole Pool_
 * _Border Bots VR_
@@ -82,6 +90,10 @@ These games have all been announced, but some may not be out yet.
 * _Crossfire: Sierra Squad_
 
 ![Lo-Fi for PSVR 2](https://www.lifewire.com/thmb/A7ppkTn54GUEAXiEqED2bOrTD4U=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Lo-Fi-da10697954b04e91b58168691c3418df.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 * _CyubeVR_
 * _D-Day Enhanced_
@@ -168,6 +180,10 @@ These games have all been announced, but some may not be out yet.
 * _Pixel Ripped 1995_
 
 ![Screenshot of Walking Dead Saints and Sinners VR game](https://www.lifewire.com/thmb/dpqpTAB_v9-hQg5ZD3Gd0L2kMv0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ScreenShot2020-02-25at12.46.47PM-5d154df58fdb440c94c2812c33f4d897.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 * _Prison Boss VR_
 * _Project Wingman: Frontline 59_
@@ -264,6 +280,10 @@ These games have all been announced, but some may not be out yet.
 
 ![Screenshot from Resident Evil: The Village](https://www.lifewire.com/thmb/V6jQIWVtc6zr6YWGV4yhA1rhuhw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/RE_Village_Apr_2021_Screens_05-4177f157cd1d4760bf3ca5e7b5475d66.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ###  The Dark Pictures: Switchback VR 
 
 _The Dark Pictures_ developer Supermassive Games' original rail shooter,_Until Dawn: Rush of Blood_ , put players onto a terrifying rollercoaster ride full of scares and monsters from that title. The follow-up is the same idea, only it has four episodes to draw from the first "season" of_The Dark Pictures Anthology_ .
@@ -271,8 +291,9 @@ _The Dark Pictures_ developer Supermassive Games' original rail shooter,_Until D
 **Release Date** : March 2023
 
 <!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Resident Evil: Village 
 
  Capcom did PSVR 2 owners a huge service by making the entirety of 2021's_Resident Evil: Village_ playable in virtual reality. This version features manual reloads, the ability to dual-wield weapons, and a new perspective on just how tall internet-favorite vampire Lady Dimitrescu is.
@@ -285,9 +306,6 @@ _The Dark Pictures_ developer Supermassive Games' original rail shooter,_Until D
 
 **Release Date** : August 2023  
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Cosmodread 
 
  This rogue-like, space-based horror drops you into a huge, scary spaceship with a different layout every time you try. Your job is to escape to Earth, but all you have is a crossbow and a will to survive.
@@ -302,9 +320,6 @@ _The Dark Pictures_ developer Supermassive Games' original rail shooter,_Until D
 
 Polyphony Digital
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ###  Creed: Rise to Glory – Championship Edition 
 
  Fans of the_Creed_ movie series will have a blast stepping into the virtual ring._Rise to Glory: Championship Edition_ includes levels and fighters based on all three_Creeds_ , along with the ability to face off against legendary fighters like Apollo Creed, Rocky Balboa, and Ivan Drago.
@@ -313,25 +328,16 @@ Polyphony Digital
 
 **Release Date** : April 2023
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Gran Turismo 7 
 
  The_Gran Turismo_ series aims to be the most accurate racing simulator, so letting players feel like they're behind the wheel is a great match.
 
 **Release Date** : March 2022
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ###  2MD: VR Football Unleashed All-Star 
 
  While you don't have to do all the running yourself in this VR football game (that's what analog sticks are for), it will be up to you to block the defenders as you head for the end zone. This title prides itself on its passing physics, which will also exercise your arm.
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  The Best PSVR 2 Games to Relax With 
 
  Your VR gaming time doesn't have to be non-stop action. Plenty of options are available that will help you unwind at the end of your day.
@@ -339,11 +345,9 @@ Polyphony Digital
 ![Tetris Effect: Connected video game on Xbox One, Xbox Series X, PS4, PS5, and Windows PC.](https://www.lifewire.com/thmb/7roJV1mYBrPIndXhqDXNT8DVyhM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/tetris-effect-cheats-codes-and-secrets-04-09ea72d3f9a04970859a00d6f72e798f.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
+
 ### Puzzling Places 
 
  If you like jigsaw puzzles,_Puzzling Places_ will do you one better. You'll sit in a virtual space and assemble 3D versions of real places while a beautiful setting and ambient noise surround you. You can start easy with just a few pieces, but you can also go all the way up to 400 if you want an extra challenge.
@@ -360,9 +364,6 @@ Polyphony Digital
 
 **Release Date** : February 2023
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Kayak VR: Mirage 
 
 _Kayak VR: Mirage_ is a relaxing exploration game that takes you to Antarctica, Norway, and other locations in a tiny, virtual boat. You don't have many goals (although you can do races and speed trials), so you're free to paddle around and say hi to all the penguins.
@@ -375,9 +376,6 @@ _Kayak VR: Mirage_ is a relaxing exploration game that takes you to Antarctica, 
 
 ![Horizon: Call of the Mountain](https://www.lifewire.com/thmb/jD6wdUnV4hFDEByl5uWOt1b1YBc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/HorizonCalloftheMountain-702c4adc02cf4e5daf6e7de3702753f2.jpeg) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
-<!-- affiliate ads end -->
 ###  Horizon: Call of the Mountain 
 
  The_Horizon_ series tasks players with navigating a post-apocalyptic world filled with a bunch of dangerous, animal-themed robots. This VR entry tells a new story with more challenges, and you're still fighting cybernetic dinosaurs with a bow and arrow, so the spirit is still there.
@@ -405,8 +403,9 @@ _Kayak VR: Mirage_ is a relaxing exploration game that takes you to Antarctica, 
 ![Moss: Book II](https://www.lifewire.com/thmb/TGEAq5sFoTL_YrBre8udckU2X64=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/MossBook2-04fb9afd7f324c0c941778ea0926ede6.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Polyarc
 
 ### Moss and Moss: Book II 
@@ -415,11 +414,19 @@ Polyarc
 
 **Release Date** : March 2022
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Humanity 
 
  You are a heavenly Shiba Inu guiding vast mobs of people to their ascension in this admittedly weird but beautiful game. You'll tell your charges where to turn, where to jump, and which way to go to lead them to each level's exit. It's family-friendly for the cool visuals, forgiving difficulty, and 2D mode. Plus, you're a cool dog.
 
 **Release Date** : May 2023
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Tentacular 
 
@@ -454,8 +461,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -463,4 +468,26 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/updated-capture-and-replay-top-tools-to-secure-every-web-moment/"><u>[Updated] Capture & Replay Top Tools to Secure Every Web Moment</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-elevate-video-branding-incorporating-watermarks-into-youtube-media-for-2024/"><u>[Updated] Elevate Video Branding Incorporating Watermarks Into YouTube Media for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-av1-unveiled-for-the-curious-novice/"><u>2024 Approved AV1 Unveiled For the Curious Novice</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/cutting-edge-tech-insights-from-toms-comprehensive-equipment-reviews/"><u>Cutting-Edge Tech Insights From Tom's Comprehensive Equipment Reviews</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/earn-your-spot-on-spotifys-premium-platform-the-college-edition-savings-secrets/"><u>Earn Your Spot on Spotify's Premium Platform: The College Edition Savings Secrets</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/effective-remedies-for-the-missing-btballoondll-error-in-your-system/"><u>Effective Remedies for the Missing btballoon.dll Error in Your System</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1723862714665-exploring-computing-power-at-toms-hardware-hub-discover-top-gear/"><u>Exploring Computing Power at Tom's Hardware Hub - Discover Top Gear</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-fix-a-cmos-checksum-error/"><u>How to Fix a CMOS Checksum Error</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-fix-warzone-black-screen-2024-tips/"><u>How to Fix Warzone Black Screen – 2024 Tips</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-videos-on-samsung-galaxy-s21-fe-5g-2023-by-fonelab-android-recover-video/"><u>How to restore wiped videos on Samsung Galaxy S21 FE 5G (2023)</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-save-netflix-videos-onto-your-pc-or-mac/"><u>How To Save Netflix Videos Onto Your PC or Mac</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-upgrade-iphone-12-mini-to-the-latest-ios-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade iPhone 12 mini to the Latest iOS Version? | Dr.fone</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-understanding-watermarks-and-protecting-fb-pics/"><u>In 2024, Understanding Watermarks & Protecting FB Pics</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-switching-off-closed-captions-and-subtitles-in-amazons-prime-video-library/"><u>Step by Step: Switching Off Closed Captions and Subtitles in Amazon's Prime Video Library</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-solutions-for-ntldr-errors-on-your-computer/"><u>Step-by-Step Solutions for NTLDR Errors on Your Computer</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-choice-compact-gaming-pcs-the-ultimate-selection/"><u>Top Choice Compact Gaming PCs: The Ultimate Selection</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/troubleshooting-guide-solving-windows-11-shutdown-issues/"><u>Troubleshooting Guide: Solving Windows 11 Shutdown Issues</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unlock-the-formula-for-successful-skype-interviews-with-these-9-pro-tips/"><u>Unlock the Formula for Successful Skype Interviews with These 9 Pro Tips</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-when-samsung-galaxy-a24-has-black-screen-of-death-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do When Samsung Galaxy A24 Has Black Screen of Death? | Dr.fone</u></a></li>
+</ul></div>
 

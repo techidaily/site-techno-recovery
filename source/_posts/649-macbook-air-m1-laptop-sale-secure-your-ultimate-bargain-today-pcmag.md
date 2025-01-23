@@ -1,7 +1,7 @@
 ---
 title: "$649 MacBook Air M1 Laptop Sale: Secure Your Ultimate Bargain Today! | PCMag"
-date: 2025-01-15T20:28:59.326Z
-updated: 2025-01-17T00:35:20.164Z
+date: 2025-01-16T16:47:57.856Z
+updated: 2025-01-22T23:10:33.870Z
 tags:
   - apple
 categories:
@@ -42,7 +42,7 @@ At $649, this is the lowest price for the M1 version of the MacBook Air that we'
 The [M1 MacBook Air](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fmacbook-air-13-3-laptop-apple-m1-chip-8gb-memory-256gb-ssd-space-gray-space-gray%2F5721600.p%3FskuId%3D5721600&publisher_slug=itechdaily19598&exclusive=1) first retailed for $999 when it was released, but Apple sells refurbished versions for $799, making these deals even better than anything Apple is offering. The [M1 MacBook Air](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FApple-MacBook-Air-13-3-inch-Laptop-Silver-M1-Chip-8GB-RAM-256GB-storage%2F609040889&subId1=zd-__COM_CLICK_ID__-dtp) is available in three different colors: gold, space gray, and silver. Snag these savings while you can. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -81,24 +81,18 @@ However, deals are subject to sell out or expire at any time, though ZDNET remai
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-videos.techidaily.com/new-expert-guide-amplifying-your-tiktok-post-reach-with-hashtags-for-2024/"><u>[New] Expert Guide Amplifying Your TikTok Post Reach with Hashtags for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-transform-viewership-elevate-your-live-stream-game-with-just-a-few-supporters/"><u>[New] Transform Viewership Elevate Your Live Stream Game with Just a Few Supporters</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-2024-approved-prestigious-top-8-sites-combining-vivid-3d-graphics-and-luxe-text/"><u>[Updated] 2024 Approved Prestigious Top 8 Sites Combining Vivid 3D Graphics & Luxe Text</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-cyberlink-reviewed-precision-in-video-capturing-for-2024/"><u>[Updated] Cyberlink Reviewed Precision in Video Capturing for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/8-things-to-consider-before-buying-a-desktop-pc/"><u>8 Things to Consider Before Buying a Desktop PC</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/detecting-deceitful-networking-tips-for-uncovering-phony-social-invites-on-the-internet/"><u>Detecting Deceitful Networking: Tips for Uncovering Phony Social Invites on the Internet</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/discover-the-ultimate-guide-to-best-visual-voicemail-apps/"><u>Discover The Ultimate Guide to Best Visual Voicemail Apps</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/diy-fixes-for-chromecast-speaker-problems-getting-your-sounds-back/"><u>DIY Fixes for Chromecast Speaker Problems - Getting Your Sounds Back!</u></a></li>
-<li><a href="https://techtrends.techidaily.com/easy-methods-for-deleting-facebook-photographs-a-step-by-step-tutorial/"><u>Easy Methods for Deleting Facebook Photographs - A Step-by-Step Tutorial</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/1722886655628-fixing-computer-screen-discoloration-and-distortion-effective-solutions-inside/"><u>Fixing Computer Screen Discoloration and Distortion – Effective Solutions Inside!</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-oppo-find-x6-pro-device-by-drfone-android/"><u>Mastering Android Device Manager The Ultimate Guide to Unlocking Your Oppo Find X6 Pro Device</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/oculus-rift-s-mic-problem-try-these-5-quick-fixes-for-immediate-results/"><u>Oculus Rift S Mic Problem? Try These 5 Quick Fixes for Immediate Results</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/simple-guide-updating-your-default-sata-and-ahci-drive-controllers/"><u>Simple Guide: Updating Your Default SATA and AHCI Drive Controllers</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/step-by-step-solutions-for-fixing-zoom-camera-malfunctions/"><u>Step-by-Step Solutions for Fixing Zoom Camera Malfunctions</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/the-ultimate-guide-to-snappy-driver-installer-v1n13-performance-review-and-insights/"><u>The Ultimate Guide to Snappy Driver Installer v1.n13: Performance Review and Insights</u></a></li>
-<li><a href="https://driver-error.techidaily.com/this-is-an-article-for-this-case-the-daylightning-disease-of-the-other-handicaps/"><u>This Is an Article for This Case the Daylightning Disease of the Other Handicaps</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/transforming-ai-with-context-the-breakthrough-significance-of-gemini-v15-and-its-one-million-token-enhancement/"><u>Transforming AI with Context: The Breakthrough Significance of Gemini v1.5 and Its One Million Token Enhancement</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/understanding-and-repairing-faults-identified-during-power-on-self-test-post/"><u>Understanding and Repairing Faults Identified During Power-On Self Test (POST)</u></a></li>
-<li><a href="https://meme-emoji.techidaily.com/updated-in-2024-best-10-emoji-makers-to-create-your-own-emojispconlineandroidiphone/"><u>Updated In 2024, Best 10 Emoji Makers to Create Your Own EmojisPC/Online/Android/iPhone</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-windows-screen-imaging-technique/"><u>[New] 2024 Approved Windows Screen Imaging Technique</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-expert-tips-for-applying-apple-music-to-your-videos/"><u>[Updated] 2024 Approved Expert Tips for Applying Apple Music to Your Videos</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/can-you-believe-it-southwest-airlines-urges-customers-to-embrace-the-hilarious-new-initiative-zdnet/"><u>Can You Believe It? Southwest Airlines Urges Customers to Embrace the Hilarious New Initiative - ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/comparing-major-retailers-return-policies-amazon-walmart-target-and-others-zdnet/"><u>Comparing Major Retailers' Return Policies: Amazon, Walmart, Target & Others - ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/comparing-temu-and-amazon-determining-the-ultimate-online-marketplace-for-your-shopping-preferences/"><u>Comparing Temu and Amazon: Determining the Ultimate Online Marketplace for Your Shopping Preferences</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/effortless-panera-bread-deliveries-alexas-new-feature-that-eases-meal-orders/"><u>Effortless Panera Bread Deliveries: Alexa's New Feature That Eases Meal Orders!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/enhancing-realism-in-ai-discussions-via-tailored-instructions/"><u>Enhancing Realism in AI Discussions via Tailored Instructions</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/get-your-custom-sized-oura-smart-ring-from-target-and-more-tips-inside-articles-by-zdnet/"><u>Get Your Custom-Sized Oura Smart Ring From Target & More Tips Inside | Articles by ZDNet</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-spotify-location-after-moving-to-another-country-on-oneplus-ace-3-drfone-by-drfone-virtual-android/"><u>How to Change Spotify Location After Moving to Another Country On OnePlus Ace 3 | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-unlink-your-iphone-13-pro-from-your-apple-id-by-drfone-ios/"><u>In 2024, How To Unlink Your iPhone 13 Pro From Your Apple ID</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/proven-ways-to-fix-there-was-a-problem-parsing-the-package-on-oneplus-11-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Proven Ways to Fix There Was A Problem Parsing the Package on OnePlus 11 5G | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/unlocking-made-easy-the-best-10-apps-for-unlocking-your-meizu-21-device-by-drfone-android/"><u>Unlocking Made Easy The Best 10 Apps for Unlocking Your Meizu 21 Device</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unmissable-september-october-cyber-monday-discounts-on-samsung-products-find-and-save-today/"><u>Unmissable September-October Cyber Monday Discounts on Samsung Products – Find & Save Today!</u></a></li>
 </ul></div>
 

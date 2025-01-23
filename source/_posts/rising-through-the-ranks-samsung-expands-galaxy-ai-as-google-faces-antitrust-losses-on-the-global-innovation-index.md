@@ -1,7 +1,7 @@
 ---
 title: "Rising Through the Ranks: Samsung Expands Galaxy AI as Google Faces Antitrust Losses on the Global Innovation Index"
-date: 2025-01-14T21:40:50.308Z
-updated: 2025-01-17T01:51:47.560Z
+date: 2025-01-15T19:00:36.819Z
+updated: 2025-01-22T17:01:01.859Z
 tags:
   - apple
 categories:
@@ -71,21 +71,26 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/he-artisans-approach-to-crafting-channel-identities-for-2024/"><u>[New] The Artisan's Approach to Crafting Channel Identities for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/asmr-quality-meets-economic-realities/"><u>ASMR Quality Meets Economic Realities</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-and-install-soundmax-audio-drivers-for-windows-systems/"><u>Download & Install SoundMax Audio Drivers for Windows Systems</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-come-up-with-the-best-pokemon-team-on-motorola-moto-g23-drfone-by-drfone-virtual-android/"><u>In 2024, How to Come up With the Best Pokemon Team On Motorola Moto G23? | Dr.fone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/nsp4dll-not-detected-heres-how-to-resolve-the-issue/"><u>nsp4.dll Not Detected? Here’s How to Resolve the Issue</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/optimizing-gaming-performance-on-sony-ps5-through-ssd-hard-drive-replacement/"><u>Optimizing Gaming Performance on Sony PS5 Through SSD Hard Drive Replacement</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/scooping-tech-step-by-step-guide-to-screen-recording-for-2024/"><u>Scooping Tech Step-by-Step Guide to Screen Recording for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/silence-running-apps-on-windows-11/"><u>Silence Running Apps on Windows 11</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/step-by-step-guide-integrating-audio-into-your-reels-for-2024/"><u>Step-by-Step Guide Integrating Audio Into Your Reels for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/unleash-your-reading-habit-explore-our-pick-of-the-top-17-free-e-book-websites/"><u>Unleash Your Reading Habit: Explore Our Pick of the Top 17 Free E-Book Websites</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/unlocking-concealed-ios-apps-your-ultimate-how-to-manual/"><u>Unlocking Concealed iOS Apps: Your Ultimate How-To Manual</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/1722900788783-what-to-binge-on-max-right-now-our-expert-selection/"><u>What to Binge on Max Right Now? Our Expert Selection</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-free-and-open-top-7-laptop-dvd-player-software-options/"><u>[New] 2024 Approved Free & Open Top 7 Laptop DVD Player Software Options</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-step-by-step-screenshot-procedures-for-hp-devices/"><u>[New] 2024 Approved Step-by-Step Screenshot Procedures for HP Devices</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-premium-android-photography-alterations-for-2024/"><u>[New] Premium Android Photography Alterations for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-unleashing-potential-vr-innovations-for-fun-and-games-for-2024/"><u>[Updated] Unleashing Potential VR Innovations for Fun & Games for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/2023s-ultimate-selection-of-eco-friendly-solar-lanterns-highlights-and-reviews-cnet/"><u>2023'S Ultimate Selection of Eco-Friendly Solar Lanterns - Highlights & Reviews | CNET</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-utilizing-slug-lines-for-better-content-structure/"><u>2024 Approved Utilizing Slug Lines for Better Content Structure</u></a></li>
+<li><a href="https://some-tips.techidaily.com/discover-the-exclusive-new-functions-available-with-specific-apple-airpods-versions-this-fall-full-coverage/"><u>Discover the Exclusive New Functions Available with Specific Apple AirPods Versions This Fall – Full Coverage</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/enhance-your-home-automation-with-samsungs-latest-innovation-the-smartthings-station-zdnet/"><u>Enhance Your Home Automation with Samsung's Latest Innovation: The SmartThings Station | ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/expert-picks-ultimate-guide-to-the-most-reliable-portable-car-starters-of-2024-auto-innovators/"><u>Expert Picks: Ultimate Guide to the Most Reliable Portable Car Starters of 2024 | Auto Innovators</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/hikianalia/"><u>Hikianalia</u></a></li>
+<li><a href="https://extra-information.techidaily.com/immersive-adventures-await-top-10-innovative-pc-vr-streamers-reviewed/"><u>Immersive Adventures Await Top 10 Innovative PC VR Streamers Reviewed</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/navigating-through-samsungs-digital-picture-editing-app/"><u>Navigating Through Samsung's Digital Picture Editing App</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/smart-energy-solutions-unveiling-the-superior-charging-cells-pcmag/"><u>Smart Energy Solutions: Unveiling the Superior Charging Cells – PCMag</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-ultimate-guide-to-the-bigblue-cp500-portable-charger-on-zdnet-small-size-mighty-performance-and-flexible-usage-options/"><u>The Ultimate Guide to the BigBlue CP500 Portable Charger on ZDNET: Small Size, Mighty Performance & Flexible Usage Options</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-rated-entry-level-portable-charger-a-comprehensive-review-of-the-ecoflow-river/"><u>Top Rated Entry-Level Portable Charger: A Comprehensive Review of the EcoFlow River</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-rated-flashlights-industry-experts-picks-tech-review-on-zdnet/"><u>Top-Rated Flashlights : Industry Experts' Picks | Tech Review on ZDNet</u></a></li>
+<li><a href="https://facebook.techidaily.com/unveiling-hints-of-facebooks-upcoming-identity-change/"><u>Unveiling Hints of Facebook's Upcoming Identity Change</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 

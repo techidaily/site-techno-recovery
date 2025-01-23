@@ -1,7 +1,7 @@
 ---
 title: Diagnose and Fix 504 Gateway Timing Out Glitches Easily
-date: 2024-08-20T09:56:10.270Z
-updated: 2024-08-21T09:56:10.270Z
+date: 2025-01-20T19:45:10.783Z
+updated: 2025-01-23T02:13:38.218Z
 categories:
   - BestProducts
 description: This Article Describes Diagnose and Fix 504 Gateway Timing Out Glitches Easily
@@ -14,6 +14,10 @@ thumbnail: https://www.lifewire.com/thmb/Vz8N0CGiSitBjtOwThdTicT4eAE=/400x300/fi
 The best cable modem/router combos will do the same job at a fraction of the cost of two devices, and in a far more straightforward way, with fewer cables and power plugs.
 
  However, not all modems work with all providers, and you'll need to ensure the unit you buy is compatible with your cable company (such as Spectrum, Cox, or AT&T). Compatibility information can usually be found on your cable provider's website. If not, it's best to call and check before you buy.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Best Overall
 
@@ -49,6 +53,10 @@ PHOTO: Amazon
  One more caveat is that if your internet connection includes a voice package (confusingly called VOIP, you'll know if you have it as you will have a phone number as part of your internet package), you'll need to look at this model's older brother: the[Motorola MT7711](https://www.amazon.com/dp/B07GX2ZQXG/?tag=lifewire-onsite-prod-20&ascsubtag=4082541%7Cnb2837cc0a07640b28e632f95df0f8e6713%7C) .
 
 ![Motorola MG7700](https://www.lifewire.com/thmb/djrbmUe-WrBQ_Tx-xD6258JjBmU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/4082541-3-4-5c8faefcc9e77c0001a926be.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fastest
 
@@ -86,9 +94,6 @@ PHOTO: Amazon
 
 Lifewire / Claire Cohen
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Or Maybe These?
 
 * **I want to splurge.** The[Netgear Nighthawk Cable Modem and WiFi 6 Router Combo (CAX80)](https://www.amazon.com/dp/B082XW53G3/?tag=lifewire-onsite-prod-20&ascsubtag=4082541%7Cnb2837cc0a07640b28e632f95df0f8e6713%7C) has all the wireless bells and whistles you could ask for, and it's excellent for gaming.
@@ -98,37 +103,33 @@ Lifewire / Claire Cohen
 ## What to Look for in a Modem/Router Combo
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Bandwidth
 
  To take full advantage of the bandwidth your ISP provides, you'll need a modem/router combo that, at the very least, matches, and ideally exceeds, the top speed promised by your provider. The maximum bandwidth is indicated in gigabits per second (Gbps) and is usually prominently displayed in a modem/router's title or description.
 
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Bands
 
  Routers are increasingly offering multiple data bands (think of traffic lanes) to reduce bottlenecking and increase efficiency in directing network traffic. Dual-band devices typically supply 2.4 GHz and 5 GHz bands, with the 5 GHz band providing more peak bandwidth. Tri-band routers provide an additional 5 GHz band to sort devices into, reducing congestion when multiple devices are attached to a network simultaneously.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Range
 
  Nearly any modem/router combo will provide ample coverage for your entire living space if you live in an apartment or modest home. However, pay close attention to the range indicated by the model you're considering for larger homes. You may also want to consider a modem/router with beamforming technology, which shapes the signal from the router into a tighter beam to direct it toward specific devices, delivering a more robust and faster signal. Alternatively, you may be better off with a separate[cable modem](https://www.lifewire.com/what-is-a-cable-modem-5181545) and a[mesh network](https://www.lifewire.com/what-is-a-mesh-network-4842178) .  
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
-<!-- affiliate ads end -->
 ### Ethernet Ports
 
  Ensure your router has enough Ethernet ports for the devices you want to plug in. If you have an internet plan that offers speeds above 100 Mbps, you'll want to get one with [Gigabit Ethernet](https://www.lifewire.com/definition-of-gigabit-ethernet-816338) ports to take maximum advantage of your plan.  
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Wi-Fi Standards
 
  Unless you have a basic internet plan, you'll want support for relatively modern Wi-Fi standards. On the Wi-Fi side, a cable modem/router combo works the same as any other wireless router, meaning you'll choose from the same Wi-Fi standards and frequencies, such as [802.11n](https://www.lifewire.com/802-11n-wireless-network-818281) and [802.11ac](https://www.lifewire.com/802-11ac-in-wireless-networking-818284) , which have recently been redesignated as _Wi-Fi 4_ and _Wi-Fi 5_ , respectively to make life easier. You may also have heard of the newer [Wi-Fi 6 802.11ax](https://www.lifewire.com/wi-fi-6-802-11-ax-4797345) standard, which is starting to appear.
@@ -168,8 +169,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -177,4 +176,20 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/024-approved-gaming-channel-evolution-best-14-video-ideas-on-youtube/"><u>[New] 2024 Approved Gaming Channel Evolution Best 14 Video Ideas on YouTube</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-bridging-video-and-gif-a-practical-path-from-vimeo-to-animation-for-2024/"><u>[New] Bridging Video and GIF A Practical Path From Vimeo to Animation for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-streamline-your-instagram-content-free-mp4-exporters-for-windowsmac-users/"><u>[Updated] Streamline Your Instagram Content Free MP4 Exporters for Windows/Mac Users</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-the-ultimate-picks-for-gameplay-footage-for-2024/"><u>[Updated] The Ultimate Picks for Gameplay Footage for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/clear-your-macs-dns-history-a-comprehensive-how-to-tutorial/"><u>Clear Your Mac's DNS History: A Comprehensive How-To Tutorial</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-3-ways-to-unlock-your-apple-iphone-14-pro-max-for-free-by-drfone-ios/"><u>In 2024, 3 Ways to Unlock Your Apple iPhone 14 Pro Max for Free</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-what-is-a-sim-network-unlock-pin-get-your-google-pixel-7a-phone-network-ready-by-drfone-android/"><u>In 2024, What Is a SIM Network Unlock PIN? Get Your Google Pixel 7a Phone Network-Ready</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/mastering-gaming-top-console-contenders-to-watch/"><u>Mastering Gaming: Top Console Contenders to Watch</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/seamless-stream-to-song-transition-with-top-video-mp3-tools-for-2024/"><u>Seamless Stream-to-Song Transition with Top Video-MP3 Tools for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-complete-guide-to-resolving-408-request-timeouts-on-your-website/"><u>The Complete Guide to Resolving 408 Request Timeouts on Your Website</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-ultimate-solution-for-overcoming-the-nsp4dll-is-absent-error/"><u>The Ultimate Solution for Overcoming the 'nsp4.dll Is Absent' Error</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unlocking-apple-tv-potential-a-step-by-step-approach-to-optimal-use/"><u>Unlocking Apple TV Potential: A Step-by-Step Approach to Optimal Use</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-is-fake-gps-location-pro-and-is-it-good-on-nokia-c110-drfone-by-drfone-virtual-android/"><u>What is Fake GPS Location Pro and Is It Good On Nokia C110? | Dr.fone</u></a></li>
+</ul></div>
 

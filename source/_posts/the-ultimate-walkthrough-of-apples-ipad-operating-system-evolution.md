@@ -1,7 +1,7 @@
 ---
 title: The Ultimate Walkthrough of Apple's iPad Operating System Evolution
-date: 2024-08-20T09:56:05.705Z
-updated: 2024-08-21T09:56:05.705Z
+date: 2025-01-17T06:00:20.296Z
+updated: 2025-01-22T17:13:00.816Z
 categories:
   - BestProducts
 description: This Article Describes The Ultimate Walkthrough of Apple's iPad Operating System Evolution
@@ -22,6 +22,10 @@ thumbnail: https://www.lifewire.com/thmb/NWCRNCsSupY3d-oGUdiA8lFRbk0=/400x300/fi
 
  Like clockwork, Google's next Pixel phones will hit the shelves later this year. They're expected to come with new software features, better hardware, and a new, pill-shaped camera design. And rumor has it there will be a larger XL model and a successor to the[Pixel Fold](https://www.lifewire.com/google-pixel-fold-5181117) , all released simultaneously.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## When Will the Google Pixel 9 Be Released?
 
  Google is predicted to debut not only the Pixel 9 and Pixel 9 Pro but also the Pixel 9 Pro XL and Pixel 9 Pro Fold (aka[Pixel Fold 2](https://www.lifewire.com/google-pixel-fold-2-8625299) ). All of these phones will likely be announced at the same event.[Follow our Google Event page](https://www.lifewire.com/google-event-5205756) for those updates.
@@ -29,6 +33,10 @@ thumbnail: https://www.lifewire.com/thmb/NWCRNCsSupY3d-oGUdiA8lFRbk0=/400x300/fi
 ### Lifewire's Release Date Estimate
 
 We anticipate an August 2024 event to showcase the Pixel 9 phones.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Google Pixel 9 Price Rumors
 
@@ -41,18 +49,6 @@ We anticipate an August 2024 event to showcase the Pixel 9 phones.
 * **Pixel 9 Pro XL** \- $1,199
 * **Pixel 9 Pro Fold** \- $1,799
 
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Pre-Order Information
 
  You can't pre-order the Pixel 9 just yet. We'll drop the link here when pre-ordering starts, which will likely be the same day Google unveils the phones.
@@ -60,8 +56,9 @@ We anticipate an August 2024 event to showcase the Pixel 9 phones.
 [The Best Waterproof Phone Cases of 2024](https://www.lifewire.com/best-waterproof-phone-cases-4158190)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Google Pixel 9 Features
 
  The Pixel 9 phones will ship with[Android 15](https://www.lifewire.com/android-15-7547471) . Here are some of the new features that are expected to arrive on the 2024 Pixel phones:
@@ -75,9 +72,6 @@ We anticipate an August 2024 event to showcase the Pixel 9 phones.
 
  Nothing is confirmed until Google makes it official in October. But here's what we've gathered so far from supposed leaks and rumors:  
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Display
 
  Interestingly, the Pixel 9's screen might be a little smaller than the one on the Pixel 8\. It's not a huge change—6.03 inches versus 6.1 inches—but it does seem a bit weird when you think about it. One might assume an upgraded phone means it'll be bigger (or at least stay the same size), but not get_smaller_ .
@@ -88,14 +82,13 @@ We anticipate an August 2024 event to showcase the Pixel 9 phones.
 
  Below is[MySmartPrice's](https://www.mysmartprice.com/gear/pixel-9-pro-5k-renders-360-degree-video-exclusive/) take on what the Pixel 9 Pro XL might look like. You can see its thin bezels and new camera layout.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
-<!-- affiliate ads end -->
 ### Performance
 
  The Tensor G4 will likely power all four Pixel 9 phones. This is an expected upgrade, given the Pixel 8's Tensor G3 chip.[According to Android Authority](https://www.androidauthority.com/pixel-9-sos-satellite-connectivity-3433498/) , this chip will include the more power-efficient and faster Samsung Modem 5400, which may also introduce support for satellite-based messaging.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Cameras
 
@@ -115,18 +108,6 @@ MySmartPrice
 
  Some evidence to support this comes from the fact that Liyu Yang, one of the board of directors at the Wireless Power Consortium (the publisher of the Qi standard) is a senior hardware engineer at Google who's[leading the design of next-gen wireless charging platforms for future Pixel products](https://www.wirelesspowerconsortium.com/blog-pages/wpc-welcomes-new-board-member/) .
 
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Other Specs
 
  Another big change we might see with the Pixel 9 is a new fingerprint sensor. Google's past phones have used an optical fingerprint sensor, but an unnamed source informed_Android Authority_ that[this year's phones could come with an ultrasonic reader](https://www.androidauthority.com/pixel-9-fingerprint-scanner-3456801/) . This is the same technology used in the Samsung Galaxy S24 and other smartphones. Instead of imaging the finger with light, it takes a 3D map using sound waves, which is supposed to make it faster and more secure.
@@ -136,8 +117,9 @@ MySmartPrice
  There's no word yet on the phone's storage capacity, but we think it will remain the same. That means 128 GB or 256 GB for the base model and up to 1 TB for the Pro models. The first Pixel Fold caps out at 512 GB but we think the Pixel 9 Pro Fold will add a terabyte option.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## The Latest News About the Google Pixel 9
 
  You can [get more smartphone news from Lifewire](https://www.lifewire.com/mobile-phone-news-4796390) . Below are stories about Google devices specifically.
@@ -146,14 +128,11 @@ MySmartPrice
 
 [Surprise: Google's Find My May Be More Private Than Apple's](https://www.lifewire.com/google-find-my-device-better-than-apple-8629920)
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -162,4 +141,22 @@ MySmartPrice
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/ersatile-online-creations-simple-and-inclusive-ideas-for-your-first-videos-for-2024/"><u>[New] Versatile Online Creations Simple and Inclusive Ideas for Your First Videos for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-in-2024-the-ultimate-visual-companion-premium-webcams-for-podcasts/"><u>[Updated] In 2024, The Ultimate Visual Companion Premium Webcams for Podcasts</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-real-world-perceptions-of-vllo/"><u>2024 Approved Real-World Perceptions of VLLO</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/diving-into-apples-world-ipad-mini-vs-ipad-air-a-comprehensive-review/"><u>Diving Into Apple's World: IPad Mini vs iPad Air - A Comprehensive Review</u></a></li>
+<li><a href="https://program-issues.techidaily.com/dota-2-latency-solutions-top-tricks-to-achieve-zero-lag/"><u>Dota 2 Latency Solutions: Top Tricks to Achieve Zero Lag</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/easy-ways-to-clean-up-and-remove-apps-on-your-apple-computer/"><u>Easy Ways to Clean Up and Remove Apps on Your Apple Computer</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/is-it-possible-to-uninstall-pre-installed-ios-applications-on-your-iphone/"><u>Is It Possible to Uninstall Pre-Installed iOS Applications on Your iPhone?</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/key-considerations-when-buying-a-high-performance-gaming-computer/"><u>Key Considerations When Buying a High-Performance Gaming Computer</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/leveraging-frameworks-like-bootstrap-for-rapid-prototyping-for-2024/"><u>Leveraging Frameworks Like Bootstrap for Rapid Prototyping for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-guide-resolving-cmos-battery-failure-issues/"><u>Step-by-Step Guide: Resolving CMOS Battery Failure Issues</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-most-effective-registry-repair-software-of-2024-unveiling-26-free-solutions-to-keep-your-pc-running-smoothly/"><u>The Most Effective Registry Repair Software of 2024: Unveiling 26 Free Solutions to Keep Your PC Running Smoothly</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-rated-travel-vpn-services-comprehensive-reviews-by-tech-experts-pcmag/"><u>Top-Rated Travel VPN Services : Comprehensive Reviews by Tech Experts | PCMag</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/ultimate-guide-to-cutting-edge-ssds-of-202e-performance-and-value-insights-pcmag/"><u>Ultimate Guide to Cutting-Edge SSDs of 202E: Performance and Value Insights - PCMag</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ultimate-tutorial-how-to-easily-create-screenshots-on-your-computer/"><u>Ultimate Tutorial: How to Easily Create Screenshots on Your Computer</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlock-more-games-add-an-sd-card-to-your-steam-deck/"><u>Unlock More Games: Add an SD Card to Your Steam Deck</u></a></li>
+</ul></div>
 

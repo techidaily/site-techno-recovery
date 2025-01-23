@@ -1,7 +1,7 @@
 ---
 title: Top 10 Iconic '80S Films You Must See Today
-date: 2024-08-20T09:57:54.094Z
-updated: 2024-08-21T09:57:54.094Z
+date: 2025-01-20T04:20:07.201Z
+updated: 2025-01-23T03:21:53.133Z
 categories:
   - BestProducts
 description: This Article Describes Top 10 Iconic '80S Films You Must See Today
@@ -52,6 +52,10 @@ of 08
 
 ![Pandora iPhone app](https://www.lifewire.com/thmb/db9t_AdOM4gu0ol8U1N07gT_C3I=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/006_best-free-music-app-iphone-2000170-5c4636e346e0fb000175c16a.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  What We Like
 
 * Personalized based on song, artist, or genre.
@@ -76,12 +80,13 @@ of 08
 
 of 08
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## [iHeartRadio](https://www.iheart.com/)
 
 ![iHeart Radio iPhone app](https://www.lifewire.com/thmb/72tWWTBTrXes3kKyOcbj_ru7q_Q=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/005_best-free-music-app-iphone-2000170-5c4636cb46e0fb000175bc7e.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  What We Like
 
@@ -112,8 +117,9 @@ of 08
 ![TuneIn iPhone app](https://www.lifewire.com/thmb/qHovoOdPaSvr-qiPn4jhyewlQ-M=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/012_best-free-music-app-iphone-2000170-5c46379046e0fb000161c31c.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  What We Like
 
 * Live radio from around the world.
@@ -139,6 +145,10 @@ of 08
 05
 
 of 08
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## [SoundCloud](https://www.lifewire.com/soundcloud-review-1357070)
 
@@ -170,25 +180,10 @@ of 08
 
 of 08
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## [Uforia](https://www.univision.com/radio/aplicacion-de-radio-univision-movil)
 
 ![Uforia Music iPhone app](https://www.lifewire.com/thmb/T_oQQ4odHAjGfH_acZqft23yCPw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/013_best-free-music-app-iphone-2000170-5c4637e8c9e77c000135de6f.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  What We Like
 
 * Available in English and Spanish.
@@ -216,9 +211,6 @@ of 08
 
 ![8Tracks iPhone app](https://www.lifewire.com/thmb/2B2wT2DASmKSM1uY-A6hHHETod0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_best-free-music-app-iphone-2000170-5c463660c9e77c00015360b4.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  What We Like
 
 * 2 million+ playlists by artist, genre, or mood.
@@ -242,13 +234,18 @@ of 08
 
 of 08
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## [LiveOne Music](https://www.liveone.com/)
 
 ![LiveOne Music app for iOS](https://www.lifewire.com/thmb/Ns_DL0iBmhe-bhELseMhgot2u68=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/008_best-free-music-app-iphone-2000170-a3173cfa46744732a99fdd8b8b07ea8b.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  What We Like
 
 * High-quality, curated music programming.
@@ -291,8 +288,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -300,4 +295,16 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-lessons.techidaily.com/new-best-zoom-webcams-top-picks-of-the-season/"><u>[New] Best Zoom Webcams – Top Picks of the Season</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-premiere-pro-rapid-transitions/"><u>[Updated] 2024 Approved Premiere Pro Rapid Transitions</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-best-10-mock-location-apps-worth-trying-on-zte-nubia-z60-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, Best 10 Mock Location Apps Worth Trying On ZTE Nubia Z60 Ultra | Dr.fone</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-gamers-choice-best-alternatives-to-official-recorder/"><u>In 2024, Gamer's Choice Best Alternatives to Official Recorder</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-absence-of-spare-wheels-in-electric-vehicles-unraveling-the-mystery/"><u>The Absence of Spare Wheels in Electric Vehicles: Unraveling the Mystery</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-financial-breakdown-of-getting-your-teslas-battery-swapped-out/"><u>The Financial Breakdown of Getting Your Tesla's Battery Swapped Out</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-process-explained-how-are-ev-batteries-interchanged/"><u>The Process Explained: How Are EV Batteries Interchanged?</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/tough-missions-await-the-contingency-of-additional-launches-for-stranded-starliner-crew-members/"><u>Tough Missions Await: The Contingency of Additional Launches for Stranded Starliner Crew Members</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/1728469564311-windows-7/"><u>Windows 7: セレクティブなファイルのみバックアップを最適化してください</u></a></li>
+</ul></div>
 

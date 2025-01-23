@@ -1,7 +1,7 @@
 ---
 title: Unveiling the Greatest '80S Cinema Classics to Binge-Watch Today
-date: 2024-08-20T09:59:33.291Z
-updated: 2024-08-21T09:59:33.291Z
+date: 2025-01-17T22:26:35.465Z
+updated: 2025-01-22T22:06:37.123Z
 categories:
   - BestProducts
 description: This Article Describes Unveiling the Greatest '80S Cinema Classics to Binge-Watch Today
@@ -18,6 +18,10 @@ Close
 01
 
 of 10
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## [ Because We Should Always Listen to the Scientists: Aliens (1986)](https://www.imdb.com/title/tt0090605/) 
 
@@ -49,6 +53,10 @@ of 10
 
 !["TRON" 30th Anniversary Party And Screening](https://www.lifewire.com/thmb/58s5jVryGFZd07tSO8UnJ5Vx8NM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/TronGettyImages-162143100-73674b290e9842319cd8e1d2df71af63.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Albert L. Ortega / WireImage / Getty
 
 **IMDb Rating** : 6.8
@@ -75,9 +83,6 @@ of 10
 
 ![Harrison Ford on the set of "Raiders of the Lost Ark"](https://www.lifewire.com/thmb/XEX8V1_fx3ZOsdsr2LBnAPBi8fI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/IndianaJonesGettyImages-607390388-389c1ff6bc4849fa91a587571957abdc.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
-<!-- affiliate ads end -->
 Sunset Boulevard / Corbis / Getty Images
 
 **IMDb Rating** : 8.4
@@ -109,8 +114,9 @@ of 10
 ![Scene from Flashdance](https://www.lifewire.com/thmb/_iH7SBTUcbSutWdY3yEWQdu0j2A=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/flasdance-9f20676f8858499d8e6626465eea1a8b.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **IMDb Rating** : 6.2
 
 **Genre** : Drama, Music, Romance
@@ -132,16 +138,13 @@ of 10
 of 10
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## [ Epic Entrepreneurs: Ghostbusters (1984)](https://www.imdb.com/title/tt0087332/) 
 
 ![Rick Moranis And Sigourney Weaver In 'Ghostbusters'](https://www.lifewire.com/thmb/OL4auz0ISwaXB3fks5jnOudF7yo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/rick-moranis-and-sigourney-weaver-in--ghostbusters--156481765-acca6060b908497091c671f4ca5a113d.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Archive Photos / Getty Images 
 
 **IMDb Rating** : 7.8
@@ -195,8 +198,9 @@ serts / Getty Images
 of 10
 
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## [ A Crash Course in Commodities Trading: Trading Places (1983)](https://www.imdb.com/title/tt0086465/) 
 
 ![Trading Places](https://www.lifewire.com/thmb/kHet2-KReOQ8zZSc9MxFkyY8bIQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/trading-places-531982267-01764c58c6c7451c8f6a5777ca07dd8e.jpg) 
@@ -223,16 +227,10 @@ of 10
 
 of 10
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## [ Double-Crossing Diamond Thieves: A Fish Called Wanda (1988)](https://www.imdb.com/title/tt0095159/) 
 
 ![Wanda Cast](https://www.lifewire.com/thmb/9Tm60mUVnQOLYN6DOJ_EQtmWxIU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/wanda-cast-51245938-6c79f0d8d31f48a6b98f7eb97727d510.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  MGM Studios / Getty Images 
 
 **IMDb Rating** : 7.5
@@ -259,6 +257,10 @@ of 10
 
 ![Scene from Do the Right Thing by Spike Lee](https://www.lifewire.com/thmb/4xxf-CRKuG05Y0xe_WT2ByA2n50=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Dotherightthing-7f8c231a089141a4a657924663812976.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Getty Imges
 
 **IMDb Rating** : 8.0
@@ -281,13 +283,14 @@ Getty Imges
 
 of 10
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## [ Best Fast Food Knock-Off: Coming to America (1988)](https://www.imdb.com/title/tt0094898/) 
 
 !["Coming to America" starring Eddie Murphy](https://www.lifewire.com/thmb/KIj9HMUTT5Ol-2FQ1Vpa6czpbOM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ComingtoAmerica-c75763caed7e44f8a34c3f589dd4ad5c.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 Paramount
 
 **IMDb Rating** : 7.0
@@ -326,8 +329,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -335,4 +336,24 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-the-ultimate-viewer-writers-guide/"><u>[New] In 2024, The Ultimate Viewer' Writers Guide</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/nleash-your-live-stream-potential-with-superior-webcam-tech-for-2024/"><u>[New] Unleash Your Live Stream Potential with Superior Webcam Tech for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/can-i-expect-variable-response-length-in-chatgpt-conversations/"><u>Can I Expect Variable Response Length in ChatGPT Conversations?</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/essential-troubleshooting-steps-to-fix-coredll-cannot-be-located/"><u>Essential Troubleshooting Steps to Fix 'Core.dll Cannot Be Located'</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/fix-your-netflix-glitches-a-guide-to-unstucking-movie-and-series-titles/"><u>Fix Your Netflix Glitches: A Guide to Unstucking Movie and Series Titles</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/fixing-no-sound-problems-for-a-smooth-streaming-experience-with-chromecast/"><u>Fixing No Sound Problems for a Smooth Streaming Experience with Chromecast</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-record-and-send-sound-messages-using-iphone-features/"><u>How to Record and Send Sound Messages Using iPhone Features</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-a-guide-to-gathering-gold-from-guided-goods-gazes-online/"><u>In 2024, A Guide to Gathering Gold From Guided Goods' Gazes Online</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-delete-gmail-account-withwithout-password-on-honor-x50i-by-drfone-android/"><u>In 2024, Delete Gmail Account With/Without Password On Honor X50i</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-change-your-apple-iphone-se-2020-apple-id-on-macbook-by-drfone-ios/"><u>In 2024, How To Change Your Apple iPhone SE (2020) Apple ID on MacBook</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-what-legendaries-are-in-pokemon-platinum-on-oppo-find-x7-drfone-by-drfone-virtual-android/"><u>In 2024, What Legendaries Are In Pokemon Platinum On Oppo Find X7? | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/mastering-the-art-of-responding-with-gifs-on-instagram/"><u>Mastering the Art of Responding with GIFs on Instagram</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/navigate-with-ease-using-live-view-feature-on-google-maps-complete-tutorial/"><u>Navigate with Ease Using Live View Feature on Google Maps - Complete Tutorial</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-fcpx-skin-retouching-a-plugin-free-guide-to-flawless-skin-for-2024/"><u>New FCPX Skin Retouching A Plugin-Free Guide to Flawless Skin for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/restore-clarity-to-your-monitor-effective-solutions-for-color-abnormalities-and-visual-distortions/"><u>Restore Clarity to Your Monitor: Effective Solutions for Color Abnormalities & Visual Distortions</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/-3d-intro-makers-for-youtube-videos/"><u>Top 5 3D Intro Makers for YouTube Videos</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unveiling-the-reasons-behind-the-shutdown-of-yahoo-messenger/"><u>Unveiling the Reasons Behind the Shutdown of Yahoo! Messenger</u></a></li>
+</ul></div>
 

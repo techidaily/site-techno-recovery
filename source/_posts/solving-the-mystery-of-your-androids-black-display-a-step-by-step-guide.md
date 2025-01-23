@@ -1,7 +1,7 @@
 ---
 title: "Solving the Mystery of Your Android's Black Display: A Step-by-Step Guide"
-date: 2024-08-20T09:55:30.372Z
-updated: 2024-08-21T09:55:30.372Z
+date: 2025-01-21T18:13:57.679Z
+updated: 2025-01-23T01:13:41.713Z
 categories:
   - BestProducts
 description: "This Article Describes Solving the Mystery of Your Android's Black Display: A Step-by-Step Guide"
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/7463aefc3bf7373e7e8450adfdbb24d271ecbb972
 
  This article explains how to get 120 frames per second—which you'll also see as "FPS" or "Hz"–on PS5\. Not every game on PS5 supports this option, so while you can prep your console for it, it won't work for every title.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Turn On 120 FPS on PS5
 
  Most games that support 120 FPS also have other graphical modes that run at different frame rates, like 30 FPS and 60 FPS. You'll want to check your in-game settings for a 120 FPS toggle or a "Performance Mode" that you can turn on.
@@ -31,14 +35,25 @@ thumbnail: https://thmb.techidaily.com/7463aefc3bf7373e7e8450adfdbb24d271ecbb972
 3. Choose**Video Output** on the left side of the screen.  
 ![Video Output in PS5 Screen and Video settings](https://www.lifewire.com/thmb/Xgk1MNv2WwvyRO7tv2bHEF4oiqo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Video-Output-46b505f379064535ac4977a29faee336.jpg)
 4. Select**120 Hz Output** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![120 Hz Output in PS5 settings](https://www.lifewire.com/thmb/hxj9hKX_96UCkA07Y8Rzo91hvKo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/120-Output-9e18a336656f4caf97cc91724b032df2.jpg)
 5. Select**Automatic** (you won't have an**On** option because not every game supports 120 Hz output).  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![The "Automatic" option ](https://www.lifewire.com/thmb/N0N2mbCdwDADtM0UH7Q50TlNT2U=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Automatic-8261fa6f79014410bb3948ebcbcac568.jpg)
 6. Now, if a game has an option for 120 frames per second and you turn it on, your PS5 will output at that rate.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## What You Need to Get 120 FPS on PS5
 
  The most important requirement is a display with a 120 Hz refresh rate. You can use a TV or a monitor, and displays with 120 Hz support are pretty common today, so you shouldn't have trouble finding one.
@@ -50,8 +65,9 @@ thumbnail: https://thmb.techidaily.com/7463aefc3bf7373e7e8450adfdbb24d271ecbb972
  Lastly, keep in mind that not every game supports 120 FPS. You won't typically see that information on the game box, unfortunately, but you should find it in shop listings. And, of course, you can check the menus for a 120 FPS option.
 
 <!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Which PS5 Games Support 120 FPS?
 
  There are over 100 PlayStation 5 games that support 120Hz, with more coming out all the time. Here are some popular ones:
@@ -89,8 +105,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -98,4 +112,20 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-tips.techidaily.com/new-crafting-the-best-video-aspect-ratio-experience/"><u>[New] Crafting the Best Video Aspect Ratio Experience</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-navigating-soundscape-dilution-via-audacity-tools/"><u>2024 Approved Navigating Soundscape Dilution via Audacity Tools</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/1728483257692-windows-11/"><u>最適な使い方がわかる！Windows 11のシャドーコピーで生産性を飛躍的に強化する方法</u></a></li>
+<li><a href="https://driver-error.techidaily.com/effective-steps-for-fixing-improper-device-configuration-overcoming-error-1-hurdle/"><u>Effective Steps for Fixing Improper Device Configuration – Overcoming Error 1 Hurdle</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/enhancing-your-photography-skills-leveraging-live-activities-in-the-newest-iphone-software-update/"><u>Enhancing Your Photography Skills: Leveraging Live Activities in the Newest iPhone Software Update</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/1722871529010-get-ahead-of-the-curve-samsungs-latest-gem-revealed-the-galaxy-z-flip-7-expected-costs-launch-timeline-and-specs-inside/"><u>Get Ahead of the Curve: Samsung's Latest Gem Revealed! The Galaxy Z Flip 7 - Expected Costs, Launch Timeline and Specs Inside!</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-can-i-unlock-my-apple-iphone-13-pro-after-forgetting-my-pin-code-drfone-by-drfone-ios/"><u>How Can I Unlock My Apple iPhone 13 Pro After Forgetting my PIN Code? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-apps-from-oppo-a58-4g-to-another-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Apps from Oppo A58 4G to Another | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-top-10-honor-x50-android-sim-unlock-apk-by-drfone-android/"><u>In 2024, Top 10 Honor X50 Android SIM Unlock APK</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/master-the-art-of-removing-cache-and-cookies-in-leading-web-browsers-today/"><u>Master the Art of Removing Cache and Cookies in Leading Web Browsers Today</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/overcome-code-39-hurdles-effective-strategies-for-windows-error-correction/"><u>Overcome Code 39 Hurdles: Effective Strategies for Windows Error Correction</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/stop-receiving-emergency-and-amber-alerts-on-your-iphone-quick-tips/"><u>Stop Receiving Emergency & Amber Alerts on Your iPhone - Quick Tips</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/upcoming-sony-vr-revolution-forecasted-price-points-official-debut-date-and-intriguing-hardware-facts/"><u>Upcoming Sony VR Revolution: Forecasted Price Points, Official Debut Date, and Intriguing Hardware Facts</u></a></li>
+</ul></div>
 

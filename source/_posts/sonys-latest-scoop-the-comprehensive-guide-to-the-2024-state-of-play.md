@@ -1,7 +1,7 @@
 ---
 title: "Sony's Latest Scoop: The Comprehensive Guide to the 2024 State of Play"
-date: 2024-08-20T09:58:21.996Z
-updated: 2024-08-21T09:58:21.996Z
+date: 2025-01-17T23:34:02.181Z
+updated: 2025-01-22T18:18:26.513Z
 categories:
   - BestProducts
 description: "This Article Describes Sony's Latest Scoop: The Comprehensive Guide to the 2024 State of Play"
@@ -21,9 +21,17 @@ thumbnail: https://thmb.techidaily.com/12bebdcee4292f456ae693e07b507d42d27bcfe89
 
  Sony’s State of Play event happens semi-regularly whenever the company has big news or product announcements about PlayStation. The inaugural event was in 2019; Sony has held several more events since then.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  When Is the Next Sony State of Play Event? 
 
  Sony hasn't announced its next State of Play. The most recent one was May 30, 2024.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Which Products Will Be Announced? 
 
@@ -32,8 +40,9 @@ thumbnail: https://thmb.techidaily.com/12bebdcee4292f456ae693e07b507d42d27bcfe89
  The last event introduced 14 PS5 and PS VR2 titles from both PlayStation Studios developers and third-party companies.
 
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  What Did Sony Announce at the Last State of Play? 
 
  The May 30 State of Play showed off a lot of software to coincide with the start of Sony's Days of Play event. Here's what we saw:
@@ -58,16 +67,17 @@ thumbnail: https://thmb.techidaily.com/12bebdcee4292f456ae693e07b507d42d27bcfe89
 * Mascot character Astro Bot, who taught us all how to play our PlayStation 5s in_Astro's Playroom_ , is back for a new adventure in_Astro Bot_ . This platformer will feature new worlds, costumes based on iconic PlayStation characters like Nathan Drake, Kratos, and Aloy, and a huge starship shaped like the PS5 console. It's coming September 6.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  How to Stream and Watch Sony State of Play 
 
  State of Play events are streamed on PlayStation's[ Twitch](https://www.twitch.tv/playstation) ,[ YouTube](https://www.youtube.com/channel/UC-2Y8dQb0S6DtpxNgAKoJKA) , and[ TikTok](https://www.tiktok.com/@playstation) channels. You can watch the May 30 event below:
 
 <!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  The Latest Sony and Other Gaming News 
 
  You can get more[ gaming news from Lifewire](https://www.lifewire.com/gaming-news-4797039) . Here are some of the latest stories regarding Sony and the PlayStation:
@@ -84,8 +94,6 @@ DbSchema database designer for all databases, schema design in the team, schema 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -93,4 +101,20 @@ DbSchema database designer for all databases, schema design in the team, schema 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/new-master-voice-to-text-conversion-a-step-by-step-guide-to-efficient-documentation-using-ms-word/"><u>[New] Master Voice-to-Text Conversion A Step by Step Guide to Efficient Documentation Using MS Word</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-vreach-overcoming-virtual-reality-sickness-tips/"><u>[Updated] 2024 Approved VREACh Overcoming Virtual Reality Sickness Tips</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-scaling-your-income-with-beauty-tutorials-for-2024/"><u>[Updated] Scaling Your Income with Beauty Tutorials for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/echoes-and-effects-auditory-enhancement-for-imovie/"><u>Echoes & Effects Auditory Enhancement for iMovie</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/elevate-your-insta-game-ultimate-techniques-for-accumulating-more-followers/"><u>Elevate Your Insta Game: Ultimate Techniques for Accumulating More Followers</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/guide-to-turning-off-government-alert-systems-in-android-settings/"><u>Guide to Turning Off Government Alert Systems in Android Settings</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-find-someones-email-address/"><u>How to Find Someone's Email Address</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-quality-microphone-recorders-for-mac-devices-our-five-choices-revealed/"><u>In 2024, Quality Microphone Recorders for Mac Devices Our Five Choices Revealed</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ps4-screen-capture-guide-simple-steps-to-taking-perfect-screenshots/"><u>PS4 Screen Capture Guide: Simple Steps to Taking Perfect Screenshots</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/step-by-step-guide-updating-your-dell-laptops-e64latitudehttpswwwdellcomen-aushopproductdetaillaptopslatitude-13-5000-laptop-laptop/"><u>Step-by-Step Guide: Updating Your Dell Laptop's E64^[Latitude](https://www.dell.com/en-au/shop/productdetail/laptops/latitude-13-5000/-laptop-laptop)</u></a></li>
+<li><a href="https://fox-info.techidaily.com/the-complete-breakdown-of-lgs-um7300-budget-mastery-for-ultra-hd-content-enjoyment-on-a-49-inch-screen/"><u>The Complete Breakdown of LG's UM7300: Budget Mastery for Ultra HD Content Enjoyment on a 49-Inch Screen</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unlock-the-potential-of-your-ipad-free-ipados-18-update-available-with-new-innovations-and-pricing-insights/"><u>Unlock the Potential of Your iPad: Free IPadOS 18 Update Available with New Innovations and Pricing Insights!</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/where-is-the-best-place-to-catch-dratini-on-apple-iphone-7-drfone-by-drfone-virtual-ios/"><u>Where Is the Best Place to Catch Dratini On Apple iPhone 7 | Dr.fone</u></a></li>
+</ul></div>
 

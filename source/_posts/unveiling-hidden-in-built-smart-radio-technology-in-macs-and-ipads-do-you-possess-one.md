@@ -1,7 +1,7 @@
 ---
 title: "Unveiling Hidden In-Built Smart Radio Technology in Macs & iPads: Do You Possess One?"
-date: 2025-01-16T00:52:20.927Z
-updated: 2025-01-17T00:56:07.708Z
+date: 2025-01-17T20:11:58.077Z
+updated: 2025-01-23T03:30:30.195Z
 tags:
   - apple
 categories:
@@ -36,6 +36,10 @@ When Apple launched the iPhone 15 lineup last fall, [it announced](https://www.a
 * [iPad Air 13-inch Wi-Fi (M2)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0D3J7GPRX%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cd34bd512-6fa4-4559-9369-3fad6235f188%7Cdtp&dtb=1) \- [_FCC report_](https://fcc.report/FCC-ID/BCGA2898/7213158)
 * [iPad Air 11-inch Wi-Fi & Cellular (M2)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0D3J61DQ4%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cd34bd512-6fa4-4559-9369-3fad6235f188%7Cdtp&dtb=1) \- [_FCC report_](https://fcc.report/FCC-ID/BCGA2898/7213158)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Macs with a Thread radio:
 
 * [MacBook Pro 16-inch (M3 Pro or M3 Max)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CM5BL45N%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cd34bd512-6fa4-4559-9369-3fad6235f188%7Cdtp&dtb=1) \-[_FCC report_](https://fcc.report/FCC-ID/BCGA2991/6866513.pdf)
@@ -62,10 +66,6 @@ Since the iPad and Mac run Apple's Home app, they could function as Thread borde
 
 The best way to determine if your device has a Thread radio built-in is to look for evidence of Thread testing in the device's [FCC reports](https://fcc.report/). 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Find your device's model number or FCC ID
 
 Most Apple devices, except iPhones, have this printed on the back. If you can't find this number on the device, go to Settings, General, select About**,** and look for the model number.
@@ -74,13 +74,13 @@ You can also look for your [iPad](https://support.apple.com/en-us/108043), [MacB
 
 **Also: [The M4 iPad Pro's true potential will be realized at WWDC, and AI will have a lot to do with it](https://www.zdnet.com/article/the-m4-ipad-pros-true-potential-will-be-realized-at-wwdc-and-ai-will-have-a-lot-to-do-with-it/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Access the Apple FCC database
 
 You can access the Apple FCC database by clicking [FCC.Report/company/Apple](https://fcc.report/company/apple). This will bring up a complete list of the company's FCC reports, from the first one in 1981 through today.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Search for your device's model number or FCC ID
 
@@ -92,19 +92,11 @@ Clicking on the device's report will bring up a list of all the reports created 
 
 **Also: [iPad Air (2024) review: Apple's M2 tablet is even better than my $1,200 Android](https://www.zdnet.com/article/ipad-air-2024-review/)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 5\. Find the Thread testing report
 
 Search for any test reports mentioning "Thread" or "IEEE 802.15.4," which is the technical standard on which Thread is built. 
 
 If a Thread radio exists in that device, you should find a report of its compliance testing since a non-existent feature wouldn't be tested.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## FAQ
 
@@ -115,6 +107,10 @@ Thread is a low-energy wireless communication protocol for smart home devices cr
 **Also: [Google is turning its TVs into Home hubs and giving devs access to over 600 million smart devices](https://www.zdnet.com/home-and-office/smart-home/google-is-turning-its-tvs-into-home-hubs-and-giving-devs-access-to-over-600-million-smart-devices/)**
 
 Thread was created as an energy-efficient and secure protocol to connect battery-powered devices, like smart home sensors, smart locks, room thermometers, lights, thermostats, and security systems. The IP-based protocol allows for easy integration with smart home ecosystems, which is Matter's main goal.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What is a Thread border router?
 
@@ -132,10 +128,6 @@ Thread creates a self-healing mesh network, so having more border routers in a s
 
 For example, if you have a Thread smart lock and temperature sensor and a Wi-Fi smart thermostat, a Thread border router like the HomePod mini connects the smart lock and sensor to the Wi-Fi network and enables communication between the sensor and thermostat. It also would allow you to control all three devices through a single app -- in this case, Apple Home -- even if you're not home.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Why would Apple give some iPads and Macs Thread radios and not all?
 
 No Thread protocol information was found for the [11-inch M2 Wi-Fi iPad Air](https://fcc.report/FCC-ID/BCGA2902/) or the [13-inch M3 Macbook Air](https://fcc.report/FCC-ID/BCGA3113/). This doesn't guarantee that a Thread radio isn't included in these devices, but Apple likely used a simpler chip for these starter models.
@@ -152,6 +144,10 @@ It's unclear whether iPads and Macs will eventually function as Thread border ro
 
 The new iPads and Macs with Thread radios have the necessary hardware to act as Thread border routers, but Apple needs to enable this functionality. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Is the iPad a smart home hub?
 
 Not currently. The iPad used to be a smart home hub for HomeKit, but iPadOS 16 removed this capability. With that software update, Apple upgraded the Home app significantly and stopped supporting the iPad for new HomeKit features and automations. 
@@ -163,6 +159,10 @@ Apple opted to offer the smart home hub feature only to dedicated devices like t
 Giving newer iPads Thread support would bring back its smart home hub functionality and make iPads a more robust option for the smart home than before. 
 
 If users want to keep an older iPad as a smart home hub, it cannot have iOS 16 and will work only with basic HomeKit functionality, as new features and enhancements introduced after iOS 16 won't be supported.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Would Thread replace Bluetooth for Apple peripherals?
 
@@ -204,19 +204,21 @@ The Apple Watch primarily uses Bluetooth to connect to the iPhone, but when Blue
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-bridging-games-and-friends-xbox-live-to-facebook-broadcasting/"><u>[New] 2024 Approved Bridging Games and Friends Xbox Live to Facebook Broadcasting</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-fast-track-to-facebooks-latest-viewing-history-2e23/"><u>[New] 2024 Approved Fast Track to Facebook’s Latest Viewing History (2E23)</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-a-strategic-approach-to-increase-likes-on-your-tiktok-video-content/"><u>[Updated] A Strategic Approach to Increase 'Likes' On Your TikTok Video Content</u></a></li>
-<li><a href="https://app-tips.techidaily.com/enterprise-tech-adopts-the-ops-approach-amidst-emerging-challenges-zdnet-insights/"><u>Enterprise Tech Adopts the 'Ops' Approach Amidst Emerging Challenges | ZDNet Insights</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/how-to-block-all-pop-up-ads-on-chrome-without-adblock/"><u>How to Block All Pop Up Ads on Chrome [without AdBlock]</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/how-to-install-vpn-on-netgear-router-steps-with-pictures/"><u>How to Install VPN on Netgear Router [Steps with Pictures]</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/how-to-make-pubg-run-better-the-top-7-tips/"><u>How to Make PUBG Run Better [the Top 7 Tips]</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/how-to-remove-microsoft-account-from-windows-11-easily-solved/"><u>How to Remove Microsoft Account From Windows 11 Easily [Solved]</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-remove-or-bypass-knox-enrollment-service-on-xiaomi-redmi-note-13-5g-by-drfone-android/"><u>How To Remove or Bypass Knox Enrollment Service On Xiaomi Redmi Note 13 5G</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/how-to-speed-up-your-windows-10-or-11-boot-process-expert-advice-here/"><u>How to Speed Up Your Windows 10 or 11 Boot Process – Expert Advice Here</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/how-to-start-windows-11-in-safe-mode-4-different-methods-with-screenshots/"><u>How to Start Windows 11 in Safe Mode - 4 Different Methods (with Screenshots)</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/in-2024-quick-guide-to-overcoming-instagram-video-hiccups/"><u>In 2024, Quick Guide to Overcoming Instagram Video Hiccups</u></a></li>
-<li><a href="https://win-trending.techidaily.com/maximize-your-readership-and-virality-with-flipbuilders-social-sharing-ebooks/"><u>Maximize Your Readership & Virality with FlipBuilder's Social Sharing Ebooks</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/the-ultimate-shortcut-to-achieving-unique-vocal-flair-in-pubg/"><u>The Ultimate Shortcut to Achieving Unique Vocal Flair in PUBG</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-10-excellent-cost-free-video-meeting-solutions/"><u>2024 Approved 10 Excellent, Cost-Free Video Meeting Solutions</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-bygone-brilliance-art-beyond-intellectual-property/"><u>2024 Approved Bygone Brilliance Art Beyond Intellectual Property</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-understanding-instagrams-chord-of-musical-law/"><u>2024 Approved Understanding Instagram’s Chord of Musical Law</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/android-unlock-code-sim-unlock-your-oppo-a78-phone-and-remove-locked-screen-by-drfone-android/"><u>Android Unlock Code Sim Unlock Your Oppo A78 Phone and Remove Locked Screen</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/discover-kias-stylish-new-entry-level-electric-suv-the-innovative-ev5/"><u>Discover Kia's Stylish New Entry-Level Electric SUV: The Innovative EV5</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-full-guide-to-unlock-your-honor-play-40c-by-drfone-android/"><u>In 2024, Full Guide to Unlock Your Honor Play 40C</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-music-from-vivo-y100a-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Music from Vivo Y100A to iPod | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/1722860435686-is-it-possible-to-stream-netflix-on-nintendo-switch/"><u>Is It Possible to Stream Netflix on Nintendo Switch?</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-from-shaky-to-steady-video-stabilization-techniques-in-fcpx/"><u>New 2024 Approved From Shaky to Steady Video Stabilization Techniques in FCPX</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/revolutionizing-film-production-breakthrough-fcpx-ipad-functions-that-every-filmmaker-must-know-zdnet/"><u>Revolutionizing Film Production: Breakthrough FCPx iPad Functions That Every Filmmaker Must Know - ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/starfleet-chronicles-unveiled-viewing-all-star-trek-movies-in-their-intended-progression/"><u>Starfleet Chronicles Unveiled: Viewing All Star Trek Movies In Their Intended Progression</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-guide-resolving-d3dx927dll-file-issues/"><u>Step-by-Step Guide: Resolving 'd3dx9_27.dll' File Issues</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-solutions-for-airpods-that-just-wont-sync-or-reboot/"><u>Step-by-Step Solutions for AirPods That Just Won't Sync or Reboot</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-players-handbook-for-speed-traveling-in-minecraft-using-teleport-magic/"><u>The Player's Handbook for Speed-Traveling in Minecraft Using Teleport Magic</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-ultimate-guide-to-leveraging-google-gemini-effectively/"><u>The Ultimate Guide to Leveraging Google Gemini Effectively</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-ultimate-tutorial-crafting-clear-voice-messages-with-your-iphones-built-in-features/"><u>The Ultimate Tutorial: Crafting Clear Voice Messages with Your iPhone's Built-In Features</u></a></li>
 </ul></div>
 
