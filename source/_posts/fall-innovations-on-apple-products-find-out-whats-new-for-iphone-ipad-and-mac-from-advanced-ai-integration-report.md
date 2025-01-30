@@ -1,7 +1,7 @@
 ---
 title: Fall Innovations on Apple Products! Find Out What's New for iPhone, iPad & Mac - From Advanced AI Integration Report
-date: 2025-01-18T05:23:55.414Z
-updated: 2025-01-23T00:59:45.425Z
+date: 2025-01-23T16:58:00.256Z
+updated: 2025-01-30T16:22:30.688Z
 tags:
   - apple
 categories:
@@ -61,7 +61,7 @@ Maria Diaz/ZDNET
 * Apple Intelligence is free on iOS 18, iPadOS 18, and MacOS Sequoia, and will be available to try in English only this summer.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Partnership with OpenAI
@@ -73,7 +73,7 @@ Jason Hiner/ZDNET
 * The ChatGPT integration will be coming to iOS 18, iPadOS 18, and MacOS Sequoia later this year.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## iOS 18
@@ -94,6 +94,10 @@ Adam Breeden/ZDNET
 * The **Safari app** was upgraded to include key information about a webpage. You can read more about the Safari upgrades under the MacOS section of this article.
 * The **Calendar app** can now pull from the Reminders app for a more seamless schedule overview.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## WatchOS 11
 
 Adam Breeden/ZDNET
@@ -108,6 +112,10 @@ Adam Breeden/ZDNET
 * **Check In** is available on Apple Watch, even during workouts, to help users stay safe. **Translate** is also coming to Apple Watch so users can translate text right from their wrists.
 * Another notable change is that the **double tap gesture** can be used to scroll through apps.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## iPadOS 18
 
 Adam Breeden/ZDNET
@@ -117,10 +125,6 @@ Adam Breeden/ZDNET
 * In a long-awaited release, iPads will now have a **[calculator app](https://www.zdnet.com/article/after-14-years-apple-expected-to-unveil-the-ipad-app-weve-all-been-waiting-for-at-wwdc/)** for the first time, complete with the same interface as the one currently found on iPhones. Plus, users can use it with the Apple Pencil through a new **Math Notes** experience, which allows users to write expressions that the calculator app will solve for them once they type the equal sign, in their own handwriting,
 * Handwriting in Notes also got an upgrade with **Smart** **Script**, which refines users' writing to make it more legible while keeping the authenticity of the user's handwriting style. The feature can also match copied and pasted text to the user's handwriting. Typed text was also enhanced, with five new highlight colors and the ability to toggle sections under headings or subheadings.
 * iPadOS 18 supports **screen-sharing via SharePlay** and the same Control Center customizations, Photos app upgrades, Safari updates, and emoji Tapbacks found in **iOS 18.**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## MacOS 15 (Sequoia)
 
@@ -132,10 +136,6 @@ Adam Breeden/ZDNET
 * **Video meetings** are also getting an upgrade, with new backgrounds and a preview experience that allows you to see what you are about to share before sharing it. This feature works with popular video conferencing applications such as FaceTime and Zoom.
 * The **AI summarization** tool will live in Safari to help users process content like web pages and articles more efficiently. Safari will also assist users in discovering more helpful information about a page they are browsing when relevant, such as directions.
 * Apple also launched a new **Viewer experience**, which does for video what Reader does for text.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## VisionOS 2
 
@@ -155,7 +155,7 @@ Jason Hiner/ZDNET
 * Apple is also making the Vision Pro available in more countries starting June 28\. You can see the full list [here](https://www.apple.com/newsroom/2024/06/apple-vision-pro-arrives-in-new-countries-and-regions-beginning-june-28/).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## AirPods
@@ -210,19 +210,22 @@ Screenshot by Nina Raemont/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-in-2024-top-conversion-suite-for-mp4fb-sharing/"><u>[New] In 2024, Top Conversion Suite for MP4/FB Sharing</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-quick-fit-enhance-your-photo-posts-with-automated-mac-video-scaling/"><u>[Updated] In 2024, Quick Fit Enhance Your Photo Posts with Automated Mac Video Scaling</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-mastering-zoom-integration-with-gmail-messages/"><u>2024 Approved Mastering Zoom Integration with Gmail Messages</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ermoves-in-media-how-to-reverse-videos-for-2024/"><u>Countermoves in Media How to Reverse Videos for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/elite-online-archives-for-graffiti-fonts/"><u>Elite Online Archives for Graffiti Fonts</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/in-2024-setting-the-price-for-higher-youtube-engagement/"><u>In 2024, Setting the Price for Higher YouTube Engagement</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/innovative-stock-maintenance-discover-the-power-of-machine-learning-and-computer-vision-in-maintaining-fully-stocked-shelves-at-a-top-retailer/"><u>Innovative Stock Mainten#ance: Discover the Power of Machine Learning and Computer Vision in Maintaining Fully-Stocked Shelves at a Top Retailer</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/is-purchasing-from-tiktok-shops-secure-my-satisfying-gift-find-on-zdnet/"><u>Is Purchasing From TikTok Shops Secure? My Satisfying Gift Find on ZDNET</u></a></li>
-<li><a href="https://win-latest.techidaily.com/keine-sorge-mehr-funfzehn-tipps-um-verlorene-apps-auf-ihrem-desktop-mit-windows-11-8-oder-7-wiederherzustellen/"><u>Keine Sorge Mehr! Fünfzehn Tipps, Um Verlorene Apps Auf Ihrem Desktop Mit Windows 11, 8 Oder 7 Wiederherzustellen</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/mastering-the-art-of-customer-satisfaction-with-insights-from-square-a-guide-for-businesses-zdnet/"><u>Mastering the Art of Customer Satisfaction with Insights From Square - A Guide for Businesses | ZDNet</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/need-a-quick-present-find-out-which-retailers-guarantee-on-time-delivery-zdnet/"><u>Need a Quick Present? Find Out Which Retailers Guarantee On-Time Delivery | ZDNet</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/nextgencams-investigation-pushing-the-envelope-further/"><u>NextGenCams Investigation Pushing the Envelope Further</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/transforming-trade-with-generative-ai-unveiling-5-key-strategies-revolutionizing-business-operations-zdnet/"><u>Transforming Trade with Generative AI: Unveiling 5 Key Strategies Revolutionizing Business Operations | ZDNet</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/easy-guide-to-youtube-downloads-on-idevices-for-2024/"><u>Your Easy Guide to YouTube Downloads on iDevices for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-ideal-video-editor-unleashed-for-vimeo-videos-for-2024/"><u>[New] Ideal Video Editor Unleashed for Vimeo Videos for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-eight-in-one-recorders-free-fast-and-flexible-for-android-users/"><u>[Updated] 2024 Approved Eight-in-One Recorders Free, Fast, and Flexible for Android Users</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-ultimate-hdr-monitor-in-depth-samsung-ue590-analysis/"><u>2024 Approved The Ultimate HDR Monitor - In-Depth Samsung UE590 Analysis</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/7-reasons-to-question-generative-ai-use-in-chats/"><u>7 Reasons to Question Generative AI Use in Chats</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/diagnosing-and-repairing-missing-xinput1n3dll-files-in-gaming-controllers/"><u>Diagnosing and Repairing Missing xinput1_n_3.dll Files in Gaming Controllers</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discover-why-apples-vision-pro-is-a-silent-game-changer-expert-opinions-revealed/"><u>Discover Why Apple's Vision Pro Is a Silent Game-Changer: Expert Opinions Revealed!</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/exclusive-look-the-amazing-iphone-16-enhancements-that-promise-an-unparalleled-upgrade-experience-tech-reviews-by-zdnet/"><u>Exclusive Look: The Amazing iPhone 16 Enhancements That Promise an Unparalleled Upgrade Experience | Tech Reviews by ZDNET</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/from-roaring-rumble-to-silent-streamline-correcting-issues-with-loud-computer-fans/"><u>From Roaring Rumble to Silent Streamline: Correcting Issues with Loud Computer Fans</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-into-the-abyss-and-beyond-shadowbearer-vs-daybeam/"><u>In 2024, Into the Abyss and Beyond Shadowbearer Vs Daybeam</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-pokemon-go-no-gps-signal-heres-every-possible-solution-on-xiaomi-redmi-note-12t-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Pokemon Go No GPS Signal? Heres Every Possible Solution On Xiaomi Redmi Note 12T Pro | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ordered-magic-how-to-view-the-lord-of-the-rings-saga-from-start-to-finish/"><u>Ordered Magic: How to View 'The Lord of the Rings' Saga From Start to Finish</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-ultimate-how-to-unrepeating-content-on-tiktok-easily-explained/"><u>The Ultimate How-To: Unrepeating Content on TikTok Easily Explained</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-11-must-have-windows-and-mac-programs-you-need-to-boost-your-productivity-zdnet/"><u>Top 11 Must-Have Windows & Mac Programs You Need to Boost Your Productivity - ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-rated-wireless-power-banks-of-2024-comprehensive-reviews-by-tech-experts-at-pcmag/"><u>Top-Rated Wireless Power Banks of 2024 - Comprehensive Reviews by Tech Experts at PCMag</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unveiling-the-latest-gratis-ai-upgrades-skyrocket-productivity-for-apple-programmers-zdnet/"><u>Unveiling the Latest: Gratis AI Upgrades Skyrocket Productivity for Apple Programmers - ZDNet</u></a></li>
+<li><a href="https://article-posts.techidaily.com/unveiling-updates-in-lgs-revolutionary-360-camera-tech-for-2024/"><u>Unveiling Updates in LG's Revolutionary 360 Camera Tech for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ling-video-sharing-secrets-examining-igtv-and-youtube-in-depth-for-2024/"><u>Unveiling Video Sharing Secrets Examining IGTV & YouTube in Depth for 2024</u></a></li>
 </ul></div>
 

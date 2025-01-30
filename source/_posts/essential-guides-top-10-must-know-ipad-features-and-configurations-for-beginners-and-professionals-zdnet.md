@@ -1,7 +1,7 @@
 ---
 title: "Essential Guides: Top 10 Must-Know iPad Features & Configurations for Beginners & Professionals - ZDNet"
-date: 2025-01-18T06:17:20.667Z
-updated: 2025-01-23T06:44:44.279Z
+date: 2025-01-23T16:29:14.502Z
+updated: 2025-01-30T16:00:35.433Z
 tags:
   - apple
 categories:
@@ -29,7 +29,7 @@ Never fear, dear reader. I've uncovered 10 settings you should adjust on your iP
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Customize your lock screen
@@ -39,6 +39,10 @@ Max Buondonno/ZDNET
 In iPadOS 17, Apple added the ability to customize your iPad's lock screen, and it's one of the easiest ways to help the tablet reflect your personal style. You can alter the font, the wallpaper, and even add a few widgets to keep important information available at a glance. Personally, I have a nice serif font on my iPad with a weather widget and my to-do list, as well as an ocean background from Nomad (because I can't go a day without looking at the water).
 
 **How to:** Wake up your iPad, unlock it, then press and hold on the lock screen. If you've used an iPhone in the past, you know exactly what to do next. Tap the "Customize" button and begin tweaking the lock screen to your liking.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Configure your focus settings
 
@@ -58,10 +62,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 **How to**: Go to Settings > Focus on your iPad, and you'll find various options to set up a Focus mode for work, personal, fitness, mindfulness, and more. The interface will guide you through setting up your notification settings, which contacts can ping you, and more. Plus, once you've set it up, it'll sync automatically with your iPhone, Apple Watch, and Mac.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. Turn on Stage Manager when you need more multitasking chops
 
 Max Buondonno/ZDNET
@@ -73,10 +73,6 @@ You can customize the size of the window, bring up secondary apps in the same vi
 **Also:** [**The best iPad models: Expert tested**](https://www.zdnet.com/article/best-ipad/)
 
 **How to**: Swipe down on the top-right corner to access Control Center, then tap the Stage Manager button to activate it (it looks like a rectangle with three smaller rectangles next to it). Alternatively, you can go to Settings > Multitasking & Gestures and turn on Stage Manager from there. When you're done using it, you can choose either option to turn it off.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. Save your eyes at night with Night Shift
 
@@ -96,15 +92,15 @@ That's where Low Power Mode comes in. With Low Power Mode, your iPad will limit 
 
 **How to**: Swipe down from the top right corner to access Control Center, then tap the battery button to enable it. Your battery meter will then turn yellow, indicating that Low Power Mode is on. To disable it, follow the same steps.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 6\. Hide your notifications from prying eyes
 
 Sometimes, you just want to keep the contents of your iPad's notifications to yourself, whether for work reasons or if you're planning a surprise party for someone and they see the email confirming the delivery of their birthday cake. On the iPad, it's easy to lock away your notifications and only make them visible once you've used your fingerprint or face to log in.
 
 **How to**: Go to Settings > Notifications > Show Previews and change it from "Always" to "When Unlocked."
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7\. Split or float your keyboard
 
@@ -120,6 +116,10 @@ If that's your bag, you can also shrink your keyboard and have it float on top o
 
 **How to float**: Open an app where the keyboard will pop up. Then, take two fingers and pinch the keyboard. This will cause it to shrink to iPhone-size. You can then drag it around the screen by touching and holding the gray bar on the bottom. When you want it to return to its normal size, just pinch outward on the keyboard.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 8\. Make sure your screen is refreshing as fast as possible
 
 Every iPad Pro since 2018 has supported what Apple calls ProMotion, which increases your display's refresh rate and makes everything -- scrolling, animations, multitasking, and more -- look smoother. It's one of those features that you don't realize you want until you have it, and then you can never go back. 
@@ -129,7 +129,7 @@ Of course, while the feature is enabled out of the box, there's always a chance 
 **How to**: Head over to Settings > Accessibility > Motion and ensure that "Limit Refresh Rate" _isn't_ enabled. If it is, your iPad's screen will remain locked to 60Hz, and who even uses 60Hz screens anymore?
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 9\. Tweak the Control Center
@@ -180,24 +180,21 @@ Using the TrueDepth cameras, Attention Awareness can keep tabs on when you're lo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/ostering-collaborations-building-partnerships-to-promote-videos/"><u>[New] Fostering Collaborations Building Partnerships to Promote Videos</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-sierras-best-the-top-5-choices-for-mac-video-editing-for-2024/"><u>[New] Sierra's Best The Top 5 Choices for Mac Video Editing for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-cutting-edge-strategies-for-choosing-best-fpv-drone-blades/"><u>[Updated] Cutting-Edge Strategies for Choosing Best FPV Drone Blades</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-all-inclusive-iptv-delivery-systems/"><u>[Updated] In 2024, All-Inclusive IPTV Delivery Systems</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/25-program-master-coding-skills-simplified-with-our-intuitive-tutorials-now-available-on-zdnet/"><u>$25 Program: Master Coding Skills Simplified with Our Intuitive Tutorials - Now Available on ZDNet!</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/1-conquering-first-day-fears-strategies-for-mastering-new-workplace-jitters/"><u>1. Conquering First-Day Fears: Strategies for Mastering New Workplace Jitters</u></a></li>
-<li><a href="https://howto.techidaily.com/6-solutions-to-fix-error-505-in-google-play-store-on-oneplus-12-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Solutions to Fix Error 505 in Google Play Store on OnePlus 12 | Dr.fone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/boost-your-income-sky-high-top-10-highest-earning-technical-expertise-revealed-zdnet/"><u>Boost Your Income Sky-High: Top 10 Highest Earning Technical Expertise Revealed | ZDNET</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/breaking-through-loneliness-a-comprehensive-review-of-the-connected-leader-strategies-for-a-thriving-hybrid-office/"><u>Breaking Through Loneliness: A Comprehensive Review of 'The Connected Leader' - Strategies for a Thriving Hybrid Office</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/bridging-the-information-divide-in-artificial-intelligence-with-powerful-data-solutions-insights-by-zdnet/"><u>Bridging the Information Divide in Artificial Intelligence with Powerful Data Solutions - Insights by ZDNET</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/critical-factors-for-successful-crypto-ventures-expert-advice-by-yl-computing-and-yl-software/"><u>Critical Factors for Successful Crypto Ventures: Expert Advice by YL Computing and YL Software</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/global-skies-vivid-sights-experience-the-highest-quality-with-x-plane-11-reviewed-here/"><u>Global Skies, Vivid Sights: Experience the Highest Quality with X-Plane 11 Reviewed Here</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-easily-unlock-your-vivo-v29-pro-device-sim-by-drfone-android/"><u>In 2024, Easily Unlock Your Vivo V29 Pro Device SIM</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-gratuitous-goal-games-capturing-kicks-without-costs/"><u>In 2024, Gratuitous Goal Games Capturing Kicks Without Costs</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/leveraging-an-mba-for-a-career-switch-into-tech-strategies-and-advice-as-featured-on-zdnet/"><u>Leveraging an MBA for a Career Switch Into Tech: Strategies and Advice as Featured on ZDNet</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/navigating-the-path-to-success-at-apple-proven-tips-and-hidden-know-how-zdnet/"><u>Navigating the Path to Success at Apple: Proven Tips & Hidden Know-How | ZDNet</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/tackling-transition-trepidation-expert-advice-on-thriving-in-a-new-role/"><u>Tackling Transition Trepidation: Expert Advice on Thriving in a New Role</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/winning-with-winxvideo-ai-einfache-bildschirm-webcam-und-audioaufzeichnungslosung/"><u>Winning with WinxVideo AI: Einfache Bildschirm, Webcam- Und Audioaufzeichnungslösung</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/zdnets-detailed-analysis-of-duolingo-complimentary-and-engaging-method-for-mastering-new-languages/"><u>ZDNet's Detailed Analysis of Duolingo: Complimentary and Engaging Method for Mastering New Languages</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-best-practices-for-livestreaming-full-spheres-on-facebook/"><u>[New] Best Practices for Livestreaming Full Spheres on Facebook</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-carbon-footprint-reduction-in-the-cityscape-revolution/"><u>[New] In 2024, Carbon Footprint Reduction in the Cityscape Revolution</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-crafting-compelling-visual-narratives-with-fb-slideshow-techniques/"><u>[Updated] In 2024, Crafting Compelling Visual Narratives with FB SlideShow Techniques</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-perfect-your-gaming-capture-console-gameplay-on-a-computer/"><u>[Updated] In 2024, Perfect Your Gaming Capture Console Gameplay on a Computer</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/beyond-apple-and-tile-discovering-superior-wallet-airtag-options-for-tech-enthusiasts/"><u>Beyond Apple and Tile: Discovering Superior Wallet AirTag Options for Tech Enthusiasts</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discover-apples-latest-charismatic-gadgets-released-silently-last-week-insights-from-zdnet/"><u>Discover Apple’s Latest Charismatic Gadgets Released Silently Last Week - Insights From ZDNet</u></a></li>
+<li><a href="https://fox-within.techidaily.com/explorando-las-artes-del-renovar-con-proyectos-creativos-de-restauracion/"><u>Explorando Las Artes Del Renovar Con Proyectos Creativos De Restauración</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-cast-samsung-galaxy-xcover-7-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>How to Cast Samsung Galaxy XCover 7 Screen to PC Using WiFi | Dr.fone</u></a></li>
+<li><a href="https://facebook.techidaily.com/how-to-resuscitate-a-non-responsive-facebook-profile/"><u>How to Resuscitate a Non-Responsive Facebook Profile</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-best-adobe-premiere-elements-replacements-for-video-editing/"><u>In 2024, Best Adobe Premiere Elements Replacements for Video Editing</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-full-guide-to-bypass-huawei-nova-y91-frp-by-drfone-android/"><u>In 2024, Full Guide to Bypass Huawei Nova Y91 FRP</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/maximize-your-connectivity-with-this-mighty-handheld-8-in-1-adapter-at-an-unbeatable-price-featured-by-zdnet/"><u>Maximize Your Connectivity with This Mighty Handheld 8-in-1 Adapter at an Unbeatable Price, Featured by ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/secure-exclusive-preview-of-upcoming-apple-vision-pro-features-via-testflight-tutorial-on-the-way-techzenith/"><u>Secure Exclusive Preview of Upcoming Apple Vision Pro Features via TestFlight - Tutorial on the Way! | TechZenith</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-ultimate-fix-what-to-do-when-you-encounter-an-opengl32dll-error-message/"><u>The Ultimate Fix: What to Do When You Encounter an OpenGL32.dll Error Message</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-rated-notetaking-tablets-comprehensive-testing-and-reviews-by-tech-experts-at-zdnet/"><u>Top-Rated Notetaking Tablets : Comprehensive Testing & Reviews by Tech Experts at ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unlocking-the-secrets-to-affordable-apple-music-a-guide-to-student-discounts/"><u>Unlocking the Secrets to Affordable Apple Music: A Guide to Student Discounts</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Initiating Pairing Process: Amazon Echo Dot User Manual"
-date: 2025-01-20T22:35:56.851Z
-updated: 2025-01-23T00:37:03.381Z
+date: 2025-01-25T18:56:39.565Z
+updated: 2025-01-30T18:21:48.778Z
 categories:
   - BestProducts
 description: "This Article Describes Initiating Pairing Process: Amazon Echo Dot User Manual"
@@ -26,6 +26,10 @@ thumbnail: https://thmb.techidaily.com/a284b8622794b8ba45f3866eaa63e737e0684e210
 
 ![Amazon Echo Dot](https://www.lifewire.com/thmb/wnLxCk_2fD2pZzEu-p3zbcXnYjI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/zkn2wGCQ20copy-06ed03564ac94e1dbbad5b22f1d3139c.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Amazon
 
 ## How Do I Put My Echo Dot in Setup Mode?
@@ -38,10 +42,6 @@ Amazon
 ![Devices, Plus (+), and Add Device in the Alexa app](https://www.lifewire.com/thmb/rBWynPkkpC_F1BhWD4xnUQsx9Kw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_setup-mode-echo-dot-5183932-1495a37176434d378b74e46d4e6e9cab.jpg)
 4. Tap**Amazon Echo** .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 5. Tap**Echo, Echo Dot, Echo Plus, and More** .
 6. Connect your Echo Dot to the power supply, turn it on, and then wait for the blue light ring to turn orange. It should take about 30 seconds.
 7. Tap**Yes** in the Alexa app.  
@@ -53,17 +53,17 @@ Amazon
 10. Continue following the prompts in the app to finish setting up your device. Select**Skip** when the option appears to configure these settings later.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Skip highlighted in the Alexa app setup screen](https://www.lifewire.com/thmb/t9cr0zEBHSfzkkSTPWqdkks-pu8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004_setup-mode-echo-dot-5183932-ef2640f0d0fb4cada97bfb3801deec7d.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What Is Echo Dot Setup Mode?
@@ -73,7 +73,7 @@ Amazon
  You can tell your Echo is in setup mode when the ring of light turns from blue to orange. Once you've set up your Echo Dot, you can start using Alexa voice commands and[Alexa skills](https://www.lifewire.com/alexa-skills-4126799) .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Why Won't My Echo Dot Go Into Setup Mode?
@@ -116,20 +116,17 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-elevate-narrative-flow-expert-tips-on-using-jump-cuts/"><u>[New] 2024 Approved Elevate Narrative Flow Expert Tips on Using Jump Cuts</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-from-shadowy-fringe-to-front-row-action-gaining-popularity-in-tiktok-unboxings/"><u>[Updated] From Shadowy Fringe to Front Row Action Gaining Popularity in TikTok Unboxings</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-techniques-for-subtle-sound-diminution-in-audacity/"><u>[Updated] Techniques for Subtle Sound Diminution in Audacity</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-the-finest-cams-to-document-snow-sports-for-2024/"><u>[Updated] The Finest Cams to Document Snow Sports for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/2024-approved-cost-effective-streaming-on-low-cost-pcs/"><u>2024 Approved Cost-Effective Streaming on Low-Cost PCs</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-mastering-the-art-of-video-discovery-on-facebook/"><u>2024 Approved Mastering the Art of Video Discovery on Facebook</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/affordable-marvel-discover-the-most-stunning-non-samsung-android-device-for-just-200-exclusive-review-by-zdnet/"><u>Affordable Marvel: Discover the Most Stunning Non-Samsung Android Device for Just $200 - Exclusive Review by ZDNet</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/discover-the-incredible-pixel-9-deal-at-only-100-unlock-the-secret-tech-tips-from-zdnet-now/"><u>Discover the Incredible Pixel 9 Deal at Only $100! Unlock The Secret Tech Tips From ZDNET Now!</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/durable-and-timeless-exploring-the-cat-s22-flip-smartphones-performance-for-outdoor-use-techadvisor/"><u>Durable and Timeless: Exploring the CAT S22 Flip Smartphone's Performance for Outdoor Use | TechAdvisor</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/mastering-the-circle-app-compatible-android-models-and-optimal-usage-tips/"><u>Mastering the 'Circle' App: Compatible Android Models and Optimal Usage Tips</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/pixel-pop-goes-the-laptop-screen-with-these-websites-for-2024/"><u>Pixel Pop Goes the Laptop Screen with These Websites for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/protect-your-surface-duo-2-in-style-discover-the-perfect-pen-cover-for-added-safety-and-seamless-wireless-power-zdnets-latest-feature/"><u>Protect Your Surface Duo 2 in Style! Discover the Perfect Pen Cover for Added Safety and Seamless Wireless Power | ZDNET's Latest Feature</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/rapid-entry-methods-for-google-shortcuts-on-macos-a-comprehensive-guide/"><u>Rapid Entry Methods for Google Shortcuts on macOS: A Comprehensive Guide</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/streamline-email-writing-using-gmail-snippets-for-reduced-errors-and-faster-communication-a-must-read-guide-zdnet/"><u>Streamline Email Writing Using Gmail Snippets for Reduced Errors & Faster Communication: A Must-Read Guide | ZDNET.</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/ultimate-list-of-free-solutions-to-securely-archive-your-messages-in-gmail-outlook-and-yahoo/"><u>Ultimate List of Free Solutions to Securely Archive Your Messages in Gmail, Outlook, and Yahoo</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-uncovering-true-reflection-in-distorted-facebook-video/"><u>[Updated] 2024 Approved Uncovering True Reflection in Distorted Facebook Video</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-transform-ordinary-moments-into-extraordinary-art-creating-slow-motion-video-from-still-images-online/"><u>[Updated] Transform Ordinary Moments Into Extraordinary Art Creating Slow Motion Video From Still Images Online</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/easy-solutions-resolve-pdhdll-missing-error-messages/"><u>Easy Solutions: Resolve pdh.dll Missing Error Messages</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/exciting-internet-adventures-discover-these-7-amazing-games-for-kids/"><u>Exciting Internet Adventures: Discover These 7 Amazing Games for Kids</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/exploring-top-5-innovations-in-ios-18-showcased-at-wwdc-2024-with-a-spotlight-on-emerging-ai-capabilities-insights-from-zdnet/"><u>Exploring Top 5 Innovations in iOS 18 Showcased at WWDC 2024, with a Spotlight on Emerging AI Capabilities – Insights From ZDNet</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-issues-with-a-non-responsive-alienware-command-center/"><u>Fixing Issues with a Non-Responsive Alienware Command Center</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/from-favorites-to-featured-the-journey-to-a-unique-youtube-list-for-2024/"><u>From Favorites to Featured The Journey to a Unique YouTube List for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/harmonize-your-tunes-with-seamless-migration-of-apple-music-lists-to-and-from-youtube-music-insights-zdnet/"><u>Harmonize Your Tunes with Seamless Migration of Apple Music Lists to and From YouTube Music - Insights | ZDNET</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-fix-the-soft-bricked-tecno-pova-5-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix the Soft Bricked Tecno Pova 5 Pro? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-samsung-galaxy-f04-location-by-number-drfone-by-drfone-virtual-android/"><u>How to Track Samsung Galaxy F04 Location by Number | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-pokemon-go-no-gps-signal-heres-every-possible-solution-on-tecno-pop-8-drfone-by-drfone-virtual-android/"><u>In 2024, Pokemon Go No GPS Signal? Heres Every Possible Solution On Tecno Pop 8 | Dr.fone</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/the-ultimate-snapshot-experience-mastering-snapchat-filters/"><u>The Ultimate Snapshot Experience Mastering Snapchat Filters</u></a></li>
 </ul></div>
 

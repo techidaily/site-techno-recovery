@@ -1,7 +1,7 @@
 ---
 title: How to Fix D3dx9_28.dll Is Missing or Not Found Errors
-date: 2024-08-18T17:50:46.074Z
-updated: 2024-08-19T17:50:46.074Z
+date: 2025-01-26T16:31:09.991Z
+updated: 2025-01-30T16:01:32.142Z
 categories:
   - BestProducts
 description: This Article Describes How to Fix D3dx9_28.dll Is Missing or Not Found Errors
@@ -13,6 +13,10 @@ thumbnail: https://www.lifewire.com/thmb/IIl3tHuMVrMdjvP-Shr4oAFgq_k=/540x405/fi
  Microsoft calls this file the_Microsoft .NET Runtime Common Language Runtime - WorkStation_ .  
 
  The mscorwks.dll error message could apply to any program or system that might utilize the file on any of Microsoft's [operating systems](https://www.lifewire.com/operating-systems-2625912) , including[Windows 11](https://www.lifewire.com/windows-11-5188930) ,[Windows 10](https://www.lifewire.com/windows-10-2626217) , [Windows 8](https://www.lifewire.com/windows-8-2626235) , [Windows 7](https://www.lifewire.com/windows-7-2626265) , [Windows Vista](https://www.lifewire.com/windows-vista-2626311) , [Windows XP](https://www.lifewire.com/windows-xp-2626354) , and Windows 2000.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Fix Mscorwks.dll Errors
 
@@ -45,13 +49,18 @@ thumbnail: https://www.lifewire.com/thmb/IIl3tHuMVrMdjvP-Shr4oAFgq_k=/540x405/fi
  All the information on your hard drive will be erased during this step. Make sure you've made the best attempt possible to fix the error using a troubleshooting step prior to this one.
 14. [Troubleshoot for a hardware problem](https://www.lifewire.com/fix-a-dll-issue-caused-by-a-hardware-problem-2624493) if any mscorwks.dll errors persist. After a clean Windows installation, your DLL problem can only be hardware related.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Need More Help?
 
  If you're not interested in fixing this problem yourself, see [How Do I Get My Computer Fixed?](https://www.lifewire.com/how-do-i-get-my-computer-fixed-2625167) for a full list of your support options, plus help with everything along the way like figuring out repair costs, getting your files off, choosing a repair service, and a lot more.
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Causes of Mscorwks.dll Errors
 
  Mscorwks.dll errors are caused by situations that lead to the removal or corruption of the mscorwks [DLL file](https://www.lifewire.com/what-is-a-dll-file-2625852) .
@@ -61,8 +70,9 @@ thumbnail: https://www.lifewire.com/thmb/IIl3tHuMVrMdjvP-Shr4oAFgq_k=/540x405/fi
 ![mscorwks DLL error message in Windows](https://www.lifewire.com/thmb/dZT1XNgoWLBUoRuEHJKvXPvozH0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/mscorwks-dll-error-message-5aa6a2aa875db90037fef419.png)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  There are several ways mscorwks.dll errors can show up on your computer. Here are some of the more common error messages you might see:
 
 * **Mscorwks.dll Not Found**
@@ -93,8 +103,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -102,4 +110,24 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/updated-quick-setup-installing-snapchat-on-your-mac-for-2024/"><u>[Updated] Quick Setup Installing Snapchat on Your Mac for 2024</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-can-i-get-more-stardust-in-pokemon-go-on-vivo-y100i-power-5g-drfone-by-drfone-virtual-android/"><u>How can I get more stardust in pokemon go On Vivo Y100i Power 5G? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-sharefake-location-on-whatsapp-for-nokia-g310-drfone-by-drfone-virtual-android/"><u>How to Share/Fake Location on WhatsApp for Nokia G310 | Dr.fone</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-two-simple-tweaks-for-skyrocketing-youtube-traffic/"><u>In 2024, Two Simple Tweaks for Skyrocketing YouTube Traffic</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/new-in-2024-live-commerce-success-stories-lessons-learned-and-predictions-for-the-future/"><u>New In 2024, Live Commerce Success Stories Lessons Learned & Predictions for the Future</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-key-to-unlocking-the-best-video-production-talents-for-2024/"><u>The Key to Unlocking the Best Video Production Talents for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-5-essential-camping-equipment-and-accessories-insights-from-zdnet/"><u>Top 5 Essential Camping Equipment & Accessories : Insights From ZDNet</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/top-5-from-lenovo-thinkphone-to-iphone-contacts-transfer-apps-and-software-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Top 5 from Lenovo ThinkPhone to iPhone Contacts Transfer Apps and Software | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-5-handheld-tire-inflation-tools-expert-picks-by-zdnet/"><u>Top 5 Handheld Tire Inflation Tools : Expert Picks by ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-5-houseplants-ideal-for-enhancing-productivity-in-home-offices-insights-by-zdnet/"><u>Top 5 Houseplants Ideal for Enhancing Productivity in Home Offices - Insights by ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-5-premium-inflatable-swimming-aids-ranked-techradar/"><u>Top 5 Premium Inflatable Swimming Aids - Ranked | TechRadar</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-5-premium-solar-lamps-expert-review-by-zdnet/"><u>Top 5 Premium Solar Lamps - Expert Review by ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-affordable-bluetooth-speakers-of-2022-your-guide-to-high-quality-sound-on-a-budget/"><u>Top Affordable Bluetooth Speakers of 2022 - Your Guide to High-Quality Sound on a Budget</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-affordable-lawn-mowers-a-comprehensive-guide-by-zdnet/"><u>Top Affordable Lawn Mowers : A Comprehensive Guide by ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-labor-day-sale-secure-your-home-with-25-discount-on-blink-mini-2-the-ultimate-camera-offer/"><u>Top Labor Day Sale: Secure Your Home with 25% Discount on Blink Mini 2 - The Ultimate Camera Offer</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshooting-non-recognizing-usb-devices-on-w78/"><u>Troubleshooting Non-Recognizing USB Devices on W7/8</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/ways-to-trade-pokemon-go-from-far-away-on-infinix-note-30i-drfone-by-drfone-virtual-android/"><u>Ways to trade pokemon go from far away On Infinix Note 30i? | Dr.fone</u></a></li>
+</ul></div>
 

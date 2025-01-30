@@ -1,7 +1,7 @@
 ---
 title: "Apple's New Horizons for iPhone, iPad & Mac: A Comprehensive Guide to Fall 2021 Features with a Focus on AI | Analysis"
-date: 2025-01-19T02:26:26.888Z
-updated: 2025-01-22T20:51:37.412Z
+date: 2025-01-23T18:44:06.844Z
+updated: 2025-01-30T17:04:23.365Z
 tags:
   - apple
 categories:
@@ -38,10 +38,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Apple Intelligence (AI)
 
 Maria Diaz/ZDNET
@@ -72,6 +68,10 @@ Jason Hiner/ZDNET
 * Users can access ChatGPT via this integration for free, and OpenAI will not log their data. ChatGPT Plus users can connect their subscriptions to access more advanced features, in which case OpenAI's data usage policies apply.
 * The ChatGPT integration will be coming to iOS 18, iPadOS 18, and MacOS Sequoia later this year.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## iOS 18
 
 Adam Breeden/ZDNET
@@ -91,7 +91,7 @@ Adam Breeden/ZDNET
 * The **Calendar app** can now pull from the Reminders app for a more seamless schedule overview.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## WatchOS 11
@@ -108,6 +108,10 @@ Adam Breeden/ZDNET
 * **Check In** is available on Apple Watch, even during workouts, to help users stay safe. **Translate** is also coming to Apple Watch so users can translate text right from their wrists.
 * Another notable change is that the **double tap gesture** can be used to scroll through apps.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## iPadOS 18
 
 Adam Breeden/ZDNET
@@ -119,7 +123,7 @@ Adam Breeden/ZDNET
 * iPadOS 18 supports **screen-sharing via SharePlay** and the same Control Center customizations, Photos app upgrades, Safari updates, and emoji Tapbacks found in **iOS 18.**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## MacOS 15 (Sequoia)
@@ -150,10 +154,6 @@ Jason Hiner/ZDNET
 * Users can **cast content** from their iPhone, iPad, or Mac to the Vision Pro using AirPlay.
 * Apple is also making the Vision Pro available in more countries starting June 28\. You can see the full list [here](https://www.apple.com/newsroom/2024/06/apple-vision-pro-arrives-in-new-countries-and-regions-beginning-june-28/).
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## AirPods
 
 Jason Hiner/ZDNET
@@ -163,7 +163,7 @@ Jason Hiner/ZDNET
 * Apple is also releasing a **Personalized Spatial Audio API** for game developers to build around the AirPods' audio technology.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## tvOS 18
@@ -210,22 +210,22 @@ Screenshot by Nina Raemont/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-digital-converters-showcase-optimal-ytvideo-text-extraction/"><u>[New] 2024 Approved Digital Converters Showcase Optimal YTVideo Text Extraction</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-analysis-of-fb-video-proportions/"><u>[New] Analysis of FB Video Proportions</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-peek-at-all-shared-images-and-videos-in-chats/"><u>[New] Peek at All Shared Images & Videos in Chats</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ltimate-youtuber-wealth-wonders/"><u>[New] Ultimate Youtuber Wealth Wonders</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-elite-4k-reflections-the-best-mirrorless-picks/"><u>[Updated] 2024 Approved Elite 4K Reflections The Best Mirrorless Picks</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-in-2024-miniature-harmonies-character-music-journey/"><u>[Updated] In 2024, Miniature Harmonies Character Music Journey</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/2023s-leading-stereo-audio-devices-reviewed-by-tech-experts/"><u>2023'S Leading Stereo Audio Devices Reviewed by Tech Experts</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/alexa-assistants-showdown-picking-the-perfect-partner-between-echo-pop-and-echo-dot/"><u>Alexa Assistants Showdown: Picking the Perfect Partner Between Echo Pop and Echo Dot</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/approach-examine-specific-exclusions-within-the-nlra-regarding-public-sector-employees-and-essential-services/"><u>Approach: Examine Specific Exclusions Within the NLRA Regarding Public Sector Employees and Essential Services.</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/budget-beats-and-thunderous-sound-discovering-the-best-high-volume-low-cost-bluetooth-speakers-on-the-market/"><u>Budget Beats & Thunderous Sound: Discovering the Best High-Volume, Low-Cost Bluetooth Speakers on the Market</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/expert-evaluation-of-marshall-active-noise-cancellation-tech-by-zdnet-reviews/"><u>Expert Evaluation of Marshall Active Noise Cancellation Tech by ZDNet Reviews</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/experts-choose-the-safest-kids-headphones-for-2e-2023-edition-gizmodo/"><u>Experts Choose the Safest Kids' Headphones for 2E, 2023 Edition | Gizmodo</u></a></li>
-<li><a href="https://win-dash.techidaily.com/performance-beyond-expectations-in-depth-analysis-of-the-lenovo-legion-7i-16-gen-9/"><u>Performance Beyond Expectations: In-Depth Analysis of the Lenovo Legion 7I, 16 Gen 9</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/stylish-and-durable-nomad-case-for-iphone-13-with-magsafe-compatibility-and-superior-drop-proof-design-reviews-from-zdnet/"><u>Stylish & Durable Nomad Case for iPhone 13 with MagSafe Compatibility & Superior Drop-Proof Design – Reviews From ZDNet</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/ultimate-guide-to-premium-mobile-sound-the-leading-portable-speaker-picks-for-2n23-zdnet-insights/"><u>Ultimate Guide to Premium Mobile Sound: The Leading Portable Speaker Picks for 2N23 | ZDNet Insights</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/unlock-the-full-potential-16-essential-functions-of-alexa-on-amazon-echo-as-revealed-by-zdnet/"><u>Unlock the Full Potential: 16 Essential Functions of Alexa on Amazon Echo as Revealed by ZDNet</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1723009424928-windows-11-taskbar-trouble-heres-how-to-make-it-work-again/"><u>Windows 11 Taskbar Trouble? Here's How to Make It Work Again</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-syncing-vimeo-and-instagram-the-ultimate-guide/"><u>[New] 2024 Approved Syncing Vimeo and Instagram The Ultimate Guide</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-vector-art-basics-for-newcomers-diverse-forms-and-tools/"><u>[New] Vector Art Basics for Newcomers, Diverse Forms and Tools</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-tips-on-filming-with-drone/"><u>[Updated] In 2024, Tips on Filming with Drone</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-in-2024-top-10-ai-powered-name-generators-for-podcasts-online/"><u>[Updated] In 2024, Top 10 AI-Powered Name Generators for Podcasts Online</u></a></li>
+<li><a href="https://win-brilliant.techidaily.com/crossref-e-linking-semantico/"><u>Crossref E Linking Semântico</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discovering-metas-approach-to-advanced-ai-solutions/"><u>Discovering Meta’s Approach to Advanced AI Solutions</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/easy-steps-for-securing-your-data-iphone-backup-using-icloud-and-macos-tech-insights/"><u>Easy Steps for Securing Your Data: IPhone Backup Using iCloud & macOS | Tech Insights</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-tips-resolving-microsoft-print-to-pdf-problems-across-windows-1011-systems/"><u>Expert Tips: Resolving Microsoft Print to PDF Problems Across Windows 10/11 Systems</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/exploring-the-history-of-netflixs-once-popular-dvd-rentals-service/"><u>Exploring the History of Netflix's Once-Popular DVD Rentals Service</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/ideal-methods-for-streaming-and-archiving-sports-events/"><u>Ideal Methods for Streaming and Archiving Sports Events</u></a></li>
+<li><a href="https://blog-min.techidaily.com/in-2024-how-to-teleport-your-gps-location-on-infinix-zero-5g-2023-turbo-drfone-by-drfone-virtual-android/"><u>In 2024, How To Teleport Your GPS Location On Infinix Zero 5G 2023 Turbo? | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-mastering-canons-timelapse-a-quick-guide/"><u>In 2024, Mastering Canon's Timelapse A Quick Guide</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/memorial-day-sale-save-60-on-the-apple-watch-se-a-must-have-for-your-tech-collection-zdnet/"><u>Memorial Day Sale: Save $60 on the Apple Watch SE - A Must-Have for Your Tech Collection ! | ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/must-have-twitch-streaming-features-the-ultimate-top-5-list/"><u>Must-Have Twitch Streaming Features: The Ultimate Top 5 List</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/new-arrivals-essential-charging-gadgets-from-anker-to-enhance-your-upcoming-iphone-purchase-zdnet/"><u>New Arrivals! Essential Charging Gadgets From Anker to Enhance Your Upcoming iPhone Purchase | ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-rated-apple-watch-band-picks-thoroughly-vetted-by-tech-experts-zdnet/"><u>Top Rated Apple Watch Band Picks : Thoroughly Vetted by Tech Experts - ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/windows-security-protocols-how-to-change-another-users-login-credentials/"><u>Windows Security Protocols: How to Change Another User's Login Credentials</u></a></li>
 </ul></div>
 

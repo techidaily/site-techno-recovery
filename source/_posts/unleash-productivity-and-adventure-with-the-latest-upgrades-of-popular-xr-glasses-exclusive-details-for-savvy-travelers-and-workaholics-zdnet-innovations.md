@@ -1,7 +1,7 @@
 ---
 title: Unleash Productivity and Adventure with the Latest Upgrades of Popular XR Glasses - Exclusive Details for Savvy Travelers & Workaholics | ZDNET Innovations
-date: 2025-01-20T23:54:33.987Z
-updated: 2025-01-23T04:11:21.423Z
+date: 2025-01-29T18:52:35.071Z
+updated: 2025-01-30T16:00:14.083Z
 tags:
   - apple
 categories:
@@ -21,7 +21,7 @@ Matthew Miller/ZDNET
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ZDNET's key takeaways
@@ -85,7 +85,7 @@ Along with the [Viture Pro XR glasses](https://buy.geni.us/Proxy.ashx?TSID=36825
 Lastly, Viture announced a new limited-edition controller in partnership with 8BitDo. You can connect this new controller, with a classic XBox-style controller layout, via Bluetooth to your gaming device, including the Nintendo Switch. The smokey translucent design looks cool and matches the Viture ecosystem. The 8BitDo controller also serves as a companion to the Viture Neckband, but I have yet to try out the Neckband, so I cannot share my experiences with that accessory.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ZDNET's buying advice
@@ -122,14 +122,16 @@ The [Viture Pro XR glasses](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-a-compreenas-step-by-step-guide-for-bordered-instagram-images/"><u>[New] A Compreenas Step-by-Step Guide for Bordered Instagram Images</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-profiles-in-metaverse-promotion-case-studies-and-more/"><u>[New] Profiles in Metaverse Promotion Case Studies and More</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-going-vertical-post-production-strategies-with-fcpx-and-insta-for-2024/"><u>[Updated] Going Vertical Post-Production Strategies with FCPX and Insta for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/emerging-leadership-in-the-age-of-generative-ai-how-new-software-management-positions-are-shaping-up-zdnet/"><u>Emerging Leadership in the Age of Generative AI: How New Software Management Positions Are Shaping Up | ZDNet</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/in-2024-behind-the-scenes-developing-vegaspro-19/"><u>In 2024, Behind-the-Scenes Developing VegasPro '19</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/learn-sustainable-energy-practices-in-this-affordable-engineering-bootcamp-now-available-at-just-40-detailed-review-and-offer/"><u>Learn Sustainable Energy Practices in This Affordable Engineering Bootcamp Now Available at Just $40 - Detailed Review & Offer</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/secrets-to-successfully-arranging-information-rich-conversations-with-experts-a-non-intrusive-guide-by-zdnet/"><u>Secrets to Successfully Arranging Information-Rich Conversations With Experts - A Non-Intrusive Guide by ZDNet</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ify-your-path-to-youtube-short-mastery/"><u>Simplify Your Path to YouTube Short Mastery</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/top-free-artificial-intelligence-learning-programs-is-investing-in-an-ai-certificate-beneficial-zdnet-insights/"><u>Top Free Artificial Intelligence Learning Programs: Is Investing in an AI Certificate Beneficial? - ZDNet Insights</u></a></li>
+<li><a href="https://howto.techidaily.com/8-workable-fixes-to-the-sim-not-provisioned-mm2-error-on-xiaomi-redmi-a2plus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Workable Fixes to the SIM not provisioned MM#2 Error on Xiaomi Redmi A2+ | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/apple-enhances-accessibility-with-eye-tracking-technology-empowering-users-to-operate-iphones-and-ipads-with-their-vision-tech-news-update/"><u>Apple Enhances Accessibility with Eye Tracking Technology, Empowering Users to Operate iPhones & iPads with Their Vision | Tech News Update</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/camera-face-off-which-succeeds-more-pixel-cuisine-of-the-camera-showdown-between-pixel-9-pro-xl-and-iphone-15-pro-zdnet-insights/"><u>Camera Face-Off: Which Succeeds More, Pixel Cuisine of the Camera Showdown Between Pixel 9 Pro XL and iPhone 15 Pro | ZDNET Insights</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/choosing-the-best-apple-wireless-speaker-a-comparison-between-homepod-and-homepod-mini-insights-from-zdnet/"><u>Choosing the Best Apple Wireless Speaker: A Comparison Between HomePod and HomePod Mini - Insights From ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/esrs-advanced-cryoboost-technology-in-new-qi2-lineup-achieves-lightning-speed-iphone-16-charges-without-overheating-insights/"><u>ESR's Advanced CryoBoost Technology in New Qi2 Lineup Achieves Lightning-Speed iPhone 16 Charges Without Overheating | Insights</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-your-realme-gt-neo-5-location-on-twitter-drfone-by-drfone-virtual-android/"><u>How to Change your Realme GT Neo 5 Location on Twitter | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-use-special-features-virtual-location-on-motorola-moto-g04-drfone-by-drfone-virtual-android/"><u>How To Use Special Features - Virtual Location On Motorola Moto G04? | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-remove-the-lock-screen-fingerprint-of-your-meizu-21-by-drfone-android/"><u>In 2024, Remove the Lock Screen Fingerprint Of Your Meizu 21</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-top-10-fingerprint-lock-apps-to-lock-your-honor-magic-6-lite-phone-by-drfone-android/"><u>In 2024, Top 10 Fingerprint Lock Apps to Lock Your Honor Magic 6 Lite Phone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mastering-the-art-of-ai-image-generation-with-dall-e-and-gpt-4/"><u>Mastering the Art of AI Image Generation with DALL-E and GPT-4</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-9-asus-rog-phone-8-pro-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>Top 9 Asus ROG Phone 8 Pro Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
 </ul></div>
 

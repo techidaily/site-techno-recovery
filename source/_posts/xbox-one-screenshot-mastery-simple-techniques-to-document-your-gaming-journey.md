@@ -1,7 +1,7 @@
 ---
 title: "Xbox One Screenshot Mastery: Simple Techniques to Document Your Gaming Journey"
-date: 2025-01-16T23:25:53.723Z
-updated: 2025-01-23T07:24:19.570Z
+date: 2025-01-24T16:22:05.259Z
+updated: 2025-01-30T18:39:46.068Z
 categories:
   - BestProducts
 description: "This Article Describes Xbox One Screenshot Mastery: Simple Techniques to Document Your Gaming Journey"
@@ -17,7 +17,7 @@ thumbnail: https://thmb.techidaily.com/57dbc57b52c40c100c33b010fd03c7c914f04eea2
 ## Windows 11 Screen Shot Techniques - Learn the Four Key Strategies
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### What to Know
@@ -29,7 +29,7 @@ thumbnail: https://thmb.techidaily.com/57dbc57b52c40c100c33b010fd03c7c914f04eea2
  This article explains all the different ways to make Windows 11 screenshots.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Use PrtScn to Screenshot the Whole Screen
@@ -43,7 +43,7 @@ thumbnail: https://thmb.techidaily.com/57dbc57b52c40c100c33b010fd03c7c914f04eea2
 [16 Ways To Fix It When Print Screen Is Not Working in Windows](https://www.lifewire.com/fix-print-screen-not-working-5442833)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fullscreen Screenshot and Auto-save to Folder
@@ -73,6 +73,10 @@ thumbnail: https://thmb.techidaily.com/57dbc57b52c40c100c33b010fd03c7c914f04eea2
 
 ![Windows 11 snip tool capturing calculator. ](https://www.lifewire.com/thmb/DxIz1nlXgizX8YqQ1wgTdi_r9eE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/snip-tool-windows-11-30e70f87ddfc45799a2dc78ebd4dc0b0.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  To avoid memorizing this shortcut, you can tie it to the PrtSc button so that when you press it, this same menu shows up automatically. To do this, go to**Settings** \>**Accessibility** \>**Keyboard** , and then turn on**Use the Print screen key to open screen capture** .
 
  After choosing one of those options, the image will be saved to the clipboard, which you can paste into an email or some other program that accepts pasting pictures.
@@ -80,10 +84,6 @@ thumbnail: https://thmb.techidaily.com/57dbc57b52c40c100c33b010fd03c7c914f04eea2
  Or, if you select the prompt that pops up at the bottom of the screen after taking the screenshot, it'll open in Snipping Tool. There are markup tools like a pencil and highlighter. You can also easily crop the screenshot further, print it out, copy text from it, import it into Paint, run it through Bing's reverse image search tool, and save it as a PNG, JPG, or GIF file.
 
 ![A Windows 11 screenshot open in Snipping Tool](https://www.lifewire.com/thmb/n8hloKQGZfQTHNEMKqTmWZC4D_M=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/windows-11-snipping-tool-cfcc4b1e0c154d509e2d312ce4538e4e.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Delayed Screenshots With Snipping Tool
 
@@ -94,7 +94,7 @@ thumbnail: https://thmb.techidaily.com/57dbc57b52c40c100c33b010fd03c7c914f04eea2
  With the program open, select the**stopwatch** . There are three options:**3-second delay** ,**5-second delay** , and**10-second delay** . Select one, choose**New** , and then quickly arrange the screen in the way you need it for the screenshot. When the time you chose is reached, the four options above will display at the top of the screen.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Tips for Taking Screenshots in Windows 11
@@ -143,20 +143,19 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-optimal-drone-cameras-film-and-snapshot-heroes-10-for-2024/"><u>[New] Optimal Drone Cameras Film & Snapshot Heroes #10 for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-in-2024-conduct-an-audiovisual-symphony-for-ppt/"><u>[Updated] In 2024, Conduct an Audiovisual Symphony for PPT</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-lens-legends-cutting-edge-camera-choices-1-10/"><u>[Updated] Lens Legends Cutting-Edge Camera Choices #1-10</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-optimized-introduction-video-tips-the-best-16-to-increase-views-for-2024/"><u>[Updated] Optimized Introduction Video Tips The Best 16 to Increase Views for 2024</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/best-ways-on-how-to-unlockbypassswiperemove-motorola-moto-g14-fingerprint-lock-by-drfone-android/"><u>Best Ways on How to Unlock/Bypass/Swipe/Remove Motorola Moto G14 Fingerprint Lock</u></a></li>
-<li><a href="https://howto.techidaily.com/gmail-not-working-on-honor-90-pro-7-common-problems-and-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Gmail Not Working on Honor 90 Pro 7 Common Problems & Fixes | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-hacks-to-do-pokemon-go-trainer-battles-for-itel-p40plus-drfone-by-drfone-virtual-android/"><u>In 2024, Hacks to do pokemon go trainer battles For Itel P40+ | Dr.fone</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/24-overcoming-non-displayed-thumbnails-youtube-shorts-guide/"><u>In 2024, Overcoming Non-Displayed Thumbnails YouTube Shorts Guide</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/in-2024-zooming-in-a-step-by-step-guide-to-perfect-screenshare/"><u>In 2024, Zooming In A Step-by-Step Guide to Perfect Screenshare</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/navigating-the-recent-cash-app-and-square-downtime-essential-insights-for-small-business-owners-zdnet/"><u>Navigating the Recent Cash App and Square Downtime: Essential Insights for Small Business Owners | ZDNet</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/prime-day-alert-secure-the-best-smart-deal-with-the-affordable-echo-pop-and-blink-video-doorbell-combo-why-zdnet-says-its-a-must-have/"><u>Prime Day Alert: Secure the Best Smart Deal with the Affordable Echo Pop & Blink Video Doorbell Combo – Why ZDNET Says It's a Must-Have!</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/profit-strategies-for-promoting-beloved-amazon-deals-during-prime-day-events/"><u>Profit Strategies for Promoting Beloved Amazon Deals During Prime Day Events</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/the-threat-of-tesla-and-elon-musks-free-speech-stance-to-indias-vulnerable-groups-revealed-wired/"><u>The Threat of Tesla and Elon Musk's Free Speech Stance to India's Vulnerable Groups Revealed | Wired</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/unlocking-creative-gifting-solutions-with-googles-cutting-edge-artificial-intelligence-technology-techradar/"><u>Unlocking Creative Gifting Solutions with Google's Cutting-Edge Artificial Intelligence Technology | TechRadar</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/unpacking-pinterests-bold-move-to-dominate-e-commerce-a-deep-dive-into-their-game-changing-tactics-digital-marketing-today/"><u>Unpacking Pinterest's Bold Move to Dominate E-Commerce: A Deep Dive Into Their Game-Changing Tactics | Digital Marketing Today</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-expertly-selected-best-9-video-conference-apps-for-cross-platform-use/"><u>[New] 2024 Approved Expertly Selected Best 9 Video Conference Apps for Cross-Platform Use</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-top-12-tycoons-the-ultimate-challenge-for-every-gamer/"><u>[Updated] 2024 Approved Top 12 Tycoons - The Ultimate Challenge for Every Gamer</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-dancing-to-the-tune-youtubes-hottest-music-video-responses-23-for-2024/"><u>[Updated] Dancing to the Tune YouTube's Hottest Music Video Responses, '23 for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-understanding-facebooks-silent-video-alerts-for-2024/"><u>[Updated] Understanding Facebook's Silent Video Alerts for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/a-review-best-text-plugins-for-your-after-effects-projects/"><u>A Review Best Text Plugins For Your After Effects Projects</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/from-front-to-back-a-step-by-step-guide-to-creating-engaging-angles-in-photography-for-instagram-triumphs/"><u>From Front to Back A Step-by-Step Guide to Creating Engaging Angles in Photography for Instagram Triumphs</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-apples-latest-update-enables-direct-recording-of-calls-in-ios-18-no-extra-software-needed/"><u>How Apple's Latest Update Enables Direct Recording of Calls in iOS 18 - No Extra Software Needed</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-find-and-install-the-right-logitech-g602-drivers-for-microsoft-os/"><u>How to Find and Install the Right Logitech G602 Drivers for Microsoft OS</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-resolve-infinix-hot-30-5g-screen-not-working-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Resolve Infinix Hot 30 5G Screen Not Working | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-migrate-android-data-from-poco-m6-pro-4g-to-new-android-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Migrate Android Data From Poco M6 Pro 4G to New Android Phone? | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/optimized-charging-and-cooling-the-ultimate-3-in-1-magsafe-dock-for-apple-gadgets-explore-the-latest-review-on-zdnet/"><u>Optimized Charging & Cooling: The Ultimate 3-in-1 MagSafe Dock for Apple Gadgets - Explore the Latest Review on ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-rated-notetaking-tablets-of-2024-comprehensive-reviews-and-comparisons/"><u>Top Rated Notetaking Tablets of 2024: Comprehensive Reviews & Comparisons</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ultimate-list-of-premium-wireless-charging-devices-rigorously-tested-zdnet/"><u>Ultimate List of Premium Wireless Charging Devices , Rigorously Tested | ZDNET</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/zoom-enhances-functionality-on-vision-pro-headsets-readies-yourself-for-potentially-eccentric-virtual-gatherings-zdnet-insight/"><u>Zoom Enhances Functionality on Vision Pro Headsets - Readies Yourself for Potentially Eccentric Virtual Gatherings | ZDNET Insight</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Guide: Halting Unnecessary Android Application Activity in the Background"
-date: 2025-01-17T07:07:49.437Z
-updated: 2025-01-23T00:15:18.903Z
+date: 2025-01-26T16:38:09.313Z
+updated: 2025-01-30T17:56:11.328Z
 categories:
   - BestProducts
 description: "This Article Describes Guide: Halting Unnecessary Android Application Activity in the Background"
@@ -19,10 +19,6 @@ thumbnail: https://thmb.techidaily.com/b4ed3f08ab6e820bb58ff66c5f5e67696c65d753e
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Why Skype Is Not Working
 
  There could be a microphone problem or an issue with your audio settings, so you can't hear the other person, or they can't hear you. Or maybe you can't log in to Skype because you've forgotten your password. Still, another reason could be that your external speakers or microphone are no longer working, and you need to get new[hardware](https://www.lifewire.com/computer-hardware-2625895) . Maybe Skype won't connect because the service itself is having issues.
@@ -33,6 +29,10 @@ thumbnail: https://thmb.techidaily.com/b4ed3f08ab6e820bb58ff66c5f5e67696c65d753e
 
  If you're having issues[making HD video calls with Skype](https://www.lifewire.com/how-to-make-hd-skype-calls-3426508) , there are a number of other factors that go into troubleshooting the reason.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Step 1: Reset Your Password
 
  Reset your password if you can't log in to Skype. Visit[Microsoft's Recover Your Account](https://account.live.com/resetpassword.aspx) page to walk through resetting your Skype password, or use our[step-by-step guide for resetting your Microsoft Account password](https://www.lifewire.com/how-to-reset-your-microsoft-account-password-2624953) (it's the same account).
@@ -40,10 +40,6 @@ thumbnail: https://thmb.techidaily.com/b4ed3f08ab6e820bb58ff66c5f5e67696c65d753e
  Enter the email address you used when you first signed up, and then follow the directions there to learn how to get a new password and log back in to start making video and audio calls again.
 
  If you'd rather, you can[make a totally new Skype account](https://www.lifewire.com/how-to-create-a-skype-account-on-windows-4800185) .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Step 2: Check to See if It's Skype's Problem
 
@@ -66,7 +62,7 @@ thumbnail: https://thmb.techidaily.com/b4ed3f08ab6e820bb58ff66c5f5e67696c65d753e
  If other websites are working normally, the reason Skype can't make calls or why it's experiencing dropped calls could be related to[bandwidth](https://www.lifewire.com/what-is-bandwidth-2625809) usage. If there are multiple other people on your network that are using the internet at the same time, pause or stop the activity on those devices and then see if Skype starts working again.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Step 4: Check Skype's Audio Settings and Permissions
@@ -74,10 +70,6 @@ thumbnail: https://thmb.techidaily.com/b4ed3f08ab6e820bb58ff66c5f5e67696c65d753e
  If you can't hear the other caller(s), double-check that other sources of audio, like a YouTube video, works as you'd expect. Just open any video there to see if you can hear it.
 
  If there's a playback error in Skype specifically (and not on YouTube, etc.) and you can't hear the other person you're talking with, or they can't hear you, you need to check that the program has access to your speakers and microphone.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Using Skype on a Computer
 
@@ -91,6 +83,10 @@ thumbnail: https://thmb.techidaily.com/b4ed3f08ab6e820bb58ff66c5f5e67696c65d753e
 * To check the sound in Skype to make sure that it's using the right speakers, select**Test audio** under the**Speakers** option. You should hear sound in your headset or speakers.
 * If you don't hear anything when you play the sample sound, make sure your speakers or headphones are turned all the way up (some headphones have physical volume buttons) and that the on-screen settings are at**10** .
 * If the volume is fine, double-check the menu next to**Speakers** and see if there's another option to pick from, and then try the sample sound again.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Using Skype for Mobile Devices
 
@@ -108,10 +104,6 @@ thumbnail: https://thmb.techidaily.com/b4ed3f08ab6e820bb58ff66c5f5e67696c65d753e
 2. Find and open**Skype** and then**Permissions** .
 3. Tap**Microphone** , and then choose**Allow only while using the app** .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Step 5: Check Skype's Video Settings and Permissions
 
  Problems with how Skype accesses the camera might be the reason the person you're talking with can't see your video.
@@ -128,6 +120,10 @@ thumbnail: https://thmb.techidaily.com/b4ed3f08ab6e820bb58ff66c5f5e67696c65d753e
 * Make sure that there's nothing physically blocking the camera.
 * Use the menu to the right of the**Camera** area in the settings to choose a different camera if you have more than one.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Skype for Mobile Devices
 
  If Skype video is not working on your iPad, iPhone, or other iOS devices, go into the**Settings** app and find**Skype** from the list, then turn on**Camera** access if it's not already.
@@ -139,7 +135,7 @@ thumbnail: https://thmb.techidaily.com/b4ed3f08ab6e820bb58ff66c5f5e67696c65d753e
  Try tapping the small camera toggle button during the call to swap between the front-facing and back-facing camera. If you're not on a call right now, you can use the**Camera**  option to test the video from your device.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Step 6: Make a Test Call in Skype
@@ -173,6 +169,10 @@ thumbnail: https://thmb.techidaily.com/b4ed3f08ab6e820bb58ff66c5f5e67696c65d753e
  If your microphone ultimately still doesn't work, try testing it with [Online Mic Test](https://www.onlinemictest.com/) . If it doesn't let you talk through it there either, then your microphone probably isn't working anymore.
 
  Replacing your mic would be a good idea at this point, assuming it's an external mic. If not, you can always add one.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Step 10: Check the System Sound
 
@@ -213,19 +213,21 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-brighten-up-your-gaming-setup-eliminate-black-screens-with-obs-for-2024/"><u>[New] Brighten Up Your Gaming Setup Eliminate Black Screens with OBS for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/new-final-cuts-ultimate-10-plug-in-essentials-list/"><u>[New] Final Cut's Ultimate 10 Plug-In Essentials List</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/lating-perfection-30-unique-and-appealing-recipe-channels/"><u>[New] Plating Perfection 30 Unique and Appealing Recipe Channels</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-online-audio-video-fusion-platform/"><u>[Updated] Online Audio Video Fusion Platform</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-top-10-fb-video-downloader-tools-firefox-compatible-for-2024/"><u>[Updated] Top 10 FB Video Downloader Tools, Firefox Compatible for 2024</u></a></li>
-<li><a href="https://app-tips.techidaily.com/24-billion-allocation-for-advanced-ict-systems-and-e-services-by-singapore-expert-analysis-on-zdnet/"><u>$2.4 Billion Allocation for Advanced ICT Systems and E-Services by Singapore | Expert Analysis on ZDNET</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/approved-decoding-the-revised-youtube-earnings-criteria/"><u>2024 Approved Decoding the Revised YouTube Earnings Criteria</u></a></li>
-<li><a href="https://extra-information.techidaily.com/advanced-photoshop-overlay-methods-for-2024/"><u>Advanced Photoshop Overlay Methods for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/curious-inquiry-from-an-apple-vision-pro-rep-measuring-matrimonial-affection-in-tech-sales-conversations-zdnet-insights/"><u>Curious Inquiry From an Apple Vision Pro Rep: Measuring Matrimonial Affection in Tech Sales Conversations | ZDNET Insights</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/easily-access-shared-files-from-your-chromebook-a-comprehensive-tutorial/"><u>Easily Access Shared Files From Your Chromebook: A Comprehensive Tutorial</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/expertly-selected-and-analyzed-a-consumers-ultimate-list-of-chrome-vpn-extensions/"><u>Expertly Selected and Analyzed: A Consumer's Ultimate List of Chrome VPN Extensions</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/extend-the-life-of-your-outdated-computer-before-switching-to-windows-10-top-5-budget-friendly-solutions-backed-by-zdnet/"><u>Extend the Life of Your Outdated Computer Before Switching to Windows 10: Top 5 Budget-Friendly Solutions Backed by ZDNet</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/get-to-know-unihertz-ticktock-the-robust-5g-phone-with-an-innovative-rear-display-as-spotlighted-by-zdnet/"><u>Get to Know Unihertz TickTock: The Robust 5G Phone with an Innovative Rear Display as Spotlighted by ZDNet</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/lifesaving-secret-of-the-pixel-watch-3-unveiled-discover-how-it-can-protect-you/"><u>Lifesaving Secret of the Pixel Watch 3 Unveiled - Discover How It Can Protect You</u></a></li>
+<li><a href="https://some-tips.techidaily.com/best-car-battery-jump-starters-of-the-year-2024-comprehensive-guide-and-ratings-zdnet/"><u>Best Car Battery Jump Starters of the Year 2024: Comprehensive Guide and Ratings | ZDNET</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/comprehensive-techniques-to-overcome-code-31-error-challenges-on-windows-systems/"><u>Comprehensive Techniques to Overcome Code 31 Error Challenges on Windows Systems</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/configuring-typing-accessibility-switching-the-screen-keyboard-settings-in-windows-11/"><u>Configuring Typing Accessibility: Switching the Screen Keyboard Settings in Windows 11</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-component-choices-for-gamers-and-techies-advice-from-toms-hardware/"><u>Expert Component Choices for Gamers and Techies - Advice From Tom's Hardware</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ios-1751-update-fixes-annoying-glitch-allowing-revival-of-archived-images/"><u>IOS 17.5.1 Update Fixes Annoying Glitch Allowing Revival of Archived Images</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mastering-the-type-in-depth-analysis-of-keychron-c3-pro-a-premium-wireless-mechanical-keyboard-reviewed-for-price-and-feature-richness/"><u>Mastering the Type: In-Depth Analysis of Keychron C3 Pro - A Premium Wireless Mechanical Keyboard Reviewed for Price and Feature Richness</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/selecting-your-ideal-ready-to-play-custom-built-computer-system-a-comprehensive-guide/"><u>Selecting Your Ideal Ready-to-Play Custom-Built Computer System: A Comprehensive Guide</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/shop-smart-score-big-savings-on-apples-airtags-in-a-4-pack-for-24-less-this-labor-day-find-out-more-on-zdnet/"><u>Shop Smart: Score Big Savings on Apple's AirTags in a 4-Pack for $24 Less This Labor Day - Find Out More on ZDNet</u></a></li>
+<li><a href="https://article-posts.techidaily.com/simplified-guide-to-creating-movies-in-windows-8-movie-maker-for-2024/"><u>Simplified Guide to Creating Movies in Windows 8 Movie Maker for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-rated-ups-power-solutions/"><u>Top-Rated UPS Power Solutions</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/top-tier-mp4-director-for-facebook/"><u>Top-Tier MP4 Director for Facebook</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ultimate-guide-steps-to-remove-your-profile-from-tiktok/"><u>Ultimate Guide: Steps to Remove Your Profile From TikTok</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unraveling-the-complexity-of-wireless-protocols-the-journey-from-80211b-to-ax/"><u>Unraveling the Complexity of Wireless Protocols: The Journey From 802.11B to Ax</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unveiling-the-benefits-of-chatgpt-enterprise-and-its-market-distinctions/"><u>Unveiling the Benefits of ChatGPT Enterprise & Its Market Distinctions</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/yl-software-reveals-top-picks-for-efficiently-tracking-your-cryptocurrency-investments/"><u>YL Software Reveals Top Picks for Efficiently Tracking Your Cryptocurrency Investments</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/your-ultimate-guide-to-using-and-maximizing-your-new-lenovo-9-inch-nook-tablet/"><u>Your Ultimate Guide to Using and Maximizing Your New Lenovo 9-Inch Nook Tablet</u></a></li>
 </ul></div>
 

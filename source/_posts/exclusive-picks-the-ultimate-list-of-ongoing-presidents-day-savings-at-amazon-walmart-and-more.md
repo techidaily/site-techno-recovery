@@ -1,7 +1,7 @@
 ---
 title: "Exclusive Picks: The Ultimate List of Ongoing Presidents' Day Savings at Amazon, Walmart, and More"
-date: 2025-01-21T19:21:41.703Z
-updated: 2025-01-23T02:18:38.197Z
+date: 2025-01-26T16:49:18.489Z
+updated: 2025-01-30T18:52:43.128Z
 tags:
   - apple
 categories:
@@ -26,6 +26,10 @@ Tablets run the gamut in terms of everything they can do (and all the prices the
 
 ZDNET went hands-on with the following tablets, with our pick for the best note-taking tablet overall being the [iPad Air](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fapple-10-9-inch-ipad-air-latest-model-5th-generation-with-wi-fi-64gb-purple%2F4909101.p&publisher_slug=itechdaily19598&exclusive=1), thanks to its lightweight build and compatibility with the second-generation Apple Pencil. But we also included tablets from Boox, Amazon, and more to take digital notes on this back-to-school season. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## The best note-taking tablets of 2024
 
 Show less 
@@ -42,7 +46,7 @@ Cons
 * Camera cannot be used with other apps
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Apple iPad Air (5th generation)
@@ -77,10 +81,14 @@ Cons
 * Speaker could be better
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Boox Note Air 3 C
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Best lightweight note-taking tablet
 
@@ -141,11 +149,11 @@ Pros
 Cons 
 * Missing apps
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Samsung Galaxy Tab S9
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Best note-taking tablet for Android users
 
@@ -178,10 +186,6 @@ Cons
 
 ## Amazon Fire Max 11
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Best budget note-taking tablet
 
 With a starting price of $245, the Fire Max 11 brings an 11-inch display, 4GB of memory and 64GB of storage with support for 1TB of microSD card storage. If you're looking for a tablet for work and play, the Fire Max 11 Productivity Bundle costs $370, but comes with a keyboard with touchpad, case, and a stylus that has 4,096 levels of pressure.
@@ -199,7 +203,7 @@ Overall, 94% of Best Buy customers would recommend this tablet to others, giving
 Show Expert Take Show less 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What is the best note-taking tablet?
@@ -231,7 +235,7 @@ However, if you want a tablet you can use for school and for everyday things lik
 | Amazon Fire Max 11                    | A budget-friendly tablet for under $350\. It is compatible with the Amazon Stylus pen, and you can also attach a keyboard to it.     |
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Factors to consider when choosing the best note-taking tablet
@@ -258,10 +262,6 @@ For a deeper look into our testing process, check out our comprehensive [tablet 
 ## Do I need a stylus for a note-taking tablet?
 
 Using a stylus is totally up to you, but it can definitely help with functionality. Some tablets come with a stylus, while others will have them sold separately. If you're looking at this from a cost perspective, consider the fact that the stylus will often be an added expense, but you may find it worth it for ease of use, especially if you're the type that likes the feeling of writing out your notes rather than typing them.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What are the best note-taking apps?
 
@@ -321,18 +321,22 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-2024-approved-calculating-costs-in-youtube-advertising-campaigns/"><u>[New] 2024 Approved Calculating Costs in YouTube Advertising Campaigns</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-time-management-wizards-the-ultimate-guide-to-facebook-timetables/"><u>[New] In 2024, Time Management Wizards The Ultimate Guide to Facebook Timetables</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/new-schedule-smarter-the-art-of-youtube-content-timing/"><u>[New] Schedule Smarter The Art of YouTube Content Timing</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-the-music-law-guide-for-instagram-users-for-2024/"><u>[New] The Music Law Guide for Instagram Users for 2024</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/3-ways-to-track-oppo-reno-11f-5g-without-them-knowing-drfone-by-drfone-virtual-android/"><u>3 Ways to Track Oppo Reno 11F 5G without Them Knowing | Dr.fone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/blue-screen-of-death-bsod/"><u>Blue Screen of Death (BSOD)</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/customize-your-windows-11-experience-with-a-new-taskbar-hue-a-comprehensive-tutorial/"><u>Customize Your Windows 11 Experience with a New Taskbar Hue - A Comprehensive Tutorial</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/enhance-your-digital-habitat-steps-to-utilize-the-google-home-app-on-windows-and-mac-computers/"><u>Enhance Your Digital Habitat: Steps to Utilize the Google Home App on Windows & Mac Computers</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-from-freezing-points-to-inviting-landscapes/"><u>In 2024, From Freezing Points to Inviting Landscapes</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1723013778226-maplestory-game-launch-fixed-enjoy-uninterrupted-playtime/"><u>MapleStory Game Launch Fixed - Enjoy Uninterrupted Playtime!</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/1722844798210-no-more-dll-drama-expert-tips-on-restoring-lost-advapi3and-files-and-ending-error-messages/"><u>No More DLL Drama: Expert Tips on Restoring Lost Advapi3^& Files and Ending Error Messages</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/online-amv-mp3-converter-free-download-and-use-with-movavi/"><u>Online AMV MP3 Converter - Free Download & Use with Movavi</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/protecting-your-phone-what-you-need-to-know-about-iphone-13-waterproof-ratings/"><u>Protecting Your Phone: What You Need to Know About iPhone 13 Waterproof Ratings</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-full-breakdown-samsungs-immersive-camera-technology/"><u>[New] Full Breakdown Samsung's Immersive Camera Technology</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-clear-conferencing-backdrops-blurring-for-better-presence/"><u>[New] In 2024, Clear Conferencing Backdrops Blurring for Better Presence</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-unlocking-the-secrets-of-impressive-hdr-portraits/"><u>[New] Unlocking the Secrets of Impressive HDR Portraits</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-aperture-allstars-the-best-camera-lenses-to-capture-the-moment-ranked-1-10/"><u>[Updated] Aperture Allstars The Best Camera Lenses to Capture the Moment, Ranked #1-10</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/199-apple-vision-pro-travel-bag-unveiled-surprisingly-comfy-design-tech-spot/"><u>$199 Apple Vision Pro Travel Bag Unveiled: Surprisingly Comfy Design! | Tech Spot</u></a></li>
+<li><a href="https://fox-access.techidaily.com/advanced-guide-to-mastering-the-art-of-morphvox-audio-transformation/"><u>Advanced Guide to Mastering the Art of MorphVOX Audio Transformation</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/anticipating-the-next-apple-event-dates-news-scoops-and-hot-gossip-await/"><u>Anticipating the Next Apple Event? Dates, News Scoops, and Hot Gossip Await!</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discovering-the-upgrades-in-apples-latest-airpods-pro-and-max-key-features-compared-for-potential-buyers/"><u>Discovering the Upgrades in Apple's Latest AirPods Pro and Max - Key Features Compared for Potential Buyers</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/finns-funds-youtube-stars-weekly-take-home-for-2024/"><u>Finn's Funds YouTube Star’s Weekly Take-Home for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/1723013161233-football-manager-2021-pc-crash-fix-guide-stay-in-the-game-without-glitches/"><u>Football Manager 2021 PC Crash Fix Guide - Stay in the Game Without Glitches!</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-navigating-android-latest-tips-for-immersive-360-content/"><u>In 2024, Navigating Android Latest Tips for Immersive 360 Content</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/overview-of-the-best-realme-11-pro-screen-mirroring-app-drfone-by-drfone-android/"><u>Overview of the Best Realme 11 Pro Screen Mirroring App | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/recovering-lost-contacts-a-guide-to-retrieving-deleted-phone-numbers-from-your-android-device/"><u>Recovering Lost Contacts: A Guide to Retrieving Deleted Phone Numbers From Your Android Device</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-kid-friendly-smartphones-of-the-year-a-comprehensive-guide/"><u>Top Kid-Friendly Smartphones of the Year: A Comprehensive Guide</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-phones-endorsed-by-zdnet-aficionados-authentic-gadget-testimonials-and-usage-insights/"><u>Top Phones Endorsed by ZDNet Aficionados: Authentic Gadget Testimonials & Usage Insights</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-rated-ipad-models-in-depth-reviews-by-tech-experts/"><u>Top-Rated iPad Models : In-Depth Reviews by Tech Experts</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/upcoming-autumn-updates-discover-the-latest-enhancements-from-apple-for-your-iphone-ipad-mac-and-other-devices-featuring-innovative-ai-tech/"><u>Upcoming Autumn Updates: Discover the Latest Enhancements From Apple for Your iPhone, iPad, Mac, and Other Devices Featuring Innovative AI Tech</u></a></li>
 </ul></div>
 

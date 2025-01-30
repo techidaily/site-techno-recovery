@@ -1,7 +1,7 @@
 ---
 title: "Efficient Spreadsheet Strategies: Joining Two Columns Together in Microsoft Excel"
-date: 2025-01-16T20:51:50.164Z
-updated: 2025-01-23T05:47:43.974Z
+date: 2025-01-29T18:45:04.044Z
+updated: 2025-01-30T16:44:36.835Z
 categories:
   - BestProducts
 description: "This Article Describes Efficient Spreadsheet Strategies: Joining Two Columns Together in Microsoft Excel"
@@ -17,10 +17,6 @@ thumbnail: https://thmb.techidaily.com/969f33b117977e3c9183a386d2bdc9ab1274e9f63
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Get the Microsoft Student Discount
 
  To get the Microsoft student discount, all you have to do is access the online Microsoft store through the student and military discount portal. Here's how the process works:
@@ -29,11 +25,15 @@ thumbnail: https://thmb.techidaily.com/969f33b117977e3c9183a386d2bdc9ab1274e9f63
 ![A screenshot of the Microsoft Student and Military Discounts site.](https://www.lifewire.com/thmb/X2vwXV9ttV8LhYs5flrq2E9F4I4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001-how-to-get-a-microsoft-store-student-discount-c8d2274843014bbb90c744cecc473495.jpg)
 2. The site tells you you're eligible for special pricing. Select**OK** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![A screenshot of the Microsoft Student Discount confirmation notice.](https://www.lifewire.com/thmb/_opw21hzYkn3V9Wb_mLqP5iLV7U=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002-how-to-get-a-microsoft-store-student-discount-3eae80c050da4116adf04508a1cb8e42.jpg)
 3. Select**Student Deals** from the list of store categories.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![The Microsoft online store.](https://www.lifewire.com/thmb/AgZeGz5ITQKUJ8jp0pIPIsbbSzI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/003-how-to-get-a-microsoft-store-student-discount-51ae65ba3fbc4b11b3eee0030822ec9e.jpg)
@@ -43,19 +43,11 @@ thumbnail: https://thmb.techidaily.com/969f33b117977e3c9183a386d2bdc9ab1274e9f63
 5. Complete the checkout process.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Checking out at the online Microsoft store.](https://www.lifewire.com/thmb/gF3Dy3jJNOJlbYJPatebpx5EyGw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/005-how-to-get-a-microsoft-store-student-discount-011f2569dab04dcb8c3c942c4cba5e55.jpg)  
  If you choose to pick up your order at a local Microsoft store, remember to bring your student ID. Microsoft doesn't verify enrollment during online purchases, but they may ask for proof of enrollment during pickup.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Who Is Eligible for Microsoft's Student Discount?
 
@@ -66,6 +58,14 @@ thumbnail: https://thmb.techidaily.com/969f33b117977e3c9183a386d2bdc9ab1274e9f63
 * Enrolled at a four-year university, two-year college, or a vocational school.
 
 ![Person accessing the Microsoft student discount on a phone.](https://www.lifewire.com/thmb/h1sE0kaVMIxmUmfOCw7SnD4v-cI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/microsoftstudentdiscount-3fb8972d9f274cb5a0c5dbc2bc56beb1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What Does Microsoft's Student Discount Get You?
 
@@ -117,16 +117,22 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-speed-up-instagrams-media-a-comparative-guide/"><u>[New] 2024 Approved Speed Up Instagram's Media A Comparative Guide</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-behind-the-curtain-how-youtube-tallys-its-views/"><u>[Updated] In 2024, Behind the Curtain How YouTube Tally's Its Views</u></a></li>
-<li><a href="https://fox-links.techidaily.com/2024-approved-design-your-digital-joke/"><u>2024 Approved Design Your Digital Joke</u></a></li>
-<li><a href="https://facebook.techidaily.com/exploring-the-worthiness-of-meta-endorsements/"><u>Exploring the Worthiness of Meta Endorsements</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-what-legendaries-are-in-pokemon-platinum-on-tecno-pop-7-pro-drfone-by-drfone-virtual-android/"><u>In 2024, What Legendaries Are In Pokemon Platinum On Tecno Pop 7 Pro? | Dr.fone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/is-amazon-echo-studio-leading-the-pack-a-comprehensive-review-of-todays-best-smart-speakers-zdnet/"><u>Is Amazon Echo Studio Leading the Pack? A Comprehensive Review of Today's Best Smart Speakers - ZDNet</u></a></li>
-<li><a href="https://extra-support.techidaily.com/mastering-srt-insertion-a-complete-guide-to-mp4-improvement-for-2024/"><u>Mastering SRT Insertion A Complete Guide to MP4 Improvement for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/overcoming-autominimize-a-step-by-step-process/"><u>Overcoming AutoMinimize: A Step-by-Step Process</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/top-5-affordable-wireless-sound-systems-below-100-features-and-reviews-techradar/"><u>Top 5 Affordable Wireless Sound Systems Below $100 - Features & Reviews | TechRadar</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/transform-your-house-into-a-smart-haven-with-the-amazing-35-amazon-echo-and-video-doorbell-bundle-ending-prime-day-deals/"><u>Transform Your House Into a Smart Haven with the Amazing $35 Amazon Echo & Video Doorbell Bundle, Ending Prime Day Deals!</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/ultimate-guide-to-the-best-sound-systems-for-gamers-expert-evaluations-and-picks-zdnet/"><u>Ultimate Guide to the Best Sound Systems for Gamers - Expert Evaluations and Picks | ZDNet</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/updated-essential-websites-for-youtube-preview-creation-tools/"><u>[Updated] Essential Websites for YouTube Preview Creation Tools</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/1724766143433-macx-dvd-ripper-pro/"><u>年末特別企画MacX DVD Ripper Pro無料プレゼントキャンペーン第二弾が始まった！</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/boost-your-apple-watchs-endurance-top-8-essential-battery-saving-tweaks/"><u>Boost Your Apple Watch's Endurance: Top 8 Essential Battery-Saving Tweaks</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/free-online-mp3-to-m4b-converter-fast-simple-process-with-movavi/"><u>Free Online MP3-to-M4B Converter - Fast, Simple Process with Movavi</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/guide-mastering-the-art-of-adding-gifs-to-your-instagram-comments/"><u>Guide: Mastering the Art of Adding GIFs to Your Instagram Comments</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-14-pro-max-apples-new-iphone-by-drfone-ios/"><u>How to Unlock iPhone 14 Pro Max, Apples New iPhone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-best-5-gif-to-video-converter-online-no-need-to-download/"><u>In 2024, Best 5 GIF to Video Converter Online [No Need to Download]</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-catch-or-beat-sleeping-snorlax-on-pokemon-go-for-infinix-note-30i-drfone-by-drfone-virtual-android/"><u>In 2024, Catch or Beat Sleeping Snorlax on Pokemon Go For Infinix Note 30i | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-optimize-editing-efficiency-using-xps-capabilities/"><u>In 2024, Optimize Editing Efficiency Using XP's Capabilities</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/issue-alert-liquid-found-in-iphone-charging-port-immediate-actions-required/"><u>Issue Alert: Liquid Found in iPhone Charging Port - Immediate Actions Required!</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/mastering-the-art-of-sending-virtual-presents-via-steam-gift-cards/"><u>Mastering the Art of Sending Virtual Presents via Steam Gift Cards</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/perfecting-your-fitness-routine-with-airpods-pro-3s-advanced-heart-sensor-technology-gadgetguru/"><u>Perfecting Your Fitness Routine with AirPods Pro ^®3'S Advanced Heart Sensor Technology | GadgetGuru</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-ultimate-how-to-for-deactivating-sticky-keys-on-windows-systems/"><u>The Ultimate How-To for Deactivating Sticky Keys on Windows Systems</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-affordable-gamers-keyboard-selection/"><u>Top Affordable Gamers' Keyboard Selection</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-rated-ipad-pro-protection-gear-comprehensive-reviews-and-ratings-by-tech-specialists/"><u>Top-Rated iPad Pro Protection Gear : Comprehensive Reviews & Ratings by Tech Specialists</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unveiling-solutions-to-edges-memory-drain-problem/"><u>Unveiling Solutions to Edge's Memory Drain Problem</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/upcoming-nothing-phone-3-latest-insights-on-costs-launch-timeline-features-and-speculations/"><u>Upcoming Nothing Phone 3: Latest Insights on Costs, Launch Timeline, Features & Speculations</u></a></li>
 </ul></div>
 

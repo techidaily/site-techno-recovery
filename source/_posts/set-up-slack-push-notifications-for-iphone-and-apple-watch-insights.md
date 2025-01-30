@@ -1,7 +1,7 @@
 ---
 title: Set Up Slack Push Notifications for iPhone and Apple Watch | Insights
-date: 2025-01-18T07:20:43.746Z
-updated: 2025-01-23T00:03:05.809Z
+date: 2025-01-27T16:59:37.523Z
+updated: 2025-01-30T18:05:57.918Z
 tags:
   - apple
 categories:
@@ -44,13 +44,13 @@ Here's how.
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to enable Slack notifications on your Apple Watch
 
 **What you'll need:** Have the latest versions of iOS and watchOS installed on your iPhone and Apple Watch, respectively. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. Install the Slack app on your iPhone
 
@@ -58,17 +58,9 @@ There is no dedicated Slack app for the Apple Watch, but there is an iPhone app.
 
 Once it's installed, go ahead and log into your various Slack channels. Get those setup and working as you like before configuring the app for notifications.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. Set up Slack notifications in the system settings
 
 Let's make sure iOS is set up to allow Slack notifications. Go to the main Settings app and on the main settings screen, scroll all the way down to Slack. It's a long scroll past many other apps. Tap into Slack.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##   
 
@@ -80,13 +72,13 @@ Now, back out to the top of the Settings app and tap the red Notifications icon.
 
 Screenshot by David Gewirtz/ZDNET
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. Set up Slack notifications in the Slack app
 
 Next, open the Slack app. Tap your profile image in the upper right corner of the screen. Then tap Notifications.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##   
 
@@ -105,10 +97,6 @@ Next, tap Notify Me on Mobile. This will give you a few options.
 Screenshot by David Gewirtz/ZDNET
 
 Set it to "Always, even when I'm active". That way, you'll always get notifications, no matter what you're doing (unless you have Do Not Disturb turned on).
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. Set your notification schedule
 
@@ -130,15 +118,27 @@ So, make sure you set the Start and End times that fit with your schedule.
 
 Recommendation to Slack: Where you put the "Every day" option in that setting, add the times as well (e.g., "Every day 8 a.m. - 11 p.m."). That way, it's clear to users what they might need to change. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. Enable Slack notifications in the Watch app
 
 We're almost done configuring notifications. Open the Watch app and scroll down to Notifications. Then scroll down to Slack and make sure it's turned on.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##   
 
 Screenshot by David Gewirtz/ZDNET
 
 There. You've set up notifications. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  6\. Use the Watch to get Slack notifications
 
@@ -179,17 +179,21 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://discord-videos.techidaily.com/new-2024-approved-essential-skills-for-effective-discord-message-pinning/"><u>[New] 2024 Approved Essential Skills for Effective Discord Message Pinning</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-2024-approved-optimal-environmental-film-tech-roundup/"><u>[New] 2024 Approved Optimal Environmental Film Tech Roundup</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ringing-bygone-era-filmmaking-to-life-today/"><u>[New] Bringing Bygone Era Filmmaking to Life Today</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/1722857787298-d3dx927dll-mistakenly-absent-heres-how-to-restore-it/"><u>D3dx9_27.dll Mistakenly Absent? Here's How to Restore It!</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-updated-drivers-for-your-hp-scanjet-optimized-for-windows-operating-systems-including-11-and-7/"><u>Download Updated Drivers for Your HP Scanjet: Optimized for Windows Operating Systems Including 11 & 7</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-realme-12-5g-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Realme 12 5G to Outlook | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-lock-apps-on-motorola-g24-power-to-protect-your-individual-information-by-drfone-android/"><u>In 2024, How to Lock Apps on Motorola G24 Power to Protect Your Individual Information</u></a></li>
-<li><a href="https://article-helps.techidaily.com/incor-written-by-a-professor-the-article-discusses-the-use-of-metaphors-and-analogies-to-explain-complex-scientific-concepts-how-can-teachers-effectively-in/"><u>Incor Written by a Professor, the Article Discusses the Use of Metaphors and Analogies to Explain Complex Scientific Concepts. How Can Teachers Effectively Incorporate These Rhetorical Devices Into Their Teaching Methods?</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/is-it-possible-to-play-ps4-video-games-on-the-latest-ps5-platforms/"><u>Is It Possible to Play PS4 Video Games on the Latest PS5 Platforms?</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/quick-start-10-effective-tips-for-first-time-users-of-formerly-known-as-twitter/"><u>Quick Start: 10 Effective Tips for First-Time Users of Formerly Known as Twitter</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/signal-versus-whatsapp-understanding-their-unique-features-and-differences/"><u>Signal Versus WhatsApp: Understanding Their Unique Features and Differences</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/your-quick-guide-to-google-voice-call-history/"><u>Your Quick Guide to Google Voice Call History</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-giggles-galore-7-entertaining-video-sets-for-chuckleheads-for-2024/"><u>[Updated] Giggles Galore 7 Entertaining Video Sets for Chuckleheads for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-journey-journaling-paving-your-way-in-the-world-of-travel-vlogging/"><u>[Updated] In 2024, Journey Journaling Paving Your Way in the World of Travel Vlogging</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-the-most-effective-10-sound-recorders-for-spotify-fans/"><u>[Updated] The Most Effective 10 Sound Recorders for Spotify Fans</u></a></li>
+<li><a href="https://fox-that.techidaily.com/6-effective-fixes-for-non-responsive-aol-email-apps-on-iphones/"><u>6 Effective Fixes for Non-Responsive AOL Email Apps on iPhones</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/choosing-between-ipad-air-4-and-ipad-air-n-pros-cons-and-when-to-upgrade-cnet-gadgets/"><u>Choosing Between iPad Air 4 and iPad Air N: Pros, Cons & When to Upgrade | CNET Gadgets</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/essential-airpods-pro-peripherals-for-the-modern-user-the-ultimate-guide/"><u>Essential AirPods Pro Peripherals for the Modern User - The Ultimate Guide</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/fixing-no-sound-problems-in-stereo-systems-a-comprehensive-guide/"><u>Fixing No-Sound Problems in Stereo Systems: A Comprehensive Guide</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-3utools-virtual-location-not-working-on-honor-x50iplus-fix-now-drfone-by-drfone-virtual-android/"><u>In 2024, 3uTools Virtual Location Not Working On Honor X50i+? Fix Now | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-plunge-into-metaverse-top-8-high-tech-goggles-and-helmets/"><u>In 2024, Plunge Into Metaverse Top 8 High-Tech Goggles & Helmets</u></a></li>
+<li><a href="https://win-dash.techidaily.com/install-gigawares-compatible-usb-to-rs232rs485-windows-drivers-with-our-easy-download/"><u>Install Gigaware's Compatible USB to RS232/RS485 Windows Drivers with Our Easy Download</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/iphone-12-now-features-enhanced-qi-wireless-charging-without-relying-on-magsafe-what-you-need-to-know-techspot/"><u>IPhone 12 Now Features Enhanced Qi Wireless Charging Without Relying on MagSafe: What You Need to Know | TechSpot</u></a></li>
+<li><a href="https://win11.techidaily.com/rebooting-your-typing-routine-9-fixes-for-broken-keyboard-commands-on-windows/"><u>Rebooting Your Typing Routine: 9 Fixes for Broken Keyboard Commands on Windows</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-solution-restarting-and-repairing-your-zoom-camera-malfunction/"><u>Step-by-Step Solution: Restarting and Repairing Your Zoom Camera Malfunction</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/transform-your-listening-experience-get-the-latest-airpods-pro-2-with-hearing-aid-support-for-a-limited-time-offer-of-24-off/"><u>Transform Your Listening Experience – Get the Latest AirPods Pro 2 with Hearing Aid Support for a Limited Time Offer of 24% Off .</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-tips-resolving-the-rainbow-six-siege-pc-black-screen-issue/"><u>Troubleshooting Tips: Resolving the Rainbow Six Siege PC Black Screen Issue</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unlock-convenient-watching-pairing-disneyplus-with-your-chromecast-device/"><u>Unlock Convenient Watching: Pairing Disney+ with Your Chromecast Device</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: The Ultimate List of Tricks to Go Viral and Boost Your Presence on TikTok
-date: 2025-01-18T02:38:57.491Z
-updated: 2025-01-23T00:56:04.070Z
+date: 2025-01-26T16:19:17.864Z
+updated: 2025-01-30T16:13:51.214Z
 categories:
   - BestProducts
 description: This Article Describes The Ultimate List of Tricks to Go Viral and Boost Your Presence on TikTok
@@ -28,7 +28,7 @@ thumbnail: https://www.lifewire.com/thmb/YbDBqWuVP0UM_nU0--_fa-ISvG0=/400x300/fi
 2. Scroll down to the **Keyboard shortcuts** section and select **Keyboard shortcuts on** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![The Keyboard Shortcuts on/off buttons highlighted on Gmail's Settings screen.](https://www.lifewire.com/thmb/lPV2-ew-bY8v5xkR1Y6pZ0fLprc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A2-BestGmailKeyboardShortcuts-annotated-639cd7b44f654d4a9fc5e371f7ebae28.jpg)
@@ -37,11 +37,7 @@ thumbnail: https://www.lifewire.com/thmb/YbDBqWuVP0UM_nU0--_fa-ISvG0=/400x300/fi
 ![The Save Changes button highlighted on Gmail's Settings screen.](https://www.lifewire.com/thmb/Ti1cWFQAWPKtDw4DsaTTA96KzR0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A3-BestGmailKeyboardShortcuts-annotated-bab1aa8c28204ee494f3daa266fd0100.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Create, Send, and Forward Email
@@ -76,6 +72,10 @@ thumbnail: https://www.lifewire.com/thmb/YbDBqWuVP0UM_nU0--_fa-ISvG0=/400x300/fi
 
 * **Select multiple emails in a row (Shift)** : Check the box beside the first email in the series, then press and hold the**Shift** key and check the box for the last email in the series. Everything between both boxes will be selected.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Add Formatting to Email Text
 
  Use these commands to apply text formatting while you compose a message. Perform the same actions to undo the formatting:
@@ -97,6 +97,10 @@ thumbnail: https://www.lifewire.com/thmb/YbDBqWuVP0UM_nU0--_fa-ISvG0=/400x300/fi
 
  On Mac computers, use the**Command** key in place of the**Ctrl** key.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Email Maintenance Shortcuts
 
  Use these shortcuts to help manage your inbox:
@@ -106,10 +110,6 @@ thumbnail: https://www.lifewire.com/thmb/YbDBqWuVP0UM_nU0--_fa-ISvG0=/400x300/fi
 * **Delete an email (Shift** +**3)** : Open an email or select it by clicking the box beside the sender's name, then press**Shift** +**3** to[send the email to the trash](https://www.lifewire.com/how-to-delete-with-a-swift-keyboard-shortcut-in-gmail-1172079) .
 * **Mark an email as unread (Shift** +**U)** : Open an email or select it by clicking the box beside the sender's name, then press**Shift** +**U** to mark it as unread.
 * **Mark a message as important (Shift** +**\=)** : Open an email or select it by clicking the box beside the sender's name, then press**Shift** +**\=** to mark it as important.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## "Go to" Shortcuts in Gmail
 
@@ -132,7 +132,7 @@ thumbnail: https://www.lifewire.com/thmb/YbDBqWuVP0UM_nU0--_fa-ISvG0=/400x300/fi
 ![Press Shift + ? to get the full list of Gmail keyboard shortcuts anytime.](https://www.lifewire.com/thmb/5ON5QzCh_hrJrz93Hlci-4WmI4Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004_best-gmail-keyboard-shortcuts-4686794-0852ef75c64547feb336f96dbb1be04e.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Was this page helpful?
@@ -164,16 +164,19 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-windows-evolved-spotlight-on-latest-changes/"><u>[New] 2024 Approved Windows Evolved Spotlight on Latest Changes</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/n-2024-navigating-algorithm-advantages-maximizing-view-count-effortlessly/"><u>[New] In 2024, Navigating Algorithm Advantages Maximizing View Count Effortlessly</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-exploring-the-hottest-stock-photos-and-their-journeys/"><u>[Updated] 2024 Approved Exploring the Hottest Stock Photos & Their Journeys</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/exploring-the-smart-capabilities-of-androids-operating-system/"><u>Exploring the Smart Capabilities of Android's Operating System</u></a></li>
-<li><a href="https://article-posts.techidaily.com/in-2024-efficient-methods-to-extract-and-save-video-audio-as-mp3/"><u>In 2024, Efficient Methods to Extract and Save Video Audio as MP3</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/pioneering-teams-changing-vrs-course/"><u>Pioneering Teams Changing VR's Course</u></a></li>
-<li><a href="https://win11.techidaily.com/seeking-lightweight-web-access-browser-ram-consumption-tested-and-rated/"><u>Seeking Lightweight Web Access: Browser RAM Consumption Tested & Rated</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/step-by-step-fixes-dealing-with-missing-dciman32dll-files/"><u>Step-by-Step Fixes: Dealing with Missing dciman32.dll Files</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/step-by-step-instructions-on-how-to-start-playing-pokemon-go/"><u>Step-by-Step Instructions on How to Start Playing 'Pokémon Go'</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-next-big-thing-in-mobile-tech-rumored-info-on-the-innovative-foldable-iphone-and-its-launch-details/"><u>The Next Big Thing in Mobile Tech: Rumored Info on the Innovative Foldable iPhone and Its Launch Details</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/troubleshooting-techniques-to-resolve-line-artifacts-on-your-tv-display-unit/"><u>Troubleshooting Techniques to Resolve Line Artifacts on Your TV Display Unit</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/email-protected-exciting-rumors-and-anticipated-innovations-for-apples-upcoming-event/"><u>[Email Protected]: Exciting Rumors and Anticipated Innovations for Apple's Upcoming Event</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-explore-best-gopro-cases-rated-1-10/"><u>[New] 2024 Approved Explore Best GoPro Cases Rated #1-10</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/avigating-brand-growth-with-youtubes-essential-top-5-video-marketing-techniques/"><u>[New] Navigating Brand Growth with YouTube's Essential #Top 5 Video Marketing Techniques</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-experience-engaged-youtube-exchanges/"><u>[Updated] Experience Engaged YouTube Exchanges</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-the-final-touch-youtube-outro-essentials-plus-premier-creator-list-for-2024/"><u>[Updated] The Final Touch YouTube Outro Essentials + Premier Creator List for 2024</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-the-key-elements-of-a-high-impact-tiktok-promotion-for-2024/"><u>[Updated] The Key Elements of a High-Impact TikTok Promotion for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/can-we-still-trust-openais-oversight-over-chatgpt/"><u>Can We Still Trust OpenAI's Oversight Over ChatGPT?</u></a></li>
+<li><a href="https://some-tips.techidaily.com/discover-the-top-electric-smoking-devices-of-2023-expert-picks-and-reviews/"><u>Discover the Top Electric Smoking Devices of 2023 - Expert Picks and Reviews</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/effortless-troubleshooting-winning-against-camera-app-failures/"><u>Effortless Troubleshooting: Winning Against Camera App Failures</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-xiaomi-14-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Xiaomi 14 If I Forgot Security Code or Password? | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/resolving-the-avcodecdll-file-absence-issue-step-by-step-guide/"><u>Resolving the Avcodec.dll File Absence Issue: Step-by-Step Guide</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-ultimate-fix-nine-strategies-for-when-airpods-refuse-to-charge/"><u>The Ultimate Fix: Nine Strategies for When AirPods Refuse to Charge</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/troubleshooting-tips-dealing-with-the-missing-rockaldlldll-error/"><u>Troubleshooting Tips: Dealing with the MISSING rockaldll.dll Error</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ultimate-guide-to-the-best-wireless-phone-charger-picks-tested-and-reviewed-by-specialists-cnet/"><u>Ultimate Guide to the Best Wireless Phone Charger Picks , Tested & Reviewed by Specialists | CNET</u></a></li>
 </ul></div>
 

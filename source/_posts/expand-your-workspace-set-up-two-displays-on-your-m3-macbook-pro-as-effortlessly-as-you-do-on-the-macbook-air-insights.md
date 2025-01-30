@@ -1,7 +1,7 @@
 ---
 title: "Expand Your Workspace: Set Up Two Displays on Your M3 MacBook Pro as Effortlessly as You Do on the MacBook Air - Insights"
-date: 2025-01-19T00:11:31.893Z
-updated: 2025-01-22T19:58:24.759Z
+date: 2025-01-27T16:55:20.034Z
+updated: 2025-01-30T19:07:02.177Z
 tags:
   - apple
 categories:
@@ -37,21 +37,25 @@ That's why it was such a surprise to me, and many other unsuspecting Mac Mini bu
 
 Sure, the diminutive PC does come equipped with an HDMI port as well. But what about folks upgrading from an Intel-based Mac Mini who were already using two Thunderbolt displays? Or those, like me, who had wrongly assumed when placing an order for the new Mac Mini that it would support two displays? Unfortunately, Apple has never provided a solution, unless you want to upgrade to a much more expensive, M1 Pro- or M1 Max-powered system like the [Mac Studio](https://www.zdnet.com/article/apple-mac-studio-review/). So, it's up to us to find a way to make up for the M1 Mini's problematic downgrade. Apple might hope you'll drop hundreds, or thousands, more on an upgraded Mac to power your secondary Thunderbolt displays. I'll show you how to do it for less than $30\. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  How to add a second Thunderbolt display to your M1 Mac Mini
 
 My personal Mac Mini with the required HDMI-to-Thunderbolt adapter (bottom left), its included USB-A-to-Micro-USB cable (top left), and the Thunderbolt 3 cable we'll be using to connect to our monitor (right).
 
 Michael Gariffo/ZDNET
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Materials needed:
 
 * An M1 Mac Mini
 * Two Thunderbolt-enabled displays
 * An HDMI-to-Thunderbolt adapter
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Estimated time:
 
@@ -60,6 +64,10 @@ Michael Gariffo/ZDNET
 ### Estimated cost:
 
 $30 (assuming you already have the Mac Mini and displays needed)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Step 1: Acquire the specialized adapter
 
@@ -95,10 +103,6 @@ Chances are if you've made it this far, you've already got two Thunderbolt displ
 
 Thunderbolt 4 cables will also work, but they're more expensive, and there's no additional benefit from using them in this situation. Once you've got your Thunderbolt cable, insert one end into the port on the adapter and the other end into the Thunderbolt input on your monitor. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Step 4: Select the correct source on your monitor
 
 With all of the necessary hardware hooked up, you're just about ready to enjoy your new dual-monitor setup. The last step is to make sure your just-connected monitor is set to the correct input. Remember to look for the Thunderbolt input, not HDMI. Even though the Mac's HDMI output is being used, the monitor will detect it as a Thunderbolt input thanks to our adapter's conversion. 
@@ -113,14 +117,10 @@ If you're interested in the specific 43-inch M7 display I use, it can be found b
 
 From here, you should be able to use the newly connected display like any other Thunderbolt monitor, with the only exception being that it won't receive any power from the Mac Mini.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## FAQs
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Are there other ways to add additional displays to a Mac Mini?
@@ -133,15 +133,15 @@ That said, if you want to turn your Mac Mini into the heart of a massive, multim
 * [MediaGear 60W Power Delivery USB C Dual 4K Ultra Docking Station](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FMEDIAGEAR-Power-Delivery-Docking-Station%2Fdp%2FB08CWP6FNR%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cbd26ed57-6b61-4ed1-b09d-842c808d3d89%7Cdtp&dtb=1) \-- $165
 * [WAVLINK USB C Dual 4K HDMI&DP Universal Docking Station](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FWAVLINK-Universal-Delivery-Displaylink-2xDisplay%2Fdp%2FB01AXY4RS8%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cbd26ed57-6b61-4ed1-b09d-842c808d3d89%7Cdtp&dtb=1) \-- $230
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Are there any benefits to using Thunderbolt over HDMI, if I can choose either?
 
 For the most part, no. If you've got a 4K Monitor with both an open HDMI and Thunderbolt input, use whichever is more convenient for your specific setup. The only exception to this is if you have a Thunderbolt-enabled monitor that exceeds 4K. The Mac Mini's Thunderbolt 4 output can support resolutions of up to 6K. However, its HDMI output maxes out at 4K, even if it's being adapted to Thunderbolt. 
 
 If you find yourself in this situation, be sure to use the MIni's sole Thunderbolt video output on your 5K or 6K display, and the HDMI output (adapter or not) for a secondary 4K display. This is only likely to affect a very small subset of users, as most monitors and televisions still top out at 4K resolution.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Are there really displays that only support Thunderbolt input?
 
@@ -181,21 +181,18 @@ Displays with Thunderbolt inputs are also made by Acer, Samsung, LG, Viewsonic, 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/n-2024-seek-out-stimulating-subscriber-spaces/"><u>[New] In 2024, Seek Out Stimulating Subscriber Spaces</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-navigating-the-social-maze-tweets-plus-tumble-videos-for-2024/"><u>[New] Navigating the Social Maze Tweets + Tumble Videos for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-breaking-code-seeing-covert-user-reactions-for-2024/"><u>[Updated] Breaking Code Seeing Covert User Reactions for 2024</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-harnessing-success-with-freefire-hashtag-tips/"><u>[Updated] In 2024, Harnessing Success with FreeFire Hashtag Tips</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/anthropics-advanced-ai-claude-powers-amazon-alexas-latest-enhancements-insights-from-zdnet/"><u>Anthropic’s Advanced AI, Claude, Powers Amazon Alexa’s Latest Enhancements - Insights From ZDNet</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/compact-pocket-sized-bluetooth-speaker-with-rich-bass-output-an-in-depth-review/"><u>Compact Pocket-Sized Bluetooth Speaker with Rich Bass Output - An In-Depth Review</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/diskhaven-pro-advanced-raid-restoration/"><u>DiskHaven Pro: Advanced RAID Restoration</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/era-300-sonos-smart-speaker-evaluation-near-perfection-marred-by-significant-flaw-insights-from-zdnet/"><u>Era 300 Sonos Smart Speaker Evaluation: Near-Perfection Marred by Significant Flaw - Insights From ZDNet</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/exclusive-roundup-the-ultimate-2024-smart-speakers-ranking-in-depth-evaluations-zdnet/"><u>Exclusive Roundup: The Ultimate 2024 Smart Speakers Ranking - In-Depth Evaluations | ZDNet</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/experience-high-quality-audio-with-the-tribit-xsound-megablast-enhanced-bluetooth-speaker-delivering-30w-power-and-impressive-sound-reach/"><u>Experience High-Quality Audio with the Tribit XSound Megablast: Enhanced Bluetooth Speaker Delivering 30W Power & Impressive Sound Reach</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/from-novice-to-vlogger-professional-video-making-on-mobile-devices-for-2024/"><u>From Novice to Vlogger Professional Video Making on Mobile Devices for 2024</u></a></li>
-<li><a href="https://android-location.techidaily.com/getting-the-pokemon-go-gps-signal-not-found-11-error-in-vivo-y100-drfone-by-drfone-virtual/"><u>Getting the Pokemon Go GPS Signal Not Found 11 Error in Vivo Y100 | Dr.fone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/in-depth-analysis-of-the-drop-grell-tws1x-iems-unmatched-audio-quality-met-with-disappointing-packaging-tech-insights/"><u>In-Depth Analysis of the Drop Grell TWS1X IEMs: Unmatched Audio Quality Met with Disappointing Packaging - Tech Insights</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/in-depth-analysis-navigating-through-sound-excellence-and-user-frustrations-with-drops-grell-tws1x-iems/"><u>In-Depth Analysis: Navigating Through Sound Excellence and User Frustrations with Drop's Grell TWS1X IEMs</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/make-sure-to-burn-the-image-directly-onto-usb-in-a-way-that-makes-it-bootable-eebr-mode-or-similar/"><u>Make Sure to Burn the Image Directly Onto USB in a Way that Makes It Bootable (e.ebr Mode or Similar).</u></a></li>
-<li><a href="https://some-tips.techidaily.com/navigating-the-raspberry-pi-shortage-causes-and-solutions-insights-for-tech-enthusiasts-zdnet/"><u>Navigating the Raspberry Pi Shortage: Causes & Solutions - Insights for Tech Enthusiasts | ZDNet</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-choreographed-ice-winter-olympics-highlights-for-2024/"><u>[Updated] Choreographed Ice Winter Olympics Highlights for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-typhoon-h-by-yuneec-an-in-depth-analysis/"><u>[Updated] Typhoon H by Yuneec An In-Depth Analysis</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/beginners-guide-the-first-five-actions-for-a-brand-new-computer/"><u>Beginner's Guide: The First Five Actions for a Brand-New Computer</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/diagnosing-and-repairing-persistent-horizontal-line-bugs-in-computer-displays/"><u>Diagnosing and Repairing Persistent Horizontal Line Bugs in Computer Displays</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discover-why-this-is-the-ultimate-choice-for-a-durable-apple-watch-titanium-band-top-picks-by-zdnet/"><u>Discover Why This Is the Ultimate Choice for a Durable Apple Watch Titanium Band - Top Picks by ZDNet</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/flawlessly-merged-the-linkage-of-instagram-and-tiktok-for-2024/"><u>Flawlessly Merged The Linkage of Instagram & TikTok for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/grab-two-top-nomad-iphone-sleeves-today-bogo-offer/"><u>Grab Two Top Nomad iPhone Sleeves Today - BOGO Offer!</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-request-control-over-files-blocked-by-trustedinstaller-on-windows-11/"><u>How to Request Control Over Files Blocked by TrustedInstaller on Windows 11</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-8-safe-and-effective-methods-to-unlock-your-iphone-15-pro-max-without-a-passcode-by-drfone-ios/"><u>In 2024, 8 Safe and Effective Methods to Unlock Your iPhone 15 Pro Max Without a Passcode</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-detect-and-stop-mspy-from-spying-on-your-infinix-note-30-drfone-by-drfone-virtual-android/"><u>In 2024, How to Detect and Stop mSpy from Spying on Your Infinix Note 30 | Dr.fone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-step-up-your-game-mastering-effective-video-title-and-tag-techniques/"><u>In 2024, Step Up Your Game Mastering Effective Video Title & Tag Techniques</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-look-samsungs-k850-ultrablade-review-2023-for-2024/"><u>New Look Samsung's K850 UltraBlade Review 2023 for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-5-emerging-mobile-innovations-exploring-on-device-artificial-intelligence-and-the-latest-in-smartphones-insights-from-zdnet/"><u>Top 5 Emerging Mobile Innovations: Exploring On-Device Artificial Intelligence & The Latest in Smartphones - Insights From ZDNet</u></a></li>
 </ul></div>
 

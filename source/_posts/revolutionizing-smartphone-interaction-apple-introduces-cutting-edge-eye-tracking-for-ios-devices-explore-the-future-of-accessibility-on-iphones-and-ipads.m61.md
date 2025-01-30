@@ -1,7 +1,7 @@
 ---
 title: "Revolutionizing Smartphone Interaction: Apple Introduces Cutting-Edge Eye Tracking for iOS Devices - Explore the Future of Accessibility on iPhones and iPads"
-date: 2025-01-17T02:30:26.525Z
-updated: 2025-01-23T07:29:39.378Z
+date: 2025-01-23T16:38:29.144Z
+updated: 2025-01-30T18:49:23.160Z
 tags:
   - apple
 categories:
@@ -30,6 +30,10 @@ Read on for a look at some of the new accessibility features coming to Apple har
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### New eye-tracking features
 
 Apple is bringing a new feature to both iOS and iPadOS that will let you navigate your iPhone and iPad with just your eye movements. The feature uses the device's front-facing camera to track your eye movements and let you move through apps. Apple said that its new Eye Tracking feature will work across both its own and third-party apps, and will work with gestures powered solely by eye movements.
@@ -45,7 +49,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Apple Music haptics
@@ -53,7 +57,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 For those who are deaf or hard of hearing, Apple plans to offer a Taptic Engine feature in Apple Music. When turned on, the feature will use a series of taps, vibrations, and other tactile responses to sync to a song's audio. Apple says the feature will work "across millions of songs in the Apple Music catalog."
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Addressing motion sickness
@@ -65,7 +69,7 @@ Motion sickness in cars can often be the result of a disconnect between what you
 "Using sensors built into iPhone and iPad, Vehicle Motion Cues recognizes when a user is in a moving vehicle and responds accordingly," Apple said. "The feature can be set to show automatically on iPhone, or can be turned on and off in Control Center."
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Understanding speech
@@ -74,10 +78,6 @@ A new feature called Voice Shortcuts will let you "assign custom utterances" tha
 
 Another feature, Listen for Atypical Speech, will use machine learning to understand your speech patterns and your requests on-device, Apple said. The feature "gives users an option for enhancing speech recognition for a wider range of speech," the company said.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### New CarPlay features
 
 Apple's in-car CarPlay software is also getting new accessibility features, including the ability for you to navigate CarPlay and engage with apps using only your voice. A new Sound Recognition feature will display alerts on CarPlay's screen when car horns or sirens go off, and Color Filters will make CarPlay easier to use for colorblind users.
@@ -85,7 +85,7 @@ Apple's in-car CarPlay software is also getting new accessibility features, incl
 **Also: [iOS and Android owners will now be alerted if an unknown tracker is moving with them](https://www.zdnet.com/article/ios-and-android-owners-will-now-be-alerted-if-an-unknown-tracker-is-moving-with-them/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Some other updates
@@ -122,24 +122,19 @@ Beyond those updates, Apple said that it's launching a range of smaller upgrades
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-snapback-success-the-secrets-to-loops-on-instagram/"><u>[New] Snapback Success The Secrets to Loops on Instagram</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-cutting-edge-gear-for-aspiring-youtube-stars/"><u>[Updated] In 2024, Cutting-Edge Gear for Aspiring YouTube Stars</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-permanently-quit-youtube-shorts-now/"><u>[Updated] Permanently Quit YouTube Shorts Now</u></a></li>
-<li><a href="https://location-fake.techidaily.com/4-methods-to-turn-off-life-360-on-vivo-x90s-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>4 Methods to Turn off Life 360 On Vivo X90S without Anyone Knowing | Dr.fone</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/138589921-9781475913378-building-heaven-on-earth/"><u>Building Heaven on Earth | Free Book</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/deciding-on-your-degree-learn-how-computer-science-majors-experience-less-remorse-zdnet/"><u>Deciding on Your Degree? Learn How Computer Science Majors Experience Less Remorse | ZDNet</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/embark-on-an-ai-career-pathway-discover-the-5-crucial-first-steps-for-successful-entry-zdnet-insights/"><u>Embark on an AI Career Pathway: Discover the 5 Crucial First Steps for Successful Entry | ZDNET Insights</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/enhance-your-hiring-process-with-linkedins-new-ai-enabled-coaching-and-recruitment-features-zdnet/"><u>Enhance Your Hiring Process with LinkedIn's New AI-Enabled Coaching & Recruitment Features | ZDNet</u></a></li>
-<li><a href="https://games-able.techidaily.com/exploring-the-best-of-lenovo-legion-go-at-ifa/"><u>Exploring the Best of Lenovo Legion Go at IFA</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-perfected-edits-on-the-go-leading-apps-for-macos-big-surs-video-editors/"><u>In 2024, Perfected Edits on the Go Leading Apps for macOS Big Sur's Video Editors</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/leveraging-returning-veterans-of-business-a-strategic-move-against-current-talent-droughts-zdnet/"><u>Leveraging Returning Veterans of Business: A Strategic Move Against Current Talent Droughts - ZDNet</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/navigating-the-job-market-in-tough-times-expert-advice-and-techniques-featured-on-zdnet/"><u>Navigating the Job Market in Tough Times: Expert Advice and Techniques Featured on ZDNet</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/navigating-the-new-era-of-salary-openness-how-it-will-affect-you-in-the-workplace-expert-advice-from-zdnet/"><u>Navigating the New Era of Salary Openness: How It Will Affect You in The Workplace | Expert Advice From ZDNet</u></a></li>
-<li><a href="https://meme-emoji.techidaily.com/new-2024-approved-how-to-use-emojis-on-windows-10-and-windows-11/"><u>New 2024 Approved How to Use Emojis on Windows 10 and Windows 11?</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/sparkle-sounds-standout-background-scores-for-yt-shorts-for-2024/"><u>Sparkle Sounds Standout Background Scores For YT Shorts for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/the-essence-of-time-stretching-detailed-review-of-slomo-2e1924-for-2024/"><u>The Essence of Time Stretching Detailed Review of SloMo, 2E1924 for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/the-intersection-of-artificial-intelligence-and-enterprise-perspectives-by-todays-renaissance-tech-pioneers-zdnet/"><u>The Intersection of Artificial Intelligence and Enterprise: Perspectives by Today's Renaissance Tech Pioneers | ZDNet</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/top-5-strategies-to-transition-into-management-insights-from-zdnet/"><u>Top 5 Strategies to Transition Into Management - Insights From ZDNet</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/top-rated-technology-resume-templates-and-platforms-expert-recommendations-by-zdnet/"><u>Top-Rated Technology Resume Templates & Platforms: Expert Recommendations by ZDNet</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/n-camera-charisma-a-guide-to-personal-video-content/"><u>[New] On-Camera Charisma A Guide to Personal Video Content</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-essential-audio-enhancement-apps-for-youtubers-videos/"><u>[Updated] Essential Audio Enhancement Apps for YouTubers' Videos</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-breaking-down-instagrams-per-video-ceiling/"><u>[Updated] In 2024, Breaking Down Instagram's Per-Video Ceiling</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-ensuring-long-term-youtube-success-with-creative-commons-mainteninas/"><u>[Updated] In 2024, Ensuring Long-Term YouTube Success with Creative Commons Mainteninas</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/an-introduction-to-instagram-social-media-explained-for-beginners/"><u>An Introduction to Instagram: Social Media Explained for Beginners</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/comparing-iphone-models-whats-new-in-the-iphone-15-pro-vs-iphone-14-pro-tech-insights/"><u>Comparing iPhone Models: What's New in the iPhone 15 Pro Vs. IPhone 14 Pro | Tech Insights</u></a></li>
+<li><a href="https://solve-info.techidaily.com/einfach-und-effektiv-sichern-ihr-outlook-adressbuch-perfekt-organisieren/"><u>Einfach Und Effektiv Sichern: Ihr Outlook Adressbuch Perfekt Organisieren</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-clan-combat-chronicles-top-10-games-inspired-by-ghost-of-tsushima/"><u>In 2024, Clan Combat Chronicles Top 10 Games Inspired by Ghost of Tsushima</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/is-the-apple-watch-se-second-generation-a-bargain-at-80-discounted-exploring-options-after-prime-day-zdnet-analysis/"><u>Is the Apple Watch SE Second Generation a Bargain at $80 Discounted? Exploring Options After Prime Day | ZDNet Analysis</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/new-guide-how-to-check-icloud-activation-lock-status-on-your-iphone-xs-by-drfone-ios/"><u>New Guide How To Check iCloud Activation Lock Status On Your iPhone XS</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/revive-your-malfunctioning-printer-a-step-by-step-guide-to-correcting-driver-issues-with-yl-software-solutions/"><u>Revive Your Malfunctioning Printer: A Step-by-Step Guide to Correcting Driver Issues with YL Software Solutions</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/secure-the-new-ipad-9th-generation-at-a-bargain-price-of-250-following-apples-most-recent-launch-tech-news/"><u>Secure the New iPad (9Th Generation) at a Bargain Price of $250 Following Apple’s Most Recent Launch | Tech News</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/singing-superstars-choice-expert-reviews-on-the-best-karaoke-machines-available/"><u>Singing Superstars' Choice: Expert Reviews on the Best Karaoke Machines Available</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-guide-replacing-your-ipads-battery/"><u>Step-by-Step Guide: Replacing Your iPad's Battery</u></a></li>
 </ul></div>
 

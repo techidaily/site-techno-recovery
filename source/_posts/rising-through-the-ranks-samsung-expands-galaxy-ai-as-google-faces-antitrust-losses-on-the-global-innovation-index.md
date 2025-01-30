@@ -1,7 +1,7 @@
 ---
 title: "Rising Through the Ranks: Samsung Expands Galaxy AI as Google Faces Antitrust Losses on the Global Innovation Index"
-date: 2025-01-15T19:00:36.819Z
-updated: 2025-01-22T17:01:01.859Z
+date: 2025-01-27T18:17:21.354Z
+updated: 2025-01-30T17:38:05.658Z
 tags:
   - apple
 categories:
@@ -71,26 +71,26 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-free-and-open-top-7-laptop-dvd-player-software-options/"><u>[New] 2024 Approved Free & Open Top 7 Laptop DVD Player Software Options</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-step-by-step-screenshot-procedures-for-hp-devices/"><u>[New] 2024 Approved Step-by-Step Screenshot Procedures for HP Devices</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-premium-android-photography-alterations-for-2024/"><u>[New] Premium Android Photography Alterations for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-unleashing-potential-vr-innovations-for-fun-and-games-for-2024/"><u>[Updated] Unleashing Potential VR Innovations for Fun & Games for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/2023s-ultimate-selection-of-eco-friendly-solar-lanterns-highlights-and-reviews-cnet/"><u>2023'S Ultimate Selection of Eco-Friendly Solar Lanterns - Highlights & Reviews | CNET</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-utilizing-slug-lines-for-better-content-structure/"><u>2024 Approved Utilizing Slug Lines for Better Content Structure</u></a></li>
-<li><a href="https://some-tips.techidaily.com/discover-the-exclusive-new-functions-available-with-specific-apple-airpods-versions-this-fall-full-coverage/"><u>Discover the Exclusive New Functions Available with Specific Apple AirPods Versions This Fall – Full Coverage</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/enhance-your-home-automation-with-samsungs-latest-innovation-the-smartthings-station-zdnet/"><u>Enhance Your Home Automation with Samsung's Latest Innovation: The SmartThings Station | ZDNet</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/expert-picks-ultimate-guide-to-the-most-reliable-portable-car-starters-of-2024-auto-innovators/"><u>Expert Picks: Ultimate Guide to the Most Reliable Portable Car Starters of 2024 | Auto Innovators</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/hikianalia/"><u>Hikianalia</u></a></li>
-<li><a href="https://extra-information.techidaily.com/immersive-adventures-await-top-10-innovative-pc-vr-streamers-reviewed/"><u>Immersive Adventures Await Top 10 Innovative PC VR Streamers Reviewed</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/navigating-through-samsungs-digital-picture-editing-app/"><u>Navigating Through Samsung's Digital Picture Editing App</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/smart-energy-solutions-unveiling-the-superior-charging-cells-pcmag/"><u>Smart Energy Solutions: Unveiling the Superior Charging Cells – PCMag</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/the-ultimate-guide-to-the-bigblue-cp500-portable-charger-on-zdnet-small-size-mighty-performance-and-flexible-usage-options/"><u>The Ultimate Guide to the BigBlue CP500 Portable Charger on ZDNET: Small Size, Mighty Performance & Flexible Usage Options</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/top-rated-entry-level-portable-charger-a-comprehensive-review-of-the-ecoflow-river/"><u>Top Rated Entry-Level Portable Charger: A Comprehensive Review of the EcoFlow River</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/top-rated-flashlights-industry-experts-picks-tech-review-on-zdnet/"><u>Top-Rated Flashlights : Industry Experts' Picks | Tech Review on ZDNet</u></a></li>
-<li><a href="https://facebook.techidaily.com/unveiling-hints-of-facebooks-upcoming-identity-change/"><u>Unveiling Hints of Facebook's Upcoming Identity Change</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-perfecting-fading-audio-tracks-through-audacitys-tools/"><u>[New] 2024 Approved Perfecting Fading Audio Tracks Through Audacity's Tools</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-the-pinnacle-collection-all-2023-twitter-videos/"><u>[New] 2024 Approved The Pinnacle Collection All 2023 Twitter Videos</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-cinematic-mastery-starts-here-the-best-cameras-of-all-levels/"><u>[New] Cinematic Mastery Starts Here The Best Cameras of All Levels</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-android-internal-sound-record-without-root-access-for-2024/"><u>[Updated] Android Internal Sound Record Without Root Access for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-elevate-your-youtube-presence-essential-tips-for-engaging-shorts-for-2024/"><u>[Updated] Elevate Your Youtube Presence Essential Tips for Engaging Shorts for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/apples-next-gen-sound-enabled-gadget-upcoming-release-details-and-pricing-revealed/"><u>Apple's Next-Gen Sound-Enabled Gadget: Upcoming Release Details & Pricing Revealed</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/easy-tutorial-on-modifying-windows-11-taskbar-appearance-and-color-settings/"><u>Easy Tutorial on Modifying Windows 11 Taskbar Appearance and Color Settings</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/expert-techniques-for-modifying-gps-information-displayed-by-mobile-devices/"><u>Expert Techniques for Modifying GPS Information Displayed by Mobile Devices</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-seamlessly-link-devices-using-your-bose-soundlink-technology/"><u>How To Seamlessly Link Devices Using Your Bose SoundLink Technology</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-pattern-locks-are-unsafe-secure-your-oneplus-nord-n30-se-phone-now-with-these-tips-by-drfone-android/"><u>In 2024, Pattern Locks Are Unsafe Secure Your OnePlus Nord N30 SE Phone Now with These Tips</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-pokemon-go-cooldown-chart-on-vivo-y77t-drfone-by-drfone-virtual-android/"><u>In 2024, Pokémon Go Cooldown Chart On Vivo Y77t | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/navigating-aol-mail-disruptions-identifying-widespread-issues-vs-individual-hiccups/"><u>Navigating AOL Mail Disruptions: Identifying Widespread Issues Vs. Individual Hiccups</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/solving-the-alan-wake-2-freezing-issue-top-solutions/"><u>Solving the Alan Wake 2 Freezing Issue: Top Solutions</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-three-essential-gadgets-that-will-maintain-the-shine-of-your-iphone-13-insights/"><u>Top Three Essential Gadgets That Will Maintain the Shine of Your iPhone 13: Insights</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ultimate-charging-station-and-cooling-hub-for-apple-gadgets-with-magsafe-technology-reviews-by-techexpert/"><u>Ultimate Charging Station & Cooling Hub for Apple Gadgets with MagSafe Technology - Reviews by TechExpert</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/understanding-and-using-wintoys-a-compreayers-guide-for-windows-applications/"><u>Understanding and Using WinToys: A Compreayer's Guide for Windows Applications</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unveiling-the-top-4-new-ipados-18-innovations-from-wwdc-2024-compatible-devices-revealed/"><u>Unveiling the Top 4 New iPadOS 18 Innovations From WWDC 2024 – Compatible Devices Revealed</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 

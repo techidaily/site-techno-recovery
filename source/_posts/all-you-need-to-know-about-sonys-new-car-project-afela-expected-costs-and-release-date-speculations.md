@@ -1,7 +1,7 @@
 ---
 title: All You Need to Know About Sony's New Car Project (AFELA) - Expected Costs and Release Date Speculations
-date: 2025-01-19T21:11:47.634Z
-updated: 2025-01-22T16:05:04.875Z
+date: 2025-01-26T18:07:40.435Z
+updated: 2025-01-30T18:34:38.937Z
 categories:
   - BestProducts
 description: This Article Describes All You Need to Know About Sony's New Car Project (AFELA) - Expected Costs and Release Date Speculations
@@ -27,11 +27,19 @@ thumbnail: https://www.lifewire.com/thmb/kzjkCRvDCVJW1NHpWheJUclZ1No=/400x300/fi
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  When Will the Sony Car (Afeela) Be Released?
 
  When Sony and Honda announced their plans for an EV, they also suggested a 2026 release. Plans look on track to bring the Afeela to market in North America first sometime in 2026\. 
 
  Orders will be taken in the first half of next year, potentially allowing US drivers to be behind the wheel by spring 2026.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  Lifewire's Release Date Estimate
 
@@ -45,19 +53,11 @@ thumbnail: https://www.lifewire.com/thmb/kzjkCRvDCVJW1NHpWheJUclZ1No=/400x300/fi
 
  As concept-to-production details take shape, we expect to hear more rumors about pricing, so stay tuned.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Pre-Order Information
 
  Sony Car pre-ordering looks like it will start in the first few months of 2025\. All signs point to US orders first, followed by pre-orders and debuts in the Japanese and European markets. 
 
  We’ll make updates here as we learn more.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Sony Car (Afeela) Features
 
@@ -82,7 +82,7 @@ Sony Honda Mobility
 ![Sony Car Afeela prototype in Gran Turismo 7.](https://www.lifewire.com/thmb/6883s270jJnZ-nOMN6hrwPhhS3Y=/960x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/sony-car-afeela-gran-turismo-7-24a158661c194c2b8e91084521f41c28.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Sony Interactive Entertainment
@@ -92,7 +92,7 @@ Sony Interactive Entertainment
 [  Electric Vehicles: A Short History Lesson ](https://www.lifewire.com/electric-vehicles-a-short-history-lesson-5202203) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Sony Car (Afeela) Specs and Hardware
@@ -114,7 +114,7 @@ Sony Interactive Entertainment
  Check back for updates about the Sony car release date and more features and specs chatter. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  The Latest News About the Sony Car (Afeela)
@@ -144,14 +144,21 @@ Sony Interactive Entertainment
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://techno-recovery.techidaily.com/buy-these-innovative-technologies-today-must-see-products-from-the-2023-consumer-electronics-show-ces-zdnet-deals-inside/"><u>Buy These Innovative Technologies Today! Must-See Products From the 2023 Consumer Electronics Show (CES) | ZDNET Deals Inside!</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/experts-pick-of-the-most-innovative-smart-home-solutions-for-2eue-2024-zdnet/"><u>Experts' Pick of the Most Innovative Smart Home Solutions for 2Eue 2024 | ZDNET</u></a></li>
-<li><a href="https://solve-outstanding.techidaily.com/free-and-ai-powered-image-sharpening-on-windowsmac-os-an-ultimate-guide/"><u>Free and AI-Powered Image Sharpening on Windows/Mac OS: An Ultimate Guide</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-motorola-moto-g23-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Motorola Moto G23 without Losing Data | Dr.fone</u></a></li>
-<li><a href="https://win-data.techidaily.com/identifying-and-troubleshooting-unusual-sounds-from-your-pc-insights-by-yl-computing/"><u>Identifying and Troubleshooting Unusual Sounds From Your PC - Insights by YL Computing</u></a></li>
-<li><a href="https://driver-install.techidaily.com/install-updated-hp-graphics-on-windows-11-pc/"><u>Install Updated HP Graphics on Windows 11 PC</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/revolutionizing-your-smart-home-the-impact-of-ios-18s-new-features-unveiled-by-zdnet/"><u>Revolutionizing Your Smart Home: The Impact of iOS 18'S New Features Unveiled by ZDNet</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/top-rated-bluetooth-dj-pads-of-2024-professional-tests-and-endorsements-techradar/"><u>Top-Rated Bluetooth DJ Pads of 2024 - Professional Tests & Endorsements | TechRadar</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/troubleshooting-sudden-bsod-errors-due-to-kernel-mode-issues-in-windows-11/"><u>Troubleshooting Sudden BSOD Errors Due to Kernel Mode Issues in Windows 11</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-navigating-creator-studio-your-expert-manual/"><u>[New] 2024 Approved Navigating Creator Studio Your Expert Manual</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-discovery-the-leading-five-in-fb-vids-worldwide/"><u>[New] Discovery The Leading Five in FB Vids Worldwide</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-elevate-your-episodes-a-comprehensive-guide-to-sound-design-and-editing/"><u>[New] In 2024, Elevate Your Episodes A Comprehensive Guide to Sound Design and Editing</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/advancing-ai-frontiers-with-apple-discover-how-new-models-are-changing-the-game-detailed-analysis-by-zdnet/"><u>Advancing AI Frontiers with Apple: Discover How New Models Are Changing the Game | Detailed Analysis by ZDNET</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/capturing-moments-in-gaming-the-ultimate-how-to-for-taking-screenshots-on-xbox-one/"><u>Capturing Moments in Gaming: The Ultimate How-To for Taking Screenshots on Xbox One</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/decluttering-mastery-the-uncomplicated-method-to-a-tidier-email-space-say-goodbye-to-complex-filters-and-dual-accounts/"><u>Decluttering Mastery: The Uncomplicated Method to a Tidier Email Space - Say Goodbye to Complex Filters & Dual Accounts</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discover-the-ideal-protector-for-your-iphone-se-elite-case-selection-reviewed-zdnet-insights/"><u>Discover the Ideal Protector for Your iPhone SE : Elite Case Selection Reviewed | ZDNet Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/dynamic-car-insurance-pricing-based-on-real-time-driving-behavior-insights-from-zdnet/"><u>Dynamic Car Insurance Pricing Based on Real-Time Driving Behavior - Insights From ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/finding-the-best-surge-protector-to-safeguard-your-electronics/"><u>Finding the Best Surge Protector to Safeguard Your Electronics</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-vivo-y02t-drfone-by-drfone-virtual-android/"><u>How to use Snapchat Location Spoofer to Protect Your Privacy On Vivo Y02T? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-nokia-c12-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Nokia C12 to Outlook | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/samsung-surpasses-apple-in-global-smartphone-shipments-rivals-close-in-a-detailed-analysis/"><u>Samsung Surpasses Apple in Global Smartphone Shipments, Rivals Close In: A Detailed Analysis</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ess-time-logging-on-youtube-desktopmobile-for-2024/"><u>Seamless Time Logging on YouTube (Desktop/Mobile) for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/smartphone-photography-faceoff-unveiling-winner-and-surprise-in-pixel-e9xl-vs-iphone-15-pro-shootout-experts/"><u>Smartphone Photography Faceoff: Unveiling Winner and Surprise in Pixel E9XL vs iPhone 15 Pro Shootout Experts</u></a></li>
+<li><a href="https://win11.techidaily.com/step-by-step-to-delete-onedrive-icon-in-windows-explore/"><u>Step-by-Step to Delete OneDrive Icon in Windows Explore</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/the-6-best-digital-canvases-ideal-nft-services-for-artists/"><u>The 6 Best Digital Canvases Ideal NFT Services For Artists</u></a></li>
 </ul></div>
 

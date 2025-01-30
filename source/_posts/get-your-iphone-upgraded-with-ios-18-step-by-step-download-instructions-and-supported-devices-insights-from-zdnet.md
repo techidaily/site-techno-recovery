@@ -1,7 +1,7 @@
 ---
 title: Get Your iPhone Upgraded with iOS 18! Step-by-Step Download Instructions and Supported Devices | Insights From ZDNET
-date: 2025-01-18T20:02:00.034Z
-updated: 2025-01-23T04:18:54.956Z
+date: 2025-01-24T18:08:30.087Z
+updated: 2025-01-30T18:44:50.615Z
 tags:
   - apple
 categories:
@@ -27,7 +27,7 @@ While the official iOS 18 general release is today, users have already been able
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to install iOS 18
@@ -36,13 +36,13 @@ Jason Hiner/ZDNET
 
 **What you need:** An iPhone running iOS 16.5 or later. Since not all iPhones are compatible with iOS 18, you'll also need a model [newer than the iPhone X](https://www.zdnet.com/article/best-iphone/).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Go to General in your iPhone Settings
 
 Go to your iPhone's Settings and select General. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Go to Software Update in Settings
 
@@ -51,10 +51,6 @@ Within General, tap on Software Update. This will show you if the iOS 18 update 
 ## 3\. Download and install
 
 When you tap on Software Update, your iPhone will check for the latest version of iOS available. Then, you'll be able to Download and Install the new update. Your iPhone will begin the download immediately.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. Enter your passcode and follow steps to install
 
@@ -68,11 +64,19 @@ After installing the latest iOS update, your iPhone will restart.
 
 Apple Intelligence, featuring the company's AI tools, will begin to roll out for compatible iPhones over the next few weeks, with more features to join in the coming months. This slew of AI features will be available on the iPhone 16 lineup and the iPhones 15 Pro and Pro Max.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### When was iOS 18 released?
 
 Apple released the iOS 18 developer beta during WWDC 2024 in June, and the public beta version was released on July 15\. The general release of iOS 18 is September 16.
 
 **Also: [The best iOS 18 features that will make updating your iPhone worthwhile](https://www.zdnet.com/article/the-best-ios-18-features-that-will-make-updating-your-iphone-worthwhile/)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Can you still download the iOS 18 public beta?
 
@@ -93,10 +97,6 @@ You'll need an iPhone running iOS 16.5 or later. Since not all iPhones are compa
 
 Screenshot: Maria Diaz/ZDNET
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### How to download the iOS 18 developer beta?
 
 To download the iOS 18 developer beta version, navigate to your settings to install the iOS 18 developer beta if your device runs iOS 16.4 and is used with an Apple ID enrolled in the Apple Developer Program:
@@ -114,7 +114,7 @@ If you can't see this option, go to your **Settings,** select **Privacy & Securi
 If you aren't already a member of the Apple Developer Program, you can sign up to become one in the app. An annual membership costs $99.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### What is in iOS 18 beta 3?
@@ -161,18 +161,19 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-fastest-8-capture-tools-unveiled/"><u>[New] In 2024, Fastest 8 Capture Tools Unveiled</u></a></li>
-<li><a href="https://fake-location.techidaily.com/can-life360-track-you-when-your-apple-iphone-7-is-off-drfone-by-drfone-virtual-ios/"><u>Can Life360 Track You When Your Apple iPhone 7 is off? | Dr.fone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/finding-lost-online-identities-tips-for-recovering-deleted-emails/"><u>Finding Lost Online Identities: Tips for Recovering Deleted Emails</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-fake-gps-on-nubia-z50s-pro-for-mobile-legends-drfone-by-drfone-virtual-android/"><u>How To Fake GPS On Nubia Z50S Pro For Mobile Legends? | Dr.fone</u></a></li>
-<li><a href="https://fox-access.techidaily.com/in-2024-the-ultimate-selection-high-quality-zero-price-free-luts/"><u>In 2024, The Ultimate Selection High Quality, Zero Price Free LUTs</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-tips-of-transferring-messages-from-samsung-galaxy-s23plus-to-iphone-1415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Tips of Transferring Messages from Samsung Galaxy S23+ to iPhone 14/15 | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/innovative-srt-conversion-tactics-for-pc-and-mac-for-2024/"><u>Innovative SRT Conversion Tactics for PC and Mac for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/rapidly-increasing-your-xtwitter-following-expert-tips-and-tricks-to-attract-more-users/"><u>Rapidly Increasing Your X/Twitter Following: Expert Tips & Tricks to Attract More Users</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/resolving-permanent-display-damage-a-complete-strategy-for-all-screens/"><u>Resolving Permanent Display Damage: A Complete Strategy for All Screens</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/step-by-step-guide-setting-up-your-oculus-questquest-account/"><u>Step-by-Step Guide: Setting Up Your Oculus Quest/Quest ✨ Account</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/the-ultimate-guide-to-the-acer-aspire-e15-your-perfect-low-cost-laptop-choice/"><u>The Ultimate Guide to the Acer Aspire E15 - Your Perfect Low-Cost Laptop Choice</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/tips-for-successfully-participating-in-live-tweeting-sessions-on-twitter/"><u>Tips for Successfully Participating in Live Tweeting Sessions on Twitter</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/troubleshooting-mapi3ndll-missing-error-effective-fixes-to-try-now/"><u>Troubleshooting Mapi3nDll Missing Error – Effective Fixes to Try Now!</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/rafting-perfect-youtube-music-playlists-via-web-and-mobile-platforms/"><u>[New] Crafting Perfect YouTube Music Playlists via Web & Mobile Platforms</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-artful-expression-on-tablets-leading-ios-drawers/"><u>[New] In 2024, Artful Expression on Tablets Leading iOS Drawers</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-hot-tunes-essential-background-scores-for-viral-yt-shorts/"><u>[Updated] 2024 Approved Hot Tunes Essential Background Scores For Viral YT Shorts</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-journey-through-cartoony-fun-snapchat-face-lens-magic/"><u>[Updated] Journey Through Cartoony Fun Snapchat Face Lens Magic</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/nding-youtube-realm-through-strategic-creator-studio-utilization/"><u>Commanding YouTube Realm Through Strategic Creator Studio Utilization</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/configuring-additional-macos-network-profiles-to-improve-connection-options-expert-strategies/"><u>Configuring Additional MacOS Network Profiles to Improve Connection Options - Expert Strategies</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/expert-tips-easy-way-to-take-screenshots-using-hp-laptop-function-keys/"><u>Expert Tips: Easy Way to Take Screenshots Using HP Laptop Function Keys</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-swift-transition-the-ultimate-guide-to-sierra-on-macs/"><u>In 2024, Swift Transition The Ultimate Guide to Sierra on Macs</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/selecting-the-perfect-motherboard-top-7-criteria-explained/"><u>Selecting the Perfect Motherboard: Top 7 Criteria Explained</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-ultimate-guide-steps-to-permanently-remove-your-twitch-profile/"><u>The Ultimate Guide: Steps to Permanently Remove Your Twitch Profile</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-ultimate-pathway-from-webp-files-to-jpegs/"><u>The Ultimate Pathway From WebP Files to JPEGs</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/the-ultimate-playlist-youtubes-best-in-vr-for-2024/"><u>The Ultimate Playlist YouTube’s Best in VR for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-unbeatable-charm-of-apples-iphone-ebonite-16-pro-my-picks-for-a-sleek-upgrade-over-max-model-this-year-gadgetpundit/"><u>The Unbeatable Charm of Apple's iPhone Ebonite 16 Pro - My Picks for a Sleek Upgrade over Max Model This Year | GadgetPundit</u></a></li>
+<li><a href="https://discover-community.techidaily.com/will-i-lose-my-settings-after-a-windows-pc-factory-reset/"><u>Will I Lose My Settings After a Windows PC Factory Reset?</u></a></li>
 </ul></div>
 

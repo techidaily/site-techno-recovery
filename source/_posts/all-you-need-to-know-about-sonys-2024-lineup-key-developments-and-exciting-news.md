@@ -1,7 +1,7 @@
 ---
 title: All You Need To Know About Sony's 2024 Lineup - Key Developments and Exciting News!
-date: 2024-08-18T17:48:30.760Z
-updated: 2024-08-19T17:48:30.760Z
+date: 2025-01-23T18:29:11.657Z
+updated: 2025-01-30T16:45:04.848Z
 categories:
   - BestProducts
 description: This Article Describes All You Need To Know About Sony's 2024 Lineup - Key Developments and Exciting News!
@@ -21,9 +21,17 @@ thumbnail: https://www.lifewire.com/thmb/KJ_dXsrrGXjPT6jDqp-rB3PUzfM=/400x300/fi
 
  Sony’s State of Play event happens semi-regularly whenever the company has big news or product announcements about PlayStation. The inaugural event was in 2019; Sony has held several more events since then.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  When Is the Next Sony State of Play Event? 
 
  Sony hasn't announced its next State of Play. The most recent one was May 30, 2024.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Which Products Will Be Announced? 
 
@@ -32,8 +40,9 @@ thumbnail: https://www.lifewire.com/thmb/KJ_dXsrrGXjPT6jDqp-rB3PUzfM=/400x300/fi
  The last event introduced 14 PS5 and PS VR2 titles from both PlayStation Studios developers and third-party companies.
 
 <!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  What Did Sony Announce at the Last State of Play? 
 
  The May 30 State of Play showed off a lot of software to coincide with the start of Sony's Days of Play event. Here's what we saw:
@@ -58,15 +67,17 @@ thumbnail: https://www.lifewire.com/thmb/KJ_dXsrrGXjPT6jDqp-rB3PUzfM=/400x300/fi
 * Mascot character Astro Bot, who taught us all how to play our PlayStation 5s in_Astro's Playroom_ , is back for a new adventure in_Astro Bot_ . This platformer will feature new worlds, costumes based on iconic PlayStation characters like Nathan Drake, Kratos, and Aloy, and a huge starship shaped like the PS5 console. It's coming September 6.
 
 <!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  How to Stream and Watch Sony State of Play 
 
  State of Play events are streamed on PlayStation's[ Twitch](https://www.twitch.tv/playstation) ,[ YouTube](https://www.youtube.com/channel/UC-2Y8dQb0S6DtpxNgAKoJKA) , and[ TikTok](https://www.tiktok.com/@playstation) channels. You can watch the May 30 event below:
 
 <!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  The Latest Sony and Other Gaming News 
 
  You can get more[ gaming news from Lifewire](https://www.lifewire.com/gaming-news-4797039) . Here are some of the latest stories regarding Sony and the PlayStation:
@@ -83,8 +94,6 @@ thumbnail: https://www.lifewire.com/thmb/KJ_dXsrrGXjPT6jDqp-rB3PUzfM=/400x300/fi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -92,4 +101,26 @@ thumbnail: https://www.lifewire.com/thmb/KJ_dXsrrGXjPT6jDqp-rB3PUzfM=/400x300/fi
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-enhance-your-reel-with-rhythms-instagrams-music-guide/"><u>[New] 2024 Approved Enhance Your Reel with Rhythms Instagram's Music Guide</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-from-monochrome-to-motion-the-ultimate-guide-to-making-videos-with-pixiz/"><u>[New] From Monochrome to Motion The Ultimate Guide to Making Videos with Pixiz</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-in-2024-unlock-creative-potential-editing-videos-via-windows-photos-and-story-remix/"><u>[New] In 2024, Unlock Creative Potential Editing Videos via Windows Photos and Story Remix</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-prime-list-of-affordable-high-definition-cameras-for-2024/"><u>[New] Prime List of Affordable High Definition Cameras for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-pushing-boundaries-for-fb-video-performance/"><u>[New] Pushing Boundaries for FB Video Performance</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-enhancing-synchronization-between-cameras-and-obs-for-2024/"><u>[Updated] Enhancing Synchronization Between Cameras and OBS for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-s6700-bdp-updates-explored/"><u>[Updated] S6700 BDP Updates Explored</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-top-6-minecraft-house-ideas-for-beginners/"><u>2024 Approved Top 6 Minecraft House Ideas for Beginners</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/achieving-crystal-clear-imagery-expert-settings-advice-for-samsung-qleds/"><u>Achieving Crystal Clear Imagery: Expert Settings Advice for Samsung QLEDs</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/effective-techniques-for-handling-the-xlivedll-missing-error-on-pcs/"><u>Effective Techniques for Handling the 'Xlive.dll Missing' Error on PCs</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/free-your-movies-how-to-convert-dvds-to-digital-video-formats/"><u>Free Your Movies How to Convert DVDs to Digital Video Formats</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/listen-up-here-are-13-true-crime-stories-to-keep-you-hooked/"><u>Listen Up! Here Are 13 True Crime Stories to Keep You Hooked</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/merging-fortnite-usernames-for-a-streamlined-gaming-experience/"><u>Merging Fortnite Usernames for a Streamlined Gaming Experience</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/optimizing-your-living-room-viewing-experience-the-power-of-an-indoor-dtv-antenna/"><u>Optimizing Your Living Room Viewing Experience: The Power of an Indoor DTV Antenna</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/overcome-startup-issues-effective-strategies-to-repair-ntldr-is-absent-and-related-mistakes/"><u>Overcome Startup Issues: Effective Strategies to Repair 'NTLDR Is Absent' & Related Mistakes</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/snapchat-video-magic-learn-the-art-of-crafting-perfectly-reversed-footage/"><u>Snapchat Video Magic: Learn the Art of Crafting Perfectly Reversed Footage</u></a></li>
+<li><a href="https://win-dash.techidaily.com/step-by-step-instructions-for-updating-your-brother-mfc-7360n-on-modern-windows-operating-systems/"><u>Step-by-Step Instructions for Updating Your Brother MFC-7360N on Modern Windows Operating Systems</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-tutorial-how-to-dislike-all-songs-on-spotify-effortlessly/"><u>Step-by-Step Tutorial: How to Dislike All Songs on Spotify Effortlessly</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-10-strategies-for-creating-viral-content-on-tiktok/"><u>Top 10 Strategies for Creating Viral Content on TikTok</u></a></li>
+</ul></div>
 

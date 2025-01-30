@@ -1,7 +1,7 @@
 ---
 title: Personalizing the iOS 18 Control Center on Your iPhone - A Step-by-Step Guide From ZDNet
-date: 2025-01-21T20:57:33.242Z
-updated: 2025-01-22T17:32:15.864Z
+date: 2025-01-25T18:19:54.774Z
+updated: 2025-01-30T16:45:45.704Z
 tags:
   - apple
 categories:
@@ -29,10 +29,14 @@ If you want to follow along, you'll need to install the iOS 18 public beta on an
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to customize your iPhone's new Control Center with iOS 18
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. Access Control Center
 
@@ -41,7 +45,7 @@ To display Control Center, swipe down from the top-right corner of the screen. Y
 Screenshot by Lance Whitney/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Move the available controls
@@ -52,21 +56,25 @@ Screenshot by Lance Whitney/ZDNET
 
 **Also: [Every iPhone model that can be updated to Apple's iOS 18 (and which ones can't)](https://www.zdnet.com/article/every-iphone-model-that-can-be-updated-to-apples-ios-18-and-which-ones-cant/)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. Resize a control
 
 After tapping the plus icon, some controls sport a gray curved handle in the lower-right corner. This means you can resize the control's icon. Drag the handle and move it up, down, or diagonally. Release it when the icon is the size you wish.
 
 Screenshot by Lance Whitney/ZDNET
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. Delete a control
 
 Next, you can directly delete a control you don't need or want. With the icons in edit mode, tap the minus sign for the icon you want to remove. When the icon is deleted, the surrounding icons should move to fill up the gap.
 
 Screenshot by Lance Whitney/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Add a control to an existing screen
 
@@ -76,19 +84,11 @@ Screenshot by Lance Whitney/ZDNET
 
 **Also: [I did not expect this iOS 18 feature announced at WWDC to be my favorite (and it's not AI)](https://www.zdnet.com/article/i-did-not-expect-this-ios-18-feature-announced-at-wwdc-to-be-my-favorite-and-its-not-ai/)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 6\. Add a control to a new screen
 
 If the current screens are already filled with icons, you can set up additional screens to hold more controls. Swipe down to the last screen, which shouldn't have any free space. Tap the plus icon and then tap "Add a Control." Again, browse or search for the control you wish to add. Tap that control, and it should appear in a new screen. You can continue adding more controls to the new screen this way. You can create as many as 15 screens, though you'll probably want to stop before you reach that number.
 
 Screenshot by Lance Whitney/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 7\. Power down from Control Center
 
@@ -126,22 +126,21 @@ Screenshot by Lance Whitney/ZDNET
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-enhancing-dji-flights-20-free-color-adjustments-dji-mini-and-air-for-2024/"><u>[New] Enhancing DJI Flights 20 Free Color Adjustments (DJI Mini & Air) for 2024</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-in-2024-the-art-of-accompanying-visual-content-with-music/"><u>[New] In 2024, The Art of Accompanying Visual Content with Music</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-win-10s-best-webcam-recording-software-guide-for-2024/"><u>[New] Win 10'S Best Webcam Recording Software Guide for 2024</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-essentials-unleashed-8-products-that-are-changing-the-business-landscape/"><u>[Updated] 2024 Approved Essentials Unleashed 8 Products That Are Changing the Business Landscape</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-in-2024-mastering-the-art-of-silent-videography/"><u>[Updated] In 2024, Mastering the Art of Silent Videography</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/best-techniques-for-high-quality-unmarked-video-scaling-top-10-methods-revealed/"><u>Best Techniques for High-Quality, Unmarked Video Scaling - Top 10 Methods Revealed</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/boosting-windows-file-audit-with-precision-for-2024/"><u>Boosting Windows File Audit with Precision for 2024</u></a></li>
-<li><a href="https://driver-download.techidaily.com/effortless-driver-setup-for-your-lenovo-x230-click-to-get-them-now/"><u>Effortless Driver Setup for Your Lenovo X230 - Click to Get Them Now</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/slash-your-budget-get-the-gopro-hero-11-at-a-steal-save-hundreds-now/"><u>Slash Your Budget: Get the GoPro Hero 11 at a Steal - Save Hundreds Now!</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/superior-surveillance-with-waterproof-blink-mini-2-a-top-contender-against-wyzecam/"><u>Superior Surveillance with Waterproof Blink Mini #2 - A Top Contender Against WyzeCam</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/top-5-essential-camping-equipment-and-tools-insights-from-zdnet/"><u>Top 5 Essential Camping Equipment & Tools - Insights From ZDNet</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/top-5-fire-pit-models-dominating-2022-features-and-reviews-by-techradar/"><u>Top 5 Fire Pit Models Dominating 2022 - Features & Reviews by TechRadar</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/top-5-ideal-household-greenery-choices-for-boosting-productivity-in-your-workspace-insights-from-zdnet/"><u>Top 5 Ideal Household Greenery Choices for Boosting Productivity in Your Workspace - Insights From ZDNet</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/top-5-pick-of-the-crop-inflatable-kayaks-choose-wisely-with-our-expert-picks/"><u>Top 5 Pick-of-the-Crop Inflatable Kayaks - Choose Wisely with Our Expert Picks!</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/top-5-premium-electric-grill-masters-best-e-smokers-reviewed/"><u>Top 5 Premium Electric Grill Masters: Best E-Smokers Reviewed</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/top-5-premium-pellet-grills-comprehensive-reviews-and-buyers-guide-zdnet/"><u>Top 5 Premium Pellet Grills - Comprehensive Reviews & Buyer's Guide (ZDNet)</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/top-7-bohuzel-neni-kniha-najlepsi-clanek-o-prekonani-konverzacao-dvd-a-mp4-na-mac/"><u>Top 7 Bohužel Není Kniha: Najlepší Článek O Překonání Konverzação DVD a MP4 Na Mac</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-distinguishing-between-youtube-content-control-and-creative-commons-flexibility-for-2024/"><u>[New] Distinguishing Between YouTube Content Control and Creative Commons Flexibility for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-in-2024-pioneering-the-space-of-podcast-logos-and-identity/"><u>[Updated] In 2024, Pioneering the Space of Podcast Logos & Identity</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-explore-the-world-of-drawing-on-your-chromebook-today/"><u>2024 Approved Explore the World of Drawing on Your Chromebook Today</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/battle-of-tech-giants-how-does-apples-ipad-pro-m4-stack-up-against-macbook-air-with-m1-chip/"><u>Battle of Tech Giants: How Does Apple's iPad Pro M4 Stack Up Against MacBook Air with M1 Chip?</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/beat-apples-latest-eye-tech-release-with-budget-friendly-xr-glasses-for-a-seamless-experience/"><u>Beat Apple's Latest Eye-Tech Release with Budget-Friendly XR Glasses for a Seamless Experience</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/future-of-microsoft-innovative-cloud-and-device-integration-in-upcoming-strategy-insights-from-zdnet/"><u>Future of Microsoft: Innovative Cloud and Device Integration in Upcoming Strategy - Insights From ZDNet</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-scalable-and-stylish-type-in-ae-with-top-choices/"><u>In 2024, Scalable and Stylish Type in AE with Top Choices</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-why-is-ipogo-not-working-on-samsung-galaxy-xcover-7-fixed-drfone-by-drfone-virtual-android/"><u>In 2024, Why is iPogo not working On Samsung Galaxy XCover 7? Fixed | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/misguidance-in-the-era-of-machine-creativity/"><u>Misguidance in the Era of Machine Creativity</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-fullscreen-challenges-with-sonic-gameplay-w11-version/"><u>Navigating Fullscreen Challenges with Sonic Gameplay, W11 Version</u></a></li>
+<li><a href="https://review-topics.techidaily.com/remove-google-frp-lock-on-a60s-by-drfone-android-unlock-remove-google-frp/"><u>Remove Google FRP lock on A60s</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/risk-alert-apple-watch-owners-advised-to-avoid-fake-and-non-certified-chargers-insights-from-zdnet/"><u>Risk Alert: Apple Watch Owners Advised to Avoid Fake and Non-Certified Chargers - Insights From ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/snag-your-deal-on-apples-affordable-airpods-now-for-40-less-just-in-time-for-fourth-of-july-celebrations-find-out-more-on-zdnet/"><u>Snag Your Deal on Apple's Affordable AirPods Now for $40 Less, Just in Time for Fourth of July Celebrations – Find Out More on ZDNET</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-ultimate-guide-to-choosing-the-finest-apple-watch-titanium-band-why-this-one-stands-out/"><u>The Ultimate Guide to Choosing the Finest Apple Watch Titanium Band: Why This One Stands Out!</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/update-your-kindle-paperwhites-display-time-with-these-simple-instructions/"><u>Update Your Kindle Paperwhite's Display Time with These Simple Instructions</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/what-was-the-netflix-dvd-rental-program/"><u>What Was the Netflix DVD Rental Program?</u></a></li>
 </ul></div>
 

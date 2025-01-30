@@ -1,7 +1,7 @@
 ---
 title: "$649 MacBook Air M1 Laptop Sale: Secure Your Ultimate Bargain Today! | PCMag"
-date: 2025-01-16T16:47:57.856Z
-updated: 2025-01-22T23:10:33.870Z
+date: 2025-01-27T17:59:56.166Z
+updated: 2025-01-30T17:31:58.552Z
 tags:
   - apple
 categories:
@@ -42,7 +42,7 @@ At $649, this is the lowest price for the M1 version of the MacBook Air that we'
 The [M1 MacBook Air](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fmacbook-air-13-3-laptop-apple-m1-chip-8gb-memory-256gb-ssd-space-gray-space-gray%2F5721600.p%3FskuId%3D5721600&publisher_slug=itechdaily19598&exclusive=1) first retailed for $999 when it was released, but Apple sells refurbished versions for $799, making these deals even better than anything Apple is offering. The [M1 MacBook Air](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FApple-MacBook-Air-13-3-inch-Laptop-Silver-M1-Chip-8GB-RAM-256GB-storage%2F609040889&subId1=zd-__COM_CLICK_ID__-dtp) is available in three different colors: gold, space gray, and silver. Snag these savings while you can. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -81,18 +81,18 @@ However, deals are subject to sell out or expire at any time, though ZDNET remai
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-windows-screen-imaging-technique/"><u>[New] 2024 Approved Windows Screen Imaging Technique</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-expert-tips-for-applying-apple-music-to-your-videos/"><u>[Updated] 2024 Approved Expert Tips for Applying Apple Music to Your Videos</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/can-you-believe-it-southwest-airlines-urges-customers-to-embrace-the-hilarious-new-initiative-zdnet/"><u>Can You Believe It? Southwest Airlines Urges Customers to Embrace the Hilarious New Initiative - ZDNet</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/comparing-major-retailers-return-policies-amazon-walmart-target-and-others-zdnet/"><u>Comparing Major Retailers' Return Policies: Amazon, Walmart, Target & Others - ZDNet</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/comparing-temu-and-amazon-determining-the-ultimate-online-marketplace-for-your-shopping-preferences/"><u>Comparing Temu and Amazon: Determining the Ultimate Online Marketplace for Your Shopping Preferences</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/effortless-panera-bread-deliveries-alexas-new-feature-that-eases-meal-orders/"><u>Effortless Panera Bread Deliveries: Alexa's New Feature That Eases Meal Orders!</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/enhancing-realism-in-ai-discussions-via-tailored-instructions/"><u>Enhancing Realism in AI Discussions via Tailored Instructions</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/get-your-custom-sized-oura-smart-ring-from-target-and-more-tips-inside-articles-by-zdnet/"><u>Get Your Custom-Sized Oura Smart Ring From Target & More Tips Inside | Articles by ZDNet</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-change-spotify-location-after-moving-to-another-country-on-oneplus-ace-3-drfone-by-drfone-virtual-android/"><u>How to Change Spotify Location After Moving to Another Country On OnePlus Ace 3 | Dr.fone</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-unlink-your-iphone-13-pro-from-your-apple-id-by-drfone-ios/"><u>In 2024, How To Unlink Your iPhone 13 Pro From Your Apple ID</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/proven-ways-to-fix-there-was-a-problem-parsing-the-package-on-oneplus-11-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Proven Ways to Fix There Was A Problem Parsing the Package on OnePlus 11 5G | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/unlocking-made-easy-the-best-10-apps-for-unlocking-your-meizu-21-device-by-drfone-android/"><u>Unlocking Made Easy The Best 10 Apps for Unlocking Your Meizu 21 Device</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/unmissable-september-october-cyber-monday-discounts-on-samsung-products-find-and-save-today/"><u>Unmissable September-October Cyber Monday Discounts on Samsung Products – Find & Save Today!</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-breathtaking-lyric-videos-made-easy-by-lyric-video-maker/"><u>[Updated] 2024 Approved Breathtaking Lyric Videos Made Easy by Lyric Video Maker</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-how-to-send-gif-on-snapchat-step-by-step-guide/"><u>[Updated] 2024 Approved How to Send Gif on Snapchat [Step-by-Step Guide]</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-step-by-step-blueprint-accessing-facebook-status-videos/"><u>2024 Approved Step-by-Step Blueprint Accessing Facebook Status Videos</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-strategies-for-televised-social-media-engagements-fb-live/"><u>2024 Approved Strategies for Televised Social Media Engagements FB Live</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/audio-dimming-techniques-in-logic-pro-for-2024/"><u>Audio Dimming Techniques in Logic Pro for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/exclusive-reviews-by-zdnet-editors-the-phone-selection-you-need-to-know-about/"><u>Exclusive Reviews by ZDNet Editors: The Phone Selection You Need to Know About!</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unfortunately-contacts-has-stopped-error-on-nokia-c12-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Unfortunately, Contacts Has Stopped Error on Nokia C12 | Dr.fone</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-5-ways-change-your-home-address-in-googleapple-map-on-apple-iphone-11ipad-drfone-by-drfone-virtual-ios/"><u>In 2024, 5 Ways Change Your Home Address in Google/Apple Map on Apple iPhone 11/iPad | Dr.fone</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/in-2024-a-step-by-step-guide-to-youtube-to-igtv-conversion/"><u>In 2024, A Step-by-Step Guide to YouTube to IGTV Conversion</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-the-best-8-vpn-hardware-devices-reviewed-on-samsung-galaxy-s23plus-drfone-by-drfone-virtual-android/"><u>In 2024, The Best 8 VPN Hardware Devices Reviewed On Samsung Galaxy S23+ | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-process-for-executing-android-software-within-windows-11/"><u>Step-by-Step Process for Executing Android Software Within Windows 11</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/switch-browsers-seamlessly-a-users-guide-for-samsung-televisions/"><u>Switch Browsers Seamlessly: A User's Guide for Samsung Televisions</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/transform-your-home-entertainment-a-step-by-step-guide-to-playing-various-video-files-on-apple-tv-using-vlc/"><u>Transform Your Home Entertainment: A Step-by-Step Guide to Playing Various Video Files on Apple TV Using VLC</u></a></li>
 </ul></div>
 

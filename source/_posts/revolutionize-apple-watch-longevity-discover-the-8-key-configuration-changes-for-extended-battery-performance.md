@@ -1,7 +1,7 @@
 ---
 title: "Revolutionize Apple Watch Longevity: Discover the 8 Key Configuration Changes for Extended Battery Performance"
-date: 2025-01-20T02:54:14.876Z
-updated: 2025-01-22T21:25:41.793Z
+date: 2025-01-28T17:50:11.719Z
+updated: 2025-01-30T16:07:26.215Z
 tags:
   - apple
 categories:
@@ -36,6 +36,10 @@ Even with a healthy battery life in my device, I'm not sure when the problem ori
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Turn off the always-on display
 
 This is the most effective thing you can do to preserve your Apple Watch's battery life. While yes, it can be super inconvenient to ditch the always-on display, it can be the difference between your Apple Watch lasting all day and it dying before dinner time. I turned mine off for a weekend and was surprised to find that it greatly enhances endurance, albeit not to the point of pre-watchOS 10.
@@ -43,7 +47,7 @@ This is the most effective thing you can do to preserve your Apple Watch's batte
 **How to:** On your Apple Watch, head to Settings > Display & Brightness > Always On, then toggle the feature off.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Use Low Power Mode when you can
@@ -61,10 +65,6 @@ If you have an Apple Watch with cellular connectivity, it's best to not use your
 **How to:** Open Settings > Cellular on your watch and toggle off "Cellular." Then, when you want to turn it back on, flick the switch again. It's worth noting that airplane mode will essentially do the same thing, but it also turns off Wi-Fi which you need for certain things, so manually disabling cellular data will save some steps.
 
 Jason Hiner/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. Turn off background app refresh
 
@@ -84,6 +84,10 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. Turn off irregular heart rate notifications
 
 With some of the newest Apple Watches, Apple includes a feature that can alert you when your heart rate is beating in irregular intervals and alert you when it may be atrial fibrillation. While that's nice to have for tracking your health over time, it means the heart rate sensor is constantly on collecting your heart rate, which isn't good for battery life.
@@ -91,7 +95,7 @@ With some of the newest Apple Watches, Apple includes a feature that can alert y
 **How to:** Visit Settings > Heart > Irregular Rhythm Notifications and flick the feature off.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Reduce the amount of notifications you get
@@ -102,6 +106,10 @@ When a notification comes in, it not only plays a "ding!" to alert you, it also 
 
 **Also:** [**Your Apple Watch is getting an upgrade - here are the best features in WatchOS 11**](https://www.zdnet.com/article/your-apple-watch-is-getting-an-upgrade-here-are-the-best-features-in-watchos-11/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 7\. Turn off Siri
 
 Ah, Siri. Many people swear by the voice assistant and use it daily to do things like check the weather, start a timer (or two), play some music, or start a workout. But if you're like me (and, presumably, many others), you don't touch Siri at all on your Apple Watch, and it's just sitting there wasting your battery, constantly listening to hear that magical phrase "Hey, Siri." In other words, you should turn it off.
@@ -110,19 +118,11 @@ Ah, Siri. Many people swear by the voice assistant and use it daily to do things
 
 Adrian Kingsley-Hughes/ZDNET
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 8\. Factory reset your Apple Watch (a.k.a. the last resort)
 
 I've heard from many folks who have faced issues with battery life on the Apple Watch that it's best to do a complete factory reset. Full disclosure: it's not going to work for everyone, but if you've exhausted every option on your Apple Watch to extend battery life, the battery is still healthy, and you don't want to upgrade, your best bet is to reset it and start from scratch. That way, you can set up your watch and, along the way, spot the app or service that drains your battery the most. It may also help clean up some of the system bloat in watchOS 10 that's led to poor efficiency on your watch.
 
 **How to:** Go to Settings > General > Reset on your Apple Watch, then choose "Erase All Content and Settings." You won't have to disable Find My or get rid of your cellular plan since you'll be setting it up with your iPhone again, but if you want to get rid of absolutely everything, make sure you disable Find My and dump your cellular plan during the process.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How we test smartwatches
 
@@ -165,24 +165,19 @@ For a deeper look at our testing process, check out our comprehensive [smartwatc
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-strategies-for-sourcing-a-list-cinematography-experts/"><u>[New] 2024 Approved Strategies for Sourcing A-List Cinematography Experts</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-snappy-success-techniques-for-making-memorable-marketing-images/"><u>[New] Snappy Success Techniques for Making Memorable Marketing Images</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-beyond-reality-expert-tips-for-documenting-vr-gaming-sessions-for-2024/"><u>[Updated] Beyond Reality Expert Tips for Documenting VR Gaming Sessions for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-in-2024-mastering-luts-in-photoshop-a-step-by-step-guide/"><u>[Updated] In 2024, Mastering LUTs in Photoshop A Step-by-Step Guide</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-in-2024-navigating-like-a-pro-with-telegram-web/"><u>[Updated] In 2024, Navigating Like a Pro with Telegram Web</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/2024-approved-downloadfacebookvideos-essential-browser-addons-for-a-smooth-social-media-journey-in-firefox/"><u>2024 Approved DownloadFacebookVideos! - Essential Browser Addons for a Smooth Social Media Journey in FireFox</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/alexa-showdown-deciding-between-echo-pop-and-echo-dot-a-comprehensive-guide-for-your-perfect-smart-speaker-zdnet/"><u>Alexa Showdown: Deciding Between Echo Pop and Echo Dot - A Comprehensive Guide for Your Perfect Smart Speaker [ZDNet]</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/dont-miss-out-get-the-new-echo-spot-as-an-amazing-deal-at-40-off-on-prime-day-find-it-here-on-zdnet/"><u>Don’t Miss Out! Get the New Echo Spot as an Amazing Deal at 40% Off on Prime Day - Find It Here on ZDNET!</u></a></li>
-<li><a href="https://win-manuals.techidaily.com/how-does-one-recover-a-unintentionally-deleted-partition-on-windows-7-with-myrecover-software/"><u>How Does One Recover a Unintentionally Deleted Partition on Windows 7 with MyRecover Software?</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-reset-a-locked-poco-x6-phone-by-drfone-android/"><u>In 2024, How to Reset a Locked Poco X6 Phone</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-ways-to-trade-pokemon-go-from-far-away-on-poco-c50-drfone-by-drfone-virtual-android/"><u>In 2024, Ways to trade pokemon go from far away On Poco C50? | Dr.fone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/surprisingly-powerful-discovering-the-best-alternative-to-sonos-and-bose-in-bluetooth-speakers-insider-tips-from-zdnets-latest-comparison/"><u>Surprisingly Powerful: Discovering the Best Alternative to Sonos and Bose in Bluetooth Speakers | Insider Tips From ZDNET's Latest Comparison</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/top-choices-for-the-perfect-present-ideas-when-unsure-of-what-to-buy-insights-from-zdnet/"><u>Top Choices for the Perfect Present: Ideas When Unsure of What to Buy - Insights From ZDNet</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/top-rated-review-delving-into-the-features-of-fugeteks-high-end-model-ft-568-selfie-stick/"><u>Top Rated Review: Delving Into the Features of Fugetek's High-End Model FT-568 Selfie Stick</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/top-ranking-desktop-speaker-that-outshines-logitech-and-pioneer-unveiled-on-zdnet/"><u>Top-Ranking Desktop Speaker That Outshines Logitech & Pioneer Unveiled on ZDNet</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/top-rated-smart-speakers-in-depth-analysis-and-reviews-by-tech-experts-zdnet/"><u>Top-Rated Smart Speakers : In-Depth Analysis & Reviews by Tech Experts | ZDNet</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/unexpected-delights-how-switching-to-a-jbl-speaker-transformed-my-audio-experience-a-firsthand-review-by-tech-enthusiasts/"><u>Unexpected Delights: How Switching to a JBL Speaker Transformed My Audio Experience - A Firsthand Review by Tech Enthusiasts</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/unmatched-immersion-discovering-top-notch-audio-excellence-beyond-sony-and-jbl-featured-on-zdnet/"><u>Unmatched Immersion: Discovering Top-Notch Audio Excellence Beyond Sony & JBL, Featured on ZDNet</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/zdnets-in-depth-apple-homepod-evaluation-shows-superior-audio-to-homepod-mini/"><u>ZDNet's In-Depth Apple HomePod Evaluation Shows Superior Audio to HomePod Mini</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-superior-video-recording-apps-on-mac-not-bandicam/"><u>[New] Superior Video Recording Apps on Mac, Not Bandicam</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-mastering-video-capturing-made-simple-a-complete-guide-using-zd-software/"><u>[Updated] 2024 Approved Mastering Video Capturing Made Simple A Complete Guide Using ZD Software</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-optimize-video-posts-a-comprehensive-crop-and-export-method/"><u>[Updated] Optimize Video Posts A Comprehensive Crop & Export Method</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-full-guide-streamlining-your-files-in-the-digital-age-with-adobe-and-beyond/"><u>2024 Approved Full Guide Streamlining Your Files in the Digital Age with Adobe & Beyond</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/building-stellar-instagram-photo-covers-for-your-highlights/"><u>Building Stellar Instagram Photo Covers for Your Highlights</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/comparing-apples-latest-titans-mac-mini-with-m2-vs-mac-studio-and-m1-performance-showdown-insights/"><u>Comparing Apple's Latest Titans: Mac Mini with M2 vs Mac Studio & M1 Performance Showdown - Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/experts-rank-and-review-the-most-exceptional-travel-friendly-computers-ideal-for-remote-work-zdnets-picks/"><u>Experts Rank and Review the Most Exceptional Travel-Friendly Computers Ideal for Remote Work | ZDNET's Picks</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/extensive-appraisal-hero4-black-capabilities/"><u>Extensive Appraisal Hero4 Black Capabilities</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/finding-your-next-charge-utilizing-google-maps-to-discover-ev-chargers-near-you/"><u>Finding Your Next Charge: Utilizing Google Maps to Discover EV Chargers Near You</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-music-files-from-vivo-by-fonelab-android-recover-music/"><u>How To Restore Missing Music Files from Vivo</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/inside-look-at-googles-upcoming-showcase-unraveling-potential-innovations-and-developments/"><u>Inside Look at Google’s Upcoming Showcase: Unraveling Potential Innovations & Developments</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/inside-the-next-google-pixel-fold-projected-costs-scheduled-debut-tech-specs-and-emerging-rumors/"><u>Inside the Next Google Pixel Fold: Projected Costs, Scheduled Debut, Tech Specs, & Emerging Rumors</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-apple-bargains-in-july-2024-iphone-savings-and-exclusive-discounts-on-apple-watch-ipad-and-extra-accessories-comprehensive-guide/"><u>Top Apple Bargains in July 2024: IPhone Savings & Exclusive Discounts on Apple Watch, iPad, and Extra Accessories Comprehensive Guide</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-rated-magsafe-gadgets-comprehensive-reviews-and-testing-by-zdnet/"><u>Top-Rated MagSafe Gadgets : Comprehensive Reviews & Testing by ZDNet</u></a></li>
 </ul></div>
 

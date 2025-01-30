@@ -1,7 +1,7 @@
 ---
 title: "Protect Personal Privacy: A Guide to Cleaning Up Trackers in Safari for macOS Users | ZDNet"
-date: 2025-01-18T21:32:34.034Z
-updated: 2025-01-22T22:34:57.999Z
+date: 2025-01-24T17:58:25.931Z
+updated: 2025-01-30T17:51:21.848Z
 tags:
   - apple
 categories:
@@ -47,7 +47,7 @@ Let me show you how to enable this feature.
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to remove tracking information in MacOS Safari
@@ -55,7 +55,7 @@ Let me show you how to enable this feature.
 **What you'll need:** To gain the benefit of advanced tracking and fingerprint protection, you'll need [MacOS Sonoma](https://www.zdnet.com/article/whats-new-in-macos-sonoma-heres-everything-you-need-to-know/), which ships with version 17.0 of Safari. You will only find this feature in Safari if you've upgraded to Sonoma.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Open Safari Settings
@@ -67,7 +67,7 @@ You can also access Safari settings with the Cmd+, key combination.
 Jack Wallen/ZDNET
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Enable advanced track protection
@@ -119,17 +119,17 @@ Even so, getting rid of tracking information from even a percentage of sites you
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-beginners-pathway-to-grasping-hd-content-standards/"><u>[New] 2024 Approved Beginner’s Pathway to Grasping HD Content Standards</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-premier-screenshots-software-for-linux-users-for-2024/"><u>[New] Premier Screenshots Software for Linux Users for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-peeking-into-instagram-stories-what-viewers-dont-know/"><u>[Updated] 2024 Approved Peeking Into Instagram Stories What Viewers Don’t Know</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-combat-blurry-iphone-hdri-4-pivotal-tips-for-premiere-pro-users/"><u>[Updated] Combat Blurry iPhone HDRI 4 Pivotal Tips for Premiere Pro Users</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-uncover-exquisite-vr-trails-for-bikers/"><u>[Updated] Uncover Exquisite VR Trails for Bikers</u></a></li>
-<li><a href="https://win11.techidaily.com/addressing-cannot-access-errors-for-files-in-win1011/"><u>Addressing 'Cannot Access' Errors for Files in Win10/11</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/discover-these-16-no-cost-tools-for-learning-sign-language-easily/"><u>Discover These 16 No-Cost Tools for Learning Sign Language Easily</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/inside-scoop-on-the-pixel-watch-release-specs-price-forecast-and-rumored-updates/"><u>Inside Scoop on The Pixel Watch - Release Specs, Price Forecast & Rumored Updates</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/the-easy-way-to-take-photos-of-your-desktop-using-an-hp-computer/"><u>The Easy Way to Take Photos of Your Desktop Using an HP Computer</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/the-ultimate-guide-to-resolving-printer-visibility-issues-on-your-ipad-device/"><u>The Ultimate Guide to Resolving Printer Visibility Issues on Your iPad Device</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/top-imei-unlokers-for-your-samsung-galaxy-f34-5g-phone-by-drfone-android/"><u>Top IMEI Unlokers for Your Samsung Galaxy F34 5G Phone</u></a></li>
-<li><a href="https://games-able.techidaily.com/top-performing-240hz-panels-for-competitive-play/"><u>Top Performing 240Hz Panels for Competitive Play</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-enhance-virtual-interaction-top-7-technologies-revealed-for-2024/"><u>[New] Enhance Virtual Interaction - Top 7 Technologies Revealed for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-no-cost-top-quality-premiere-pro-designs/"><u>[Updated] No-Cost, Top-Quality Premiere Pro Designs</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-top-11-best-instagram-photo-editors-for-2024/"><u>[Updated] Top 11 Best Instagram Photo Editors for 2024</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/complete-guide-reviving-your-iphone-without-needing-a-previous-backup-stellars-expert-tips/"><u>Complete Guide: Reviving Your iPhone Without Needing a Previous Backup - Stellar's Expert Tips</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/discover-the-science-of-openai-ai/"><u>Discover the Science of OpenAI AI</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/explore-the-top-free-communication-tools-that-replace-skype/"><u>Explore the Top Free Communication Tools that Replace Skype</u></a></li>
+<li><a href="https://techidaily.com/how-to-hard-reset-samsung-galaxy-m34-5g-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Samsung Galaxy M34 5G Without Password | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-send-and-fake-live-location-on-facebook-messenger-of-your-oneplus-open-drfone-by-drfone-virtual-android/"><u>How to Send and Fake Live Location on Facebook Messenger Of your OnePlus Open | Dr.fone</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/in-2024-effortless-methods-amp-up-your-yt-video-quality/"><u>In 2024, Effortless Methods Amp Up Your YT Video Quality</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-tutorial-compelling-a-windows-system-restart-into-safe-mode/"><u>Step-by-Step Tutorial: Compelling a Windows System Restart Into Safe Mode</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/steps-to-remove-text-overlays-in-amazon-prime-video-for-a-cleaner-watch/"><u>Steps to Remove Text Overlays in Amazon Prime Video for a Cleaner Watch</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/streaming-strategies-for-the-tokyo-2024-summer-olympics-online-viewers/"><u>Streaming Strategies for the Tokyo 2024 Summer Olympics Online Viewers</u></a></li>
 </ul></div>
 

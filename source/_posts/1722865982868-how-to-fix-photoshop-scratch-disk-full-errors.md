@@ -1,7 +1,7 @@
 ---
 title: How to Fix Photoshop ‘Scratch Disk Full’ Errors
-date: 2024-08-18T17:48:15.759Z
-updated: 2024-08-19T17:48:15.759Z
+date: 2025-01-29T16:00:08.406Z
+updated: 2025-01-30T18:32:23.824Z
 categories:
   - BestProducts
 description: This Article Describes How to Fix Photoshop ‘Scratch Disk Full’ Errors
@@ -15,6 +15,10 @@ thumbnail: https://www.lifewire.com/thmb/KvAsiwNEClbgDf1q98aLkEyqP48=/400x300/fi
  To prevent the Photoshop scratch disk is full error, you need to change how Photoshop uses your computer's memory.
 
  Information in this article applies to Adobe Photoshop CC for[Windows](https://www.lifewire.com/brief-history-of-microsoft-windows-3507078) and[macOS](https://www.lifewire.com/what-is-macos-4691239) .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Fix the Photoshop Scratch Disk Full Error
 
@@ -34,6 +38,10 @@ thumbnail: https://www.lifewire.com/thmb/KvAsiwNEClbgDf1q98aLkEyqP48=/400x300/fi
    * On macOS, select**Photoshop CC** \>**Preferences** \>**Scratch Disks** , or press**Command+Option** .
 
  If your computer has a fast[solid-state disk drive](https://www.lifewire.com/solid-state-drive-833448) (SSD), use the SSD as the scratch disk. Don't use the same[hard disk drive](https://www.lifewire.com/what-is-a-hard-disk-drive-2618152) (HDD) where the operating system is installed or where the files you edit are stored. Also, don't use a network or removable drive.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What Causes the Photoshop Scratch Disk Is Full Error?
 
@@ -70,8 +78,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -79,8 +85,22 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-google-cardboard-vs-samsung-gear-vr/"><u>[New] 2024 Approved Google Cardboard Vs. Samsung Gear VR</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/he-art-of-arranging-youtube-video-elements-for-2024/"><u>[New] The Art of Arranging YouTube Video Elements for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-audit-your-channels-financial-success/"><u>[Updated] 2024 Approved Audit Your Channel's Financial Success</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-hdr-tech-showdown-sns-vs-alternatives/"><u>[Updated] HDR Tech Showdown SNS vs Alternatives</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/determining-ideal-memory-size-for-smooth-computer-operation-with-yl-software-expertise/"><u>Determining Ideal Memory Size for Smooth Computer Operation with YL Software Expertise</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/easy-instructions-how-to-completely-remove-your-yahoo-mail-profile/"><u>Easy Instructions: How To Completely Remove Your Yahoo Mail Profile</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-host-or-join-a-screen-share-session-on-netflix-platform/"><u>How to Host or Join a Screen Share Session on Netflix Platform</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-planning-to-use-a-pokemon-go-joystick-on-apple-iphone-12-drfone-by-drfone-virtual-ios/"><u>In 2024, Planning to Use a Pokemon Go Joystick on Apple iPhone 12? | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/lg-tv-troubleshooting-fixing-common-netflix-streaming-errors-effectively/"><u>LG TV Troubleshooting: Fixing Common Netflix Streaming Errors Effectively</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/overcoming-the-502-bad-gateway-challenge-effective-strategies-and-tips/"><u>Overcoming the 502 Bad Gateway Challenge: Effective Strategies & Tips</u></a></li>
+<li><a href="https://win-able.techidaily.com/quick-progression-strategies-for-fps-gameplay-in-dayz/"><u>Quick Progression Strategies for FPS Gameplay in DayZ</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/step-by-step-guide-to-restarting-file-explorer-ui/"><u>Step-by-Step Guide to Restarting File Explorer UI</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-ultimate-guide-to-premier-samsung-smart-tv-apps/"><u>The Ultimate Guide to Premier Samsung Smart TV Apps</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-tips-for-selecting-and-acquiring-your-dream-tv-setup-at-home/"><u>Top Tips for Selecting & Acquiring Your Dream TV Setup at Home</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/understanding-espnpluss-functionality-an-in-depth-look-at-the-sports-networks-digital-platform/"><u>Understanding ESPN+'s Functionality: An In-Depth Look at the Sports Network's Digital Platform</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
-<!-- affiliate ads end -->

@@ -1,7 +1,7 @@
 ---
 title: Top Smartphones Endorsed Editors - Real-World Usage Insights
-date: 2025-01-18T04:11:59.615Z
-updated: 2025-01-23T04:33:29.029Z
+date: 2025-01-24T18:37:44.598Z
+updated: 2025-01-30T18:21:08.006Z
 tags:
   - apple
 categories:
@@ -17,10 +17,6 @@ Curious about the favorite devices and phone buying habits of _ZDNet's_ tech rep
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
 
@@ -50,6 +46,10 @@ Pros
 Cons 
 * New design Cameras are impressive Performance Battery life
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## iPhone 12 Pro
 
 ### Jason Cipriani and Simon Bisson
@@ -76,6 +76,10 @@ Cons
 
 ## Samsung Galaxy S21 Ultra
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Steven J. Vaughan-Nichols and Charlie Osborne
 
 **Steven J. Vaughan-Nichols:** My Pixel 3 was starting to show its age, so I decided that since I was going to upgrade my phone, why not go for the gusto and get the top-of-the-line Samsung? So far, I'm glad I did. I love the 6.8-inch 120Hz Quad HD screen. The five cameras backed by a 108MP sensor and 10x optical zoom are insanely good. It also has 5G, which, at this point, isn't really that important on Verizon since I don't live next to a Verizon 5G UWB tower. What does matter to me is that it works well with my Samsung Galaxy Watch 3\. Samsung claimed early on that its watch would work well with other Android phones. It does but it doesn't come with all the health features. My only problem is the price: It lists for $1,199\. I didn't that pay that much, but I still paid a lot.
@@ -99,10 +103,6 @@ Cons
 * Long battery life Strong performance The camera is very impressive
 
 ## iPhone 12 Pro Max
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Matthew Miller
 
@@ -161,7 +161,7 @@ Cons
 ## iPhone 11 Pro
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Ed Bott
@@ -173,13 +173,13 @@ Cons
 Show Expert Take Show less 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Ulefone Armor 9
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Adrian Kingsley-Hughes
@@ -250,17 +250,9 @@ Cons
 
 Show Expert Take Show less 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ###   
 
 ###   
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## iPhone X
 
@@ -271,7 +263,7 @@ I have a Moment wide-angle lens and case, which gives me the tech I need for lan
 **Next phone or dream phone?** iPhone 13 or 14 Pro Max. Folding iPhone? I like a big screen as long as it will fit in a shirt pocket, and Moment makes a case for it. Not sure I'd be up for the extra fiddling a folding iPhone would require, but it would likely replace my iPad Mini. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###   
@@ -296,10 +288,6 @@ Show Expert Take Show less
 
 ## iPhone 7 Plus
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Tiernan Ray
 
 Purchased in 2016, I've had no reason to upgrade in four years. The thing does a perfectly fine, which is to say, in Apple's case, fairly mediocre job of calling and texting and apps. I never take my phone out of my pocket, usually use it with AirPods, so I don't care about screen size or resolution upgrades. I have an actual digital camera, so I don't care about digital camera upgrades.
@@ -307,6 +295,10 @@ Purchased in 2016, I've had no reason to upgrade in four years. The thing does a
 **Next phone or dream phone?** Apple Watch Series 13\. It would just be a stylish wireless transceiver for the AirPods. Never worry about leaving the phone somewhere by accident because it's always on the wrist! 
 
 ## iPhone 6s Plus
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### David Gewirtz and Iliana Meir
 
@@ -320,7 +312,15 @@ Purchased in 2016, I've had no reason to upgrade in four years. The thing does a
 
 **Next phone or dream phone?** I have no idea. I get overwhelmed by the amount of choice. It'll be an iPhone I guess. I'm used to them.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Lumia 1520
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Mary Branscombe
 
@@ -331,7 +331,7 @@ Yes, I am indeed still clinging to the phone that made me love phablets, upgrade
 Show less 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Samsung Galaxy Note 8
@@ -376,22 +376,20 @@ Show Expert Take Show less
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-ios-guide-to-premium-ps2-emulation-software-for-2024/"><u>[New] IOS Guide to Premium PS2 Emulation Software for 2024</u></a></li>
-<li><a href="https://article-posts.techidaily.com/new-top-5-best-action-cameras-for-hunting-for-2024/"><u>[New] Top 5 Best Action Cameras for Hunting for 2024</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/hat-are-youtube-tags-and-how-can-you-find-great-tags-for-your-videos-for-2024/"><u>[New] What Are YouTube Tags and How Can You Find Great Tags For Your Videos for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-the-ultimate-strategy-for-organizing-a-zoom-event-on-your-phonetablet/"><u>[Updated] The Ultimate Strategy for Organizing a Zoom Event on Your Phone/Tablet</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/apples-upcoming-home-assistant-bot-insights-on-cost-launch-timeline-and-features/"><u>Apple's Upcoming Home Assistant Bot: Insights on Cost, Launch Timeline & Features</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/best-new-imessage-games-of-2-you-cant-miss/"><u>Best New iMessage Games of 2# You Can't Miss!</u></a></li>
-<li><a href="https://techidaily.com/can-pending-downloads-proceed-once-you-exit-windows-sleep-state/"><u>Can Pending Downloads Proceed Once You Exit Windows' Sleep State?</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/comprehvew-on-mending-broken-mp4-and-mov-videos-expert-tips-with-vlc-player-techniques/"><u>Comprehvew on Mending Broken MP4 and MOV Videos: Expert Tips with VLC Player Techniques</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/exploring-the-world-of-dacs-are-they-worth-investing-in-for-superior-sound-quality/"><u>Exploring the World of DACs – Are They Worth Investing in for Superior Sound Quality?</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/historic-leaps-in-tech-an-overview-of-the-11-biggest-advances-since-1844/"><u>Historic Leaps in Tech: An Overview of the 11 Biggest Advances Since 1844</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-lost-data-from-infinix-hot-30i-by-fonelab-android-recover-data/"><u>How to recover lost data from Infinix Hot 30i?</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/in-2024-unveiling-the-most-compelling-free-vfx-alternatives-for-filmmakers/"><u>In 2024, Unveiling the Most Compelling Free VFX Alternatives for Filmmakers</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/navigating-apples-appointment-system-step-by-step-assistance-inside-the-apple-store/"><u>Navigating Apple's Appointment System: Step-by-Step Assistance Inside The Apple Store</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/playstation-5-sole-exclusive-games-your-complete-list-for-next-gen-fun/"><u>PlayStation 5 Sole-Exclusive Games: Your Complete List for Next-Gen Fun</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/the-next-revolution-in-phones-everything-you-need-to-know-about-the-coming-nothing-phone-3-estimated-cost-release-slate-and-cutting-edge-features/"><u>The Next Revolution in Phones? Everything You Need to Know About the Coming Nothing Phone 3 - Estimated Cost, Release Slate & Cutting-Edge Features</u></a></li>
-<li><a href="https://techtrends.techidaily.com/the-ultimate-step-by-step-tutorial-converting-dvds-to-mp4-files-for-free-on-a-mac/"><u>The Ultimate Step-by-Step Tutorial: Converting DVDs to MP4 Files for Free on a Mac</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/troubleshooting-tips-how-to-correct-mss32-dll-file-not-foundmissing-errors/"><u>Troubleshooting Tips: How to Correct MSS32 DLL File Not Found/Missing Errors</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-novel-set-of-pertinent-probing-for-podcast-participants/"><u>[New] Novel Set of Pertinent Probing for Podcast Participants</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-unearthing-old-facebook-tales-an-easy-to-follow-device-method-for-2024/"><u>[New] Unearthing Old Facebook Tales An Easy-to-Follow Device Method for 2024</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/updated-crafting-thumbnails-on-the-go-for-aspiring-mobile-film-makers/"><u>[Updated] Crafting Thumbnails on the Go For Aspiring Mobile Film Makers</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-learn-the-art-of-saving-and-logging-periscope-content/"><u>[Updated] Learn the Art of Saving & Logging Periscope Content</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-leveraging-daylight-in-home-interiors/"><u>[Updated] Leveraging Daylight in Home Interiors</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-maintain-uninterrupted-youtube-experience-on-phones/"><u>[Updated] Maintain Uninterrupted YouTube Experience on Phones</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-smartphones-meet-virtual-worlds-top-10-headsets/"><u>2024 Approved Smartphones Meet Virtual Worlds - Top 10 Headsets</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/capturing-memorable-gaming-screenshots-a-comprehve-guide-for-xbox-one-users/"><u>Capturing Memorable Gaming Screenshots: A Comprehve Guide for Xbox One Users</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discover-the-latest-atandt-cellphone-savings-for-may-202n4-expert-reviews-and-tips/"><u>Discover the Latest AT&T Cellphone Savings for May 202N4 – Expert Reviews and Tips</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-do-itel-p55t-screen-sharing-drfone-by-drfone-android/"><u>How To Do Itel P55T Screen Sharing | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ideal-gaming-bundles-for-kids-consoles-controllers-and-more/"><u>Ideal Gaming Bundles for Kids: Consoles, Controllers, and More!</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/mastering-the-ios-18-iphone-control-center-tailored-customization-guide-for-smart-users-digitalgeniustips/"><u>Mastering the iOS 18 iPhone Control Center - Tailored Customization Guide for Smart Users | DigitalGeniusTips</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/professional-video-production-goes-mobile-apple-enhances-iphone-with-final-cut/"><u>Professional Video Production Goes Mobile: Apple Enhances iPhone with Final Cut</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-guide-tracking-your-online-bandwidth-usage-easily/"><u>Step-by-Step Guide: Tracking Your Online Bandwidth Usage Easily</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-showdown-between-the-latest-tech-google-pixel-watch-vs-apple-watch-series-9-investing-wisely-in-a-smarttimepiece/"><u>The Showdown Between the Latest Tech: Google Pixel Watch Vs. Apple Watch Series 9 - Investing Wisely in a Smarttimepiece</u></a></li>
 </ul></div>
 

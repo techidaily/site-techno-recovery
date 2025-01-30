@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Steps: Why Your Roku TV Is Not Powering Up"
-date: 2024-08-18T17:47:41.160Z
-updated: 2024-08-19T17:47:41.160Z
+date: 2025-01-28T18:22:15.390Z
+updated: 2025-01-30T18:29:09.959Z
 categories:
   - BestProducts
 description: "This Article Describes Troubleshooting Steps: Why Your Roku TV Is Not Powering Up"
@@ -13,6 +13,10 @@ thumbnail: https://thmb.techidaily.com/1477ca2012895e861bfdb26b444c7a0eb6d638cc1
  There are many reasons why an iPhone won't ring, but most of these problems are easy to fix. If your iPhone isn't ringing when someone calls you, try these tips before concluding that your iPhone needs an expensive repair.
 
  The tips in this article apply to all supported iPhone models and recent iOS versions, including iOS 13, 12, and 11.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Fix an iPhone That Won't Ring
 
@@ -33,9 +37,19 @@ thumbnail: https://thmb.techidaily.com/1477ca2012895e861bfdb26b444c7a0eb6d638cc1
    3. Tap the red circle beside the blocked number, and then tap**Unblock** .  
 ![An iPhone with the Phone settings, Blocked Contacts heading, and Unblock button highlighted](https://www.lifewire.com/thmb/MPfrUdCCr2HLjH9Va4OIkm1zN3o=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001-im-missing-calls-because-my-iphone-isnt-ringing-help-2000264-2308e3feb71f4c9194900da12675ecb2.jpg)
 6. Disable Silence Unknown Callers. To help users avoid spam calls and robocalls, Apple added a feature in[iOS 13](https://www.lifewire.com/ios-13-4586609) that automatically silences all calls from unknown numbers. If this feature is turned on, you won't hear calls from numbers that aren't in the Contacts app. Instead, the iPhone sends them right to voicemail. To disable this feature, select**Settings** \>**Phone** , and then turn off the**Silence Unknown Callers** switch.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you want to keep Silence Unknown Callers turned on but still get calls from certain numbers,[add those callers to Contacts](https://www.lifewire.com/manage-contacts-iphone-address-book-2000570) .  
 ![iPhone showing the Phone settings and Silence Unknown Callers switch](https://www.lifewire.com/thmb/PfmlpvYkxD5z2_TErc_402j9xA8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002-im-missing-calls-because-my-iphone-isnt-ringing-help-2000264-b93c2874c9784090a83900ec430caf0b.jpg)
 7. Change your custom ringtone. If your iPhone still doesn't ring for incoming calls, check your ringtone. If you[set up unique ringtones for contacts](https://www.lifewire.com/assign-unique-ringtone-on-iphone-2000557) , a deleted or corrupted ringtone can prevent the phone from ringing when someone calls.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  To check the default ringtone, tap**Settings** \>**Sounds & Haptics** \>**Ringtone** , and then select a new ringtone.  
  If you miss calls from only certain people, open the Phone app, and then complete these steps:  
    1. Tap**Contacts** .  
@@ -43,6 +57,11 @@ thumbnail: https://thmb.techidaily.com/1477ca2012895e861bfdb26b444c7a0eb6d638cc1
    3. Tap**Ringtone** , and then assign the contact a new ringtone.  
 ![Three iOS screens showing Contacts, Edit button and Ringtone area in Phone settings app](https://www.lifewire.com/thmb/dQgktPdfOQV7lnazDKmKLLfIXPI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/006_im-missing-calls-because-my-iphone-isnt-ringing-help-2000264-5bbe5923c9e77c005156dd60.jpg)  
  If the unique ringtone is the source of the problem, find all the contacts to whom you assigned that ringtone and select a new ringtone for each.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 8. [Make sure the phone isn't stuck in Headphone mode](https://www.lifewire.com/fix-iphone-stuck-in-headphone-mode-4175912) . It could be that your iPhone is ringing but sending the audio to the wrong place. In this situation, the iPhone thinks that another audio source is attached to it—like headphones or a Bluetooth device—and tries to ring there instead of through your iPhone speaker.
 
 ## If None of These Tips Fixed the Problem
@@ -52,8 +71,9 @@ thumbnail: https://thmb.techidaily.com/1477ca2012895e861bfdb26b444c7a0eb6d638cc1
 [How to Fix It When iPhone Call Volume Is Low](https://www.lifewire.com/fix-low-volume-on-call-on-iphone-5186012)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Causes of the iPhone Not Ringing Problem
 
  If your iPhone isn't ringing, there are several possible culprits:
@@ -93,8 +113,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -102,4 +120,26 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-expert-recommendations-top-5-windows-screen-cutting-apps/"><u>[Updated] 2024 Approved Expert Recommendations Top 5 Windows Screen Cutting Apps</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-masterpieces-of-modern-mythology-top-youtube-storytellers/"><u>[Updated] In 2024, Masterpieces of Modern Mythology - Top YouTube Storytellers</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/2024-approved-navigating-the-complex-world-of-video-text-implementation-vimeo/"><u>2024 Approved Navigating the Complex World of Video Text Implementation (Vimeo)</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/2024s-top-contenders-in-the-world-of-ups-battery-backup-units/"><u>2024'S Top Contenders in the World of UPS Battery Backup Units</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/childrens-digital-delight-exciting-internet-games-for-young-minds/"><u>Children's Digital Delight: Exciting Internet Games for Young Minds</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/effective-solutions-for-handling-the-whea-device-failure-alerts/"><u>Effective Solutions for Handling the WHEA Device Failure Alerts</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/engaging-your-child-with-these-9-amazing-free-preschool-activities-online/"><u>Engaging Your Child with These 9 Amazing Free Preschool Activities Online</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/expert-tips-for-resolving-iphone-remote-control-software-glitches/"><u>Expert Tips for Resolving iPhone Remote Control Software Glitches</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-google-play-location-on-motorola-moto-g13-drfone-by-drfone-virtual-android/"><u>How to Change Google Play Location On Motorola Moto G13 | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-watch-avchd-mts-video-on-motorola-defy-2-by-aiseesoft-video-converter-play-mts-on-android/"><u>How to watch AVCHD MTS video on Motorola Defy 2?</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/mastering-the-art-of-buying-cutting-edge-360cams-for-2024/"><u>Mastering the Art of Buying Cutting-Edge 360Cams for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/overcoming-wi-fi-connection-problems-solutions-for-ipad-users/"><u>Overcoming Wi-Fi Connection Problems: Solutions for iPad Users</u></a></li>
+<li><a href="https://video-capture.techidaily.com/protecting-privacy-top-10-webcam-covers-for-2024/"><u>Protecting Privacy Top 10 Webcam Covers for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-ultimate-list-of-collaborative-time-management-apps-for-families-in-the-pace/"><u>The Ultimate List of Collaborative Time Management Apps for Families in the Pace</u></a></li>
+<li><a href="https://android-frp.techidaily.com/the-updated-method-to-bypass-motorola-frp-by-drfone-android/"><u>The Updated Method to Bypass Motorola FRP</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unboxing-the-features-a-review-of-snappy-driver-installer-v113/"><u>Unboxing the Features: A Review of Snappy Driver Installer V1.13</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/unveiling-the-technology-behind-whatsapp-voice-calls-for-2024/"><u>Unveiling the Technology Behind WhatsApp Voice Calls for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/what-to-look-for-in-the-newly-launched-ipad-lineup/"><u>What to Look for in the Newly Launched iPad Lineup</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/be-clip-maker-for-2024/"><u>Youtube Clip Maker for 2024</u></a></li>
+</ul></div>
 

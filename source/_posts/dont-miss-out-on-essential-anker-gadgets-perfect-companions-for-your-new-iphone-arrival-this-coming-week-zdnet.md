@@ -1,7 +1,7 @@
 ---
 title: Don't Miss Out on Essential Anker Gadgets - Perfect Companions for Your New iPhone Arrival This Coming Week | ZDNet
-date: 2025-01-18T03:45:10.842Z
-updated: 2025-01-23T02:53:00.484Z
+date: 2025-01-27T16:19:39.797Z
+updated: 2025-01-30T16:20:53.558Z
 tags:
   - apple
 categories:
@@ -28,10 +28,6 @@ To help you make this decision, we've broken down all of the most important deta
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Specifications
 
 | Specs        | **iPhone 16**                                                                                                                                                                                                    | **iPhone 15**                                                                                                                                                                                                    |
@@ -50,12 +46,16 @@ To help you make this decision, we've broken down all of the most important deta
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  You should buy the iPhone 16 if...
 
 Kerry Wan/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  1\. You'd benefit from Apple Intelligence features
 
@@ -65,6 +65,10 @@ Apple is rolling out [multiple AI features to the iPhone 16](https://www.zdnet.c
 
 There is more to the AI features beyond Siri. Apple Intelligence will be able to summarize notifications and Priority Messages in the Mail app. Like Siri, the feature will be able to understand context. [Apple Intelligence](https://www.zdnet.com/article/what-is-apple-intelligence-everything-to-know-about-ai-features-coming-to-iphones-macs-and-ipads/) will gain additional features later in the year like the ability to create custom emojis and perform multiple actions across apps.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ###  2\. You want a better photography experience
 
 The [iPhone 16](https://www.zdnet.com/article/every-iphone-16-model-compared-which-new-iphone-should-you-buy/) is seeing a new camera array. On the back will be a 48MP Fusion camera serving as the main lens. It'll have a 2x Telephoto option for up-close photography. Apple states it'll be like having "two cameras in one." Alongside it will be a 12MP Ultra Wide lens with an autofocus function that can enable "macro photography." It can also take in "2.6x times more light \[than before\] for higher image quality." 
@@ -72,10 +76,6 @@ The [iPhone 16](https://www.zdnet.com/article/every-iphone-16-model-compared-whi
 **Also: [The 5 best iPhone 16 Pro features that enthusiasts will care about](https://www.zdnet.com/article/the-5-best-iphone-16-pro-features-that-enthusiasts-will-care-about/)**
 
 On the side below the [Power Button is the new Camera Control](https://www.zdnet.com/article/every-iphone-16-model-features-a-new-camera-button-heres-what-it-can-do/). It's a tactile switch with a special sensor that can perform unique actions with a light touch. For example, pressing it quickly launches the Camera app for taking quick snapshots or recording a video. It even introduces a preview feature to help you frame the shot. And if that wasn't enough, it'll work with third-party apps.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ###  3\. You want "next-level performance"
 
@@ -95,13 +95,13 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 [See all](https://www.zdnet.com/newsletters/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  You should buy the iPhone 15 if...
 
 Kerry Wan/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  1\. You don't require the generative AI capabilities
 
@@ -120,7 +120,7 @@ It wouldn't be a bad pick-up, either. The camera system of the previous generati
 [Buy the iPhone 15 $729.99 at Best Buy](https://shop-links.co/link/?url=https%3A%2F%2Fbestbuy.7tiv.net%2Fc%2F376373%2F633495%2F10014%3Fprodsku%3D6417991%26u%3Dhttp%253A%252F%252Fwww.bestbuy.com%252Fsite%252F-%252F6417991.p%253Fcmp%253DRMX&publisher_slug=itechdaily19598&exclusive=1)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Alternatives to consider
@@ -157,21 +157,22 @@ It wouldn't be a bad pick-up, either. The camera system of the previous generati
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-achieving-seamless-ages-shifting-scenes/"><u>2024 Approved Achieving Seamless Ages Shifting Scenes</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/a-beginners-guide-to-chatgpt-and-its-capabilities/"><u>A Beginner's Guide to ChatGPT and Its Capabilities</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/chronicle-of-change-tracing-the-history-and-upgrades-from-ios-10-to-ios-et80/"><u>Chronicle of Change: Tracing the History and Upgrades From iOS 1.0 to iOS ˈeɪtʃ8.0</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/comparing-smart-home-assistants-google-assistant-and-alexa-face-off/"><u>Comparing Smart Home Assistants: Google Assistant and Alexa Face-Off</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/decoding-the-differences-roku-express-vs-roku-stick-for-optimal-viewing-experience/"><u>Decoding the Differences: Roku Express vs Roku Stick for Optimal Viewing Experience</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/fixing-power-problems-restoring-charge-to-your-playstation-5-controller/"><u>Fixing Power Problems: Restoring Charge to Your PlayStation 5 Controller</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/gopro-max-360-vs-hero-11-which-is-the-best-gopro-video-camera-in-2024/"><u>GoPro Max 360 VS Hero 11 Which Is the Best GoPro Video Camera, In 2024</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-lava-yuva-2-pro-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos From Lava Yuva 2 Pro to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-5-hassle-free-solutions-to-fake-location-on-find-my-friends-of-gionee-f3-pro-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Hassle-Free Solutions to Fake Location on Find My Friends Of Gionee F3 Pro | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-pc-screen-to-itel-p40-phones-drfone-by-drfone-android/"><u>In 2024, How to Mirror PC Screen to Itel P40 Phones? | Dr.fone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/inside-look-at-the-next-big-thing-in-gaming-the-xbox-vr-headset-specs-release-info-and-pricing-revealed/"><u>Inside Look at the Next Big Thing in Gaming: The Xbox VR Headset – Specs, Release Info & Pricing Revealed!</u></a></li>
-<li><a href="https://review-topics.techidaily.com/itel-tutorial-bypass-lock-screensecurity-password-pinfingerprintpattern-by-drfone-android-unlock-android-unlock/"><u>Itel Tutorial - Bypass Lock Screen,Security Password Pin,Fingerprint,Pattern</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/live-streaming-made-easy-discover-manycams-virtual-camera-solutions/"><u>Live Streaming Made Easy: Discover ManyCam's Virtual Camera Solutions</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/personalized-branding-craft-your-logo-from-free-designs-for-2024/"><u>Personalized Branding Craft Your Logo From Free Designs for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/step-by-step-guide-how-to-address-and-fix-coredll-not-found-problems/"><u>Step-by-Step Guide: How to Address and Fix Core.dll Not Found Problems</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/top-6-ways-to-transfer-text-messages-from-realme-12-proplus-5g-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Top 6 Ways to Transfer Text Messages from Realme 12 Pro+ 5G to Other Android Devices | Dr.fone</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-innovative-broadcasting-a-guide-to-chroma-key-excellence/"><u>[New] 2024 Approved Innovative Broadcasting A Guide to Chroma Key Excellence</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-types-of-facebook-video-aspect-ratios-and-how-to-adjust-it-for-2024/"><u>[Updated] Types of Facebook Video Aspect Ratios & How to Adjust It for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-mastering-4k-with-the-new-nikon-d500-camera/"><u>2024 Approved Mastering 4K with the New Nikon D500 Camera</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/2024s-elite-selection-of-image-based-voicemail-applications/"><u>2024'S Elite Selection of Image-Based Voicemail Applications</u></a></li>
+<li><a href="https://solve-popular.techidaily.com/1728471619277-4/"><u>最適な保存手法:ファイル自動移行外付けドライブのためのトップ4方法</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/crackle-your-gateway-to-free-downloads-of-films-and-shows/"><u>Crackle: Your Gateway to Free Downloads of Films and Shows</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/deciphering-visionos-2-key-takeaways-from-the-wwdc-announcement-that-have-tech-enthusiasts-abuzz/"><u>Deciphering VisionOS 2: Key Takeaways From the WWDC Announcement that Have Tech Enthusiasts Abuzz!</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/enhancing-your-movie-experience-integrating-high-speed-internet-with-your-at-home-cinema/"><u>Enhancing Your Movie Experience: Integrating High-Speed Internet with Your At-Home Cinema</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-unlike-all-songs-on-spotify/"><u>How to Unlike All Songs on Spotify</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-detailed-guide-of-ispoofer-for-pogo-installation-on-vivo-y100i-power-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Detailed guide of ispoofer for pogo installation On Vivo Y100i Power 5G | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-top-apps-and-online-tools-to-track-xiaomi-phone-withwithout-imei-number-by-drfone-android/"><u>In 2024, Top Apps and Online Tools To Track Xiaomi Phone With/Without IMEI Number</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/inside-look-at-upcoming-google-event-expectations-vs-surprises/"><u>Inside Look at Upcoming Google Event – Expectations Vs. Surprises</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/mastering-the-post-phase-techniques-to-correct-boot-problems-in-systems/"><u>Mastering the POST Phase: Techniques to Correct Boot Problems in Systems</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/must-have-items-for-a-perfectly-packed-summer-day-bag/"><u>Must-Have Items for a Perfectly Packed Summer Day Bag</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/next-gen-players-guide-rift-vive-vs-ps-vr-games-for-2024/"><u>Next-Gen Players Guide Rift, Vive, vs PS VR Games for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/optimizing-audio-input-the-ultimate-guide-to-meta-quests-built-in-microphone/"><u>Optimizing Audio Input: The Ultimate Guide to Meta Quest's Built-In Microphone</u></a></li>
+<li><a href="https://discover-great.techidaily.com/windows-fdisk/"><u>Windows利用者のための究極のディスクパーティショニングツール: FDISKより優れた選択</u></a></li>
 </ul></div>
 

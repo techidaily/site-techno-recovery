@@ -1,7 +1,7 @@
 ---
 title: "The Perfect Viewing Path: Unraveling the 'Conjuring' Franchise Movie-by-Movie"
-date: 2024-08-18T17:48:58.348Z
-updated: 2024-08-19T17:48:58.348Z
+date: 2025-01-25T18:09:47.073Z
+updated: 2025-01-30T18:08:42.767Z
 categories:
   - BestProducts
 description: "This Article Describes The Perfect Viewing Path: Unraveling the 'Conjuring' Franchise Movie-by-Movie"
@@ -13,6 +13,10 @@ thumbnail: https://thmb.techidaily.com/5c5beff306decd9e31c3216a57ffb320c5012e171
 
 Close 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ###  What to Know
 
 * The_Conjuring_ movies were not released chronologically.
@@ -20,6 +24,10 @@ Close
 * Chronologically:_The Nun_ movies,_Annabelle: Creation_ ,_Annabelle_ , and then_The Conjuring_ .
 
  The Conjuring is one of the most prolific horror movie franchises of the last decade, with three main entries and multiple prequels and spinoffs. The movies haven't come out in chronological order, so this guide will help you keep them straight.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  How to Watch the ‘Conjuring’ Movies in Chronological Order 
 
@@ -47,8 +55,9 @@ Close
  Planning a marathon? It'll take you the better part of a day: Watching all 10 movies will take 17 hours, 24 minutes. You can save some time by excluding the "unofficial" entries–_Wolves at the Door_ and_The Curse of La Llorona_ –which takes the total time down to 14 hours, 39 minutes.
 
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  How to Watch the ‘Conjuring’ Movies in Release Order 
 
  If you’d prefer to watch the_Conjuring_ movies in the order they came out, your viewing schedule will look quite a bit different from above. Here’s the timeline:
@@ -67,8 +76,9 @@ Close
 | The Nun II                               | September 8, 2023 | Max                |
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Will There Be More ‘Conjuring’ Movies? 
 
  Plans are currently in the works for a fourth and final_Conjuring_ movie, subtitled_Last Rites_ . It'll be another story featuring the Warrens, with Patrick Wilson and Vera Farmiga returning. We don't know yet which case it's based on, but it's due out on September 5, 2025.
@@ -102,8 +112,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -111,4 +119,26 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/new-best-15-gopro-cutting-and-editing-software/"><u>[New] Best 15 GoPro Cutting and Editing Software</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-the-complete-handbook-for-capturing-and-organizing-skype-call-data/"><u>[New] In 2024, The Complete Handbook for Capturing and Organizing Skype Call Data</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-best-practices-for-amassing-itunes-video-archives/"><u>[Updated] Best Practices for Amassing iTunes Video Archives</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/1-tutorial-simple-duplicacion-de-ssd-al-nuevo-disco-duro-mayor-en-windows/"><u>1. Tutorial Simple: Duplicación De SSD Al Nuevo Disco Duro Mayor en Windows</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-non-sport-spectacles-in-the-top-ten-front-rows/"><u>2024 Approved Non-Sport Spectacles in the Top Ten Front Rows</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/approved-step-inside-youtube-master-one-frame-no-money-spent/"><u>2024 Approved Step Inside YouTube Master One Frame, No Money Spent</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3-ways-to-change-location-on-facebook-marketplace-for-oppo-reno-11-5g-drfone-by-drfone-virtual-android/"><u>3 Ways to Change Location on Facebook Marketplace for Oppo Reno 11 5G | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/7-engaging-and-safe-online-game-experiences-tailored-for-kids/"><u>7 Engaging and Safe Online Game Experiences Tailored for Kids</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/comprehensive-fixes-for-the-elusive-s-sleay32dll-error/"><u>Comprehensive Fixes for the Elusive S sleay32.dll Error</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/eliminate-the-error-how-to-restore-missing-d3dx939dll-files/"><u>Eliminate the Error: How to Restore Missing d3dx9_39.dll Files</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/essential-strategies-for-newbies-in-the-world-of-pokemon-go-gaming/"><u>Essential Strategies for Newbies in the World of Pokémon Go Gaming</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/expert-tips-for-diagnosing-and-correcting-wireless-adapteraccess-point-malfunctions-in-10-steps/"><u>Expert Tips for Diagnosing and Correcting Wireless Adapter/Access Point Malfunctions in 10 Steps</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/expert-tips-to-overcome-wifi-authorization-glitches-in-android-devices/"><u>Expert Tips to Overcome Wifi Authorization Glitches in Android Devices</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/forefront-ai-explained-does-it-outshine-chatgpt/"><u>Forefront AI Explained – Does It Outshine ChatGPT?</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-circle-everything-you-need-to-know-on-infinix-hot-40-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Circle Everything You Need to Know On Infinix Hot 40 | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/maximize-your-laptops-lifespan-with-windows-ng-battery-insight-techniques/"><u>Maximize Your Laptop's Lifespan with Windows nG Battery Insight Techniques</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/maximizing-your-email-efficiency-legal-ways-to-filter-messages-and-manage-addresses-in-gmail/"><u>Maximizing Your Email Efficiency: Legal Ways to Filter Messages and Manage Addresses in Gmail</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/retrieve-past-notifications-on-your-iphone-easily/"><u>Retrieve Past Notifications on Your iPhone Easily</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/the-ultimate-iphone-guide-to-breathtaking-shadow-images/"><u>The Ultimate iPhone Guide to Breathtaking Shadow Images</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Solution for Microsoft Edge Not Opening Correctly
-date: 2024-08-18T17:48:03.143Z
-updated: 2024-08-19T17:48:03.143Z
+date: 2025-01-26T18:38:19.515Z
+updated: 2025-01-30T16:30:14.527Z
 categories:
   - BestProducts
 description: This Article Describes Step-by-Step Solution for Microsoft Edge Not Opening Correctly
@@ -12,6 +12,10 @@ thumbnail: https://www.lifewire.com/thmb/j7Msol_mq4GAVPxtiy-zcdeSDHM=/400x300/fi
 ## Navigating Microsoft's Scholarly Promotions: Secure a Student Price Cut Today
  Microsoft sells a lot of software that's useful for students, and devices like the[Surface and Surface Pro](https://www.lifewire.com/microsoft-surface-series-4163521) are great for keeping productivity up while you're on the go. If you're an eligible student (or a parent of one), you can take advantage of Microsoft's student discount to gain free access to powerful software like[Office 365](https://www.lifewire.com/microsoft-office-for-students-teachers-2511861) and save on computers and other devices.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Get the Microsoft Student Discount
 
  To get the Microsoft student discount, all you have to do is access the online Microsoft store through the student and military discount portal. Here's how the process works:
@@ -19,6 +23,11 @@ thumbnail: https://www.lifewire.com/thmb/j7Msol_mq4GAVPxtiy-zcdeSDHM=/400x300/fi
 1. Go to the[Microsoft Student and Military Discounts site](https://www.microsoft.com/en-us/store/r/student-discounts) , log in with your Microsoft account, and click**Shop Now** .  
 ![A screenshot of the Microsoft Student and Military Discounts site.](https://www.lifewire.com/thmb/X2vwXV9ttV8LhYs5flrq2E9F4I4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001-how-to-get-a-microsoft-store-student-discount-c8d2274843014bbb90c744cecc473495.jpg)
 2. The site tells you you're eligible for special pricing. Select**OK** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![A screenshot of the Microsoft Student Discount confirmation notice.](https://www.lifewire.com/thmb/_opw21hzYkn3V9Wb_mLqP5iLV7U=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002-how-to-get-a-microsoft-store-student-discount-3eae80c050da4116adf04508a1cb8e42.jpg)
 3. Select**Student Deals** from the list of store categories.  
 ![The Microsoft online store.](https://www.lifewire.com/thmb/AgZeGz5ITQKUJ8jp0pIPIsbbSzI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/003-how-to-get-a-microsoft-store-student-discount-51ae65ba3fbc4b11b3eee0030822ec9e.jpg)
@@ -39,8 +48,13 @@ thumbnail: https://www.lifewire.com/thmb/j7Msol_mq4GAVPxtiy-zcdeSDHM=/400x300/fi
 ![Person accessing the Microsoft student discount on a phone.](https://www.lifewire.com/thmb/h1sE0kaVMIxmUmfOCw7SnD4v-cI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/microsoftstudentdiscount-3fb8972d9f274cb5a0c5dbc2bc56beb1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What Does Microsoft's Student Discount Get You?
 
  The Microsoft student discount typically provides up to 10-percent savings on hardware like desktop computers, laptops, and tablets. It also grants free access to some software, like Office 365.
@@ -53,8 +67,9 @@ Certain items are specifically excluded, including:
 * Gift cards and subscriptions to services like Xbox Game Pass.
 
 <!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How Does Microsoft Verify Student Enrollment?
 
  When you request the student discount at a physical Microsoft store, you need to show your student ID or some another supporting document like a class schedule, transcript, or acceptance letter.
@@ -85,8 +100,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -94,4 +107,26 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/asy-way-to-edit-youtube-videos-in-imovie-for-2024/"><u>[New] Easy Way to Edit YouTube Videos in iMovie for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unleash-creativity-exquisite-text-effects-for-adobes-affects/"><u>[Updated] Unleash Creativity Exquisite Text Effects For Adobe's Affects</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-transform-your-podcasts-identity-with-ai-name-makers/"><u>2024 Approved Transform Your Podcast's Identity with AI Name Makers</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/addressing-sync-problems-with-your-gmail-effective-solutions-and-advice/"><u>Addressing Sync Problems with Your Gmail – Effective Solutions and Advice</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/an-in-depth-look-at-basic-and-simplified-hdr-photography/"><u>An In-Depth Look at Basic and Simplified HDR Photography</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/comprehensive-tips-handling-and-repairing-missing-avcodecudll-files/"><u>Comprehensive Tips: Handling and Repairing Missing Avcodecu.dll Files</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discover-the-ultimate-selection-of-free-language-sites/"><u>Discover the Ultimate Selection of Free Language Sites</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/explore-uncharted-gpt-territories-5-features-to-enhance-dialogue/"><u>Explore Uncharted GPT Territories: 5 Features to Enhance Dialogue</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/identifying-common-xbox-network-hiccups-how-to-determine-if-its-a-global-glitch-or-personal-setup-problem/"><u>Identifying Common Xbox Network Hiccups: How to Determine If It's a Global Glitch or Personal Setup Problem?</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-an-insider-look-at-vegaspro-2019/"><u>In 2024, An Insider Look at VegasPro 2019</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-kinemasters-guide-engineering-impeccable-video-continuity/"><u>In 2024, Kinemaster's Guide Engineering Impeccable Video Continuity</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-top-10-airplay-apps-in-lava-blaze-2-for-streaming-drfone-by-drfone-android/"><u>In 2024, Top 10 AirPlay Apps in Lava Blaze 2 for Streaming | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/instagrams-picture-perfect-upload-techniques-unveiled-for-2024/"><u>Instagram's Picture Perfect Upload Techniques Unveiled for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/solutions-for-dealing-with-a-locked-or-suspended-instagram-presence/"><u>Solutions for Dealing With a Locked or Suspended Instagram Presence</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-guide-accessing-command-line-interface-within-your-files/"><u>Step-by-Step Guide: Accessing Command Line Interface Within Your Files</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/streamline-your-calls-connect-multiple-gadgets-using-a-single-phone-number-technique/"><u>Streamline Your Calls: Connect Multiple Gadgets Using a Single Phone Number Technique</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-5-factors-you-shouldnt-ignore-when-shopping-for-a-pre-owned-laptop/"><u>Top 5 Factors You Shouldn't Ignore When Shopping for a Pre-Owned Laptop</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ultimate-guide-mastering-the-art-of-live-view-in-google-maps/"><u>Ultimate Guide: Mastering the Art of Live View in Google Maps</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-apple-iphone-xs-max-drfone-by-drfone-virtual-ios/"><u>Unova Stone Pokémon Go Evolution List and How Catch Them For Apple iPhone XS Max | Dr.fone</u></a></li>
+</ul></div>
 

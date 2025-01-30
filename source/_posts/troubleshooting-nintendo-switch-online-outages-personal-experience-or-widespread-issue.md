@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Nintendo Switch Online Outages: Personal Experience or Widespread Issue?"
-date: 2024-08-18T17:47:08.378Z
-updated: 2024-08-19T17:47:08.378Z
+date: 2025-01-26T17:40:36.804Z
+updated: 2025-01-30T16:38:08.128Z
 categories:
   - BestProducts
 description: "This Article Describes Troubleshooting Nintendo Switch Online Outages: Personal Experience or Widespread Issue?"
@@ -33,18 +33,21 @@ thumbnail: https://thmb.techidaily.com/08c3aa17e0d4eaa82a6912035c2625c6aeb814a3c
 3. This screen lists the Apple devices you own that can use the Continuity feature. Tap the toggle switch**On** beside your iPad to enable text message forwarding for it.  
 ![Three iOS screens showing Messages icon, Text Message Forwarding, and iPad toggle to ON](https://www.lifewire.com/thmb/Pycxc-rb6i-156HiPxbUAYDRAt0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_text-message-on-ipad-1994688-5c30051546e0fb00012bffe8.jpg)
 4. You are prompted to type a code on the iPad to activate the feature. After you type the code, your iPad can send text messages to both iPhone users and non-iPhone users.  
- The iPad uses the same stickers, animations, and drawings that are included with the iPhone text messaging app.[Upgrade to the latest operating system](https://www.lifewire.com/upgrade-iphones-operating-system-2000293) to ensure you have the recent features.
 
 <!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ The iPad uses the same stickers, animations, and drawings that are included with the iPhone text messaging app.[Upgrade to the latest operating system](https://www.lifewire.com/upgrade-iphones-operating-system-2000293) to ensure you have the recent features.
+
 ## How to Text on Your iPad if You Don't Own an iPhone
 
  If you don't own an iPhone, there are several ways to use your iPad to send text messages. Use Apple's service, alternatives to text messaging, or one of the apps that provide free SMS messaging on the iPad.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Messages App
 
  The Messages app can send text messages to anyone who owns an iPhone or iPad, even if you don't own an iPhone.
@@ -53,19 +56,21 @@ thumbnail: https://thmb.techidaily.com/08c3aa17e0d4eaa82a6912035c2625c6aeb814a3c
 
  To turn on this feature, tap**Settings** \>**Messages** \>**Send & Receive** . The iPad lists the email accounts associated with your Apple ID. Tap to put a check mark next to the email addresses you want to use.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
-<!-- affiliate ads end -->
 ### Facebook Messenger
 
  If you have friends or family that use Android or a Windows Phone, send them messages using the Facebook Messenger app. Anyone who has a Facebook account can be reached via Facebook Messenger.
 
 <!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Skype
 
  Skype allows you to use your iPad as a phone. In addition to sending text messages, you can send video messages, place phone calls, and video conference. If you want to stay in touch with someone and can't use Messages because they don't own an iOS device, Skype is a great alternative.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Snapchat
 
@@ -75,9 +80,6 @@ thumbnail: https://thmb.techidaily.com/08c3aa17e0d4eaa82a6912035c2625c6aeb814a3c
 
  Snapchat isn't true text messaging because you can only message people who signed up for the service, but it offers a fun alternative to traditional text messaging.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
-<!-- affiliate ads end -->
 ### Viber
 
  Viber has all the bells and whistles you would expect in a social messaging service, including Viber Wink, which deletes the message after it is viewed.
@@ -85,8 +87,9 @@ thumbnail: https://thmb.techidaily.com/08c3aa17e0d4eaa82a6912035c2625c6aeb814a3c
  You can also place phone calls and video calls and get involved in public chats. Viber also supports[split-view multitasking](https://www.lifewire.com/how-to-use-ipad-split-screen-4687495) .  
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### More Free Texting Apps
 
  FreeTone (formerly Text Me) and textPlus offer free texting to iPad users. FreeTone offers users a free phone number capable of sending SMS messages to the U.S., Canada, and 40 other countries.
@@ -124,8 +127,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -133,4 +134,18 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/ed-craft-clearer-crisper-youtube-videos-with-quality-tools-for-2024/"><u>[Updated] Craft Clearer, Crisper YouTube Videos with Quality Tools for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-next-level-gaming-premium-vr-players-reviewed/"><u>2024 Approved Next-Level Gaming Premium VR Players Reviewed</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/dive-deeper-10-intriguing-facts-about-everyday-emojis-you-wont-believe/"><u>Dive Deeper: 10 Intriguing Facts About Everyday Emojis You Won't Believe!</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/exciting-teen-flicks-you-can-stream-on-netflix-today/"><u>Exciting Teen Flicks You Can Stream on Netflix Today</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-apple-id-is-greyed-out-from-apple-iphone-12-pro-how-to-bypass-by-drfone-ios/"><u>In 2024, Apple ID is Greyed Out From Apple iPhone 12 Pro How to Bypass?</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/reddits-hidden-gems-5-tips-for-novices-to-master-engagement-metrics/"><u>Reddit's Hidden Gems 5 Tips for Novices to Master Engagement Metrics</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/step-by-step-enhancing-photos-with-cropping-tools/"><u>Step-by-Step Enhancing Photos with Cropping Tools</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/the-complete-guide-to-tunefabs-screen-capturing-for-2024/"><u>The Complete Guide to Tunefab's Screen Capturing for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-rated-key-trackers/"><u>Top-Rated Key Trackers</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/ultimate-kindle-oasis-2019-assessment-nearly-indistinguishable-from-real-paper/"><u>Ultimate Kindle Oasis (2019) Assessment - Nearly Indistinguishable From Real Paper!</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/what-to-know-about-espnplus-and-its-operation-as-an-online-cable-channel-for-sports-fans/"><u>What to Know About ESPN+ and Its Operation as an Online Cable Channel for Sports Fans</u></a></li>
+</ul></div>
 

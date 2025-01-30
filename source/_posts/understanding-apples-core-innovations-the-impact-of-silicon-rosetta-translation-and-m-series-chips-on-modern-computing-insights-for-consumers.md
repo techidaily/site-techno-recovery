@@ -1,7 +1,7 @@
 ---
 title: "Understanding Apple's Core Innovations: The Impact of Silicon, Rosetta Translation, and M-Series Chips on Modern Computing - Insights for Consumers"
-date: 2025-01-21T20:08:28.818Z
-updated: 2025-01-22T20:09:08.226Z
+date: 2025-01-23T16:35:20.965Z
+updated: 2025-01-30T17:08:08.768Z
 tags:
   - apple
 categories:
@@ -31,7 +31,7 @@ Did they improve the overall quality of life and usability of Apple's most quixo
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Turn 2D images into spatial photos
@@ -46,15 +46,15 @@ Now, here's the thing. I tried watching a couple of Marvel 3D movies via Disney+
 
 I'm guessing that Apple's 3Difying of a 2D image will be at about the same level. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Watch those images together using SharePlay in the Photos app
 
 And here's another feature that I can't imagine any users clamoring for. Now, if you have multiple Vision Pro users, they can all see and discuss the same image together while using the Photos app. 
 
 So, yeah, if Grandma Sadie in Seattle has a Vision Pro, Cousin Marty in Miami has a Vision Pro, and you have a Vision Pro in Yuma, you can all stand around the virtual photo screen and ooh and ah over pictures of baby Alice. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Gestures for opening Home View and Control Center
 
@@ -64,10 +64,6 @@ In VisionOS 2, there are gestures. Holding your hand palm up and tapping fingers
 
 Unlike the previous two features, this _is_ a quality of life improvement. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4\. Mac virtual display improvements
 
 The Mac virtual display feature of the Vision Pro has been nice, but limited. In VisionOS 1, you could only show one 4K display. Personally, I'm waiting for Apple to ditch the entire display paradigm and just show windows, but that's not going to happen this year. 
@@ -76,10 +72,6 @@ Screenshot by David Gewirtz/ZDNET
 
 On the other hand, Apple "later this year" will enable you to create displays with more resolutions. The most interesting is the full wrap-around display, which will be the equivalent of two 4K monitors. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 5\. Choo-choo train mode
 
 To be fair, Apple didn't call it that. We've [talked about the Vision Pro's travel mode](https://www.zdnet.com/article/itching-to-try-vision-pros-travel-mode-heres-what-to-expect-before-you-go/), which was mostly intended for airplane travel. 
@@ -87,7 +79,7 @@ To be fair, Apple didn't call it that. We've [talked about the Vision Pro's trav
 In VisionOS 2, Apple is announcing that there is dedicated support in travel mode for train travel. We know [people have already been successful using the Vision Pro on the train and even subway](https://www.youtube.com/shorts/8ckKAjAWLw8), but in this case, Apple presumably tweaked performance somewhat. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. New developer APIs
@@ -99,6 +91,10 @@ There are a ton of VR and AR APIs in Apple's platforms. But this week, at WWDC, 
 * **Volumetric API:** Allows complex 3D apps to run side-by-side. A volumetric API is at the core of most 3D content, because it allows developers to create, manage, and present volumetric content. My read on this announcement is not the introduction of a Volumetric API, but that it can allow multiple 3D apps to run concurrently.
 * **TabletopKit:** Helps developers create apps that anchor to flat surfaces. One obvious example is board game kits, but this could apply to interior design apps, architectural and construction projects, gaming, navigation, and more.
 * **Enterprise APIs:** These were described as enterprise-specific APIs, so we can assume they're somewhat special purpose. Examples given were surgical training and manufacturing.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7\. New Canon spatial lens for creating spatial video
 
@@ -126,6 +122,10 @@ Apple didn't cover all the new features during its announcement. At the end of t
 * **Keyboard breakthrough:** This was another feature I felt it was important for Apple to introduce, and apparently it will be available. No mention was made of it, so we have no idea if it's limited solely to Apple's own keyboards (but that's probably the case).
 * **Bora Bora environment:** I wanted to see more environments and we get…one. Personally, I think all the work on spatial photos and spatial videos could have been replaced with the ability for third parties to create 3D environments, but Apple didn't go there. But hey, Bora Bora, right?
 * **Rearrangeable Home View:** This was also not described but I'm guessing this means you can move around the Home icons.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  What do you think?
 
@@ -171,19 +171,21 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-the-future-at-your-fingertips-mycams-video-recorder-examined/"><u>[New] 2024 Approved The Future at Your Fingertips – MyCam's Video Recorder Examined</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-instantaneous-picture-viewing-on-windows-11/"><u>2024 Approved Instantaneous Picture Viewing on Windows 11</u></a></li>
-<li><a href="https://win-web3.techidaily.com/best-computer-systems-for-djs-and-video-mix-engineers-a-comprehensive-guide-to-optimal-performance/"><u>Best Computer Systems for DJs & Video Mix Engineers: A Comprehensive Guide to Optimal Performance</u></a></li>
-<li><a href="https://win-forum.techidaily.com/connect-and-engage-on-major-platforms-facebook-twitter-instagram-youtube-insights/"><u>Connect & Engage on Major Platforms: Facebook, Twitter, Instagram, YouTube Insights</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-4-ways-to-transfer-music-from-samsung-galaxy-m34-5g-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 4 Ways to Transfer Music from Samsung Galaxy M34 5G to iPhone | Dr.fone</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/navigating-through-windows-11-a-guide-to-automatic-hdr-mode-for-2024/"><u>Navigating Through Windows 11 A Guide to Automatic HDR Mode for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solving-lenovo-laptop-camera-issues-a-step-by-step-fix/"><u>Solving Lenovo Laptop Camera Issues - A Step-by-Step Fix</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/the-artisans-approach-expert-color-alteration-tactics-for-2024/"><u>The Artisan's Approach Expert Color Alteration Tactics for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/ultimate-guide-to-choosing-a-premium-apple-tv-vpn-in-202amelios-reviewed-rankings-for-the-best-of-2024-zdnet/"><u>Ultimate Guide to Choosing a Premium Apple TV VPN in 202Amelio's Reviewed Rankings for the Best of 2024 | ZDNET</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/ultimate-guide-to-configuring-a-vpn-directly-through-your-home-router-tips-and-tricks/"><u>Ultimate Guide to Configuring a VPN Directly Through Your Home Router - Tips & Tricks</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/ultimate-guide-to-streaming-with-a-vpn-pros-cons-and-reviews-curated-by-tech-experts-zdnet/"><u>Ultimate Guide to Streaming with a VPN: Pros, Cons & Reviews Curated by Tech Experts | ZDNet</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/understanding-vpn-quality-assurance-a-detailed-look-by-zdnet/"><u>Understanding VPN Quality Assurance: A Detailed Look by ZDNet</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/understanding-vpn-a-comprehensive-guide-on-how-it-works-and-its-importance/"><u>Understanding VPN: A Comprehensive Guide on How It Works & Its Importance</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/unlock-the-ultimate-privacy-with-these-premier-vpn-trials-curated-and-scrutinized-by-professionals-at-zdnet/"><u>Unlock the Ultimate Privacy with These Premier VPN Trials, Curated and Scrutinized by Professionals at ZDNET</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/024-approved-ace-in-the-halls-boosting-youtube-traffic/"><u>[New] 2024 Approved Ace in the Halls Boosting YouTube Traffic</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-in-2024-action-packed-comparisons-gopro-vs-star-sj7/"><u>[New] In 2024, Action-Packed Comparisons GoPro Vs Star SJ7</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-mjolnirs-legacy-new-era-dawned/"><u>[New] In 2024, Mjolnir's Legacy New Era Dawned</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-best-practices-for-safe-no-cost-vlc-player-download-on-apple-systems/"><u>[Updated] Best Practices for Safe, No-Cost VLC Player Download on Apple Systems</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/80-less-than-list-price-exploring-the-benefits-of-the-new-generation-apple-watch-se-post-prime-day-insights-from-zdnet/"><u>$80 Less Than List Price: Exploring the Benefits of the New Generation Apple Watch SE Post-Prime Day - Insights From ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/1-unraveling-the-mystery-of-phantom-taps-solutions-for-your-apple-watch-troubles/"><u>1: Unraveling the Mystery of 'Phantom Taps': Solutions for Your Apple Watch Troubles</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/all-about-factory-reset-what-is-it-and-what-it-does-to-your-samsung-galaxy-z-fold-5-drfone-by-drfone-reset-android-reset-android/"><u>All About Factory Reset, What Is It and What It Does to Your Samsung Galaxy Z Fold 5? | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/comprehensive-guide-blocking-unsolicited-emergency-messages-on-your-android-phone/"><u>Comprehensive Guide: Blocking Unsolicited Emergency Messages on Your Android Phone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/exploring-the-future-of-googles-camera-tech-projected-cost-release-info-and-unconfirmed-details-on-pixel-10/"><u>Exploring the Future of Google's Camera Tech: Projected Cost, Release Info, and Unconfirmed Details on Pixel 10</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/24-professional-level-editing-at-zero-price-8-exceptional-software-picks/"><u>In 2024, Professional-Level Editing at Zero Price 8 Exceptional Software Picks</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/in-2024-streamlining-video-submissions-from-imovie-to-vimeo/"><u>In 2024, Streamlining Video Submissions From iMovie to Vimeo</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/mastering-the-connection-a-step-by-step-guide-to-connecting-your-external-hard-drive-to-xbox-one/"><u>Mastering the Connection: A Step-by-Step Guide to Connecting Your External Hard Drive to Xbox One</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/order-your-apple-watch-series-10-in-advance-tips-and-tricks-on-pre-ordering-plus-savings-techniques-insights/"><u>Order Your Apple Watch Series 10 in Advance: Tips & Tricks on Pre-Ordering Plus Savings Techniques – Insights</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/organize-and-share-music-how-to-make-youtube-playlists-easier-for-2024/"><u>Organize and Share Music How to Make YouTube Playlists Easier for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/utilizing-multilingual-chatgpt-effectively/"><u>Utilizing Multilingual ChatGPT Effectively</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/zdnets-ultimate-guide-to-the-best-smartwatches-of-2n24-in-depth-analysis-and-ratings/"><u>ZDNet's Ultimate Guide to the Best Smartwatches of 2N24 - In-Depth Analysis & Ratings</u></a></li>
 </ul></div>
 

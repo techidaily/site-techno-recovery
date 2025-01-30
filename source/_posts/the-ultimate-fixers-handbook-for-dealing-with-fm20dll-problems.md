@@ -1,7 +1,7 @@
 ---
 title: The Ultimate Fixer's Handbook for Dealing with Fm20.dll Problems
-date: 2024-08-18T17:50:16.498Z
-updated: 2024-08-19T17:50:16.498Z
+date: 2025-01-23T17:50:11.773Z
+updated: 2025-01-30T17:11:11.990Z
 categories:
   - BestProducts
 description: This Article Describes The Ultimate Fixer's Handbook for Dealing with Fm20.dll Problems
@@ -10,6 +10,11 @@ thumbnail: https://www.lifewire.com/thmb/5b_j3Eq2ZAiaEXIHjN2StVAFdK8=/400x300/fi
 ---
 
 ## Code 28 Error Woes? Here's Your Ultimate Windows Hack for a Smooth Fix
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### What to Know
 
 * Code 28 errors are usually caused by missing drivers for the piece of hardware that the error appears on in Device Manager.
@@ -17,6 +22,10 @@ thumbnail: https://www.lifewire.com/thmb/5b_j3Eq2ZAiaEXIHjN2StVAFdK8=/400x300/fi
 * If that doesn't work, chances are the hardware has a physical problem and will need to be replaced.
 
  The Code 28 error could apply to any hardware device in Device Manager, but most seem to affect USB devices and sound cards.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Fix a Code 28 Error
 
@@ -30,6 +39,11 @@ thumbnail: https://www.lifewire.com/thmb/5b_j3Eq2ZAiaEXIHjN2StVAFdK8=/400x300/fi
  Depending on the changes you made, some solutions might include removing or re-configuring the newly installed device,[rolling back the driver](https://www.lifewire.com/how-to-roll-back-a-driver-in-windows-2619217) to the version prior to your update, or[using System Restore](https://www.lifewire.com/how-to-use-system-restore-in-windows-2626131) to undo recent Device Manager changes.  
 ![System Restore button for Windows 10](https://www.lifewire.com/thmb/dLFN9DPEpHd1ClDWsExz8wKhnMs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/restoresystemWindows-5c80332846e0fb00011bf425.jpg)
 3. [Update the drivers](https://www.lifewire.com/how-to-update-drivers-in-windows-2619214) for the device. Installing the latest manufacturer supplied drivers for a device with the Code 28 error is the most likely solution to the problem.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Make sure you install the drivers for the correct operating system. For example, if you're using Windows 10[64-bit](https://www.lifewire.com/32-bit-64-bit-2624554) , install the drivers designed for that specific[version of Windows](https://www.lifewire.com/what-version-of-windows-do-i-have-2624927) . Many of these errors are caused by attempting to install the wrong drivers for a device. One way to be sure you're getting the right driver is to use a[free driver updater tool](https://www.lifewire.com/free-driver-updater-tools-2619206) .  
  If the drivers won't update, try disabling your antivirus software during the update process. Sometimes these programs misinterpret your driver updating as malicious and block it.
 4. [Install the latest Windows service pack](https://www.lifewire.com/how-to-check-for-install-windows-updates-2624596) . Microsoft regularly releases[service packs](https://www.lifewire.com/what-is-a-service-pack-2626010) and other[patches](https://www.lifewire.com/what-is-a-patch-2625960) for their operating systems, one of which may contain a fix for the cause of the Code 28 error.  
@@ -39,8 +53,9 @@ thumbnail: https://www.lifewire.com/thmb/5b_j3Eq2ZAiaEXIHjN2StVAFdK8=/400x300/fi
  If you still think there's a software/operating system component to this Code 28 error, you could try to[automatically repair Windows](https://www.lifewire.com/how-do-i-automatically-repair-windows-problems-2624907) . If that doesn't work, try a[clean install of Windows](https://www.lifewire.com/how-to-clean-install-windows-2624904) . We don't recommend doing either of those more drastic options_before_ you try replacing the hardware, but you may have to if you're out of other options.
 
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Causes of a Code 28 Error
 
  The Code 28 error is one of several possible [Device Manager error codes](https://www.lifewire.com/device-manager-error-codes-4159098) you could see for a piece of hardware. As mentioned above, it's almost always caused by a missing driver for that particular piece of hardware.
@@ -56,8 +71,9 @@ thumbnail: https://www.lifewire.com/thmb/5b_j3Eq2ZAiaEXIHjN2StVAFdK8=/400x300/fi
 ![Device error Code 28 on Windows 10 desktop](https://www.lifewire.com/thmb/nu2GconMBW2tTuJo6e9kYszSKe0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/code-28-device-manager-error-3d84945a44e0467080dc5a77005500e2.png)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Device Manager error codes are exclusive to[Device Manager](https://www.lifewire.com/device-manager-2625860) . If you see the Code 28 error elsewhere in Windows, chances are it's a[system error code](https://www.lifewire.com/system-error-code-2625996) that you should not troubleshoot as a Device Manager problem.
 
  FAQ
@@ -89,8 +105,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -98,4 +112,24 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-blue.techidaily.com/new-glee-and-gags-the-classic-vhs-of-a-goofy-adventure/"><u>[New] 'Glee and Gags' - The Classic VHS of A Goofy Adventure</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-coders-showdown-which-codec-will-dominate-video-quality/"><u>[New] Coders' Showdown Which Codec Will Dominate Video Quality?</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-ultimate-guide-to-premium-gopro-case-selection/"><u>[Updated] Ultimate Guide to Premium GoPro Case Selection</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-unleashing-virality-steps-to-skyrocket-your-instagram-content-for-2024/"><u>[Updated] Unleashing Virality Steps to Skyrocket Your Instagram Content for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/1-easy-guide-transforming-mp4-videos-into-mts-format-using-windows/"><u>1. Easy Guide: Transforming MP4 Videos Into MTS Format Using Windows</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/anticipated-budget-friendly-apple-vision-pro-unveiled-yet-remains-a-far-fetched-concept-insights-from-zdnet/"><u>Anticipated Budget-Friendly Apple Vision Pro Unveiled Yet Remains a Far Fetched Concept - Insights From ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/capturing-space-the-new-iphone-15-pros-revolutionary-support-for-apple-vision-pro-technology-a-look-by-zdnet/"><u>Capturing Space: The New iPhone 15 Pro's Revolutionary Support for Apple Vision Pro Technology - A Look by ZDNet</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/how-does-a-crypto-balance-verification-tool-work-unveiling-yl-computings-solution/"><u>How Does a Crypto Balance Verification Tool Work? - Unveiling YL Computing's Solution</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/is-apples-affordable-vision-pro-glasses-just-a-pipe-dream-insights-from-zdnet/"><u>Is Apple's Affordable Vision Pro Glasses Just a Pipe Dream? Insights From ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/is-the-apple-vision-pro-completely-gone-or-just-facing-shipping-backlogs/"><u>Is the Apple Vision Pro Completely Gone or Just Facing Shipping Backlogs?</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/launch-of-apples-vision-pro-an-exclusive-lineup-of-600-curated-apps-unveiled-tech-news-by-zdnet/"><u>Launch of Apple's Vision Pro: An Exclusive Lineup of 600 Curated Apps Unveiled | Tech News by ZDNet</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/mastering-the-streets-with-the-gotrax-gxl-v2-an-electric-scooter-review-for-fast-travelers/"><u>Mastering the Streets with the Gotrax GXL V2: An Electric Scooter Review for Fast Travelers</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-3-critical-errors-with-the-new-apple-vision-pro-worth-avoiding-save-your-eyesight/"><u>Top 3 Critical Errors with the New Apple Vision Pro Worth Avoiding - Save Your Eyesight!</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unlock-the-secrets-of-apple-vision-pros-enhanced-demo-sessions-book-yours-today-and-discover-why-theyre-top-notch/"><u>Unlock the Secrets of Apple Vision Pro's Enhanced Demo Sessions – Book Yours Today and Discover Why They're Top Notch!</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/virtual-reality-in-business-the-key-to-selling-experiences-and-emotions/"><u>Virtual Reality in Business: The Key to Selling Experiences and Emotions</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/138569494-9781450255622-wake-up-for-ascension-to-a-new-earth-or-leave/"><u>Wake up for Ascension to a New Earth - or Leave | Free Book</u></a></li>
+<li><a href="https://win-webmaster.techidaily.com/yl-software-solutions-diagnosing-and-fixing-blue-screen-issues-on-windows-systems/"><u>YL Software Solutions: Diagnosing and Fixing Blue Screen Issues on Windows Systems</u></a></li>
+</ul></div>
 

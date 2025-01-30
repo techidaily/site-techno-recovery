@@ -1,7 +1,7 @@
 ---
 title: Get Your MacBook Air with Powerful M1 Chip for Only $649 - Best Price Available | Shop Smart With ZDNET
-date: 2025-01-19T20:35:01.765Z
-updated: 2025-01-22T16:37:39.539Z
+date: 2025-01-23T18:47:21.625Z
+updated: 2025-01-30T17:51:52.942Z
 tags:
   - apple
 categories:
@@ -42,7 +42,7 @@ At $649, this is the lowest price for the M1 version of the MacBook Air that we'
 The [M1 MacBook Air](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fmacbook-air-13-3-laptop-apple-m1-chip-8gb-memory-256gb-ssd-space-gray-space-gray%2F5721600.p%3FskuId%3D5721600&publisher_slug=itechdaily19598&exclusive=1) first retailed for $999 when it was released, but Apple sells refurbished versions for $799, making these deals even better than anything Apple is offering. The [M1 MacBook Air](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FApple-MacBook-Air-13-3-inch-Laptop-Silver-M1-Chip-8GB-RAM-256GB-storage%2F609040889&subId1=zd-__COM_CLICK_ID__-dtp) is available in three different colors: gold, space gray, and silver. Snag these savings while you can. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -81,16 +81,20 @@ However, deals are subject to sell out or expire at any time, though ZDNET remai
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-commercial-free-android-vision-capturer/"><u>[Updated] Commercial-Free Android Vision Capturer</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-in-2024-navigating-the-world-of-spotifys-advertising-landscape/"><u>[Updated] In 2024, Navigating the World of Spotify's Advertising Landscape</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-unlocking-the-power-of-blur-in-virtual-meetings/"><u>[Updated] Unlocking the Power of Blur in Virtual Meetings</u></a></li>
-<li><a href="https://location-fake.techidaily.com/4-methods-to-turn-off-life-360-on-oppo-k11x-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>4 Methods to Turn off Life 360 On Oppo K11x without Anyone Knowing | Dr.fone</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/elevate-user-participation-via-personalized-ig-story-polls/"><u>Elevate User Participation via Personalized IG Story Polls</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/essential-tips-and-tricks-for-a-memorable-labor-day-celebration-smarttechsavvy/"><u>Essential Tips & Tricks for a Memorable Labor Day Celebration - SmartTechSavvy</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/experience-crystal-clear-audio-with-this-compact-bluetooth-speaker-minimal-distortion-maximum-quality-techreviews/"><u>Experience Crystal Clear Audio with This Compact Bluetooth Speaker - Minimal Distortion, Maximum Quality | TechReviews</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-oneplus-12withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on OnePlus 12with/without a PC</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/top-5-must-have-audio-experts-insights-from-zdnet/"><u>Top 5 Must-Have Audio Experts : Insights From ZDNet</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/top-tier-audio-experience-the-ultimate-non-vizio-non-jbl-soundbar-reviewed-on-zdnet/"><u>Top-Tier Audio Experience: The Ultimate Non-Vizio, Non-JBL Soundbar Reviewed on ZDNet</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/top-tier-audio-picks-for-gamers-comprehensive-reviews-by-tech-aficionados/"><u>Top-Tier Audio Picks for Gamers : Comprehensive Reviews by Tech Aficionados</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-live-audience-score-keeper-apps/"><u>[Updated] 2024 Approved Live Audience Score Keeper Apps</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-full-guide-to-unlock-your-oneplus-nord-ce-3-5g-by-drfone-android/"><u>In 2024, Full Guide to Unlock Your OnePlus Nord CE 3 5G</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-leave-a-life360-group-on-honor-90-pro-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How To Leave a Life360 Group On Honor 90 Pro Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-solutions-to-spy-on-nokia-g42-5g-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>In 2024, Solutions to Spy on Nokia G42 5G with and without jailbreak | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/leveraging-ai-technology-for-enhanced-performance-on-instagram-metas/"><u>Leveraging AI Technology for Enhanced Performance on Instagram Metas</u></a></li>
+<li><a href="https://howto.techidaily.com/oppo-a1x-5g-stuck-on-screen-finding-solutions-for-stuck-on-boot-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Oppo A1x 5G Stuck on Screen – Finding Solutions For Stuck on Boot | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/quickening-your-pc-how-to-address-and-rectify-windows-11s-performance-issues/"><u>Quickening Your PC: How to Address and Rectify Windows 11'S Performance Issues</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-your-skype-audio-issue-repairing-the-inoperative-microphone-on-windows-10/"><u>Solving Your Skype Audio Issue: Repairing the Inoperative Microphone on Windows 10</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-missing-pieces-of-apple-vision-pro-top-two-apps-you-wont-find-on-the-revolutionary-device-revealed-zdnet/"><u>The Missing Pieces of Apple Vision Pro – Top Two Apps You Won’t Find on the Revolutionary Device Revealed | ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-ultimate-list-best-ipads-for-children-in-2er-2022-expert-reviews-and-picks-zdnet/"><u>The Ultimate List: Best iPads for Children in 2Er 2022 - Expert Reviews and Picks (ZDNet)</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unlocking-new-safety-alerts-on-your-iphone-discover-how-ios-18-enhances-emergency-communications-without-ai/"><u>Unlocking New Safety Alerts on Your iPhone - Discover How iOS 18 Enhances Emergency Communications Without AI!</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unveiling-your-macs-secrets-a-step-by-step-guide-to-finding-passwords-in-macos-keychain/"><u>Unveiling Your Mac's Secrets: A Step-by-Step Guide to Finding Passwords in macOS Keychain</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/upgrading-to-apples-latest-in-depth-analysis-of-iphone-1/"><u>Upgrading to Apple's Latest: In-Depth Analysis of iPhone 1</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/using-alternative-methods-how-to-access-your-iphones-sim-tray-without-the-official-tool/"><u>Using Alternative Methods: How To Access Your iPhone's SIM Tray Without the Official Tool</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/visualverve-tips-for-resizing-images-in-instagram-for-2024/"><u>VisualVerve Tips for Resizing Images in Instagram for 2024</u></a></li>
 </ul></div>
 

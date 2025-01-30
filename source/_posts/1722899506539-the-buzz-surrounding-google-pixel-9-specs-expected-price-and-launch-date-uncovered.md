@@ -1,7 +1,7 @@
 ---
 title: "The Buzz Surrounding Google Pixel 9: Specs, Expected Price & Launch Date Uncovered"
-date: 2024-08-18T17:48:04.266Z
-updated: 2024-08-19T17:48:04.266Z
+date: 2025-01-27T16:36:26.230Z
+updated: 2025-01-30T16:01:43.339Z
 categories:
   - BestProducts
 description: "This Article Describes The Buzz Surrounding Google Pixel 9: Specs, Expected Price & Launch Date Uncovered"
@@ -22,11 +22,19 @@ thumbnail: https://thmb.techidaily.com/66ccde26d86877f06eba74ce71d6ed3e3e1b37f9f
 
  Since[the latest Samsung Galaxy phones](https://www.lifewire.com/newest-samsung-galaxy-phone-7567396) were launched just this year, there's not a lot in the way of Galaxy S25 leaks. Nevertheless, we have some ideas about this upcoming smartphone pair and will keep this page updated as we uncover new rumors and leaks throughout the year.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## When Will the Samsung Galaxy S25 Be Released?
 
  Samsung consistently releases its Galaxy S series phones during the first half of each year. With a track record of unveiling new models every year since 2010, there's no need for speculation about the arrival of new Samsung phones.
 
  Since the Galaxy S24 debuted in 2024, we can expect the Galaxy S25 and S25+ to land in 2025.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Lifewire's Release Date Estimate
 
@@ -47,6 +55,10 @@ January or February 2025 is our best guess right now.
 
 [The Best Places to Buy Phones in 2024](https://www.lifewire.com/best-places-to-buy-cell-phones-580000)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Pre-Order Information
 
  Samsung Galaxy S25 pre-orders will start when the phones are announced early next year.
@@ -54,8 +66,9 @@ January or February 2025 is our best guess right now.
  Interested in a foldable phone? Samsung's[Z Fold 6](https://www.lifewire.com/galaxy-z-fold-6-8418354) and[Z Flip 6](https://www.lifewire.com/samsung-galaxy-z-flip-6-8621840) are coming this year.
 
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Samsung Galaxy S25 Features
 
 [Android 15 will arrive later this year](https://www.lifewire.com/android-15-7547471) , so the Galaxy S25 will run that version of the Android OS (with the[One UI](https://www.lifewire.com/what-is-samsung-one-ui-4178405) 7 skin). Samsung will likely support the S25 for the same length of time as in past years, meaning you'll get major Android operating system updates and security fixes for seven years.
@@ -73,9 +86,6 @@ January or February 2025 is our best guess right now.
 
  Aside from the possibility of some slight design changes (that's all we've heard; no details yet), here are the bigger changes we're looking forward to:  
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Newer Processor
 
  The next Samsung Galaxy phones will likely be powered by the Qualcomm Snapdragon 8 Gen 4 in the US and the Exynos 2500 everywhere else. The Qualcomm processor[is said to support faster RAM](https://wccftech.com/lpddr6-support-for-snapdragon-8-gen-not-for-a18-pro/) , which will be much needed as on-device AI continues to work its way into these phones.
@@ -83,17 +93,15 @@ January or February 2025 is our best guess right now.
  We're not yet sure how much RAM these phones could be packing, but we're hoping the base model has 12 GB and the Plus model increases to 16 GB. More RAM means that AI can work faster because it can run some of its operations locally, and other phone functions will also benefit.
 
 <!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Larger Displays
 
 [If this rumor is true](https://twitter.com/TheGalox%5F/status/1782058803468423431) , next year's phones could be a little bigger. The X/Twitter post states that the Galaxy S25 will increase from a 6.2-inch display to a 6.36-inch one. It's not a_huge_ change, but it could usher in more than just a bigger screen.
 
  The Galaxy S25+ could be bigger, too, but we haven't seen any supporting leaks. The current model is 6.7 inches and we don't see that changing unless the Galaxy S25 Ultra_also_ increases in size, since it's already 6.8 inches.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Better Image Quality
 
  A larger phone, overall, means Samsung could stuff a bigger battery into the phone or work in some different cameras. Currently, Samsung and other phone makers use Samsung's ISOCELL sensor for their phone cameras.
@@ -104,18 +112,12 @@ January or February 2025 is our best guess right now.
 
  It also looks like[the battery isn't changing either](https://www.androidauthority.com/leak-samsung-galaxy-25-battery-3451473/) . The same 4000mAh battery found in the S24 might be used for at least another year.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Other Changes
 
 * In addition to faster RAM, these phones might come with faster hard drives,[potentially doubling the speed to 8 GB/s](https://www.sammobile.com/news/next-gen-samsung-galaxy-phones-faster-storage/) . This, again, is useful for everything you do on your phone but is especially beneficial for all the local AI smarts the S25 lineup will surely include.
 * The S24 supports fast wired charging at 25W, which is a bit slower than similar devices like the Pixel 8 which is rated for 27W. We haven't seen any leaks about this changing next year, but we can still hope for the best.
 * The S25 phones could follow Google's lead with the[Pixel 9](https://www.lifewire.com/google-pixel-9-8630767) and support Qi2, the next version of the[Qi wireless charging standard](https://www.lifewire.com/qi-wireless-charging-4151894) .
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## The Latest News About Samsung Galaxy S25
 
  You[read more smartphone news here at Lifewire](https://www.lifewire.com/mobile-phones-4781509) . Below are some of those stories and more about Samsung and Android specifically.
@@ -132,8 +134,6 @@ January or February 2025 is our best guess right now.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -141,4 +141,24 @@ January or February 2025 is our best guess right now.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/nleashing-storytelling-potential-making-youtube-trailers-in-filmora/"><u>[New] Unleashing Storytelling Potential Making YouTube Trailers in Filmora</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-mastering-effective-social-media-video-promos/"><u>[Updated] 2024 Approved Mastering Effective Social Media Video Promos</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-navigating-instagrams-reel-arena-with-precision/"><u>[Updated] Navigating Instagram's Reel Arena with Precision</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/2024-approved-developing-intriguing-video-segments-for-channels/"><u>2024 Approved Developing Intriguing Video Segments for Channels</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/a-complete-tutorial-how-to-disable-and-remove-copilot-on-windows-11-systems/"><u>A Complete Tutorial: How to Disable and Remove Copilot on Windows 11 Systems</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/avoiding-damage-safe-cleaning-practices-for-your-sleek-smart-tv-screen/"><u>Avoiding Damage: Safe Cleaning Practices for Your Sleek Smart TV Screen</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/gmail-not-updating-heres-what-you-can-do/"><u>Gmail Not Updating? Here’s What You Can Do</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-move-contacts-from-realme-c33-2023-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Move Contacts From Realme C33 2023 to iPhone (13/14/15) | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/is-it-time-to-update-to-ipados-17/"><u>Is It Time to Update to iPadOS 17?</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/jest-jamboree-utilizing-comic-tools-for-free/"><u>Jest Jamboree Utilizing Comic Tools for Free</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/secrets-to-always-seeing-your-sticky-notes-in-windows/"><u>Secrets to Always Seeing Your Sticky Notes in Windows</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-fix-for-vertical-bar-defects-on-a-samsung-television-set/"><u>Step-by-Step Fix for Vertical Bar Defects on a Samsung Television Set</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/1722862562305-the-future-is-here-with-apples-newest-ipad-generation-get-the-lowdown-on-what-to-expect/"><u>The Future Is Here with Apple's Newest iPad Generation - Get the Lowdown on What to Expect!</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-future-of-transportation-unveiling-potential-details-for-the-apple-car-pricing-insights-and-release-info/"><u>The Future of Transportation: Unveiling Potential Details for the Apple Car – Pricing Insights and Release Info</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/the-truth-about-the-tp-link-re505x-an-authoritative-review-on-wifi-range-enhancement/"><u>The Truth About the TP-Link RE505X: An Authoritative Review on WiFi Range Enhancement</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/toms-tech-reviews-comprehensive-guide-and-analysis/"><u>Tom's Tech Reviews: Comprehensive Guide & Analysis</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-picks-the-best-currently-airing-shows-on-discoveryplus-as-of-july-2024/"><u>Top Picks: The Best Currently Airing Shows on Discovery+ as of July 2024</u></a></li>
+</ul></div>
 

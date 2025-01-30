@@ -1,7 +1,7 @@
 ---
 title: "Decoding Apple Innovations for Consumers: How SoC, M1 Through M3 Chips Transform Computing Experiencuence"
-date: 2025-01-21T18:22:23.079Z
-updated: 2025-01-23T05:41:44.337Z
+date: 2025-01-28T18:03:07.418Z
+updated: 2025-01-30T16:28:09.190Z
 tags:
   - apple
 categories:
@@ -34,10 +34,6 @@ For now, here are the new AI-powered skills you can expect next month with [iOS 
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Writing tools
 
 Jason Hiner/ZDNET
@@ -51,7 +47,7 @@ Apple Intelligence will tap into your photos for a few different tricks. You'll 
 The [new Clean Up tool](https://www.zdnet.com/article/ios-18-1-beta-adds-photo-clean-up-ai-tool-and-notification-summaries-how-they-work/) will help you remove distracting or unwanted elements in a photo while leaving everything else intact.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Audio transcriptions
@@ -72,10 +68,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 Instead of having to read all the notifications that appear on your screen, you'll be able to browse through AI-generated summaries of them. Plus, a new Focus mode will display only the notifications that need your immediate attention.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 5\. Mail assistance
 
 To help you get through your emails, Apple Intelligence will [try to understand their content](https://www.zdnet.com/article/ios-18-1-beta-adds-photo-clean-up-ai-tool-and-notification-summaries-how-they-work/) and identify those that are time-sensitive. Any emails that fit the criteria will be treated as priority messages. Instead of just previewing the first few lines of an email, AI will summarize the key details. 
@@ -85,7 +77,7 @@ To help you get through your emails, Apple Intelligence will [try to understand 
 Plus, a new Smart Reply feature will offer suggestions for quick replies and ensure that all the questions in a response have been addressed.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Siri improvements
@@ -102,7 +94,15 @@ Beyond using your voice to chat with Siri, you'll also be able to type your requ
 
 Those are a fair number of AI-powered features and upgrades, but Apple Intelligence has more in store for the months and years ahead. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What will come later
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Image playground
 
@@ -112,13 +112,13 @@ Using the AI-powered [Image Playground](https://www.zdnet.com/article/what-is-ap
 
 The [image wand](https://www.zdnet.com/article/forget-dall-e-apples-new-ai-image-generator-runs-on-device-and-works-like-magic/) will attempt to turn rough sketches into full images. When you circle an empty area on a virtual canvas or other screen, the image wand will generate an image based on the surrounding area.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Genmoji
 
 You'll be able to [create new emojis](https://www.zdnet.com/article/apples-new-ai-generated-genmoji-solve-a-problem-weve-all-had-before/) on-demand by entering a description or selecting a photo of you or another person. In response, the AI will generate a more accurate and lively kind of emoji.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### More Siri tricks
 
@@ -158,20 +158,16 @@ The big question, though, is not so much when the new AI features will arrive bu
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-learn-how-to-directly-control-your-iphones-orientation/"><u>[New] 2024 Approved Learn How to Directly Control Your iPhone's Orientation</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-how-to-apply-a-classic-video-transition-with-camtasia-9/"><u>[Updated] 2024 Approved How to Apply a Classic Video Transition with Camtasia 9</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-predicting-the-new-wave-of-social-media-infographic-style/"><u>[Updated] Predicting the New Wave of Social Media - Infographic Style</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-the-complete-package-of-top-zoom-capturing-gear/"><u>[Updated] The Complete Package of Top Zoom Capturing Gear</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-shutter-excellence-roundup-top-6-incredible-4k-dslrs/"><u>2024 Approved Shutter Excellence Roundup Top 6 Incredible 4K DSLRs</u></a></li>
-<li><a href="https://location-fake.techidaily.com/a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-nokia-g310-drfone-by-drfone-virtual-android/"><u>A Detailed Guide on Faking Your Location in Mozilla Firefox On Nokia G310 | Dr.fone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/amazon-boosts-alexa-capabilities-using-anthropics-innovative-language-model-claude-exclusive-coverage-at-zdnet/"><u>Amazon Boosts Alexa Capabilities Using Anthropic’s Innovative Language Model, Claude - Exclusive Coverage at ZDNET</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/discover-an-unmatched-audio-experience-top-alternative-brands-beyond-sony-and-jbl-featured-on-zdnet/"><u>Discover an Unmatched Audio Experience: Top Alternative Brands Beyond Sony and JBL Featured on ZDNet</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/discover-the-magic-of-smart-home-with-essential-light-projection-tech-you-might-be-missing/"><u>Discover the Magic of Smart Home with Essential Light Projection Tech You Might Be Missing!</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/discover-the-ultimate-audio-experience-with-our-picks-s-best-speakers-featuring-expert-reviews-from-cnet/"><u>Discover the Ultimate Audio Experience with Our Picks 'S Best Speakers, Featuring Expert Reviews From CNET</u></a></li>
-<li><a href="https://win-community.techidaily.com/expert-analysis-understanding-the-reasons-behind-excessive-fan-noise-in-modern-computers-yl-technology-insights/"><u>Expert Analysis: Understanding the Reasons Behind Excessive Fan Noise in Modern Computers - YL Technology Insights</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/expert-picks-for-premium-sound-leading-stereo-speakers-review/"><u>Expert Picks for Premium Sound: Leading Stereo Speakers Review</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/maximize-your-savings-with-the-35-echo-and-blink-combo-for-a-smarter-home-the-ultimate-prime-day-finale/"><u>Maximize Your Savings with the $35 Echo & Blink Combo for a Smarter Home - The Ultimate Prime Day Finale</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/oneplus-ace-2-pro-screen-unresponsive-heres-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>OnePlus Ace 2 Pro Screen Unresponsive? Heres How to Fix It | Dr.fone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/revolutionize-your-home-with-the-latest-tech-marvel-a-smart-speaker-that-flawlessly-integrates-alexa-and-google-assistant-services/"><u>Revolutionize Your Home with the Latest Tech Marvel - A Smart Speaker that Flawlessly Integrates Alexa and Google Assistant Services!</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-the-complete-checklist-for-uploading-videos-on-twitpic/"><u>[New] In 2024, The Complete Checklist for Uploading Videos on Twitpic</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-seamless-integration-of-snap-camera-in-video-conferencing-tools/"><u>[New] Seamless Integration of Snap Camera in Video Conferencing Tools</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-capturing-every-word-a-comprehensive-guide-to-zoom-transcription-tools/"><u>[Updated] 2024 Approved Capturing Every Word A Comprehensive Guide to Zoom Transcription Tools</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-top-tier-external-ssds-for-elevated-xbox-use-for-2024/"><u>[Updated] Top-Tier External SSDs for Elevated Xbox Use for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/diagnosing-and-fixing-connection-woes-with-google-stadia-headsets/"><u>Diagnosing and Fixing Connection Woes with Google Stadia Headsets</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/elevate-your-entertainment-advanced-settings-for-the-best-apple-tv-experience/"><u>Elevate Your Entertainment: Advanced Settings for the Best Apple TV Experience</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/future-proofing-assistants-how-apple-plans-to-enhance-siri-by-2025-insights/"><u>Future-Proofing Assistants: How Apple Plans to Enhance Siri by 2025 - Insights</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/hp-notebook-trouble-heres-how-to-get-your-windows-11-audio-working-again/"><u>HP Notebook Trouble? Here's How to Get Your Windows 11 Audio Working Again!</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/is-investing-in-appextract-worth-the-cost-exploring-potential-subscription-rates-of-20month/"><u>Is Investing in AppeXtract Worth the Cost? Exploring Potential Subscription Rates of $20/Month</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ultimate-tutorial-building-an-oculus-questquest-2-profile-from-scratch/"><u>Ultimate Tutorial: Building an Oculus Quest/Quest 2 Profile From Scratch</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/why-hackers-flock-to-chatgpt-platforms/"><u>Why Hackers Flock to ChatGPT Platforms?</u></a></li>
 </ul></div>
 

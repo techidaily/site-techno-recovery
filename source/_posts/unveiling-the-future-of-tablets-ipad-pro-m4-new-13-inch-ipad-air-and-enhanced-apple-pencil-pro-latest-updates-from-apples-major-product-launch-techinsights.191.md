@@ -1,7 +1,7 @@
 ---
 title: "Unveiling the Future of Tablets: IPad Pro M4, New 13-Inch iPad Air & Enhanced Apple Pencil Pro - Latest Updates From Apple's Major Product Launch | TechInsights."
-date: 2025-01-17T20:38:12.566Z
-updated: 2025-01-22T22:35:33.690Z
+date: 2025-01-27T16:54:51.536Z
+updated: 2025-01-30T18:03:03.838Z
 tags:
   - apple
 categories:
@@ -26,6 +26,10 @@ Tim Cook kicked off the event by speaking about how the Apple Vision Pro has bee
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Everything announced at Apple's 'Let Loose' event
 
 Apple's "Let Loose" was a virtual product launch event that took place on May 7, at 7 am PT/10 am ET. It lasted about 35 minutes and was live-streamed on [Apple.com](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2F&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp), [YouTube](https://www.youtube.com/watch?v=f1J38FlDKxo), and via the Apple TV app. 
@@ -33,7 +37,7 @@ Apple's "Let Loose" was a virtual product launch event that took place on May 7,
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. iPad Pro, now with OLED displays and M4
@@ -57,7 +61,7 @@ Like previous generations, Apple is making the latest iPad Pro available in 11-i
 The iPad Pro starts at $999 for the 11-inch model and $1,299 for the 13-inch model. It's available in Silver and Space Black, with storage sizes ranging from 256GB to 2TB. You can [available to preorder now](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-ipad%2Fipad-pro&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp), with orders shipping next week.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. iPad Air gets a new, larger size
@@ -77,7 +81,7 @@ Unlike the M4-equipped iPad Pro, the iPad Air comes with an M2 chip, making it a
 The new iPad Air is available in Blue, Purple, Starlight, and Space Gray, with [prices starting at $599](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fbuy-ipad%2Fipad-air&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) for the 11-inch iPad Air, and $799 for the 13-inch model.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Apple Pencil Pro
@@ -97,7 +101,7 @@ Apple
 The Apple Pencil Pro costs $129 and supports Apple's Find My service, letting you track the location of the accessory should you drop or misplace it. You can purchase the [Apple Pencil Pro](https://apple.sjv.io/c/159047/435031/7613?&sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.apple.com%2Fshop%2Fproduct%2FMX2D3AM%2FA%2Fapple-pencil-pro&subId1=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) today, and it will start shipping next week.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Magic Keyboard
@@ -105,10 +109,6 @@ The Apple Pencil Pro costs $129 and supports Apple's Find My service, letting yo
 Apple
 
 The iPad event also included a new, more durable Magic Keyboard, featuring a larger trackpad and a function row along the top. The Magic Keyboard's new look and upgraded aluminum construction is meant to make the iPad Pro look and feel more like a laptop, rather than a tablet with an optional keyboard case.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Why would Apple host an event before WWDC?
 
@@ -160,18 +160,24 @@ The Apple Let Loose event was a pre-recorded video but is still available for st
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-financial-projections-producing-a-music-video/"><u>[New] 2024 Approved Financial Projections Producing a Music Video</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-integrating-video-content-from-youtube-into-websites-a-comprehensive-guide/"><u>[Updated] In 2024, Integrating Video Content From YouTube Into Websites - A Comprehensive Guide</u></a></li>
-<li><a href="https://win-lab.techidaily.com/boost-your-surface-pros-storage-capacity-and-slash-costs-in-just-7-steps-learn-how-smarttechguru/"><u>Boost Your Surface Pro's Storage Capacity and Slash Costs in Just 7 Steps! Learn How | SmartTechGuru</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/discover-exceptional-quality-in-audio-a-premier-desk-speaker-beyond-logitech-and-pioneer-featured-at-zdnet/"><u>Discover Exceptional Quality in Audio: A Premier Desk Speaker Beyond Logitech and Pioneer Featured at ZDNet</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/filmoras-recipe-for-captivating-youtube-trailers/"><u>Filmora’s Recipe for Captivating YouTube Trailers</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-reset-gmail-password-on-infinix-smart-8-devices-by-drfone-android/"><u>How to Reset Gmail Password on Infinix Smart 8 Devices</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-what-is-the-best-pokemon-for-pokemon-pvp-ranking-on-vivo-y100-drfone-by-drfone-virtual-android/"><u>In 2024, What is the best Pokemon for pokemon pvp ranking On Vivo Y100? | Dr.fone</u></a></li>
-<li><a href="https://video-capture.techidaily.com/integrating-advanced-movie-capture-on-diverse-tech-environments/"><u>Integrating Advanced Movie Capture on Diverse Tech Environments</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/overcoming-audio-barriers-repairing-the-mic-feature-for-airpods-in-windows-11-environments/"><u>Overcoming Audio Barriers: Repairing the Mic Feature for AirPods in Windows 11 Environments</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/the-best-tech-innovations-of-2-grove-as-chosen-by-zdnet-editors/"><u>The Best Tech Innovations of 2 Grove, as Chosen by ZDNet Editors</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/top-rated-bookcase-audio-systems-the-ultimate-picks-techadvisor/"><u>Top-Rated Bookcase Audio Systems - The Ultimate Picks | TechAdvisor</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/ultimate-portable-audio-experience-with-this-small-yet-powerful-bluetooth-speaker-insights-from-zdnet/"><u>Ultimate Portable Audio Experience with This Small Yet Powerful Bluetooth Speaker - Insights From ZDNet</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/zdnet-review-soul-s-storm-max-the-ultimate-waterproof-bluetooth-speaker-with-dynamic-bass-and-stunning-led-displays/"><u>ZDNet Review: Soul S-Storm Max - The Ultimate Waterproof Bluetooth Speaker with Dynamic Bass & Stunning LED Displays</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-precise-age-settings-the-essential-guide-for-tiktok-profiles/"><u>[New] Precise Age Settings The Essential Guide for TikTok Profiles</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-top-14-youtube-gaming-video-ideas-to-boost-gaming-channels/"><u>[New] Top 14 YouTube Gaming Video Ideas to Boost Gaming Channels</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-the-ultimate-choice-of-childhood-flying-fun-toys/"><u>[Updated] In 2024, The Ultimate Choice of Childhood Flying Fun Toys</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-retrace-mechanic-setup/"><u>2024 Approved Retrace Mechanic Setup</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-ultimate-list-of-phone-editors-for-gopro-content/"><u>2024 Approved Ultimate List of Phone Editors for GoPro Content</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-unseen-yet-seen-how-to-conceal-faces-and-objects-digitally/"><u>2024 Approved Unseen Yet Seen How to Conceal Faces and Objects Digitally</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/affordable-streams-the-ultimate-walkthrough-for-acquiring-spotifys-student-price-cut/"><u>Affordable Streams: The Ultimate Walkthrough for Acquiring Spotify's Student Price Cut</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/breath-of-fresh-air-for-tech-enthusiasts-apple-eyes-adding-respiration-tracking-feature-in-vision-pro-glasses/"><u>Breath of Fresh Air for Tech Enthusiasts: Apple Eyes Adding 'Respiration Tracking' Feature in Vision Pro Glasses</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/1722899009237-deciphering-speculations-around-apples-new-audible-gadget-cost-predictions-release-plans-and-features-at-a-glance/"><u>Deciphering Speculations Around Apple’s New Audible Gadget: Cost Predictions, Release Plans & Features at a Glance!</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discover-the-best-free-tools-to-test-your-hard-drives-in-july-2024-edition/"><u>Discover the Best Free Tools to Test Your Hard Drives in July 2024 Edition</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/efficient-recording-methods-for-skype-calls-using-obs-for-2024/"><u>Efficient Recording Methods for Skype Calls Using OBS for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/experience-the-power-of-sound-with-our-selection-of-the-15-best-movies-featuring-dolby-atmos-technology-at-home/"><u>Experience the Power of Sound with Our Selection of the 15 Best Movies Featuring Dolby Atmos Technology at Home</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/reasons-why-pokemon-gps-does-not-work-on-apple-iphone-8-plus-drfone-by-drfone-virtual-ios/"><u>Reasons why Pokémon GPS does not Work On Apple iPhone 8 Plus? | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/resolve-chatgpt-gaffes-overcoming-6-common-hurdles-with-ease/"><u>Resolve ChatGPT Gaffes: Overcoming 6 Common Hurdles with Ease</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/revolutionizing-mac-intelligence-apple-unveils-plan-for-ai-powered-m4-chips-across-all-models-release-dates-inside/"><u>Revolutionizing Mac Intelligence: Apple Unveils Plan for AI-Powered M4 Chips Across All Models - Release Dates Inside</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-guide-entering-and-exiting-ios-device-recovery-mode/"><u>Step-by-Step Guide: Entering and Exiting iOS Device Recovery Mode</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/top-review-of-the-durable-and-handy-kensun-mobile-tire-inflator/"><u>Top Review of the Durable and Handy Kensun Mobile Tire Inflator</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ultimate-tutorial-starting-command-prompt-on-any-windows-pc/"><u>Ultimate Tutorial: Starting Command Prompt on Any Windows PC</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/upgrade-or-not-a-comparative-look-at-apples-latest-iphones-iphone-16-and-15-as-recommended/"><u>Upgrade or Not? A Comparative Look at Apple's Latest iPhones (iPhone 16 & 15) as Recommended</u></a></li>
 </ul></div>
 
