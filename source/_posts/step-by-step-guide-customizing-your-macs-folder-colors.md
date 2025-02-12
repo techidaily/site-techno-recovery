@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Customizing Your Mac's Folder Colors"
-date: 2024-08-18T17:43:43.258Z
-updated: 2024-08-19T17:43:43.258Z
+date: 2025-02-06T22:41:57.254Z
+updated: 2025-02-11T17:47:37.434Z
 categories:
   - BestProducts
 description: "This Article Describes Step-by-Step Guide: Customizing Your Mac's Folder Colors"
@@ -10,6 +10,11 @@ thumbnail: https://thmb.techidaily.com/3b5dbab902dc8db71b72fe778c491655a451dd9fd
 ---
 
 ## Personalize Your Emails with Unique Sounds in Gmail – Step-by-Step Guide
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### What to Know
 
 * With Notifier for Gmail installed, select**Extensions** next to the Chrome navigation bar.
@@ -29,25 +34,37 @@ thumbnail: https://thmb.techidaily.com/3b5dbab902dc8db71b72fe778c491655a451dd9fd
 1. Select**Extensions** next to Chrome's navigation bar, then select**More actions** (three vertical dots) and choose **Options** .  
 ![Options menu item for Notifier for Gmail.](https://www.lifewire.com/thmb/ItTlmQe_8CNY3vW37Q6ac7spTJ8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001-how-to-add-a-new-mail-sound-for-gmail-5b50d46b9a594db3bd73946ea64549aa.jpg)
 2. Scroll down to the Notifications section and make sure **Play alert sound for new emails** is selected.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Play alert sound for new emails.](https://www.lifewire.com/thmb/EaGNTDoH2lcLO8QxHT0Z1KVeUPk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002-how-to-add-a-new-mail-sound-for-gmail-1e074c5a399d403aab64b2ec37afbbf8.jpg)
 3. Change the sound using the drop-down menu.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Notifier for Gmail settings screen highlighting Play alert sound for new emails and Default sound notification drop-down menu](https://www.lifewire.com/thmb/DUBiUTKL1yNY2AP6anJNY9OE1cM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/003-how-to-add-a-new-mail-sound-for-gmail-db10f7ff4e56480c8acefb921da8d1b6.jpg)
 4. Exit the window when you're done. The changes are saved automatically.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You can also[change your notification sounds on Android](https://www.lifewire.com/how-to-change-create-android-notification-sounds-4783114) or[change the new mail sound on iOS](https://www.lifewire.com/how-to-change-the-new-mail-sound-in-ios-mail-1172501) to achieve a similar effect in those mobile apps.
 
  If you use Gmail through a downloadable email client like[Microsoft Outlook](https://www.lifewire.com/microsoft-outlook-4164620) ,[Thunderbird](https://www.lifewire.com/gmail-access-thunderbird-1173150) , or[eM Client](http://www.emclient.com/) , you make the sound change from within those programs.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Enable a Pop-Up Notification
 
  You can set Gmail to display a pop-up notification when new email messages arrive in Chrome, Firefox, or Safari when you are signed in to Gmail and have it open in the browser. Just turn on that setting in Gmail by selecting the **Settings**  icon then choosing **See all settings** and going to **General** \> **Desktop Notifications** . The notification is not accompanied by a sound.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## How to Change Gmail Notification Sounds in Other Email Clients
 
  You can[turn on notification sounds for Outlook](https://www.lifewire.com/change-new-mail-notification-sound-outlook-1173674) email messages in the **FILE** \>**Options** \>**Mail**  menu, with the **Play a sound** option from the Message arrival section. To change the sound,[open Control Panel](https://www.lifewire.com/how-to-open-control-panel-2625782) and search for "sound". Open the Sound [Control Panel applet](https://www.lifewire.com/control-panel-applet-2625831) and modify the **New Mail Notification** option from the Sounds tab.
@@ -85,8 +102,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -94,4 +109,20 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-dji-revolution-air-vs-spark-in-gaming-sphere/"><u>[Updated] 2024 Approved DJI Revolution Air Vs. Spark in Gaming Sphere</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-journey-through-the-past-with-these-leading-gba-console-emulators-for-windows-computers/"><u>[Updated] 2024 Approved Journey Through the Past With These Leading GBA Console Emulators for Windows Computers</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-revolutionizing-reality-expertly-reviewed-peripherals/"><u>[Updated] 2024 Approved Revolutionizing Reality Expertly Reviewed Peripherals</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-optimizing-video-sharing-with-vimeo-subscription-choices/"><u>[Updated] Optimizing Video Sharing With Vimeo Subscription Choices</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-mastery-of-video-dimensions-achieving-balanced-facebook-posts/"><u>2024 Approved Mastery of Video Dimensions Achieving Balanced Facebook Posts</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/beginning-with-your-latest-ipad-essential-tips-for-perfect-device-setup-by-experts-at-zdnet/"><u>Beginning with Your Latest iPad? Essential Tips for Perfect Device Setup by Experts at ZDNet</u></a></li>
+<li><a href="https://win11.techidaily.com/boosting-android-performance-with-optimized-resources-on-wsl/"><u>Boosting Android Performance with Optimized Resources on WSL</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/choosing-the-perfect-apple-smartwatch-ultra-vs-series-eight-a-comprehensive-guide/"><u>Choosing the Perfect Apple Smartwatch: Ultra vs Series Eight - A Comprehensive Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/exclusive-access-to-microsofts-latest-app-experience-windows-on-chromebooks-and-macs-available-now/"><u>Exclusive Access to Microsoft's Latest App: Experience Windows on Chromebooks & Macs - Available Now</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/exploring-the-eufy-t8200-a-thorough-look-at-a-no-subscription-video-doorbell-option/"><u>Exploring the Eufy T8200: A Thorough Look at a No-Subscription Video Doorbell Option</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/future-of-connectivity-embracing-verizons-5g-revolution/"><u>Future of Connectivity: Embracing Verizon's 5G Revolution</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/is-fake-gps-location-spoofer-a-good-choice-on-infinix-smart-7-drfone-by-drfone-virtual-android/"><u>Is Fake GPS Location Spoofer a Good Choice On Infinix Smart 7? | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-guide-uniting-your-fortnite-profiles/"><u>Step-by-Step Guide: Uniting Your Fortnite Profiles</u></a></li>
+</ul></div>
 

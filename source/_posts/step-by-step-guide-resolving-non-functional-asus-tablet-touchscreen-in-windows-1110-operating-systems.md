@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Resolving Non-Functional ASUS Tablet Touchscreen in Windows 11/10 Operating Systems"
-date: 2024-08-18T16:35:47.862Z
-updated: 2024-08-19T16:35:47.862Z
+date: 2025-02-10T23:03:43.603Z
+updated: 2025-02-11T18:56:53.498Z
 tags:
   - win11
   - win10
@@ -44,8 +44,9 @@ To address this, follow these steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/07/how-to-identify-your-graphics-card-model-1.png)
 3. Visit the official website of your GPU manufacturer and download the latest driver suitable for your specific GPU model.  
+
 <!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 [NVIDIA](https://tools.techidaily.com/drivereasy/download/)  
@@ -53,9 +54,6 @@ To address this, follow these steps:
 [Intel](http://downloadcenter.intel.com/)
 4. Install the new driver and restart your computer to apply the changes.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
-<!-- affiliate ads end -->
 ### Automatically update your drivers
 
  If you do not have the time or patience to update your drivers manually or you think it is error-prone, you can utilize an**automatic driver updater** – **[Drive Easy](https://tools.techidaily.com/drivereasy/download/)**  to help you automatically identify any missing or outdated driver, and install the most updated one, direct from the manufacturers. With Driver Easy, having driver updates is just a matter of a few mouse clicks.
@@ -68,18 +66,24 @@ Below is the simple three-step guide:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/scan-now-v5_7_0.jpg)
 3. Click **Update All** . Driver Easy will proceed to download and install the latest versions of all your outdated and missing device drivers directly from the device manufacturer.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  To access this feature, you’ll need the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  of Driver Easy, which offers complete support and a 30-day money-back guarantee. If you choose to upgrade by clicking on ‘Update All,’ you’ll receive a prompt. However, if you prefer to stick with the FREE version, you can still update your drivers individually by downloading them one by one and manually installing them.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/de-update-all-rtx-3080.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Should you need any assistance, feel free to contact Driver Easy’s support team at[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2\. Ensure your system is optimized
 
  While various factors can contribute to these problems, one often overlooked aspect is the operating system itself. Many users might be running outdated Windows versions, which could significantly impact their game graphics and overall performance.
@@ -96,10 +100,11 @@ Below is the simple three-step guide:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/click-on-the-Check-for-updates-tab.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
-<!-- affiliate ads end -->
  After the reboot, relaunch your game and check your gaming performance. If your FPS still drops bafflingly, don’t fret! Below are some other methods you can try.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Disable background applications
 
@@ -116,6 +121,10 @@ Below is the simple three-step guide:
 
 Then restart your game and test your gameplay.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. Scan and repair your game files
 
  Game files may get corrupted or damaged over time due to reasons like improper installations, sudden system crashes, or file conflicts. Such issues can result in performance problems during gameplay, including FPS drops and stuttering. Scanning and repairing game files can detect and fix these corrupt or missing files, restoring the game to its original state and potentially resolving performance-related problems.
@@ -129,15 +138,9 @@ Then restart your game and test your gameplay.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/07/diablo-4-scan-and-repair-game-files.png)
 4. Click**Begin Scan** and wait for the process to complete. Then restart the Battle.net desktop app and launch your game.  
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/07/diablo-4-scan-and-repair-game-files-2.png)
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
-<!-- affiliate ads end -->
 If your issues persist, proceed to the next fix.
 
 ## 5\. Adjust your in-game settings
@@ -158,12 +161,16 @@ To use Windowed mode and turn off Vertical Sync, take these steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/07/diablo-4-adjust-in-game-settings.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 After applying changes, relaunch your game and check if it works.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 6\. Enable hardware-accelerated GPU scheduling
 
  Hardware-Accelerated GPU Scheduling is a feature introduced in Windows 10 version 2004 and later. It allows the GPU to manage its video memory directly. And that can reduce the burden on the CPU and potentially improve graphics performance in games and applications.
@@ -177,14 +184,8 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 ![enable hardware-acceleration GPU scheduling](https://images.drivereasy.com/wp-content/uploads/2021/08/turn-on-hardware-accelerated-GPU-scheduling.png)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 Restart your computer to apply the changes.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 ## 7\. Repair missing or corrupted system files
 
  If all else fails, it’s suggested that you check if any of your system files are missing or corrupted.
@@ -193,18 +194,12 @@ Restart your computer to apply the changes.
 
  In such a case, should repair missing or corrupted system files. You can do this using the built-in Windows utility called**System File Checker (SFC)** .
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Run the System File Checker
 
 1. On your keyboard, press the**Windows logo key** . Type**cmd** in the search bar. Then right-click on**Command Prompt** from the search results and select**Run as administrator** .  
 
 ![run command prompt as administrator](https://images.drivereasy.com/wp-content/uploads/2020/11/cmd-run-as-administrator.jpg)
 2. In the Command Prompt window, type**sfc /scannow** and press Enter. The SFC tool will begin scanning your system for missing or corrupted files.  
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/sfc-scannow.jpg)
 3. The scanning process may take some time, so be patient and let it complete.
@@ -221,6 +216,10 @@ Restart your computer to apply the changes.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/07/Fortect-Start-Repair.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You’ll need to have the premium package for unlimited automatic repairs. Should you require any assistance, feel free to contact the support team.
 
 ---
@@ -233,8 +232,6 @@ Restart your computer to apply the changes.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -242,4 +239,24 @@ Restart your computer to apply the changes.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-instant-mp3-conversion-of-fb-video-content/"><u>[New] 2024 Approved Instant MP3 Conversion of FB Video Content</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-from-novice-to-pro-mastering-the-craft-of-yt-shorts-for-2024/"><u>[Updated] From Novice to Pro Mastering the Craft of YT Shorts for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-navigating-zooms-audio-recording-features-with-ease/"><u>[Updated] In 2024, Navigating ZOOM's Audio Recording Features with Ease</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-split-screen-audio-logging/"><u>2024 Approved Split Screen Audio Logging</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/avoid-distractions-turning-off-crisis-and-amber-warnings-on-your-iphone-device/"><u>Avoid Distractions: Turning Off Crisis & Amber Warnings on Your iPhone Device</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/best-music-live-streaming-services/"><u>Best Music Live Streaming Services</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-breakdown-of-the-highly-acclaimed-samsung-galaxy-tab-s7plus/"><u>Comprehensive Breakdown of the Highly Acclaimed Samsung Galaxy Tab S7+</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/easy-methods-to-send-files-from-print-device-directly-to-laptop/"><u>Easy Methods to Send Files From Print Device Directly to Laptop</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/explore-these-10-affordable-substitutes-for-netflixs-entertainment/"><u>Explore These 10 Affordable Substitutes For Netflix's Entertainment</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/iphone-customization-changing-regions-with-ease-explained/"><u>IPhone Customization: Changing Regions with Ease Explained</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/our-6-favorite-sites-for-free-kids-movies/"><u>Our 6 Favorite Sites for Free Kids' Movies</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/see-apples-bold-move-against-top-browser-through-their-latest-intriguing-advertisement-insights-from-zdnet/"><u>See Apple's Bold Move Against Top Browser Through Their Latest Intriguing Advertisement | Insights From ZDNET</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-guide-restoring-your-missing-bluetooth-icon-on-windows-11/"><u>Step-by-Step Guide: Restoring Your Missing Bluetooth Icon on Windows 11</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-essentials-playstation-5-slim-pricing-strategies-expected-arrival-and-full-tech-overview/"><u>The Essentials: PlayStation 5 Slim Pricing Strategies, Expected Arrival, and Full Tech Overview</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-accessory-picks-for-apples-airpods-pro-techradar/"><u>Top Accessory Picks for Apple's AirPods Pro | TechRadar</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unlock-exclusive-savings-grab-a-complimentary-macbook-air-m3-with-this-clever-best-buy-promotion-zdnet/"><u>Unlock Exclusive Savings: Grab a Complimentary MacBook Air M3 with This Clever Best Buy Promotion | ZDNet</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unveiling-openais-security-challenge-learn-how-to-contribute-and-earn-rewards/"><u>Unveiling OpenAI's Security Challenge - Learn How to Contribute and Earn Rewards</u></a></li>
+</ul></div>
 

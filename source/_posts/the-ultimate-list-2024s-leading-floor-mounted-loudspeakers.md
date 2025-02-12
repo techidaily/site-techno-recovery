@@ -1,7 +1,7 @@
 ---
 title: "The Ultimate List: 2024'S Leading Floor Mounted Loudspeakers"
-date: 2024-08-18T17:45:43.232Z
-updated: 2024-08-19T17:45:43.232Z
+date: 2025-02-10T20:14:09.808Z
+updated: 2025-02-11T16:06:27.257Z
 categories:
   - BestProducts
 description: "This Article Describes The Ultimate List: 2024'S Leading Floor Mounted Loudspeakers"
@@ -21,9 +21,18 @@ thumbnail: https://thmb.techidaily.com/4da656e102eb836f477dac6315553143e22711c58
 1. Select the **gear** in the upper-right corner of Gmail, and then select **Settings** from the drop-down menu.  
 ![The Settings item highlighted in the Gear menu on Gmail.](https://www.lifewire.com/thmb/KOGC658202lNPjWZrUD1uiPo8qY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A1-BestGmailKeyboardShortcuts-annotated-927d539b94624bf7baa0a371166f8382.jpg)
 2. Scroll down to the **Keyboard shortcuts** section and select **Keyboard shortcuts on** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![The Keyboard Shortcuts on/off buttons highlighted on Gmail's Settings screen.](https://www.lifewire.com/thmb/lPV2-ew-bY8v5xkR1Y6pZ0fLprc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A2-BestGmailKeyboardShortcuts-annotated-639cd7b44f654d4a9fc5e371f7ebae28.jpg)
 3. Scroll to the bottom of the page and select **Save Changes** .  
 ![The Save Changes button highlighted on Gmail's Settings screen.](https://www.lifewire.com/thmb/Ti1cWFQAWPKtDw4DsaTTA96KzR0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A3-BestGmailKeyboardShortcuts-annotated-bab1aa8c28204ee494f3daa266fd0100.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Create, Send, and Forward Email
 
@@ -37,8 +46,9 @@ thumbnail: https://thmb.techidaily.com/4da656e102eb836f477dac6315553143e22711c58
  On Macs, use the**Command** key in place of the**Ctrl** key.
 
 <!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Reply to Email
 
  By using the**R** and**A** keys, you can quickly reply to[email messages](https://www.lifewire.com/electronic-mail-overview-1164107) or send to multiple recipients:
@@ -46,9 +56,6 @@ thumbnail: https://thmb.techidaily.com/4da656e102eb836f477dac6315553143e22711c58
 * **Reply to a message (R)** : Press**R** to reply to an open message.
 * **Reply to all (A)** : Press**A** to reply to all recipients of a message.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## How to Scroll Through Emails
 
  These shortcuts are handy for navigating through your messages and long email threads:
@@ -57,9 +64,6 @@ thumbnail: https://thmb.techidaily.com/4da656e102eb836f477dac6315553143e22711c58
 * **Scroll up an email list (K)** : Press the**K** key to scroll up.
 * **Scroll through an email thread (N)** : Press**N** to quickly scroll down multiple conversations in a thread.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 ## How to Select Multiple Emails
 
  Need to select a bunch of emails at the same time? This shortcut will save you from having to click on each email separately:
@@ -77,9 +81,6 @@ thumbnail: https://thmb.techidaily.com/4da656e102eb836f477dac6315553143e22711c58
 
  On Mac computers, use the**Command** key in place of the**Ctrl** key.
 
-<!-- affiliate ads begin -->
-
-<!-- affiliate ads end -->
 ## How to Add Elements to an Email
 
  Addling links, numbered lists, and bullet points to your emails can also be done using keyboard shortcuts:
@@ -91,9 +92,9 @@ thumbnail: https://thmb.techidaily.com/4da656e102eb836f477dac6315553143e22711c58
  On Mac computers, use the**Command** key in place of the**Ctrl** key.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Email Maintenance Shortcuts
 
  Use these shortcuts to help manage your inbox:
@@ -105,8 +106,9 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 * **Mark a message as important (Shift** +**\=)** : Open an email or select it by clicking the box beside the sender's name, then press**Shift** +**\=** to mark it as important.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## "Go to" Shortcuts in Gmail
 
  The following shortcuts can be used for[navigating Gmail](https://www.lifewire.com/go-to-the-next-or-previous-message-in-gmail-1172068) . Unlike the shortcuts above, the individual keys must be pressed separately rather than simultaneously
@@ -147,8 +149,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -156,4 +156,26 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-streamline-your-vids-with-these-15-royalty-free-tracks-sites/"><u>[New] 2024 Approved Streamline Your Vids with These 15 Royalty-Free Tracks Sites</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-copycat-chronicles-the-science-of-satire/"><u>[New] In 2024, Copycat Chronicles The Science of Satire</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-seamless-slidecasts-combining-webcam-and-ppt-for-2024/"><u>[New] Seamless Slidecasts Combining Webcam and PPT for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-examining-updates-the-2023-samsung-bd-j5900/"><u>[Updated] Examining Updates The 2023 Samsung BD-J5900</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-the-abcs-of-amassing-affection-on-fb-squaring-up-your-video-strategy/"><u>2024 Approved The ABC's of Amassing Affection on FB Squaring Up Your Video Strategy</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/1727789818217-choosing-the-right-apple-laptop-a-comprehensive-guide-comparing-macbook-pro-and-macbook-air/"><u>Choosing the Right Apple Laptop: A Comprehensive Guide Comparing MacBook Pro & MacBook Air</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/effortless-methods-to-increase-complexity-on-your-apple-watch-insights-from-zdnet/"><u>Effortless Methods to Increase Complexity on Your Apple Watch - Insights From ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/exploring-apples-new-ai-tech-from-wwdc-will-it-impress-or-disappoint-zdnet/"><u>Exploring Apple's New AI Tech From WWDC: Will It Impress or Disappoint? | ZDNET</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/fast-start-bespoke-solutions-explore-these-8-gpt-innovations-today/"><u>Fast Start, Bespoke Solutions: Explore These 8 GPT Innovations Today</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/first-step-to-aerial-adventure-best-beginner-drones-for-2024/"><u>First Step to Aerial Adventure Best Beginner Drones for 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-does-find-my-friends-work-on-oppo-f25-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Does find my friends work on Oppo F25 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/june-2024s-ultimate-deals-on-electronics-at-best-buy-featured-by-zdnet-for-smart-shoppers/"><u>June 2024'S Ultimate Deals on Electronics at Best Buy Featured by ZDNet for Smart Shoppers!</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/maximizing-efficiency-in-every-task-the-ultimate-list-of-tools-and-hacks-for-a-streamlined-workday-sponsored-by-zdnet/"><u>Maximizing Efficiency in Every Task: The Ultimate List of Tools and Hacks for a Streamlined Workday, Sponsored by ZDNet</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/perfect-video-conferencing-the-essential-list-of-10-free-recorders-for-2024/"><u>Perfect Video Conferencing The Essential List of 10 Free Recorders for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/rethinking-your-next-purchase-expert-analysis-on-skipping-the-iphone-n-gen-apple-innovations-tech-digest/"><u>Rethinking Your Next Purchase: Expert Analysis on Skipping the iPhone N-Gen Apple Innovations Tech Digest</u></a></li>
+<li><a href="https://some-tips.techidaily.com/section-3c-qandas/"><u>Section 3C: Q&As</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/struggling-with-your-iphones-battery-life-after-ios-1751-discover-7-effective-fixes/"><u>Struggling with Your iPhone's Battery Life After iOS 1^7.5.1? Discover 7 Effective Fixes</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-ultimate-tutorial-sending-audio-notes-from-your-iphone/"><u>The Ultimate Tutorial: Sending Audio Notes From Your iPhone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unveiling-apple-vision-pro-a-comprehensive-guide-to-pricing-features-and-user-experience-tech-innovations/"><u>Unveiling Apple Vision Pro: A Comprehensive Guide to Pricing, Features & User Experience | Tech Innovations</u></a></li>
+</ul></div>
 

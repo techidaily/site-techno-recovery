@@ -1,7 +1,7 @@
 ---
 title: How to Restore Windows 10 Synchronization Functionality When It's Disabled
-date: 2024-08-18T16:36:18.355Z
-updated: 2024-08-19T16:36:18.355Z
+date: 2025-02-05T18:43:17.578Z
+updated: 2025-02-11T20:07:10.299Z
 tags:
   - win11
   - win10
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/9482ded5e871af812d18f96a64c4deb315943988e
 
  Want to**change the account name of your Windows 10 computer** ? Don’t worry. It’s easy and there are different ways to do that. We’ve put together 3 methods for how to change your user name on Windows 10\. Read on and find how…
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these methods
 
 1. **[Change your user account name in Control Panel](https://tools.techidaily.com/drivereasy/download/)**
@@ -28,6 +32,10 @@ thumbnail: https://thmb.techidaily.com/9482ded5e871af812d18f96a64c4deb315943988e
  You won’t be able to change the account name on the computer in your office if your account is**joining to any domain** .
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 1: Change your user account name in Control Panel
 
@@ -41,10 +49,20 @@ Here’s how:
 3. Click**Change account type** under**User Accounts** when View by**Category** selected.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c25877dcf40e.jpg)
 4. Double-click the account you want to change the user name.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c25a6a563ded.png)
 5. Select**Change the account name** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c25bc4e8452a.jpg)
 6. Type the new name into the New account name box, then click**Change Name** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c25bcf06209d.jpg)
 
 You’ll then see your account shows with the new name.
@@ -63,38 +81,23 @@ Here’s how you can do that:
 2. Type**lusrmgr.msc** and press**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c25bdd824bcc.png)
 3. You’ll then see the Local Users and Groups window. Click**User** then double-click the user account which you want to rename.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
-VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
-
-Key features:
-
-•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
-•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
-•	Visual effects, advanced color correction and trendy Instagram-like filters   
-•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
-•	Non-linear editing: edit several files with simultaneously 
-•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
-•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
-•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
-•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
-</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c25be388d040.jpg)
 4. Type the new name in the**Full name** box. Then click**Apply** \>**OK** .  
+
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
-LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c25be8b0ca2a.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 The new name is set successfully.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Method 3: Change your user account name in Settings
 
  If you log in your Windows 10 computer with a**Microsoft account** , you can change your account name in Settings. Go with these following steps:
@@ -103,27 +106,12 @@ The new name is set successfully.
 2. Click**Accounts** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c25bf52c64f4.jpg)
 3. Click **Manage my Microsoft account** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c25c071b4eb6.jpg)
 4. On the open page, click the drop-down menu of**More options** under your Microsoft account. Then select**Edit Profile** .  
-<!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c25c0d63158a.jpg)
 5. Click**Edit name** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c25c10a51997.png)
 6. Type the new name into the box and enter the characters you see for verification. Then click**Save** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
-
- It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
-
-  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
-
-  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
-<!-- affiliate ads end -->
  Please note that this will change the account name of your Microsoft account.
 
 The new account name of your Windows 10 computer is set successfully.
@@ -140,8 +128,6 @@ The new account name of your Windows 10 computer is set successfully.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -149,4 +135,20 @@ The new account name of your Windows 10 computer is set successfully.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-instas-friendship-breakdown-detect-it-fast/"><u>[New] 2024 Approved Insta's Friendship Breakdown Detect It Fast</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-perfecting-your-videos-narrative-integrating-timestamps-smartly/"><u>[Updated] In 2024, Perfecting Your Video's Narrative Integrating Timestamps Smartly</u></a></li>
+<li><a href="https://win-top.techidaily.com/easy-steps-to-eliminate-unwanted-objects-in-images/"><u>Easy Steps to Eliminate Unwanted Objects in Images</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/exciting-comeback-alert-discover-the-new-and-improved-mophie-juice-pack-on-zdnet/"><u>Exciting Comeback Alert! Discover the New-and-Improved Mophie Juice Pack on ZDNet!</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/expert-advice-on-fixing-kernel-inpage-errors-and-preventing-them/"><u>Expert Advice on Fixing Kernel Inpage Errors and Preventing Them</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/exploring-the-depths-of-innovation-in-ratchet-and-clanks-latest-adventure/"><u>Exploring the Depths of Innovation in Ratchet & Clank's Latest Adventure</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/exploring-the-features-of-the-latest-ampasys-andes-1500-mobile-power-unit/"><u>Exploring the Features of the Latest Ampasys Andes 1500 Mobile Power Unit</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/future-of-siri-looks-brighter-as-apple-plans-major-upgrades-for-intelligence-exclusive/"><u>Future of Siri Looks Brighter as Apple Plans Major Upgrades for Intelligence | Exclusive</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solution-guide-getting-your-dolby-advanced-audio-running-again-in-windows-11-after-driver-failure/"><u>Solution Guide: Getting Your Dolby Advanced Audio Running Again in Windows 11 After Driver Failure</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-3-essentials-for-maintaining-an-immaculate-appearance-on-your-iphone-13-insights-from-zdnet/"><u>Top 3 Essentials for Maintaining an Immaculate Appearance on Your iPhone 13 - Insights From ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-rated-budget-friendly-tablets-comprehensive-reviews-by-tech-experts/"><u>Top-Rated Budget-Friendly Tablets - Comprehensive Reviews by Tech Experts</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ultimate-guide-pairing-your-ps4-gamepad-with-ease/"><u>Ultimate Guide: Pairing Your PS4 Gamepad with Ease</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-when-oppo-find-n3-has-black-screen-of-death-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do When Oppo Find N3 Has Black Screen of Death? | Dr.fone</u></a></li>
+</ul></div>
 

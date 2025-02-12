@@ -1,7 +1,7 @@
 ---
 title: "Simple Steps: Discovering Your Windows 10 Operating System Version with Ease"
-date: 2024-08-18T16:35:43.605Z
-updated: 2024-08-19T16:35:43.605Z
+date: 2025-02-09T21:20:52.878Z
+updated: 2025-02-12T00:34:47.333Z
 tags:
   - win11
   - win10
@@ -37,6 +37,10 @@ thumbnail: https://thmb.techidaily.com/e8b3883133d6f512c5920076f733b9da53c8a6ea2
  Step 6:[**Refresh or Reset your computer Refresh**](https://tools.techidaily.com/drivereasy/download/)
 
 **IMPORTANT** : We focus on software triggered Windows 10 not booting problem here in this post only. If you suspect that the problem is with your hardware, we recommend that you ask your computer technicians for further assistance.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Step 1: Check the Power Supply
 
@@ -83,15 +87,13 @@ thumbnail: https://thmb.techidaily.com/e8b3883133d6f512c5920076f733b9da53c8a6ea2
 ![](https://images.drivereasy.com/wp-content/uploads/2016/08/please-wait-in-windows-10.png)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  4) When the following page shows, tab or click**See advanced repair options** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/08/recovery-it-looks-like-windows-didnt-load-correctly.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
  5) Choose**Troubleshoot.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/08/how-to-perform-a-restore-refresh-or-rest-from-a-hard-reboot-in-windows-10-5061.png)
@@ -100,9 +102,6 @@ thumbnail: https://thmb.techidaily.com/e8b3883133d6f512c5920076f733b9da53c8a6ea2
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a2e332be2293.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  7) Follow the on-screen instructions to continue with the system repair.
 
  8) Your computer will reboot automatically if the repair goes well. And you should be able to see the login screen when the self-repair finishes.
@@ -115,11 +114,19 @@ thumbnail: https://thmb.techidaily.com/e8b3883133d6f512c5920076f733b9da53c8a6ea2
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a2e358da77cc.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Follow the on-screen instructions and choose a restore point for you to go back to.
 
 **NOTE** : If you have not created a restore point, or that you didn’t manually turn on the system restore point feature in Windows 10, you might see this instead:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a2e35e350ad6.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  In such case, you may need to use a recovery disc or a USB drive to boot, provided that you manage to get the installation files for Windows 10 from other sources.
 
@@ -132,17 +139,9 @@ thumbnail: https://thmb.techidaily.com/e8b3883133d6f512c5920076f733b9da53c8a6ea2
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a2e39f67a517.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 2) In the Command Prompt window, type
 
 chkdsk c: /r /x
@@ -155,9 +154,6 @@ chkdsk c: /r /x
 
  Your PC should be able to boot now. If not, you may need to consider do a system reset or refresh.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## Step 6: Refresh or Rest your computer
 
 A **refresh**  on Windows 10 will help you reinstall Windows 10\. However, it will **remove**  the applications and drivers that you have installed and your personal settings will be changed back to default as well. It will also remove applications from your computer manufacturer but the apps you installed from the Windows store will remain.
@@ -168,24 +164,18 @@ A **reset**  on Windows 10 will help you reinstall Windows 10 and removes **ALL*
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_58ad0bd42c7cf.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 2) If prompt, click on the account you want to provide credentials for.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_58ad0c2d383b7.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 3) Press the **Reset**  button to confirm the reset process.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_58ad0c39342c6.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  It will take a while for the refresh to start and to finish. Your computer will restart a few times during the process.
 
  You need to sign into Windows 10 when the refresh finishes. You will go through first start up again before seeing the desktop after the refresh.
@@ -193,8 +183,9 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_58ad0c40902d4.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  For more information about resetting your computer from the options listed, please refer to this post here:
   
 [**How to reset Windows 10?**](https://tools.techidaily.com/drivereasy/download/)
@@ -205,8 +196,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -214,4 +203,26 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-the-professional-path-to-broadcasting-full-dome-content-on-fb/"><u>[New] 2024 Approved The Professional Path to Broadcasting Full-Dome Content on FB</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/uidelines-to-frame-your-youtube-creation-flow/"><u>[New] Guidelines to Frame Your YouTube Creation Flow</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-in-2024-embracing-the-world-of-no-cost-text-animation/"><u>[New] In 2024, Embracing the World of No-Cost Text Animation</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-chucklecanvas-funny-images-for-social-media-sharing/"><u>[Updated] 2024 Approved ChuckleCanvas Funny Images for Social Media Sharing</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-boosting-visual-impact-incorporate-apple-music/"><u>[Updated] Boosting Visual Impact Incorporate Apple Music</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-in-2024-dreaded-drawing-dynamo/"><u>[Updated] In 2024, Dreaded Drawing Dynamo</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/comprehensive-solutions-for-dealing-with-missing-msvcrtdll-errors-in-your-system/"><u>Comprehensive Solutions for Dealing with Missing msvcrt.dll Errors in Your System</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discover-the-best-7-alarm-apps-that-will-transform-your-mornings/"><u>Discover the Best 7 Alarm Apps That Will Transform Your Mornings!</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discover-the-finest-festive-savings-7-prime-airpods-bargains-for-holiday-shoppers-spotlighted-by-zdnet/"><u>Discover the Finest Festive Savings: 7 Prime AirPods Bargains for Holiday Shoppers - Spotlighted by ZDNet</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/envisioned-ai-evolution-within-the-workshop-space/"><u>Envisioned AI Evolution Within the Workshop Space</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/evaluating-chatgpt-plus-worthiness-unveil-these-5-persuasive-reasons-for-sign-up/"><u>Evaluating ChatGPT Plus Worthiness - Unveil These 5 Persuasive Reasons for Sign-Up</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-macos-11-big-sur-compatibility-guide/"><u>In 2024, MacOS 11 Big Sur Compatibility Guide</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/protect-your-privacy-learn-why-iphones-are-easily-discovered-in-journals-and-how-to-turn-off-this-feature/"><u>Protect Your Privacy: Learn Why iPhones Are Easily Discovered in Journals and How to Turn Off This Feature</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/recovered-your-vanished-images-with-ios-175-heres-what-to-do-insights-from-apple/"><u>Recovered Your Vanished Images with iOS 17.5? Here's What to Do - Insights From Apple</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/reviving-a-gpu-fan-immediate-fixes/"><u>Reviving a GPU Fan: Immediate Fixes</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/solving-800-errors-a-comprehensive-guide-to-resolve-clients-and-servers-vpn-issues/"><u>Solving 800 Errors: A Comprehensive Guide to Resolve Clients & Servers VPN Issues</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-rated-iphone-se-sleeve-2022-ultimate-defense-and-style-choice/"><u>Top Rated iPhone SE Sleeve 2022: Ultimate Defense & Style Choice</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/users-share-their-greatest-disappointments-after-upgrading-to-iphone-ios-18-you-wont-be-surprised/"><u>Users Share Their Greatest Disappointments After Upgrading to iPhone iOS 18 – You Won’t Be Surprised</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/youtube-video-shooting-equipment-list-what-you-need-to-start-recording-videos-for-2024/"><u>YouTube Video Shooting Equipment List What You Need to Start Recording Videos for 2024</u></a></li>
+</ul></div>
 

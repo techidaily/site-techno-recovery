@@ -1,7 +1,7 @@
 ---
 title: "Transforming Windows 11'S Look: A Tutorial on Changing Taskbar Colors"
-date: 2024-08-18T17:44:47.718Z
-updated: 2024-08-19T17:44:47.718Z
+date: 2025-02-08T16:27:12.020Z
+updated: 2025-02-11T18:17:52.078Z
 categories:
   - BestProducts
 description: "This Article Describes Transforming Windows 11'S Look: A Tutorial on Changing Taskbar Colors"
@@ -27,6 +27,11 @@ thumbnail: https://thmb.techidaily.com/fe5fb2202d31ead27c9d026582d857fbe91d9882c
 1. Click**Start** \>**Settings** .  
 ![Settings highlighted in the Windows 10 start menu.](https://www.lifewire.com/thmb/_3yFCu2vpkCj2sGFGwRKhs5fhyk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Settings-743b3fd7d16d4bd497ba9c57acea34e9.jpg)
 2. Click**Personalization** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Personalization highlighted in Windows 10 settings.](https://www.lifewire.com/thmb/wVm6EMDfsoVarlbSfz8mkWF1nWU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Personalizationannotated-23cf54124d3b4f02a4b3e7df15707474.jpg)
 3. Click**Colors** .  
 ![Colors highlighted in Windows personalization settings.](https://www.lifewire.com/thmb/h4AKm5Ov_-l9-WUa59FFlmGeFXE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Colorsannotated-3e87b0199bfb45ea813801b762278806.jpg)
@@ -39,27 +44,36 @@ thumbnail: https://thmb.techidaily.com/fe5fb2202d31ead27c9d026582d857fbe91d9882c
 7. Use the**color picker** to choose your custom color, and click**Done** .  
 ![Done highlighted in the Windows color picker.](https://www.lifewire.com/thmb/hGVjGq0ok4PwKRRjTNyRMCrpwQY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Doneannotated-e3cd94035aaa41fd840c08ca0229a5e7.jpg)
 8. Check**Start, taskbar, and action center** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Start, taskbar, and action center highlighted in Windows color settings.](https://www.lifewire.com/thmb/LPdVkLGGBF1YEkawGekexSLhfmQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Checkannotated-4039a9b9c80b4b75b1a3ade7dc789b60.jpg)
 9. Your taskbar will now reflect the custom color you chose.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![A Windows taskbar with a custom color.](https://www.lifewire.com/thmb/hvjLb5gR-qGVHlTSnJhsrlMQwBE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Taskbarannotated-749a9acd40234ceeb4d1894fa675beca.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Why Can’t I Change the Color of My Taskbar?
 
  If you can’t change the taskbar color in Windows 10, first make sure you have fully updated Windows. To change the taskbar color, you need to have the Windows 10 1903 feature update or newer. If you’re fully up to date, you need to make sure you set Choose Your Color to**Custom** and set Windows Mode to**Dark** .
 
 ![Colors menu in Windows 10. This menu houses the dark mode option.](https://www.lifewire.com/thmb/fUzWLhtj_44EGlchuXXx4vjABx8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/darkthemescreenshot-5c76fc2cc9e77c0001fd594b.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  You can set App Mode to either Light or Dark, but you won’t be able to change the color of the taskbar if you've set Windows Mode to Light. If the Start, taskbar, and action center box in your color settings are grayed out, it’s usually because Windows Mode is on the Light setting.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Why Has My Taskbar Changed Color in Windows 10?
 
  If you’ve noticed your taskbar color changed in Windows 10, you probably switched from dark mode to light mode. When you change between those two modes, the taskbar will automatically change colors. When the 1903 feature update arrived, introducing the ability to customize your taskbar color, it may have altered automatically at that time as well.
@@ -99,8 +113,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -108,4 +120,19 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-elevate-gaming-on-tv-obs-guide-for-2024/"><u>[New] Elevate Gaming on TV - OBS Guide for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-guide-to-using-eraser-tool-in-photoshop/"><u>[New] Guide to Using Eraser Tool In Photoshop</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-in-2024-all-around-vs-3d-visual-perspectives/"><u>[New] In 2024, All Around Vs 3D Visual Perspectives</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-crafting-digital-worlds-the-essential-software-list-for-animators/"><u>In 2024, Crafting Digital Worlds The Essential Software List for Animators</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/mac-professionals-choice-a-comprehensive-review-of-the-new-apple-studio-display-stunning-quality-at-a-high-price/"><u>Mac Professional's Choice? A Comprehensive Review of the New Apple Studio Display - Stunning Quality at a High Price</u></a></li>
+<li><a href="https://win-brilliant.techidaily.com/professionelle-methoden-zur-wiederherstellung-von-visio-dateien-ohne-datentrager-oder-loschvorgang/"><u>Professionelle Methoden Zur Wiederherstellung Von Visio-Dateien Ohne Datenträger- Oder Löschvorgang</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/resurrecting-windows-photo-viewer-windows-10-techniques-1-and-2-for-2024/"><u>Resurrecting Windows Photo Viewer Windows 10 Techniques #1 & #2 for 2024</u></a></li>
+<li><a href="https://fox-within.techidaily.com/solved-why-is-your-usb-port-failing-and-what-you-can-do-about-it-guidance-by-yl-software-experts/"><u>Solved! Why Is Your USB Port Failing and What You Can Do About It – Guidance by YL Software Experts</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-strategies-to-fix-the-ominous-black-screen-on-windows-11-devices/"><u>Step-by-Step Strategies to Fix the Ominous Black Screen on Windows 11 Devices</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-ultimate-trick-for-using-or-hiding-the-built-in-windows-10-screen-typing-tool/"><u>The Ultimate Trick for Using or Hiding the Built-In Windows 10 Screen Typing Tool</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-rated-macbook-gadgets-comprehensive-reviews-and-buyers-guide-techradar/"><u>Top-Rated MacBook Gadgets : Comprehensive Reviews & Buyer's Guide | TechRadar</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ultimate-guide-to-the-most-comfortable-and-stylish-apple-watch-straps-of-2024-expert-ratings-zdnet/"><u>Ultimate Guide to the Most Comfortable & Stylish Apple Watch Straps of 2024: Expert Ratings | ZDNet</u></a></li>
+</ul></div>
 

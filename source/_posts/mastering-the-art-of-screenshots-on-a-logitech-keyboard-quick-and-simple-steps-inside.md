@@ -1,7 +1,7 @@
 ---
 title: Mastering the Art of Screenshots on a Logitech Keyboard – Quick and Simple Steps Inside
-date: 2024-08-18T17:43:49.739Z
-updated: 2024-08-19T17:43:49.739Z
+date: 2025-02-04T23:29:19.575Z
+updated: 2025-02-11T23:09:28.462Z
 categories:
   - BestProducts
 description: This Article Describes Mastering the Art of Screenshots on a Logitech Keyboard – Quick and Simple Steps Inside
@@ -10,6 +10,11 @@ thumbnail: https://thmb.techidaily.com/cf39f69dc8e53bbf12e067db4360c2c57f8f63b26
 ---
 
 ## Mastering the Art of Screenshots on a Logitech Keyboard – Quick and Simple Steps Inside
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### What to Know
 
 * Windows: Press**Windows key+PrtSc** or**Windows key+Alt+PrtScn** to capture only the active window.
@@ -17,6 +22,10 @@ thumbnail: https://thmb.techidaily.com/cf39f69dc8e53bbf12e067db4360c2c57f8f63b26
 * Macs: Press**Shift+Command+3** or**Shift+Command+4** or**Shift+Command+4+Spacebar** for partial capture.
 
  This article explains how to screenshot on a Logitech keyboard. The instructions below apply to all Logitech keyboards, including the Logitech K780 Multi-Device Wireless Keyboard.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### How Do You Screenshot on a Logitech Wireless Keyboard?
 
@@ -33,8 +42,9 @@ thumbnail: https://thmb.techidaily.com/cf39f69dc8e53bbf12e067db4360c2c57f8f63b26
  You can also press**Shift+Command+4+Spacebar** to capture a specific screen element (such as a menu or app). To see all of your screenshot options, including a screen recorder, press**Shift+Command+5** .
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How Do You Print Screen on a Logitech Wireless Keyboard?
 
  A Camera icon may represent the Print Screen key (often shortened to PrtScr or PrtSc). It might have a dedicated key or share one of the function keys at the top of the keyboard.
@@ -44,11 +54,13 @@ thumbnail: https://thmb.techidaily.com/cf39f69dc8e53bbf12e067db4360c2c57f8f63b26
 ![Print Screen Key on a Dell XPS 13.](https://www.lifewire.com/thmb/69ba7xDN0RG382zPypUBUTaZYpE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A2-TakeaScreenshotonaDellLaptop-annotated-ec47a86d15a142dc8eb5a740ef6d3284.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 <!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Where Are My Screenshots Saved?
 
  On Windows, open the File Explorer and go to**This PC** \>**Pictures** \>**Screenshots** to see your screenshots. On Mac, screenshots are saved to the desktop.
@@ -86,8 +98,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -95,4 +105,22 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-posts.techidaily.com/new-in-2024-best-practices-for-leveraging-b-roll-content/"><u>[New] In 2024, Best Practices for Leveraging B-Roll Content</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/799-apple-m2-macbook-air-release-sets-new-standard-before-prime-day-latest-news-on-zdnet/"><u>$799 Apple M2 MacBook Air Release Sets New Standard Before Prime Day - Latest News on ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/facebook-free-chatting-navigating-the-use-of-messenger-without-a-social-network-account/"><u>Facebook-Free Chatting: Navigating the Use of Messenger without a Social Network Account</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-record-your-iphone-conversations-with-ios-18-no-more-third-party-dependence-zdnet-exploration/"><u>How to Record Your iPhone Conversations with iOS 18, No More Third-Party Dependence | ZDNET Exploration</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-sharefake-location-on-whatsapp-for-vivo-y100t-drfone-by-drfone-virtual-android/"><u>How to Share/Fake Location on WhatsApp for Vivo Y100t | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-stop-yourself-from-watching-youtube-on-an-ipad-tips-and-tricks/"><u>How To Stop Yourself From Watching YouTube On An iPad – Tips & Tricks</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-giggle-genesis-app/"><u>In 2024, Giggle Genesis App</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-remove-forgotten-pin-of-your-motorola-edge-40-neo-by-drfone-android/"><u>In 2024, How to Remove Forgotten PIN Of Your Motorola Edge 40 Neo</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/insights-on-the-forthcoming-tesla-mobile-device-speculated-price-points-release-dates-and-tech-specs-revealed/"><u>Insights on the Forthcoming Tesla Mobile Device - Speculated Price Points, Release Dates, and Tech Specs Revealed</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/mend-iphones-facebook-video-displays/"><u>Mend iPhones' Facebook Video Displays</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/oceans-bounty-best-cameras-for-anglers/"><u>Ocean's Bounty - Best Cameras for Anglers</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/pioneering-prompt-engineering-in-ai-classes/"><u>Pioneering Prompt Engineering in AI Classes</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/post-youtube-video-on-the-best-days-to-get-more-view/"><u>Post Youtube Video on the Best Days to Get More View</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-4-kid-friendly-ipad-picks-of-2022-expert-reviews-and-features/"><u>Top 4 Kid-Friendly iPad Picks of 2022 - Expert Reviews & Features</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/upcoming-ai-integration-in-smartphones-clues-from-apples-recent-acquisition-strategy-zdnet/"><u>Upcoming AI Integration in Smartphones? Clues From Apple's Recent Acquisition Strategy - ZDNet</u></a></li>
+</ul></div>
 

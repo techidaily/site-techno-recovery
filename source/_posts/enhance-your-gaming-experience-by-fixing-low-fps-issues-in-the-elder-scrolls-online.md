@@ -1,7 +1,7 @@
 ---
 title: Enhance Your Gaming Experience by Fixing Low FPS Issues in The Elder Scrolls Online
-date: 2024-08-18T16:36:09.387Z
-updated: 2024-08-19T16:36:09.387Z
+date: 2025-02-07T20:48:34.825Z
+updated: 2025-02-11T21:44:28.635Z
 tags:
   - win11
   - win10
@@ -50,9 +50,6 @@ To do so:
 
  The next time you start your Windows 10 system, the items you disabled won’t start automatically.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 ### Method 2: Configure your power plan
 
  You can’t release the full power of your Windows 10 system if you’re using a energy saving power plan. To optimize your device, you should check your power settings and change your power plan for better performance. Here’s how to do it.
@@ -71,6 +68,10 @@ To do so:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b2a293b83333.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Method 3: Update your system
 
  Installing updates for your system can fix your performance issues and make it run smoother. You should run Windows Update to update your Windows 10 operating system. To do so:
@@ -84,8 +85,9 @@ To do so:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b2a2dbf235d3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **3)** Click**Check for updates** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b2a2e1292ffc.jpg)
@@ -104,6 +106,10 @@ To do so:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b1a66b4a3dfe.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)**  Click the **Update**  button next to_each device_ to download the latest and correct driver for it, then you can manually install the driver. You can also click the **Update All**  button at the bottom right to automatically update all outdated or missing drivers on your computer (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  — you will be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b2090df306fe.jpg)
@@ -113,8 +119,9 @@ To do so:
  If you have any issue with Driver Easy, please contact Driver Easy’s support team at[**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) for advice. You should attach the URL of this article so they can help you better.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Method 4: Temporarily pause Windows Update
 
  Pausing updates from being installed prevents Windows Update from installing updates when you’re in the middle of a game (which is quite frustrating). Here’s how to do it.
@@ -130,20 +137,19 @@ To do so:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b3eea6be5120.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **3)** Turn on**Pause updates** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b3eeac6985cd.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Windows Update will be paused for up to 35 days. And after you resume it, you’ll only be able to re-pause it after you install the latest updates.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Method 5: Disable your visual effects
 
  Windows 10 has a lot of fancy visual effects, but they sometimes consume a large amount of system resources. If you don’t need those effects, you should disable them to make your computer run faster.
@@ -154,26 +160,25 @@ To do so:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b2a342a037e9.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
-<!-- affiliate ads end -->
 **3)** Click the**Advanced** tab, then click**Settings** in the_Performance_ section.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b2a355c28e29.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **4)** Click**Adjust for best performance** , then click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b2a35afc6368.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
-<!-- affiliate ads end -->
 **5)** Click**OK** .
 
  You’ve successfully turned off the visual effects of your Windows 10 system.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 6: Upgrade your computer hardware
 
@@ -190,8 +195,6 @@ To do so:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -199,4 +202,19 @@ To do so:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://discord-videos.techidaily.com/new-2024-approved-hottest-hooks-in-the-crowd-ultimate-discord-nicknames-guide/"><u>[New] 2024 Approved Hottest Hooks in the Crowd Ultimate Discord Nicknames Guide</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-understanding-and-utilizing-phantoms-time-dilation-for-2024/"><u>[New] Understanding and Utilizing Phantom’s Time-Dilation for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-how-to-get-royalty-free-clip-art/"><u>[Updated] How to Get Royalty Free Clip Art?</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/1-top-rated-smart-lock-app-revolutionizes-security-for-iphones-sleek-design-unparalleled-protection/"><u>1. Top-Rated Smart Lock App Revolutionizes Security for iPhones: Sleek Design, Unparalleled Protection!</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-navigating-lunapic-like-an-ace-photographer/"><u>2024 Approved Navigating LunaPic Like an Ace Photographer</u></a></li>
+<li><a href="https://discover-help.techidaily.com/iuwujowfqoocroocpooditrjgbljgb7jgojgorli5xnllvjga7lronlhajjgarjg4djgqbjg7pjg63jg7zjg4nmlrnms5ui/"><u>完全ガイド:ひまわり動画の安全なダウンロード方法</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/all-in-one-video-solutions-by-movavi-seamless-screen-camera-and-audio-recording-for-professionals/"><u>All-in-One Video Solutions by Movavi: Seamless Screen, Camera & Audio Recording for Professionals</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/essential-guide-how-to-get-your-new-ipad-ready-and-up-and-running-tips-from-zdnet/"><u>Essential Guide: How to Get Your New iPad Ready and Up & Running - Tips From ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/navigating-facebooks-hidden-gem-a-guide-to-finding-and-using-marketplace/"><u>Navigating Facebook's Hidden Gem: A Guide to Finding and Using Marketplace</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/staying-informed-recent-facebook-alterations-for-2024/"><u>Staying Informed Recent Facebook Alterations for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-guide-to-preordering-new-tech-iphone-15-apple-watch-series-ultra-save-big-zdnet/"><u>Step-by-Step Guide to Preordering New Tech: IPhone 15, Apple Watch Series Ultra - Save Big | ZDNET</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-installation-of-libreoffice-for-mac-users-seeking-free-office-software-solutions-zdnet-insights/"><u>Step-by-Step Installation of LibreOffice for Mac Users Seeking Free Office Software Solutions | ZDNET Insights</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: The Ultimate List of Tricks to Go Viral and Boost Your Presence on TikTok
-date: 2025-01-26T16:19:17.864Z
-updated: 2025-01-30T16:13:51.214Z
+date: 2025-02-09T16:15:26.102Z
+updated: 2025-02-11T16:15:14.761Z
 categories:
   - BestProducts
 description: This Article Describes The Ultimate List of Tricks to Go Viral and Boost Your Presence on TikTok
@@ -19,6 +19,10 @@ thumbnail: https://www.lifewire.com/thmb/YbDBqWuVP0UM_nU0--_fa-ISvG0=/400x300/fi
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Enable Gmail Shortcuts
 
  To use Gmail shortcuts, you must first enable them in the **Settings** menu.
@@ -28,7 +32,7 @@ thumbnail: https://www.lifewire.com/thmb/YbDBqWuVP0UM_nU0--_fa-ISvG0=/400x300/fi
 2. Scroll down to the **Keyboard shortcuts** section and select **Keyboard shortcuts on** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![The Keyboard Shortcuts on/off buttons highlighted on Gmail's Settings screen.](https://www.lifewire.com/thmb/lPV2-ew-bY8v5xkR1Y6pZ0fLprc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A2-BestGmailKeyboardShortcuts-annotated-639cd7b44f654d4a9fc5e371f7ebae28.jpg)
@@ -37,7 +41,7 @@ thumbnail: https://www.lifewire.com/thmb/YbDBqWuVP0UM_nU0--_fa-ISvG0=/400x300/fi
 ![The Save Changes button highlighted on Gmail's Settings screen.](https://www.lifewire.com/thmb/Ti1cWFQAWPKtDw4DsaTTA96KzR0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/A3-BestGmailKeyboardShortcuts-annotated-bab1aa8c28204ee494f3daa266fd0100.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Create, Send, and Forward Email
@@ -66,15 +70,15 @@ thumbnail: https://www.lifewire.com/thmb/YbDBqWuVP0UM_nU0--_fa-ISvG0=/400x300/fi
 * **Scroll up an email list (K)** : Press the**K** key to scroll up.
 * **Scroll through an email thread (N)** : Press**N** to quickly scroll down multiple conversations in a thread.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Select Multiple Emails
 
  Need to select a bunch of emails at the same time? This shortcut will save you from having to click on each email separately:
 
 * **Select multiple emails in a row (Shift)** : Check the box beside the first email in the series, then press and hold the**Shift** key and check the box for the last email in the series. Everything between both boxes will be selected.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to Add Formatting to Email Text
 
@@ -97,10 +101,6 @@ thumbnail: https://www.lifewire.com/thmb/YbDBqWuVP0UM_nU0--_fa-ISvG0=/400x300/fi
 
  On Mac computers, use the**Command** key in place of the**Ctrl** key.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Email Maintenance Shortcuts
 
  Use these shortcuts to help manage your inbox:
@@ -110,6 +110,10 @@ thumbnail: https://www.lifewire.com/thmb/YbDBqWuVP0UM_nU0--_fa-ISvG0=/400x300/fi
 * **Delete an email (Shift** +**3)** : Open an email or select it by clicking the box beside the sender's name, then press**Shift** +**3** to[send the email to the trash](https://www.lifewire.com/how-to-delete-with-a-swift-keyboard-shortcut-in-gmail-1172079) .
 * **Mark an email as unread (Shift** +**U)** : Open an email or select it by clicking the box beside the sender's name, then press**Shift** +**U** to mark it as unread.
 * **Mark a message as important (Shift** +**\=)** : Open an email or select it by clicking the box beside the sender's name, then press**Shift** +**\=** to mark it as important.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## "Go to" Shortcuts in Gmail
 
@@ -130,10 +134,6 @@ thumbnail: https://www.lifewire.com/thmb/YbDBqWuVP0UM_nU0--_fa-ISvG0=/400x300/fi
 * **Open keyboard shortcut help (Shift** +**?)** : Press**Shift** +**?** to get the full list of Gmail keyboard shortcuts.
 
 ![Press Shift + ? to get the full list of Gmail keyboard shortcuts anytime.](https://www.lifewire.com/thmb/5ON5QzCh_hrJrz93Hlci-4WmI4Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004_best-gmail-keyboard-shortcuts-4686794-0852ef75c64547feb336f96dbb1be04e.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Was this page helpful?
 
@@ -164,19 +164,24 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://techno-recovery.techidaily.com/email-protected-exciting-rumors-and-anticipated-innovations-for-apples-upcoming-event/"><u>[Email Protected]: Exciting Rumors and Anticipated Innovations for Apple's Upcoming Event</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-explore-best-gopro-cases-rated-1-10/"><u>[New] 2024 Approved Explore Best GoPro Cases Rated #1-10</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/avigating-brand-growth-with-youtubes-essential-top-5-video-marketing-techniques/"><u>[New] Navigating Brand Growth with YouTube's Essential #Top 5 Video Marketing Techniques</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-experience-engaged-youtube-exchanges/"><u>[Updated] Experience Engaged YouTube Exchanges</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-the-final-touch-youtube-outro-essentials-plus-premier-creator-list-for-2024/"><u>[Updated] The Final Touch YouTube Outro Essentials + Premier Creator List for 2024</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/updated-the-key-elements-of-a-high-impact-tiktok-promotion-for-2024/"><u>[Updated] The Key Elements of a High-Impact TikTok Promotion for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/can-we-still-trust-openais-oversight-over-chatgpt/"><u>Can We Still Trust OpenAI's Oversight Over ChatGPT?</u></a></li>
-<li><a href="https://some-tips.techidaily.com/discover-the-top-electric-smoking-devices-of-2023-expert-picks-and-reviews/"><u>Discover the Top Electric Smoking Devices of 2023 - Expert Picks and Reviews</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/effortless-troubleshooting-winning-against-camera-app-failures/"><u>Effortless Troubleshooting: Winning Against Camera App Failures</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-xiaomi-14-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Xiaomi 14 If I Forgot Security Code or Password? | Dr.fone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/resolving-the-avcodecdll-file-absence-issue-step-by-step-guide/"><u>Resolving the Avcodec.dll File Absence Issue: Step-by-Step Guide</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/the-ultimate-fix-nine-strategies-for-when-airpods-refuse-to-charge/"><u>The Ultimate Fix: Nine Strategies for When AirPods Refuse to Charge</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/troubleshooting-tips-dealing-with-the-missing-rockaldlldll-error/"><u>Troubleshooting Tips: Dealing with the MISSING rockaldll.dll Error</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/ultimate-guide-to-the-best-wireless-phone-charger-picks-tested-and-reviewed-by-specialists-cnet/"><u>Ultimate Guide to the Best Wireless Phone Charger Picks , Tested & Reviewed by Specialists | CNET</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-9-powerful-methods-to-make-money-on-your-youtube-shorts-for-2024/"><u>[Updated] 9 Powerful Methods to Make Money on Your YouTube Shorts for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-11-ranked-audio-recorders-of-the-year/"><u>[Updated] In 2024, 11 Ranked Audio Recorders of the Year</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/199-ipad-deal-alert-shop-smart-during-amazons-biggest-labor-day-sale-insider-tips-from-zdnet-revealed/"><u>$199 iPad Deal Alert: Shop Smart During Amazon's Biggest Labor Day Sale – Insider Tips From ZDNET Revealed!</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-video-files-on-vivo-v27e-by-fonelab-android-recover-video/"><u>Complete guide for recovering video files on Vivo V27e</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/easy-guide-updating-your-microsoft-powerpoint-presentations/"><u>Easy Guide: Updating Your Microsoft PowerPoint Presentations</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/exploring-gadgets-with-toms-technology-digest-in-depth-evaluations/"><u>Exploring Gadgets with Tom's Technology Digest: In-Depth Evaluations</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/exploring-the-future-of-your-iphone-the-exciting-ai-features-coming-with-ios-nineteen/"><u>Exploring the Future of Your iPhone: The Exciting AI Features Coming with iOS Nineteen!</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-restore-functionality-of-unresponsive-zoom-video-cameras/"><u>How to Restore Functionality of Unresponsive Zoom Video Cameras</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-tecno-pop-7-pro-phone-without-any-data-loss-by-drfone-android/"><u>How to Unlock Tecno Pop 7 Pro Phone without Any Data Loss</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-full-guide-to-catch-100-iv-pokemon-using-a-map-on-oppo-reno-8t-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Catch 100 IV Pokémon Using a Map On Oppo Reno 8T 5G | Dr.fone</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/inside-look-the-power-of-recmeister-capturing-features/"><u>Inside Look The Power of Recmeister Capturing Features</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/snappy-and-straightforward-win11-screening/"><u>Snappy & Straightforward Win11 Screening</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-tutorial-for-opening-rar-files-with-a-mac-computer/"><u>Step-by-Step Tutorial for Opening RAR Files with a Mac Computer</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/1722895868914-streamlining-communication-the-power-of-labels-in-gmail-organization/"><u>Streamlining Communication: The Power of Labels in Gmail Organization</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-nokia-c02-by-drfone-android/"><u>The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Nokia C02</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1723862775724-toms-computer-components-in-depth-reviews-and-insights/"><u>Tom's Computer Components: In-Depth Reviews and Insights</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-tier-luxury-meets-functionality-the-ultimate-titanium-apple-watch-band-reviewed-by-zdnet/"><u>Top-Tier Luxury Meets Functionality: The Ultimate Titanium Apple Watch Band Reviewed by ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ultimate-guide-resolving-fm20dll-file-missing-issues/"><u>Ultimate Guide: Resolving Fm20.dll File Missing Issues</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/wasteland-2-enhanced-directors-edition-evaluated-gripping-tactical-rpg-experience/"><u>Wasteland 2 - Enhanced Director's Edition Evaluated: Gripping Tactical RPG Experience</u></a></li>
 </ul></div>
 

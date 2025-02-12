@@ -1,7 +1,7 @@
 ---
 title: "Nostalgic Entertainment: Discover the Best Films From the Iconic 1980S Era"
-date: 2024-08-18T17:43:23.157Z
-updated: 2024-08-19T17:43:23.157Z
+date: 2025-02-04T23:46:20.332Z
+updated: 2025-02-11T23:17:45.884Z
 categories:
   - BestProducts
 description: "This Article Describes Nostalgic Entertainment: Discover the Best Films From the Iconic 1980S Era"
@@ -19,6 +19,10 @@ In This Article
 * [Frequently Asked Questions](https://www.lifewire.com/#toc-frequently-asked-questions-c6fed4bb-9136-4083-9e82-76db0f224b34)
 
  _Heading back to school each year involves more than grabbing a backpack and pencils, whether you're studying online, in a building, or via homeschooling. My kids are in middle and high school, with a college student in the mix as well. Our family has found different tech tools helpful at various points in their educational journeys._
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Must-Haves: Computers, Laptops and Peripherals
 
@@ -44,6 +48,10 @@ Skynesher/Getty
 
  As you make your purchases, consider how long the item will last with your child. Some kids are rough on technology, while others are more thoughtful and responsible; age often dictates how nice I'm willing to purchase for a specific child.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Look for Student Discounts
 
  Check for discounts before you buy! Several major tech manufacturers offer student discounts, including HP and[Dell](https://www.lifewire.com/dell-student-discount-4686335) . Some retailers, like[Best Buy](https://www.lifewire.com/best-buy-student-discount-4684485) , offer back-to-school deals as well.
@@ -61,8 +69,9 @@ Skynesher/Getty
 ![](<https://www.lifewire.com/data:image/svg+xml,%3Csvg> width=%275751%27 height=%272313%27 xmlns=%27<http://www.w3.org/2000/svg%27%3E%3Cg%3E%3C/g%3E%3C/svg%3E>) ![Hands holding a smartphone with a red smartwatch on wrist over a pencil and paper.](https://www.lifewire.com/thmb/nSqWQLOUlnMzLJD1rc7f4f2qO5g=/1500x0/filters:no_upscale():max_bytes(200000):strip_icc():format(webp)/smartwatchandphone_yacobchuk_GettyImages-693332444_CROPPED-616820cc68f645c09d7153ccc1de07ff.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Connections: The Power of Phones and Smartwatches
 
  Phones can be a bone of contention for parents and kids everywhere, but the simple fact of the matter is they are fast becoming a staple for students from middle school and up.
@@ -90,21 +99,19 @@ Skynesher/Getty
 ![](<https://www.lifewire.com/data:image/svg+xml,%3Csvg> width=%275483%27 height=%272329%27 xmlns=%27<http://www.w3.org/2000/svg%27%3E%3Cg%3E%3C/g%3E%3C/svg%3E>) ![Composite drawing of books apps and devices against a blue background.](https://www.lifewire.com/thmb/afdEJWLn5Hja0WRtjgBJQP3K-8k=/1500x0/filters:no_upscale():max_bytes(200000):strip_icc():format(webp)/Compositedrawingofbooksappsanddevices_grapihcnoi_GettyImages-174551865_CROPPED-17467a01a2e44bf98bfc135e8a7cff43.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Using Apps and Sites Can Support Good Study Habits
 
  Be careful and thoughtful if you're considering using ChatGPT for your child. It can certainly be helpful in some ways (think: helping to spark ideas for a snappy essay title), but AI tools like this essentially scrub the internet for information, which isn't always accurate and can frequently be considered plagiarism if used verbatim. Encourage your child to do their internet research instead.
 
 ![Female student walking with a tablet, smartphone, and headphones.](https://www.lifewire.com/thmb/xlh2OPH52kBp--XJzwjVyR_lZN0=/960x0/filters:no_upscale():max_bytes(200000):strip_icc():format(webp)/Studentwithtabletphoneheadphones_COROIMAGE_GettyImages-1429193388_VERTICALCROP-5f30ba23f2f64ada861c3283ce518740.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
-</a>
-<!-- affiliate ads end -->
  Back to school means more than finding the right books this year. While those are crucial (and often spendy), a frequently overlooked aspect of getting back into the school groove involves finding and using the right apps to support learning, enhance productivity, and improve organization tactics.
 
  If your child loves using their smartphone, give them something parent-approved to use!
@@ -144,14 +151,11 @@ Skynesher/Getty
 * What percentage of schools use technology?  
  About 45 percent of all schools have a computer for every student; another 37 percent provide computers for students in at least some grades or classrooms. More than 70 percent of schools say their teachers use technology for activities usually done in the classroom. Source: The Institute of Education Sciences.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -160,4 +164,21 @@ Skynesher/Getty
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-achieve-professionalism-in-sims-4-videography/"><u>[New] 2024 Approved Achieve Professionalism in Sims 4 Videography</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-adventure-awaits-in-these-top-5-samsung-gear-vr-titles/"><u>[New] Adventure Awaits in These Top 5 Samsung Gear VR Titles</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-top-10-camcorders-ultimate-picks-expert-reviews/"><u>[New] In 2024, Top 10 Camcorders Ultimate Picks – Expert Reviews</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-beginners-walkthrough-for-screencastify-recorder/"><u>[Updated] In 2024, Beginner's Walkthrough for Screencastify Recorder</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/1728505551580-windows-11-4/"><u>修正 Windows 11 系統積壓舉動：4 道解決方法逐一指南</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/1722871359638-comparing-ipad-pro-and-macbook-air-unveiling-key-distinctions/"><u>Comparing IPad Pro and MacBook Air: Unveiling Key Distinctions</u></a></li>
+<li><a href="https://facebook.techidaily.com/efficient-disassembly-method-for-facebook-communities/"><u>Efficient Disassembly Method for Facebook Communities</u></a></li>
+<li><a href="https://fox-access.techidaily.com/essential-gopro-video-editor-companies-for-2024/"><u>Essential GoPro Video Editor Companies for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/save-big-on-dual-functional-macbook-stand-and-charging-station-offer-at-just-102/"><u>Save Big on Dual-Functional MacBook Stand & Charging Station Offer at Just $102</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/seamless-integration-using-google-home-remote-features-on-a-computer/"><u>Seamless Integration: Using Google Home Remote Features on a Computer</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-ultimate-list-of-iphone-16-pro-enhancements-what-makes-it-a-must-have-for-gadget-fans-spotlight-by-zdnet/"><u>The Ultimate List of iPhone 16 Pro Enhancements: What Makes It a Must-Have for Gadget Fans | Spotlight by ZDNET</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-5-mobile-gaming-devices-a-comprehensive-review-by-zdnet/"><u>Top 5 Mobile Gaming Devices : A Comprehensive Review by ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/understanding-wi-fi-conversations-a-complete-guide-to-wi-fi-calling-explained/"><u>Understanding Wi-Fi Conversations: A Complete Guide to Wi-Fi Calling Explained</u></a></li>
+<li><a href="https://solve-popular.techidaily.com/1728479905912-windows-11/"><u>Windows 11 画面右下の「システム要件不足」の透かしを消す方法</u></a></li>
+</ul></div>
 

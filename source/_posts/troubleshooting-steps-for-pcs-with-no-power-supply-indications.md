@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Steps for PCs with No Power Supply Indications
-date: 2024-08-18T17:45:54.061Z
-updated: 2024-08-19T17:45:54.061Z
+date: 2025-02-05T16:06:23.577Z
+updated: 2025-02-11T22:02:59.543Z
 categories:
   - BestProducts
 description: This Article Describes Troubleshooting Steps for PCs with No Power Supply Indications
@@ -10,6 +10,11 @@ thumbnail: https://www.lifewire.com/thmb/joDsZndY7vZBx-4n02KyTPDQHUM=/400x300/fi
 ---
 
 ## Configure Anything with These Simple Steps for a Universal Remote Control
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### What to Know
 
 * First, put the control into pairing mode by holding some combination of the**Device** ,**Power** , and other buttons.
@@ -21,6 +26,10 @@ thumbnail: https://www.lifewire.com/thmb/joDsZndY7vZBx-4n02KyTPDQHUM=/400x300/fi
 [How to Program an RCA Universal Remote](https://www.lifewire.com/program-rca-universal-remote-5201320)
 
  Specific programming options and steps may vary with each universal remote control brand and model. The following are examples of options you might see and steps that may be required.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Direct Code Entry
 
@@ -35,9 +44,6 @@ thumbnail: https://www.lifewire.com/thmb/joDsZndY7vZBx-4n02KyTPDQHUM=/400x300/fi
 6. After programming, see if the universal remote controls the basic functions of your device. For example, a universal remote should turn a TV off and on, change the volume, channel, and source input.  
  If you're using Direct Code Entry, write the successful code(s) in your user guide for later reference.
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Auto Code Search
 
  You can use Auto Code Search if you don't have access to the specific code for the brand or type of device you wish to control. The remote will search through its database, testing several codes at a time.
@@ -53,9 +59,6 @@ thumbnail: https://www.lifewire.com/thmb/joDsZndY7vZBx-4n02KyTPDQHUM=/400x300/fi
 7. Press the**Stop** button to save the code.
 8. Test several functions on the remote and see if they work for your device.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Brand Code Search
 
  Using a similar procedure as Auto Code Search, you may be able to narrow down your search to just a single brand. This search comes in handy if the brand provides more than one code.
@@ -73,9 +76,6 @@ thumbnail: https://www.lifewire.com/thmb/joDsZndY7vZBx-4n02KyTPDQHUM=/400x300/fi
 9. Use several buttons (volume, etc.) to see if your remote can now control the device.
 10. If your device doesn't turn off and the LED light blinks four times, you've exhausted the codes for that brand and need to use another programming method.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Manual Code Search
 
  Instead of having the remote scan through all, or brand, codes automatically, you may also be able to program the remote by having it check each code one at a time. However, keep in mind that this process can take a long time since there are so many codes.
@@ -89,9 +89,9 @@ thumbnail: https://www.lifewire.com/thmb/joDsZndY7vZBx-4n02KyTPDQHUM=/400x300/fi
 5. If your device fails to turn off, press the**Power** button again so that the remote tests the following code in the database. Perform this step until it finds a code.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Programming via IR Learning
 
  If supported, the IR learning method requires placing your universal remote and the remote of a device you wish to control so that they are pointing at each other. This process allows IR control light beams to transmit from the original device remote to the universal remote.
@@ -104,8 +104,9 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
  This process is long and tedious, especially if you have several devices you want to control. However, if you don't have access to the remote control codes or other methods fail, you may be able to use the IR learning process as your last result, provided your Universal Remote supports this programming option.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Programming via PC
 
  Another programming option available for some remotes is with a PC. One brand that supports this option is[Logitech Harmony](https://www.logitech.com/en-us/harmony-universal-remotes) .
@@ -119,12 +120,9 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 3. [Create Activities](https://support.myharmony.com/en-us/understanding-harmony-activities) that allow you to turn on and perform several additional tasks across multiple devices at the same time.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## The Bottom Line
 
  A universal remote is a great way to clear that space on your coffee table, but also keep the following in mind:
@@ -167,8 +165,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -176,4 +172,26 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-info.techidaily.com/new-pixelperfect-video-creator-for-2024/"><u>[New] PixelPerfect Video Creator for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-the-ultimate-review-of-ispring-recording-tech/"><u>[Updated] 2024 Approved The Ultimate Review of iSpring Recording Tech</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-realigning-lens-distortion-essential-gopro-correction-guide-for-2024/"><u>[Updated] Realigning Lens Distortion Essential GoPro Correction Guide for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unleash-potential-on-reddit-essential-post-guidelines-reviewed/"><u>[Updated] Unleash Potential on Reddit Essential Post Guidelines Reviewed</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/apple-pencil-inspired-design-patented-for-vision-pro-controller-a-closer-look-revealed-on-zdnet/"><u>Apple Pencil-Inspired Design Patented for Vision Pro Controller: A Closer Look Revealed on ZDNet</u></a></li>
+<li><a href="https://howto.techidaily.com/bricked-your-poco-c65-heres-a-full-solution-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Bricked Your Poco C65? Heres A Full Solution | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatgpt-plug-in-hub-4-key-improvements-to-enhance-user-satisfaction/"><u>ChatGPT Plug-In Hub – 4 Key Improvements to Enhance User Satisfaction</u></a></li>
+<li><a href="https://fox-place.techidaily.com/comment-reussir-efficacement-vos-mises-a-jour-sur-windows-11-les-meilleures-pratiques/"><u>Comment Réussir Efficacement Vos Mises À Jour Sur Windows 11 : Les Meilleures Pratiques</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/crafting-clear-accessible-podcast-xml-files-for-listeners-for-2024/"><u>Crafting Clear, Accessible Podcast XML Files for Listeners for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/game-changer-for-bikers-experience-the-magic-of-photochromic-smart-glasses-with-hud-technology-insights-from-zdnet/"><u>Game Changer for Bikers: Experience the Magic of Photochromic Smart Glasses with HUD Technology | Insights From ZDNET</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-get-back-lost-photos-from-asus-rog-phone-7-ultimate-by-fonelab-android-recover-photos/"><u>How to get back lost photos from Asus ROG Phone 7 Ultimate.</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/iphone-update-made-easy-unlocking-the-potential-of-ios-18-eligible-models-and-download-instructions/"><u>IPhone Update Made Easy: Unlocking the Potential of iOS 18 – Eligible Models and Download Instructions</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/maximize-apple-watch-longevity-with-these-easy-adjustments-to-power-consumption-settings/"><u>Maximize Apple Watch Longevity with These Easy Adjustments to Power Consumption Settings</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/quick-fixes-for-optimizing-your-slow-internet-speed/"><u>Quick Fixes for Optimizing Your Slow Internet Speed</u></a></li>
+<li><a href="https://win11.techidaily.com/resurrecting-an-inactive-printer-a-windows-guide/"><u>Resurrecting an Inactive Printer: A Windows Guide</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/samsungs-galaxy-ai-growth-dominates-as-google-faces-antitrust-challenges-in-latest-tech-rankings-insight/"><u>Samsung’s Galaxy AI Growth Dominates as Google Faces Antitrust Challenges in Latest Tech Rankings - Insight</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-10-ways-apples-ai-must-evolve-to-challenge-openai-and-google-insights/"><u>Top 10 Ways Apple's AI Must Evolve to Challenge OpenAI & Google: Insights</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unlocking-new-levels-of-performance-the-impact-of-photochromic-glasses-on-my-biking-adventure-zdnet-insights/"><u>Unlocking New Levels of Performance: The Impact of Photochromic Glasses on My Biking Adventure | ZDNET Insights</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/upcoming-benefits-in-selected-apple-airpod-models-set-to-launch-this-autumn-a-closer-look/"><u>Upcoming Benefits in Selected Apple AirPod Models Set to Launch This Autumn: A Closer Look</u></a></li>
+</ul></div>
 

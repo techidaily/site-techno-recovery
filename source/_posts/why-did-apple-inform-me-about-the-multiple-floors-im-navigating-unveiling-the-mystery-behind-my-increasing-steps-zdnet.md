@@ -1,7 +1,7 @@
 ---
 title: Why Did Apple Inform Me About the Multiple Floors I'm Navigating? Unveiling the Mystery Behind My Increasing Steps | ZDNet
-date: 2025-01-25T18:13:27.149Z
-updated: 2025-01-30T17:23:27.379Z
+date: 2025-02-08T00:30:43.359Z
+updated: 2025-02-11T20:40:14.928Z
 tags:
   - apple
 categories:
@@ -23,7 +23,7 @@ The display sizes of small tablets can range from six to 10 inches, with eight i
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What is the best small tablet right now?
@@ -48,7 +48,7 @@ Cons
 ## Apple iPad Mini 6th Generation
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Best small tablet overall
@@ -82,6 +82,10 @@ Cons
 * Performance is slightly slow
 * Cameras aren't as great as other options
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Amazon Fire 7 Tablet
 
 ### Best budget small tablet
@@ -113,6 +117,10 @@ Pros
 Cons 
 * Expensive
 * Some complaints of lag
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Boox Tab Mini C
 
@@ -146,7 +154,7 @@ Cons
 ## Amazon Kindle 11th generation
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Best small tablet for reading
@@ -177,10 +185,6 @@ Pros
 Cons 
 * Performance could be better
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Samsung Galaxy Tab A7 Lite
 
 ### Best Samsung small tablet
@@ -196,7 +200,7 @@ In addition, you can expand your storage beyond the 32GB or 64GB allotted. The t
 Show Expert Take Show less 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What is the best small tablet?
@@ -210,6 +214,10 @@ The best small tablet is the iPad Mini because of its sharp display and impressi
 | Boox Tab Mini C        | $400      | 7.8 inches          | Electronic ink    |
 | Amazon Kindle          | $100      | 6 inches            | 300ppi glare-free |
 | Samsung Galaxy A7 Lite | $100      | 8.7 inches          | 1340x800 pixels   |
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Which small tablet is right for you?
 
@@ -232,10 +240,6 @@ We know there are a lot of tablets and tablet sizes to choose from, but ultimate
 * **Battery life:** A device's battery life is important no matter its size, so we considered devices that can last you all day.
 * **Price:** Tablets vary in price range from affordable to expensive depending on brand and purpose, so we made sure to choose tablets at various price points to accommodate different budgets.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How we test tablets
 
 The ZDNET team chose all of the tablets included in this list based on their performance when [tested in the real world](https://www.zdnet.com/article/how-we-test-tablets-at-zdnet-in-2024/). When we test tablets, we typically follow the same routine for each one to see which performs best.
@@ -253,10 +257,6 @@ For a deeper look into our testing process, check out our comprehensive [tablet 
 The smallest tablet screen size on the market is 6 to 7 inches. Anything smaller would be more similar to a smartphone.
 
 It's why you want to consider your primary uses when considering which small tablet is right for you. To demonstrate, if you travel often, one with a smaller screen will be perfect for carrying/using on an airplane. If your aim is to read more e-books or draw, you'll want one with a larger screen. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What brand of tablet is best?
 
@@ -322,18 +322,20 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/actical-video-migration-youtube-to-dailymotion-masterclass-for-2024/"><u>[New] Tactical Video Migration YouTube to Dailymotion Masterclass for 2024</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-transferring-twitter-videos-to-whatsapp-effortlessly-for-2024/"><u>[Updated] Transferring Twitter Videos to WhatsApp Effortlessly for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/24-pro-find-out-in-this-in-depth-analysis-techradar/"><u>24 Pro? Find Out in This In-Depth Analysis! - TechRadar</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/apple-discontinues-finewoven-collection-in-favor-of-new-partnership-with-beats-exclusive-insights-techcrunch/"><u>Apple Discontinues FineWoven Collection in Favor of New Partnership with Beats - Exclusive Insights | TechCrunch</u></a></li>
-<li><a href="https://program-issues.techidaily.com/battlefront-iis-shader-woes-master-quick-tweaks-for-smoother-gameplay/"><u>Battlefront II's Shader Woes? Master Quick Tweaks for Smoother Gameplay!</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210968395-9781088227381-encuentros-con-la-verdad/"><u>Encuentros con la Verdad | Free Book</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/exclusive-deal-before-holidays-high-quality-used-apple-tv-and-free-siri-remote-priced-at-only-75-with-zdnets-expert-analysis/"><u>Exclusive Deal Before Holidays: High-Quality Used Apple TV & Free Siri Remote, Priced at Only $75 with ZDNet's Expert Analysis!</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/fixing-absence-of-color-on-game-feedback-for-2024/"><u>Fixing Absence of Color on Game Feedback for 2024</u></a></li>
-<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-samsung-galaxy-s23-tactical-edition-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Samsung Galaxy S23 Tactical Edition Devices | Dr.fone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/how-can-i-create-and-maintain-multiple-channels-on-youtube-successfully/"><u>How Can I Create and Maintain Multiple Channels on YouTube Successfully?</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-a-comprehensive-guide-to-icloud-unlock-on-apple-iphone-8-online-by-drfone-ios/"><u>In 2024, A Comprehensive Guide to iCloud Unlock On Apple iPhone 8 Online</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/may-2024s-top-atandt-phone-promotions-revealed-by-zdnet-for-maximum-value-and-quality-service/"><u>May 2024'S Top AT&T Phone Promotions Revealed by ZDNET for Maximum Value and Quality Service</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/1722992108830-troubleshoot-your-age-of-empires-iv-setup-overcome-stubborn-download-failures-with-our-tips/"><u>Troubleshoot Your Age of Empires IV Setup - Overcome Stubborn Download Failures with Our Tips</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-from-novice-to-expert-ascending-with-asmr-video-production-tactics/"><u>[Updated] From Novice to Expert Ascending with ASMR Video Production Tactics</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-assessing-screen-recorder-excellence-in-action/"><u>[Updated] In 2024, Assessing Screen Recorder Excellence in Action</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/best-british-tv-dramas-available-on-netflix-this-week/"><u>Best British TV Dramas Available on Netflix This Week</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhanced-pc-performance-with-auto-windows-and-amd-update/"><u>Enhanced PC Performance with Auto-Windows & AMD Update</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/essential-quick-start-secrets-for-rookie-users-of-x-previously-twitter/"><u>Essential Quick-Start Secrets for Rookie Users of X (Previously Twitter)</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-text-messages-from-motorola-edge-40-neo-to-new-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Text Messages from Motorola Edge 40 Neo to New Phone | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ios-18-update-a-step-by-step-guide-to-tailoring-your-iphones-control-center/"><u>IOS 18 Update: A Step-by-Step Guide to Tailoring Your iPhone's Control Center</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/master-the-art-of-securing-a-video-game-refund-on-steam/"><u>Master the Art of Securing a Video Game Refund on Steam</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/maximizing-productivity-setting-up-a-fully-equipped-home-office-with-your-ipad-pro-insights-and-tips/"><u>Maximizing Productivity: Setting Up a Fully Equipped Home Office with Your iPad Pro - Insights & Tips</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/new-2024-approved-what-is-an-ai-editor/"><u>New 2024 Approved What Is an AI Editor?</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-mastering-titles-in-fcpx-essential-skills-for-video-editors-for-2024/"><u>New Mastering Titles in FCPX Essential Skills for Video Editors for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-your-pc-how-to-restore-windows-1er-volume-control-functionality/"><u>Troubleshooting Your PC: How to Restore Windows 1Er Volume Control Functionality</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/ultimate-guide-to-catch-the-regional-located-pokemon-for-infinix-smart-8-pro-drfone-by-drfone-virtual-android/"><u>Ultimate Guide to Catch the Regional-Located Pokemon For Infinix Smart 8 Pro | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/understanding-ios-175s-photo-resurrection-feature-apples-insights-and-user-actions-explained-zdnet/"><u>Understanding iOS 17.5'S Photo Resurrection Feature - Apple's Insights and User Actions Explained | ZDNET</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unveiling-the-secret-a-guide-to-activating-and-utilizing-the-stealthy-file-explorer-shortcut/"><u>Unveiling the Secret: A Guide to Activating & Utilizing the Stealthy File Explorer Shortcut</u></a></li>
 </ul></div>
 

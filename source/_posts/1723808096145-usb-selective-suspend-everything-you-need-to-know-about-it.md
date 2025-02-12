@@ -1,7 +1,7 @@
 ---
 title: USB Selective Suspend - Everything You Need to Know About It!
-date: 2024-08-18T16:35:17.292Z
-updated: 2024-08-19T16:35:17.292Z
+date: 2025-02-09T00:03:45.706Z
+updated: 2025-02-11T21:26:55.003Z
 tags:
   - win11
   - win10
@@ -25,29 +25,35 @@ If you see an error message popping up when you plug in your USB device saying t
 
 Part 1:[**What is USB selective suspend?**](https://tools.techidaily.com/drivereasy/download/)Part 2:[**Should I disable it or enable it?**](https://tools.techidaily.com/drivereasy/download/)Part 3: **[If I want to disable it, how can I do that?](https://tools.techidaily.com/drivereasy/download/)** Part 4:[**What to do if my USB device is still not recognized?**](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1: What is USB selective suspend?
 
 **The tl;dr version**: it prevents your computer from using too much unnecessary power by putting certain USB port(s) in a low-power state, i.e. the suspend state. USB selective suspend feature only works when you have USB devices connected to your computer, and that you have the most recent correct drivers for your USB ports. (Not sure if you have the most recent correct USB device drivers? Use[**Driver Easy Free**](https://tools.techidaily.com/drivereasy/download/)to find out! 😉 ) USB devices such as webcams, printers, and scanners are not in active use every minute of the day. To reduce the overall power consumption, especially if you’re a laptop or tablet user, Windows will automatically put a certain USB port that is not in use in a low-power state. This is one of the ways how Windows avoid data loss and driver corruption in devices such as external hard drives. That said, you’ll have more power available from idle external devices, and your actively in use USB devices won’t be affected. This is where the “selective” comes. It comes really handy for laptop and tablet users, especially when you don’t have a charger plugged in. Not to worry that your idle keyboard and mouse device will be suspended, because if you have enabled Wake from Keyboard/Mouse option in BIOS settings, which is usually the case with most of the computers, these two basic devices are filtered out. Such being the case, if Windows detects that none of your USB devices are in active use, it will first suspend accordant USB ports, and then go to the sleep or hibernate mode, to reduce your power consumption. In other words, if some of your USB ports are not suspended, your Windows is not likely to be able to go to the sleep or hibernate mode. Because some of your devices keep running somewhere.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2: Should I disable USB selective suspend or enable it?
 
 You should choose to leave it enable or disable it as per your own needs.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Why should I enable it?
 
 As mentioned, the USB selective suspend is really handy for laptop and tablet users in that it saves you power from unnecessary USB devices. So if you have not experienced any problems with your external USB devices on your laptop or tablet, you should leave it be.
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
-<!-- affiliate ads end -->
 ### Why should I disable it?
 
 If you run into_**USB device not recognized**_problem, always have the charger plugged in your computer, or you are on a full-power required USB device at all times, you should disable this feature.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3a425938f75.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Frankly speaking, the USB selective suspend feature is not entirely helpful for desktop users, since desktops are always plugging into the power cord. But it won’t hurt either just to leave it at the enable state.
 
@@ -57,12 +63,13 @@ Frankly speaking, the USB selective suspend feature is not entirely helpful for 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a377758f2bdc.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 2) Click **Change plan settings**  next to the plan option you’re having now.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3777c0a811b.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 3) Click **Change advanced power settings**.
 
@@ -72,17 +79,15 @@ Frankly speaking, the USB selective suspend feature is not entirely helpful for 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3778a48905d.png)
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
-<!-- affiliate ads end -->
 5) Select **Disabled**  from the drop-down option. Then click **Apply**  and **OK**to save the change.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a377b3cef938.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 **NOTE**: If you’re using a laptop, click **On battery**, then **Disabled**  from the drop-down menu. 6) If you want to re-enable the USB selective suspend setting, just repeat the above procedures all over again.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 4: What to do if my USB device is still not recognized?
 
@@ -94,9 +99,6 @@ Frankly speaking, the USB selective suspend feature is not entirely helpful for 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3a478d09cbf.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 * [USB](https://tools.techidaily.com/drivereasy/download/)
 
 <ins class="adsbygoogle"
@@ -105,8 +107,6 @@ Frankly speaking, the USB selective suspend feature is not entirely helpful for 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -114,4 +114,26 @@ Frankly speaking, the USB selective suspend feature is not entirely helpful for 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-knowledge.techidaily.com/new-in-2024-economys-choice-high-quality-360-video-capabilities/"><u>[New] In 2024, Economy's Choice High-Quality 360° Video Capabilities</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-ultimate-guide-to-iphone-hdr-techniques-and-tips/"><u>[New] The Ultimate Guide to iPhone HDR Techniques & Tips</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-beginners-essential-guide-to-youtube-video-editing-magic/"><u>[Updated] Beginner’s Essential Guide to YouTube Video Editing Magic</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-elevate-your-unboxing-game-to-next-level/"><u>[Updated] Elevate Your Unboxing Game to Next Level</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-delving-into-mr-beasts-economic-dominance/"><u>[Updated] In 2024, Delving Into Mr. Beast's Economic Dominance</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-singular-adventure-in-3dr-an-insightful-look/"><u>[Updated] The Singular Adventure in '3DR' An Insightful Look</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-10-best-websites-to-download-aesthetic-wallpapers-for-laptop/"><u>2024 Approved 10 Best Websites to Download Aesthetic Wallpapers for Laptop</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/all-about-the-apple-vision-pro-unveiling-its-costs-capabilities-and-more-a-comprehensive-guide-techwise/"><u>All About the Apple Vision Pro: Unveiling Its Costs, Capabilities & More - A Comprehensive Guide | TechWise</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/apples-next-big-thing-cutting-edge-ar-glasses-and-budget-friendly-headsets-on-the-horizon-according-to-zdnet/"><u>Apple's Next Big Thing: Cutting-Edge AR Glasses and Budget-Friendly Headsets on the Horizon, According to ZDNET</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/comparing-ipads-the-impressive-ipad-air-review-that-made-me-reconsider-my-ipad-pro-decision-gadgetguru-blog/"><u>Comparing iPads: The Impressive iPad Air Review That Made Me Reconsider My iPad Pro Decision | GadgetGuru Blog</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/exclusive-selection-the-ultimate-july-2prise-laptops-for-savvy-shoppers-featured-by-zdnet/"><u>Exclusive Selection: The Ultimate July 2Prise Laptops for Savvy Shoppers, Featured by ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/guide-sharing-your-netflix-viewing-experience-online/"><u>Guide: Sharing Your Netflix Viewing Experience Online</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/iphone-regional-customization-tips-changing-location-preferences-easily/"><u>Iphone Regional Customization Tips: Changing Location Preferences Easily</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/maximize-your-macs-performance-with-these-expertly-selected-optimization-tools-featured-on-zdnet/"><u>Maximize Your Mac's Performance with These Expertly-Selected Optimization Tools | Featured on ZDNET</u></a></li>
+<li><a href="https://driver-install.techidaily.com/qualcomm-atheros-adapter-update-procedures/"><u>Qualcomm Atheros Adapter Update Procedures</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-iphone-12-pro-data-from-itunes-backup-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover iPhone 12 Pro Data From iTunes Backup | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/unlocking-instagram-stories-download-crafting-strategies/"><u>Unlocking Instagram Stories Download, Crafting Strategies</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/wi-fi-mesh-explained-is-the-upgrade-worth-considering/"><u>Wi-Fi Mesh Explained: Is the Upgrade Worth Considering?</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/windows-users-guide-sending-and-receiving-imessages-with-ease/"><u>Windows Users Guide: Sending & Receiving iMessages with Ease</u></a></li>
+</ul></div>
 

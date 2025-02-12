@@ -1,7 +1,7 @@
 ---
 title: Enhance Privacy on Gmail – Learn to Turn On 2FA (Two-Factor Authentication)
-date: 2024-08-18T17:46:04.333Z
-updated: 2024-08-19T17:46:04.333Z
+date: 2025-02-06T16:04:31.185Z
+updated: 2025-02-11T18:09:42.190Z
 categories:
   - BestProducts
 description: This Article Describes Enhance Privacy on Gmail – Learn to Turn On 2FA (Two-Factor Authentication)
@@ -10,12 +10,21 @@ thumbnail: https://www.lifewire.com/thmb/7tpQOgJcInHeeT05izouN1BXQIE=/400x300/fi
 ---
 
 ## Elevate Email Privacy: Learn How to Safelist Contacts in Gmail Today
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### What To Know
 
 * **Gear** \>**Settings** \>**Filters...Addresses** \>**Create...** \> Add the address to**From** \>**Create filter** . Check**Never... Spam** , and press**Create filter.**
 * From an email: Open the message, and press**More** . Select**Filter...like this** \>**Create filter** . Check**Never... Spam** , and press**Create filter.**
 
  This article explains how to create a filter in Gmail to always allow emails from a certain sender or domain, either from scratch or using an existing message similar to the ones you want to allow.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Start With Filters and Blocked Addresses
 
@@ -24,6 +33,11 @@ thumbnail: https://www.lifewire.com/thmb/7tpQOgJcInHeeT05izouN1BXQIE=/400x300/fi
 1. Open Gmail. In the upper-right corner, select the**Settings** (gear) icon. From the menu, choose**Settings** .  
 ![Settings menu item in Gear icon for Gmail](https://www.lifewire.com/thmb/WlAG3HUR1Wh7gcE0q5RvutAP2pk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_how-to-whitelist-a-sender-or-domain-in-gmail-1172106-5c2faa8246e0fb0001171827.jpg)
 2. Select**Filters and Blocked Addresses** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Filters and Blocked Addresses tab in Gmail](https://www.lifewire.com/thmb/_9xw1NUAlMHL7bAlPahggss4cK8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002_how-to-whitelist-a-sender-or-domain-in-gmail-1172106-5c2faaa046e0fb0001ebdc0d.jpg)
 3. Select**Create a new filter** . If you already have many filters, you'll have to scroll down to find this link.  
 ![Create a new filter link in Gmail Settings](https://www.lifewire.com/thmb/Z8V002m1EnNEr2YpSfPZ7gQVu08=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/003_how-to-whitelist-a-sender-or-domain-in-gmail-1172106-5c2faab746e0fb0001684468.jpg)
@@ -35,8 +49,9 @@ thumbnail: https://www.lifewire.com/thmb/7tpQOgJcInHeeT05izouN1BXQIE=/400x300/fi
 7. If you want to allow more than one email address or domain, you need not repeat these steps for each one. Instead, put a vertical bar (and a space before and after it) between the separate accounts, as follows:**<person1@example.com>** |**<person2@anotherexample.com>** |**@example2.com** .
 
 <!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Start With an Email Message
 
  You can also start the process of making an email filter in Gmail from a message from the person you want to add to the allowed list.
@@ -45,13 +60,11 @@ thumbnail: https://www.lifewire.com/thmb/7tpQOgJcInHeeT05izouN1BXQIE=/400x300/fi
 2. In the upper-right corner of the message, select the**three-dot** (menu) icon. Select**Filter messages like this** .  
 ![Filter messages like this menu option in Gmail](https://www.lifewire.com/thmb/8uMlTsSswTb_qf_FGt5Ph6hiALg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/006_how-to-whitelist-a-sender-or-domain-in-gmail-1172106-5c2faa5f46e0fb0001ebcc4f.jpg)
 3. With the email address now auto-filled for you in the**From** field, follow steps 5 and 6 above.
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Additional Gmail Filtering Tips
 
  When creating filters in Gmail, keep these additional points in mind.
@@ -80,8 +93,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -89,4 +100,18 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-aviation-gaming-the-ultimate-drone-race-course-and-best-models/"><u>[New] 2024 Approved Aviation Gaming The Ultimate Drone Race Course and Best Models</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-top-8-android-platforms-revolutionizing-large-calls/"><u>[New] Top 8 Android Platforms Revolutionizing Large Calls</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-the-secret-to-viral-videos-get-the-best-thumbnail-size-guide/"><u>[Updated] 2024 Approved The Secret to Viral Videos? Get the Best Thumbnail Size Guide</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-visual-branding-mastery-implementing-watermarks-and-logos-into-video-content/"><u>In 2024, Visual Branding Mastery Implementing Watermarks & Logos Into Video Content</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/m1-vs-m3-macbook-pro-showdown-what-you-need-to-know-before-choosing-your-next-laptop-zdnet-exclusive/"><u>M1 Vs. M3 MacBook Pro Showdown: What You Need to Know Before Choosing Your Next Laptop | ZDNet Exclusive</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/next-level-computing-expert-analysis-of-the-game-changing-m1-cpu-in-apples-latest-macbook-pro-13/"><u>Next-Level Computing: Expert Analysis of the Game-Changing M1 CPU in Apple's Latest MacBook Pro (13)</u></a></li>
+<li><a href="https://apple-account.techidaily.com/protecting-your-privacy-how-to-remove-apple-id-from-iphone-15-plus-by-drfone-ios/"><u>Protecting Your Privacy How To Remove Apple ID From iPhone 15 Plus</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/solve-autofocus-problems-on-your-iphone-with-effective-troubleshooting-steps/"><u>Solve Autofocus Problems on Your iPhone with Effective Troubleshooting Steps</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-tutorial-making-the-most-of-your-meta-quest-mic/"><u>Step-by-Step Tutorial: Making the Most of Your Meta Quest Mic</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-definitive-guide-to-fugeteks-high-end-selfie-stick-ft-568-reviewed/"><u>The Definitive Guide to Fugetek's High-End Selfie Stick - FT-568 Reviewed</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/understanding-the-functionality-of-the-telegram-application/"><u>Understanding the Functionality of the Telegram Application</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Instructions to Expand Your Xbox One's Memory with an External Drive
-date: 2025-01-24T18:16:51.794Z
-updated: 2025-01-30T16:26:04.793Z
+date: 2025-02-10T21:36:09.057Z
+updated: 2025-02-11T19:13:25.090Z
 categories:
   - BestProducts
 description: This Article Describes Step-by-Step Instructions to Expand Your Xbox One's Memory with an External Drive
@@ -22,7 +22,7 @@ thumbnail: https://www.lifewire.com/thmb/ymgpKWwkBGzI4C83qsg8l2d2Lqs=/400x300/fi
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## If the Printer Isn't Showing Up in the List on Your iPad
@@ -34,7 +34,7 @@ thumbnail: https://www.lifewire.com/thmb/ymgpKWwkBGzI4C83qsg8l2d2Lqs=/400x300/fi
 ![No AirPrint Printers Found message on an iPad.](https://www.lifewire.com/thmb/PINbY5NNM2YpYVf6BIRAjMvyfYs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_my-ipad-wont-print-cant-find-printer-1994541-d3ec6679b22b423d876a15837e54cd6e.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Try these troubleshooting steps, in order:
@@ -50,7 +50,7 @@ thumbnail: https://www.lifewire.com/thmb/ymgpKWwkBGzI4C83qsg8l2d2Lqs=/400x300/fi
 6. Verify it's an AirPrint printer. If this is a new printer, it should say that it's AirPrint compatible on the packaging. Some older printers use a specific app to print from the iPad, so refer to the owner's manual. You can see a[list of AirPrint printers on Apple's website](https://support.apple.com/en-us/HT201311) .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## If the Printer Appears in the List
@@ -96,16 +96,24 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://techno-recovery.techidaily.com/1727786165748-l2-eval100458080/"><u> [ L^2 = [Eval(1004/5)=80]80 </u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-2024-approved-audience-favorites-screenplays-of-varied-genres/"><u>[New] 2024 Approved Audience Favorites Screenplays of Varied Genres</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-superior-methods-obs-streaming-onto-facebook/"><u>[New] In 2024, Superior Methods OBS Streaming Onto Facebook</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-and-update-guide-latest-dell-thunderbolt-dock-tb16-drivers/"><u>Download and Update Guide: Latest Dell Thunderbolt Dock (TB16) Drivers</u></a></li>
-<li><a href="https://blog-min.techidaily.com/easily-watch-mov-videos-on-windows-1011-a-guide-to-five-user-friendly-solutions/"><u>Easily Watch MOV Videos on Windows 10/11: A Guide to Five User-Friendly Solutions</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/essential-advice-what-to-do-when-skype-fails-to-connect/"><u>Essential Advice: What to Do When Skype Fails to Connect</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-change-lock-screen-wallpaper-on-vivo-v29-pro-by-drfone-android/"><u>In 2024, How to Change Lock Screen Wallpaper on Vivo V29 Pro</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/mastering-energy-efficiency-a-guide-to-activating-low-power-mode-on-macos-monterey-insights/"><u>Mastering Energy Efficiency: A Guide to Activating Low Power Mode on macOS Monterey - Insights</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/monitor-not-recognizing-fullscreen-in-win10-os/"><u>Monitor Not Recognizing Fullscreen in Win10 OS</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/troubleshoot-the-unstartable-gadget-expert-tips-for-overcoming-code-10-errors/"><u>Troubleshoot the Unstartable Gadget: Expert Tips for Overcoming Code 10 Errors</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/why-recycling-an-old-tablet-can-benefit-your-furry-friends-playtime/"><u>Why Recycling an Old Tablet Can Benefit Your Furry Friends' Playtime</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-professional-screen-capture-techniques-orderly-tutorials/"><u>[New] 2024 Approved Professional Screen Capture Techniques - Orderly Tutorials</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-brief-video-joust-the-showdown-between-youtubes-shorts-and-tiktoks-flavor-for-2024/"><u>[New] Brief Video Joust The Showdown Between YouTubes Shorts and TikTok's Flavor for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-get-your-stream-on-point-with-these-top-webcams-for-youtube-for-2024/"><u>[New] Get Your Stream on Point with These Top Webcams for YouTube for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-from-novice-to-money-maker-on-youtube/"><u>[Updated] From Novice to Money-Maker on YouTube</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-mycam-recorder-insights-a-thorough-technical-assessment/"><u>2024 Approved MyCam Recorder Insights A Thorough Technical Assessment</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/a-comprehensive-breakdown-of-7-factors-when-buying-a-new-motherboard/"><u>A Comprehensive Breakdown of 7 Factors When Buying a New Motherboard</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/apple-hails-mondly-among-global-ed-techs-top-10/"><u>Apple Hails Mondly Among Global Ed-Tech's Top 10</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/exclusive-march-202/"><u>Exclusive March 202</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-i-transferred-messages-from-oppo-find-x7-to-iphone-12xs-max-in-seconds-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How I Transferred Messages from Oppo Find X7 to iPhone 12/XS (Max) in Seconds | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-combat-and-correct-a-blue-screen-error-on-windows-computers/"><u>How to Combat and Correct a Blue Screen Error on Windows Computers</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-locate-and-use-windows-media-player-on-windows-11-or-windows-10/"><u>How to Locate and Use Windows Media Player on Windows 11 or Windows 10</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/leading-8-spots-for-accessing-free-high-quality-3d-text-files-for-2024/"><u>Leading 8 Spots for Accessing FREE High-Quality 3D Text Files for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/mastering-home-entertainment-a-comprehhavisnce-buying-guide-to-the-ideal-televisions/"><u>Mastering Home Entertainment: A Comprehhavisnce Buying Guide to the Ideal Televisions</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/mastering-network-configuration-on-your-mac-tips-for-establishing-separate-locations-for-better-internet-access/"><u>Mastering Network Configuration on Your Mac: Tips for Establishing Separate Locations for Better Internet Access</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/navigating-new-features-in-ios-175-beta-2-how-apple-now-allows-eu-residents-to-web-download-apps-innovative-insights/"><u>Navigating New Features in iOS 17.5 Beta 2: How Apple Now Allows EU Residents to Web Download Apps | Innovative Insights</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-non-selectable-components-on-win11-screen/"><u>Overcoming Non-Selectable Components on Win11 Screen</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/teacher/"><u>Teacher</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-rated-ipad-air-protectors-comprehensive-review-by-tech-gurus/"><u>Top-Rated iPad Air Protectors - Comprehensive Review by Tech Gurus</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-rated-stylus-tablets-comprehensive-reviews-by-industry-experts/"><u>Top-Rated Stylus Tablets : Comprehensive Reviews by Industry Experts</u></a></li>
 </ul></div>
 

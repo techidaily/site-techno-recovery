@@ -1,7 +1,7 @@
 ---
 title: Score an Apple Pencil (Gen 2) for Only $95 - Save Big During Labor Day Sales Tech Deals
-date: 2025-01-23T16:50:45.063Z
-updated: 2025-01-30T17:26:57.730Z
+date: 2025-02-09T16:46:42.655Z
+updated: 2025-02-11T18:50:40.265Z
 tags:
   - apple
 categories:
@@ -34,7 +34,7 @@ By using the Apple Pencil with your iPad (specifically, the iPad Pro 2022 model)
 Get the [Apple Pencil (2nd Gen)](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FApple-Pencil-2nd-Generation-Pixel-Perfect-Precision-Industry-Leading-Low-Latency-Perfect-Note-Taking-Drawing-Signing-documents-Attaches-Charges-Pairs%2F949679706&subId1=zd-__COM_CLICK_ID__-dtp) with $35 in savings right now if you want to upgrade your iPad stylus. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -71,22 +71,20 @@ Deals are subject to sell-out or expire at any time, though ZDNET remains commit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-2024-approved-googles-revolutionary-approach-to-speech-interpretation/"><u>[New] 2024 Approved Google's Revolutionary Approach to Speech Interpretation</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-in-2024-capturing-the-world-in-iphone-slow-motion/"><u>[New] In 2024, Capturing the World in iPhone Slow Motion</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-discovering-vector-images-a-beginners-overview-of-categories-for-2024/"><u>[Updated] Discovering Vector Images A Beginner’s Overview of Categories for 2024</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-how-to-retreat-from-macos-sierras-latest-upgrade/"><u>[Updated] How to Retreat From MacOS Sierra's Latest Upgrade</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-best-android-videography-6-must-try-music-videos-apps/"><u>2024 Approved Best Android Videography 6 Must-Try Music Videos Apps</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/a-comprehensive-guide-to-windows-11-battery-information-report/"><u>A Comprehensive Guide to Windows 11 Battery Information Report</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/airpods-pro-2nd-gen-review-a-year-later-is-this-the-ultimate-listening-experience-for-your-buck/"><u>AirPods Pro (2Nd Gen) Review: A Year Later - Is This the Ultimate Listening Experience for Your Buck?</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/choosing-between-iphone-models-discover-why-zdnet-prefers-iphone-16-pro-to-the-iphone-max/"><u>Choosing Between iPhone Models? Discover Why ZDNet Prefers iPhone 16 Pro to the iPhone Max!</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/compatibility-check-does-your-iphone-13-case-work-with-the-latest-iphone-14/"><u>Compatibility Check: Does Your iPhone 13 Case Work with the Latest iPhone 14?</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/effective-solutions-for-speeding-up-your-sluggish-internet/"><u>Effective Solutions for Speeding Up Your Sluggish Internet</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/guide-setting-up-and-utilizing-an-external-hdd-with-your-xbox-one/"><u>Guide: Setting Up & Utilizing an External HDD with Your Xbox One</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-after-switching-from-tecno-phantom-v-fold-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data After Switching From Tecno Phantom V Fold to Latest Samsung | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-the-best-ispoofer-alternative-to-try-on-zte-blade-a73-5g-drfone-by-drfone-virtual-android/"><u>In 2024, The Best iSpoofer Alternative to Try On ZTE Blade A73 5G | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-ultimate-virtual-reality-controller-guide/"><u>In 2024, Ultimate Virtual Reality Controller Guide</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/july-2024s-most-sought-after-apple-watch-deals-the-ultimate-guide-featuring-the-best-value-picks-from-zdnet/"><u>July 2024'S Most Sought-After Apple Watch Deals: The Ultimate Guide Featuring the Best Value Picks From ZDNet</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/resuscitating-a-dormant-snapchat-account-techniques-and-tips-for-reactivation/"><u>Resuscitating a Dormant Snapchat Account: Techniques and Tips for Reactivation</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/why-this-iphone-case-outshines-others-the-unparalleled-benefits-beyond-its-famed-keyboard-gadgetguru/"><u>Why This iPhone Case Outshines Others: The Unparalleled Benefits Beyond Its Famed Keyboard | GadgetGuru</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-switching-onoff-comment-functionality-on-youtube/"><u>[New] Switching On/Off Comment Functionality on YouTube</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-how-to-schedule-a-post-on-your-facebook-plusfree-tools/"><u>[Updated] In 2024, How to Schedule a Post on Your Facebook [+Free Tools]</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-step-in-step-approach-hulu-recording-tutorial-for-diverse-systems-for-2024/"><u>[Updated] Step-In-Step Approach Hulu Recording Tutorial for Diverse Systems for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-experience-the-thrill-of-kinemaster-and-rank-10-online-alternatives-alike/"><u>2024 Approved Experience the Thrill of KineMaster and Rank 10 Online Alternatives Alike</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/activating-slack-notification-features-for-seamless-communication-on-your-apple-watch-techexplorerscom/"><u>Activating Slack Notification Features for Seamless Communication on Your Apple Watch | TechExplorers.com</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/beyond-rice-bags-apple-recommends-effective-steps-for-drying-a-moistened-iphone/"><u>Beyond Rice Bags: Apple Recommends Effective Steps for Drying a Moistened iPhone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/decoding-the-essentials-of-digital-content-streamers/"><u>Decoding the Essentials of Digital Content Streamers</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-lenovo-legion-5-pro-16ach6h-drivers-complete-guide/"><u>Download Lenovo Legion 5 Pro-16ACH6H Drivers: Complete Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-set-up-fast-free-pioneer-dj-ddj-sx2-controller-driver-downloads/"><u>Get Set Up Fast! Free Pioneer DJ DDJ-SX2 Controller Driver Downloads</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-the-best-of-both-worlds-10-video-editing-apps-for-kids-with-free-and-paid-features/"><u>New The Best of Both Worlds 10 Video Editing Apps for Kids with Free and Paid Features</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/secure-the-new-apple-watch-series-10-before-everyone-else-expert-preorder-advice-and-money-saving-tricks-gadgetguru/"><u>Secure the New Apple Watch Series 10 Before Everyone Else: Expert Preorder Advice & Money-Saving Tricks | GadgetGuru</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/staying-connected-effortlessly-contact-loved-ones-using-your-apple-watch-tips-and-tricks/"><u>Staying Connected: Effortlessly Contact Loved Ones Using Your Apple Watch - Tips & Tricks</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-rise-of-apple-vision-pro-in-todays-business-world-success-stories-from-fortune-500-firms-techradar/"><u>The Rise of Apple Vision Pro in Today's Business World: Success Stories From Fortune 500 Firms | TechRadar</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-rated-airtag-accessory-bags-the-ultimate-guide-zdnet-review/"><u>Top-Rated AirTag Accessory Bags - The Ultimate Guide (ZDNet Review)</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unveiling-iphone-16s-new-visual-ai-features-inspired-by-google-lens-insights/"><u>Unveiling iPhone 16'S New Visual AI Features Inspired by Google Lens - Insights</u></a></li>
 </ul></div>
 

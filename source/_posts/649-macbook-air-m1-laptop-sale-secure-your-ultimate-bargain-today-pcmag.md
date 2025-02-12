@@ -1,7 +1,7 @@
 ---
 title: "$649 MacBook Air M1 Laptop Sale: Secure Your Ultimate Bargain Today! | PCMag"
-date: 2025-01-27T17:59:56.166Z
-updated: 2025-01-30T17:31:58.552Z
+date: 2025-02-07T16:58:42.978Z
+updated: 2025-02-11T17:28:54.277Z
 tags:
   - apple
 categories:
@@ -42,7 +42,7 @@ At $649, this is the lowest price for the M1 version of the MacBook Air that we'
 The [M1 MacBook Air](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fmacbook-air-13-3-laptop-apple-m1-chip-8gb-memory-256gb-ssd-space-gray-space-gray%2F5721600.p%3FskuId%3D5721600&publisher_slug=itechdaily19598&exclusive=1) first retailed for $999 when it was released, but Apple sells refurbished versions for $799, making these deals even better than anything Apple is offering. The [M1 MacBook Air](https://goto.walmart.com/c/5597632/565706/9383?sharedid=zdnet&partnerpropertyid=1980086&u=https%3A%2F%2Fwww.walmart.com%2Fip%2FApple-MacBook-Air-13-3-inch-Laptop-Silver-M1-Chip-8GB-RAM-256GB-storage%2F609040889&subId1=zd-__COM_CLICK_ID__-dtp) is available in three different colors: gold, space gray, and silver. Snag these savings while you can. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## When will this deal expire?
@@ -81,18 +81,20 @@ However, deals are subject to sell out or expire at any time, though ZDNET remai
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-breathtaking-lyric-videos-made-easy-by-lyric-video-maker/"><u>[Updated] 2024 Approved Breathtaking Lyric Videos Made Easy by Lyric Video Maker</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-how-to-send-gif-on-snapchat-step-by-step-guide/"><u>[Updated] 2024 Approved How to Send Gif on Snapchat [Step-by-Step Guide]</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/2024-approved-step-by-step-blueprint-accessing-facebook-status-videos/"><u>2024 Approved Step-by-Step Blueprint Accessing Facebook Status Videos</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/2024-approved-strategies-for-televised-social-media-engagements-fb-live/"><u>2024 Approved Strategies for Televised Social Media Engagements FB Live</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/audio-dimming-techniques-in-logic-pro-for-2024/"><u>Audio Dimming Techniques in Logic Pro for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/exclusive-reviews-by-zdnet-editors-the-phone-selection-you-need-to-know-about/"><u>Exclusive Reviews by ZDNet Editors: The Phone Selection You Need to Know About!</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-fix-unfortunately-contacts-has-stopped-error-on-nokia-c12-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Unfortunately, Contacts Has Stopped Error on Nokia C12 | Dr.fone</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/in-2024-5-ways-change-your-home-address-in-googleapple-map-on-apple-iphone-11ipad-drfone-by-drfone-virtual-ios/"><u>In 2024, 5 Ways Change Your Home Address in Google/Apple Map on Apple iPhone 11/iPad | Dr.fone</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/in-2024-a-step-by-step-guide-to-youtube-to-igtv-conversion/"><u>In 2024, A Step-by-Step Guide to YouTube to IGTV Conversion</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-the-best-8-vpn-hardware-devices-reviewed-on-samsung-galaxy-s23plus-drfone-by-drfone-virtual-android/"><u>In 2024, The Best 8 VPN Hardware Devices Reviewed On Samsung Galaxy S23+ | Dr.fone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/step-by-step-process-for-executing-android-software-within-windows-11/"><u>Step-by-Step Process for Executing Android Software Within Windows 11</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/switch-browsers-seamlessly-a-users-guide-for-samsung-televisions/"><u>Switch Browsers Seamlessly: A User's Guide for Samsung Televisions</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/transform-your-home-entertainment-a-step-by-step-guide-to-playing-various-video-files-on-apple-tv-using-vlc/"><u>Transform Your Home Entertainment: A Step-by-Step Guide to Playing Various Video Files on Apple TV Using VLC</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-advanced-mobiles-for-crafting-perfect-dji-videos/"><u>[New] Advanced Mobiles for Crafting Perfect DJi Videos</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-exclusive-insights-3-secrets-to-capture-every-moment-on-discord/"><u>[Updated] 2024 Approved Exclusive Insights 3 Secrets to Capture Every Moment on Discord</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/best-in-class-twitter-platforms-and-utilities-unveiled/"><u>Best-In-Class Twitter Platforms and Utilities Unveiled</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/1722903194076-fix-chromebook-hang-ups-discover-these-8-remedies-now/"><u>Fix Chromebook Hang-Ups: Discover These 8 Remedies Now!</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-clear-cuts-for-chilling-youtube-content-no-more-silent-lapses/"><u>In 2024, Clear Cuts for Chilling YouTube Content – No More Silent Lapses</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-easiest-guide-how-to-clone-tecno-camon-20-pro-5g-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Easiest Guide How to Clone Tecno Camon 20 Pro 5G Phone? | Dr.fone</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-2024-pixiz-techniques-to-fuse-images-and-movement-seamlessly/"><u>In 2024, Pixiz Techniques to Fuse Images and Movement Seamlessly</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-ultimate-guide-to-get-the-meltan-box-pokemon-go-for-honor-90-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate guide to get the meltan box pokemon go For Honor 90 | Dr.fone</u></a></li>
+<li><a href="https://facebook.techidaily.com/mastering-the-newsfeed-narrative-with-customization-choices/"><u>Mastering the Newsfeed Narrative with Customization Choices</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-guide-activating-browser-cookies-for-an-enhanced-web-experience/"><u>Step-by-Step Guide: Activating Browser Cookies for an Enhanced Web Experience</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-right-moment-a-guide-on-unfollowing-ex-twitter-accounts/"><u>The Right Moment: A Guide on Unfollowing Ex-Twitter Accounts</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-rated-magsafe-chargers-and-batteries-comprehensive-reviews-by-tech-experts-zdnet/"><u>Top-Rated MagSafe Chargers & Batteries : Comprehensive Reviews by Tech Experts | ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/understanding-dac-essential-guide-and-necessity/"><u>Understanding DAC: Essential Guide & Necessity</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/unlocking-issues-solved-a-users-handbook-for-erasing-a-password-protected-iphone/"><u>Unlocking Issues Solved: A User's Handbook for Erasing a Password-Protected iPhone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/upcoming-sony-vr-gear-pricing-insights-scheduled-release-detailed-features-and-latest-buzz/"><u>Upcoming Sony VR Gear: Pricing Insights, Scheduled Release, Detailed Features & Latest Buzz</u></a></li>
 </ul></div>
 

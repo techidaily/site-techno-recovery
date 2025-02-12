@@ -1,7 +1,7 @@
 ---
 title: "Revolutionary Bike Ride: How Photo-Adaptive Lenses and Cutting-Edge Display Technology Changed the Game"
-date: 2025-01-27T17:43:15.435Z
-updated: 2025-01-30T18:16:20.611Z
+date: 2025-02-05T19:12:21.387Z
+updated: 2025-02-11T22:29:24.911Z
 tags:
   - apple
 categories:
@@ -23,7 +23,7 @@ The ever-evolving, rapidly changing landscape of mobile technology means that wh
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### SPECIAL FEATURE
@@ -35,7 +35,7 @@ This year, five topics will likely dominate the headlines, dictate the next indu
 And that's just the beginning, as you'll find more notable trends in the list below, all of which have already begun to take shape.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. On-device AI puts the 'smart' in smartphone
@@ -52,6 +52,10 @@ Samsung's just-released [Galaxy S24 smartphones](https://www.zdnet.com/article/e
 
 Qualcomm is playing a major role here as well, with its flagship [Snapdragon 8 Gen 3 chipset](https://www.zdnet.com/article/qualcomms-new-snapdragon-8-gen-3-mobile-chip-brings-generative-ai-to-smartphones/) enabling performance gains across the board on smartphones, from a 20% improvement in CPU, 30% in GPU, and 41% in NPU -- the latter of which is critical for devices to perform generative AI tasks in a power-efficient manner. Expect more flagship [Android phones](https://www.zdnet.com/article/best-android-phone/) this year -- as well as [VR and XR headsets](https://www.zdnet.com/article/best-vr-headset/) \-- to field Qualcomm's new processor, with plenty of AI-enabled capabilities in tow.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Foldables are getting better (and cheaper)
 
 The Motorola Razr 2023 was the most affordable foldable phone last year, selling for as low as $499.
@@ -67,10 +71,6 @@ Now that the major players have entered the competition, the big question this y
 "Foldable products have a structure that is inevitably expensive compared to general bar types, even in terms of display alone," adds Jene Park, senior analyst at Counterpoint Research.
 
 But there's hope. Carrier providers, who often discount the latest devices aggressively in exchange for customer loyalty (read: agreement to long-term installment plans), remain a primary source of US smartphone sales. Motorola's [standard Razr model](https://www.zdnet.com/article/this-motorola-is-still-200-off-and-its-surprisingly-capable/), which can be purchased for [as low as $499](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fmotorola-razr-2023-128gb-unlocked-sage-green%2F6557867.p%3F&publisher_slug=itechdaily19598&exclusive=1) at the time of writing, is another sign of good things to come. With that in mind, 2024 is looking to be a promising sequel to foldables' breakout year in 2023.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Qi2 bridges a long-standing gap in charging
 
@@ -89,7 +89,7 @@ The adoption of such technology bridges a longstanding gap between MagSafe-compa
 **Also: [The best wireless chargers for iPhone and Android phones](https://www.zdnet.com/article/best-wireless-charger/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Periscope lenses push cameras to further distances
@@ -111,7 +111,7 @@ As manufacturers continue to figure out ways to shrink and fit better components
 **Also:** [**The evolution of smartphone cameras: From megapixels to AI-driven photography**](https://www.zdnet.com/article/the-evolution-of-smartphone-cameras-from-megapixels-to-ai-driven-photography/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. A new class of mobile devices
@@ -168,19 +168,22 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-in-2024-elevating-your-drone-content-post-production-fundamentals/"><u>[New] In 2024, Elevating Your Drone Content Post-Production Fundamentals</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-in-2024-transformative-tutorial-turning-vids-on-twitter-into-catchy-animated-memes-gifs/"><u>[New] In 2024, Transformative Tutorial Turning Vids on Twitter Into Catchy Animated Memes (GIFs)</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-2024-approved-leaderboard-best-following-drone-technology/"><u>[Updated] 2024 Approved Leaderboard Best-Following Drone Technology</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/2024-approved-essential-gopro-video-editors-for-pros/"><u>2024 Approved Essential GoPro Video Editors for Pros</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/apple-unveils-improved-repairability-of-iphone-16-compared-to-earlier-models-insights/"><u>Apple Unveils Improved Repairability of iPhone 16 Compared to Earlier Models - Insights</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/enhancing-room-luminosity-using-daylight-tactics-for-2024/"><u>Enhancing Room Luminosity Using Daylight Tactics for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/get-the-lowdown-on-samsung-galaxy-z-flip-6-find-out-when-it-arrives-and-what-it-costs/"><u>Get the Lowdown on Samsung Galaxy Z Flip 6! Find Out When It Arrives and What It Costs</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-fake-snapchat-location-on-xiaomi-redmi-note-12-pro-4g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fake Snapchat Location on Xiaomi Redmi Note 12 Pro 4G | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-everything-from-apple-iphone-7-to-iphone-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Transfer Everything from Apple iPhone 7 to iPhone | Dr.fone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/inside-scoop-on-the-upcoming-nothing-phone-3-forecasting-price-tag-launch-window-tech-specs-and-rising-rumors/"><u>Inside Scoop on the Upcoming Nothing Phone 3: Forecasting Price Tag, Launch Window, Tech Specs & Rising Rumors</u></a></li>
-<li><a href="https://techidaily.com/navigating-online-traffic-with-the-advanced-tools-of-cookiebot-technology/"><u>Navigating Online Traffic with the Advanced Tools of Cookiebot Technology</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/secure-your-apple-vision-pro-at-a-surprising-low-price-of-just-200-down-from-regular-retail-exclusive-amazon-blowout-sale/"><u>Secure Your Apple Vision Pro at a Surprising Low Price of Just $200 Down From Regular Retail – Exclusive Amazon Blowout Sale!</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/solve-the-silent-keys-dilemma-a-guide-to-repairing-non-typing-keyboards/"><u>Solve the Silent Keys Dilemma: A Guide to Repairing Non-Typing Keyboards</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/unshackle-hidden-files-no-money-down/"><u>Unshackle Hidden Files, No Money Down!</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-a-thorough-guide-to-thriving-in-stardews-hidden-landmark-ginger-isle-for-2024/"><u>[New] A Thorough Guide to Thriving in Stardew's Hidden Landmark Ginger Isle for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-simplifying-video-production-in-captivate-software-for-2024/"><u>[New] Simplifying Video Production in Captivate Software for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-the-ultimate-resource-on-affordable-webinars-on-youtube/"><u>[New] The Ultimate Resource on Affordable Webinars on Youtube</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-enhancing-video-reach-tactics-against-bot-visitors/"><u>[Updated] 2024 Approved Enhancing Video Reach Tactics Against Bot Visitors</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-master-your-mac-the-top-gif-recorder-choices-for-2024/"><u>[Updated] Master Your Mac The Top GIF Recorder Choices for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-breathe-new-life-into-your-ig-story-with-simple-animated-text-tips/"><u>2024 Approved Breathe New Life Into Your IG Story with Simple Animated Text Tips</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-easy-ways-to-copy-contacts-from-xiaomi-redmi-note-12-pro-4g-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Easy Ways to Copy Contacts from Xiaomi Redmi Note 12 Pro 4G to iPhone 14 and 15 | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/comparing-iphones-should-you-upgrade-to-the-apple-iphone-16-from-an-older-base-model-expert-tips-zdnet/"><u>Comparing iPhones: Should You Upgrade to the Apple iPhone 16 From an Older Base Model? Expert Tips | ZDNET</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/critical-enhancements-required-for-the-success-of-apples-vision-pro-in-the-corporate-arena-a-comprehensive-review-zdnet-insights/"><u>Critical Enhancements Required for the Success of Apple's Vision Pro in the Corporate Arena: A Comprehensive Review | ZDNet Insights</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/decoding-twitch-puzzles-insights-for-streaming-enthusiasts-just-starting-out/"><u>Decoding Twitch Puzzles: Insights for Streaming Enthusiasts Just Starting Out</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/exquisite-scenery-tips-for-live-shows-for-2024/"><u>Exquisite Scenery Tips for Live Shows for 2024</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/los-mejores-10-transformadores-de-video-libres-en-pc-un-ranking-definitivo/"><u>Los Mejores 10 Transformadores De Video Libres en PC: Un Ranking Definitivo</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/mastering-iphone-emojis-a-step-by-step-guide/"><u>Mastering iPhone Emojis: A Step-by-Step Guide</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/1722902130489-revoking-sent-messages-learn-how-to-retrieve-sent-emails-in-ms-outlook-easily/"><u>Revoking Sent Messages? Learn How to Retrieve Sent Emails in MS Outlook Easily</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/samsung-regains-lead-in-global-smartphone-shipments-surpassing-apple-amidst-rising-competition-from-other-brands/"><u>Samsung Regains Lead in Global Smartphone Shipments, Surpassing Apple Amidst Rising Competition From Other Brands</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-10-strategies-for-achieving-viral-fame-on-tiktok/"><u>Top 10 Strategies for Achieving Viral Fame on TikTok</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/understanding-metas-artificial-intelligence-an-overview/"><u>Understanding Meta's Artificial Intelligence: An Overview</u></a></li>
 </ul></div>
 

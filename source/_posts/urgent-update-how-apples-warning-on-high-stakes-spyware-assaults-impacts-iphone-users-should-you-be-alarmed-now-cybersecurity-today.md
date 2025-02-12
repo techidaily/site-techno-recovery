@@ -1,7 +1,7 @@
 ---
 title: "Urgent Update: How Apple's Warning on High-Stakes Spyware Assaults Impacts iPhone Users - Should You Be Alarmed Now? | Cybersecurity Today"
-date: 2025-01-24T16:29:46.621Z
-updated: 2025-01-30T18:19:57.305Z
+date: 2025-02-07T18:44:43.920Z
+updated: 2025-02-11T18:05:28.485Z
 tags:
   - apple
 categories:
@@ -31,7 +31,7 @@ Read on for a look at some of the new accessibility features coming to Apple har
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### New eye-tracking features
@@ -49,7 +49,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Apple Music haptics
@@ -57,7 +57,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 For those who are deaf or hard of hearing, Apple plans to offer a Taptic Engine feature in Apple Music. When turned on, the feature will use a series of taps, vibrations, and other tactile responses to sync to a song's audio. Apple says the feature will work "across millions of songs in the Apple Music catalog."
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Addressing motion sickness
@@ -68,15 +68,15 @@ Motion sickness in cars can often be the result of a disconnect between what you
 
 "Using sensors built into iPhone and iPad, Vehicle Motion Cues recognizes when a user is in a moving vehicle and responds accordingly," Apple said. "The feature can be set to show automatically on iPhone, or can be turned on and off in Control Center."
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Understanding speech
 
 A new feature called Voice Shortcuts will let you "assign custom utterances" that Apple's virtual personal assistant Siri will save. When Siri hears those utterances, it'll perform whatever action was assigned to it, including launching apps or engaging in more complex tasks on the device.
 
 Another feature, Listen for Atypical Speech, will use machine learning to understand your speech patterns and your requests on-device, Apple said. The feature "gives users an option for enhancing speech recognition for a wider range of speech," the company said.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### New CarPlay features
 
@@ -85,7 +85,7 @@ Apple's in-car CarPlay software is also getting new accessibility features, incl
 **Also: [iOS and Android owners will now be alerted if an unknown tracker is moving with them](https://www.zdnet.com/article/ios-and-android-owners-will-now-be-alerted-if-an-unknown-tracker-is-moving-with-them/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Some other updates
@@ -122,22 +122,24 @@ Beyond those updates, Apple said that it's launching a range of smaller upgrades
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-in-2024-cloud-data-economy-comparison-saving-tips-and-price-leaders/"><u>[New] In 2024, Cloud Data Economy Comparison, Saving Tips & Price Leaders</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-innovative-approaches-to-change-song-speed-on-spotify/"><u>[Updated] Innovative Approaches to Change Song Speed on Spotify</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/beyond-hype-apple-to-reveal-invaluable-but-subtle-ai-advancement-at-wwdc-insights-expose/"><u>Beyond Hype: Apple to Reveal Invaluable but Subtle AI Advancement at WWDC - Insights Exposé</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/discover-hidden-stories-fascinating-insights-into-your-favorite-emojis/"><u>Discover Hidden Stories: Fascinating Insights Into Your Favorite Emojis</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/effective-techniques-for-converting-your-music-collection-from-mp3-files-to-compact-discs/"><u>Effective Techniques for Converting Your Music Collection: From MP3 Files to Compact Discs</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/exclusive-deal-alert-apple-m2-macbook-air-sold-on-amazon-under-900-before-the-prime-day-frenzy-tech-news-by-wired/"><u>Exclusive Deal Alert: Apple M2 MacBook Air Sold on Amazon Under $900 - Before the Prime Day Frenzy! | Tech News by Wired</u></a></li>
-<li><a href="https://some-tips.techidaily.com/exploring-the-newly-released-whatsapp-channels-feature-across-specific-countries-in-depth-tutorial-zdnet-technology-insights/"><u>Exploring the Newly Released WhatsApp Channels Feature Across Specific Countries - In-Depth Tutorial | ZDNet Technology Insights</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/gratis-conversion-online-de-mod-a-avi-con-movavi-libre-acceso-y-facil-uso/"><u>Gratis Conversión Online De MOD a AVI Con Movavi - Libre Acceso Y Fácil Uso</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/how-do-i-play-mkv-movies-on-motorola-by-aiseesoft-video-converter-play-mkv-on-android/"><u>How do I play MKV movies on Motorola ?</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-closer-look-techniques-for-microsoft-teams/"><u>In 2024, Closer Look Techniques for Microsoft Teams</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/preventing-unwanted-access-how-to-make-your-iphone-less-discoverable-in-apple-journal-tips-and-tricks/"><u>Preventing Unwanted Access: How to Make Your iPhone Less Discoverable in Apple Journal - Tips & Tricks</u></a></li>
-<li><a href="https://fake-location.techidaily.com/read-this-guide-to-find-a-reliable-alternative-to-fake-gps-on-vivo-s17t-drfone-by-drfone-virtual-android/"><u>Read This Guide to Find a Reliable Alternative to Fake GPS On Vivo S17t | Dr.fone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/revolutionizing-your-smartphone-experience-the-must-see-iphone-16-innovations-you-cant-miss-gadget-gazette/"><u>Revolutionizing Your Smartphone Experience: The Must-See iPhone ˈ16 Innovations You Can't Miss! | Gadget Gazette</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-common-problems-in-setting-up-ryzen-master-driver/"><u>Troubleshooting Common Problems in Setting Up Ryzen Master Driver</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/ultimate-guide-to-choosing-the-ideal-iphone-16pro-case-in-2-professional-insights-from-zdnet/"><u>Ultimate Guide to Choosing the Ideal iPhone 16/Pro Case in 2지: Professional Insights From ZDNET</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/ultimate-guide-to-the-ideal-iphone-16-and-iphone-16-pro-cases-of-2024-comprehensive-reviews-and-ratings/"><u>Ultimate Guide to the Ideal iPhone 16 and iPhone 16 Pro Cases of 2024: Comprehensive Reviews & Ratings</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/why-were-your-imessages-undelivered-last-day-uncover-the-reasons-with-insights-from-zdnet/"><u>Why Were Your iMessages Undelivered Last Day? Uncover the Reasons with Insights From ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/1-why-your-imessages-were-not-sent-yesterday-insightful-explanation-and-solutions-zdnet/"><u>1. Why Your iMessages Were Not Sent Yesterday: Insightful Explanation and Solutions | ZDNet</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-best-practices-for-apples-podcast-listings/"><u>2024 Approved Best Practices for Apple's Podcast Listings</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-unlocking-the-power-of-visuals-zooms-filter-guide/"><u>2024 Approved Unlocking the Power of Visuals Zoom's Filter Guide</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/apple-watch-ultra-essentials-now-available-again-non-apple-brand-exclusive-reveal-on-zdnet/"><u>Apple Watch Ultra Essentials Now Available Again - Non-Apple Brand Exclusive Reveal on ZDNet!</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/comprehensive-guide-on-the-significance-and-processes-behind-tagging-entities/"><u>Comprehensive Guide on the Significance and Processes Behind 'Tagging' Entities</u></a></li>
+<li><a href="https://win-dash.techidaily.com/easy-installation-guide-canon-pixma-tr8520-printer-drivers-for-windows-machines/"><u>Easy Installation Guide: Canon PIXMA TR8520 Printer Drivers for Windows Machines</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/fast-track-to-fandom-top-30-engaging-nicknames-for-discord-for-2024/"><u>Fast Track to Fandom Top 30 Engaging Nicknames for Discord for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-can-i-and-my-friend-stream-music-on-spotify-together-in-real-time/"><u>How Can I and My Friend Stream Music on Spotify Together in Real-Time?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-migrate-android-data-from-tecno-spark-20c-to-new-android-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Migrate Android Data From Tecno Spark 20C to New Android Phone? | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/reattaching-your-laptops-lost-keys-a-step-by-step-guide/"><u>Reattaching Your Laptop's Lost Keys: A Step-by-Step Guide</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/secure-your-savings-top-tips-for-purchasing-pre-owned-apple-computers-and-sidestepping-frauds/"><u>Secure Your Savings: Top Tips for Purchasing Pre-Owned Apple Computers & Sidestepping Frauds</u></a></li>
+<li><a href="https://windows11.techidaily.com/skyrocket-beyond-wired-speed-limit-in-windows-environment/"><u>Skyrocket Beyond Wired Speed Limit in Windows Environment</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/solve-your-apple-vision-pro-envy-with-budget-friendly-xr-glasses-how-i-did-it-zdnet-insights/"><u>Solve Your Apple Vision Pro Envy with Budget-Friendly XR Glasses - How I Did It | ZDNET Insights</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/solved-move-from-realme-c67-4g-to-ios-not-working-problems-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Solved Move from Realme C67 4G to iOS not Working Problems | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-ultimate-guide-to-rebooting-your-airpods-know-when-and-how-to-do-it-right-digitalsavvy/"><u>The Ultimate Guide to Rebooting Your AirPods: Know When & How to Do It Right | DigitalSavvy</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/todays-top-shows-to-binge-watch-on-max-network/"><u>Today’s Top Shows to Binge-Watch on Max Network</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/transform-youtube-soundtracks-on-iphone-with-these-6-choices-for-2024/"><u>Transform YouTube Soundtracks on iPhone with These 6 Choices for 2024</u></a></li>
+<li><a href="https://driver-download.techidaily.com/ultimate-guide-and-free-download-of-official-samsung-android-adb-drivers-for-developers/"><u>Ultimate Guide & Free Download of Official Samsung Android ADB Drivers for Developers</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/unveiling-the-perfect-companion-elites-enhanced-strap-battery-backup-and-durable-case-for-oculus-quest-2-users/"><u>Unveiling the Perfect Companion: Elite's Enhanced Strap, Battery Backup & Durable Case for Oculus Quest 2 Users</u></a></li>
 </ul></div>
 

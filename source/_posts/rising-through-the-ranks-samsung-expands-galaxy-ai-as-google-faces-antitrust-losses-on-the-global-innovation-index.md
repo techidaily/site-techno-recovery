@@ -1,7 +1,7 @@
 ---
 title: "Rising Through the Ranks: Samsung Expands Galaxy AI as Google Faces Antitrust Losses on the Global Innovation Index"
-date: 2025-01-27T18:17:21.354Z
-updated: 2025-01-30T17:38:05.658Z
+date: 2025-02-06T23:50:37.810Z
+updated: 2025-02-11T22:00:46.580Z
 tags:
   - apple
 categories:
@@ -71,26 +71,20 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-perfecting-fading-audio-tracks-through-audacitys-tools/"><u>[New] 2024 Approved Perfecting Fading Audio Tracks Through Audacity's Tools</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-the-pinnacle-collection-all-2023-twitter-videos/"><u>[New] 2024 Approved The Pinnacle Collection All 2023 Twitter Videos</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/new-cinematic-mastery-starts-here-the-best-cameras-of-all-levels/"><u>[New] Cinematic Mastery Starts Here The Best Cameras of All Levels</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-android-internal-sound-record-without-root-access-for-2024/"><u>[Updated] Android Internal Sound Record Without Root Access for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-elevate-your-youtube-presence-essential-tips-for-engaging-shorts-for-2024/"><u>[Updated] Elevate Your Youtube Presence Essential Tips for Engaging Shorts for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/apples-next-gen-sound-enabled-gadget-upcoming-release-details-and-pricing-revealed/"><u>Apple's Next-Gen Sound-Enabled Gadget: Upcoming Release Details & Pricing Revealed</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/easy-tutorial-on-modifying-windows-11-taskbar-appearance-and-color-settings/"><u>Easy Tutorial on Modifying Windows 11 Taskbar Appearance and Color Settings</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/expert-techniques-for-modifying-gps-information-displayed-by-mobile-devices/"><u>Expert Techniques for Modifying GPS Information Displayed by Mobile Devices</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/how-to-seamlessly-link-devices-using-your-bose-soundlink-technology/"><u>How To Seamlessly Link Devices Using Your Bose SoundLink Technology</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-pattern-locks-are-unsafe-secure-your-oneplus-nord-n30-se-phone-now-with-these-tips-by-drfone-android/"><u>In 2024, Pattern Locks Are Unsafe Secure Your OnePlus Nord N30 SE Phone Now with These Tips</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-pokemon-go-cooldown-chart-on-vivo-y77t-drfone-by-drfone-virtual-android/"><u>In 2024, Pokémon Go Cooldown Chart On Vivo Y77t | Dr.fone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/navigating-aol-mail-disruptions-identifying-widespread-issues-vs-individual-hiccups/"><u>Navigating AOL Mail Disruptions: Identifying Widespread Issues Vs. Individual Hiccups</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/solving-the-alan-wake-2-freezing-issue-top-solutions/"><u>Solving the Alan Wake 2 Freezing Issue: Top Solutions</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/top-three-essential-gadgets-that-will-maintain-the-shine-of-your-iphone-13-insights/"><u>Top Three Essential Gadgets That Will Maintain the Shine of Your iPhone 13: Insights</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/ultimate-charging-station-and-cooling-hub-for-apple-gadgets-with-magsafe-technology-reviews-by-techexpert/"><u>Ultimate Charging Station & Cooling Hub for Apple Gadgets with MagSafe Technology - Reviews by TechExpert</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/understanding-and-using-wintoys-a-compreayers-guide-for-windows-applications/"><u>Understanding and Using WinToys: A Compreayer's Guide for Windows Applications</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/unveiling-the-top-4-new-ipados-18-innovations-from-wwdc-2024-compatible-devices-revealed/"><u>Unveiling the Top 4 New iPadOS 18 Innovations From WWDC 2024 – Compatible Devices Revealed</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-first-step-to-aerial-adventure-best-beginner-drones/"><u>[New] First Step to Aerial Adventure Best Beginner Drones</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-gps-companions-top-10-drones-that-stay-close/"><u>[New] GPS Companions Top 10 Drones That Stay Close</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-captivate-audiences-with-effective-and-appealing-video-previews-for-2024/"><u>[Updated] Captivate Audiences with Effective and Appealing Video Previews for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-interactive-content-the-key-to-boosted-facebook-pages/"><u>[Updated] Interactive Content The Key to Boosted Facebook Pages</u></a></li>
+<li><a href="https://win-webmaster.techidaily.com/1-how-to-sync-a-network-file-on-onedrive-across-windows-versions/"><u>1. How to Sync a Network File on OneDrive Across Windows Versions</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/choosing-the-perfect-fit-a-comprehensive-guide-to-selecting-between-m1-and-m2-ipad-pro-models/"><u>Choosing the Perfect Fit: A Comprehensive Guide to Selecting Between M1 and M2 iPad Pro Models</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/download-the-new-mozilla-thunderbird-52-email-client-with-enhanced-security-updates/"><u>Download the New Mozilla Thunderbird 52: Email Client with Enhanced Security Updates</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/in-2024-best-affordable-flying-tech-today/"><u>In 2024, Best Affordable Flying Tech Today</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ordered-list-every-movie-featuring-music-icon-taylor-swift/"><u>Ordered List: Every Movie Featuring Music Icon Taylor Swift</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-instructions-to-expand-your-xbox-ones-memory-with-an-external-drive/"><u>Step-by-Step Instructions to Expand Your Xbox One's Memory with an External Drive</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unlock-savings-on-quality-nomad-essentials-phone-shields-charging-tools-and-apple-accessories-at-unbeatable-prices-makeuseof/"><u>Unlock Savings on Quality Nomad Essentials: Phone Shields, Charging Tools & Apple Accessories at Unbeatable Prices! | MakeUseOf</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 

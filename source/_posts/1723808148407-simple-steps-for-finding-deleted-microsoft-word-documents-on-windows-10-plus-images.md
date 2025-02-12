@@ -1,7 +1,7 @@
 ---
 title: Simple Steps for Finding Deleted Microsoft Word Documents on Windows 10 + Images
-date: 2024-08-18T16:35:55.799Z
-updated: 2024-08-19T16:35:55.799Z
+date: 2025-02-10T00:25:30.692Z
+updated: 2025-02-12T00:55:04.494Z
 tags:
   - win11
   - win10
@@ -29,6 +29,10 @@ But if you can’t open the file (it is corrupted or you don’t save it anywher
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59f6fe96edbca.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)** Click the search box of File Explorer. Then type “_**.asd**_” in the search box. The computer will search all the files with “.asd” in their names.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59f6ff8a887c6.png)
@@ -37,9 +41,17 @@ But if you can’t open the file (it is corrupted or you don’t save it anywher
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59f7e381a3e17.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **5)** Open the file with**Word**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59f702aa3a705.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **6)**You will see the content that Word has saved for you. You can use it to restore your document. But if you can’t, follow the steps below to recover from a .wbk file.**7)** Type “_**.wbk**_” in the search box of File Explorer.
 
@@ -49,6 +61,10 @@ But if you can’t open the file (it is corrupted or you don’t save it anywher
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59f7ef9c4c3db.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **9)** The file will show you the content that has been backed up. You can use it to recover your document.
 
 ## Method 2: Recover from previous versions
@@ -56,6 +72,10 @@ But if you can’t open the file (it is corrupted or you don’t save it anywher
  _(This method will only work if your computer have backed up your Word document or the folder that contains them or if you have created a system restore point. Otherwise you should skip this method and try the tips below.[**The tip at the bottom**](https://tools.techidaily.com/drivereasy/download/) will show how to automatically back up your documents in order to enable the previous versions feature.)_Windows can save the previous versions of your files or folders. These previous versions come from the backups or the system restore points you have created. You can recover your files in a folder by restoring the folder to a previous version before your document corrupted or disappeared. To use previous versions to recover your documents:**1)** Right click the folder you want to recover and select**Restore previous versions**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59f8238ac54eb.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **2)** Select a previous version from the list. Then click the**Restore**button.
 
@@ -67,28 +87,14 @@ But if you can’t open the file (it is corrupted or you don’t save it anywher
 
 **4)** Open the folder and you can see the document in this folder has been restored to a previous version. Open it and see how many contents this has recovered.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Method 3: Perform data recovery
 
 If you don’t have any backup copy of your Word document, the most effective way to recover your document is to perform data recovery. You need to do this with the help of third-party software or an expert. There are a lot of data recovery software on the Internet, paid or free. You can do some research and test with several programs to find out the one that really works for you. But please note that you should be able to run the tool directly without installation (this helps you protect your deleted documents from being overwritten). Or you can find a data recovery specialist to recover your Word documents. Search on the Internet for the data recovery service providers near you. Be extra careful about the reputation and reliability of service provider. The data recovery service better at these is more likely to save your documents.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Final tip: Back up your files regularly
 
 It is still possible that your Word documents are missing or corrupt some day. You should back up your Word documents in advance to prevent yourself from getting into big trouble like this. To back up your files, you can routinely copy and paste them to your USB flash drive or external hard drive. But, instead of doing this manually, you can ask your Windows system can back up your files automatically. There are some differences between backing up your files on Windows 10 and on Windows 7\. The following steps will show you the different processes on these systems. If you are using**Windows 7**:**1)**Click the**Start**button at the lower left corner of your screen. Then click**Control Panel**.![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59edb64de0911.jpg) **2)** Under**View by**, click**Large icons**.![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59edb6e26b70a.jpg) **3)**Click**Backup and Restore**.![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59edb7192b08b.jpg) **4)** Click**Set up backup**.![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59edb796a67b6.jpg) **5)** Select a backup destination. (You can save it on **a partition of your hard drive**or on your**USB flash drive**or**external hard drive**. You can also save it to another computer on the same network by clicking the**Save on a network**button. It’s better for you to choose a destination other than your hard drive in case it fails.) After that, click**Next**.![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59edbb5cecef7.jpg) **6)**Click the option button of**Let me choose** (this allows you to choose what to back up manually). Then click**Next**.![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59edbd337d399.jpg) **7)**Choose what you want to back up and whether you want to include a system image (this requires larger storage space). Then click**Next**.![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59edbda6df21f.jpg) **8)** Click**Change schedule**to change the back up schedule if you are not satisfied with it. Then click**Save settings and run backup**.![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59edbe5c7c029.jpg) **9)** Your system will automatically run the backup for you.![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59edbfcd8413e.jpg)To back up your files on**Windows 10**, you should turn on a feature called**File History**. To do so:**1)** Select the**Start**button at the lower left corner of your screen. Then click the**Settings**icon.![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59edc15a8c889.png) **2)**Select**Update & Security**.![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59edc2e084454.png) **3)** Select**Backup**. Then click**More options**.![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59edc322c7cee.jpg) **4)** Click**See advanced settings**.![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59edc35927405.png) **5)**Click**Select drive**in the left paneto select where you want to save your backup.![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59eea722a8862.png) **6)**Select a drive from the list to store your backup. (Your system disallows you to save your backup on the hard drive where the system is installed. It is recommended that you choose to save on your**USB flash drive**or**external hard drive**. If you want back up a file on a**another computer on the same network**, click**Add network location**.) After that, click**OK**.![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59edc5379b716.png)File History is now turned on. It will automatically save copies of your files to the designated location.![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59edc5bd46507.png)If you want to change the settings of backup, go back to the backup settings window and click**More options**.![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59edc6337d321.jpg)You can configure the Backup options, such as when and what you want to back up.![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59edc6b452853.png)When you turn on the back up features, your computer will routinely back up your files for you. These backup copies can one day save your life when you lose your Word documents or other important files.
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
-<!-- affiliate ads end -->
 * [data recovery](https://tools.techidaily.com/drivereasy/download/)
 * [Windows](https://tools.techidaily.com/drivereasy/download/)
 * [Word](https://tools.techidaily.com/drivereasy/download/)
@@ -99,8 +105,6 @@ It is still possible that your Word documents are missing or corrupt some day. Y
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -108,4 +112,20 @@ It is still possible that your Word documents are missing or corrupt some day. Y
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-diversify-earnings-multiplying-revenue-with-mobile-video-content-for-2024/"><u>[New] Diversify Earnings Multiplying Revenue with Mobile Video Content for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-unbiased-take-on-recordcast-efficacy/"><u>[New] In 2024, Unbiased Take on RecordCast Efficacy</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-inside-look-obs-as-a-premier-screen-recorder/"><u>[Updated] In 2024, Inside Look OBS as a Premier Screen Recorder</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-free-video-editing-software-round-up-choose-from-7-options/"><u>2024 Approved Free Video Editing Software Round-Up Choose From 7 Options</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discover-the-new-acoustic-marvel-in-lg-tvs-features-tailored-for-apple-fans-exclusively-covered-by-zdnet/"><u>Discover the New Acoustic Marvel in LG TVs – Features Tailored for Apple Fans, Exclusively Covered by ZDNet</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-turn-off-google-location-to-stop-tracking-you-on-huawei-p60-drfone-by-drfone-virtual-android/"><u>How to Turn Off Google Location to Stop Tracking You on Huawei P60 | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-the-iphone-14-sim-lock-4-easy-methods-by-drfone-ios/"><u>In 2024, How To Unlock The iPhone 14 SIM Lock 4 Easy Methods</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-still-using-pattern-locks-with-oneplus-ace-2-tips-tricks-and-helpful-advice-by-drfone-android/"><u>In 2024, Still Using Pattern Locks with OnePlus Ace 2? Tips, Tricks and Helpful Advice</u></a></li>
+<li><a href="https://meme-emoji.techidaily.com/new-2024-approved-how-to-make-a-video-meme-with-4-best-meme-video-makers/"><u>New 2024 Approved How to Make a Video Meme with 4 Best Meme Video Makers</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-ranking-desktops-and-laptops-showdown-featuring-apple-dell-and-beyond-expert-insights-from-zdnet/"><u>Top-Ranking Desktops & Laptops Showdown: Featuring Apple, Dell, and Beyond - Expert Insights From ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ultimate-guide-choosing-the-perfect-television-setup-for-your-living-space/"><u>Ultimate Guide: Choosing the Perfect Television Setup for Your Living Space</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unveiling-iphone-12s-latest-innovation-seamless-qi2-charging-without-relying-on-magsafe-explore-how-at-zdnet/"><u>Unveiling iPhone 12'S Latest Innovation: Seamless Qi2 Charging Without Relying on MagSafe - Explore How at ZDNET</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-the-art-of-video-resizing-tips-for-perfect-proportions-for-2024/"><u>Updated The Art of Video Resizing Tips for Perfect Proportions for 2024</u></a></li>
+</ul></div>
 

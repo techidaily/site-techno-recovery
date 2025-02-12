@@ -1,7 +1,7 @@
 ---
 title: "Mastering the Convenience of Apple Pay: A Comprehensive Guide to Using It In-Store & Online - Insights"
-date: 2025-01-28T17:36:30.823Z
-updated: 2025-01-30T17:41:38.966Z
+date: 2025-02-05T20:00:17.145Z
+updated: 2025-02-11T23:56:51.453Z
 tags:
   - apple
 categories:
@@ -28,13 +28,13 @@ Before you get started using Apple Pay in stores and online, here's what you nee
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to use Apple Pay online and in stores
 
 **What you need:** iPhone, banking information
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. Set up Apple Pay in the Wallet app
 
@@ -43,6 +43,10 @@ Before using Apple Pay as your contactless payment form, you need to set it up b
 Tap on the Wallet app to open it.
 
 Screenshot by Maria Diaz/ZDNET
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Tap on the Add Card button and enter Apple Pay info
 
@@ -82,10 +86,6 @@ Enter your passcode to confirm Apple Pay payment.
 
 Maria Diaz/ZDNET
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 5\. Hold your iPhone near the payment terminal
 
 Entering your passcode authenticates your payment, so all you need to do next is hold your phone within about an inch of the card reader to process the transaction. 
@@ -99,10 +99,6 @@ Once unlocked, hold your iPhone near the payment terminal to use Apple Pay.
 Apple
 
 That's it! Apple Pay is as easy as apple pie. (Sorry, I had to.) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## FAQ
 
@@ -119,12 +115,16 @@ Once you add your card to your Wallet, you can edit your settings to suit your n
 
 You can use Apple Pay with an iPhone or Apple Watch at checkout wherever there is a payment terminal with NFC. Most retailers have them at the checkout counter, with some exceptions. Just look for the NFC symbol on the card reader or an Apple Pay logo. Some banks even support Apple Pay at NFC-enabled ATMs so you can make withdrawals or access your account. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What is NFC?
 
 NFC stands for [near-field communication](https://www.zdnet.com/article/near-field-communication-aims-to-simplify-our-lives/). It's a technology that employs magnetic field induction to allow wireless communication between two electronic devices at a short range, typically less than 4 centimeters or 1.5 inches.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Can I use Apple Pay online?
@@ -138,7 +138,7 @@ On top of being more secure, using Apple Pay online is more convenient as you do
 To use Apple Pay online, choose Apple Pay at checkout from your iPhone or other Apple device, if it's available. Next, you'll be prompted either to enter your passcode or use Face ID to authorize the payment. Then you'll be able to check out as usual with your Apple Pay information already filled in, so you won't need to sign in again or enter your card information. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What is Apple Cash?
@@ -197,24 +197,24 @@ Using Apple Pay or [Google Pay](https://www.zdnet.com/finance/google-pay-vs-sams
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-in-2024-spectacular-stop-motion-animations-15-list/"><u>[New] In 2024, Spectacular Stop-Motion Animations #15 List</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-2024-approved-invisible-time-recording-expertise/"><u>[Updated] 2024 Approved Invisible Time Recording Expertise</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-jujutsu-kaisen-in-action-making-memorable-tiktok-videos-for-2024/"><u>[Updated] Jujutsu Kaisen in Action Making Memorable TikTok Videos for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-the-ultimate-guide-to-speaking-and-visualizing-in-powerpoint/"><u>[Updated] The Ultimate Guide to Speaking & Visualizing in PowerPoint</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/a-chronological-guide-to-apples-ios-development-tracing-its-path-from-version-10-to-180/"><u>A Chronological Guide to Apple's iOS Development: Tracing Its Path From Version 1.0 to 18.0</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/avoiding-pitfalls-in-submitting-to-apple-for-2024/"><u>Avoiding Pitfalls in Submitting to Apple for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/complete-guide-preserving-your-data-on-iphone-using-icloud-and-mac-systems/"><u>Complete Guide: Preserving Your Data on iPhone - Using iCloud & Mac Systems</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/critical-error-at-recent-ipad-release-strategies-for-apple-to-correct-the-course-articles/"><u>Critical Error at Recent iPad Release: Strategies for Apple to Correct the Course | Articles</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/diy-solutions-for-reactivating-computers-displaying-no-signs-of-power/"><u>DIY Solutions for Reactivating Computers Displaying No Signs of Power</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/easy-methods-for-crafting-the-perfect-projector-screen-at-home/"><u>Easy Methods for Crafting the Perfect Projector Screen at Home</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/exploring-the-contrast-between-strong-and-weak-ai-insights-into-their-definitions/"><u>Exploring the Contrast Between Strong and Weak AI: Insights Into Their Definitions</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-dolby-atmos-sound-issues-resolving-unstarted-dolby-driver-on-windows-10/"><u>Fixing Dolby Atmos Sound Issues: Resolving Unstarted Dolby Driver on Windows 10</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/get-two-premium-nomad-iphone-cases-at-no-extra-cost-bogo-offer-live-on-zdnet/"><u>Get Two Premium Nomad iPhone Cases at No Extra Cost - BOGO Offer Live on ZDNet!</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/in-2024-choosing-between-tiktok-and-youtube-shorts-a-users-guide/"><u>In 2024, Choosing Between TikTok and YouTube Shorts A User's Guide</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/24-enhance-visibility-with-any-channel-title-through-free-makers/"><u>In 2024, Enhance Visibility With Any Channel Title Through Free Makers</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/resolving-stuttering-sounds-during-bluetooth-streaming-on-windows-1011-systems/"><u>Resolving Stuttering Sounds During Bluetooth Streaming on Windows 10/11 Systems</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/snag-your-picks-of-best-travel-ready-iphone-covers-with-our-bogo-deal-instantly/"><u>Snag Your Picks of Best Travel-Ready iPhone Covers with Our BOGO Deal Instantly</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/troubleshooting-iphone-battery-issues-post-ios-1751-update-top-7-effective-solutions-from-zdnet/"><u>Troubleshooting iPhone Battery Issues Post-iOS 17.5.1 Update: Top 7 Effective Solutions From ZDNet</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/troubleshooting-when-wpcpdll-is-absent-or-cannot-be-located-on-your-pc/"><u>Troubleshooting When WPCP.DLL Is Absent or Cannot Be Located on Your PC</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-pro-free-tools-best-10-tiktok-editors-compatible-with-macos-for-2024/"><u>[New] Pro-Free Tools Best 10 TikTok Editors Compatible with MacOS for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-audiovisual-excellence-the-premier-video-formats-for-youtube/"><u>[Updated] 2024 Approved Audiovisual Excellence The Premier Video Formats for YouTube</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-realme-12-pro-5g-by-drfone-android/"><u>10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Realme 12 Pro 5G</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/choosing-your-perfect-tablet-a-detailed-comparison-between-the-m1-and-m2-ipad-pro-models/"><u>Choosing Your Perfect Tablet: A Detailed Comparison Between the M1 and M2 iPad Pro Models</u></a></li>
+<li><a href="https://win-dash.techidaily.com/comprehensive-driver-collection-compatible-with-your-new-samsung-m20-m2020-mobile-device/"><u>Comprehensive Driver Collection - Compatible with Your New Samsung M20 (M2020) Mobile Device</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-apple-defines-outdated-gadgets-as-vintage-insights-and-consequences-explored/"><u>How Apple Defines Outdated Gadgets as Vintage: Insights and Consequences Explored</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-catchemall-celebrate-national-pokemon-day-with-virtual-location-on-itel-p55t-drfone-by-drfone-virtual-android/"><u>In 2024, CatchEmAll Celebrate National Pokémon Day with Virtual Location On Itel P55T | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-various-methods-to-transfer-pictures-from-apple-iphone-15-to-pc-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Various Methods to Transfer Pictures from Apple iPhone 15 to PC | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/navigating-the-process-to-establish-a-playstation-online-presence/"><u>Navigating the Process to Establish a PlayStation Online Presence</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/revolutionizing-bathroom-breaks-a-new-app-offers-free-health-screening-during-restroom-visits-exploring-the-future-of-wellness-monitoring/"><u>Revolutionizing Bathroom Breaks: A New App Offers Free Health Screening During Restroom Visits - Exploring the Future of Wellness Monitoring</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/samsung-galaxy-s21-unveiled-how-the-tech-giant-is-rethinking-its-smartphone-strategy/"><u>Samsung Galaxy S21 Unveiled: How the Tech Giant Is Rethinking Its Smartphone Strategy</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/the-easy-way-to-progressively-reduce-sound-levels-in-lumafusion/"><u>The Easy Way to Progressively Reduce Sound Levels in Lumafusion</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-ultimate-how-to-accessing-a-world-of-apps-via-your-samsung-smart-tv/"><u>The Ultimate How-To: Accessing a World of Apps via Your Samsung Smart TV</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-ultimate-tutorial-on-switching-your-iphone-display-to-low-blue-light-mode-at-night/"><u>The Ultimate Tutorial on Switching Your iPhone Display to Low Blue Light Mode at Night</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-5-essentials-android-must-address-to-challenge-apples-ios-dominance-insights-from-zdnet/"><u>Top 5 Essentials Android Must Address to Challenge Apple's iOS Dominance: Insights From ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-mobile-phone-offers-on-the-4th-of-july-discover-savings-with-zdnet/"><u>Top Mobile Phone Offers on the 4Th of July - Discover Savings with ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-ranking-iphones-of-2024-unveiled-and-evaluated-by-tech-gurus-zdnet/"><u>Top-Ranking iPhones of 2024 Unveiled & Evaluated by Tech Gurus | ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/troubleshooting-steps-reactivating-your-roku-closed-captioning/"><u>Troubleshooting Steps: Reactivating Your Roku Closed Captioning</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/utilizing-speech-recognition-for-efficient-documentation-and-transcription-in-ms-word/"><u>Utilizing Speech Recognition for Efficient Documentation and Transcription in MS Word</u></a></li>
 </ul></div>
 

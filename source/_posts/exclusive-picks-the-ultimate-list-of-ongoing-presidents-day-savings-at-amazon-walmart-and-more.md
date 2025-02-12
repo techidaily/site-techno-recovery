@@ -1,7 +1,7 @@
 ---
 title: "Exclusive Picks: The Ultimate List of Ongoing Presidents' Day Savings at Amazon, Walmart, and More"
-date: 2025-01-26T16:49:18.489Z
-updated: 2025-01-30T18:52:43.128Z
+date: 2025-02-07T18:50:25.147Z
+updated: 2025-02-11T17:09:55.662Z
 tags:
   - apple
 categories:
@@ -27,7 +27,7 @@ Tablets run the gamut in terms of everything they can do (and all the prices the
 ZDNET went hands-on with the following tablets, with our pick for the best note-taking tablet overall being the [iPad Air](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fapple-10-9-inch-ipad-air-latest-model-5th-generation-with-wi-fi-64gb-purple%2F4909101.p&publisher_slug=itechdaily19598&exclusive=1), thanks to its lightweight build and compatibility with the second-generation Apple Pencil. But we also included tablets from Boox, Amazon, and more to take digital notes on this back-to-school season. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## The best note-taking tablets of 2024
@@ -44,10 +44,6 @@ Pros
 Cons 
 * Only compatible with iOS
 * Camera cannot be used with other apps
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Apple iPad Air (5th generation)
 
@@ -81,14 +77,10 @@ Cons
 * Speaker could be better
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Boox Note Air 3 C
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Best lightweight note-taking tablet
 
@@ -149,11 +141,11 @@ Pros
 Cons 
 * Missing apps
 
-## Samsung Galaxy Tab S9
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+## Samsung Galaxy Tab S9
 
 ### Best note-taking tablet for Android users
 
@@ -202,10 +194,6 @@ Overall, 94% of Best Buy customers would recommend this tablet to others, giving
 
 Show Expert Take Show less 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What is the best note-taking tablet?
 
 The best note-taking tablet is the iPad Air based on price, ratings, display, features, and more. It's also super lightweight, making it the perfect choice to carry anywhere.
@@ -235,7 +223,7 @@ However, if you want a tablet you can use for school and for everyday things lik
 | Amazon Fire Max 11                    | A budget-friendly tablet for under $350\. It is compatible with the Amazon Stylus pen, and you can also attach a keyboard to it.     |
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Factors to consider when choosing the best note-taking tablet
@@ -246,6 +234,10 @@ Before you buy a note-taking tablet, you'll want to consider the following:
 * **Stylus compatibility:** Most people use a stylus when taking notes on a tablet, so consider tablets that either come with a stylus right out of the box or have the option to buy one from the maker separately. It's important to note most universal styluses will also work with these tablets.
 * **Size:** Tablets that you will mainly use for note-taking purposes will have different requirements than tablets you need to replace a laptop with. Smaller size tablets are best for note-taking purposes and are lightweight and portable.
 * **Price:** Tablets will vary in price from $150 all the way up to $1,000 or more, depending on storage capacity, display quality, processors, and more.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How we test tablets
 
@@ -258,6 +250,10 @@ We also compare the display's performance with what the manufacturer promised, t
 * **Camera and audio:** For cameras, we evaluate features like resolution, aperture, low-light performance, autofocus accuracy, dynamic range, color accuracy, image quality, sharpness, and video quality. For audio, we look at the sound quality and overall listening experience, including audio clarity at different volumes, stereo separation of left and right audio channels, maximum volume level in various environments, and if there is perceived distortion.
 
 For a deeper look into our testing process, check out our comprehensive [tablet testing methodology](https://www.zdnet.com/article/how-we-test-tablets-at-zdnet-in-2024/). 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Do I need a stylus for a note-taking tablet?
 
@@ -274,6 +270,10 @@ Yes--the Apple Pencil can convert your handwritten notes into text for better le
 1. In the Notes or Freeform apps, tap to show the tool palette.
 2. In the tool palette, tap the Handwriting tool (to the left of the pen).
 3. Write with Apple Pencil, and Scribble automatically converts your handwriting into typed text.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Other note-taking tablets we've tested:
 
@@ -321,22 +321,20 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-full-breakdown-samsungs-immersive-camera-technology/"><u>[New] Full Breakdown Samsung's Immersive Camera Technology</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-clear-conferencing-backdrops-blurring-for-better-presence/"><u>[New] In 2024, Clear Conferencing Backdrops Blurring for Better Presence</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-unlocking-the-secrets-of-impressive-hdr-portraits/"><u>[New] Unlocking the Secrets of Impressive HDR Portraits</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-aperture-allstars-the-best-camera-lenses-to-capture-the-moment-ranked-1-10/"><u>[Updated] Aperture Allstars The Best Camera Lenses to Capture the Moment, Ranked #1-10</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/199-apple-vision-pro-travel-bag-unveiled-surprisingly-comfy-design-tech-spot/"><u>$199 Apple Vision Pro Travel Bag Unveiled: Surprisingly Comfy Design! | Tech Spot</u></a></li>
-<li><a href="https://fox-access.techidaily.com/advanced-guide-to-mastering-the-art-of-morphvox-audio-transformation/"><u>Advanced Guide to Mastering the Art of MorphVOX Audio Transformation</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/anticipating-the-next-apple-event-dates-news-scoops-and-hot-gossip-await/"><u>Anticipating the Next Apple Event? Dates, News Scoops, and Hot Gossip Await!</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/discovering-the-upgrades-in-apples-latest-airpods-pro-and-max-key-features-compared-for-potential-buyers/"><u>Discovering the Upgrades in Apple's Latest AirPods Pro and Max - Key Features Compared for Potential Buyers</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/finns-funds-youtube-stars-weekly-take-home-for-2024/"><u>Finn's Funds YouTube Star’s Weekly Take-Home for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/1723013161233-football-manager-2021-pc-crash-fix-guide-stay-in-the-game-without-glitches/"><u>Football Manager 2021 PC Crash Fix Guide - Stay in the Game Without Glitches!</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-navigating-android-latest-tips-for-immersive-360-content/"><u>In 2024, Navigating Android Latest Tips for Immersive 360 Content</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/overview-of-the-best-realme-11-pro-screen-mirroring-app-drfone-by-drfone-android/"><u>Overview of the Best Realme 11 Pro Screen Mirroring App | Dr.fone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/recovering-lost-contacts-a-guide-to-retrieving-deleted-phone-numbers-from-your-android-device/"><u>Recovering Lost Contacts: A Guide to Retrieving Deleted Phone Numbers From Your Android Device</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/top-kid-friendly-smartphones-of-the-year-a-comprehensive-guide/"><u>Top Kid-Friendly Smartphones of the Year: A Comprehensive Guide</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/top-phones-endorsed-by-zdnet-aficionados-authentic-gadget-testimonials-and-usage-insights/"><u>Top Phones Endorsed by ZDNet Aficionados: Authentic Gadget Testimonials & Usage Insights</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/top-rated-ipad-models-in-depth-reviews-by-tech-experts/"><u>Top-Rated iPad Models : In-Depth Reviews by Tech Experts</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/upcoming-autumn-updates-discover-the-latest-enhancements-from-apple-for-your-iphone-ipad-mac-and-other-devices-featuring-innovative-ai-tech/"><u>Upcoming Autumn Updates: Discover the Latest Enhancements From Apple for Your iPhone, iPad, Mac, and Other Devices Featuring Innovative AI Tech</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-6-ways-to-increase-audience-retention-on-youtube-filmora-for-2024/"><u>[Updated] 6 Ways To Increase Audience Retention on YouTube - Filmora for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-hardware-basics-preparing-for-big-sur-os/"><u>[Updated] Hardware Basics Preparing for Big Sur OS</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-easy-window-recorder-w10-edition/"><u>2024 Approved Easy Window Recorder - W10 Edition</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/aiffm4rmovavi/"><u>AIFF至M4R線上即時自由變換服務：如何使用Movavi轉換器簡便操作</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/apple-declares-your-gadget-vintage-a-guide-to-legacy-tech-and-future-updates/"><u>Apple Declares Your Gadget Vintage: A Guide to Legacy Tech & Future Updates</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/apple-hits-2-billion-european-regulatory-hit-for-distorting-competition-in-the-app-marketplace-tech-analysis/"><u>Apple Hits $2 Billion European Regulatory Hit for Distorting Competition in the App Marketplace | Tech Analysis</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/bypass-the-missing-or-corrupt-launchdll-errors-with-these-helpful-tips/"><u>Bypass the Missing or Corrupt Launch.dll Errors with These Helpful Tips</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discover-superior-wallet-airtags-beyond-apple-and-tile-a-comprehensive-review/"><u>Discover Superior Wallet AirTags Beyond Apple and Tile - A Comprehensive Review</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/encounter-liquid-inside-iphone-charger-port-here-are-2-effective-solutions/"><u>Encounter Liquid Inside iPhone Charger Port? Here Are 2 Effective Solutions</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-vpna-to-fake-gps-location-on-honor-x50-gt-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use VPNa to Fake GPS Location On Honor X50 GT | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-apple-iphone-se-2022-to-ipad-drfone-by-drfone-ios/"><u>In 2024, How to Mirror Apple iPhone SE (2022) to iPad? | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-online-and-offline-freebies-in-text-animation/"><u>In 2024, Online & Offline Freebies in Text Animation</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-windows-11-premium-video-grabber-selections/"><u>In 2024, Windows 11 Premium Video Grabber Selections</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/key-fact-4-isotopologues-role-different-isotopic-forms-of-a-compound-can-be-detected-and-used-to-gain-further-structural-insights/"><u>Key Fact #4 - Isotopologues' Role - Different Isotopic Forms of a Compound Can Be Detected and Used to Gain Further Structural Insights.</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unveiling-the-fixes-how-to-tackle-and-eliminate-stop-error-code-0x0000003d-bsod-in-windows-systems/"><u>Unveiling the Fixes: How to Tackle and Eliminate STOP Error Code 0X0000003D BSOD in Windows Systems</u></a></li>
 </ul></div>
 

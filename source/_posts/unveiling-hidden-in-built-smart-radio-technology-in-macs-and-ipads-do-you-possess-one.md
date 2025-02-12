@@ -1,7 +1,7 @@
 ---
 title: "Unveiling Hidden In-Built Smart Radio Technology in Macs & iPads: Do You Possess One?"
-date: 2025-01-29T16:11:25.547Z
-updated: 2025-01-30T17:44:23.808Z
+date: 2025-02-09T20:24:03.832Z
+updated: 2025-02-11T21:44:33.038Z
 tags:
   - apple
 categories:
@@ -28,10 +28,6 @@ When Apple launched the iPhone 15 lineup last fall, [it announced](https://www.a
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## iPads with a Thread radio:
 
 * [iPad Pro 13-inch Wi-Fi & Cellular (M4)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-iPad-Pro-13-Inch-Landscape%2Fdp%2FB0D3J6W9TW%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cd34bd512-6fa4-4559-9369-3fad6235f188%7Cdtp&dtb=1) \- [_FCC report_](https://fcc.report/FCC-ID/BCGA2926/7226463)
@@ -41,7 +37,7 @@ When Apple launched the iPhone 15 lineup last fall, [it announced](https://www.a
 * [iPad Air 11-inch Wi-Fi & Cellular (M2)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0D3J61DQ4%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cd34bd512-6fa4-4559-9369-3fad6235f188%7Cdtp&dtb=1) \- [_FCC report_](https://fcc.report/FCC-ID/BCGA2898/7213158)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Macs with a Thread radio:
@@ -65,6 +61,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 Since the iPad and Mac run Apple's Home app, they could function as Thread border routers, integrating more seamlessly with smart home networks. This could indicate the iPad's return to functioning as a smart home hub. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to check if your iPad or Mac has a Thread radio
 
@@ -99,7 +99,7 @@ Search for any test reports mentioning "Thread" or "IEEE 802.15.4," which is the
 If a Thread radio exists in that device, you should find a report of its compliance testing since a non-existent feature wouldn't be tested.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## FAQ
@@ -113,7 +113,7 @@ Thread is a low-energy wireless communication protocol for smart home devices cr
 Thread was created as an energy-efficient and secure protocol to connect battery-powered devices, like smart home sensors, smart locks, room thermometers, lights, thermostats, and security systems. The IP-based protocol allows for easy integration with smart home ecosystems, which is Matter's main goal.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What is a Thread border router?
@@ -148,10 +148,6 @@ It's unclear whether iPads and Macs will eventually function as Thread border ro
 
 The new iPads and Macs with Thread radios have the necessary hardware to act as Thread border routers, but Apple needs to enable this functionality. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Is the iPad a smart home hub?
 
 Not currently. The iPad used to be a smart home hub for HomeKit, but iPadOS 16 removed this capability. With that software update, Apple upgraded the Home app significantly and stopped supporting the iPad for new HomeKit features and automations. 
@@ -163,6 +159,10 @@ Apple opted to offer the smart home hub feature only to dedicated devices like t
 Giving newer iPads Thread support would bring back its smart home hub functionality and make iPads a more robust option for the smart home than before. 
 
 If users want to keep an older iPad as a smart home hub, it cannot have iOS 16 and will work only with basic HomeKit functionality, as new features and enhancements introduced after iOS 16 won't be supported.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Would Thread replace Bluetooth for Apple peripherals?
 
@@ -204,24 +204,18 @@ The Apple Watch primarily uses Bluetooth to connect to the iPhone, but when Blue
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-excellent-alternatives-top-5-to-replace-twitter/"><u>[New] 2024 Approved Excellent Alternatives Top 5 to Replace Twitter</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-techniques-to-boost-video-quality-on-web-browser-chrome/"><u>[Updated] In 2024, Techniques to Boost Video Quality on Web Browser Chrome</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/a-comprehensive-guide-accumulating-massive-amounts-of-tiktok-videos-for-2024/"><u>A Comprehensive Guide Accumulating Massive Amounts of TikTok Videos for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/adobe-photoshop-crashes-eliminate-the-scratch-disk-full-message-effectively/"><u>Adobe Photoshop Crashes? Eliminate the 'Scratch Disk Full' Message Effectively</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/computer-speeds-unveiled-setting-realistic-benchmarks/"><u>Computer Speeds Unveiled: Setting Realistic Benchmarks</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/discover-the-best-apps-to-skyrocket-your-site-visitors-our-picks-revealed/"><u>Discover the Best Apps to Skyrocket Your Site Visitors, Our Picks Revealed</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/erkunden-sie-die-funktionen-von-handbrake-fur-anamorphe-videokompression-nutzung-und-vorteile/"><u>Erkunden Sie Die Funktionen Von HandBrake Für Anamorphe Videokompression - Nutzung Und Vorteile</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/1722867716548-expert-tips-for-restoring-windows-10-search-capability-get-started-now/"><u>Expert Tips for Restoring Windows 10 Search Capability – Get Started Now!</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/guide-establishing-your-own-account-on-the-sony-playstation-online-service/"><u>Guide: Establishing Your Own Account on the Sony PlayStation Online Service</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-top-twitter-video-tools-effortless-video-uploading/"><u>In 2024, Top Twitter Video Tools Effortless Video Uploading</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/invisible-voices-techniques-for-silent-screen-recordings-for-2024/"><u>Invisible Voices Techniques for Silent Screen Recordings for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/master-list-of-best-mp4-players-for-2024/"><u>Master List of Best MP4 Players for 2024</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/stylish-ourlink-u631-usb-wi-fi-nano-adapter-for-swift-and-robust-internet-connectivity/"><u>Stylish Ourlink U6ˈ31 USB Wi-Fi Nano Adapter for Swift and Robust Internet Connectivity</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/top-rated-network-servers-and-cabinets-the-ultimate-guide-to-2024s-market-leaders/"><u>Top-Rated Network Servers & Cabinets - The Ultimate Guide to 2024'S Market Leaders</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/transformative-technologies-that-shaped-our-world-after-1844/"><u>Transformative Technologies That Shaped Our World After 1844</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/unlock-creative-play-the-ultimate-selection-of-9-free-pre-k-educational-sites/"><u>Unlock Creative Play: The Ultimate Selection of 9 Free Pre-K Educational Sites</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/unlock-unlimited-boundaries-our-top-picks-for-cost-free-international-call-applications/"><u>Unlock Unlimited Boundaries: Our Top Picks for Cost-Free International Call Applications</u></a></li>
-<li><a href="https://network-issues.techidaily.com/unresponsive-tv-when-connecting-laptop-with-hdmi/"><u>Unresponsive TV When Connecting Laptop with HDMI</u></a></li>
-<li><a href="https://driver-install.techidaily.com/windows-10-revamp-hp-laserjet-drivers-for-optimal-performance/"><u>Windows 10: Revamp HP Laserjet Drivers for Optimal Performance</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-symphony-in-your-pocket-classic-tones-at-a-click-for-2024/"><u>[New] Symphony in Your Pocket Classic Tones at a Click for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-ultimate-compilation-top-11-streaming-gear-insights-for-2024/"><u>[New] Ultimate Compilation Top 11 Streaming Gear Insights for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-scrutinizing-splitcam-a-leader-in-video-tech-in-2024/"><u>[Updated] Scrutinizing SplitCam - A Leader in Video Tech, In 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discover-expert-recommendations-8-premium-and-free-html-editors-for-pcs/"><u>Discover Expert Recommendations: 8 Premium and Free HTML Editors for PCs</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-canon-mf8200c-printer-drivers-fully-updated-for-windows-users/"><u>Download Canon MF8200C Printer Drivers - Fully Updated for Windows Users</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-five-companies-are-revolutionizing-their-workflows-with-the-apple-vision-pro-a-closer-look-at-its-impact-on-modern-enterprises-forbes/"><u>How Five Companies Are Revolutionizing Their Workflows with the Apple Vision Pro: A Closer Look at Its Impact on Modern Enterprises - Forbes</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-whatsapp-messages-on-realme-v30t-without-them-knowing-drfone-by-drfone-virtual-android/"><u>How to Track WhatsApp Messages on Realme V30T Without Them Knowing? | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-file-permissions-to-prevent-read-only-mode/"><u>Mastering File Permissions to Prevent Read-Only Mode</u></a></li>
+<li><a href="https://change-location.techidaily.com/preparation-to-beat-giovani-in-pokemon-go-for-xiaomi-redmi-note-12-pro-5g-drfone-by-drfone-virtual-android/"><u>Preparation to Beat Giovani in Pokemon Go For Xiaomi Redmi Note 12 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-strategies-to-fix-the-persistent-stop-0x0000003d-error-on-your-pc/"><u>Step-by-Step Strategies to Fix the Persistent STOP 0X0000003D Error on Your PC</u></a></li>
+<li><a href="https://apple-account.techidaily.com/troubleshooting-error-connecting-to-the-apple-id-server-from-iphone-7-plus-by-drfone-ios/"><u>Troubleshooting Error Connecting to the Apple ID Server From iPhone 7 Plus</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/twitter-videos-on-facebook-the-transfer-guide/"><u>Twitter Videos on Facebook The Transfer Guide</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/upgrading-to-apples-newest-key-differences-between-iphone-16-and-iphone/"><u>Upgrading to Apple's Newest: Key Differences Between iPhone 16 and iPhone</u></a></li>
 </ul></div>
 

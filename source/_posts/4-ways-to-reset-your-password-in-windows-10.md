@@ -1,7 +1,7 @@
 ---
 title: 4 Ways to Reset Your Password in Windows 10
-date: 2024-08-18T16:35:59.983Z
-updated: 2024-08-19T16:35:59.983Z
+date: 2025-02-11T01:03:57.526Z
+updated: 2025-02-11T17:56:02.171Z
 tags:
   - win11
   - win10
@@ -49,15 +49,18 @@ If you just upgraded to Windows 10 or reinstalled Windows 10, you may want to up
 1. On your keyboard, press the**Windows logo** key and**R** key at the same time to invoke a run command. Type**msinfo32** and click**OK** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2017/11/img_5a12971baa255.png)
 2. The**System Model** is the PC model name. In my case, the PC model is Vostro 3900.  
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2017/11/img_5a1297d215761.jpg)
 3. The**System Type** is the specific Windows version. In my case, the version is Windows 10 64-bit.  
+
 <!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2017/11/img_5a1298a663ccc.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Download the video drivers from graphics card manufacturers
 
@@ -68,18 +71,12 @@ If you just upgraded to Windows 10 or reinstalled Windows 10, you may want to up
 1. On your keyboard, press the**Windows** logo key and**R** key at the same time to invoke the**Run** command. Type **devmgmt.msc**  and press**Enter** to open Device Manager.  
 ![](https://www.drivereasy.com/wp-content/uploads/2017/11/img_5a1299e9140b3.png)
 2. Expand the**Display adapters**  category then you’ll get the graphics card model name. If you’ve installed more than one graphics card, you’ll see more than one item under this branch.  
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2017/11/img_5a129a861195e.png)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
-<!-- affiliate ads end -->
+
 ## Method 3: Update video drivers automatically
 
  If you don’t have the time, patience, or computer skills to video drives manually in Windows 10, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -93,11 +90,16 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/6_0_scan-now.jpg)
 3. Click the**Activate & Update** button next to the flagged device to automatically download and install the correct version of this driver.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (You’ll need the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  for this – when you select Update All, you’ll get a prompt to upgrade. If you’re not prepared to purchase the Pro version yet, Driver Easy provides a 7-day trial at no cost, granting access to all Pro features like fast downloads and easy installation. No charges will occur until after your 7-day trial period ends.)  
 ![](https://www.drivereasy.com/wp-content/uploads/2020/09/graphics-card-and-chipset..jpg)
 4. After updating, restart your computer to take effect.
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -113,8 +115,6 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -122,4 +122,26 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-info.techidaily.com/new-start-a-new-story-install-xps-videographer-tools/"><u>[New] Start a New Story, Install XP’s Videographer Tools</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-best-virtual-reality-bike-adventures-listed-here/"><u>[Updated] Best Virtual Reality Bike Adventures Listed Here</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-easy-route-to-altering-clownfish-vocal-pattern-in-windoze/"><u>[Updated] In 2024, Easy Route to Altering Clownfish Vocal Pattern in Windoze</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-navigating-the-world-of-social-media-with-a-focused-brand-for-2024/"><u>[Updated] Navigating the World of Social Media with a Focused Brand for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/1-apple-sports-hub-unlock-your-dream-football-experience-on-ios-with-a-complimentary-app-discover-more-at-zdnet/"><u>1. Apple Sports Hub: Unlock Your Dream Football Experience on iOS with a Complimentary App - Discover More at ZDNet</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-musical-mastery-in-micro-storytelling/"><u>2024 Approved Musical Mastery in Micro Storytelling</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-quick-engagement-techniques-for-zooms-camera-shots/"><u>2024 Approved Quick Engagement Techniques for Zoom’s Camera Shots</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/accessing-linksys-routers-made-easy-with-the-latest-default-password-list-july-2024/"><u>Accessing Linksys Routers Made Easy with the Latest Default Password List (July 2024)</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-your-corsair-k70-installed-with-these-easy-to-follow-steps-and-tools/"><u>Get Your Corsair K70 Installed with These Easy-to-Follow Steps & Tools</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-determine-output-impedance-in-amplifiers-and-devices/"><u>How to Determine Output Impedance in Amplifiers and Devices</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-4k-perfection-selecting-youtubes-best-video-tools/"><u>In 2024, 4K Perfection Selecting YouTube's Best Video Tools</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/integrating-your-ca-drivers-license-into-apple-wallet-or-google-pay-a-step-by-step-tutorial-for-residents-of-the-golden-state/"><u>Integrating Your CA Driver’s License Into Apple Wallet or Google Pay: A Step-by-Step Tutorial for Residents of the Golden State</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/navigating-instagram-live-anonymously-a-step-by-step-approach-for-2024/"><u>Navigating Instagram Live Anonymously A Step-by-Step Approach for 2024</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-transform-your-gopro-footage-quick-and-easy-video-editing-on-macbook/"><u>New Transform Your GoPro Footage Quick and Easy Video Editing on MacBook</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/revolutionizing-cycling-how-my-ride-improved-with-photochromic-smart-glasses-feature-insights-for-zdnet/"><u>Revolutionizing Cycling: How My Ride Improved with Photochromic Smart Glasses Feature - Insights for ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-tutorial-for-emulating-android-environment-within-windows-11/"><u>Step-by-Step Tutorial for Emulating Android Environment Within Windows 11</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-ultimate-guide-boosting-productivity-in-your-workspace-using-the-ipad-pro-innovation-and-strategy/"><u>The Ultimate Guide: Boosting Productivity in Your Workspace Using the iPad Pro | Innovation and Strategy</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ultimate-guide-syncing-your-smart-tv-with-an-amazon-fire-stick-the-perfect-connection/"><u>Ultimate Guide: Syncing Your Smart TV with an Amazon Fire Stick - The Perfect Connection</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unlocking-the-secrets-a-guide-to-saving-money-with-lenovos-student-price-cuts/"><u>Unlocking the Secrets: A Guide to Saving Money with Lenovo's Student Price Cuts</u></a></li>
+</ul></div>
 

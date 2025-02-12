@@ -1,7 +1,7 @@
 ---
 title: How To Restore Your Arch Bluetooth Mouse Functionality Post-Windows 11 Creator's Update
-date: 2024-08-18T16:35:36.113Z
-updated: 2024-08-19T16:35:36.113Z
+date: 2025-02-10T16:50:46.578Z
+updated: 2025-02-11T21:05:30.065Z
 tags:
   - win11
   - win10
@@ -23,6 +23,10 @@ thumbnail: https://thmb.techidaily.com/702839098e6b38fca5d2a80178622bdd12571904a
 
  If you don’t want to restore your Windows 10 Creators Update just yet, try the methods below to fix the problem by yourself easily.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Fix 1: Troubleshoot Possible Error**
 
  1) Type**cmd** in the Windows Search bar and select**Run as administrator** .
@@ -36,6 +40,10 @@ thumbnail: https://thmb.techidaily.com/702839098e6b38fca5d2a80178622bdd12571904a
  3) Click**Next** in the popped-up window and the troubleshooter will start detecting hardware problems automatically.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/next-step.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) Wait for the troubleshooting process to finish. Then follow its instructions to try and fix your Arc mouse not working problem.
 
@@ -51,9 +59,17 @@ thumbnail: https://thmb.techidaily.com/702839098e6b38fca5d2a80178622bdd12571904a
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/img_58f6e401a0d77.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Right click the device name and choose**Properties.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/img_58f6e3d5bf031.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) Go to**Power Management** tab, and make sure the**Allow the computer to turn off his device to save power** option is**unchecked** and then click**OK** .
 
@@ -61,9 +77,6 @@ thumbnail: https://thmb.techidaily.com/702839098e6b38fca5d2a80178622bdd12571904a
 
 5) Reboot your computer. See if this problem occurs again.
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Fix 3: Update Your Mouse Driver**
 
  When it comes to updating mouse driver, you can always choose from download and update drivers by yourself or do it automatically.
@@ -80,24 +93,19 @@ thumbnail: https://thmb.techidaily.com/702839098e6b38fca5d2a80178622bdd12571904a
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/05/Driver-Easy-Scan.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
  3) Click the**Update** button next to a flagged driver to automatically download and install the correct version of this driver (you can do this with the FREE version).
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/DE-update-mouse-driver.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## **Fix 4: Restore Your Computer**
 
  As mentioned earlier, it is suggested by tech support from Microsoft that users should perform a system restore to get this problem fixed. To some extent, Microsoft has admitted that this problem is one of the bugs in Windows 10 Creators Update.
@@ -114,8 +122,6 @@ thumbnail: https://thmb.techidaily.com/702839098e6b38fca5d2a80178622bdd12571904a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -123,4 +129,23 @@ thumbnail: https://thmb.techidaily.com/702839098e6b38fca5d2a80178622bdd12571904a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-enhanced-google-chats-essential-techniques-4-ways/"><u>[Updated] In 2024, Enhanced Google Chats Essential Techniques, 4 Ways</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/best-6-video-translators-to-translate-video-for-2024/"><u>Best 6 Video Translators to Translate Video for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/calls-on-asus-rog-phone-7-go-straight-to-voicemail-12-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Calls on Asus ROG Phone 7 Go Straight to Voicemail? 12 Fixes | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/common-frustrations-shared-by-users-the-greatest-downsides-of-upgrading-to-iphone-ios-18-insights-from-zdnet/"><u>Common Frustrations Shared by Users: The Greatest Downsides of Upgrading to iPhone iOS 18 - Insights From ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/demystifying-smart-functionality-a-deep-dive-into-samsung-tv-applications/"><u>Demystifying Smart Functionality: A Deep Dive Into Samsung TV Applications</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/how-to-seamlessly-add-pictures-to-youtube-videos-for-2024/"><u>How to Seamlessly Add Pictures to YouTube Videos for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-clickable-content-climber-software/"><u>In 2024, Clickable Content Climber Software</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-learn-how-everything-works-on-oppo-reno-11-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Learn How Everything Works On Oppo Reno 11 5G | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-pokemon-go-no-gps-signal-heres-every-possible-solution-on-vivo-s17t-drfone-by-drfone-virtual-android/"><u>In 2024, Pokemon Go No GPS Signal? Heres Every Possible Solution On Vivo S17t | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/mastering-the-art-of-uncovering-personal-email-identifiers-online/"><u>Mastering the Art of Uncovering Personal Email Identifiers Online</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/streaming-directly-from-facebook-to-your-screen-for-2024/"><u>Streaming Directly From Facebook to Your Screen for 2024</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/2682488-9781515408093-the-god-in-you/"><u>The God In You | Free Book</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/troubleshooting-lameencdll-error-messages-with-audacity-for-smooth-mp3-encoding/"><u>Troubleshooting lame_enc.dll Error Messages with Audacity for Smooth MP3 Encoding</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/troubleshooting-iphone-wont-connect-to-mobile-data-post-ios-update-1721-expert-solutions-from-zdnet/"><u>Troubleshooting: IPhone Won't Connect to Mobile Data Post-iOS Update 17.2.1? Expert Solutions From ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ultimate-guide-to-the-best-magsafe-wallets-of-2024-in-depth-testing-and-expert-opinions-zdnet/"><u>Ultimate Guide to the Best MagSafe Wallets of 2024: In-Depth Testing & Expert Opinions | ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unstuck-chromebook-woes-eight-remedies-for-persistent-freezing-problems/"><u>Unstuck Chromebook Woes: Eight Remedies for Persistent Freezing Problems</u></a></li>
+</ul></div>
 

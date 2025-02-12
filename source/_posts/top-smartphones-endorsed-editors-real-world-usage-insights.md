@@ -1,7 +1,7 @@
 ---
 title: Top Smartphones Endorsed Editors - Real-World Usage Insights
-date: 2025-01-24T18:37:44.598Z
-updated: 2025-01-30T18:21:08.006Z
+date: 2025-02-10T22:41:21.469Z
+updated: 2025-02-11T23:42:31.080Z
 tags:
   - apple
 categories:
@@ -17,6 +17,10 @@ Curious about the favorite devices and phone buying habits of _ZDNet's_ tech rep
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **ZDNET** Recommends
 
@@ -46,10 +50,6 @@ Pros
 Cons 
 * New design Cameras are impressive Performance Battery life
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## iPhone 12 Pro
 
 ### Jason Cipriani and Simon Bisson
@@ -74,11 +74,11 @@ Pros
 Cons 
 * Lovely design with matte finish back 5G support for all bands Advanced multiple cameras S Pen support Competive pricing High end internal specifications
 
-## Samsung Galaxy S21 Ultra
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+## Samsung Galaxy S21 Ultra
 
 ### Steven J. Vaughan-Nichols and Charlie Osborne
 
@@ -142,6 +142,10 @@ Cons
 
 ## iPhone 12
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Chris Matyszczyk
 
 **Chris Matyszczyk:** My XR became heavy and cumbersome. It had begun to fade. I saw the 12's blue color and thought it might be fetching. And then an Apple store employee took the time to talk me into the 12, just when I was at my weakest.
@@ -160,10 +164,6 @@ Cons
 
 ## iPhone 11 Pro
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Ed Bott
 
 **Ed Bott:** I switch between two phones regularly, the iPhone 11 Pro and a newish Galaxy S21 5G, because a lot of what I do requires that I understand both platforms well. I generally stay roughly one generation behind the current models, which avoids hardware teething issues and lets me save a ton of money. I picked up the iPhone, which was only about three months old, from a seller on Swappa, replacing my old iPhone XS and paying about $500 less than a new model would have cost. The Galaxy was a deal from Xfinity Mobile that basically gave me a flagship Samsung phone at half price with no contract or commitment. I like both phones about equally and have been pleasantly surprised by the smoothness of the interface on the Samsung.
@@ -172,15 +172,7 @@ Cons
 
 Show Expert Take Show less 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Ulefone Armor 9
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Adrian Kingsley-Hughes
 
@@ -197,6 +189,10 @@ Cons
 * Strong battery life Good performance More affordable
 
 ## Google Pixel 2
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Tony Baer
 
@@ -254,6 +250,10 @@ Show Expert Take Show less
 
 ###   
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## iPhone X
 
 ### Robin Harris
@@ -261,10 +261,6 @@ Show Expert Take Show less
 I have a Moment wide-angle lens and case, which gives me the tech I need for landscape photography. There's a lot of landscape where I live, and picturing it never gets old. I keep looking at the newer iPhones each year, but things like a wider lens and low-light performance aren't hot buttons. I haven't used my Canon DSLR in years. 
 
 **Next phone or dream phone?** iPhone 13 or 14 Pro Max. Folding iPhone? I like a big screen as long as it will fit in a shirt pocket, and Moment makes a case for it. Not sure I'd be up for the extra fiddling a folding iPhone would require, but it would likely replace my iPad Mini. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ###   
 
@@ -278,6 +274,10 @@ Cons
 
 ## iPhone XS Max
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Asha Barbaschow
 
 I've always used iPhones. Started with the iPhone 3, and never strayed. I refuse to use a case, so I'm onto phone No. 2 after shattering my first XS Max like a disco ball. The screen size is great. I had the first Max iteration and probably won't ever be able to have a smaller screen again as a result.
@@ -286,7 +286,15 @@ I've always used iPhones. Started with the iPhone 3, and never strayed. I refuse
 
 Show Expert Take Show less 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## iPhone 7 Plus
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Tiernan Ray
 
@@ -295,10 +303,6 @@ Purchased in 2016, I've had no reason to upgrade in four years. The thing does a
 **Next phone or dream phone?** Apple Watch Series 13\. It would just be a stylish wireless transceiver for the AirPods. Never worry about leaving the phone somewhere by accident because it's always on the wrist! 
 
 ## iPhone 6s Plus
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### David Gewirtz and Iliana Meir
 
@@ -313,13 +317,13 @@ Purchased in 2016, I've had no reason to upgrade in four years. The thing does a
 **Next phone or dream phone?** I have no idea. I get overwhelmed by the amount of choice. It'll be an iPhone I guess. I'm used to them.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Lumia 1520
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Mary Branscombe
@@ -329,10 +333,6 @@ Yes, I am indeed still clinging to the phone that made me love phablets, upgrade
 **Next phone or dream phone?** An Arm-based Windows 10 phone with integrated Skype in a phablet form factor with 5G; while I hope that a project like Empirion can succeed, I'm not banking on it. But surely we need a third OS to balance Android and iOS as the government investigations continue?
 
 Show less 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Samsung Galaxy Note 8
 
@@ -376,20 +376,19 @@ Show Expert Take Show less
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/new-novel-set-of-pertinent-probing-for-podcast-participants/"><u>[New] Novel Set of Pertinent Probing for Podcast Participants</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-unearthing-old-facebook-tales-an-easy-to-follow-device-method-for-2024/"><u>[New] Unearthing Old Facebook Tales An Easy-to-Follow Device Method for 2024</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/updated-crafting-thumbnails-on-the-go-for-aspiring-mobile-film-makers/"><u>[Updated] Crafting Thumbnails on the Go For Aspiring Mobile Film Makers</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-learn-the-art-of-saving-and-logging-periscope-content/"><u>[Updated] Learn the Art of Saving & Logging Periscope Content</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-leveraging-daylight-in-home-interiors/"><u>[Updated] Leveraging Daylight in Home Interiors</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-maintain-uninterrupted-youtube-experience-on-phones/"><u>[Updated] Maintain Uninterrupted YouTube Experience on Phones</u></a></li>
-<li><a href="https://article-helps.techidaily.com/2024-approved-smartphones-meet-virtual-worlds-top-10-headsets/"><u>2024 Approved Smartphones Meet Virtual Worlds - Top 10 Headsets</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/capturing-memorable-gaming-screenshots-a-comprehve-guide-for-xbox-one-users/"><u>Capturing Memorable Gaming Screenshots: A Comprehve Guide for Xbox One Users</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/discover-the-latest-atandt-cellphone-savings-for-may-202n4-expert-reviews-and-tips/"><u>Discover the Latest AT&T Cellphone Savings for May 202N4 – Expert Reviews and Tips</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-do-itel-p55t-screen-sharing-drfone-by-drfone-android/"><u>How To Do Itel P55T Screen Sharing | Dr.fone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/ideal-gaming-bundles-for-kids-consoles-controllers-and-more/"><u>Ideal Gaming Bundles for Kids: Consoles, Controllers, and More!</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/mastering-the-ios-18-iphone-control-center-tailored-customization-guide-for-smart-users-digitalgeniustips/"><u>Mastering the iOS 18 iPhone Control Center - Tailored Customization Guide for Smart Users | DigitalGeniusTips</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/professional-video-production-goes-mobile-apple-enhances-iphone-with-final-cut/"><u>Professional Video Production Goes Mobile: Apple Enhances iPhone with Final Cut</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/step-by-step-guide-tracking-your-online-bandwidth-usage-easily/"><u>Step-by-Step Guide: Tracking Your Online Bandwidth Usage Easily</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/the-showdown-between-the-latest-tech-google-pixel-watch-vs-apple-watch-series-9-investing-wisely-in-a-smarttimepiece/"><u>The Showdown Between the Latest Tech: Google Pixel Watch Vs. Apple Watch Series 9 - Investing Wisely in a Smarttimepiece</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/90s-chuckles-dissecting-the-vhs-of-the-goofies/"><u>'90S Chuckles Dissecting the VHS of The Goofies</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-acoustic-additions-for-your-chat-status/"><u>[New] Acoustic Additions for Your Chat Status</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-clearing-tactics-for-youtubes-stored-video-queue/"><u>[Updated] 2024 Approved Clearing Tactics for YouTube's Stored Video Queue</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-virtual-questland-the-ultimate-guide-to-no-cost-mmorpgs/"><u>2024 Approved Virtual Questland The Ultimate Guide to No-Cost MMORPGs</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/apple-vision-pro-mastery-capturing-flawless-images-and-videos-without-glitches-tips-from-zdnet/"><u>Apple Vision Pro Mastery: Capturing Flawless Images & Videos Without Glitches - Tips From ZDNet</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/discerning-deceptive-digital-acquaintance-approaches-detecting-phony-friend-invites/"><u>Discerning Deceptive Digital Acquaintance Approaches: Detecting Phony Friend Invites</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-successfully-address-a-non-functioning-aol-mail-application-in-iphone-discover-the-6-most-helpful-fixes/"><u>How to Successfully Address a Non-Functioning AOL Mail Application in iPhone: Discover the 6 Most Helpful Fixes</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/imessage-communication-made-easy-tips-for-using-imessage-on-a-windows-device-insights/"><u>IMessage Communication Made Easy: Tips for Using iMessage on a Windows Device - Insights</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-6-ways-to-transfer-contacts-from-itel-a70-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 6 Ways To Transfer Contacts From Itel A70 to iPhone | Dr.fone</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-best-apps-to-modify-your-voice-on-commute/"><u>In 2024, Best Apps to Modify Your Voice on Commute</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/mastering-sound-management-overcoming-powerpoint-audible-challenges/"><u>Mastering Sound Management: Overcoming PowerPoint Audible Challenges</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-11-best-free-update-utilities-essential-tools-for-keeping-your-software-current/"><u>Top 11 Best Free Update Utilities: Essential Tools for Keeping Your Software Current</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/transferring-playlist-data-between-apple-music-and-youtube-music-what-you-need-to-know/"><u>Transferring Playlist Data Between Apple Music and YouTube Music: What You Need to Know</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/understanding-telegram-a-comprehensive-overview/"><u>Understanding Telegram: A Comprehensive Overview</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: How to Repair the Infamous 'Goose and Duck' Bug on Your Computer Gaming Experience
-date: 2024-08-18T16:35:35.075Z
-updated: 2024-08-19T16:35:35.075Z
+date: 2025-02-08T00:23:45.461Z
+updated: 2025-02-11T16:17:59.855Z
 tags:
   - win11
   - win10
@@ -46,9 +46,6 @@ Your screen remains black after turning on the PC? This is very frustrating, and
 
 **If your monitor works fine** , move on to the fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 3: Reconnect your monitor to your computer
 
  A poor connection between your monitor and your computer might also be the cause of your problem. In this case, reconnecting the two devices is very likely the solution to your problem. Here is how to do it:
@@ -63,14 +60,15 @@ Your screen remains black after turning on the PC? This is very frustrating, and
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/analog-20871_640-1024x338.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **4)** Check to see if your**video cable** is damaged. If the video cable is fine, reconnect your computer to your monitor. Or, if you have**another video cable** available, try connecting the two devices using the new cable.
 
 **5)** Try turning on your computer to see if it can boot normally.
 
 If your computer fails again, read on and check the fix below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Disconnect your peripherals
 
@@ -85,6 +83,10 @@ If your computer fails again, read on and check the fix below.
  If your computer boots correctly, that means that one of the peripherals you removed is causing your problem. You should**reinstall each device** back into your computer and test them each time. Then, you’ll find the specific device that causes your problem. (Replace the device once you’ve identified it. Or, consult the manufacturer of the device for assistance. )
 
 If your computer still can’t boot correctly, try the fix below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5: Reinstall your RAM
 
@@ -103,8 +105,9 @@ RAM looks like this:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/computer-memory-857098_640-1024x381.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **4)** Put**your RAM** back into the slot.
 
 **5)** Connect the**AC power cord** to the power supply, and then turn on your computer.
@@ -112,13 +115,9 @@ RAM looks like this:
  If your computer still can’t boot properly, don’t worry. Check the fix below.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
-
- Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
-
- DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
- PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 6: Reset your BIOS settings to default
 
  Improper BIOS settings can also cause your PC to boot into a black screen. To see if that’s the problem for you, you should reset your BIOS to factory settings. Here is how to do it:
@@ -133,9 +132,6 @@ The CMOS battery looks like this
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-176.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
-<!-- affiliate ads end -->
 **4)** Wait for 5 minutes, and then reinstall your**CMOS battery** .
 
 **5)** Connect the**AC power cord** to the power supply, and then turn on your computer to see if your problem persists.
@@ -148,9 +144,6 @@ The CMOS battery looks like this
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/08/Fortect-tp-reviews.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
-<!-- affiliate ads end -->
  Here’s how to use Fortect to check for broken system components in just one click:
 
  1)[**Download**](https://tools.techidaily.com/drivereasy/download/) and install Fortect.
@@ -160,6 +153,10 @@ The CMOS battery looks like this
  3) You can review a summary of the issues detected after the scan is finished. Click **START REPAIR** to start the repair process. This requires the full version – which comes with a**60-day Money-Back Guarantee** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/08/fortect-demo.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The Pro version of Fortect comes with 24/7 technical support. If you need any assistance, please contact Fortect support:  
  Email: **<support@fortect.com>**
@@ -176,8 +173,6 @@ The CMOS battery looks like this
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -185,4 +180,26 @@ The CMOS battery looks like this
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-from-novice-to-pro-your-complete-reddit-post-blueprint/"><u>[New] 2024 Approved From Novice to Pro Your Complete Reddit Post Blueprint</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-2024-approved-epic-prank-ideas-with-a-twist-of-anime-on-tiktok/"><u>[Updated] 2024 Approved Epic Prank Ideas with a Twist of Anime on TikTok</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-the-undercover-upsell-simple-image-saving/"><u>[Updated] 2024 Approved The Undercover Upsell Simple Image Saving</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-universal-synchronization-zoom-on-phones-tablets-pcs-all/"><u>[Updated] In 2024, Universal Synchronization Zoom on Phones, Tablets, PCs All</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-intensive-investigation-the-gecata-game-logger-for-2024/"><u>[Updated] Intensive Investigation The Gecata Game Logger for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-keep-your-tweets-compliant-with-aspect-ratio-requirements/"><u>2024 Approved Keep Your Tweets Compliant with Aspect Ratio Requirements</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/apple-challenges-top-browsers-with-unsettling-marketing-ploy-discover-how-theyre-competing-insights-on-zdnet/"><u>Apple Challenges Top Browsers with Unsettling Marketing Ploy: Discover How They're Competing - Insights on ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discover-7-outstanding-alarm-clock-apps-for-optimal-snooze-control/"><u>Discover 7 Outstanding Alarm Clock Apps for Optimal Snooze Control</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/easy-connection-techniques-binding-your-fire-stick-remote-with-any-compatible-tv/"><u>Easy Connection Techniques: Binding Your Fire Stick Remote with Any Compatible TV</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/efficiently-crafting-multiples-with-canva-and-chatgpt/"><u>Efficiently Crafting Multiples with Canva & ChatGPT</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/elevate-your-mobile-filmmaking-apple-integrates-final-cut-into-the-iphone-for-cinema-quality-videos-gadget-review/"><u>Elevate Your Mobile Filmmaking: Apple Integrates Final Cut Into the iPhone for Cinema Quality Videos | Gadget Review</u></a></li>
+<li><a href="https://win11.techidaily.com/from-stationary-to-mobile-your-guide-to-win-11s-wi-fi-hotspot/"><u>From Stationary to Mobile: Your Guide to Win 11'S Wi-Fi Hotspot</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-fix-pokemon-go-route-not-working-on-oppo-reno-10-proplus-5g-drfone-by-drfone-virtual-android/"><u>How to Fix Pokemon Go Route Not Working On Oppo Reno 10 Pro+ 5G? | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/steps-to-correct-the-libeay32dll-dll-file-absence-issue/"><u>Steps to Correct the libeay32.dll DLL File Absence Issue</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-11-most-motivating-films-for-personal-growth/"><u>Top 11 Most Motivating Films for Personal Growth</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-atandt-mobile-offers-in-may-2024-exclusive-picks/"><u>Top AT&T Mobile Offers in May 2024 - Exclusive Picks</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-rated-iphone-16pro-protectors-of-2024-reviewed-by-tech-gurus-zdnet/"><u>Top-Rated iPhone 16/Pro Protectors of 2024 Reviewed by Tech Gurus | ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/troubleshooting-hulus-rununk13-error-for-smooth-streaming/"><u>Troubleshooting Hulu's RUNUNK13 Error for Smooth Streaming</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/unveiling-the-capabilities-of-googles-voice-telephony-offerings/"><u>Unveiling the Capabilities of Google's Voice Telephony Offerings</u></a></li>
+</ul></div>
 

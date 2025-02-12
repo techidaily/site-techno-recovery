@@ -1,7 +1,7 @@
 ---
 title: Set Up Slack Push Notifications for iPhone and Apple Watch | Insights
-date: 2025-01-27T16:59:37.523Z
-updated: 2025-01-30T18:05:57.918Z
+date: 2025-02-09T18:20:10.650Z
+updated: 2025-02-11T23:25:20.684Z
 tags:
   - apple
 categories:
@@ -44,13 +44,13 @@ Here's how.
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to enable Slack notifications on your Apple Watch
 
 **What you'll need:** Have the latest versions of iOS and watchOS installed on your iPhone and Apple Watch, respectively. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 1\. Install the Slack app on your iPhone
 
@@ -72,12 +72,16 @@ Now, back out to the top of the Settings app and tap the red Notifications icon.
 
 Screenshot by David Gewirtz/ZDNET
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3\. Set up Slack notifications in the Slack app
 
 Next, open the Slack app. Tap your profile image in the upper right corner of the screen. Then tap Notifications.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##   
@@ -118,16 +122,12 @@ So, make sure you set the Start and End times that fit with your schedule.
 
 Recommendation to Slack: Where you put the "Every day" option in that setting, add the times as well (e.g., "Every day 8 a.m. - 11 p.m."). That way, it's clear to users what they might need to change. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 5\. Enable Slack notifications in the Watch app
 
 We're almost done configuring notifications. Open the Watch app and scroll down to Notifications. Then scroll down to Slack and make sure it's turned on.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##   
@@ -137,7 +137,7 @@ Screenshot by David Gewirtz/ZDNET
 There. You've set up notifications. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  6\. Use the Watch to get Slack notifications
@@ -179,21 +179,18 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/updated-giggles-galore-7-entertaining-video-sets-for-chuckleheads-for-2024/"><u>[Updated] Giggles Galore 7 Entertaining Video Sets for Chuckleheads for 2024</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-journey-journaling-paving-your-way-in-the-world-of-travel-vlogging/"><u>[Updated] In 2024, Journey Journaling Paving Your Way in the World of Travel Vlogging</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-the-most-effective-10-sound-recorders-for-spotify-fans/"><u>[Updated] The Most Effective 10 Sound Recorders for Spotify Fans</u></a></li>
-<li><a href="https://fox-that.techidaily.com/6-effective-fixes-for-non-responsive-aol-email-apps-on-iphones/"><u>6 Effective Fixes for Non-Responsive AOL Email Apps on iPhones</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/choosing-between-ipad-air-4-and-ipad-air-n-pros-cons-and-when-to-upgrade-cnet-gadgets/"><u>Choosing Between iPad Air 4 and iPad Air N: Pros, Cons & When to Upgrade | CNET Gadgets</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/essential-airpods-pro-peripherals-for-the-modern-user-the-ultimate-guide/"><u>Essential AirPods Pro Peripherals for the Modern User - The Ultimate Guide</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/fixing-no-sound-problems-in-stereo-systems-a-comprehensive-guide/"><u>Fixing No-Sound Problems in Stereo Systems: A Comprehensive Guide</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-3utools-virtual-location-not-working-on-honor-x50iplus-fix-now-drfone-by-drfone-virtual-android/"><u>In 2024, 3uTools Virtual Location Not Working On Honor X50i+? Fix Now | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-plunge-into-metaverse-top-8-high-tech-goggles-and-helmets/"><u>In 2024, Plunge Into Metaverse Top 8 High-Tech Goggles & Helmets</u></a></li>
-<li><a href="https://win-dash.techidaily.com/install-gigawares-compatible-usb-to-rs232rs485-windows-drivers-with-our-easy-download/"><u>Install Gigaware's Compatible USB to RS232/RS485 Windows Drivers with Our Easy Download</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/iphone-12-now-features-enhanced-qi-wireless-charging-without-relying-on-magsafe-what-you-need-to-know-techspot/"><u>IPhone 12 Now Features Enhanced Qi Wireless Charging Without Relying on MagSafe: What You Need to Know | TechSpot</u></a></li>
-<li><a href="https://win11.techidaily.com/rebooting-your-typing-routine-9-fixes-for-broken-keyboard-commands-on-windows/"><u>Rebooting Your Typing Routine: 9 Fixes for Broken Keyboard Commands on Windows</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/step-by-step-solution-restarting-and-repairing-your-zoom-camera-malfunction/"><u>Step-by-Step Solution: Restarting and Repairing Your Zoom Camera Malfunction</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/transform-your-listening-experience-get-the-latest-airpods-pro-2-with-hearing-aid-support-for-a-limited-time-offer-of-24-off/"><u>Transform Your Listening Experience – Get the Latest AirPods Pro 2 with Hearing Aid Support for a Limited Time Offer of 24% Off .</u></a></li>
-<li><a href="https://win-blog.techidaily.com/troubleshooting-tips-resolving-the-rainbow-six-siege-pc-black-screen-issue/"><u>Troubleshooting Tips: Resolving the Rainbow Six Siege PC Black Screen Issue</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/unlock-convenient-watching-pairing-disneyplus-with-your-chromecast-device/"><u>Unlock Convenient Watching: Pairing Disney+ with Your Chromecast Device</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-voices-for-change-highlighting-influential-ladies-on-youtube/"><u>[New] Voices for Change Highlighting Influential Ladies on YouTube</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/2-ways-to-monitor-samsung-galaxy-s24-activity-drfone-by-drfone-virtual-android/"><u>2 Ways to Monitor Samsung Galaxy S24 Activity | Dr.fone</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-playback-operation-for-srt-across-operating-systems/"><u>2024 Approved Playback Operation for SRT Across Operating Systems</u></a></li>
+<li><a href="https://location-social.techidaily.com/3-things-you-must-know-about-fake-snapchat-location-on-apple-iphone-14-pro-max-drfone-by-drfone-virtual-ios/"><u>3 Things You Must Know about Fake Snapchat Location On Apple iPhone 14 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/apple-surpasses-samsung-as-leading-player-in-worldwide-smartphone-distribution-insights-from-zdnet/"><u>Apple Surpasses Samsung as Leading Player in Worldwide Smartphone Distribution - Insights From ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/banishing-your-streaming-woes-fixing-the-netflix-ui-800-3-hiccup/"><u>Banishing Your Streaming Woes: Fixing the Netflix UI-800-3 Hiccup</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/evaluating-the-performance-of-the-hp-15-with-an-affordable-amd-processor-does-it-deliver-on-value/"><u>Evaluating the Performance of the HP 15 with an Affordable AMD Processor: Does It Deliver on Value?</u></a></li>
+<li><a href="https://extra-support.techidaily.com/masterclass-from-yis-4k-to-thrilling-cinematography-for-2024/"><u>Masterclass From Yi's 4K to Thrilling Cinematography for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/mastering-plc-error-codes-how-to-restart-a-device-blocked-by-error-10-and-prevent-future-glitches/"><u>Mastering PLC Error Codes: How to Restart a Device Blocked by Error #10 and Prevent Future Glitches</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/maximizing-your-photography-with-polarrs-enhanced-features/"><u>Maximizing Your Photography with Polarr's Enhanced Features</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/the-ultimate-guide-to-oppo-find-x7-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>The Ultimate Guide to Oppo Find X7 Pattern Lock Screen Everything You Need to Know</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/understanding-apples-new-vintage-mode-is-your-device-outdated-find-out-the-implications/"><u>Understanding Apple's New 'Vintage Mode': Is Your Device Outdated? Find Out the Implications</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/updated-netgear-user-credentials-guide-for-july-2024/"><u>Updated NETGEAR User Credentials Guide for July 2024</u></a></li>
 </ul></div>
 

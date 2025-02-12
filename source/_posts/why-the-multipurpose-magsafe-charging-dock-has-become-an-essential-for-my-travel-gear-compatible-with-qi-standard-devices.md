@@ -1,7 +1,7 @@
 ---
 title: "Why the Multipurpose MagSafe Charging Dock Has Become an Essential for My Travel Gear: Compatible with QI-Standard Devices"
-date: 2025-01-24T16:16:10.995Z
-updated: 2025-01-30T17:23:51.174Z
+date: 2025-02-07T22:49:46.841Z
+updated: 2025-02-11T17:04:17.359Z
 tags:
   - apple
 categories:
@@ -41,7 +41,7 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Generative AI for a context-aware Siri
@@ -55,7 +55,7 @@ If Apple can give Siri generative AI, iPhone users could ask the voice assistant
 The biggest challenge for Apple will be running large language models (LLMs) on-device, as one would expect it to do after its long-standing focus on consumer privacy. On-device processing means questions and responses won't have to be sent to remote cloud servers, minimizing data exposure.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Contextual search through image gallery
@@ -69,7 +69,7 @@ Apple already uses AI for facial recognition to create Memories and organize pho
 Other AI upgrades to photo galleries that could benefit smartphone users include finding and suggesting duplicate photos to free up storage, integrating AI voice assistants to search for photos with voice commands, recommending AI enhancements, and applying edits to photos. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Personalized text generation
@@ -81,7 +81,7 @@ ChatGPT became popular for its ability to generate text and have conversations t
 This is another instance where Apple trails behind competitors, as AI text generation is available in the [Google Pixel 8](https://www.kqzyfj.com/click-9041660-15823334-1717160402000?sid=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) and the Samsung [Galaxy S24 lineup](https://shop-links.co/link/?url=https%3A%2F%2Fwww.samsung.com%2Fus%2Fsmartphones%2Fgalaxy-s24%2Fbuy%2Fgalaxy-s24-256gb-unlocked-sm-s921ulbexaa%2F&publisher_slug=itechdaily19598&exclusive=1) of smartphones, as well as Microsoft 365, Gmail, Google Docs, Sheets, and more. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. AI-powered photo and video editing
@@ -126,22 +126,22 @@ It would be surprising to see Apple incorporate AI video features such as real-t
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-video-recordings.techidaily.com/new-in-2024-strategies-for-indefinitely-removing-a-tiktok-profile/"><u>[New] In 2024, Strategies for Indefinitely Removing a TikTok Profile</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-the-essentials-of-simple-straightforward-hdr-techniques-for-2024/"><u>[New] The Essentials of Simple, Straightforward HDR Techniques for 2024</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/he-young-filmmakers-guide-to-selecting-video-gear/"><u>[New] The Young Filmmaker's Guide to Selecting Video Gear</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-building-your-asmr-empire-key-concepts-and-best-practices/"><u>[Updated] 2024 Approved Building Your ASMR Empire Key Concepts and Best Practices</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/updated-boost-visibility-with-a-bespoke-youtube-channel-url/"><u>[Updated] Boost Visibility with a Bespoke YouTube Channel URL</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/approved-the-art-of-playlist-construction-on-youtube/"><u>2024 Approved The Art of Playlist Construction on YouTube</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-understanding-subscription-tiers-youtube-tv-explained/"><u>2024 Approved Understanding Subscription Tiers YouTube TV Explained</u></a></li>
-<li><a href="https://techidaily.com/best-fixes-for-itel-s23plus-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Itel S23+ Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/enhancing-email-interactions-unlocking-the-power-of-google-duets-on-gmail-platforms/"><u>Enhancing Email Interactions: Unlocking the Power of Google Duets on Gmail Platforms</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/how-to-address-and-correct-d3dx925dll-file-is-missing-on-your-computer/"><u>How to Address and Correct 'd3dx9_25.dll File Is Missing' On Your Computer</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/inside-the-unseen-apple-vision-pro-the-major-app-absences-you-need-to-know/"><u>Inside the Unseen Apple Vision Pro: The Major App Absences You Need to Know</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/insider-tips-to-keep-an-eye-on-your-internet-service-consumption/"><u>Insider Tips to Keep an Eye on Your Internet Service Consumption</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/ipados-16-revealed-top-5-new-features-unpacked-for-upcoming-ipads-showcased-at-wwdc-2024-insights-from-zdnet/"><u>IPadOS 16 Revealed: Top 5 New Features Unpacked for Upcoming iPads Showcased at WWDC 2024 - Insights From ZDNet</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/secure-your-next-apple-watch-grab-the-new-series-10-from-best-buy-for-a-steal-at-just-99-with-this-exclusive-pre-order-deal-zdnet/"><u>Secure Your Next Apple Watch: Grab the New Series 10 From Best Buy for a Steal at Just $99 with This Exclusive Pre-Order Deal! | ZDNET</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/solving-the-btballloondll-error-a-step-by-step-guide/"><u>Solving the btballloon.dll Error: A Step-by-Step Guide</u></a></li>
-<li><a href="https://discover-best.techidaily.com/step-by-step-guide-replacing-damaged-windows-os-files-yl-solutions/"><u>Step-by-Step Guide: Replacing Damaged Windows OS Files - YL Solutions</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/top-rated-ipad-air-sleeves-of-2024-comprehensive-reviews-and-ratings-by-tech-experts/"><u>Top-Rated iPad Air Sleeves of 2024 - Comprehensive Reviews & Ratings by Tech Experts</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-instagram-verified-posts-do-they-matter/"><u>[New] 2024 Approved Instagram Verified Posts - Do They Matter?</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-apple-melodies-enhancing-visual-storytelling/"><u>[New] Apple Melodies Enhancing Visual Storytelling</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-unlocking-viewer-analysis-on-your-instagram-snapshots/"><u>[Updated] Unlocking Viewer Analysis on Your Instagram Snapshots</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/best-free-entertainment-on-roku-top-8-channels-for-the-year-2aturday-april-13-2024/"><u>Best Free Entertainment on Roku: Top 8 Channels for the Year 2Aturday, April 13, 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/choosing-between-iphone-16-and-iphone-15-key-features-for-the-latest-generation/"><u>Choosing Between iPhone 16 and iPhone 15: Key Features for the Latest Generation</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/comprehensive-methods-for-dusting-and-wiping-down-your-hdtv-screens-safely/"><u>Comprehensive Methods for Dusting and Wiping Down Your HDTV Screens Safely</u></a></li>
+<li><a href="https://video-capture.techidaily.com/dvd-rompc/"><u>DVD-ROMのコピープロテクトを解除し、PCへ移動するスッキリとした手順</u></a></li>
+<li><a href="https://article-tips.techidaily.com/in-2024-dynamic-enhancements-for-your-tiktok-projects/"><u>In 2024, Dynamic Enhancements for Your TikTok Projects</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-jumpstart-to-partner-elevation-secure-10k-views-in-minutes/"><u>In 2024, Jumpstart to Partner Elevation Secure 10K Views in Minutes</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-ultimate-guide-on-iphone-14-icloud-activation-lock-bypass-by-drfone-ios/"><u>In 2024, Ultimate Guide on iPhone 14 iCloud Activation Lock Bypass</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/leveraging-github-copilot-for-efficient-collaboration-in-microsoft-teams/"><u>Leveraging GitHub Copilot for Efficient Collaboration in Microsoft Teams</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/swift-upload-of-sizeable-videos-from-iphone-to-mac-desktop-for-2024/"><u>Swift Upload of Sizeable Videos From iPhone to Mac Desktop for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-rated-iphone-12-and-12-pro-protectors-the-ultimate-case-guide-zdnet/"><u>Top-Rated iPhone 12 & 12 Pro Protectors: The Ultimate Case Guide - ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ultimate-comparison-samsung-galaxy-book-3-ultra-vs-apple-macbook-pro-the-definitive-guide-for-power-users/"><u>Ultimate Comparison: Samsung Galaxy Book 3 Ultra Vs. Apple MacBook Pro - The Definitive Guide for Power Users</u></a></li>
+<li><a href="https://win11.techidaily.com/unlocking-windows-with-recalled-logon-code/"><u>Unlocking Windows with Recalled Logon Code</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/upgrade-your-handling-skills-the-right-methods-to-wield-iphones-and-airpods-in-unison-smart-advice/"><u>Upgrade Your Handling Skills: The Right Methods to Wield iPhones and AirPods in Unison | Smart Advice</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/zdnets-in-depth-analysis-of-apple-airpods-pro-2021-upgrade-key-enhancements-unveiled/"><u>ZDNet's In-Depth Analysis of Apple AirPods Pro 2021 Upgrade: Key Enhancements Unveiled</u></a></li>
 </ul></div>
 

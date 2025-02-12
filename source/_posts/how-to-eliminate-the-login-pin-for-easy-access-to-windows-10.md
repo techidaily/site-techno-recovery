@@ -1,7 +1,7 @@
 ---
 title: How to Eliminate the Login PIN for Easy Access to Windows 10
-date: 2024-08-18T17:47:01.344Z
-updated: 2024-08-19T17:47:01.344Z
+date: 2025-02-06T20:19:03.935Z
+updated: 2025-02-11T18:51:10.252Z
 categories:
   - BestProducts
 description: This Article Describes How to Eliminate the Login PIN for Easy Access to Windows 10
@@ -10,6 +10,11 @@ thumbnail: https://www.lifewire.com/thmb/dpzBW9k88svSv8a1B4c7fFYV4jg=/400x300/fi
 ---
 
 ## Effortless Typography Tweaks in Windows 11 – Learn How to Change Fonts Easily
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### What to Know
 
 * Go to**Settings** \>**Personalization** \>**Fonts** to find the name of the font you want to use throughout Windows 11.
@@ -25,10 +30,20 @@ thumbnail: https://www.lifewire.com/thmb/dpzBW9k88svSv8a1B4c7fFYV4jg=/400x300/fi
 1. Open Settings, then select**Personalization** on the left, followed by**Fonts** on the right. Another way to get there is through the Run command:**ms-settings:fonts** .  
 ![The Personalization settings in Windows 11](https://www.lifewire.com/thmb/SJdYi81a1Rm29jJ6p7V24JP49ss=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/personalization-settings-windows-11-83afd8d0867d4d39a1b87dff59dd8fae.png)
 2. Scroll down to**Available fonts** , and find and select the font you're interested in using.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you don't see the font you want, you can take this time to download it. Lots of websites have free fonts, but you can also[buy fonts online](https://www.lifewire.com/buy-fonts-for-desktop-publishing-1077714) . Then, return to this area of Settings to see it. Our[How to Install Fonts in Windows 11](https://www.lifewire.com/install-fonts-in-windows-11-5192443) guide can help if you need it.
 3. Locate the**Full name** line in the**Metadata** section, and write it down exactly as it's written. In our example, we recorded**Franklin Gothic Medium** .  
 ![Full Name and Franklin Gothic Medium highlighted in Windows 11 font settings](https://www.lifewire.com/thmb/TLWCZLK0sdGg9XBIj1y4Ma1EuAA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_how-to-change-the-font-in-windows-11-6827640-97099a55349a45e392459345af24caf1.jpg)
 4. Open Notepad, or a[different text editor](https://www.lifewire.com/best-free-text-editors-4155819) if you prefer, and paste the following:  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  `Windows Registry Editor Version 5.00`  
 `[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Fonts]`  
 `"Segoe UI (TrueType)"=""`  
@@ -43,6 +58,11 @@ thumbnail: https://www.lifewire.com/thmb/dpzBW9k88svSv8a1B4c7fFYV4jg=/400x300/fi
 5. In the last line of the document, replace**Franklin Gothic Medium** with the name of the font you recorded in Step 3 (keep the quotes around the name).  
 ![Franklin Gothic Medium highlighted in Windows Notepad with REG file contents](https://www.lifewire.com/thmb/5UM6sKcUZ5_xlc9vkHeFpUtlwpk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002_how-to-change-the-font-in-windows-11-6827640-babf346069c14d8caa00e4c43d7992b6.jpg)
 6. If you're using Notepad, go to**File** \>**Save as** , and type a name in the**File name** box.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 7. Choose**All files** from the**Save as type** menu.
 8. Type**.reg** at the end of the file name. Our example reads**Franklin Gothic.reg** , but yours can be called whatever you want; just make sure it ends with that file extension.
 9. Choose a folder on your computer to save the file (the Desktop folder works), and then select**Save** .  
@@ -52,10 +72,6 @@ thumbnail: https://www.lifewire.com/thmb/dpzBW9k88svSv8a1B4c7fFYV4jg=/400x300/fi
 ![Yes highlighted in the Registry Editor prompt in Windows 11](https://www.lifewire.com/thmb/tViUCj2SD1eHRKNxSY2gP3-IusQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004_how-to-change-the-font-in-windows-11-6827640-acbf618a85854ff58bb4ca6f3a0d7384.jpg)
 12. [Reboot your computer](https://www.lifewire.com/how-to-reboot-a-computer-2624568) to see the font changes. The quickest method is to right-click the Start button and go to**Shut down or sign out** \>**Restart** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ## What Does Changing the System Font Do?
 
  Changing the computer font in Windows 11 will switch up the way text looks throughout the operating system. Desktop icon text and the links in Control Panel are a couple of examples, but it's most obvious in other areas, such as the Run dialog box.
@@ -63,15 +79,13 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 ![Windows 11 font type change in Run and Control Panel](https://www.lifewire.com/thmb/eN6m7hD9Mgh_sWhJB-Jl9QOeR2c=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/windows-11-changed-font-type-control-panel-run-desktop-365bc4a2e315498f96aa4115713f7d59.png)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  However, not every part of Windows will change to the new font. All the text within Settings, Start menu, Clock, Quick Settings, and numerous other areas aren't affected.
 
 [Troubleshooting Installed Fonts That Won't Work](https://www.lifewire.com/cant-use-installed-fonts-1074154)
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Restore the Default Font in Windows 11
 
  The best way to get the original Windows 11 font back is to reverse the registry tweak that changed it in the first place. To do that, repeat the steps from above, but replace the Notepad text with different code.
@@ -109,9 +123,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
  If you don't have the original REG file readily available to edit, just repeat the steps at the top of this page. When you get to the part about pasting the code into Notepad, use the modified code from Step 2 above, and don't make any changes to it.
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
-<!-- affiliate ads end -->
 ## Changing Other Fonts in Windows 11
 
  The method outlined in this article isn't how it typically works when you want to use a new font in Windows. The directions explained above are unique for two reasons: Windows doesn't have a built-in way to change the system font, and you're changing the_system_ font, not just the font type for a single app.
@@ -155,8 +166,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -164,4 +173,22 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-deciphering-your-affection-filmoras-top-10-features/"><u>[New] 2024 Approved Deciphering Your Affection Filmora’s Top 10 Features</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-quintessential-quests-and-thrills-top-10-games/"><u>[Updated] 2024 Approved Quintessential Quests & Thrills – Top 10 Games</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-premier-twitter-video-converters-guide/"><u>2024 Approved Premier Twitter Video Converters Guide</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/apple-agrees-to-reimburse-eligible-macbook-users-in-landmark-settlement-inside-app-store-news/"><u>Apple Agrees to Reimburse Eligible MacBook Users in Landmark Settlement – Inside App Store News</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/exploring-the-groundbreaking-synergy-between-artifice-intelligence-and-the-new-m4-ipad-pro-at-wwdc/"><u>Exploring the Groundbreaking Synergy Between Artifice Intelligence and the New M4 iPad Pro at WWDC</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-resolve-non-functional-razer-barracuda-x-mic-in-windows-1110/"><u>How to Resolve Non-Functional Razer Barracuda X Mic in Windows 11/10</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-cutting-edge-5-online-video-capture-applications/"><u>In 2024, Cutting-Edge 5 Online Video Capture Applications</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-video-visionaries-mastering-the-art-of-sharing-pictures-on-youtube/"><u>In 2024, Video Visionaries Mastering the Art of Sharing Pictures on YouTube</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-tutorial-on-linking-a-nintendo-switch-system-to-your-hdtv/"><u>Step-by-Step Tutorial on Linking a Nintendo Switch System to Your HDTV</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/the-all-new-samsung-ru7300-a-revolutionary-leap-in-4k-uhd-smart-tv-technology-reviewed/"><u>The All-New Samsung RU7300: A Revolutionary Leap in 4K UHD Smart TV Technology – Reviewed!</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/top-10-professional-pc-camera-options-on-windows-10-for-2024/"><u>Top 10 Professional PC Camera Options on Windows 10 for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-non-apple-rechargeable-alternatives-to-the-ideal-airtag-for-wallets-discover/"><u>Top Non-Apple, Rechargeable Alternatives to the Ideal AirTag for Wallets - Discover</u></a></li>
+<li><a href="https://win-forum.techidaily.com/top-social-platforms-engage-with-facebook-twitter-instagram-and-youtube/"><u>Top Social Platforms: Engage with Facebook, Twitter, Instagram and YouTube</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/what-to-expect-from-the-new-apple-domestic-aide-bot-price-release-timeline-and-features-revealed/"><u>What to Expect From the New Apple Domestic Aide-Bot: Price, Release Timeline & Features Revealed</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/why-iphone-14-plus-is-a-steal-top-reasons-including-endless-battery-life-and-exceptional-value-zdnet/"><u>Why iPhone Ⓜ️️ 14 Plus Is a Steal: Top Reasons Including Endless Battery Life & Exceptional Value | ZDNET</u></a></li>
+</ul></div>
 

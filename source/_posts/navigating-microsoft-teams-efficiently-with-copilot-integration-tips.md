@@ -1,7 +1,7 @@
 ---
 title: Navigating Microsoft Teams Efficiently with Copilot Integration Tips
-date: 2024-08-18T17:47:07.304Z
-updated: 2024-08-19T17:47:07.304Z
+date: 2025-02-05T19:34:35.344Z
+updated: 2025-02-11T19:52:44.313Z
 categories:
   - BestProducts
 description: This Article Describes Navigating Microsoft Teams Efficiently with Copilot Integration Tips
@@ -14,6 +14,10 @@ thumbnail: https://www.lifewire.com/thmb/PsM9b_FBI6MLWBjPvHaPRAH0GTQ=/400x300/fi
 Close 
 
  In this guide, you’ll learn how to use Copilot in Microsoft Teams. And to ensure that you have the right credentials, we’ll also show you how to get this generative AI feature for your account. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  How to Use Copilot in Microsoft Teams 
 
@@ -31,8 +35,9 @@ Close
  Before you learn how to set up and use Copilot in Teams, it’s worth remembering that you can only use the feature if you meet the correct requirements. In the sections below, we’ll cover exactly what you need to use Copilot in Microsoft Teams. 
 
 <!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ###  A Microsoft Business or Enterprise Subscription 
 
  To use Copilot for Microsoft Teams, you’ll need two separate subscriptions. First, you’ll need a Microsoft 365 Business Basic, Standard, or Premium account. Unfortunately, it’s not enough to have a Microsoft 365 Personal account.
@@ -45,10 +50,6 @@ Close
 
  You can also use Copilot for Teams with some Microsoft Enterprise accounts, but your subscription must also include Teams. So, if you haven't already, you'll have to upgrade.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
-<!-- affiliate ads end -->
 ###  A Microsoft Copilot Subscription 
 
  After signing up for a Microsoft 365 Business account, you’ll also need to get Copilot as an add-on. Your IT admin (or you, if you are that person) should see a message that says: 
@@ -62,8 +63,9 @@ Close
  Copilot costs $360 per year. If you aren’t already familiar with the software and want to learn more about it before purchasing, check out our guide on[ what Microsoft Copilot is](https://www.lifewire.com/what-is-microsoft-copilot-8572496) . 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  How to Download Extensions for Copilot in Microsoft Teams 
 
  You can also download extensions in Teams to use Copilot in more apps. Examples include Trello, Seismic, Jira Cloud, and Dropbox.
@@ -71,20 +73,21 @@ Close
 1. In Microsoft Teams, select the**Apps** heading on the left side.  
 ![The Apps heading for Copilot in Microsoft Teams](https://www.lifewire.com/thmb/KNCxBRRk_i3h3kceeSeepDwAYzg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Copilot-Apps-heading-ffc4f34ff4a54378bdb52a337492e834.jpg)
 2. Select**Copilot extensions** to see what's available.  
+
 <!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![The "Copilot Extensions" heading under Apps in Microsoft Teams](https://www.lifewire.com/thmb/NyIgfmsQLm3q9AFPMhNlX8PVDJI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Copilot-Extensions-heading-329c9afe682e45ebbfef4f3f0585e701.jpg)
 3. Look for the Copilot extension(s) you’d like to add in Teams. You can either use the search bar or browse different categories.  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  When you find one you want, select**Add** to install it.  
 ![The "Add" button for a Copilot extension](https://www.lifewire.com/thmb/Cf177pJ4izRTxxtYGuVVhuFE7Jc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Copilot-extension-add-button-5153b259328344cb92232920eb6a1707.jpg)
 4. Your extensions will appear in your chat, and you can access them from there. For example, if you use Trello, you can view your assigned cards without needing to go to the app.  
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 You may need to sign in to an app to use its extension.  
 ![Use Trello add-on in Microsoft Teams](https://www.lifewire.com/thmb/AvuErVtsmSgMLRTlB_LhwXkV05Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/UseTrelloinMicrosoftTeams-da20d85e27d846dda8e729c880132b3c.jpeg)
 
@@ -110,8 +113,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -119,4 +120,21 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-glue.techidaily.com/updated-foundations-of-frame-and-frequency-in-visual-media-for-2024/"><u>[Updated] Foundations of Frame and Frequency in Visual Media for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-how-to-live-without-the-temptation-of-youtube-shorts-for-2024/"><u>[Updated] How To Live Without the Temptation of YouTube Shorts for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-implementing-dynamic-filters-transform-your-videos-digitally/"><u>[Updated] In 2024, Implementing Dynamic Filters Transform Your Videos Digitally</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-stop-losses-maintaining-seamless-obs-recording-for-2024/"><u>[Updated] Stop Losses Maintaining Seamless OBS Recording for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/avoid-intrusive-safety-alarms-how-to-mute-amber-and-emergency-alerts-on-iphone/"><u>Avoid Intrusive Safety Alarms: How to Mute Amber & Emergency Alerts on iPhone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chuckling-with-chatgpt-how-advanced-ai-is-learning-to-crack-a-joke/"><u>Chuckling with ChatGPT: How Advanced AI Is Learning to Crack a Joke</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discover-new-enhancements-with-watchos-11-top-upgrades-coming-to-your-apple-watch-zdnet/"><u>Discover New Enhancements with WatchOS 11 – Top Upgrades Coming to Your Apple Watch [ZDNet]</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/easy-steps-for-diagnosing-and-solving-normalizdll-not-detected-errors-on-your-computer/"><u>Easy Steps for Diagnosing and Solving Normaliz.dll Not Detected Errors on Your Computer</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-advanced-gadgets-with-toms-technology-insights/"><u>Exploring Advanced Gadgets with Tom's Technology Insights</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-vivo-y56-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For Vivo Y56 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-scrutinizing-djis-phantom-3-for-enthusiast-use/"><u>In 2024, Scrutinizing DJI's Phantom 3 for Enthusiast Use</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/master-the-correct-way-to-hold-your-iphone-and-airpods-tips-you-cant-miss-insights-from-zdnet/"><u>Master the Correct Way to Hold Your iPhone & AirPods: Tips You Can’t Miss! – Insights From ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-compelling-reason-im-staying-with-apple-watch-series-7-instead-of-switching-to-series-10-tech-analysis/"><u>The Compelling Reason I'm Staying with Apple Watch Series 7 Instead of Switching to Series 10 | Tech Analysis</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/zdnets-ultimate-picks-safest-and-most-fun-phones-for-children-today/"><u>ZDNet's Ultimate Picks: Safest and Most Fun Phones for Children Today</u></a></li>
+</ul></div>
 

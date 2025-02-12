@@ -1,7 +1,7 @@
 ---
 title: Mastering Email Management with Custom Gmail Filters and Rules
-date: 2024-08-18T17:43:13.131Z
-updated: 2024-08-19T17:43:13.131Z
+date: 2025-02-05T19:20:11.261Z
+updated: 2025-02-11T21:19:52.529Z
 categories:
   - BestProducts
 description: This Article Describes Mastering Email Management with Custom Gmail Filters and Rules
@@ -43,6 +43,10 @@ of 08
 
 of 08
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## [Best for Getting Started With Application Creation: Microsoft Visual Studio Community](https://visualstudio.microsoft.com/vs/community/)
 
 ![Microsoft Visual Studio open on Windows 10](https://www.lifewire.com/thmb/LKBBcctrKn_uLjkema5JcNXf7UU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004_best-free-html-editors-for-windows-3471313-5c101ade46e0fb0001e7c709.png)
@@ -75,9 +79,6 @@ of 08
 
 ![Aptana Studio 3 Download Page](https://www.lifewire.com/thmb/LSw826Uq62zT6ABEUppBhpg_u5E=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Aptana-75f634aa71314734b7bc98e597dc8ab0.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  What We Like
 
 * Good for JavaScript.
@@ -103,6 +104,10 @@ of 08
 
 ![Eclipse IDE on Windows 10](https://www.lifewire.com/thmb/yBhmVAbfB3wc--glMp2_4A7iOl8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/003_best-free-html-editors-for-windows-3471313-5c101a9246e0fb0001171a9b.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  What We Like
 
 * Plug-in design makes adding new languages simple.
@@ -124,15 +129,13 @@ of 08
 of 08
 
 <!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## [Best Open-Source, Free Editor: Komodo Edit](https://www.activestate.com/products/komodo-edit/)
 
 ![Komodo Edit on Windows 10](https://www.lifewire.com/thmb/VxIZ_IS8ckIU1V573AYZGEQ4a5o=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002_best-free-html-editors-for-windows-3471313-5c101a7b4cedfd0001ce980d.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
  What We Like
 
 * Extensible through plug-ins.
@@ -158,15 +161,13 @@ of 08
 of 08
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## [Best if You Write Java and Web Pages: Apache NetBeans](https://netbeans.apache.org/front/main/index.html)
 
 ![Apache Netbeans window open with HTML document](https://www.lifewire.com/thmb/PPMTFUWP3GehVdKnaKNLrFRlhZ4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/006_best-free-html-editors-for-windows-3471313-5c101ac1c9e77c000175debf.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
  What We Like
 
 * Version control functionality.
@@ -192,11 +193,16 @@ of 08
 of 08
 
 <!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## [Best Full-Featured HTML Editor: Bluefish](https://bluefish.openoffice.nl/index.html)
 
 ![The Bluefish Logo](https://www.lifewire.com/thmb/2pB5CjnnWMwXr5aSkLsptE4UgGw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/2000px-Bluefish-icon.svg-5be08448c9e77c0051d83a25-2e29fb6f90d14857b8eb140a23811142.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  What We Like
 
@@ -266,8 +272,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -275,4 +279,18 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-info.techidaily.com/new-in-2024-revolutionary-tools-elevating-vr-games/"><u>[New] In 2024, Revolutionary Tools Elevating VR Games</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-in-2024-the-ultimate-review-of-asuss-4k-hdr-powerhouse/"><u>[New] In 2024, The Ultimate Review of ASUS's 4K HDR Powerhouse</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/amazon-selling-iphone-15-pro-max-at-just-one-cent-exclusive-insider-guide-by-zdnet/"><u>Amazon Selling iPhone 15 Pro Max at Just One Cent - Exclusive Insider Guide by ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/citation-techniques-for-artificial-intelligence-outputs-including-chatgpt/"><u>Citation Techniques for Artificial Intelligence Outputs, Including ChatGPT</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/copying-safely-on-tiktok-a-2023-guide-to-rights-checks/"><u>Copying Safely on TikTok A 2023 Guide to Rights Checks</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/pixel-watch-3-versus-apple-watch-series-9-showdown-the-ultimate-guide-to-finding-your-perfect-smartwatch-insights/"><u>Pixel Watch 3 versus Apple Watch Series 9 Showdown: The Ultimate Guide to Finding Your Perfect Smartwatch - Insights</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/resolving-sound-lag-in-vlc-playback/"><u>Resolving Sound Lag in VLC Playback</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/should-you-upgrade-to-iphone-16-pro-or-stick-with-iphone-e-14-a-comprehensive-review/"><u>Should You Upgrade to iPhone 16 Pro or Stick with iPhone E-14? A Comprehensive Review</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/solving-the-coredll-is-missing-issue-a-step-by-step-guide/"><u>Solving the 'Core.dll Is Missing' Issue: A Step-by-Step Guide</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/unveiling-the-best-budget-friendly-wi-fi-expansion-gadget-tp-link-re200-reviewed/"><u>Unveiling the Best Budget-Friendly Wi-Fi Expansion Gadget - TP-Link RE200 Reviewed!</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/video-editing-for-kids-made-easy-10-best-apps-with-free-and-paid-options-for-2024/"><u>Video Editing for Kids Made Easy 10 Best Apps with Free and Paid Options for 2024</u></a></li>
+</ul></div>
 

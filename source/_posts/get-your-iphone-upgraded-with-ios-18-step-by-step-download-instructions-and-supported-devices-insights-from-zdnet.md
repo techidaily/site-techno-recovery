@@ -1,7 +1,7 @@
 ---
 title: Get Your iPhone Upgraded with iOS 18! Step-by-Step Download Instructions and Supported Devices | Insights From ZDNET
-date: 2025-01-24T18:08:30.087Z
-updated: 2025-01-30T18:44:50.615Z
+date: 2025-02-08T16:18:25.021Z
+updated: 2025-02-12T00:27:55.719Z
 tags:
   - apple
 categories:
@@ -27,7 +27,7 @@ While the official iOS 18 general release is today, users have already been able
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to install iOS 18
@@ -36,10 +36,6 @@ Jason Hiner/ZDNET
 
 **What you need:** An iPhone running iOS 16.5 or later. Since not all iPhones are compatible with iOS 18, you'll also need a model [newer than the iPhone X](https://www.zdnet.com/article/best-iphone/).
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Go to General in your iPhone Settings
 
 Go to your iPhone's Settings and select General. 
@@ -47,6 +43,10 @@ Go to your iPhone's Settings and select General.
 ## 2\. Go to Software Update in Settings
 
 Within General, tap on Software Update. This will show you if the iOS 18 update is available for you to download.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Download and install
 
@@ -58,15 +58,15 @@ Enter your passcode, if necessary, to authorize the installation of the new iOS 
 
 After installing the latest iOS update, your iPhone will restart.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## FAQs
 
 ### When is Apple Intelligence coming out?
 
 Apple Intelligence, featuring the company's AI tools, will begin to roll out for compatible iPhones over the next few weeks, with more features to join in the coming months. This slew of AI features will be available on the iPhone 16 lineup and the iPhones 15 Pro and Pro Max.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### When was iOS 18 released?
 
@@ -75,7 +75,7 @@ Apple released the iOS 18 developer beta during WWDC 2024 in June, and the publi
 **Also: [The best iOS 18 features that will make updating your iPhone worthwhile](https://www.zdnet.com/article/the-best-ios-18-features-that-will-make-updating-your-iphone-worthwhile/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Can you still download the iOS 18 public beta?
@@ -97,6 +97,10 @@ You'll need an iPhone running iOS 16.5 or later. Since not all iPhones are compa
 
 Screenshot: Maria Diaz/ZDNET
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### How to download the iOS 18 developer beta?
 
 To download the iOS 18 developer beta version, navigate to your settings to install the iOS 18 developer beta if your device runs iOS 16.4 and is used with an Apple ID enrolled in the Apple Developer Program:
@@ -112,10 +116,6 @@ If you can't see this option, go to your **Settings,** select **Privacy & Securi
 **Also: [How to use and customize your iPhone's new Control Center with iOS 18](https://www.zdnet.com/article/how-to-use-and-customize-your-iphones-new-control-center-with-ios-18/)**
 
 If you aren't already a member of the Apple Developer Program, you can sign up to become one in the app. An annual membership costs $99.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### What is in iOS 18 beta 3?
 
@@ -161,19 +161,22 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/rafting-perfect-youtube-music-playlists-via-web-and-mobile-platforms/"><u>[New] Crafting Perfect YouTube Music Playlists via Web & Mobile Platforms</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-in-2024-artful-expression-on-tablets-leading-ios-drawers/"><u>[New] In 2024, Artful Expression on Tablets Leading iOS Drawers</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-hot-tunes-essential-background-scores-for-viral-yt-shorts/"><u>[Updated] 2024 Approved Hot Tunes Essential Background Scores For Viral YT Shorts</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-journey-through-cartoony-fun-snapchat-face-lens-magic/"><u>[Updated] Journey Through Cartoony Fun Snapchat Face Lens Magic</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/nding-youtube-realm-through-strategic-creator-studio-utilization/"><u>Commanding YouTube Realm Through Strategic Creator Studio Utilization</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/configuring-additional-macos-network-profiles-to-improve-connection-options-expert-strategies/"><u>Configuring Additional MacOS Network Profiles to Improve Connection Options - Expert Strategies</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/expert-tips-easy-way-to-take-screenshots-using-hp-laptop-function-keys/"><u>Expert Tips: Easy Way to Take Screenshots Using HP Laptop Function Keys</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-swift-transition-the-ultimate-guide-to-sierra-on-macs/"><u>In 2024, Swift Transition The Ultimate Guide to Sierra on Macs</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/selecting-the-perfect-motherboard-top-7-criteria-explained/"><u>Selecting the Perfect Motherboard: Top 7 Criteria Explained</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/the-ultimate-guide-steps-to-permanently-remove-your-twitch-profile/"><u>The Ultimate Guide: Steps to Permanently Remove Your Twitch Profile</u></a></li>
-<li><a href="https://extra-information.techidaily.com/the-ultimate-pathway-from-webp-files-to-jpegs/"><u>The Ultimate Pathway From WebP Files to JPEGs</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/the-ultimate-playlist-youtubes-best-in-vr-for-2024/"><u>The Ultimate Playlist YouTube’s Best in VR for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/the-unbeatable-charm-of-apples-iphone-ebonite-16-pro-my-picks-for-a-sleek-upgrade-over-max-model-this-year-gadgetpundit/"><u>The Unbeatable Charm of Apple's iPhone Ebonite 16 Pro - My Picks for a Sleek Upgrade over Max Model This Year | GadgetPundit</u></a></li>
-<li><a href="https://discover-community.techidaily.com/will-i-lose-my-settings-after-a-windows-pc-factory-reset/"><u>Will I Lose My Settings After a Windows PC Factory Reset?</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-apex-creators-video-giants-in-the-making/"><u>[New] 2024 Approved Apex Creators Video Giants in the Making</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-clearing-the-path-for-smooth-fb-stories-posting-and-playback/"><u>[Updated] Clearing the Path for Smooth FB Stories Posting and Playback</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-from-amateurs-to-a-listers-top-10-film-cameras-reviewed/"><u>2024 Approved From Amateurs to A-Listers Top 10 Film Cameras Reviewed</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/can-you-connect-airpods-to-a-nintendo-switch/"><u>Can You Connect AirPods to a Nintendo Switch?</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/capturing-the-world-in-hd-with-yis-4k-camera-for-2024/"><u>Capturing the World in HD with YI's 4K Camera for 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/does-apple-iphone-11-pro-max-have-find-my-friends-drfone-by-drfone-virtual-ios/"><u>Does Apple iPhone 11 Pro Max Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/effortless-fix-for-system-error-0x887a0006-detailed-walkthrough/"><u>Effortless Fix for System Error 0X887A0006 Detailed Walkthrough</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/exploring-the-water-resistance-of-the-latest-iphone-model/"><u>Exploring the Water Resistance of the Latest iPhone Model</u></a></li>
+<li><a href="https://facebook.techidaily.com/facebook-blacklist-why-it-occurs/"><u>Facebook Blacklist: Why It Occurs</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/find-the-absolute-deviations-from-the-mean-5-135-16-135-12-135-10-135-18-135-20-135/"><u>Find the Absolute Deviations From the Mean: $|5 - 13.5|, |16 - 13.5|, |12 - 13.5|, |10 - 13.5|, |18 - 13.5|, |20 - 13.5|$</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/from-skeptic-to-enthusiast-discover-the-3-compelling-apple-watch-series-groove-that-converted-me/"><u>From Skeptic to Enthusiast: Discover the 3 Compelling Apple Watch Series Groove that Converted Me</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-achieve-creative-vibrancy-with-picshots-assistance/"><u>In 2024, Achieve Creative Vibrancy with Picshot's Assistance</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-guide-clearing-your-macoss-dns-history/"><u>Step-by-Step Guide: Clearing Your macOS's DNS History</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-ultimate-fixes-to-tackle-your-photoshop-scratch-disk-full-challenge/"><u>The Ultimate Fixes to Tackle Your Photoshop 'Scratch Disk Full' Challenge</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-9-solutions-for-troubleshooting-airpods-charge-issues/"><u>Top 9 Solutions for Troubleshooting AirPods Charge Issues</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/uncovering-average-earnings-in-podcasting-for-2024/"><u>Uncovering Average Earnings in Podcasting for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unleashing-the-transformative-abilities-of-ai-in-modern-society/"><u>Unleashing the Transformative Abilities of AI in Modern Society</u></a></li>
 </ul></div>
 

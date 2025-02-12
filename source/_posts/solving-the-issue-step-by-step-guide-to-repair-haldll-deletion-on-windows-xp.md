@@ -1,7 +1,7 @@
 ---
 title: "Solving the Issue: Step-by-Step Guide to Repair Hal.dll Deletion on Windows XP"
-date: 2025-01-23T17:57:23.317Z
-updated: 2025-01-30T16:54:04.342Z
+date: 2025-02-04T21:41:10.944Z
+updated: 2025-02-11T19:15:56.098Z
 categories:
   - BestProducts
 description: "This Article Describes Solving the Issue: Step-by-Step Guide to Repair Hal.dll Deletion on Windows XP"
@@ -17,7 +17,7 @@ thumbnail: https://thmb.techidaily.com/5eac549bf0074d54dd4b3414ac1cd5ccda2e57524
 ## Personalize Your Emails with Unique Sounds in Gmail – Step-by-Step Guide
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### What to Know
@@ -29,7 +29,7 @@ thumbnail: https://thmb.techidaily.com/5eac549bf0074d54dd4b3414ac1cd5ccda2e57524
  This article explains how to enable Gmail sound notifications using the Notifier for Gmail extension for Chrome. It includes information for enabling a pop-up notification for Gmail and sound notifications for other email providers.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Enable a New Mail Sound for Gmail
@@ -44,31 +44,31 @@ thumbnail: https://thmb.techidaily.com/5eac549bf0074d54dd4b3414ac1cd5ccda2e57524
 ![Options menu item for Notifier for Gmail.](https://www.lifewire.com/thmb/ItTlmQe_8CNY3vW37Q6ac7spTJ8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001-how-to-add-a-new-mail-sound-for-gmail-5b50d46b9a594db3bd73946ea64549aa.jpg)
 2. Scroll down to the Notifications section and make sure **Play alert sound for new emails** is selected.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Play alert sound for new emails.](https://www.lifewire.com/thmb/EaGNTDoH2lcLO8QxHT0Z1KVeUPk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002-how-to-add-a-new-mail-sound-for-gmail-1e074c5a399d403aab64b2ec37afbbf8.jpg)
 3. Change the sound using the drop-down menu.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Notifier for Gmail settings screen highlighting Play alert sound for new emails and Default sound notification drop-down menu](https://www.lifewire.com/thmb/DUBiUTKL1yNY2AP6anJNY9OE1cM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/003-how-to-add-a-new-mail-sound-for-gmail-db10f7ff4e56480c8acefb921da8d1b6.jpg)
 4. Exit the window when you're done. The changes are saved automatically.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  You can also[change your notification sounds on Android](https://www.lifewire.com/how-to-change-create-android-notification-sounds-4783114) or[change the new mail sound on iOS](https://www.lifewire.com/how-to-change-the-new-mail-sound-in-ios-mail-1172501) to achieve a similar effect in those mobile apps.
 
  If you use Gmail through a downloadable email client like[Microsoft Outlook](https://www.lifewire.com/microsoft-outlook-4164620) ,[Thunderbird](https://www.lifewire.com/gmail-access-thunderbird-1173150) , or[eM Client](http://www.emclient.com/) , you make the sound change from within those programs.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Enable a Pop-Up Notification
 
  You can set Gmail to display a pop-up notification when new email messages arrive in Chrome, Firefox, or Safari when you are signed in to Gmail and have it open in the browser. Just turn on that setting in Gmail by selecting the **Settings**  icon then choosing **See all settings** and going to **General** \> **Desktop Notifications** . The notification is not accompanied by a sound.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Change Gmail Notification Sounds in Other Email Clients
 
@@ -116,24 +116,21 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-decoding-action-camera-extras-a-shoppers-map-for-2024/"><u>[New] Decoding Action Camera Extras - A Shopper’s Map for 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/n-2024-trimming-tactics-for-time-strapped-youtubers/"><u>[New] In 2024, Trimming Tactics for Time-Strapped YouTubers</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-experience-retro-gaming-glory-with-best-pc-ps1-emulation-software/"><u>[Updated] Experience Retro Gaming Glory with Best PC PS1 Emulation Software</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-the-complete-beginners-manual-to-using-final-cut-pro/"><u>2024 Approved The Complete Beginner's Manual to Using Final Cut Pro</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/cant-use-itunes-heres-how-you-can-easily-cancel-apple-music-membership/"><u>Can't Use iTunes? Here's How You Can Easily Cancel Apple Music Membership!</u></a></li>
-<li><a href="https://windows11.techidaily.com/easily-switch-your-windows-11-logon-technique-ditch-pin-embrace-password/"><u>Easily Switch Your Windows 11 Logon Technique: Ditch PIN, Embrace Password</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/easy-downloading-process-for-the-latest-canon-mg362e-printer-drivers/"><u>Easy Downloading Process for the Latest Canon MG362e Printer Drivers</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/going-viral-made-easy-essential-methods-for-amplifying-your-instagram-presence/"><u>Going Viral Made Easy: Essential Methods for Amplifying Your Instagram Presence</u></a></li>
-<li><a href="https://techidaily.com/how-to-hard-reset-xiaomi-redmi-k70-pro-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Xiaomi Redmi K70 Pro Without Password | Dr.fone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/manual-gps-deception-techniques-to-falsify-cellular-device-positioning-data/"><u>Manual GPS Deception: Techniques to Falsify Cellular Device Positioning Data</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/mastering-the-purchase-of-your-apple-vision-pro-essential-guidelines-hidden-techniques-and-ensuring-an-accurate-facial-recognition-setup/"><u>Mastering the Purchase of Your Apple Vision Pro: Essential Guidelines, Hidden Techniques, and Ensuring an Accurate Facial Recognition Setup</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/missing-fullscreen-display-win11-monitor-issue/"><u>Missing Fullscreen Display: Win11 Monitor Issue</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/price-check-and-launch-date-insights-on-the-samsung-galaxy-z-flip-series-features-awaiting-your-discovery/"><u>Price Check and Launch Date Insights on the Samsung Galaxy Z Flip Series: Features Awaiting Your Discovery</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/saving-your-desktop-display-with-free-tech-tools-for-2024/"><u>Saving Your Desktop Display with Free Tech Tools for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/say-goodbye-to-unwanted-messages-eradicate-iphone-spam-with-our-simple-3-step-guide/"><u>Say Goodbye to Unwanted Messages: Eradicate iPhone Spam with Our Simple 3-Step Guide!</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/step-by-step-strategies-to-locate-and-clean-up-spyware-on-your-smartphone-insights/"><u>Step-by-Step Strategies to Locate and Clean Up Spyware on Your Smartphone: Insights</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/transform-your-listening-experience-get-discounted-airpods-pro-with-integrated-hearing-support-exclusive-deal-at-zdnet/"><u>Transform Your Listening Experience: Get Discounted AirPods Pro with Integrated Hearing Support | Exclusive Deal at ZDNET</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/vision-pro-rumored-to-gain-breath-monitoring-feature-by-apple-tech-news/"><u>Vision Pro Rumored to Gain Breath Monitoring Feature by Apple | Tech News</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/be-tvs-not-to-miss-factors-in-signing-up-for-2024/"><u>YouTube TV's Not-to-Miss Factors in Signing Up for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-how-to-amplify-facebook-stories-with-music-elements-for-2024/"><u>[New] How to Amplify Facebook Stories with Music Elements for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-the-chorus-of-content-perfecting-music-placement-on-ig/"><u>[New] The Chorus of Content Perfecting Music Placement on IG</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-top-10-escape-houses-challenges-for-intellects-for-2024/"><u>[New] Top 10 Escape Houses Challenges for Intellects for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-shaping-snapshots-transitioning-from-auto-to-smart-hdr-shooting/"><u>2024 Approved Shaping Snapshots Transitioning From Auto to Smart HDR Shooting</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/complete-dragon-ball-journey-the-ultimate-guide-to-watching-in-sequence/"><u>Complete Dragon Ball Journey: The Ultimate Guide to Watching In Sequence</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/fixing-potentially-harmful-battery-safeguards-on-your-devices-including-airtags-step-by-step-instructions/"><u>Fixing Potentially Harmful Battery Safeguards on Your Devices, Including AirTags - Step-by-Step Instructions</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-android-app-not-installed-error-on-nubia-z50-ultra-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android App Not Installed Error on Nubia Z50 Ultra Quickly? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-reset-iphone-11-without-losing-data-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Reset iPhone 11 without Losing Data? | Stellar</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/m-macbook-pro-multitasking-mastery-setting-up-dual-monitors-for-seamless-workflow-exclusive/"><u>M-Macbook Pro Multitasking Mastery: Setting Up Dual Monitors for Seamless Workflow Exclusive</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/makeblock-mbot-robot-kit-review-construct-and-code-a-robot-in-this-fun-diy-kit/"><u>Makeblock mBot Robot Kit Review: Construct and Code a Robot in This Fun DIY Kit</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/seamless-tv-casting-of-zoom-webinars-the-complete-walkthrough-for-users/"><u>Seamless TV Casting of Zoom Webinars: The Complete Walkthrough for Users</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/solving-the-issue-how-to-fix-microsoft-word-documents-that-wont-load/"><u>Solving the Issue: How to Fix Microsoft Word Documents That Won't Load</u></a></li>
+<li><a href="https://win-forum.techidaily.com/ultimate-guide-how-to-permanently-remove-a-folder-in-windows-11-using-command-prompt/"><u>Ultimate Guide: How to Permanently Remove a Folder in Windows 11 Using Command Prompt</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ultimate-tutorial-how-to-set-up-an-oculus-quest-quest-2-profile/"><u>Ultimate Tutorial: How to Set Up an Oculus Quest / Quest 2 Profile</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unleash-creativity-with-these-15-amazing-free-themes-for-windows-11-systems/"><u>Unleash Creativity with These 15 Amazing Free Themes for Windows 11 Systems</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/unrivaled-screenplays-reflective-of-diverse-themes-for-2024/"><u>Unrivaled Screenplays Reflective of Diverse Themes for 2024</u></a></li>
 </ul></div>
 

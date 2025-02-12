@@ -1,7 +1,7 @@
 ---
 title: "The Ultimate Checklist: Choosing the Right Components for an Optimal Gaming Rig"
-date: 2024-08-18T17:44:10.940Z
-updated: 2024-08-19T17:44:10.940Z
+date: 2025-02-07T20:21:14.468Z
+updated: 2025-02-11T19:58:19.928Z
 categories:
   - BestProducts
 description: "This Article Describes The Ultimate Checklist: Choosing the Right Components for an Optimal Gaming Rig"
@@ -37,9 +37,6 @@ thumbnail: https://thmb.techidaily.com/24c4d966d5ae08b9992d6ca8e560b523aa54e9e6e
 
 A September 2025 release date seems like a lock.
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## iPhone 17 Price Rumors
 
  Just like with release dates, Apple is consistent in[the pricing of new iPhones](https://www.lifewire.com/cost-of-iphone-1999299) . While nothing has been confirmed, expect that the iPhone 17 price will be very similar to previous models, if not the exactly same. The launch price of the entry-level model of the last three iPhones was:
@@ -54,9 +51,6 @@ A September 2025 release date seems like a lock.
 
  The iPhone 17 will go up for pre-order once Apple makes it official. Check back here for info once it's available.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
-<!-- affiliate ads end -->
 ## iPhone 17 Specs & Features
 
  The iPhone 17 is rumored to introduce some major upgrades to its screen, big improvements to the cameras, faster processors, and more. Here's a summary of what's rumored:
@@ -70,9 +64,6 @@ A September 2025 release date seems like a lock.
 * Physically larger phones
 * More AI features.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ### Screen
 
  The iPhone 17 series screen is rumored to receive three notable upgrades.
@@ -84,9 +75,9 @@ A September 2025 release date seems like a lock.
  Lastly,[MacRumors shares a Chinese report](https://www.macrumors.com/2024/03/19/iphone-17-anti-reflective-display/) that the iPhone 17 screen will use a new, "super-hard anti-reflective layer" to prevent scratches and screen damage, replacing the current ceramic shield technology.
 
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Face ID
 
  Ross Young, an industry analyst with Display Supply Chain Consultants,[says that the iPhone 17 Pro models will bring a big change to Face ID](https://www.macrumors.com/2023/04/03/under-display-face-id-to-debut-on-iphone-17-pro/) : Instead of using a camera notch at the top of the screen, the[Face ID](https://www.lifewire.com/face-id-4151714) will be embedded under the phone's screen. While the selfie camera cutout would stay, moving the Face ID sensors under the screen would be a step towards getting rid of the notch entirely and having an all-screen front on a future iPhone model.
@@ -96,6 +87,10 @@ A September 2025 release date seems like a lock.
  Each year, Apple introduces a new processor that powers the iPhone. Based on past evolution of those chips, expect the iPhone 17 series to be built around the not-yet-revealed Apple A18 processor.
 
  Beyond that,[HotHardware says](https://hothardware.com/news/apples-iphone-17-could-have-heavily-revised-selfie-camera) that the iPhone 17 will include an Apple-designed Wi-Fi chip that supports[Wi-Fi 7](https://www.lifewire.com/what-is-wi-fi-7-6950913) , allowing the phone to use the 2.4Ghz, 5Ghz, and 6Ghz Wi-Fi bands at the same time.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Camera
 
@@ -109,20 +104,26 @@ A September 2025 release date seems like a lock.
 
  Lastly, noted Apple analyst Kuo Ming-Chi suggests that[the camera lenses on the iPhone 17 will be built using 6 elements](https://hothardware.com/news/apples-iphone-17-could-have-heavily-revised-selfie-camera) , up from 5 on current models, which will improve image quality, especially in low-light situations.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Phone Size
 
  While not a widely reported rumor,[HotHardware says](https://hothardware.com/news/apples-iphone-17-could-have-heavily-revised-selfie-camera) that the iPhone 17 may change its physical dimensions, becoming taller and skinnier, with a 19.6:9 aspect ratio (the aspect ratio of current iPhone is 16:9).
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### AI
 
  While there are no specific rumors about the use of[AI](https://www.lifewire.com/artificial-intelligence-and-science-6386405) in the iPhone 17 yet, it's an absolute certainty that that model, and its version of the iOS, will feature lots of new AI tools. What they are depends on[what features debut with the iPhone 16/iOS 18 in 2024](https://www.lifewire.com/apple-is-using-ai-everywhere-7509132) , and how the rapidly changing AI field evolves, but count on some new artificial intelligence enhancements.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## The Latest News About iPhone 17
 
  We'll update this page regularly, as more news about the iPhone 17 becomes available. In the meantime, Lifewire has you covered for[smartphone news](https://www.lifewire.com/mobile-phones-4781509) and advice such as helping you decide[Which iPhone Should You Buy?](https://www.lifewire.com/pick-best-iphone-for-you-1999293)
@@ -137,14 +138,11 @@ A September 2025 release date seems like a lock.
 
 [Why a Dedicated iPhone Video Button Is a Great Idea](https://www.lifewire.com/dedicated-iphone-video-button-8546938)
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -153,4 +151,18 @@ A September 2025 release date seems like a lock.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/new-leading-edge-speech-to-text-programs-for-2024/"><u>[New] Leading Edge Speech-to-Text Programs for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-mobile-communication-redefined-best-10-secured-free-video-call-apps-to-keep-you-covered-on-devices/"><u>[New] Mobile Communication Redefined Best 10 Secured, Free Video Call Apps to Keep You Covered on Devices</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-a-guide-to-mastering-steams-switch-pro-controller/"><u>[Updated] A Guide to Mastering Steam's Switch Pro Controller</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/business-mastery-through-youtubes-top-ten-channels-for-2024/"><u>Business Mastery Through YouTube's Top Ten Channels for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/effective-strategies-to-address-and-repair-shelldll-absence-warnings-on-your-computer/"><u>Effective Strategies to Address and Repair Shell.dll Absence Warnings on Your Computer</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-xiaomi-redmi-note-12-4g-drfone-by-drfone-virtual-android/"><u>In 2024, How PGSharp Save You from Ban While Spoofing Pokemon Go On Xiaomi Redmi Note 12 4G? | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-pokemon-go-no-gps-signal-heres-every-possible-solution-on-oppo-reno-9a-drfone-by-drfone-virtual-android/"><u>In 2024, Pokemon Go No GPS Signal? Heres Every Possible Solution On Oppo Reno 9A | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/navigating-perks-of-electric-vehicle-ownership-fast-track-hov-lane-entry-and-preferred-parking-secured/"><u>Navigating Perks of Electric Vehicle Ownership: Fast Track HOV Lane Entry & Preferred Parking Secured</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/post-prime-day-bargain-snag-the-new-10th-generation-apple-ipad-for-only-299-now-available-on-zdnet/"><u>Post-Prime Day Bargain: Snag the New 10Th Generation Apple iPad for Only $299 - Now Available on ZDNet!</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-ultimate-guide-to-commanding-your-samsung-smart-tv-via-remote-access/"><u>The Ultimate Guide to Commanding Your Samsung Smart TV via Remote Access</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/us-department-of-justice-vs-apple-inc-implications-for-mobile-device-owners-and-software-innovators-zdnet-analysis/"><u>US Department of Justice Vs. Apple Inc.: Implications for Mobile Device Owners & Software Innovators | ZDNET Analysis</u></a></li>
+</ul></div>
 

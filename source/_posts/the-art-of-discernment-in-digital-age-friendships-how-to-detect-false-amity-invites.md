@@ -1,7 +1,7 @@
 ---
 title: "The Art of Discernment in Digital Age Friendships: How to Detect False Amity Invites"
-date: 2024-08-18T17:45:55.159Z
-updated: 2024-08-19T17:45:55.159Z
+date: 2025-02-08T20:16:39.163Z
+updated: 2025-02-11T16:44:57.889Z
 categories:
   - BestProducts
 description: "This Article Describes The Art of Discernment in Digital Age Friendships: How to Detect False Amity Invites"
@@ -42,6 +42,10 @@ of 06
 
 ![Ipad2 Comparison](https://www.lifewire.com/thmb/jPN69wWYT2zLJfh18NfogwaSrHo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-457316526-57deda085f9b58651650818c.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Credit: Justin Sullivan / Staff Editorial #: 457316526
 
  The screenshot prank involves[taking a screenshot](https://www.lifewire.com/how-to-take-an-ipad-screenshot-4103779) of the home screen and[using it as the wallpaper for the lock screen](https://www.lifewire.com/set-ipads-background-wallpaper-1994638) . This change can cause your unsuspecting victim to think the iPad or iPhone is ready to use, but all the taps in the world won't open an app until they slide to unlock.
@@ -50,30 +54,10 @@ of 06
 
 of 06
 
-<!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## [The Screenshot Home Screen](https://www.lifewire.com/customize-iphone-home-screen-5194141)
 
 ![A woman is using a mobile phone](https://www.lifewire.com/thmb/jjAY5RfCf0bXbyTAiGQR8Hch-IY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1024775444-046154f6b201485c8e1e9159c420b6d3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
-VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
-
-Key features:
-
-•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
-•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
-•	Visual effects, advanced color correction and trendy Instagram-like filters   
-•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
-•	Non-linear editing: edit several files with simultaneously 
-•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
-•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
-•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
-•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
-</a>
-<!-- affiliate ads end -->
  Karl Tapales/Getty Images
 
  This one is similar to the screenshot background.
@@ -90,15 +74,13 @@ Key features:
 of 06
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## [The Blue Screen of Death](https://www.lifewire.com/blue-screen-of-death-bsod-2625816)
 
 ![blue-screen-of-death-trick.jpg](https://www.lifewire.com/thmb/_gxotYS62h_k3CB3IJcw8XjirCo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/blue-screen-of-death-trick-56a532a05f9b58b7d0db708b.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
-<!-- affiliate ads end -->
  This one is funnier if you're targeting an IT professional or anyone that knows a bit about computers. The famed "Blue Screen of Death" is the error screen Windows gives when the operating system crashes.
 
  Having the Blue Screen of Death appear on an Apple device may or may not trick someone who knows a thing or two about computers. But, at the very least, it should draw a good laugh.
@@ -109,12 +91,13 @@ of 06
 
 of 06
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## [Invert the Colors](https://www.lifewire.com/how-to-invert-colors-on-iphone-4154078)
 
 ![Computer graphic of a human eye (negative-image)](https://www.lifewire.com/thmb/_a_kXKBXJhuHJ1QPW0N00LOavkE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-680799841-653726185c454bf29f730cce93fcb45a.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 MEHAU KULYK/SCIENCE PHOTO LIBRARY / Getty Images
 
@@ -129,11 +112,16 @@ MEHAU KULYK/SCIENCE PHOTO LIBRARY / Getty Images
 of 06
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## [Put the Device in Zoom Mode](https://www.lifewire.com/zoom-in-and-out-on-ipad-4103821)
 
 ![Ladybird on girl's hand under magnifying glass](https://www.lifewire.com/thmb/ly93teq_5dn-YxKk4JmXf6WLY7E=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-588494079-6d7dfd09ac874928924cdc745685e929.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Westend61 / Getty Images
 
@@ -163,8 +151,6 @@ Tell us why!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -172,4 +158,26 @@ Tell us why!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-techniques.techidaily.com/new-full-spectrum-analysis-of-vsco-editing-features/"><u>[New] Full Spectrum Analysis of VSCO Editing Features</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-mastering-social-sharing-during-facebook-lives/"><u>[New] Mastering Social Sharing During Facebook Lives</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-click-worthy-chronicles-shaping-successful-meme-videos-for-instafb/"><u>[Updated] Click-Worthy Chronicles Shaping Successful Meme Videos for Insta/FB</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-best-in-class-subtitle-converters-revealed-transform-sub-into-srtr-in-minutes-not-hours/"><u>2024 Approved Best-in-Class Subtitle Converters Revealed Transform SUB Into SRTR in Minutes, Not Hours</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/alexa-vs-google-assistant-showdown-who-reigns-supreme-in-personalization-and-features/"><u>Alexa Vs. Google Assistant Showdown: Who Reigns Supreme in Personalization and Features?</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/apple-unveils-magical-on-device-ai-artist-replacing-dall-e-see-how-it-transforms-your-imagination-into-visuals/"><u>Apple Unveils Magical, On-Device AI Artist Replacing DALL-E: See How It Transforms Your Imagination Into Visuals</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/best-4k-tvs-top-ten-selection-for-2024/"><u>Best 4K TVs Top Ten Selection for 2024</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-tecno-camon-20-pro-5g-by-drfone-android/"><u>Complete Review & Guide to Techeligible FRP Bypass and More For Tecno Camon 20 Pro 5G</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/decision-time-comparing-ipad-pro-and-macbook-air-to-find-the-perfect-fit-for-your-needs/"><u>Decision Time: Comparing iPad Pro and MacBook Air to Find the Perfect Fit For Your Needs</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/exploring-the-contrasts-between-signal-and-whatsapp-what-sets-them-apart/"><u>Exploring the Contrasts Between Signal and WhatsApp: What Sets Them Apart?</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/maximize-savings-discover-how-to-claim-a-free-macbook-air-m3-through-these-insider-best-buy-hacks-exclusive-guide-from-zdnet/"><u>Maximize Savings! Discover How to Claim a Free MacBook Air M3 Through These Insider Best Buy Hacks - Exclusive Guide From ZDNet</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/overcoming-the-critical-driver-corrupted-expool-windows-10-challenge-expert-solutions/"><u>Overcoming the Critical 'DRIVER CORRUPTED EXPOOL' Windows 10 Challenge - Expert Solutions</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/prevent-auto-play-feature-in-apple-music-with-these-simple-steps/"><u>Prevent Auto-Play Feature in Apple Music with These Simple Steps</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/revolutionary-leap-in-ai-technology-as-apples-realm-surpasses-gpt-performance-techzdnet/"><u>Revolutionary Leap in AI Technology as Apple's RealM Surpasses GPT-# Performance | TechZDNet</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/-the-spectacle-best-practices-for-cooking-channel-titling/"><u>Savor the Spectacle Best Practices for Cooking Channel Titling</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-tutorial-streaming-zoom-on-television-screens/"><u>Step-by-Step Tutorial: Streaming Zoom on Television Screens</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unmasking-love-baiting-hackers-seven-artificial-intelligence-strategies-exposed/"><u>Unmasking Love-Baiting Hackers: Seven Artificial Intelligence Strategies Exposed</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unveiling-the-best-ai-conversational-tools-the-ultimate-chatgpt-alternatives/"><u>Unveiling the Best AI Conversational Tools: The Ultimate ChatGPT Alternatives</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-divx-video-cutter-reviews-top-6-free-options-compared-for-2024/"><u>Updated Divx Video Cutter Reviews Top 6 Free Options Compared for 2024</u></a></li>
+</ul></div>
 
