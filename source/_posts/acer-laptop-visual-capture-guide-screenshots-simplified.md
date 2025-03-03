@@ -1,7 +1,7 @@
 ---
 title: "Acer Laptop Visual Capture Guide: Screenshots Simplified"
-date: 2024-08-18T16:42:26.561Z
-updated: 2024-08-19T16:42:26.561Z
+date: 2025-02-26T16:45:29.090Z
+updated: 2025-03-02T18:13:33.753Z
 tags:
   - win11
   - win10
@@ -51,9 +51,6 @@ Here’s how you can do it:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 ### Method 2: Flip your computer screen in NVIDIA Control Panel
 
  If you’re using**NVIDIA graphics card** , you can also flip your computer screen in**NVIDIA Control Panel** on your Windows computer.
@@ -62,9 +59,6 @@ Follow these steps to do it:
 
 1. **Right-click** on the blank area of your desktop, then you can select**NVIDIA Control Panel** .![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc844d04817c.jpg)
 2. On your NVIDIA Control Panel, click**Rotate display** under the**Display section** . Then you can select the orientation you want to set:  
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **Landscape** — the normal screen you see  
 **Portrait** — Rotate your screen 270°  
 **Landscape (flipped)** — Rotate your screen 180°  
@@ -75,15 +69,8 @@ Follow these steps to do it:
  2) If you use dual or multiple monitors, select the monitor before changing the orientation.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc8455019b8f.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
-<!-- affiliate ads end -->
 ### Method 3: Try these Hot Keys
 
  If you’re using the**5th Generation Intel Processor or the previous** , there’re Hot Keys you can use to flip your computer screen.
@@ -95,13 +82,7 @@ Follow these steps to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc84627896f2.png)
 3. Click**System** when**View by Large icons** selected.![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc84656e6c56.jpg)
 4. You should then see the information of your Processor. The generation is**the number right after the ix-** . For example, my computer processor is:![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc846824fb6c.jpg) Then the generation of my computer processor is**4th** .
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  If your Intel Processor is**5th or any previous** , and you’re**using Intel graphics card** , then you can try the hotkeys below to flip your computer screen.
 
  a) Press**Ctrl + Alt + Up Arrow** to set your screen upright, the normal mode.
@@ -125,8 +106,6 @@ Follow these steps to do it:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -134,4 +113,24 @@ Follow these steps to do it:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-tips.techidaily.com/our-ultimate-youtube-video-gear-top-rated-cameras-and-lenses-for-2024/"><u>[New] Your Ultimate YouTube Video Gear Top-Rated Cameras and Lenses for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-cutting-edge-image-editors-for-text-addition/"><u>[Updated] Cutting-Edge Image Editors for Text Addition</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/audio-extraction-simplified-with-pazera-tools-in-the-new-era/"><u>Audio Extraction Simplified with Pazera Tools in the New Era</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/customizing-your-inbox-comprehensive-guide-to-creating-complex-filters-in-gmail/"><u>Customizing Your Inbox: Comprehensive Guide to Creating Complex Filters in Gmail</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discord-moderation-made-simple-parental-restrictions-explained/"><u>Discord Moderation Made Simple: Parental Restrictions Explained</u></a></li>
+<li><a href="https://location-social.techidaily.com/does-samsung-galaxy-f14-5g-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>Does Samsung Galaxy F14 5G Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://tools.techidaily.com/ablebits/google-sheets-add-ons-count-colored-cells/"><u>Function by Color for Google Sheets</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-perform-a-clean-installation-on-your-dell-desktop-pc/"><u>How to Perform a Clean Installation on Your Dell Desktop PC</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/24-discover-these-27-purely-free-youtube-audio-ripper-tools/"><u>In 2024, Discover These 27 Purely Free YouTube Audio Ripper Tools</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-downloading-samfw-frp-tool-30-for-xiaomi-14-by-drfone-android/"><u>In 2024, Downloading SamFw FRP Tool 3.0 for Xiaomi 14</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/innovative-groups-shaping-future-of-vr-worlds-for-2024/"><u>Innovative Groups Shaping Future of VR Worlds for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/navigating-through-espnplus-how-disneys-streaming-giant-revolutionizes-sports-entertainment/"><u>Navigating Through ESPN+: How Disney's Streaming Giant Revolutionizes Sports Entertainment</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-careful-diagnosis-for-repairing-your-surfaces-wi-fi-connection-problems/"><u>Step-by-Careful Diagnosis for Repairing Your Surface's Wi-Fi Connection Problems</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-process-to-send-audio-messages-on-apple-iphones/"><u>Step-by-Step Process to Send Audio Messages on Apple iPhones</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/the-editors-edge-advanced-tactics-for-youtube-video-spins-guide/"><u>The Editor's Edge Advanced Tactics for YouTube Video Spins (Guide)</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/thrilling-timeline-how-to-systematically-savor-every-classic-and-new-release-of-the-james-bond-saga/"><u>Thrilling Timeline: How to Systematically Savor Every Classic and New Release of the James Bond Saga</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-8-best-bookworm-apps-for-reading-enthusiasts/"><u>Top 8 Best Bookworm Apps for Reading Enthusiasts</u></a></li>
+</ul></div>
 

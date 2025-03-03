@@ -1,7 +1,7 @@
 ---
 title: "Discover Your Running Windows OS: Quick Guide in a Single Step"
-date: 2024-08-18T16:38:31.187Z
-updated: 2024-08-19T16:38:31.187Z
+date: 2025-02-28T00:12:59.869Z
+updated: 2025-03-02T19:06:55.665Z
 tags:
   - win11
   - win10
@@ -42,9 +42,6 @@ your computer is running.
 
  Click**OK** to close the Window once you get the information desired.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Bonus Tip 2: How to get more detailed hardware information of your PC
 
  In the great majority of cases, you’ll need more detailed hardware information of your PC. It can be that you need to find out whether your computer meets the system requirements of the games you’re playing, check on the compatibility for upgrades, or simply compare your computer to another.
@@ -59,16 +56,10 @@ your computer is running.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/02/image-23.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
  You can then take an overview of the hardware information on your computer:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/02/image-24.png)
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  This is an overview of the hardware info on your PC. For more detailed information of the specific hardware, click the**CPU** , the**Motherboard** , the**Memory** or the**Graphics** modules to find out. 🙂
 
 * [Windows](https://tools.techidaily.com/drivereasy/download/)
@@ -79,8 +70,6 @@ your computer is running.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -88,4 +77,19 @@ your computer is running.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-the-ultimate-guide-to-producing-hysterical-youtube-video-reactions-3-key-techniques/"><u>[New] The Ultimate Guide to Producing Hysterical YouTube Video Reactions (3 Key Techniques)</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-clear-up-audio-in-youtube-a-step-by-step-guide/"><u>[Updated] 2024 Approved Clear Up Audio in YouTube A Step-by-Step Guide</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-virtual-visage-creation-shaping-your-exaggerated-image/"><u>[Updated] 2024 Approved Virtual Visage Creation Shaping Your Exaggerated Image</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-iphones-premier-videography-tools/"><u>[Updated] IPhone's Premier Videography Tools</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/anticipated-arrival-of-apple-watch-series-8-insights-on-specifications-pricing-and-current-reports/"><u>Anticipated Arrival of Apple Watch Series 8 - Insights on Specifications, Pricing, and Current Reports</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/beginners-guide-the-initial-tasks-for-your-fresh-laptop-setup/"><u>Beginner's Guide: The Initial Tasks for Your Fresh Laptop Setup</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/design-your-own-screen-capture-free-ways-on-pc-for-2024/"><u>Design Your Own Screen Capture - Free Ways on PC for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-revolutionizing-podcast-titles-leading-10-ai-generators/"><u>In 2024, Revolutionizing Podcast Titles Leading 10 AI Generators</u></a></li>
+<li><a href="https://facebook.techidaily.com/reeling-in-a-solution-does-facebook-have-one-against-tiktok/"><u>Reeling in a Solution: Does Facebook Have One Against TikTok?</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/seamless-streaming-how-to-use-chromecast-with-your-firestick/"><u>Seamless Streaming: How to Use Chromecast with Your Firestick</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/top-10-luxury-car-accessories-for-the-modern-sj4000-driver/"><u>Top 10 Luxury Car Accessories for the Modern SJ4000 Driver</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/troubleshooting-steps-defrosting-your-macbook-air-when-its-icy/"><u>Troubleshooting Steps: Defrosting Your MacBook Air When It's Icy</u></a></li>
+</ul></div>
 

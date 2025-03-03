@@ -1,7 +1,7 @@
 ---
 title: "Comprehensive Step-by-Step Tutorial: Adding the Netflix Addon to Your Kodi Media Center"
-date: 2024-08-18T16:40:06.623Z
-updated: 2024-08-19T16:40:06.623Z
+date: 2025-02-27T17:41:08.463Z
+updated: 2025-03-02T23:16:46.281Z
 tags:
   - win11
   - win10
@@ -49,9 +49,6 @@ Streaming music from your phone to your Bluetooth speaker is quite easy. But wha
 
  Don’t worry if you don’t see**Bluetooth Network Connection** . You can buy a USB Bluetooth receiver and plug it in any free USB port on your computer.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Step 2: Connect your Bluetooth speaker to your laptop
 
  Make sure your Bluetooth speaker is within the right distance (typically around 10 meters) from your laptop. Then click the link below that applies to you, to scroll to the instructions for your operating system.
@@ -69,9 +66,6 @@ Streaming music from your phone to your Bluetooth speaker is quite easy. But wha
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae2c70ceeef6.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3) Make sure the switch says**On** (if it says**Off** , click the switch). Click**Add Bluetooth or other device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae29a09682bc.jpg)
@@ -80,18 +74,10 @@ Streaming music from your phone to your Bluetooth speaker is quite easy. But wha
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae29a7f03edd.png)
 
-<!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
-<!-- affiliate ads end -->
  5) Click the name of your speaker, and then click **Pair** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5ae2fe00df014.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
-<!-- affiliate ads end -->
  The two devices should have connected successfully. You might also need to follow the on-screen instructions to complete the pairing process.
 
 #### **I’m using Windows 7**
@@ -122,16 +108,10 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b46ffcde1143.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 3) Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b627e9c324d0.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  You can also click **Update**   to do it for free if you like, but it’s partly manual.
 
 4) Restart your computer for the changes to take effect.
@@ -157,8 +137,6 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -166,4 +144,20 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-solving-grey-voids-in-gaming-capture-software/"><u>[Updated] 2024 Approved Solving Grey Voids in Gaming Capture Software</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-the-ultimate-technique-for-capturing-hulu-playbacks/"><u>[Updated] 2024 Approved The Ultimate Technique for Capturing Hulu Playbacks</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-a-step-by-step-manual-for-capturing-vr-playthroughs-for-2024/"><u>[Updated] A Step-by-Step Manual for Capturing VR Playthroughs for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-formulating-engaging-content-excerpts-for-streaming/"><u>[Updated] Formulating Engaging Content Excerpts for Streaming</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-amass-1000-supporters-for-your-channel/"><u>[Updated] In 2024, Amass 1,000 Supporters for Your Channel</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-navigating-the-world-of-instagram-reel-downloads/"><u>[Updated] Navigating the World of Instagram Reel Downloads</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-cardboard-contrast-google-to-samsung-gear-headset/"><u>2024 Approved Cardboard Contrast Google to Samsung Gear Headset</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/1722891397367-amazons-prime-day-hottest-and-cheapest-technology-discounts/"><u>Amazon's Prime Day: Hottest & Cheapest Technology Discounts</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/can-i-bypass-a-forgotten-phone-password-of-vivo-s17-by-drfone-android/"><u>Can I Bypass a Forgotten Phone Password Of Vivo S17?</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-restore-or-reinstall-lost-d3dx928dll-for-smooth-computer-operation/"><u>How to Restore or Reinstall Lost d3dx9_28.dll for Smooth Computer Operation</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/resolving-issues-when-physxloaderdll-file-is-unavailable/"><u>Resolving Issues When physxloader.dll File Is Unavailable</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-7-no-cost-study-applications-for-kids-get-ready-for-school/"><u>Top 7 No-Cost Study Applications for Kids: Get Ready for School</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unlocking-potential-with-copilot-an-in-depth-walkthrough-for-microsoft-teams-users/"><u>Unlocking Potential with Copilot: An In-Depth Walkthrough for Microsoft Teams Users</u></a></li>
+</ul></div>
 

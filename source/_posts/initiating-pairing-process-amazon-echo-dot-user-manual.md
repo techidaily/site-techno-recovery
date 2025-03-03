@@ -1,7 +1,7 @@
 ---
 title: "Initiating Pairing Process: Amazon Echo Dot User Manual"
-date: 2025-01-25T18:56:39.565Z
-updated: 2025-01-30T18:21:48.778Z
+date: 2025-02-25T18:07:27.065Z
+updated: 2025-03-02T17:24:58.515Z
 categories:
   - BestProducts
 description: "This Article Describes Initiating Pairing Process: Amazon Echo Dot User Manual"
@@ -26,10 +26,6 @@ thumbnail: https://thmb.techidaily.com/a284b8622794b8ba45f3866eaa63e737e0684e210
 
 ![Amazon Echo Dot](https://www.lifewire.com/thmb/wnLxCk_2fD2pZzEu-p3zbcXnYjI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/zkn2wGCQ20copy-06ed03564ac94e1dbbad5b22f1d3139c.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Amazon
 
 ## How Do I Put My Echo Dot in Setup Mode?
@@ -52,29 +48,13 @@ Amazon
 ![Echo Dot, Wi-Fi Network, and Continue highlighted in the Alexa app](https://www.lifewire.com/thmb/UyNdVW6oqTvBgXlIe9w8W6AlCF0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/003_setup-mode-echo-dot-5183932-1c64692464f74859a9dbf7eb004911b2.jpg)
 10. Continue following the prompts in the app to finish setting up your device. Select**Skip** when the option appears to configure these settings later.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Skip highlighted in the Alexa app setup screen](https://www.lifewire.com/thmb/t9cr0zEBHSfzkkSTPWqdkks-pu8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/004_setup-mode-echo-dot-5183932-ef2640f0d0fb4cada97bfb3801deec7d.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What Is Echo Dot Setup Mode?
 
  The first time it powers on, your Echo device will automatically enter setup mode. In setup mode, the Echo Dot connects to the Alexa app on your phone via Bluetooth. Once connected, you must connect your Dot to your Wi-Fi network. Your Echo Dot will not work without a Wi-Fi connection.
 
  You can tell your Echo is in setup mode when the ring of light turns from blue to orange. Once you've set up your Echo Dot, you can start using Alexa voice commands and[Alexa skills](https://www.lifewire.com/alexa-skills-4126799) .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Why Won't My Echo Dot Go Into Setup Mode?
 
@@ -116,17 +96,24 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-uncovering-true-reflection-in-distorted-facebook-video/"><u>[Updated] 2024 Approved Uncovering True Reflection in Distorted Facebook Video</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-transform-ordinary-moments-into-extraordinary-art-creating-slow-motion-video-from-still-images-online/"><u>[Updated] Transform Ordinary Moments Into Extraordinary Art Creating Slow Motion Video From Still Images Online</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/easy-solutions-resolve-pdhdll-missing-error-messages/"><u>Easy Solutions: Resolve pdh.dll Missing Error Messages</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/exciting-internet-adventures-discover-these-7-amazing-games-for-kids/"><u>Exciting Internet Adventures: Discover These 7 Amazing Games for Kids</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/exploring-top-5-innovations-in-ios-18-showcased-at-wwdc-2024-with-a-spotlight-on-emerging-ai-capabilities-insights-from-zdnet/"><u>Exploring Top 5 Innovations in iOS 18 Showcased at WWDC 2024, with a Spotlight on Emerging AI Capabilities – Insights From ZDNet</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixing-issues-with-a-non-responsive-alienware-command-center/"><u>Fixing Issues with a Non-Responsive Alienware Command Center</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/from-favorites-to-featured-the-journey-to-a-unique-youtube-list-for-2024/"><u>From Favorites to Featured The Journey to a Unique YouTube List for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/harmonize-your-tunes-with-seamless-migration-of-apple-music-lists-to-and-from-youtube-music-insights-zdnet/"><u>Harmonize Your Tunes with Seamless Migration of Apple Music Lists to and From YouTube Music - Insights | ZDNET</u></a></li>
-<li><a href="https://howto.techidaily.com/how-to-fix-the-soft-bricked-tecno-pova-5-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix the Soft Bricked Tecno Pova 5 Pro? | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-track-samsung-galaxy-f04-location-by-number-drfone-by-drfone-virtual-android/"><u>How to Track Samsung Galaxy F04 Location by Number | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-pokemon-go-no-gps-signal-heres-every-possible-solution-on-tecno-pop-8-drfone-by-drfone-virtual-android/"><u>In 2024, Pokemon Go No GPS Signal? Heres Every Possible Solution On Tecno Pop 8 | Dr.fone</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/the-ultimate-snapshot-experience-mastering-snapchat-filters/"><u>The Ultimate Snapshot Experience Mastering Snapchat Filters</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-asian-themed-mini-mansions-for-creative-builders/"><u>[New] 2024 Approved Asian Themed Mini Mansions for Creative Builders</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-breaking-barriers-in-drone-races-and-top-5-innovative-fpv-units/"><u>[New] Breaking Barriers in Drone Races & Top 5 Innovative FPV Units</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-googles-take-on-ar-stickers-an-overview-and-beyond/"><u>[New] Google's Take on AR Stickers An Overview & Beyond</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/weep-up-viewers-the-science-behind-successful-youtube-shorts-for-2024/"><u>[New] Sweep Up Viewers The Science Behind Successful YouTube Shorts for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-quick-guide-to-sharing-your-favorite-gifs-on-instagram/"><u>[Updated] 2024 Approved Quick Guide to Sharing Your Favorite GIFs on Instagram</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-the-best-binge-worthy-series-on-twittersphere-for-2024/"><u>[Updated] The Best Binge-Worthy Series on Twittersphere for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-the-quintessential-fb-video-list-for-you/"><u>[Updated] The Quintessential FB Video List for You</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-youtubes-beauty-titans-whos-leading-in-2024/"><u>[Updated] YouTube's Beauty Titans Who's Leading , In 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/6-of-our-favorite-homework-apps-to-help-students-and-parents/"><u>6 of Our Favorite Homework Apps to Help Students (and Parents)</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/decoding-the-mystery-of-hxtrexe-in-windows-10-expert-tips-and-fixes/"><u>Decoding the Mystery of hxtr.exe in Windows 10 - Expert Tips and Fixes</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/download-drivers-and-learn-easy-setup-steps-for-brothers-wireless-printer-models/"><u>Download Drivers & Learn Easy Setup Steps for Brother's Wireless Printer Models</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/easy-setup-how-to-designate-google-as-your-homepage-on-all-browsers/"><u>Easy Setup: How to Designate Google as Your Homepage on All Browsers</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/elevate-your-gaming-experience-by-eliminating-low-fps-problems-in-godfall/"><u>Elevate Your Gaming Experience by Eliminating Low FPS Problems in Godfall</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-10-telegram-spy-tools-on-xiaomi-redmi-k70e-for-parents-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Telegram Spy Tools On Xiaomi Redmi K70E for Parents | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/install-essential-google-usb-driver-for-seamless-device-connection/"><u>Install Essential Google USB Driver for Seamless Device Connection</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/navigating-snapchat-from-pc-heres-how-you-can-do-it-successfully/"><u>Navigating Snapchat From PC? Here's How You Can Do It Successfully</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/1722882610381-oneplus-9t-expectations-projected-costs-release-timing-and-specs-insights-and-rumors-unfold/"><u>OnePlus 9T Expectations: Projected Costs, Release Timing, and Specs – Insights & Rumors Unfold!</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-beginners-guide-to-using-picture-in-picture-feature-on-macbook-air/"><u>The Beginner's Guide to Using Picture in Picture Feature on MacBook Air</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/tutorial-per-risolvere-lerrore-del-download-bloccato-allo-0-o-al-99-in-windows-10/"><u>Tutorial per Risolvere L'errore Del Download Bloccato Allo 0% O Al 99% in Windows 10</u></a></li>
 </ul></div>
 

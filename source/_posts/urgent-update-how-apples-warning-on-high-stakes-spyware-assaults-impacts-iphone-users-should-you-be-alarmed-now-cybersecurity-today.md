@@ -1,7 +1,7 @@
 ---
 title: "Urgent Update: How Apple's Warning on High-Stakes Spyware Assaults Impacts iPhone Users - Should You Be Alarmed Now? | Cybersecurity Today"
-date: 2025-02-07T18:44:43.920Z
-updated: 2025-02-11T18:05:28.485Z
+date: 2025-03-01T19:46:43.352Z
+updated: 2025-03-02T17:03:25.382Z
 tags:
   - apple
 categories:
@@ -30,10 +30,6 @@ Read on for a look at some of the new accessibility features coming to Apple har
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### New eye-tracking features
 
 Apple is bringing a new feature to both iOS and iPadOS that will let you navigate your iPhone and iPad with just your eye movements. The feature uses the device's front-facing camera to track your eye movements and let you move through apps. Apple said that its new Eye Tracking feature will work across both its own and third-party apps, and will work with gestures powered solely by eye movements.
@@ -48,17 +44,9 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Apple Music haptics
 
 For those who are deaf or hard of hearing, Apple plans to offer a Taptic Engine feature in Apple Music. When turned on, the feature will use a series of taps, vibrations, and other tactile responses to sync to a song's audio. Apple says the feature will work "across millions of songs in the Apple Music catalog."
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Addressing motion sickness
 
@@ -67,10 +55,6 @@ Motion sickness in cars can often be the result of a disconnect between what you
 **Also: [I found Apple Vision Pro unusable at first - but then I fixed it. Here's how](https://www.zdnet.com/article/i-found-apple-vision-pro-unusable-at-first-but-then-i-fixed-it-heres-how/)**
 
 "Using sensors built into iPhone and iPad, Vehicle Motion Cues recognizes when a user is in a moving vehicle and responds accordingly," Apple said. "The feature can be set to show automatically on iPhone, or can be turned on and off in Control Center."
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Understanding speech
 
@@ -83,10 +67,6 @@ Another feature, Listen for Atypical Speech, will use machine learning to unders
 Apple's in-car CarPlay software is also getting new accessibility features, including the ability for you to navigate CarPlay and engage with apps using only your voice. A new Sound Recognition feature will display alerts on CarPlay's screen when car horns or sirens go off, and Color Filters will make CarPlay easier to use for colorblind users.
 
 **Also: [iOS and Android owners will now be alerted if an unknown tracker is moving with them](https://www.zdnet.com/article/ios-and-android-owners-will-now-be-alerted-if-an-unknown-tracker-is-moving-with-them/)**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Some other updates
 
@@ -122,24 +102,17 @@ Beyond those updates, Apple said that it's launching a range of smaller upgrades
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://techno-recovery.techidaily.com/1-why-your-imessages-were-not-sent-yesterday-insightful-explanation-and-solutions-zdnet/"><u>1. Why Your iMessages Were Not Sent Yesterday: Insightful Explanation and Solutions | ZDNet</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/2024-approved-best-practices-for-apples-podcast-listings/"><u>2024 Approved Best Practices for Apple's Podcast Listings</u></a></li>
-<li><a href="https://fox-info.techidaily.com/2024-approved-unlocking-the-power-of-visuals-zooms-filter-guide/"><u>2024 Approved Unlocking the Power of Visuals Zoom's Filter Guide</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/apple-watch-ultra-essentials-now-available-again-non-apple-brand-exclusive-reveal-on-zdnet/"><u>Apple Watch Ultra Essentials Now Available Again - Non-Apple Brand Exclusive Reveal on ZDNet!</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/comprehensive-guide-on-the-significance-and-processes-behind-tagging-entities/"><u>Comprehensive Guide on the Significance and Processes Behind 'Tagging' Entities</u></a></li>
-<li><a href="https://win-dash.techidaily.com/easy-installation-guide-canon-pixma-tr8520-printer-drivers-for-windows-machines/"><u>Easy Installation Guide: Canon PIXMA TR8520 Printer Drivers for Windows Machines</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/fast-track-to-fandom-top-30-engaging-nicknames-for-discord-for-2024/"><u>Fast Track to Fandom Top 30 Engaging Nicknames for Discord for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/how-can-i-and-my-friend-stream-music-on-spotify-together-in-real-time/"><u>How Can I and My Friend Stream Music on Spotify Together in Real-Time?</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-migrate-android-data-from-tecno-spark-20c-to-new-android-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Migrate Android Data From Tecno Spark 20C to New Android Phone? | Dr.fone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/reattaching-your-laptops-lost-keys-a-step-by-step-guide/"><u>Reattaching Your Laptop's Lost Keys: A Step-by-Step Guide</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/secure-your-savings-top-tips-for-purchasing-pre-owned-apple-computers-and-sidestepping-frauds/"><u>Secure Your Savings: Top Tips for Purchasing Pre-Owned Apple Computers & Sidestepping Frauds</u></a></li>
-<li><a href="https://windows11.techidaily.com/skyrocket-beyond-wired-speed-limit-in-windows-environment/"><u>Skyrocket Beyond Wired Speed Limit in Windows Environment</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/solve-your-apple-vision-pro-envy-with-budget-friendly-xr-glasses-how-i-did-it-zdnet-insights/"><u>Solve Your Apple Vision Pro Envy with Budget-Friendly XR Glasses - How I Did It | ZDNET Insights</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/solved-move-from-realme-c67-4g-to-ios-not-working-problems-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Solved Move from Realme C67 4G to iOS not Working Problems | Dr.fone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/the-ultimate-guide-to-rebooting-your-airpods-know-when-and-how-to-do-it-right-digitalsavvy/"><u>The Ultimate Guide to Rebooting Your AirPods: Know When & How to Do It Right | DigitalSavvy</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/todays-top-shows-to-binge-watch-on-max-network/"><u>Today’s Top Shows to Binge-Watch on Max Network</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/transform-youtube-soundtracks-on-iphone-with-these-6-choices-for-2024/"><u>Transform YouTube Soundtracks on iPhone with These 6 Choices for 2024</u></a></li>
-<li><a href="https://driver-download.techidaily.com/ultimate-guide-and-free-download-of-official-samsung-android-adb-drivers-for-developers/"><u>Ultimate Guide & Free Download of Official Samsung Android ADB Drivers for Developers</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/unveiling-the-perfect-companion-elites-enhanced-strap-battery-backup-and-durable-case-for-oculus-quest-2-users/"><u>Unveiling the Perfect Companion: Elite's Enhanced Strap, Battery Backup & Durable Case for Oculus Quest 2 Users</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-maximize-visual-impact-with-free-digital-lut-resources/"><u>[New] Maximize Visual Impact with FREE Digital LUT Resources</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-navigating-snapchats-new-spotlight-functionality/"><u>[New] Navigating Snapchat's New Spotlight Functionality</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-stop-facebook-video-pause-during-streaming/"><u>[New] Stop Facebook Video Pause During Streaming</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-mastering-the-art-of-addressing-conflict-a-guide-to-effective-reporting-methods-on-discord/"><u>[Updated] 2024 Approved Mastering the Art of Addressing Conflict A Guide to Effective Reporting Methods on Discord</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-comparative-study-single-vs-multi-camera-tech-today/"><u>[Updated] In 2024, Comparative Study Single Vs. Multi-Camera Tech Today</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-phantom-gag-craftsman/"><u>2024 Approved Phantom Gag Craftsman</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/1722879315374-all-about-the-apple-iphone-release-join-us-for-a-sneak-peek-at-innovation/"><u>All About the Apple iPhone Release – Join Us for a Sneak Peek at Innovation</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/connect-face-to-face-right-from-gmail-the-ultimate-tutorial-for-using-google-duet/"><u>Connect Face-to-Face Right From Gmail: The Ultimate Tutorial for Using Google Duet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/demystifying-digital-to-analog-converters-dac-do-they-benefit-your-setup/"><u>Demystifying Digital-to-Analog Converters (DAC): Do They Benefit Your Setup?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-corrupt-video-files-of-honor-using-video-repair-utility-by-stellar-video-repair-mobile-video-repair/"><u>How to Fix Corrupt video files of Honor using Video Repair Utility?</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-understanding-the-fundamental-contrasts-in-video-streaming/"><u>In 2024, Understanding the Fundamental Contrasts in Video Streaming</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/troubleshooting-the-error-libgdkwin32-20-dll-component-absent-on-windows-systems/"><u>Troubleshooting the Error: Libgdk_win32-2.0 DLL Component Absent on Windows Systems</u></a></li>
 </ul></div>
 

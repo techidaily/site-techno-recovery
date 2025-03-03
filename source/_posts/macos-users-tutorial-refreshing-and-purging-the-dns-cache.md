@@ -1,7 +1,7 @@
 ---
 title: "MacOS Users' Tutorial: Refreshing and Purging the DNS Cache"
-date: 2025-02-08T17:59:45.318Z
-updated: 2025-02-12T01:08:37.764Z
+date: 2025-02-26T16:24:05.249Z
+updated: 2025-03-02T17:47:18.297Z
 categories:
   - BestProducts
 description: "This Article Describes MacOS Users' Tutorial: Refreshing and Purging the DNS Cache"
@@ -25,10 +25,6 @@ New Line Cinemas
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Watch 'The Lord of the Rings' in Chronological Order
 
  One way to watch_The Lord of the Rings_ is to watch them in the chronological order Tolkien told the tale. As Bilbo Baggins wrote, "Down from the door where it began. Now, far ahead the road has gone, and I must follow if I can."
@@ -46,10 +42,6 @@ New Line Cinemas
 
  If you think you're going to make it through this epic adventure in one sitting, you might be in for a surprise. The_Hobbit_ trilogy totals almost 8 hours._The Lord of the Rings_ trilogy is a whopping 9.5 hours. To watch all six, you'd have to sit for almost 17.5 hours straight. But don't worry, as Samwise Gamgee said, "It's the job that never started as takes longest to finish."
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Watch 'The Lord of the Rings' in Order of Release
 
  Do you want to watch_The Lord of the Rings_ , including_The Hobbit_ , in the order they were released? Many people do this to experience how it felt to experience the Tolkien story in the way Director Peter Jackson told it on the screen. This is because there is information and elements of the story which make more sense to moviegoers who've already seen the LOTR trilogy.
@@ -65,29 +57,17 @@ New Line Cinemas
 | _The Hobbit: The Desolation of Smaug_               | December 13, 2013 | Max                 | [•](https://www.amazon.com/gp/video/detail/amzn1.dv.gti.1ea9f6fe-4cd5-5dda-2f7d-e1b3a210317a?autoplay=1&ref%5F=atv%5Fcf%5Fstrg%5Fwb&tag=lifewire-onsite-prod-20&ascsubtag=5087754%7Cn82158aa69c064a6d9a0d29aff5c71c3b07%7C) Amazon Prime •Apple TV •Fandango at Home •Google Play •YouTube |
 | _The Hobbit: The Battle of the Five Armies_         | December 4, 2014  | Max                 | •Amazon Prime •Apple TV •Fandango at Home •Google Play •YouTube                                                                                                                                                                                                                             |
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Which Is the Right Order?
 
  While you could boil 'em, mash 'em, and stick 'em in a stew, some of the stories in_The Lord of the Rings_ set up the viewer for seeing those tales unfold in_The Hobbit_ trilogy. On the other hand, the actual storyline in The Hobbit itself serves as a backdrop to events that take place in LOTR.
 
  The bottom line is when it comes to_The Lord of the Rings_ , the end of each story tends to mold into the beginning of another. Or as Gandalf said, "For even the very wise cannot see all ends." The movies are so addictive you'll see them all from wherever you start. And back again.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## When Does 'The Rings of Power' Take Place?
 
  Amazon's original series_The Rings of Power_ happens thousands of years before both_The Lord of the Rings_ and_The Hobbit_ . In fact, it's in a wholly different era of Middle-earth: the Second Age. Despite that, it does include some returning characters from the later stories, including Galadriel and Elrond (elves are immortal, remember).
 
  Completion fans will want to watch_The Rings of Power_ before the other two stories, but as it's still running, you can't see all of that story just yet.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What Is 'The Hunt for Gollum'?
 
@@ -137,19 +117,20 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-2024-approved-action-seekers-dream-the-ultimate-review-of-sj-cam-s6/"><u>[New] 2024 Approved Action Seeker's Dream The Ultimate Review of SJ-CAM S6</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-the-storytellers-edge-integrating-youtube-vids-with-ig-for-2024/"><u>[New] The Storyteller's Edge Integrating YouTube Vids with IG for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-harness-your-creativity-with-high-quality-free-images-from-these-12-sites/"><u>[Updated] 2024 Approved Harness Your Creativity with High-Quality, Free Images From These 12 Sites</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/updated-culinary-comrades-youtubes-best-food-blogs/"><u>[Updated] Culinary Comrades YouTube's Best Food Blogs</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/best-ways-to-live-stream-the-exciting-samsung-unpacked-event-from-anywhere/"><u>Best Ways to Live Stream the Exciting Samsung Unpacked Event From Anywhere</u></a></li>
-<li><a href="https://techtrends.techidaily.com/precise-instructions-to-overcome-a-500-level-system-fault/"><u>Precise Instructions to Overcome a 500-Level System Fault</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/secure-your-discounted-ipad-9gen-for-just-250-following-apples-fresh-announcement-zdnet/"><u>Secure Your Discounted iPad (9Gen) for Just $250 Following Apple's Fresh Announcement | ZDNet</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210519630-9781639613229-seeds-for-enlightenment-101/"><u>Seeds for Enlightenment 101 | Free Book</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/smart-messaging-for-iphones-how-to-arrange-scheduled-text-sending-features/"><u>Smart Messaging for iPhones: How to Arrange Scheduled Text Sending Features</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/step-by-step-guide-to-increase-your-iphones-call-audio-volume/"><u>Step-by-Step Guide to Increase Your iPhone's Call Audio Volume</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/teslas-upcoming-robotaxi-unveiling-the-latest-gossip-on-pricing-launch-timeline-and-technical-details/"><u>Tesla's Upcoming Robotaxi - Unveiling the Latest Gossip on Pricing, Launch Timeline & Technical Details</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/top-rated-protectors-for-your-new-iphone-16-and-16-pro-industry-experts-reveal-the-choices-techguardian/"><u>Top-Rated Protectors for Your New iPhone 16 & 16 Pro - Industry Experts Reveal the Choices | TechGuardian</u></a></li>
-<li><a href="https://win-latest.techidaily.com/unraveling-cryptographic-keys-a-comparison-between-public-and-private-systems-with-yl-software-expertise/"><u>Unraveling Cryptographic Keys: A Comparison Between Public and Private Systems with YL Software Expertise</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/what-you-want-to-know-about-two-factor-authentication-for-icloud-on-your-apple-iphone-15-pro-max-by-drfone-ios/"><u>What You Want To Know About Two-Factor Authentication for iCloud On your Apple iPhone 15 Pro Max</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-canva-guide-swiftly-erasing-image-borders/"><u>[Updated] Canva Guide Swiftly Erasing Image Borders</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-innovative-tools-for-cutting-edge-xbox-gaming-recordings/"><u>[Updated] In 2024, Innovative Tools for Cutting-Edge Xbox Gaming Recordings</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-masterpieces-of-modern-mythology-top-youtube-storytellers/"><u>[Updated] Masterpieces of Modern Mythology - Top YouTube Storytellers</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-screen-selection-simplified-ultrawide-versus-uhd-4k-demystified/"><u>[Updated] Screen Selection Simplified UltraWide Versus UHD 4K Demystified</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-step-by-step-process-to-record-movies-on-multiple-platforms-for-2024/"><u>[Updated] Step-By-Step Process to Record Movies on Multiple Platforms for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/a-step-by-step-guide-removing-images-from-your-facebook-timeline/"><u>A Step-by-Step Guide: Removing Images From Your Facebook Timeline</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discover-how-these-5-apps-can-introduce-you-to-lifelong-friends/"><u>Discover How These 5 Apps Can Introduce You to Lifelong Friends</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/1722886026134-identifying-if-its-an-active-xbox-service-interruption-or-just-your-internet-connection-failing-you/"><u>Identifying If It's an Active Xbox Service Interruption or Just Your Internet Connection Failing You</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-can-i-bypass-a-forgotten-phone-password-of-vivo-x100-pro-by-drfone-android/"><u>In 2024, Can I Bypass a Forgotten Phone Password Of Vivo X100 Pro?</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-the-10-best-tools-to-bypass-icloud-activation-lock-on-apple-iphone-14-pro-max-you-should-try-out-by-drfone-ios/"><u>In 2024, The 10 Best Tools to Bypass iCloud Activation Lock On Apple iPhone 14 Pro Max You Should Try Out</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/in-2024-two-ways-to-track-my-boyfriends-apple-iphone-6s-without-him-knowing-drfone-by-drfone-virtual-ios/"><u>In 2024, Two Ways to Track My Boyfriends Apple iPhone 6s without Him Knowing | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/locating-the-model-number-on-your-macbook-expert-tips-and-tricks/"><u>Locating the Model Number on Your MacBook: Expert Tips and Tricks</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolved-issues-with-creating-a-directx-graphics-device/"><u>Resolved: Issues with Creating a DirectX Graphics Device</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-rise-and-fall-of-yahoo-messenger-unveiling-its-legacy-and-discontinuation/"><u>The Rise and Fall of Yahoo! Messenger: Unveiling Its Legacy & Discontinuation</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ultimate-guide-extracting-zips-and-rars-on-macos-effortlessly/"><u>Ultimate Guide: Extracting Zips and Rars on macOS Effortlessly</u></a></li>
 </ul></div>
 

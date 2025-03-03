@@ -1,7 +1,7 @@
 ---
 title: "Revolutionizing Portability: Discover the M4-Enhanced New Mac Mini, Tiny as an Apple TV!"
-date: 2025-02-05T17:07:57.353Z
-updated: 2025-02-11T22:46:08.766Z
+date: 2025-02-25T16:21:06.296Z
+updated: 2025-03-02T17:59:01.688Z
 tags:
   - apple
 categories:
@@ -30,10 +30,6 @@ This year, five topics will likely dominate the headlines, dictate the next indu
 
 And that's just the beginning, as you'll find more notable trends in the list below, all of which have already begun to take shape.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. On-device AI puts the 'smart' in smartphone
 
 The new Samsung Galaxy S24 series features a live translation feature, powered by on-device AI.
@@ -47,10 +43,6 @@ Samsung's just-released [Galaxy S24 smartphones](https://www.zdnet.com/article/e
 **Also: [Apple research reveals some dazzling AI tech could be headed to your iPhone](https://www.zdnet.com/article/apple-research-reveals-some-dazzling-ai-tech-headed-to-your-iphone/)**
 
 Qualcomm is playing a major role here as well, with its flagship [Snapdragon 8 Gen 3 chipset](https://www.zdnet.com/article/qualcomms-new-snapdragon-8-gen-3-mobile-chip-brings-generative-ai-to-smartphones/) enabling performance gains across the board on smartphones, from a 20% improvement in CPU, 30% in GPU, and 41% in NPU -- the latter of which is critical for devices to perform generative AI tasks in a power-efficient manner. Expect more flagship [Android phones](https://www.zdnet.com/article/best-android-phone/) this year -- as well as [VR and XR headsets](https://www.zdnet.com/article/best-vr-headset/) \-- to field Qualcomm's new processor, with plenty of AI-enabled capabilities in tow.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Foldables are getting better (and cheaper)
 
@@ -68,10 +60,6 @@ Now that the major players have entered the competition, the big question this y
 
 But there's hope. Carrier providers, who often discount the latest devices aggressively in exchange for customer loyalty (read: agreement to long-term installment plans), remain a primary source of US smartphone sales. Motorola's [standard Razr model](https://www.zdnet.com/article/this-motorola-is-still-200-off-and-its-surprisingly-capable/), which can be purchased for [as low as $499](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fmotorola-razr-2023-128gb-unlocked-sage-green%2F6557867.p%3F&publisher_slug=itechdaily19598&exclusive=1) at the time of writing, is another sign of good things to come. With that in mind, 2024 is looking to be a promising sequel to foldables' breakout year in 2023.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. Qi2 bridges a long-standing gap in charging
 
 The iPhone 15 Pro (left) next to the Samsung Galaxy S23 Ultra (right).
@@ -87,10 +75,6 @@ The Wireless Power Consortium (WPC), a committee that consists of Apple, Samsung
 The adoption of such technology bridges a longstanding gap between MagSafe-compatible devices (iPhone 12 and up) and ones without the feature, allowing Android users to also reap the benefits of [magnet-based charging accessories](https://www.zdnet.com/article/the-12-best-mobile-accessories-at-ces-2024-so-far-iphone-call-recorder-qi2-chargers-and-more/). Accessory makers like [Anker](https://www.zdnet.com/article/ankers-latest-wireless-charging-accessories-are-all-in-on-qi2-heres-why-that-matters/) and Satechi have already begun rolling out Qi2-compatible docks and charging pads. Now, it's on phone manufacturers to foot the second half of the bill by integrating the proper coils on the back of their devices. Expect those to arrive very soon.
 
 **Also: [The best wireless chargers for iPhone and Android phones](https://www.zdnet.com/article/best-wireless-charger/)**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. Periscope lenses push cameras to further distances
 
@@ -109,10 +93,6 @@ Companies like Samsung have long adopted periscope lenses to improve their camer
 As manufacturers continue to figure out ways to shrink and fit better components within the framework of smartphones, expect better, more capable cameras in 2024 and beyond.
 
 **Also:** [**The evolution of smartphone cameras: From megapixels to AI-driven photography**](https://www.zdnet.com/article/the-evolution-of-smartphone-cameras-from-megapixels-to-ai-driven-photography/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5\. A new class of mobile devices
 
@@ -168,16 +148,20 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-ideal-caption-solutions-photo-text-integration-guide-for-2024/"><u>[New] Ideal Caption Solutions Photo-Text Integration Guide for 2024</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/n-2024-start-saving-youtube-videos-as-screen-captures-today-completely-free/"><u>[New] In 2024, Start Saving YouTube Videos as Screen Captures Today - Completely Free</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-swift-effective-methods-for-iphone-screen-recordings/"><u>[Updated] 2024 Approved Swift, Effective Methods for iPhone Screen Recordings</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-web-funnies-forge/"><u>[Updated] Web Funnies Forge</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/activating-meta-quest-3s-ai-feature-outpacing-apple-vision-pro-learn-the-stepszdnet/"><u>Activating Meta Quest 3'S AI Feature – Outpacing Apple Vision Pro; Learn the Steps![ZDNet]</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/guide-to-link-airpod-audio-to-nintendo-switch-for-enhanced-gaming-sound-experience/"><u>Guide to Link AirPod Audio to Nintendo Switch for Enhanced Gaming Sound Experience</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/how-to-find-and-invest-in-the-best-computer-system-for-school-use/"><u>How to Find and Invest in the Best Computer System for School Use</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/massive-drop-in-apple-m2-mac-mini-prices-now-just-479-exclusive-insights/"><u>Massive Drop in Apple M2 Mac Mini Prices: Now Just $479 - Exclusive Insights</u></a></li>
-<li><a href="https://win11.techidaily.com/maximizing-windows-taskbar-showing-internet-speed/"><u>Maximizing Windows Taskbar: Showing Internet Speed</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/three-ways-to-sim-unlock-oppo-a78-by-drfone-android/"><u>Three Ways to Sim Unlock Oppo A78</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/unlock-access-to-premium-online-fax-services-for-free/"><u>Unlock Access to Premium Online Fax Services for Free</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-exclusive-list-top-10-live-streaming-networks-ranked/"><u>[Updated] 2024 Approved Exclusive List Top 10 Live Streaming Networks Ranked</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-superior-mac-gif-saving-the-ultimate-guide/"><u>2024 Approved Superior Mac GIF Saving The Ultimate Guide</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-the-art-of-auditory-alchemy-does-the-magic-voice-modifier-work-seek-alternates/"><u>2024 Approved The Art of Auditory Alchemy Does the Magic Voice Modifier Work? Seek Alternates</u></a></li>
+<li><a href="https://win-net.techidaily.com/comment-enregistrer-plusieurs-partitions-de-disque-dur-simultanement-sous-windows-11/"><u>Comment Enregistrer Plusieurs Partitions De Disque Dur Simultanément Sous Windows 11 ?</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/discover-the-premier-8-mobile-games-you-cant-miss/"><u>Discover the Premier 8 Mobile Games You Can't Miss</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/excel-mastery-a-step-by-step-guide-to-merging-two-spreadsheets/"><u>Excel Mastery: A Step-by-Step Guide to Merging Two Spreadsheets</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/explore-these-4-amazing-complimentary-web-based-schedulers/"><u>Explore These 4 Amazing Complimentary Web-Based Schedulers</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-i-resolved-the-issue-of-windows-not-finding-a-proper-printer-driver/"><u>How I Resolved the Issue of Windows Not Finding a Proper Printer Driver</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-reset-another-users-password-securely-on-a-windows-computer/"><u>How to Reset Another User's Password Securely on a Windows Computer</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-restore-mscorwksdll-and-solve-system-compatibility-issues/"><u>How to Restore 'Mscorwks.dll' And Solve System Compatibility Issues</u></a></li>
+<li><a href="https://driver-install.techidaily.com/master-the-art-of-astro-driver-updates-in-windows-environments/"><u>Master the Art of Astro Driver Updates in Windows Environments</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/multios-file-finder-toolkit-quick-data-restoration/"><u>MultiOS File Finder Toolkit – Quick Data Restoration</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/troubleshooting-tips-for-when-you-cant-find-normalizdll-on-your-pc/"><u>Troubleshooting Tips for When You Can’t Find Normaliz.dll on Your PC</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/tweeting-to-whatsapp-direct-video-distribution-for-2024/"><u>Tweeting to WhatsApp Direct Video Distribution for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/upcoming-launch-of-google-pixel-tablet-detailed-timeline-features-and-specifications/"><u>Upcoming Launch of Google Pixel Tablet: Detailed Timeline, Features & Specifications</u></a></li>
 </ul></div>
 

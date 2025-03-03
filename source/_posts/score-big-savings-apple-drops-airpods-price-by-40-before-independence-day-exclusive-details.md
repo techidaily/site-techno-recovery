@@ -1,7 +1,7 @@
 ---
 title: "Score Big Savings: Apple Drops AirPods Price by $40 Before Independence Day - Exclusive Details"
-date: 2025-02-09T19:48:16.571Z
-updated: 2025-02-11T21:02:06.371Z
+date: 2025-02-28T19:22:47.118Z
+updated: 2025-03-02T17:33:18.140Z
 tags:
   - apple
 categories:
@@ -28,10 +28,6 @@ Lucky for us, that already-affordable price dropped once more, and the deal is s
 The second-generation AirPods come with a Lightning charger case. They offer solid sound, five hours of battery of life (and a fully-charged case can recharge them five times, giving you up to 24 hours), and voice-activated Siri access. They're also super easy to set up and to switch between your Apple devices. 
 
 Buy the AirPods on sale at [Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-AirPods-Charging-Latest-Model%2Fdp%2FB07PXGQC1Q%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C01ab4a9a-af6b-4a8d-9fb6-f2fc597fd05f%7Cdtp&dtb=1) now. You can also check out more [headphone deals](https://www.zdnet.com/article/best-headphone-deals/) and the [top products ZDNET readers bought last month](https://www.zdnet.com/home-and-office/the-25-most-popular-products-zdnet-readers-bought-last-month/).
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## When will this deal expire?
 
@@ -62,21 +58,22 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-resources.techidaily.com/new-2023s-top-pick-of-affordable-live-stream-tech-for-every-platform-user/"><u>[New] 2023'S Top Pick of Affordable Live Stream Tech for Every Platform User</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/dit-with-ease-prime-10-converters-unveiled-for-2024/"><u>[New] Edit with Ease Prime 10 Converters Unveiled for 2024</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-step-by-step-guide-to-personalize-and-change-video-covers-on-facebook-for-2024/"><u>[New] Step-by-Step Guide to Personalize and Change Video Covers on Facebook for 2024</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-in-2024-the-podcasters-guide-to-seamless-streaming-setup/"><u>[Updated] In 2024, The Podcaster’s Guide to Seamless Streaming Setup</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/discover-excellent-alternatives-to-apple-and-tile-with-our-top-wallet-airtags-reviewed/"><u>Discover Excellent Alternatives to Apple and Tile with Our Top Wallet AirTags Reviewed!</u></a></li>
-<li><a href="https://discover-awesome.techidaily.com/effortless-playback-of-vhs-tapes-with-the-advanced-vts-video-player-for-pcs-and-laptops/"><u>Effortless Playback of VHS Tapes with the Advanced VTS Video Player for PCs and Laptops</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/failure-to-adhere-to-recommended-calibration-frequencies-can-result-in-product-quality-issues-and-non-compliance-with-industry-standards/"><u>Failure to Adhere to Recommended Calibration Frequencies Can Result in Product Quality Issues and Non-Compliance with Industry Standards.</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/how-can-you-determine-if-you-are-being-tracked-by-a-tiny-invisible-tracker/"><u>How Can You Determine if You Are Being Tracked by a Tiny, Invisible Tracker?</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/identifying-when-your-location-is-monitored-by-apples-airtag-a-comprehensive-guide/"><u>Identifying When Your Location Is Monitored by Apple's AirTag – A Comprehensive Guide</u></a></li>
-<li><a href="https://discover-helper.techidaily.com/perfektes-klonen-ihrer-filme-mit-winx-dvd-copy-fur-windows-1187-eine-umfassende-anleitung/"><u>Perfektes Klonen Ihrer Filme Mit WinX DVD Copy Für Windows 11/8/7 - Eine Umfassende Anleitung</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/remove-the-lock-screen-fingerprint-of-your-honor-90-gt-by-drfone-android/"><u>Remove the Lock Screen Fingerprint Of Your Honor 90 GT</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/resolving-mfc42dll-not-detected-issues-step-by-step-troubleshooting-guide/"><u>Resolving mfc42.dll Not Detected Issues: Step-by-Step Troubleshooting Guide</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/simply-connect-samsung-soundbar-comprehensive-instructions-for-tv-enthusiasts/"><u>Simply Connect Samsung Soundbar: Comprehensive Instructions for TV Enthusiasts</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/step-by-step-guide-fixing-lameencdll-malfunctions-during-mp3-playback-audacity/"><u>Step-by-Step Guide: Fixing lame_enc.dll Malfunctions During MP3 Playback (Audacity)</u></a></li>
-<li><a href="https://some-skills.techidaily.com/uhd-precision-converter-clearer-sharper-visuals-for-2024/"><u>UHD Precision Converter Clearer, Sharper Visuals for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/zdnets-top-pick-xr-headset-boosted-productivity-and-enhanced-travel-experience-with-3-key-improvements/"><u>ZDNet's Top-Pick XR Headset: Boosted Productivity & Enhanced Travel Experience with 3 Key Improvements!</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-excellence-in-meeting-capture-the-best-streaming-gadgets-ranked/"><u>[New] Excellence in Meeting Capture The Best Streaming Gadgets Ranked</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/mmakers-essential-guide-to-free-royalty-free-audiosites/"><u>A Filmmaker's Essential Guide to Free Royalty-Free Audiosites</u></a></li>
+<li><a href="https://driver-download.techidaily.com/easy-guide-keeping-your-windows-1110-device-connected-with-driver-updates/"><u>Easy Guide: Keeping Your Windows 11/10 Device Connected with Driver Updates</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/easy-setup-instructions-for-linking-bluetooth-audio-devices-to-computers/"><u>Easy Setup Instructions for Linking Bluetooth Audio Devices to Computers</u></a></li>
+<li><a href="https://win-dash.techidaily.com/effortless-setup-guide-downloading-logitechs-wireless-mouse-drivers-for-windows/"><u>Effortless Setup Guide: Downloading Logitech's Wireless Mouse Drivers for Windows</u></a></li>
+<li><a href="https://win-data.techidaily.com/enhancing-your-dj-laptop-strategies-for-seamless-video-remixes-with-pcdj-software/"><u>Enhancing Your DJ Laptop: Strategies for Seamless Video Remixes with PCDJ Software</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-fix-ac1st16dll-is-missing-or-not-found-errors/"><u>How to Fix Ac1st16.dll Is Missing or Not Found Errors</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-send-recorded-phone-calls-on-apple-devices-effortlessly/"><u>How to Send Recorded Phone Calls on Apple Devices Effortlessly</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-changefake-your-samsung-galaxy-s23-ultra-location-on-viber-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Fake Your Samsung Galaxy S23 Ultra Location on Viber | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-unlock-iphone-12-mini-without-passcode-easily-drfone-by-drfone-ios/"><u>In 2024, Unlock iPhone 12 mini Without Passcode Easily | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/protect-personal-data-while-surfing-the-web-with-google-gemini/"><u>Protect Personal Data While Surfing the Web with Google Gemini</u></a></li>
+<li><a href="https://discover-comparisons.techidaily.com/synology-nastop2/"><u>Synology NAS上で安全にローカルデータを同期する最良の方法TOP2</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-apple-domestic-automaton-saga-continues-expected-launch-specs-and-cost-estimates-detailed/"><u>The Apple Domestic Automaton Saga Continues: Expected Launch, Specs & Cost Estimates Detailed</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/transformer-films-timeline-watch-them-back-to-back-in-their-official-order/"><u>Transformer Films Timeline: Watch Them Back-to-Back in Their Official Order</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/uncovering-the-reasons-behind-driver-accidents-insights-from-yl-computings-expertise/"><u>Uncovering the Reasons Behind Driver Accidents: Insights From YL Computing's Expertise</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unleash-your-inner-champion-a-list-of-the-11-most-encouraging-movies-ever-made/"><u>Unleash Your Inner Champion: A List of the 11 Most Encouraging Movies Ever Made</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/untangling-bootmgr-missing-problems-on-your-pc-fixes-revealed/"><u>Untangling 'BOOTMGR Missing' Problems on Your PC - Fixes Revealed</u></a></li>
 </ul></div>
 

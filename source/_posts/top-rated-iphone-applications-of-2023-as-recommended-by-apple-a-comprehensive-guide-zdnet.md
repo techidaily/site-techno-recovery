@@ -1,7 +1,7 @@
 ---
 title: "Top Rated iPhone Applications of 2023 as Recommended by Apple: A Comprehensive Guide - ZDNet"
-date: 2025-02-10T18:22:52.842Z
-updated: 2025-02-11T23:59:50.811Z
+date: 2025-03-02T00:40:17.596Z
+updated: 2025-03-02T21:22:49.376Z
 tags:
   - apple
 categories:
@@ -26,10 +26,6 @@ While the Apple Watch started as a [fitness tracker](https://www.zdnet.com/artic
 
 Based on my years of testing, my pick for the best Apple Watch overall is the [Apple Watch Ultra 2](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fapple-watch-ultra-2-gps-cellular-49mm-titanium-case-with-orange-beige-trail-loop-medium-large-titanium%2F6574421.p%3FskuId%3D6574421&publisher_slug=itechdaily19598&exclusive=1), thanks to its large screen, 24-hour battery life, and emergency siren. Read on to find out which Apple Watch is best for you. However, the new Apple Watch Series 10 was just unveiled at [Apple's "It's Glowtime" event](https://www.zdnet.com/article/everything-we-expect-at-apples-iphone-16-event-ai-features-airpods-apple-watch-series-10-more/) on September 9 and will be available on September 20\. We'll be testing the new Apple Watch and will add our buying advice to this page as soon as we do.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## The best Apple Watches of 2024
 
 Show less 
@@ -45,10 +41,6 @@ Pros
 Cons 
 * Too big for small wrists
 * Double the price of the base Apple Watch Series 9
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Apple Watch Ultra 2
 
@@ -81,10 +73,6 @@ Pros
 Cons 
 * Cellular connectivity costs extra
 * Not as durable as the Ultra 2
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Apple Watch Series 9
 
@@ -181,10 +169,6 @@ Cons
 
 ## Apple Watch Hermès
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Best Apple Watch for dressing up
 
 If you're looking to splurge on a designer smartwatch, the Apple Watch Hermès is a chic option for fashionistas. The watch itself is an Apple Watch Series 9, but you'll get exclusive Hermès watch faces and different case etchings. 
@@ -231,10 +215,6 @@ While all the Apple Watches on this list have a slew of health-tracking features
 * **Features:** Apple methodically adds more and more new features to the Apple Watch each year, so we compared safety features, health sensors, band options, battery life, and other useful options.
 * **Pricing:** Each Apple Watch has a number of different variations, so pricing can vary widely -- especially based on which band you pick. We included budget-worthy options below $250, as well as the more premium options that are over $1,000.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How we test smartwatches
 
 All of the Apple Watches included in this list were chosen based on how they performed when [tested in the real world](https://www.zdnet.com/article/how-we-test-smartwatches-at-zdnet-in-2024/) by the ZDNET team. When we test smartwatches, we typically follow the same routine for each one to see which performs best.
@@ -257,10 +237,6 @@ There is also a new depth gauge, which measures up to six meters beneath the wat
 Finally, the Apple Watch 10 has a new jet black finish, along with "updated" rose gold and brushed silver aluminum finishes. 
 
 The Apple Watch 10 costs $399 and is available Friday, September 20\. You can [preorder here](https://www.apple.com/shop/buy-watch/apple-watch). 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Do you need an iPhone to use an Apple Watch?
 
@@ -286,17 +262,9 @@ The best Apple Watch for fitness tracking is the Apple Watch Series 9 or the App
 
 The Apple Watch Series 9 brings a 2,000-nit display (twice as bright as the Series 8), a new hands-free double-tap gesture, and the new S9 SiP, which makes the watch run faster and smoother. The Apple Watch Series 8 introduced a more scratch-resistant crystal face, a temperature sensor, next-gen motion tracking, crash detection, and emergency SOS (all of which are also included in the Series 9). These are all features that the Series 7 doesn't include, but it features two unique colors -- blue and green -- no longer available on either the Series 9 or the Series 8.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Is the Apple Watch Ultra 2 worth the extra cost for outdoor enthusiasts?
 
 If you're someone who spends time hiking, doing triathlons, and involved in outdoor activities in extreme temperatures, rugged conditions, and lots of dust and water, the Apple Watch Ultra 2 may be worth the extra cost. Its design makes it more durable and water-resistant (up to 100m) than the other Apple Watch models, and it includes an Action Button for fine-tuning workouts and hikes.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What Apple Watch is best for kids?
 
@@ -305,10 +273,6 @@ While it's not made specifically with kids in mind, the Apple Watch SE is an exc
 **Also:** [**The best smartwatches for kids**](https://www.zdnet.com/article/best-kids-smartwatch/)
 
 In addition, you can use Apple's Family Setup to check your kid's location, set up shared contacts, implement parental controls like screen time usage, and more. Your child doesn't even need their own iPhone to have an Apple Watch -- they can [pair it up with yours](https://www.zdnet.com/article/how-to-pair-and-unpair-apple-watch/), so you're fully in control. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Does Apple Watch work with Android?
 
@@ -368,17 +332,17 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-mastering-sound-capture-in-windows-11/"><u>[New] Mastering Sound Capture in Windows 11</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-mold-memorable-memes-via-giphy/"><u>[New] Mold Memorable Memes via Giphy</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/5-quick-methods-to-bypass-vivo-y100i-power-5g-frp-by-drfone-android/"><u>5 Quick Methods to Bypass Vivo Y100i Power 5G FRP</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/discover-the-best-free-resources-for-your-favorite-tunes/"><u>Discover the Best Free Resources for Your Favorite Tunes</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/fix-your-game-audio-expert-tips-for-a-working-xbox-series-headset/"><u>Fix Your Game Audio: Expert Tips for a Working Xbox Series Headset</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/identifying-inauthentic-connections-a-guide-to-recognizing-false-friend-requests/"><u>Identifying Inauthentic Connections: A Guide to Recognizing False Friend Requests</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-how-to-stream-on-mixer-macos/"><u>In 2024, How to Stream on Mixer MacOS</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/pro-mobile-techniques-for-snapchat-recording/"><u>Pro Mobile Techniques for Snapchat Recording</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/staying-informed-in-the-micromobility-sphere-key-dates-latest-headlines-whispers-and-beyond/"><u>Staying Informed in the Micromobility Sphere: Key Dates, Latest Headlines, Whispers & Beyond</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/top-15-youtube-originals-premium-unboxing-sessions-for-2024/"><u>Top 15 YouTube Originals Premium Unboxing Sessions for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/top-7-must-have-notetaking-tools-for-your-ipad-and-ipad-pro/"><u>Top 7 Must-Have Notetaking Tools for Your iPad & iPad Pro</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/what-to-choose-after-iphone-13-15-pro-exit-the-stage-expert-picks-zdnet/"><u>What to Choose After iPhone 13, 15 Pro Exit the Stage - Expert Picks | ZDNet</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-access-the-archived-unique-methods-for-viewing-old-youtube/"><u>[New] 2024 Approved Access the Archived Unique Methods for Viewing Old YouTube</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-harmony-through-play-our-best-10-gems/"><u>2024 Approved Harmony Through Play Our Best 10 Gems</u></a></li>
+<li><a href="https://change-location.techidaily.com/3-ways-for-android-pokemon-go-spoofing-on-xiaomi-civi-3-drfone-by-drfone-virtual-android/"><u>3 Ways for Android Pokemon Go Spoofing On Xiaomi Civi 3 | Dr.fone</u></a></li>
+<li><a href="https://fox-access.techidaily.com/bring-your-images-alive-on-android-with-these-5-powerful-editors-for-2024/"><u>Bring Your Images Alive on Android with These 5 Powerful Editors for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/solving-the-latency-issue-a-step-by-step-guide-to-eliminating-chromecast-audio-lag/"><u>Solving the Latency Issue: A Step-by-Step Guide to Eliminating Chromecast Audio Lag</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/solving-the-problem-troubleshooting-steps-when-your-mac-app-wont-launch/"><u>Solving the Problem: Troubleshooting Steps When Your Mac App Won't Launch</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/1722902470148-step-by-step-guide-to-fix-a-stuck-dvdbdcd-drive-no-need-to-panic/"><u>Step-by-Step Guide to Fix a Stuck DVD/BD/CD Drive: No Need to Panic!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-restoring-factory-settings-on-your-samsung-soundbar/"><u>Step-by-Step Guide: Restoring Factory Settings on Your Samsung Soundbar</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-9-isps-optimized-for-gamers-a-comprehensive-review-zdnet/"><u>Top 9 ISPs Optimized for Gamers: A Comprehensive Review | ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/troubleshooting-tips-to-resolve-screen-discoloration-and-picture-distortion-in-computers/"><u>Troubleshooting Tips to Resolve Screen Discoloration and Picture Distortion in Computers</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unlocking-the-mystery-of-aether-defining-its-identity-and-pathways-to-participation/"><u>Unlocking the Mystery of Aether - Defining Its Identity and Pathways to Participation</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-2024-approved-video-editing-essentials-how-to-freeze-frames-like-a-pro/"><u>Updated 2024 Approved Video Editing Essentials How to Freeze Frames Like a Pro</u></a></li>
 </ul></div>
 

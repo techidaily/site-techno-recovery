@@ -1,7 +1,7 @@
 ---
 title: Expert Tips for Rectifying Unresponsive USB Ports on Your Notebook Computer
-date: 2024-08-18T16:36:52.360Z
-updated: 2024-08-19T16:36:52.360Z
+date: 2025-02-26T21:45:54.820Z
+updated: 2025-03-02T23:08:23.147Z
 tags:
   - win11
   - win10
@@ -56,9 +56,6 @@ thumbnail: https://thmb.techidaily.com/35711b04893827e589108adbb18a73b7e3ecd093c
 1. Right-click your taskbar, then click**Task Manager** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-25_15-29-08.jpg)
 2. Under the**Processes** tab, look for the processes that are memory-hogging. Take Chrome here, for example, right-click it then click**End task** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-04-25_17-41-30.jpg)
 
  If shutting down the memory-hogging apps doesn’t solve your problem, try the next fix.
@@ -75,9 +72,6 @@ thumbnail: https://thmb.techidaily.com/35711b04893827e589108adbb18a73b7e3ecd093c
 
  Test if your laptop is still running slow. If this doesn’t help, move on to the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
-<!-- affiliate ads end -->
 ## Fix 4: Keep your laptop up-to-date
 
  Windows Update releases new updates now and then. You want to make sure that you always install the available updates, so certain system bugs can be fixed which may help your laptop run smoothly. Simply follow these steps:
@@ -86,14 +80,8 @@ thumbnail: https://thmb.techidaily.com/35711b04893827e589108adbb18a73b7e3ecd093c
  (If you don’t see the search bar, click the Start button and you’ll find it in the pop-up menu.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/check-for-updates.png)
 2. Windows will scan for any available updates. If there are_no_ available updates, you’ll get a**You’re up to date** sign. You could also click**View all optional updates** and install them if needed.  
-<!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/up-to-date.png)  
  If there are available updates, click**Install updates** .
-<!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3. Restart your PC to let it take effect.
 
 If this doesn’t solve your problem, try the next fix.
@@ -106,9 +94,6 @@ If this doesn’t solve your problem, try the next fix.
 
 [2: Use cloud storage for large files](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 1: Use the Disk Cleanup tool
 
  The Disk Cleanup tool is a Windows built-in feature, and it’s easy to use. Here’s how:
@@ -116,9 +101,6 @@ If this doesn’t solve your problem, try the next fix.
 1. In the search bar next to the Start button, type**disk cleanup** and click**Disk Cleanup** in the results.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/search-disk-cleanup.png)
 2. The Disk Cleanup tool will scan your files and show you what can be removed. Make sure you go through the files carefully before you delete them.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/disk-cleanup.png)
 
  If you want to use a professional tool to clean up your hard drive, we recommend[CCleaner](https://tools.techidaily.com/drivereasy/download/) . It’s easy to use and does a great job at cleaning junk files.
@@ -145,25 +127,15 @@ If this doesn’t solve your problem, try the next fix.
 
  2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2021/04/1-5.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
-<!-- affiliate ads end -->
  3) Click the **Update**  button next to the flagged drivers to automatically download the correct version of the drivers, then you can manually install them (you can do this with the FREE version). For example, I want to update my graphics driver and network adapter drivers, simply click**Update** and follow the instructions.
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-25_15-01-04.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
-</a>
-<!-- affiliate ads end -->
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Restart your laptop for the new drivers to take effect. If updating drivers doesn’t solve your problem, move on to the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 7: Scan for virus and malware
 
  Viruses and malware would not only slow your laptop down, but also expose your laptop to dangers such as information leakage and security attacks. You may want to run virus scans on a regular basis to prevent your laptop from being hacked.
@@ -182,9 +154,6 @@ If this doesn’t solve your problem, try the next fix.
  (For most browsers, you should be able to clear browser cache by pressing**Ctrl** and**Shift** and**Delete** on your keyboard.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/Snipaste_2021-05-28_15-20-22.png)
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ---
 
  Hopefully this article helps and your HP laptop is running smoothly now! Please feel free to leave a comment if you have any questions or suggestions.
@@ -199,8 +168,6 @@ If this doesn’t solve your problem, try the next fix.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -208,4 +175,22 @@ If this doesn’t solve your problem, try the next fix.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-how-to-manual-for-creating-an-inclusive-and-productive-skype-chat-room-accessible-by-both-windows-and-mac-users/"><u>[New] 2024 Approved How-To Manual for Creating an Inclusive and Productive Skype Chat Room Accessible by Both Windows & Mac Users</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-lol-gaming-on-air-top-3-recording-methods/"><u>[New] LOL Gaming On Air Top 3 Recording Methods</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-bridging-gaps-transforming-trend-data-into-video-concepts/"><u>[Updated] 2024 Approved Bridging Gaps Transforming Trend Data Into Video Concepts</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/5-quick-methods-to-bypass-realme-narzo-n55-frp-by-drfone-android/"><u>5 Quick Methods to Bypass Realme Narzo N55 FRP</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/budget-friendly-laptop-resurrects-once-popular-tech-term-whats-the-hype-about/"><u>Budget-Friendly Laptop Resurrects Once Popular Tech Term - What's the Hype About?</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/discover-the-best-of-tech-in-the-oneplus-e-6t-top-notch-performance-meets-budget-friendliness/"><u>Discover the Best of Tech in the OnePlus E 6T: Top-Notch Performance Meets Budget Friendliness</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/effective-fixes-for-addressing-the-winhttpdll-component-missing-problem/"><u>Effective Fixes for Addressing The Winhttp.dll Component Missing Problem</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/efficient-fixes-for-lg-usb-driver-problems-in-modern-and-older-windows-operating-systems-win11-win8-win7/"><u>Efficient Fixes for LG USB Driver Problems in Modern & Older Windows Operating Systems (Win11, Win8, Win7)</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/exploring-the-future-with-verizons-advanced-5g-network-technology/"><u>Exploring the Future with Verizon's Advanced 5G Network Technology</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/1722853674483-from-smartphone-to-laptop-mastering-the-art-of-snapchatting-via-a-pc-setup/"><u>From Smartphone to Laptop: Mastering the Art of Snapchatting via a PC Setup</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/sharing-fun-a-step-by-step-guide-to-playing-multiplayer-on-your-ps5/"><u>Sharing Fun: A Step-by-Step Guide to Playing Multiplayer on Your PS5</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-13-complimentary-hd-health-check-applications-july-2024-update/"><u>Top 13 Complimentary HD Health Check Applications: July 2024 Update</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-5-exciting-innovations-in-the-new-iphone-16-pro-a-tech-lovers-dream-come-true-zdnet/"><u>Top 5 Exciting Innovations in the New iPhone 16 Pro: A Tech Lover's Dream Come True! - ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unlocking-efficiency-a-guide-to-activating-and-leveraging-the-secret-sidebar/"><u>Unlocking Efficiency: A Guide to Activating & Leveraging The Secret Sidebar</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/whats-new-with-meta-quest-3-dive-into-pricing-info-release-timeline-and-hardware-specs/"><u>What's New with Meta Quest 3? Dive Into Pricing Info, Release Timeline & Hardware Specs</u></a></li>
+</ul></div>
 

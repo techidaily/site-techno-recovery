@@ -1,7 +1,7 @@
 ---
 title: "Exposing AirTag Surveillance: Your Complete Manual on Privacy Protection"
-date: 2025-02-09T23:45:02.624Z
-updated: 2025-02-11T23:45:48.025Z
+date: 2025-02-28T01:27:39.953Z
+updated: 2025-03-02T16:39:54.244Z
 tags:
   - apple
 categories:
@@ -48,10 +48,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## A trained charm offensive
 
 But before I could bathe in that oddness, a charming saleswoman wandered over and asked if she could help.
@@ -81,10 +77,6 @@ She insisted on proving her point. She walked me over to a MacBook, opened the A
 She began to play a demonstration video that, dare I confess, is quite moving. 
 
 The fact that someone else can see (a digital version of) your eyes is a touchingly humane feature, even if imperfect. But the simple gesturing and the apparent power of that gesturing is, even on video, quite something.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Suddenly, it's all business
 
@@ -123,10 +115,6 @@ I asked if she thought this would become the new way of living, where people wan
 "Maybe. But this isn't just goggles," she insisted. "This is computing. Spatial computing. This is like having a computer in front of your face, with all your apps, and being able to do what you want."
 
 (Well, not quite all the apps. Netflix and YouTube [aren't there](https://www.zdnet.com/article/what-apps-will-be-on-apple-vision-pro-not-these-two-major-ones/).)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Was I sold? Not quite yet
 
@@ -191,19 +179,14 @@ I asked the female store employee whether she'd be able to try one on before the
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-outsmarting-the-obtrusive-fb-video-ads-for-2024/"><u>[New] Outsmarting the Obtrusive FB Video Ads for 2024</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-channel-name-genius-brainstorming-like-a-pro/"><u>[Updated] 2024 Approved Channel Name Genius Brainstorming Like a Pro</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-essential-apps-for-annotating-mobile-images/"><u>[Updated] In 2024, Essential Apps for Annotating Mobile Images</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-ranking-top-online-tutorial-providers-excluding-udemy/"><u>[Updated] Ranking Top Online Tutorial Providers Excluding Udemy</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-ideal-strategies-for-online-video-photo-effects-implementation/"><u>2024 Approved Ideal Strategies for Online Video Photo Effects Implementation</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/3-best-tools-to-hard-reset-motorola-defy-2-drfone-by-drfone-reset-android-reset-android/"><u>3 Best Tools to Hard Reset Motorola Defy 2 | Dr.fone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/handheld-learning-how-ai-could-revolutionize-our-pockets-by-2024-insights-from-zdnet/"><u>Handheld Learning: How AI Could Revolutionize Our Pockets by 2024 - Insights From ZDNet</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/navigating-snapchat-for-twitter-vids-distribution-for-2024/"><u>Navigating Snapchat for Twitter Vids Distribution for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/rocket-league-troubleshooting-guide-solving-persistent-crash-issues/"><u>Rocket League Troubleshooting Guide: Solving Persistent Crash Issues</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/steps-to-recover-and-restore-avcodecdll-on-your-system/"><u>Steps to Recover and Restore Avcodec.dll on Your System</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/the-truth-behind-the-hype-is-it-worth-waiting-instead-of-going-straight-for-the-iphone-16-insights/"><u>The Truth Behind the Hype: Is It Worth Waiting Instead of Going Straight for the iPhone 16? Insights</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/the-ultimate-guide-to-airpod-hygiene-why-and-how-to-deep-cleanse-your-devices/"><u>The Ultimate Guide to AirPod Hygiene: Why & How to Deep Cleanse Your Devices</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/top-10-best-substitutes-for-chatgpt-that-you-shouldnt-ignore/"><u>Top 10 Best Substitutes for ChatGPT That You Shouldn't Ignore</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/unveiling-the-list-of-apple-watch-models-set-for-watchos-11-upgrade-and-those-not-on-board-insights/"><u>Unveiling the List of Apple Watch Models Set for WatchOS 11 Upgrade and Those Not on Board – Insights</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-crafting-powerful-partnerships-a-guide-to-choosing-youtube-allies/"><u>[Updated] In 2024, Crafting Powerful Partnerships A Guide to Choosing YouTube Allies</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/capture-your-ride-top-5-action-camera-headsets-reviewed-for-23-motorcyclists/"><u>Capture Your Ride – Top 5 Action Camera Headsets Reviewed for '23 Motorcyclists</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-crafting-the-perfect-strategy-exclusive-youtube-to-gmail-connection/"><u>In 2024, Crafting the Perfect Strategy Exclusive YouTube to Gmail Connection</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-what-legendaries-are-in-pokemon-platinum-on-vivo-y100i-power-5g-drfone-by-drfone-virtual-android/"><u>In 2024, What Legendaries Are In Pokemon Platinum On Vivo Y100i Power 5G? | Dr.fone</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/probing-financial-depths-an-analysis-of-mr-beasts-wealth/"><u>Probing Financial Depths An Analysis of Mr. Beast's Wealth</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/revive-your-lg-tvs-netflix-function-discover-these-19-easy-fixes-for-seamless-viewing/"><u>Revive Your LG TV's Netflix Function: Discover These 19 Easy Fixes for Seamless Viewing</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-solutions-for-bsod-errors-in-windows-computers/"><u>Step-by-Step Solutions for BSOD Errors in Windows Computers</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-new-era-with-meta-quest-ter-latest-announcements-cost-analysis-product-launch-and-detailed-tech-specs-compared/"><u>The New Era with Meta Quest Ter : Latest Announcements, Cost Analysis, Product Launch & Detailed Tech Specs Compared</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-right-way-to-watch-the-epic-star-wars-series-in-order-disneyplus/"><u>The Right Way to Watch the Epic 'Star Wars' Series in Order: Disney+</u></a></li>
 </ul></div>
 

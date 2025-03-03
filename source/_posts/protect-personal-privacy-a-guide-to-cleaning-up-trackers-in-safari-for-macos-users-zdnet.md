@@ -1,7 +1,7 @@
 ---
 title: "Protect Personal Privacy: A Guide to Cleaning Up Trackers in Safari for macOS Users | ZDNet"
-date: 2025-02-08T17:00:28.605Z
-updated: 2025-02-11T20:16:54.192Z
+date: 2025-02-24T00:07:46.653Z
+updated: 2025-03-02T23:32:20.845Z
 tags:
   - apple
 categories:
@@ -46,17 +46,9 @@ Let me show you how to enable this feature.
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to remove tracking information in MacOS Safari
 
 **What you'll need:** To gain the benefit of advanced tracking and fingerprint protection, you'll need [MacOS Sonoma](https://www.zdnet.com/article/whats-new-in-macos-sonoma-heres-everything-you-need-to-know/), which ships with version 17.0 of Safari. You will only find this feature in Safari if you've upgraded to Sonoma.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 1\. Open Safari Settings
 
@@ -65,10 +57,6 @@ The first thing to do is open the Safari browser. Once it's open, click the Safa
 You can also access Safari settings with the Cmd+, key combination.
 
 Jack Wallen/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Enable advanced track protection
 
@@ -119,18 +107,17 @@ Even so, getting rid of tracking information from even a percentage of sites you
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-unearthing-the-top-10-sleeper-social-media-stars/"><u>2024 Approved Unearthing the Top 10 Sleeper Social Media Stars</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/exploring-the-diminutive-dynamo-the-latest-mac-minis-power-vs-size-as-featured/"><u>Exploring the Diminutive Dynamo: The Latest Mac Mini's Power Vs. Size, As Featured</u></a></li>
-<li><a href="https://win11.techidaily.com/fuel-efficiency-the-best-pc-optimization-tools-on-a-win/"><u>Fuel Efficiency: The Best PC Optimization Tools on a Win</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/future-proof-fun-ranking-the-top-portable-consoles-for-next-year/"><u>Future-Proof Fun: Ranking the Top Portable Consoles for Next Year</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/guide-to-overcoming-screen-distortions-and-discoloration-on-computers-step-by-step-fixes/"><u>Guide to Overcoming Screen Distortions & Discoloration on Computers: Step-by-Step Fixes</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-without-jailbreak-on-oppo-k11x-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location without Jailbreak On Oppo K11x | Dr.fone</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-2023s-ultimate-list-of-affordable-live-stream-software-and-apps/"><u>In 2024, 2023’S Ultimate List of Affordable Live Stream Software and Apps</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/latest-nvidia-geforce-rtx-2070-graphics-card-drivers-for-pcs/"><u>Latest NVIDIA GeForce RTX 2070 Graphics Card Drivers for PCs</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210494738-9782226472847-les-cles-de-lesoterisme-chamanisme/"><u>Les Clés de l'ésotérisme - Chamanisme | Free Book</u></a></li>
-<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-videos-from-p55t-by-fonelab-android-recover-video/"><u>Possible solutions to restore deleted videos from P55T</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/the-ultimate-guide-to-producing-polished-professional-looking-videos/"><u>The Ultimate Guide to Producing Polished, Professional-Looking Videos</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/ultimate-guide-activating-and-utilizing-remote-control-features-on-your-samsung-smart-tv/"><u>Ultimate Guide: Activating and Utilizing Remote Control Features on Your Samsung Smart TV</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/unlocking-a-smarter-home-experience-with-apples-innovative-ai-powered-assistant-supercharging-siri-insights-from-zdnet/"><u>Unlocking a Smarter Home Experience with Apple's Innovative AI-Powered Assistant, Supercharging Siri - Insights From ZDNet</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-fourfold-precision-in-color-capture-with-blade-cameras-for-2024/"><u>[New] Fourfold Precision in Color Capture with Blade Cameras for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-hassle-free-tiktok-age-checks/"><u>[New] Hassle-Free TikTok Age Checks</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-10-free-and-paid-luts-for-canon-camera/"><u>[Updated] 2024 Approved 10 Free & Paid LUTs for Canon Camera</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/comprehensive-fixes-for-handling-missing-msxml4dll-error-messages/"><u>Comprehensive Fixes for Handling Missing Msxml4.dll Error Messages</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/comprehensive-review-of-30-heatsinks-for-ssds-high-performance-benchmarking-and-top-picks/"><u>Comprehensive Review of 30 Heatsinks for SSDs - High Performance Benchmarking and Top Picks</u></a></li>
+<li><a href="https://win-answers.techidaily.com/enhanced-stability-for-your-pc-playthrough-fnaf-free-from-breaching-issues/"><u>Enhanced Stability for Your PC Playthrough – FNAF Free From Breaching Issues!</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-create-the-perfect-super-bowl-watch-party-atmosphere-in-any-living-room/"><u>How to Create the Perfect Super Bowl Watch Party Atmosphere in Any Living Room</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-maintain-a-hygienic-smartphone-remote-with-ease-the-expert-approach/"><u>How to Maintain a Hygienic Smartphone Remote with Ease – The Expert Approach</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-2024-synchronized-squawks-and-soarings-the-bebop-parrot-review/"><u>In 2024, Synchronized Squawks & Soarings The Bebop Parrot Review</u></a></li>
+<li><a href="https://solve-help.techidaily.com/overcoming-boot-issues-in-depth-solutions-for-persistent-computer-not-starting-by-professionals-at-yl-software/"><u>Overcoming Boot Issues: In-Depth Solutions for Persistent Computer Not Starting by Professionals at YL Software</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ultimate-guide-mastering-the-measure-app-on-your-android-smartphone/"><u>Ultimate Guide: Mastering the Measure App on Your Android Smartphone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unlock-the-power-of-artificial-intelligence-dive-into-our-selection-of-15-ondemand-online-free-ai-courses/"><u>Unlock the Power of Artificial Intelligence: Dive Into Our Selection of 15 OnDemand Online Free AI Courses</u></a></li>
 </ul></div>
 

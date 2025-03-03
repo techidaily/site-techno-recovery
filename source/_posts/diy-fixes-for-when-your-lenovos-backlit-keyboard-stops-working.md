@@ -1,7 +1,7 @@
 ---
 title: DIY Fixes for When Your Lenovo's Backlit Keyboard Stops Working
-date: 2024-08-18T16:40:58.131Z
-updated: 2024-08-19T16:40:58.131Z
+date: 2025-02-25T00:18:50.079Z
+updated: 2025-03-03T00:06:42.544Z
 tags:
   - win11
   - win10
@@ -80,8 +80,6 @@ thumbnail: https://thmb.techidaily.com/7c8eb4a6751ebbb720d8baa15eb6264cc6e760acb
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -89,8 +87,20 @@ thumbnail: https://thmb.techidaily.com/7c8eb4a6751ebbb720d8baa15eb6264cc6e760acb
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-mastering-the-cutting-room-floor-youtube-studios-editor-guide/"><u>[Updated] 2024 Approved Mastering the Cutting Room Floor YouTube Studio's Editor Guide</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-audio-input-assessment-report/"><u>[Updated] Audio Input Assessment Report</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-leveraging-hdrs-potential-for-ultimate-video-visualization/"><u>[Updated] Leveraging HDR's Potential for Ultimate Video Visualization</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-slow-it-down-on-iphone-filming-and-modifying-motion-content/"><u>2024 Approved Slow It Down on iPhone Filming & Modifying Motion Content</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/dispatching-win11-camera-troubles-with-error-code-a00f4289/"><u>Dispatching Win11 Camera Troubles with Error Code A00F4289</u></a></li>
+<li><a href="https://win-dash.techidaily.com/guide-to-solve-lg-usb-connection-errors-for-windows-11-8-and-7-users/"><u>Guide to Solve LG USB Connection Errors for Windows 11, 8, and 7 Users</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-can-you-completely-eliminate-your-yahoo-email-account-a-comprehensive-guide/"><u>How Can You Completely Eliminate Your Yahoo Email Account? A Comprehensive Guide</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-turn-on-closed-captions-resolving-common-problems-on-roku-systems/"><u>How to Turn On Closed Captions: Resolving Common Problems on Roku Systems</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/mastering-iphone-recovery-mode-tips-for-getting-in-and-out-safely/"><u>Mastering iPhone Recovery Mode: Tips for Getting In & Out Safely</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-windows-registry-corrections-in-11/"><u>Mastering Windows Registry Corrections in 11</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/1722886273999-qled-vs-oled-tvs-understanding-the-key-distinctions/"><u>QLED Vs. OLED TVs: Understanding The Key Distinctions</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-35plus-amazing-tablet-bargains-during-the-incredible-prime-day-2024-exclusive-offers/"><u>Top 35+ Amazing Tablet Bargains During the Incredible Prime Day 2024: Exclusive Offers !</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-picks-the-best-and-free-films-on-youtube-july-update/"><u>Top Picks: The Best & Free Films on YouTube – July Update</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

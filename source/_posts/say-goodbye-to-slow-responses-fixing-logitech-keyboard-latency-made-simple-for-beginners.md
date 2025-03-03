@@ -1,7 +1,7 @@
 ---
 title: "Say Goodbye to Slow Responses: Fixing Logitech Keyboard Latency Made Simple for Beginners"
-date: 2024-08-18T16:36:30.121Z
-updated: 2024-08-19T16:36:30.121Z
+date: 2025-02-25T21:31:37.970Z
+updated: 2025-03-03T00:53:26.379Z
 tags:
   - win11
   - win10
@@ -51,9 +51,6 @@ thumbnail: https://thmb.techidaily.com/9f7aaa7e93668c79f588e2bdc07bd0199fd9952e2
 1. On your keyboard, press **the Windows logo key** and **R** at the same time. Type **cmd** and press **Ctrl** +**Shift** +**Enter** at the same time to **run Command Prompt as administrator** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-92.png)  
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
-<!-- affiliate ads end -->
  You’ll be prompted for permission. Click **Yes** to open Command Prompt as admin.
 2. Type the keys that don’t work out of the blue in Command Prompt.
 
@@ -86,9 +83,6 @@ thumbnail: https://thmb.techidaily.com/9f7aaa7e93668c79f588e2bdc07bd0199fd9952e2
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image.png)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All.)![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-1.png)  
 **Note** : You can do it for free if you like, but it’s partly manual.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 4. Restart your PC for the changes to take effect.
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -97,9 +91,6 @@ thumbnail: https://thmb.techidaily.com/9f7aaa7e93668c79f588e2bdc07bd0199fd9952e2
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 1.3 Consider a computer restore or a reset
 
  If the keys on your Logitech K780 keyboard stop working all of a sudden, you should try to see if you can unmake any changes made to your computer before the problem.
@@ -116,9 +107,6 @@ thumbnail: https://thmb.techidaily.com/9f7aaa7e93668c79f588e2bdc07bd0199fd9952e2
 
  If your Logitech K780 keyboard doesn’t work at all, not just certain keys, then please try the following troubleshooting process to see if it helps.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### 2.1 Make sure your computer has Bluetooth capability
 
  Although it sounds a bit needless to say, we still have to stress that the Logitech K780 requires the Bluetooth feature on your computer to work wirelessly. So you should either have a built-in Bluetooth adapter for your computer or an external USB Bluetooth receiver or dongle for K780 to work.
@@ -129,9 +117,6 @@ thumbnail: https://thmb.techidaily.com/9f7aaa7e93668c79f588e2bdc07bd0199fd9952e2
 2. Select**Bluetooth & devices** . Make sure that the Bluetooth toggle is set to**On** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-95.png)  
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  If you don’t see a Bluetooth option here, you don’t have Bluetooth capability on your computer. To use Logitech K780, you will need an external Bluetooth adapter or receiver, which can be easily bought online.
 3. Select**Add device** , and then**Bluetooth** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-96.png)
@@ -150,23 +135,10 @@ thumbnail: https://thmb.techidaily.com/9f7aaa7e93668c79f588e2bdc07bd0199fd9952e2
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-18.png)
 2. Click**Check for updates** , and Windows will scan for any available updates.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-19.png)
 3. If there are available updates, Windows will automatically download them for you. Restart your computer for the update to take effect if needed.![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-20.png)
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 4. If there are_no_ available updates, you’ll see**You’re up to date** like this.![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-21.png)
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
-<!-- affiliate ads end -->
  Then try your Logitech K780 keyboard again to see if it works well. If the keyboard is still not working, please move on to the next fix.
 
 ---
@@ -183,23 +155,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
-VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
-
-Key features:
-
-•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
-•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
-•	Visual effects, advanced color correction and trendy Instagram-like filters   
-•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
-•	Non-linear editing: edit several files with simultaneously 
-•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
-•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
-•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
-•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
-</a>
-<!-- affiliate ads end -->
 ### 2.4 Make sure there’s no interference from other devices
 
  When the connection between your Logitech K780 and your computer is still lost, you’ll then need to make sure that there’s no interference from other devices like wireless speakers, PSU (power supply units), monitors, mobile phones, and/or garage door openers.
@@ -212,9 +167,6 @@ Key features:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ### 2.5 Reconnect your keyboard
 
  If your Logitech K780 keyboard still refuses to work after all the above, you can try to force a new reconnection. To do so:
@@ -223,9 +175,6 @@ Key features:
 2. Select**Bluetooth & devices** . Make sure that the Bluetooth toggle is set to**On** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-95.png)
 3. If you see your Logitech K780 keyboard here, click the**three-dot icon** and select**Remove device** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-99.png)
 4. Then select**Add device** , and then**Bluetooth** .  
@@ -248,8 +197,6 @@ Key features:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -257,4 +204,24 @@ Key features:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-blue.techidaily.com/new-essential-recommendations-for-maximum-data-keep-for-2024/"><u>[New] Essential Recommendations for Maximum Data Keep for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-ultimate-screen-recorder-pro-win11-edition-for-2024/"><u>[New] Ultimate Screen Recorder Pro - Win11 Edition for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-unveiling-the-powerhouse-q500-typhoon/"><u>[Updated] In 2024, Unveiling the Powerhouse Q500 Typhoon</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-poptoons-pro-analysis-and-guide-2s24/"><u>[Updated] PopToons Pro Analysis and Guide 2S24</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-secrets-of-the-pocket-acquiring-no-pay-images-for-2024/"><u>[Updated] Secrets of the Pocket Acquiring No-Pay Images for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/avoiding-distractions-with-personalized-mac-focus-modes-in-macos-monterey-tips-and-tricks/"><u>Avoiding Distractions with Personalized Mac Focus Modes in macOS Monterey - Tips & Tricks</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/cite-ai-correctly-expert-tips-on-how-to-include-chatgpt-as-a-reference-source/"><u>Cite AI Correctly: Expert Tips on How to Include ChatGPT as a Reference Source</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/essential-usb-c-gadgets-for-both-macos-and-windows-compatible-with-8k-displays-recommended-by-zdnet/"><u>Essential USB-C Gadgets for Both macOS & Windows: Compatible with 8K Displays, Recommended by ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-enjoy-shared-spotify-sessions-with-another-person/"><u>How to Enjoy Shared Spotify Sessions with Another Person?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-remove-passcode-from-apple-iphone-11-pro-max-complete-guide-by-drfone-ios/"><u>How To Remove Passcode From Apple iPhone 11 Pro Max? Complete Guide</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/how-to-select-and-download-the-right-audio-for-your-video-for-2024/"><u>How to Select and Download the Right Audio for Your Video for 2024</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/is-fitbit-charge-3-still-leading-the-pack-in-wearable-tech-a-detailed-review-for-todays-market/"><u>Is Fitbit Charge 3 Still Leading the Pack in Wearable Tech – A Detailed Review for Today's Market</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/score-a-discounted-new-ipad-9th-generation-at-only-250-following-apple-event-insights-from-zdnet/"><u>Score a Discounted New iPad (9Th Generation) at Only $250 Following Apple Event - Insights From ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/selecting-the-right-motherboard-top-7-essential-criteria/"><u>Selecting the Right Motherboard: Top 7 Essential Criteria</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-next-generation-of-display-tech-unpacking-what-the-ipad-pros-tandem-oled-reveals-for-tomorrows-gadgets/"><u>The Next Generation of Display Tech: Unpacking What the iPad Pro's Tandem OLED Reveals for Tomorrow's Gadgets</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ultimate-buyers-guide-to-the-most-reliable-waterproof-wearables-of-2024-industry-expert-ratings-devicemasters/"><u>Ultimate Buyer's Guide to the Most Reliable Waterproof Wearables of 2024 - Industry Expert Ratings | DeviceMasters</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unlocking-the-secrets-of-your-apple-watchs-lifespan-uncover-unexpected-battery-health-insights/"><u>Unlocking the Secrets of Your Apple Watch's Lifespan: Uncover Unexpected Battery Health Insights!</u></a></li>
+</ul></div>
 

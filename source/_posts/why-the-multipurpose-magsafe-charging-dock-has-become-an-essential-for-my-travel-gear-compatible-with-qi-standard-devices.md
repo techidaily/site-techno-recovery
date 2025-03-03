@@ -1,7 +1,7 @@
 ---
 title: "Why the Multipurpose MagSafe Charging Dock Has Become an Essential for My Travel Gear: Compatible with QI-Standard Devices"
-date: 2025-02-07T22:49:46.841Z
-updated: 2025-02-11T17:04:17.359Z
+date: 2025-02-28T18:18:15.210Z
+updated: 2025-03-02T23:55:41.253Z
 tags:
   - apple
 categories:
@@ -40,10 +40,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Generative AI for a context-aware Siri
 
 Unfortunately, Siri is arguably Apple's biggest shortcoming when stacking its AI services against competitors. While Siri has become a go-to feature on its own, it lags behind its virtual assistant competitors in intelligence and capability. Mounting consumer frustration over Siri's limitations and generative AI's popularity gives Apple a final push to give the voice assistant generative AI.
@@ -53,10 +49,6 @@ Unfortunately, Siri is arguably Apple's biggest shortcoming when stacking its AI
 If Apple can give Siri generative AI, iPhone users could ask the voice assistant for more than "Open this app" or "Search Google for this." Generative AI would let users ask Siri to draft messages and emails, explain a concept, and give personalized reminders tailored to their calendars, notes, or contacts. 
 
 The biggest challenge for Apple will be running large language models (LLMs) on-device, as one would expect it to do after its long-standing focus on consumer privacy. On-device processing means questions and responses won't have to be sent to remote cloud servers, minimizing data exposure.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Contextual search through image gallery
 
@@ -68,10 +60,6 @@ Apple already uses AI for facial recognition to create Memories and organize pho
 
 Other AI upgrades to photo galleries that could benefit smartphone users include finding and suggesting duplicate photos to free up storage, integrating AI voice assistants to search for photos with voice commands, recommending AI enhancements, and applying edits to photos. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. Personalized text generation
 
 ChatGPT became popular for its ability to generate text and have conversations that feel natural. Integrating text generation into the iPhone would make it easier for users to draft emails, generate stories, or edit resumes in Apple's native apps, like Notes and Messages. 
@@ -79,10 +67,6 @@ ChatGPT became popular for its ability to generate text and have conversations t
 **Also: [5 rumored iOS 18 features I'm most excited about - and AI is just the start](https://www.zdnet.com/article/5-rumored-ios-18-features-im-most-excited-about-and-ai-is-just-the-start/)**
 
 This is another instance where Apple trails behind competitors, as AI text generation is available in the [Google Pixel 8](https://www.kqzyfj.com/click-9041660-15823334-1717160402000?sid=zd-%5F%5FCOM%5FCLICK%5FID%5F%5F-dtp) and the Samsung [Galaxy S24 lineup](https://shop-links.co/link/?url=https%3A%2F%2Fwww.samsung.com%2Fus%2Fsmartphones%2Fgalaxy-s24%2Fbuy%2Fgalaxy-s24-256gb-unlocked-sm-s921ulbexaa%2F&publisher_slug=itechdaily19598&exclusive=1) of smartphones, as well as Microsoft 365, Gmail, Google Docs, Sheets, and more. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. AI-powered photo and video editing
 
@@ -126,22 +110,22 @@ It would be surprising to see Apple incorporate AI video features such as real-t
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-instagram-verified-posts-do-they-matter/"><u>[New] 2024 Approved Instagram Verified Posts - Do They Matter?</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-apple-melodies-enhancing-visual-storytelling/"><u>[New] Apple Melodies Enhancing Visual Storytelling</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-unlocking-viewer-analysis-on-your-instagram-snapshots/"><u>[Updated] Unlocking Viewer Analysis on Your Instagram Snapshots</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/best-free-entertainment-on-roku-top-8-channels-for-the-year-2aturday-april-13-2024/"><u>Best Free Entertainment on Roku: Top 8 Channels for the Year 2Aturday, April 13, 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/choosing-between-iphone-16-and-iphone-15-key-features-for-the-latest-generation/"><u>Choosing Between iPhone 16 and iPhone 15: Key Features for the Latest Generation</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/comprehensive-methods-for-dusting-and-wiping-down-your-hdtv-screens-safely/"><u>Comprehensive Methods for Dusting and Wiping Down Your HDTV Screens Safely</u></a></li>
-<li><a href="https://video-capture.techidaily.com/dvd-rompc/"><u>DVD-ROMのコピープロテクトを解除し、PCへ移動するスッキリとした手順</u></a></li>
-<li><a href="https://article-tips.techidaily.com/in-2024-dynamic-enhancements-for-your-tiktok-projects/"><u>In 2024, Dynamic Enhancements for Your TikTok Projects</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-jumpstart-to-partner-elevation-secure-10k-views-in-minutes/"><u>In 2024, Jumpstart to Partner Elevation Secure 10K Views in Minutes</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-ultimate-guide-on-iphone-14-icloud-activation-lock-bypass-by-drfone-ios/"><u>In 2024, Ultimate Guide on iPhone 14 iCloud Activation Lock Bypass</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/leveraging-github-copilot-for-efficient-collaboration-in-microsoft-teams/"><u>Leveraging GitHub Copilot for Efficient Collaboration in Microsoft Teams</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/swift-upload-of-sizeable-videos-from-iphone-to-mac-desktop-for-2024/"><u>Swift Upload of Sizeable Videos From iPhone to Mac Desktop for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/top-rated-iphone-12-and-12-pro-protectors-the-ultimate-case-guide-zdnet/"><u>Top-Rated iPhone 12 & 12 Pro Protectors: The Ultimate Case Guide - ZDNet</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/ultimate-comparison-samsung-galaxy-book-3-ultra-vs-apple-macbook-pro-the-definitive-guide-for-power-users/"><u>Ultimate Comparison: Samsung Galaxy Book 3 Ultra Vs. Apple MacBook Pro - The Definitive Guide for Power Users</u></a></li>
-<li><a href="https://win11.techidaily.com/unlocking-windows-with-recalled-logon-code/"><u>Unlocking Windows with Recalled Logon Code</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/upgrade-your-handling-skills-the-right-methods-to-wield-iphones-and-airpods-in-unison-smart-advice/"><u>Upgrade Your Handling Skills: The Right Methods to Wield iPhones and AirPods in Unison | Smart Advice</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/zdnets-in-depth-analysis-of-apple-airpods-pro-2021-upgrade-key-enhancements-unveiled/"><u>ZDNet's In-Depth Analysis of Apple AirPods Pro 2021 Upgrade: Key Enhancements Unveiled</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-discovering-the-advantages-of-multi-angle-recording-for-2024/"><u>[New] Discovering the Advantages of Multi-Angle Recording for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-tips-and-tricks-voice-overseas-that-elevate-your-film-projects/"><u>[New] In 2024, Tips & Tricks Voice Overseas That Elevate Your Film Projects</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-boost-your-visual-storytelling-key-strategies-for-solo-videos-for-2024/"><u>[Updated] Boost Your Visual Storytelling Key Strategies for Solo Videos for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-step-by-step-for-turning-insta-videos-into-mp3s/"><u>[Updated] Step-by-Step for Turning Insta Videos Into MP3s</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/best-practices-for-cleaning-and-disinfecting-electronic-remotes-at-home/"><u>Best Practices for Cleaning and Disinfecting Electronic Remotes at Home</u></a></li>
+<li><a href="https://win11.techidaily.com/breathing-life-into-your-windows-11-screen/"><u>Breathing Life Into Your Windows 11 Screen</u></a></li>
+<li><a href="https://change-location.techidaily.com/catchemall-celebrate-national-pokemon-day-with-virtual-location-on-samsung-galaxy-a05-drfone-by-drfone-virtual-android/"><u>CatchEmAll Celebrate National Pokémon Day with Virtual Location On Samsung Galaxy A05 | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/clear-your-photoshop-cache-solutions-for-scratch-disk-full-alerts/"><u>Clear Your Photoshop Cache: Solutions for 'Scratch Disk Full' Alerts</u></a></li>
+<li><a href="https://blog-min.techidaily.com/como-gravar-suas-videoconferencias-no-zoom-dicas-e-truques-para-recordar-meios-de-comunicacao-ajudando-com-a-guia-do-movavi/"><u>Como Gravar Suas Videoconferências No Zoom: Dicas E Truques Para Recordar Meios De Comunicação - Ajudando Com a Guia Do Movavi</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/comprehensive-fixes-to-address-missing-user32dll-errors-in-windows-systems/"><u>Comprehensive Fixes to Address Missing User32.dll Errors in Windows Systems</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/electric-cars-unveiled-hidden-perks-include-premium-parking-spots-and-hov-lane-privileges/"><u>Electric Cars Unveiled: Hidden Perks Include Premium Parking Spots & HOV Lane Privileges</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/reveal-your-influence-track-who-saves-and-cherishes-your-ig-posts/"><u>Reveal Your Influence: Track Who Saves and Cherishes Your IG Posts</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-10-essential-apps-every-teen-needs-in-high-school/"><u>Top 10 Essential Apps Every Teen Needs in High School</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/troubleshooting-steps-resolving-no-sound-issues-with-your-stereo-receiver/"><u>Troubleshooting Steps: Resolving No-Sound Issues with Your Stereo Receiver</u></a></li>
+<li><a href="https://win-answers.techidaily.com/warno-game-continuously-crashing-heres-how-to-stabilize-it-on-your-computer/"><u>Warno Game Continuously Crashing? Here’s How to Stabilize It on Your Computer!</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/windows-10-and-network-visibility-controls-turn-on-off-guide-for-beginners/"><u>Windows 10 and Network Visibility Controls: Turn On / Off Guide for Beginners</u></a></li>
+<li><a href="https://fox-access.techidaily.com/wowza-review-and-alternative/"><u>Wowza Review and Alternative</u></a></li>
 </ul></div>
 

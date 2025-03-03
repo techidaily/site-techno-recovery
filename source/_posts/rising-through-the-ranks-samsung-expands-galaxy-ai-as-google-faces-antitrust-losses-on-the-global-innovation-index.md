@@ -1,7 +1,7 @@
 ---
 title: "Rising Through the Ranks: Samsung Expands Galaxy AI as Google Faces Antitrust Losses on the Global Innovation Index"
-date: 2025-02-06T23:50:37.810Z
-updated: 2025-02-11T22:00:46.580Z
+date: 2025-03-01T21:04:15.344Z
+updated: 2025-03-03T00:17:52.997Z
 tags:
   - apple
 categories:
@@ -71,20 +71,18 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-first-step-to-aerial-adventure-best-beginner-drones/"><u>[New] First Step to Aerial Adventure Best Beginner Drones</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/new-gps-companions-top-10-drones-that-stay-close/"><u>[New] GPS Companions Top 10 Drones That Stay Close</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-captivate-audiences-with-effective-and-appealing-video-previews-for-2024/"><u>[Updated] Captivate Audiences with Effective and Appealing Video Previews for 2024</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-interactive-content-the-key-to-boosted-facebook-pages/"><u>[Updated] Interactive Content The Key to Boosted Facebook Pages</u></a></li>
-<li><a href="https://win-webmaster.techidaily.com/1-how-to-sync-a-network-file-on-onedrive-across-windows-versions/"><u>1. How to Sync a Network File on OneDrive Across Windows Versions</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/choosing-the-perfect-fit-a-comprehensive-guide-to-selecting-between-m1-and-m2-ipad-pro-models/"><u>Choosing the Perfect Fit: A Comprehensive Guide to Selecting Between M1 and M2 iPad Pro Models</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/download-the-new-mozilla-thunderbird-52-email-client-with-enhanced-security-updates/"><u>Download the New Mozilla Thunderbird 52: Email Client with Enhanced Security Updates</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/in-2024-best-affordable-flying-tech-today/"><u>In 2024, Best Affordable Flying Tech Today</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/ordered-list-every-movie-featuring-music-icon-taylor-swift/"><u>Ordered List: Every Movie Featuring Music Icon Taylor Swift</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/step-by-step-instructions-to-expand-your-xbox-ones-memory-with-an-external-drive/"><u>Step-by-Step Instructions to Expand Your Xbox One's Memory with an External Drive</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/unlock-savings-on-quality-nomad-essentials-phone-shields-charging-tools-and-apple-accessories-at-unbeatable-prices-makeuseof/"><u>Unlock Savings on Quality Nomad Essentials: Phone Shields, Charging Tools & Apple Accessories at Unbeatable Prices! | MakeUseOf</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-progopro-secrets-unveiled/"><u>[New] 2024 Approved ProGoPro Secrets Unveiled</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-reversal-blueprint-swiftly-backward-apple-vids-for-2024/"><u>[New] Reversal Blueprint Swiftly Backward Apple Vids for 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-nokia-g22-drfone-by-drfone-virtual-android/"><u>15 Best Strongest Pokémon To Use in Pokémon GO PvP Leagues For Nokia G22 | Dr.fone</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-reign-as-a-tycoon-champion-with-our-12-must-play-games/"><u>2024 Approved Reign as a Tycoon Champion with Our #12 Must-Play Games</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/can-you-submerge-an-iphone-15-pro-max-in-water-is-it-water-resistant/"><u>Can You Submerge an iPhone 15 Pro Max in Water - Is It Water-Resistant?</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-could-apples-latest-vrar-headset-revolutionize-our-online-journeys-expert-predictions-on-enhanced-internet-interactions/"><u>How Could Apple's Latest VR/AR Headset Revolutionize Our Online Journeys? | Expert Predictions on Enhanced Internet Interactions</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-3-ways-for-android-pokemon-go-spoofing-on-oppo-find-x6-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways for Android Pokemon Go Spoofing On Oppo Find X6 | Dr.fone</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-recording-review-and-examination/"><u>In 2024, Recording Review and Examination</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/investigating-possible-aol-mail-service-interruptions-tips-for-users/"><u>Investigating Possible AOL Mail Service Interruptions: Tips for Users</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/is-the-nintendo-switch-online-network-unavailable-right-now-or-are-there-local-wi-fi-issues/"><u>Is the Nintendo Switch Online Network Unavailable Right Now, Or Are There Local Wi-Fi Issues?</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-non-professionals-handbook-to-accessing-an-iphone-sim-tray-at-home/"><u>The Non-Professional's Handbook to Accessing an iPhone SIM Tray at Home</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/troubleshooting-steps-reactivating-your-roku-devices-closed-captions/"><u>Troubleshooting Steps: Reactivating Your Roku Device’s Closed Captions</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ultimate-guide-to-gaming-ready-mini-computers/"><u>Ultimate Guide to Gaming-Ready Mini Computers</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 

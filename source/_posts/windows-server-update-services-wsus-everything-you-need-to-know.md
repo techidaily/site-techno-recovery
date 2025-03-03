@@ -1,7 +1,7 @@
 ---
 title: Windows Server Update Services (WSUS) - Everything You Need to Know
-date: 2024-08-18T16:43:04.829Z
-updated: 2024-08-19T16:43:04.829Z
+date: 2025-02-23T17:44:08.710Z
+updated: 2025-03-03T00:45:49.769Z
 tags:
   - win11
   - win10
@@ -29,9 +29,6 @@ Part 1:[**What is USB selective suspend?**](https://tools.techidaily.com/drivere
 
 **The tl;dr version**: it prevents your computer from using too much unnecessary power by putting certain USB port(s) in a low-power state, i.e. the suspend state. USB selective suspend feature only works when you have USB devices connected to your computer, and that you have the most recent correct drivers for your USB ports. (Not sure if you have the most recent correct USB device drivers? Use[**Driver Easy Free**](https://tools.techidaily.com/drivereasy/download/)to find out! 😉 ) USB devices such as webcams, printers, and scanners are not in active use every minute of the day. To reduce the overall power consumption, especially if you’re a laptop or tablet user, Windows will automatically put a certain USB port that is not in use in a low-power state. This is one of the ways how Windows avoid data loss and driver corruption in devices such as external hard drives. That said, you’ll have more power available from idle external devices, and your actively in use USB devices won’t be affected. This is where the “selective” comes. It comes really handy for laptop and tablet users, especially when you don’t have a charger plugged in. Not to worry that your idle keyboard and mouse device will be suspended, because if you have enabled Wake from Keyboard/Mouse option in BIOS settings, which is usually the case with most of the computers, these two basic devices are filtered out. Such being the case, if Windows detects that none of your USB devices are in active use, it will first suspend accordant USB ports, and then go to the sleep or hibernate mode, to reduce your power consumption. In other words, if some of your USB ports are not suspended, your Windows is not likely to be able to go to the sleep or hibernate mode. Because some of your devices keep running somewhere.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
-<!-- affiliate ads end -->
 ## Part 2: Should I disable USB selective suspend or enable it?
 
 You should choose to leave it enable or disable it as per your own needs.
@@ -48,9 +45,6 @@ If you run into_**USB device not recognized**_problem, always have the charger p
 
 Frankly speaking, the USB selective suspend feature is not entirely helpful for desktop users, since desktops are always plugging into the power cord. But it won’t hurt either just to leave it at the enable state.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 3: If I want to disable it, how can I do that?
 
 **NOTE**: The screenshots here are shown in Windows 10, but all the operations apply to Windows 7 and Windows 8 as well. If you have to disable the USB selective suspend feature because it’s affecting how you use your USB devices, here is how you can do it: 1) On your keyboard, press the**Windows logo key**and**S**at the same time, type in the search box **power plan**  and click **Choose a power plan**.
@@ -61,17 +55,10 @@ Frankly speaking, the USB selective suspend feature is not entirely helpful for 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3777c0a811b.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3) Click **Change advanced power settings**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a377814e701a.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
-</a>
-<!-- affiliate ads end -->
 4) Click to expand **USB settings**  and **USB selective suspend setting**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3778a48905d.png)
@@ -80,14 +67,8 @@ Frankly speaking, the USB selective suspend feature is not entirely helpful for 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a377b3cef938.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **NOTE**: If you’re using a laptop, click **On battery**, then **Disabled**  from the drop-down menu. 6) If you want to re-enable the USB selective suspend setting, just repeat the above procedures all over again.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
-<!-- affiliate ads end -->
 ## Part 4: What to do if my USB device is still not recognized?
 
 **NOTE**: The screenshots here are shown in Windows 10, but all the operations apply to Windows 7 and Windows 8 as well. If disabling the USB selective suspend feature doesn’t help you solve your USB device not recognized problem, you may need to consider if you have the most recent correct USB ports drivers installed. You should verify that all your USB ports have the most recent correct drivers, and update those that don’t. **Manual USB ports drivers update**– You can update needed USB ports drivers via the Device Manager one by one, or go to your computer’s manufacturer support website and search for the device drivers by yourself. The process could take quite some time if you’re not particularly familiar with the driver update process. **Automatic drivers update**  – If you don’t have the time, patience or computer skills to update your drivers manually, you can do it automatically with[**Driver Easy**](https://tools.techidaily.com/drivereasy/download/). Driver Easy will automatically recognize your system and find the correct drivers for it: 1) **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy. 2) Run Driver Easy and click the **Scan Now**  button. Driver Easy will then scan your computer and detect any problem drivers.
@@ -106,8 +87,6 @@ Frankly speaking, the USB selective suspend feature is not entirely helpful for 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -115,4 +94,21 @@ Frankly speaking, the USB selective suspend feature is not entirely helpful for 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://android-pokemon-go.techidaily.com/budget-radar-alertness-choose-from-these-cost-effective-devices-like-passport-s55-as-per-our-latest-google-search-recommendations/"><u>'Budget Radar Alertness': Choose From These Cost Effective Devices Like Passport S55, As Per Our Latest Google Search Recommendations</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-to-add-timestamps-on-youtube-video-link-for-2024/"><u>[New] How to Add Timestamps on YouTube Video Link for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-spotting-no-replay-in-your-chat-history-for-2024/"><u>[New] Spotting No Replay in Your Chat History for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-reviving-the-past-top-5-desktop-friendly-gb-emulation-software-for-2024/"><u>[Updated] Reviving the Past Top 5 Desktop-Friendly GB Emulation Software for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/boosting-your-pcs-performance-solving-speed-issues-in-windows-11/"><u>Boosting Your PC's Performance: Solving Speed Issues in Windows 11</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-restore-your-missing-xinput-1x-dlls-and-get-back-to-gameplay/"><u>How To Restore Your Missing XInput 1.x DLLs and Get Back to Gameplay</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/is-cortanas-german-language-support-featured-on-windows-11-phones/"><u>Is Cortana's German Language Support Featured on Windows 11 Phones?</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/no-cost-audio-nirvana-with-oneplus-buds-unveiled/"><u>No-Cost Audio Nirvana with OnePlus Buds Unveiled</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/revealing-concealed-mac-finder-items-a-step-by-step-guide-using-terminal/"><u>Revealing Concealed Mac Finder Items: A Step-by-Step Guide Using Terminal</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-leading-small-form-factor-pcs-for-gamers/"><u>The Leading Small Form Factor PCs for Gamers</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-ultimate-tutorial-how-to-perform-a-website-ping-successfully/"><u>The Ultimate Tutorial: How to Perform a Website Ping Successfully</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/k-the-secrets-capturing-apple-devices-for-engaging-videos-for-2024/"><u>Unlock the Secrets Capturing Apple Devices for Engaging Videos for 2024</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/what-pokemon-evolve-with-a-dawn-stone-for-apple-iphone-xs-drfone-by-drfone-virtual-ios/"><u>What Pokémon Evolve with A Dawn Stone For Apple iPhone XS? | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/what-to-know-about-the-next-iphone-model-pricing-release-and-feature-teasers/"><u>What to Know About the Next iPhone Model - Pricing, Release, and Feature Teasers</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Exclusive Picks: The Ultimate List of Ongoing Presidents' Day Savings at Amazon, Walmart, and More"
-date: 2025-02-07T18:50:25.147Z
-updated: 2025-02-11T17:09:55.662Z
+date: 2025-02-23T23:37:54.550Z
+updated: 2025-03-02T22:37:08.149Z
 tags:
   - apple
 categories:
@@ -25,10 +25,6 @@ Tablets run the gamut in terms of everything they can do (and all the prices the
 ## What is the best note-taking tablet you can buy right now?
 
 ZDNET went hands-on with the following tablets, with our pick for the best note-taking tablet overall being the [iPad Air](https://shop-links.co/link/?url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fapple-10-9-inch-ipad-air-latest-model-5th-generation-with-wi-fi-64gb-purple%2F4909101.p&publisher_slug=itechdaily19598&exclusive=1), thanks to its lightweight build and compatibility with the second-generation Apple Pencil. But we also included tablets from Boox, Amazon, and more to take digital notes on this back-to-school season. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## The best note-taking tablets of 2024
 
@@ -75,10 +71,6 @@ Pros
 Cons 
 * Screen lags when browsing web or watching videos
 * Speaker could be better
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Boox Note Air 3 C
 
@@ -140,10 +132,6 @@ Pros
 
 Cons 
 * Missing apps
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Samsung Galaxy Tab S9
 
@@ -222,10 +210,6 @@ However, if you want a tablet you can use for school and for everyday things lik
 | Samsung Galaxy Tab S9                 | An Android tablet for note-taking. An S Pen is included in the box.                                                                  |
 | Amazon Fire Max 11                    | A budget-friendly tablet for under $350\. It is compatible with the Amazon Stylus pen, and you can also attach a keyboard to it.     |
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Factors to consider when choosing the best note-taking tablet
 
 Before you buy a note-taking tablet, you'll want to consider the following:
@@ -234,10 +218,6 @@ Before you buy a note-taking tablet, you'll want to consider the following:
 * **Stylus compatibility:** Most people use a stylus when taking notes on a tablet, so consider tablets that either come with a stylus right out of the box or have the option to buy one from the maker separately. It's important to note most universal styluses will also work with these tablets.
 * **Size:** Tablets that you will mainly use for note-taking purposes will have different requirements than tablets you need to replace a laptop with. Smaller size tablets are best for note-taking purposes and are lightweight and portable.
 * **Price:** Tablets will vary in price from $150 all the way up to $1,000 or more, depending on storage capacity, display quality, processors, and more.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How we test tablets
 
@@ -250,10 +230,6 @@ We also compare the display's performance with what the manufacturer promised, t
 * **Camera and audio:** For cameras, we evaluate features like resolution, aperture, low-light performance, autofocus accuracy, dynamic range, color accuracy, image quality, sharpness, and video quality. For audio, we look at the sound quality and overall listening experience, including audio clarity at different volumes, stereo separation of left and right audio channels, maximum volume level in various environments, and if there is perceived distortion.
 
 For a deeper look into our testing process, check out our comprehensive [tablet testing methodology](https://www.zdnet.com/article/how-we-test-tablets-at-zdnet-in-2024/). 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Do I need a stylus for a note-taking tablet?
 
@@ -270,10 +246,6 @@ Yes--the Apple Pencil can convert your handwritten notes into text for better le
 1. In the Notes or Freeform apps, tap to show the tool palette.
 2. In the tool palette, tap the Handwriting tool (to the left of the pen).
 3. Write with Apple Pencil, and Scribble automatically converts your handwriting into typed text.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Other note-taking tablets we've tested:
 
@@ -321,20 +293,18 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/updated-6-ways-to-increase-audience-retention-on-youtube-filmora-for-2024/"><u>[Updated] 6 Ways To Increase Audience Retention on YouTube - Filmora for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-hardware-basics-preparing-for-big-sur-os/"><u>[Updated] Hardware Basics Preparing for Big Sur OS</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-easy-window-recorder-w10-edition/"><u>2024 Approved Easy Window Recorder - W10 Edition</u></a></li>
-<li><a href="https://discover-brilliant.techidaily.com/aiffm4rmovavi/"><u>AIFF至M4R線上即時自由變換服務：如何使用Movavi轉換器簡便操作</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/apple-declares-your-gadget-vintage-a-guide-to-legacy-tech-and-future-updates/"><u>Apple Declares Your Gadget Vintage: A Guide to Legacy Tech & Future Updates</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/apple-hits-2-billion-european-regulatory-hit-for-distorting-competition-in-the-app-marketplace-tech-analysis/"><u>Apple Hits $2 Billion European Regulatory Hit for Distorting Competition in the App Marketplace | Tech Analysis</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/bypass-the-missing-or-corrupt-launchdll-errors-with-these-helpful-tips/"><u>Bypass the Missing or Corrupt Launch.dll Errors with These Helpful Tips</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/discover-superior-wallet-airtags-beyond-apple-and-tile-a-comprehensive-review/"><u>Discover Superior Wallet AirTags Beyond Apple and Tile - A Comprehensive Review</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/encounter-liquid-inside-iphone-charger-port-here-are-2-effective-solutions/"><u>Encounter Liquid Inside iPhone Charger Port? Here Are 2 Effective Solutions</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-vpna-to-fake-gps-location-on-honor-x50-gt-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use VPNa to Fake GPS Location On Honor X50 GT | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-apple-iphone-se-2022-to-ipad-drfone-by-drfone-ios/"><u>In 2024, How to Mirror Apple iPhone SE (2022) to iPad? | Dr.fone</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-online-and-offline-freebies-in-text-animation/"><u>In 2024, Online & Offline Freebies in Text Animation</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/in-2024-windows-11-premium-video-grabber-selections/"><u>In 2024, Windows 11 Premium Video Grabber Selections</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/key-fact-4-isotopologues-role-different-isotopic-forms-of-a-compound-can-be-detected-and-used-to-gain-further-structural-insights/"><u>Key Fact #4 - Isotopologues' Role - Different Isotopic Forms of a Compound Can Be Detected and Used to Gain Further Structural Insights.</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/unveiling-the-fixes-how-to-tackle-and-eliminate-stop-error-code-0x0000003d-bsod-in-windows-systems/"><u>Unveiling the Fixes: How to Tackle and Eliminate STOP Error Code 0X0000003D BSOD in Windows Systems</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-full-dissection-gopro-silver-hero4-model-insight-for-2024/"><u>[Updated] Full Dissection GoPro Silver Hero4 Model Insight for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-masterful-moments-made-simple-the-snapchat-lens-guide-for-2024/"><u>[Updated] Masterful Moments Made Simple The Snapchat Lens Guide for 2024</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-no-more-black-fringe-in-youtube-videos/"><u>2024 Approved No More Black Fringe in YouTube Videos</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-do-you-play-hevc-h-265-files-on-galaxy-f34-5g-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>How do you play HEVC/H.265 files on Galaxy F34 5G?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-a-xiaomi-redmi-a2-easily-by-drfone-android/"><u>How To Unlock a Xiaomi Redmi A2 Easily?</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-use-ispoofer-on-xiaomi-redmi-note-12-5g-drfone-by-drfone-virtual-android/"><u>How to use iSpoofer on Xiaomi Redmi Note 12 5G? | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/illuminate-again-proven-techniques-to-fix-your-androids-blackened-screen/"><u>Illuminate Again: Proven Techniques to Fix Your Android's Blackened Screen</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-2024-a-treasure-trove-of-premium-rate-free-luts-revealed/"><u>In 2024, A Treasure Trove of Premium-Rate Free LUTs Revealed</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-can-i-get-more-stardust-in-pokemon-go-on-poco-x5-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How can I get more stardust in pokemon go On Poco X5 Pro? | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/inside-scoop-uncover-all-that-you-need-to-know-about-netflix-services/"><u>Inside Scoop: Uncover All That You Need To Know About Netflix Services</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/iphone-13-icloud-activation-lock-bypass-by-drfone-ios/"><u>iPhone 13 iCloud Activation Lock Bypass</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-instructions-connect-and-watch-apple-tv-plus-via-chromecast/"><u>Step-by-Step Instructions: Connect and Watch Apple TV Plus via Chromecast</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/troubleshooting-and-repairing-missing-shelldll-issues-on-your-pc/"><u>Troubleshooting and Repairing Missing Shell.dll Issues on Your PC</u></a></li>
 </ul></div>
 

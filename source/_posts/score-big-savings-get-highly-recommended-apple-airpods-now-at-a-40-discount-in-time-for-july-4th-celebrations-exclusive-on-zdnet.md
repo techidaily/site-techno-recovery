@@ -1,7 +1,7 @@
 ---
 title: "Score Big Savings: Get Highly Recommended Apple AirPods Now at a $40 Discount in Time for July 4Th Celebrations | Exclusive on ZDNet"
-date: 2025-02-08T00:21:36.645Z
-updated: 2025-02-11T18:59:09.135Z
+date: 2025-02-26T17:47:42.602Z
+updated: 2025-03-02T22:07:41.340Z
 tags:
   - apple
 categories:
@@ -28,10 +28,6 @@ Lucky for us, that already-affordable price dropped once more, and the deal is s
 The second-generation AirPods come with a Lightning charger case. They offer solid sound, five hours of battery of life (and a fully-charged case can recharge them five times, giving you up to 24 hours), and voice-activated Siri access. They're also super easy to set up and to switch between your Apple devices. 
 
 Buy the AirPods on sale at [Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2FApple-AirPods-Charging-Latest-Model%2Fdp%2FB07PXGQC1Q%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C263960fc-40a4-4146-bad9-7a5792e11265%7Cdtp&dtb=1) now. You can also check out more [headphone deals](https://www.zdnet.com/article/best-headphone-deals/) and the [top products ZDNET readers bought last month](https://www.zdnet.com/home-and-office/the-25-most-popular-products-zdnet-readers-bought-last-month/).
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## When will this deal expire?
 
@@ -62,24 +58,24 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-cinematic-quality-the-leading-10-smartphones-with-outstanding-4k-cameras/"><u>[New] Cinematic Quality The Leading 10 Smartphones with Outstanding 4K Cameras</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-elite-collection-the-best-11-streamers/"><u>[Updated] 2024 Approved Elite Collection The Best 11 Streamers</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/apples-new-era-of-power-comparing-the-m3-and-m1-macbook-pro-models-is-it-time-for-an-upgrade/"><u>Apple's New Era of Power: Comparing the M3 and M1 MacBook Pro Models – Is It Time for an Upgrade?</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/artificial-intelligence-in-the-written-word-7-insights/"><u>Artificial Intelligence in the Written Word: 7 Insights</u></a></li>
-<li><a href="https://windows11.techidaily.com/bypassing-security-sync-windows-11-remotely-easily/"><u>Bypassing Security, Sync Windows 11 Remotely Easily</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/chatgpt-plus-pros-and-cons-5-key-points-to-consider-before-signing-up/"><u>ChatGPT Plus Pros & Cons – 5 Key Points to Consider Before Signing Up</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/decoding-patch-tuesday-what-it-means-for-your-security-practices/"><u>Decoding Patch Tuesday: What It Means for Your Security Practices</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/discover-the-magic-of-easy-and-accurate-room-coloring-with-4-cutting-edge-painting-apps/"><u>Discover the Magic of Easy and Accurate Room Coloring With 4 Cutting-Edge Painting Apps</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/explore-these-8-exceptional-free-roku-streaming-portals/"><u>Explore These 8 Exceptional Free Roku Streaming Portals</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/exploring-apples-cutting-edge-innovations-the-newest-ipad-released/"><u>Exploring Apple's Cutting-Edge Innovations: The Newest iPad Released</u></a></li>
-<li><a href="https://fox-that.techidaily.com/exploring-glitches-why-visual-look-up-isnt-working-on-ios-devices/"><u>Exploring Glitches: Why Visual Look Up Isn't Working on iOS Devices</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-realme-narzo-60x-5g-phone-frp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your Realme Narzo 60x 5G Phone FRP Lock</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/in-2024-standout-20-anime-melodies-at-the-start/"><u>In 2024, Standout 20 Anime Melodies at the Start</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/key-insights-into-utilizing-smart-features-with-samsung-tv-applications/"><u>Key Insights Into Utilizing Smart Features with Samsung TV Applications</u></a></li>
-<li><a href="https://win11.techidaily.com/master-the-textbooks-top-8-effective-learning-techniques-for-windows/"><u>Master the Textbooks: Top 8 Effective Learning Techniques for Windows</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/sonic-vibes-3d-earpiece-assessment/"><u>Sonic Vibes 3D Earpiece Assessment</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/top-rated-iphones-comprehensive-reviews-and-comparisons-by-tech-experts/"><u>Top Rated iPhones : Comprehensive Reviews & Comparisons by Tech Experts</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/1722886970609-uber-vs-taxi-which-is-the-more-economical-option/"><u>Uber vs Taxi: Which Is the More Economical Option?</u></a></li>
-<li><a href="https://driver-download.techidaily.com/upgrade-your-graphics-nvidia-rtx-3070-driver-update-and-install-for-windows/"><u>Upgrade Your Graphics: NVIDIA RTX 3070 Driver Update & Install for Windows</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-2024-approved-streamlining-your-subtitles-top-10-web-based-editors-reviewed/"><u>[New] 2024 Approved Streamlining Your Subtitles Top 10 Web-Based Editors Reviewed</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-rapid-capture-sounds-alongside-images/"><u>[Updated] In 2024, Rapid Capture Sounds Alongside Images</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-maximize-viewership-with-innovative-youtube-thumbnail-ideas/"><u>[Updated] Maximize Viewership with Innovative YouTube Thumbnail Ideas</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-premium-picks-cutting-edge-content-from-googloud/"><u>[Updated] Premium Picks Cutting-Edge Content From GooGloud</u></a></li>
+<li><a href="https://games-able.techidaily.com/command-line-console-for-revitalizing-nintendo-classics/"><u>Command-Line Console for Revitalizing Nintendo Classics</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/effective-strategies-for-resolving-opening-errors-in-macos-programs/"><u>Effective Strategies for Resolving Opening Errors in macOS Programs</u></a></li>
+<li><a href="https://some-tips.techidaily.com/establishing-secure-network-tunnels-on-windows-10-with-vpns-how-to-for-privacy-enthusiasts/"><u>Establishing Secure Network Tunnels on Windows 10 with VPNs | How-To for Privacy Enthusiasts</u></a></li>
+<li><a href="https://facebook.techidaily.com/harnessing-potential-with-facebook-and-rust-writes-new-programming-languages-legacy/"><u>Harnessing Potential with Facebook and Rust' Writes New Programming Languages Legacy</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/high-impact-hairstyle-ideas-for-2024/"><u>High-Impact Hairstyle Ideas for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-can-i-retrieve-my-lost-email-address/"><u>How Can I Retrieve My Lost Email Address?</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-does-dts-play-fi-enhance-your-listening/"><u>How Does DTS Play-Fi Enhance Your Listening?</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-resolve-the-issue-when-mfc4dll-is-absent-or-cannot-be-located/"><u>How to Resolve the Issue When Mfc4^_dll Is Absent or Cannot Be Located</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/24-optimal-video-posting-frequency-for-increased-youtube-popularity/"><u>In 2024, Optimal Video Posting Frequency for Increased YouTube Popularity</u></a></li>
+<li><a href="https://app-tips.techidaily.com/rising-popularity-of-ops-transforming-it-landscapes-and-introducing-fresh-challenges-insights-from-tech-giants/"><u>Rising Popularity of 'Ops': Transforming IT Landscapes and Introducing Fresh Challenges - Insights From Tech Giants</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/splish-splash-with-tech-understanding-the-wet-test-results-for-your-iphone-15/"><u>Splish Splash with Tech: Understanding the Wet Test Results for Your iPhone 15</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/1722879678133-the-ultimate-ranking-of-smart-spectacles-find-your-perfect-pair/"><u>The Ultimate Ranking of Smart Spectacles – Find Your Perfect Pair!</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/troubleshooting-tips-restoring-functionality-to-outlooks-missing-spellcheck-feature/"><u>Troubleshooting Tips: Restoring Functionality to Outlook's Missing Spellcheck Feature</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ultimate-guide-connecting-your-samsung-universal-remote-with-any-television/"><u>Ultimate Guide: Connecting Your Samsung Universal Remote with Any Television</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/1722889881829-whats-new-dive-into-the-features-of-applee-latest-ipad-genius/"><u>What's New ? Dive Into the Features of Apple'e Latest iPad Genius</u></a></li>
 </ul></div>
 

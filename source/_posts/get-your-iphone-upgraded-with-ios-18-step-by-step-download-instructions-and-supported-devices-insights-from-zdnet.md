@@ -1,7 +1,7 @@
 ---
 title: Get Your iPhone Upgraded with iOS 18! Step-by-Step Download Instructions and Supported Devices | Insights From ZDNET
-date: 2025-02-08T16:18:25.021Z
-updated: 2025-02-12T00:27:55.719Z
+date: 2025-02-24T23:18:44.040Z
+updated: 2025-03-02T19:52:18.077Z
 tags:
   - apple
 categories:
@@ -26,10 +26,6 @@ While the official iOS 18 general release is today, users have already been able
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to install iOS 18
 
 Jason Hiner/ZDNET
@@ -44,10 +40,6 @@ Go to your iPhone's Settings and select General.
 
 Within General, tap on Software Update. This will show you if the iOS 18 update is available for you to download.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. Download and install
 
 When you tap on Software Update, your iPhone will check for the latest version of iOS available. Then, you'll be able to Download and Install the new update. Your iPhone will begin the download immediately.
@@ -57,10 +49,6 @@ When you tap on Software Update, your iPhone will check for the latest version o
 Enter your passcode, if necessary, to authorize the installation of the new iOS on your iPhone, and follow the prompts to complete the installation.
 
 After installing the latest iOS update, your iPhone will restart.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## FAQs
 
@@ -73,10 +61,6 @@ Apple Intelligence, featuring the company's AI tools, will begin to roll out for
 Apple released the iOS 18 developer beta during WWDC 2024 in June, and the public beta version was released on July 15\. The general release of iOS 18 is September 16.
 
 **Also: [The best iOS 18 features that will make updating your iPhone worthwhile](https://www.zdnet.com/article/the-best-ios-18-features-that-will-make-updating-your-iphone-worthwhile/)**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Can you still download the iOS 18 public beta?
 
@@ -96,10 +80,6 @@ You'll need an iPhone running iOS 16.5 or later. Since not all iPhones are compa
 4. Select iOS 18 Public Beta. Then you'll begin receiving automatic software updates to the latest beta version of iOS 18\. Apple currently has four beta versions of iOS: iOS 18 public beta, iOS 18 developer beta, iOS 17 public beta, and iOS 17 developer beta. These four options will soon be reduced to just the two iOS 18 variants. Once you do this, return to the previous page. If an update is available now, your iPhone will prompt you to download and install it.
 
 Screenshot: Maria Diaz/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### How to download the iOS 18 developer beta?
 
@@ -161,22 +141,18 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-apex-creators-video-giants-in-the-making/"><u>[New] 2024 Approved Apex Creators Video Giants in the Making</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-clearing-the-path-for-smooth-fb-stories-posting-and-playback/"><u>[Updated] Clearing the Path for Smooth FB Stories Posting and Playback</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-from-amateurs-to-a-listers-top-10-film-cameras-reviewed/"><u>2024 Approved From Amateurs to A-Listers Top 10 Film Cameras Reviewed</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/can-you-connect-airpods-to-a-nintendo-switch/"><u>Can You Connect AirPods to a Nintendo Switch?</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/capturing-the-world-in-hd-with-yis-4k-camera-for-2024/"><u>Capturing the World in HD with YI's 4K Camera for 2024</u></a></li>
-<li><a href="https://location-social.techidaily.com/does-apple-iphone-11-pro-max-have-find-my-friends-drfone-by-drfone-virtual-ios/"><u>Does Apple iPhone 11 Pro Max Have Find My Friends? | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/effortless-fix-for-system-error-0x887a0006-detailed-walkthrough/"><u>Effortless Fix for System Error 0X887A0006 Detailed Walkthrough</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/exploring-the-water-resistance-of-the-latest-iphone-model/"><u>Exploring the Water Resistance of the Latest iPhone Model</u></a></li>
-<li><a href="https://facebook.techidaily.com/facebook-blacklist-why-it-occurs/"><u>Facebook Blacklist: Why It Occurs</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/find-the-absolute-deviations-from-the-mean-5-135-16-135-12-135-10-135-18-135-20-135/"><u>Find the Absolute Deviations From the Mean: $|5 - 13.5|, |16 - 13.5|, |12 - 13.5|, |10 - 13.5|, |18 - 13.5|, |20 - 13.5|$</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/from-skeptic-to-enthusiast-discover-the-3-compelling-apple-watch-series-groove-that-converted-me/"><u>From Skeptic to Enthusiast: Discover the 3 Compelling Apple Watch Series Groove that Converted Me</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-achieve-creative-vibrancy-with-picshots-assistance/"><u>In 2024, Achieve Creative Vibrancy with Picshot's Assistance</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/step-by-step-guide-clearing-your-macoss-dns-history/"><u>Step-by-Step Guide: Clearing Your macOS's DNS History</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/the-ultimate-fixes-to-tackle-your-photoshop-scratch-disk-full-challenge/"><u>The Ultimate Fixes to Tackle Your Photoshop 'Scratch Disk Full' Challenge</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/top-9-solutions-for-troubleshooting-airpods-charge-issues/"><u>Top 9 Solutions for Troubleshooting AirPods Charge Issues</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/uncovering-average-earnings-in-podcasting-for-2024/"><u>Uncovering Average Earnings in Podcasting for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/unleashing-the-transformative-abilities-of-ai-in-modern-society/"><u>Unleashing the Transformative Abilities of AI in Modern Society</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-auditory-anchors-keeping-streamed-music-intact/"><u>[New] In 2024, Auditory Anchors Keeping Streamed Music Intact</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-navigating-through-gopro-models-and-specifications/"><u>[New] Navigating Through GoPro Models & Specifications</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-ultimate-lg-27-4k-uhd-display-a-detailed-overview/"><u>[Updated] Ultimate LG 27 4K UHD Display - A Detailed Overview</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-ultimate-guide-to-youtubes-most-captivating-storytellers-in-23/"><u>2024 Approved The Ultimate Guide to YouTube's Most Captivating Storytellers in '23</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/empower-students-with-these-6-unique-homework-supporting-applications/"><u>Empower Students with These 6 Unique Homework Supporting Applications</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/expert-advice-for-xbox-one-zooming-pros-for-2024/"><u>Expert Advice for Xbox One Zooming Pros for 2024</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-xiaomi-redmi-12-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Xiaomi Redmi 12</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-remove-find-my-iphone-without-apple-id-from-your-iphone-xr-by-drfone-ios/"><u>In 2024, How to Remove Find My iPhone without Apple ID From your iPhone XR?</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/inside-scoop-on-the-upcoming-google-pixel-watch-anticipated-costs-launch-timeline-and-features/"><u>Inside Scoop on the Upcoming Google Pixel Watch - Anticipated Costs, Launch Timeline & Features</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/-vocal-changer-tools-for-digital-personalities/"><u>Prime Vocal Changer Tools for Digital Personalities</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-ultimate-fix-for-msvcr80dll-not-detected-tips-and-tricks-unveiled/"><u>The Ultimate Fix for 'msvcr80.dll Not Detected': Tips and Tricks Unveiled</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ultimate-guide-resolving-whea-uncorrectable-failures/"><u>Ultimate Guide: Resolving WHEA Uncorrectable Failures</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ultimate-tutorial-for-casting-disneyplus-from-chromecast-devices/"><u>Ultimate Tutorial for Casting Disney+ From Chromecast Devices</u></a></li>
 </ul></div>
 

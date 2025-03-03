@@ -1,7 +1,7 @@
 ---
 title: Easy Steps to Set Up Multiple Network Interfaces on Your Mac - Get Ultimate Connectivity
-date: 2025-02-10T20:11:48.697Z
-updated: 2025-02-11T19:37:41.865Z
+date: 2025-02-25T18:18:24.106Z
+updated: 2025-03-03T01:19:45.674Z
 tags:
   - apple
 categories:
@@ -26,10 +26,6 @@ So, how do you create this custom Flow? Let me show you. All you'll need to make
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Create a custom Focus
 
 ### 1\. Open System Preferences
@@ -44,10 +40,6 @@ In the System Preferences window (**Figure 1**), click Notifications & Focus.
 
 Image: Jack Wallen
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 3\. Open the Focus tab
 
 Once Notifications & Focus is opened, click the Focus tab (**Figure 2**).
@@ -55,10 +47,6 @@ Once Notifications & Focus is opened, click the Focus tab (**Figure 2**).
 **Figure 2:** You'll find a single pre-configured Focus for Do Not Disturb already available.
 
 Image: Jack Wallen
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 4\. Create the new Focus
 
@@ -76,10 +64,6 @@ Image: Jack Wallen
 
 After naming and selecting a color/icon, click Add to save the new Focus.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 5\. Allowing specific notifications
 
 The next thing to do is to specific contacts or apps that will be allowed when this Focus is enabled. To do that, click + under Allowed Notifications From (**Figure 5**).
@@ -93,10 +77,6 @@ From the pop-up list, select the contact(s) you want to be allowed to interrupt 
 **Figure 6:** Adding contacts to a Focus in macOS Monterey.
 
 Image: Jack Wallen
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 6\. Set the Focus to be enabled
 
@@ -140,22 +120,21 @@ Use this new Focus feature wisely, and it will help you be more productive while
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-unlocking-the-potential-of-drone-footage-through-editing/"><u>[New] 2024 Approved Unlocking the Potential of Drone Footage Through Editing</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/n-2024-simplify-your-creative-process-with-these-9-user-friendly-editors/"><u>[New] In 2024, Simplify Your Creative Process with These 9 User-Friendly Editors</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/2024-approved-adventure-videography-supplies-for-travelers/"><u>2024 Approved Adventure Videography Supplies for Travelers</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/best-way-to-experience-x-men-series-from-beginning-to-end/"><u>Best Way to Experience X-Men Series From Beginning to End</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/essential-steps-to-correct-your-wireless-networks-access-point-errors/"><u>Essential Steps to Correct Your Wireless Network's Access Point Errors</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/future-proof-your-timepiece-know-which-apple-watch-models-support-watchos-nv-and-which-dont-gadget-digest/"><u>Future-Proof Your Timepiece: Know Which Apple Watch Models Support WatchOS Nv and Which Don't - Gadget Digest</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/1722881765754-get-the-perfect-finish-discover-4-innovative-apps-for-house-painters-on-the-go/"><u>Get the Perfect Finish: Discover 4 Innovative Apps for House Painters On-the-Go</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/hitachi-presents-crystal-clear-picture-4k-uhd-tvs-combined-with-convenient-roku-technology/"><u>Hitachi Presents Crystal Clear Picture: 4K UHD TVs Combined With Convenient Roku Technology</u></a></li>
-<li><a href="https://article-posts.techidaily.com/in-2024-navigating-the-digital-space-with-impactful-fb-giveaway-posts/"><u>In 2024, Navigating the Digital Space with Impactful FB Giveaway Posts</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-pattern-locks-are-unsafe-secure-your-oppo-a1-5g-phone-now-with-these-tips-by-drfone-android/"><u>In 2024, Pattern Locks Are Unsafe Secure Your Oppo A1 5G Phone Now with These Tips</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/revolutionizing-digital-audio-workstations-apples-logic-pro-now-includes-intelligent-ai-band-members-for-composers-on-ipads-and-macs-exclusive-insights/"><u>Revolutionizing Digital Audio Workstations: Apple's Logic Pro Now Includes Intelligent 'AI Band Members' For Composers on iPads and Macs Exclusive Insights</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/troubleshooting-guide-how-to-fix-issues-when-gmail-wont-synchronize/"><u>Troubleshooting Guide: How to Fix Issues When Gmail Won't Synchronize</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/ultimate-guide-combining-your-favorite-tracks-in-spotify-playlists/"><u>Ultimate Guide: Combining Your Favorite Tracks in Spotify Playlists</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unlocking-innovation-potential-effective-brainstnailing-ideas-through-mindmaps-and-chatgpt-integration/"><u>Unlocking Innovation Potential: Effective Brainstnailing Ideas Through Mindmaps & ChatGPT Integration</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/unlocking-secrets-of-the-2024-amazons-prime-event-essential-facts-revealed/"><u>Unlocking Secrets of the 2024 Amazons Prime Event – Essential Facts Revealed!</u></a></li>
-<li><a href="https://howto.techidaily.com/want-to-uninstall-google-play-service-from-oppo-a38-here-is-how-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Want to Uninstall Google Play Service from Oppo A38? Here is How | Dr.fone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/windows-10-speaker-problems-heres-how-you-can-fix-them-easily/"><u>Windows 10 Speaker Problems? Here's How You Can Fix Them Easily!</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-budget-game-design-tools-and-software-for-aspiring-developers-for-2024/"><u>[New] Budget Game Design Tools and Software for Aspiring Developers for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-efficient-tricks-to-scramble-youtube-playlists-pcphonetv/"><u>[Updated] In 2024, Efficient Tricks to Scramble YouTube Playlists (PC/Phone/TV)</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/a-beginners-guide-to-navigating-and-utilizing-the-powerful-functions-of-telegram/"><u>A Beginner's Guide to Navigating and Utilizing the Powerful Functions of Telegram</u></a></li>
+<li><a href="https://discover-guides.techidaily.com/free-ways-to-transform-mxf-files-into-mp4-format-a-step-by-step-guide/"><u>Free Ways to Transform MXF Files Into MP4 Format: A Step-by-Step Guide</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-reset-gmail-password-on-itel-s23-devices-by-drfone-android/"><u>How to Reset Gmail Password on Itel S23 Devices</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-best-ways-to-bypass-icloud-activation-lock-on-iphone-11ipadipod-by-drfone-ios/"><u>In 2024, Best Ways to Bypass iCloud Activation Lock on iPhone 11/iPad/iPod</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-leave-a-life360-group-on-google-pixel-8-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How To Leave a Life360 Group On Google Pixel 8 Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/inside-scoop-on-the-upcoming-google-pixel-fold-2-anticipated-costs-launch-timeline-and-latest-speculations/"><u>Inside Scoop on the Upcoming Google Pixel Fold 2 - Anticipated Costs, Launch Timeline & Latest Speculations!</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/learn-the-quick-fix-for-silencing-speaking-menus-on-your-smart-samsung-tv/"><u>Learn the Quick Fix for Silencing Speaking Menus on Your Smart Samsung TV</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/mastering-apple-watch-transactions-a-guide-to-using-apple-pay-seamlessly/"><u>Mastering Apple Watch Transactions: A Guide to Using Apple Pay Seamlessly</u></a></li>
+<li><a href="https://network-issues.techidaily.com/nvidia-issue-ceased-windows-operation-resolution-achieved/"><u>NVIDIA Issue: Ceased Window's Operation, Resolution Achieved</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/-saving-youtube-videos-as-screen-captures-today-completely-free-for-2024/"><u>Start Saving YouTube Videos as Screen Captures Today - Completely Free for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-progress-of-fifth-generation-wireless-technology-an-examination-featuring-verizon/"><u>The Progress of Fifth Generation Wireless Technology – An Examination Featuring Verizon</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-ultimate-guide-6-favorite-free-editing-tools-that-challenge-photoshop/"><u>The Ultimate Guide: 6 Favorite Free Editing Tools That Challenge Photoshop</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211433718-9781429953962-ufo-hunters-hoax-or-history/"><u>UFO Hunters: Hoax or History? | Free Book</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/understanding-the-mechanics-of-electric-motorcycle-operation/"><u>Understanding the Mechanics of Electric Motorcycle Operation</u></a></li>
 </ul></div>
 

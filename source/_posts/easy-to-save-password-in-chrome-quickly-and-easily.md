@@ -1,7 +1,7 @@
 ---
 title: Easy to Save Password in Chrome - Quickly & Easily
-date: 2024-08-18T16:41:03.389Z
-updated: 2024-08-19T16:41:03.389Z
+date: 2025-02-26T23:00:33.927Z
+updated: 2025-03-02T21:01:32.971Z
 tags:
   - win11
   - win10
@@ -51,9 +51,6 @@ Which browser are you currently using?
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-556.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
-<!-- affiliate ads end -->
  2) On the left panel, click**Privacy & Security** . Then locate the**Permissions** section on the right and**check the box** next to**Block pop-up windows** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-557.png)
@@ -64,16 +61,10 @@ Which browser are you currently using?
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-558.png)
 
-<!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  2) Click**Privacy & security** on the left panel, then locate the**Security** section. Make sure you turn**on** the toggle under**Block pop-ups** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-559.png)
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Step 2: Scan for malware
 
  Sometimes the pop-ups reappear even after you’ve enabled the pop-up blocking feature in your browser. In this case, you need to scan for malware in your computer, because there are also some pop-ups come from the annoying malware on your computer.
@@ -92,23 +83,14 @@ To scan for malware with Norton Power Eraser:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-577.png)
 
-<!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
  4) Double-click the**NPE.exe** file to run the latest version of Norton Power Eraser. Then click**Unwanted Application Scan** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-578.png)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
-<!-- affiliate ads end -->
  5) If Norton Power Eraser detected any malware, uninstall it. If it didn’t detect any threat, you’ll see the following window. Click**Back** to exit the program.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-579.png)
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
-<!-- affiliate ads end -->
  Hopefully you find this post helpful! If you have any questions or suggestions, you’re more than welcome to leave us a comment below.
 
 * [browser](https://tools.techidaily.com/drivereasy/download/)
@@ -119,8 +101,6 @@ To scan for malware with Norton Power Eraser:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -128,4 +108,26 @@ To scan for malware with Norton Power Eraser:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-how-to-use-microsoft-azure-speech-to-text-service/"><u>[New] 2024 Approved How to Use Microsoft Azure Speech to Text Service</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-navigating-the-nuances-of-inshot-video-segments/"><u>[Updated] Navigating the Nuances of Inshot Video Segments</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-top-8-subtitle-converters-speed-up-your-video-production-from-sub-to-quickly-released-srtr-format/"><u>[Updated] Top 8 Subtitle Converters Speed Up Your Video Production - From SUB to Quickly-Released SRTR Format</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/complete-watchlist-the-ultimate-dragon-ball-binge-watching-plan/"><u>Complete Watchlist: The Ultimate Dragon Ball Binge-Watching Plan</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/digital-heavyweights-decoded-a-tour-through-the-worlds-top-10-internet-hubs/"><u>Digital Heavyweights Decoded: A Tour Through the World's Top 10 Internet Hubs</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discover-new-connections-with-these-5-socializing-apps/"><u>Discover New Connections with These 5 Socializing Apps</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/expert-tips-for-diagnosing-and-remedying-a-500-error-on-your-site/"><u>Expert Tips for Diagnosing and Remedying a 500 Error on Your Site</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-activate-or-deactivate-local-area-connection-visibility-in-win10/"><u>How to Activate or Deactivate Local Area Connection Visibility in Win10</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-frp-hijacker-by-hagard-download-and-bypass-your-honor-80-pro-straight-screen-edition-frp-locks-by-drfone-android/"><u>In 2024, FRP Hijacker by Hagard Download and Bypass your Honor 80 Pro Straight Screen Edition FRP Locks</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-stardew-insider-exploring-ginger-island-thoroughly/"><u>In 2024, Stardew Insider Exploring Ginger Island Thoroughly</u></a></li>
+<li><a href="https://win-answers.techidaily.com/master-level-troubleshooting-how-to-stop-street-fighter-vi-from-crashing-on-windows/"><u>Master Level Troubleshooting: How to Stop Street Fighter VI From Crashing on Windows</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolved-how-to-fix-the-dreaded-black-or-blank-screen-on-your-laptop/"><u>Resolved: How to Fix the Dreaded Black or Blank Screen on Your Laptop</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/simple-solutions-how-to-perform-a-fresh-start-on-your-samsung-flat-screen/"><u>Simple Solutions: How to Perform a Fresh Start on Your Samsung Flat Screen</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/step-by-step-fixes-for-when-your-gta-5-keeps-crashing/"><u>Step-by-Step Fixes for When Your GTA 5 Keeps Crashing</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-fixes-to-resolve-flickering-and-wobbly-screen-problems-for-surface-tablets/"><u>Step-by-Step Fixes to Resolve Flickering and Wobbly Screen Problems for Surface Tablets</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/steps-to-discover-an-individuals-email-a-guide/"><u>Steps to Discover an Individual's Email: A Guide</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-secret-behind-beautiful-selfies-discover-the-power-of-quality-ring-lights/"><u>The Secret Behind Beautiful Selfies? Discover the Power of Quality Ring Lights!</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ultimate-guide-setting-up-your-macs-network-drive-mapping/"><u>Ultimate Guide: Setting Up Your Mac's Network Drive Mapping</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/unraveling-the-mystery-of-online-broadcast-archiving/"><u>Unraveling the Mystery of Online Broadcast Archiving</u></a></li>
+</ul></div>
 

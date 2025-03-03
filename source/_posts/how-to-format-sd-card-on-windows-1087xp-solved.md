@@ -1,7 +1,7 @@
 ---
 title: How to Format SD Card on Windows 10/8/7/XP [Solved]
-date: 2024-08-18T16:42:38.148Z
-updated: 2024-08-19T16:42:38.148Z
+date: 2025-02-28T00:21:32.112Z
+updated: 2025-03-02T23:39:17.098Z
 tags:
   - win11
   - win10
@@ -67,24 +67,14 @@ But if you can’t open the file (it is corrupted or you don’t save it anywher
 
 **4)** Open the folder and you can see the document in this folder has been restored to a previous version. Open it and see how many contents this has recovered.
 
-<!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Method 3: Perform data recovery
 
 If you don’t have any backup copy of your Word document, the most effective way to recover your document is to perform data recovery. You need to do this with the help of third-party software or an expert. There are a lot of data recovery software on the Internet, paid or free. You can do some research and test with several programs to find out the one that really works for you. But please note that you should be able to run the tool directly without installation (this helps you protect your deleted documents from being overwritten). Or you can find a data recovery specialist to recover your Word documents. Search on the Internet for the data recovery service providers near you. Be extra careful about the reputation and reliability of service provider. The data recovery service better at these is more likely to save your documents.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ## Final tip: Back up your files regularly
 
 It is still possible that your Word documents are missing or corrupt some day. You should back up your Word documents in advance to prevent yourself from getting into big trouble like this. To back up your files, you can routinely copy and paste them to your USB flash drive or external hard drive. But, instead of doing this manually, you can ask your Windows system can back up your files automatically. There are some differences between backing up your files on Windows 10 and on Windows 7\. The following steps will show you the different processes on these systems. If you are using**Windows 7**:**1)**Click the**Start**button at the lower left corner of your screen. Then click**Control Panel**.![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59edb64de0911.jpg) **2)** Under**View by**, click**Large icons**.![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59edb6e26b70a.jpg) **3)**Click**Backup and Restore**.![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59edb7192b08b.jpg) **4)** Click**Set up backup**.![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59edb796a67b6.jpg) **5)** Select a backup destination. (You can save it on **a partition of your hard drive**or on your**USB flash drive**or**external hard drive**. You can also save it to another computer on the same network by clicking the**Save on a network**button. It’s better for you to choose a destination other than your hard drive in case it fails.) After that, click**Next**.![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59edbb5cecef7.jpg) **6)**Click the option button of**Let me choose** (this allows you to choose what to back up manually). Then click**Next**.![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59edbd337d399.jpg) **7)**Choose what you want to back up and whether you want to include a system image (this requires larger storage space). Then click**Next**.![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59edbda6df21f.jpg) **8)** Click**Change schedule**to change the back up schedule if you are not satisfied with it. Then click**Save settings and run backup**.![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59edbe5c7c029.jpg) **9)** Your system will automatically run the backup for you.![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59edbfcd8413e.jpg)To back up your files on**Windows 10**, you should turn on a feature called**File History**. To do so:**1)** Select the**Start**button at the lower left corner of your screen. Then click the**Settings**icon.![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59edc15a8c889.png) **2)**Select**Update & Security**.![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59edc2e084454.png) **3)** Select**Backup**. Then click**More options**.![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59edc322c7cee.jpg) **4)** Click**See advanced settings**.![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59edc35927405.png) **5)**Click**Select drive**in the left paneto select where you want to save your backup.![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59eea722a8862.png) **6)**Select a drive from the list to store your backup. (Your system disallows you to save your backup on the hard drive where the system is installed. It is recommended that you choose to save on your**USB flash drive**or**external hard drive**. If you want back up a file on a**another computer on the same network**, click**Add network location**.) After that, click**OK**.![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59edc5379b716.png)File History is now turned on. It will automatically save copies of your files to the designated location.![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59edc5bd46507.png)If you want to change the settings of backup, go back to the backup settings window and click**More options**.![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59edc6337d321.jpg)You can configure the Backup options, such as when and what you want to back up.![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59edc6b452853.png)When you turn on the back up features, your computer will routinely back up your files for you. These backup copies can one day save your life when you lose your Word documents or other important files.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
-<!-- affiliate ads end -->
 * [data recovery](https://tools.techidaily.com/drivereasy/download/)
 * [Windows](https://tools.techidaily.com/drivereasy/download/)
 * [Word](https://tools.techidaily.com/drivereasy/download/)
@@ -95,8 +85,6 @@ It is still possible that your Word documents are missing or corrupt some day. Y
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -104,4 +92,22 @@ It is still possible that your Word documents are missing or corrupt some day. Y
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-guidance.techidaily.com/new-skyrocket-on-instagram-unveiling-your-path-with-top-9-secrets/"><u>[New] Skyrocket on Instagram Unveiling Your Path with Top 9 Secrets</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-sculpt-comical-visuals-for-digital-sharing-for-2024/"><u>[Updated] Sculpt Comical Visuals for Digital Sharing for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/bass-control-systems-unveiled-mastering-the-art-of-sound-balance/"><u>Bass Control Systems Unveiled: Mastering the Art of Sound Balance</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1722990703799-conquer-diablo-immortal-on-pc-no-more-interruptions-learn-how-to-prevent-crashing-now/"><u>Conquer Diablo Immortal on PC: No More Interruptions, Learn How to Prevent Crashing Now</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/1722880033241-deciding-between-building-or-purchasing-your-own-computer-find-out-the-best-option/"><u>Deciding Between Building or Purchasing Your Own Computer - Find Out the Best Option</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/decode-the-future-of-phablets-with-samsung-galaxy-z-fold-7-expected-price-points-release-schedule-and-cutting-edge-specs-amidst-intriguing-whispers/"><u>Decode the Future of Phablets with Samsung Galaxy Z Fold 7 – Expected Price Points, Release Schedule & Cutting-Edge Specs Amidst Intriguing Whispers</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/detailed-tutorial-for-correcting-errors-with-missing-d3dx930dll-component-in-windows/"><u>Detailed Tutorial for Correcting Errors with Missing d3dx9_30.dll Component in Windows</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-overcome-gta-nlaunch-error-and-start-the-game-smoothly/"><u>How to Overcome 'GTA N_Launch' Error and Start the Game Smoothly</u></a></li>
+<li><a href="https://fake-location.techidaily.com/prevent-cross-site-tracking-on-oneplus-nord-n30-5g-and-browser-drfone-by-drfone-virtual-android/"><u>Prevent Cross-Site Tracking on OnePlus Nord N30 5G and Browser | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/step-by-step-guide-establishing-your-first-youtube-profile-for-2024/"><u>Step-by-Step Guide Establishing Your First YouTube Profile for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/1722900316099-the-ultimate-guide-to-watching-the-matrix-series-from-beginning-to-end/"><u>The Ultimate Guide to Watching The Matrix Series From Beginning to End.</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-98-unmissable-cyber-monday-savings-of-2022-comprehensive-list/"><u>Top 98 Unmissable Cyber Monday Savings of 2022 Comprehensive List</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-savings-unveiling-the-most-competitive-atandt-offers-in-may-2024-insights-from-zdnet/"><u>Top Savings: Unveiling the Most Competitive AT&T Offers in May 2024 - Insights From ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unlocking-digital-archives-your-step-by-step-guide-to-wayback-machine-usage/"><u>Unlocking Digital Archives: Your Step-by-Step Guide to Wayback Machine Usage</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/watching-star-trek-saga-from-genesis-to-beyond-a-step-by-step-guide/"><u>Watching Star Trek Saga From Genesis to Beyond - A Step-by-Step Guide</u></a></li>
+</ul></div>
 

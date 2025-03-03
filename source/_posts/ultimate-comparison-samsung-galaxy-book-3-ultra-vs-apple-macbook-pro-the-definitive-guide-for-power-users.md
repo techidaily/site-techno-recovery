@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Comparison: Samsung Galaxy Book 3 Ultra Vs. Apple MacBook Pro - The Definitive Guide for Power Users"
-date: 2025-02-04T21:07:37.781Z
-updated: 2025-02-11T23:20:29.609Z
+date: 2025-02-24T00:58:57.157Z
+updated: 2025-03-02T18:32:41.708Z
 tags:
   - apple
 categories:
@@ -44,17 +44,9 @@ Of course, if you're already locked into either the Android or iOS ecosystem, yo
 | Water resistance       | 100 meters              | 100 meters |
 | Operating system       | Wear OS 5               | watchOS 10 |
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  You should buy the Samsung Galaxy Watch Ultra if...
 
 Kerry Wan/ZDNET
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ###  1\. You want a bigger battery
 
@@ -63,10 +55,6 @@ Both the [Galaxy Watch Ultra](https://shop-links.co/link/?url=https%3A%2F%2Fwww.
 **Also: [5 best features of the Samsung Galaxy Watch Ultra](https://www.zdnet.com/article/5-best-features-of-the-samsung-galaxy-watch-ultra/)**
 
 Of course, exact battery life depends on how you use it; but based on company claims, the Galaxy Watch Ultra should get at least an extra half-day from a full charge.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ###  2\. You want to save money
 
@@ -88,10 +76,6 @@ ZDNET saves you time and money by delivering the best products and tech deals to
 
 [See all](https://www.zdnet.com/newsletters/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  You should buy the Apple Watch Ultra 2 if...
 
 Max Buondonno/ZDNET
@@ -107,10 +91,6 @@ If you want to have a lot of music or podcasts on your watch for long runs, or y
 Both the Galaxy Watch Ultra and the Apple Watch 2 Ultra are fairly large, square-ish, eye-catching watches. While the Galaxy Watch Ultra is 47mm, the Watch 2 Ultra is 47mm wide by 49mm high. That might not sound like much, but it's noticeable when the two devices are side by side. Because of the bigger size, Apple's watch can fit more information on the screen. Both watches have only basic colors when it comes to design, but if you want the option that's more visually striking, go with the Apple.
 
 [Buy the Apple Watch 2 Ultra $645.31 at Amazon](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CHX9N594%3FlinkCode%3Dogi%26th%3D1%26psc%3D1%26tag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7C7092b416-e5a9-4177-9f64-b9579954b75e%7Cdtp&dtb=1)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Alternatives to consider
 
@@ -160,20 +140,16 @@ The Samsung Galaxy Watch 5 Pro is fantastic for outdoor adventures. It offers ma
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-in-2024-the-quickest-quads-2022-olympics-skate/"><u>[New] In 2024, The Quickest Quads 2022 Olympics Skate</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-optimizing-audio-clarity-in-home-vo-recording-setups/"><u>[New] Optimizing Audio Clarity in Home VO Recording Setups</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-quick-guide-to-planning-google-meet-sessions-for-2024/"><u>[New] Quick Guide to Planning Google Meet Sessions for 2024</u></a></li>
-<li><a href="https://dvd-bd.techidaily.com/effortless-and-fast-dvd-backup-method-to-save-oldnew-discs-with-no-significant-loss-of-quality/"><u>Effortless & Fast DVD Backup Method to Save Old/New Discs with No Significant Loss of Quality!</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/expert-advice-using-your-ipads-messaging-app-effectively/"><u>Expert Advice: Using Your iPad's Messaging App Effectively</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/getting-the-latest-firmware-on-googles-chromecast-a-step-by-step-tutorial/"><u>Getting the Latest Firmware on Google's Chromecast: A Step-by-Step Tutorial</u></a></li>
-<li><a href="https://article-tips.techidaily.com/in-2024-block-youtube-previews-embrace-full-length-videos/"><u>In 2024, Block YouTube Previews, Embrace Full-Length Videos</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/maximize-your-email-productivity-expert-tips-on-gmail-address-customization-and-filters/"><u>Maximize Your Email Productivity: Expert Tips on Gmail Address Customization and Filters</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/meet-the-budget-friendly-iphone-1nte-plus-long-lasting-power-and-more-reasons-to-fall-in-love-with-it-techguide-insights/"><u>Meet the Budget-Friendly iPhone 1Nte Plus - Long-Lasting Power and More Reasons to Fall in Love With It | TechGuide Insights</u></a></li>
-<li><a href="https://techidaily.com/recover-apple-iphone-14-pro-max-data-from-ios-itunes-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover Apple iPhone 14 Pro Max Data From iOS iTunes | Dr.fone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/score-free-cash-with-every-school-related-mac-or-ipad-purchase-get-the-details-on-the-150-apple-reward-zdnet/"><u>Score Free Cash with Every School-Related Mac or iPad Purchase – Get the Details on the $150 Apple Reward! | ZDNet</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/should-you-switch-to-ipad-air-5-from-ipad-air-navigate-the-pros-and-cons-in-depth-analysis-by-zdnet-tech-gurus/"><u>Should You Switch to iPad Air 5 From iPad Air Navigate the Pros and Cons | In-Depth Analysis by ZDNET Tech Gurus</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/skip-the-middleman-directly-record-games-using-steams-built-in-features/"><u>Skip the Middleman – Directly Record Games Using Steam's Built-In Features</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/step-by-step-fix-for-when-you-cant-find-d3dx939dll/"><u>Step-by-Step Fix for When You Can't Find d3dx9_39.dll</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/transform-your-visuals-instagram-video-borders-for-2024/"><u>Transform Your Visuals Instagram Video Borders for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/-watch-with-ease-best-playlist-extractors-reviewed-and-rated/"><u>Binge-Watch With Ease Best Playlist Extractors Reviewed & Rated</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/easy-to-follow-process-for-reverting-your-lenovo-computers-configuration-to-manufacturer-defaults/"><u>Easy-to-Follow Process for Reverting Your Lenovo Computer's Configuration to Manufacturer Defaults</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-restore-functionality-to-a-broken-apple-watch-touch-screen/"><u>How to Restore Functionality to a Broken Apple Watch Touch Screen</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/lens-lamentation-restoring-lost-pics/"><u>Lens Lamentation: Restoring Lost Pics</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/lighten-your-livestreams-selecting-5-brightening-tech/"><u>Lighten Your Livestreams Selecting 5 Brightening Tech</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/mastering-the-art-of-securely-connecting-your-android-device-to-wi-fi-networks/"><u>Mastering the Art of Securely Connecting Your Android Device to Wi-Fi Networks</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/resolving-the-winhttpdll-file-absent-dilemma-a-comprehensive-guide/"><u>Resolving the 'WinHttp.dll File Absent' Dilemma: A Comprehensive Guide</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-guide-to-using-emojis-effectively-on-the-iphone/"><u>Step-by-Step Guide to Using Emojis Effectively on the iPhone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-balance-of-serene-visuals-for-2024/"><u>The Balance of Serene Visuals for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-ultimate-ipad-pro-evaluation-why-its-distinct-role-from-macbook-is-a-win-for-users-digital-gadget-review/"><u>The Ultimate iPad Pro Evaluation: Why Its Distinct Role From MacBook Is a Win for Users | Digital Gadget Review</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-rated-magsafe-wallet-reviews-comprehensive-testing-and-analysis-by-tech-experts/"><u>Top-Rated MagSafe Wallet Reviews : Comprehensive Testing & Analysis by Tech Experts</u></a></li>
 </ul></div>
 

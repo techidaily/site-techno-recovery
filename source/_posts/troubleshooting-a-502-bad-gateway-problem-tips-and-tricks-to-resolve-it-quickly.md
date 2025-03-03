@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting a 502 Bad Gateway Problem - Tips and Tricks to Resolve It Quickly
-date: 2025-02-08T21:57:23.839Z
-updated: 2025-02-11T23:29:46.411Z
+date: 2025-02-28T18:48:19.406Z
+updated: 2025-03-02T21:51:17.597Z
 categories:
   - BestProducts
 description: This Article Describes Troubleshooting a 502 Bad Gateway Problem - Tips and Tricks to Resolve It Quickly
@@ -39,17 +39,9 @@ thumbnail: https://www.lifewire.com/thmb/HXpfFJ2zZ7fE5TxNcV5sJ48-wzM=/400x300/fi
 ![An iPhone with the Phone settings, Blocked Contacts heading, and Unblock button highlighted](https://www.lifewire.com/thmb/MPfrUdCCr2HLjH9Va4OIkm1zN3o=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001-im-missing-calls-because-my-iphone-isnt-ringing-help-2000264-2308e3feb71f4c9194900da12675ecb2.jpg)
 6. Disable Silence Unknown Callers. To help users avoid spam calls and robocalls, Apple added a feature in[iOS 13](https://www.lifewire.com/ios-13-4586609) that automatically silences all calls from unknown numbers. If this feature is turned on, you won't hear calls from numbers that aren't in the Contacts app. Instead, the iPhone sends them right to voicemail. To disable this feature, select**Settings** \>**Phone** , and then turn off the**Silence Unknown Callers** switch.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If you want to keep Silence Unknown Callers turned on but still get calls from certain numbers,[add those callers to Contacts](https://www.lifewire.com/manage-contacts-iphone-address-book-2000570) .  
 ![iPhone showing the Phone settings and Silence Unknown Callers switch](https://www.lifewire.com/thmb/PfmlpvYkxD5z2_TErc_402j9xA8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/002-im-missing-calls-because-my-iphone-isnt-ringing-help-2000264-b93c2874c9784090a83900ec430caf0b.jpg)
 7. Change your custom ringtone. If your iPhone still doesn't ring for incoming calls, check your ringtone. If you[set up unique ringtones for contacts](https://www.lifewire.com/assign-unique-ringtone-on-iphone-2000557) , a deleted or corrupted ringtone can prevent the phone from ringing when someone calls.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  To check the default ringtone, tap**Settings** \>**Sounds & Haptics** \>**Ringtone** , and then select a new ringtone.  
  If you miss calls from only certain people, open the Phone app, and then complete these steps:  
@@ -59,25 +51,13 @@ thumbnail: https://www.lifewire.com/thmb/HXpfFJ2zZ7fE5TxNcV5sJ48-wzM=/400x300/fi
 ![Three iOS screens showing Contacts, Edit button and Ringtone area in Phone settings app](https://www.lifewire.com/thmb/dQgktPdfOQV7lnazDKmKLLfIXPI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/006_im-missing-calls-because-my-iphone-isnt-ringing-help-2000264-5bbe5923c9e77c005156dd60.jpg)  
  If the unique ringtone is the source of the problem, find all the contacts to whom you assigned that ringtone and select a new ringtone for each.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 8. [Make sure the phone isn't stuck in Headphone mode](https://www.lifewire.com/fix-iphone-stuck-in-headphone-mode-4175912) . It could be that your iPhone is ringing but sending the audio to the wrong place. In this situation, the iPhone thinks that another audio source is attached to it—like headphones or a Bluetooth device—and tries to ring there instead of through your iPhone speaker.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## If None of These Tips Fixed the Problem
 
  If you tried all these tips and still don't hear your incoming calls, it's time to consult the experts.[Make an Apple Genius Bar appointment](https://www.lifewire.com/how-to-make-an-apple-genius-bar-appointment-1999601) at your local Apple Store or[contact an Apple-authorized service provider](https://support.apple.com/repair) , and bring in your iPhone for inspection and repair.
 
 [How to Fix It When iPhone Call Volume Is Low](https://www.lifewire.com/fix-low-volume-on-call-on-iphone-5186012)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Causes of the iPhone Not Ringing Problem
 
@@ -127,21 +107,14 @@ Tell us why!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/new-perfect-zoom-optimizing-kinemasters-viewer-engagement/"><u>[New] Perfect Zoom Optimizing Kinemaster's Viewer Engagement</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-understanding-facebook-messengers-signaling-with-a-blue-splash/"><u>[New] Understanding Facebook Messenger's Signaling With a Blue Splash</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-premier-mp4-broadcast-suite/"><u>[Updated] 2024 Approved Premier MP4 Broadcast Suite</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/updated-in-2024-speedy-tiktok-video-performance-a-step-by-step-plan/"><u>[Updated] In 2024, Speedy TikTok Video Performance A Step-by-Step Plan</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-magix-music-maker-review/"><u>[Updated] Magix Music Maker Review</u></a></li>
-<li><a href="https://article-posts.techidaily.com/2024-approved-a-compreenas-guide-for-efficient-pip-integration-in-edge-browser/"><u>2024 Approved A Compreenas Guide for Efficient PIP Integration in Edge Browser</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/approved-quick-fix-valorant-thumbnails-professionally-done-now/"><u>2024 Approved Quick-Fix Valorant Thumbnails Professionally Done Now!</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/affordable-iconx-anticipated-enhancements-to-the-apple-watch-series-se-revealed-on-techradar/"><u>Affordable Iconx: Anticipated Enhancements to the Apple Watch Series SE Revealed on TechRadar</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/all-about-the-apple-studio-display-specifications-innovative-features-and-key-information-at-a-glance-tech-insights-by-zdnet/"><u>All About the Apple Studio Display: Specifications, Innovative Features, and Key Information at a Glance - Tech Insights by ZDNet</u></a></li>
-<li><a href="https://win-great.techidaily.com/high-definition-walls-of-grandeur-the-201/"><u>High-Definition Walls of Grandeur: The 201</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/macbook-pro-reboot-techniques-every-user-should-know/"><u>MacBook Pro Reboot Techniques Every User Should Know</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/revolutionizing-portability-discover-the-m4-enhanced-new-mac-mini-tiny-as-an-apple-tv/"><u>Revolutionizing Portability: Discover the M4-Enhanced New Mac Mini, Tiny as an Apple TV!</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/score-big-savings-get-highly-recommended-apple-airpods-now-at-a-40-discount-in-time-for-july-4th-celebrations-exclusive-on-zdnet/"><u>Score Big Savings: Get Highly Recommended Apple AirPods Now at a $40 Discount in Time for July 4Th Celebrations | Exclusive on ZDNet</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/taylor-swift-movie-marathon-the-perfect-viewing-sequence/"><u>Taylor Swift Movie Marathon: The Perfect Viewing Sequence</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ltimate-list-of-15-youtube-openers-for-2024/"><u>The Ultimate List of 15 YouTube Openers for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/top-rated-ipad-enhancers-and-gadgets-featured/"><u>Top-Rated iPad Enhancers and Gadgets - Featured</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-leading-removers-tiktok-ids-from-androidios/"><u>[Updated] Leading Removers TikTok IDs From Android/iOS</u></a></li>
+<li><a href="https://win-online.techidaily.com/1728485764719-4/"><u>「失われたフォトとグラフィックを取り戻せるディスクリーヴェルメソッド4」</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discover-the-ultimate-selection-of-15-free-software-removal-tools/"><u>Discover the Ultimate Selection of 15 Free Software Removal Tools!</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/fubotv-streaming-made-easy-for-firestick-users-installation-and-setup-instructions/"><u>FuboTV Streaming Made Easy for Firestick Users: Installation & Setup Instructions</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/hdr-tips-for-captivating-portrait-masterpieces/"><u>HDR Tips for Captivating Portrait Masterpieces</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-pair-airpods-with-your-nintendo-switch-console/"><u>How to Pair AirPods with Your Nintendo Switch Console</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/in-depth-analysis-of-the-tp-link-re305-wireless-network-enhancer-ac1200/"><u>In-Depth Analysis of the TP-Link RE305 Wireless Network Enhancer (AC1200)</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/the-complete-review-assessing-performance-and-aesthetics-of-ankers-powercoreplus-26800-battery-pack-setup/"><u>The Complete Review: Assessing Performance and Aesthetics of Anker's PowerCore+ 26800 Battery Pack Setup</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-definitive-guide-to-permanently-deleting-a-tiktok-account/"><u>The Definitive Guide to Permanently Deleting a TikTok Account</u></a></li>
 </ul></div>
 

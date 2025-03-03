@@ -1,7 +1,7 @@
 ---
 title: "Unveiling Hidden In-Built Smart Radio Technology in Macs & iPads: Do You Possess One?"
-date: 2025-02-09T20:24:03.832Z
-updated: 2025-02-11T21:44:33.038Z
+date: 2025-02-24T00:03:52.202Z
+updated: 2025-03-03T01:23:58.593Z
 tags:
   - apple
 categories:
@@ -36,10 +36,6 @@ When Apple launched the iPhone 15 lineup last fall, [it announced](https://www.a
 * [iPad Air 13-inch Wi-Fi (M2)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0D3J7GPRX%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cd34bd512-6fa4-4559-9369-3fad6235f188%7Cdtp&dtb=1) \- [_FCC report_](https://fcc.report/FCC-ID/BCGA2898/7213158)
 * [iPad Air 11-inch Wi-Fi & Cellular (M2)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0D3J61DQ4%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cd34bd512-6fa4-4559-9369-3fad6235f188%7Cdtp&dtb=1) \- [_FCC report_](https://fcc.report/FCC-ID/BCGA2898/7213158)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Macs with a Thread radio:
 
 * [MacBook Pro 16-inch (M3 Pro or M3 Max)](https://buy.geni.us/Proxy.ashx?TSID=368250&GR%5FURL=https%3A%2F%2Fwww.amazon.com%2Fdp%2FB0CM5BL45N%3Ftag%3Dzd-buy-button-20%26ascsubtag%3D%5F%5FCOM%5FCLICK%5FID%5F%5F%7Cd34bd512-6fa4-4559-9369-3fad6235f188%7Cdtp&dtb=1) \-[_FCC report_](https://fcc.report/FCC-ID/BCGA2991/6866513.pdf)
@@ -61,10 +57,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 Since the iPad and Mac run Apple's Home app, they could function as Thread border routers, integrating more seamlessly with smart home networks. This could indicate the iPad's return to functioning as a smart home hub. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to check if your iPad or Mac has a Thread radio
 
@@ -98,10 +90,6 @@ Search for any test reports mentioning "Thread" or "IEEE 802.15.4," which is the
 
 If a Thread radio exists in that device, you should find a report of its compliance testing since a non-existent feature wouldn't be tested.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## FAQ
 
 ## What is Thread?
@@ -111,10 +99,6 @@ Thread is a low-energy wireless communication protocol for smart home devices cr
 **Also: [Google is turning its TVs into Home hubs and giving devs access to over 600 million smart devices](https://www.zdnet.com/home-and-office/smart-home/google-is-turning-its-tvs-into-home-hubs-and-giving-devs-access-to-over-600-million-smart-devices/)**
 
 Thread was created as an energy-efficient and secure protocol to connect battery-powered devices, like smart home sensors, smart locks, room thermometers, lights, thermostats, and security systems. The IP-based protocol allows for easy integration with smart home ecosystems, which is Matter's main goal.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What is a Thread border router?
 
@@ -160,10 +144,6 @@ Giving newer iPads Thread support would bring back its smart home hub functional
 
 If users want to keep an older iPad as a smart home hub, it cannot have iOS 16 and will work only with basic HomeKit functionality, as new features and enhancements introduced after iOS 16 won't be supported.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Would Thread replace Bluetooth for Apple peripherals?
 
 Probably not. Even in the unlikely case that Apple isn't planning on using Thread for smart home devices and is only integrating it to connect peripherals, like the Apple Watch and other devices, Thread isn't likely to replace Bluetooth. 
@@ -204,18 +184,18 @@ The Apple Watch primarily uses Bluetooth to connect to the iPhone, but when Blue
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-symphony-in-your-pocket-classic-tones-at-a-click-for-2024/"><u>[New] Symphony in Your Pocket Classic Tones at a Click for 2024</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-ultimate-compilation-top-11-streaming-gear-insights-for-2024/"><u>[New] Ultimate Compilation Top 11 Streaming Gear Insights for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-scrutinizing-splitcam-a-leader-in-video-tech-in-2024/"><u>[Updated] Scrutinizing SplitCam - A Leader in Video Tech, In 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/discover-expert-recommendations-8-premium-and-free-html-editors-for-pcs/"><u>Discover Expert Recommendations: 8 Premium and Free HTML Editors for PCs</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-canon-mf8200c-printer-drivers-fully-updated-for-windows-users/"><u>Download Canon MF8200C Printer Drivers - Fully Updated for Windows Users</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/how-five-companies-are-revolutionizing-their-workflows-with-the-apple-vision-pro-a-closer-look-at-its-impact-on-modern-enterprises-forbes/"><u>How Five Companies Are Revolutionizing Their Workflows with the Apple Vision Pro: A Closer Look at Its Impact on Modern Enterprises - Forbes</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-track-whatsapp-messages-on-realme-v30t-without-them-knowing-drfone-by-drfone-virtual-android/"><u>How to Track WhatsApp Messages on Realme V30T Without Them Knowing? | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/mastering-file-permissions-to-prevent-read-only-mode/"><u>Mastering File Permissions to Prevent Read-Only Mode</u></a></li>
-<li><a href="https://change-location.techidaily.com/preparation-to-beat-giovani-in-pokemon-go-for-xiaomi-redmi-note-12-pro-5g-drfone-by-drfone-virtual-android/"><u>Preparation to Beat Giovani in Pokemon Go For Xiaomi Redmi Note 12 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/step-by-step-strategies-to-fix-the-persistent-stop-0x0000003d-error-on-your-pc/"><u>Step-by-Step Strategies to Fix the Persistent STOP 0X0000003D Error on Your PC</u></a></li>
-<li><a href="https://apple-account.techidaily.com/troubleshooting-error-connecting-to-the-apple-id-server-from-iphone-7-plus-by-drfone-ios/"><u>Troubleshooting Error Connecting to the Apple ID Server From iPhone 7 Plus</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/twitter-videos-on-facebook-the-transfer-guide/"><u>Twitter Videos on Facebook The Transfer Guide</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/upgrading-to-apples-newest-key-differences-between-iphone-16-and-iphone/"><u>Upgrading to Apple's Newest: Key Differences Between iPhone 16 and iPhone</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-2024-approved-techniques-to-create-compelling-vlogger-dialogue-plans/"><u>[New] 2024 Approved Techniques to Create Compelling Vlogger Dialogue Plans</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-nikon-1-j5-4k-camera-review/"><u>[New] Nikon 1 J5 4K Camera Review</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-smooth-loop-setup-tailoring-youtube-content-for-television/"><u>[Updated] Smooth Loop Setup Tailoring YouTube Content for Television</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-winning-software-to-capture-your-display-on-windows-10/"><u>2024 Approved Winning Software to Capture Your Display on Windows 10</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/digital-artistry-on-your-phone-top-8-multimedia-enhancement-apps/"><u>Digital Artistry on Your Phone Top 8 Multimedia Enhancement Apps</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/effective-solutions-for-samsung-galaxy-users-facing-network-connectivity-problems/"><u>Effective Solutions for Samsung Galaxy Users Facing Network Connectivity Problems</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/googles-latest-accessory-the-pixel-watch-3-release-date-pricing-insights/"><u>Google's Latest Accessory? The Pixel Watch 3 - Release Date, Pricing Insights</u></a></li>
+<li><a href="https://fox-links.techidaily.com/photographic-pastime-iphone-x-retro-clicks-for-2024/"><u>Photographic Pastime IPhone X Retro Clicks for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/steady-visual-storytelling-techniques/"><u>Steady Visual Storytelling Techniques</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-15-best-dolby-atmos-movies-to-watch-at-home/"><u>The 15 Best Dolby Atmos Movies to Watch at Home</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723208220498-usb-connection-issues-beat-device-descriptor-request-failed-with-our-expert-tips/"><u>USB Connection Issues? Beat 'Device Descriptor Request Failed' With Our Expert Tips</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/what-to-expect-from-the-next-macbook-specs-price-estimates-and-rumored-debut-date-revealed/"><u>What to Expect From the Next MacBook: Specs, Price Estimates, and Rumored Debut Date Revealed</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/yahoo-messenger-explained-the-rise-and-fall-of-a-messaging-giant/"><u>Yahoo! Messenger Explained: The Rise and Fall of a Messaging Giant</u></a></li>
 </ul></div>
 

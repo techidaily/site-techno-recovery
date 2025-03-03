@@ -1,7 +1,7 @@
 ---
 title: "Quick Tips: Mastering Screen Shots with Windows 7 Features"
-date: 2024-08-18T16:36:26.927Z
-updated: 2024-08-19T16:36:26.927Z
+date: 2025-03-01T21:35:21.582Z
+updated: 2025-03-02T18:21:13.572Z
 tags:
   - win11
   - win10
@@ -35,40 +35,22 @@ Want to show your Windows screen to your friends on chat windows like Slack? Wan
 
  3) Now you can paste the picture on your chat windows or on **Paint** to save it by pressing the **Ctrl** and **V** keys at the same time.  If unluckily, your print screen key stops working, you can troubleshoot it using this easy guide — [Print Screen Not Working](https://tools.techidaily.com/drivereasy/download/) .
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
-<!-- affiliate ads end -->
 ### Pro tip
 
  If you’re using Windows 8 or Windows 10, and you want to save your Windows screenshot, you can do that much faster. **Here’s how:**  Let Windows shows the screen you want to save, then on your keyboard, press the **Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2018/04/img_5adee6ae232d5.png) and **PrtSc**  key at the same time. Your Windows screen will then be saved as an image automatically. You can find the image in the Screenshots folder of Pictures: ![](https://images.drivereasy.com/wp-content/uploads/2018/04/folder.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Way 2: Screenshot your single active window
 
  If you just would like to screenshot your current active window instead of a full screen, it’s also easy to do:  Go to any window you want to print, then press **Alt** and **PrtSc**  at the same time on your keyboard. Now you have the screenshot of your active window on your clipboard. ![](https://images.drivereasy.com/wp-content/uploads/2018/04/Snap17.png)  Now you can paste the picture on your chat windows or on Paint to save it by pressing the **Ctrl** and **V** keys at the same time.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Way 3: Screenshot any part of your screen
 
  If you like to share just a part of your screen, use the built-in Snipping Tool on Windows. Here’s how:  1) Go to the window you want to screenshot. 2) Type **snipping**  in the search box from the Start menu. Then click **Snipping Tool** on the top. ![](https://images.drivereasy.com/wp-content/uploads/2018/04/snipping-tool.png)  3) You should then see the small Snipping Tool window. Click **N** **ew** . ![](https://images.drivereasy.com/wp-content/uploads/2018/04/New.png)  4) Use the pop-up ![](https://images.drivereasy.com/wp-content/uploads/2018/04/pasted-image-0.png)  to capture any part of your screen you want to share or save.  5) The screen you capture will then show on the Snipping Tool window.  You can directly paste it on your chat windows or save it on Snipping tool via **File > Save as…**
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
-<!-- affiliate ads end -->
 ## Pro tip
 
  If you’re using Windows 10, there’s a new feature — **Delay**  on Snipping Tool allowing you to go to the screen you want to capture after you click the **N** **ew** icon within the time you set. ![](https://images.drivereasy.com/wp-content/uploads/2018/04/Delay.png)  Voila! So easy to screenshot on Windows. Don’t hesitate to post your comment for any question or, if you have any other amazing tip to take a screenshot, time to share with us. Thanks in advance.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 * [Windows](https://tools.techidaily.com/drivereasy/download/)
 
 <ins class="adsbygoogle"
@@ -77,8 +59,6 @@ Want to show your Windows screen to your friends on chat windows like Slack? Wan
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -86,4 +66,18 @@ Want to show your Windows screen to your friends on chat windows like Slack? Wan
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-essential-techniques-for-sizing-up-your-instagram-video-reach/"><u>[New] In 2024, Essential Techniques for Sizing Up Your Instagram Video Reach</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-the-art-of-game-recording-a-comprehensive-look-for-2024/"><u>[Updated] The Art of Game Recording A Comprehensive Look for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discounted-apple-m2-macbook-air-now-available-for-just-800-before-prime-day-tech-insights/"><u>Discounted Apple M2 MacBook Air Now Available for Just $800 Before Prime Day | Tech Insights</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/elevate-your-exercise-habits-using-fitbit-versa-3s-integrated-gps-function-and-diverse-range-of-wellness-apps-designed-to-inspire/"><u>Elevate Your Exercise Habits Using Fitbit Versa 3'S Integrated GPS Function and Diverse Range of Wellness Apps Designed to Inspire</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/exploring-the-future-of-smart-homes-apples-foray-into-ai-based-domestic-robotics/"><u>Exploring the Future of Smart Homes: Apple's Foray Into AI-Based Domestic Robotics</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ios-18-brings-essential-non-ai-messaging-enhancement-to-iphones-what-you-need-to-know/"><u>IOS 18 Brings Essential Non-AI Messaging Enhancement to iPhones - What You Need to Know</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/mastering-mac-passwords-retrieving-items-from-your-keychain-seamlessly/"><u>Mastering Mac Passwords: Retrieving Items From Your Keychain Seamlessly</u></a></li>
+<li><a href="https://driver-error.techidaily.com/non-operative-keyboard-on-windows/"><u>Non-Operative Keyboard on Windows</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/professional-streaming-made-simple-in-obs-studio-android-edition-for-2024/"><u>Professional Streaming Made Simple in OBS Studio, Android Edition for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/protect-and-preserve-your-iphone-es-aesthetics-with-these-3-must-have-accessories-insights-by-zdnet/"><u>Protect and Preserve Your iPhone E's Aesthetics with These 3 Must-Have Accessories | Insights by ZDNet</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/urgent-update-how-apples-warning-on-high-stakes-spyware-assaults-impacts-iphone-users-should-you-be-alarmed-now-cybersecurity-today/"><u>Urgent Update: How Apple's Warning on High-Stakes Spyware Assaults Impacts iPhone Users - Should You Be Alarmed Now? | Cybersecurity Today</u></a></li>
+</ul></div>
 

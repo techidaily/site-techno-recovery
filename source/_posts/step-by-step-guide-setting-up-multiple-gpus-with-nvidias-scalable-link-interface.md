@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Setting Up Multiple GPUs with Nvidia's Scalable Link Interface"
-date: 2024-08-18T16:41:21.322Z
-updated: 2024-08-19T16:41:21.322Z
+date: 2025-02-25T19:56:24.033Z
+updated: 2025-03-02T20:48:50.800Z
 tags:
   - win11
   - win10
@@ -51,9 +51,6 @@ What operating system is running on your phone?
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/block-calls-on-iPhone-1.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
-<!-- affiliate ads end -->
 ### Android
 
 #### To block unwanted calls in Android
@@ -65,9 +62,6 @@ What operating system is running on your phone?
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/block-calls-on-Android-phone.png)
 
-<!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 #### To unblock phone numbers
 
 You can follow the steps below to unblock a phone number:
@@ -76,17 +70,10 @@ You can follow the steps below to unblock a phone number:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-681.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
  2) Tap**the delete icon** next to the phone number to unblock it. Then tap**UNBLOCK** to confirm.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-683.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
-<!-- affiliate ads end -->
  Hopefully, you find this post helpful. If you have any suggestions or questions, you’re more than welcome to leave us a comment below.
 
 * [Android](https://tools.techidaily.com/drivereasy/download/)
@@ -98,8 +85,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -107,4 +92,26 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/updated-ensure-your-video-fits-the-instagram-aesthetic-perfectly-for-2024/"><u>[Updated] Ensure Your Video Fits the Instagram Aesthetic Perfectly for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-identifying-leading-drone-motors-for-superior-stability/"><u>[Updated] Identifying Leading Drone Motors for Superior Stability</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/4-easy-ways-for-your-lava-blaze-2-pro-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>4 Easy Ways for Your Lava Blaze 2 Pro Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/alternative-browsers-for-samsung-smart-tvs-how-to-download-and-install/"><u>Alternative Browsers for Samsung Smart TVs: How to Download and Install</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/avoiding-common-pitfalls-ensuring-successful-ipad-to-printer-connections/"><u>Avoiding Common Pitfalls: Ensuring Successful iPad-to-Printer Connections</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/clear-guide-to-understanding-and-fixing-error-code-19-in-windows-environment/"><u>Clear Guide to Understanding and Fixing Error Code #19 in Windows Environment</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/effective-fixes-to-address-the-missing-mss32dll-error-on-your-computer/"><u>Effective Fixes to Address the Missing mss32.dll Error on Your Computer</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/effective-strategies-to-repair-ssleay32dll-error-messages-on-your-computer/"><u>Effective Strategies to Repair ssLeay32.dll Error Messages on Your Computer</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/expert-techniques-for-inserting-code-snippets-into-documents-in-ms-word/"><u>Expert Techniques for Inserting Code Snippets Into Documents in MS Word</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/get-more-done-on-facebook-uncover-5-effective-tips-to-boost-your-productivity/"><u>Get More Done on Facebook: Uncover 5 Effective Tips to Boost Your Productivity</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-explore-these-innovative-5-iphone-apps-transforming-podcasts/"><u>In 2024, Explore These Innovative 5 iPhone Apps Transforming Podcasts</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-can-i-use-a-fake-gps-without-mock-location-on-tecno-pop-8-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Use a Fake GPS Without Mock Location On Tecno Pop 8? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/step-by-step-guide-adjusting-your-fax-covers-on-w11/"><u>Step-by-Step Guide: Adjusting Your Fax Covers on W11</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-anticipated-oppo-nothing-phone-3-unveiling-the-rumored-price-tag-debut-date-and-hardware-specs/"><u>The Anticipated Oppo Nothing Phone 3: Unveiling the Rumored Price Tag, Debut Date, and Hardware Specs</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-real-story-behind-the-carbon-footprint-of-electric-vehicles/"><u>The Real Story Behind the Carbon Footprint of Electric Vehicles</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ultimate-guide-troubleshooting-steps-for-unresponsive-optical-drives/"><u>Ultimate Guide: Troubleshooting Steps for Unresponsive Optical Drives</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/understanding-espnpluss-streaming-platform-a-comprehensive-guide/"><u>Understanding ESPN+'s Streaming Platform: A Comprehensive Guide</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/unlock-your-disabled-iphone-11-pro-without-itunes-in-5-ways-by-drfone-ios/"><u>Unlock Your Disabled iPhone 11 Pro Without iTunes in 5 Ways</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-the-ultimate-guide-to-public-domain-video-downloads/"><u>Updated The Ultimate Guide to Public Domain Video Downloads</u></a></li>
+</ul></div>
 

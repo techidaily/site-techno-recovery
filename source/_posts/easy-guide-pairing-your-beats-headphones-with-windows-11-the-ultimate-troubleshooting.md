@@ -1,7 +1,7 @@
 ---
 title: "Easy Guide: Pairing Your Beats Headphones with Windows 11 – The Ultimate Troubleshooting"
-date: 2024-08-18T16:37:40.308Z
-updated: 2024-08-19T16:37:40.308Z
+date: 2025-03-02T00:48:02.528Z
+updated: 2025-03-02T18:00:25.442Z
 tags:
   - win11
   - win10
@@ -57,36 +57,20 @@ thumbnail: https://thmb.techidaily.com/7e535a24da23299616c0c4ebf30823de033f9fe39
 
  1) On your keyboard, press the**Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ae77d6e2c46.png) and**X** at the same time, then click**Command Prompt (Admin)** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ae7bf508717.png)
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
-<!-- affiliate ads end -->
  2) When prompted to give administrator permission, click**Yes** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ae785615bf1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
  3) Type**sfc /scannow** . Then press**Enter** on your keyboard.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ae7bff41b81.png)
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
  4) The scan can take up to 15 minutes to finish. Wait until it’s done.
 
  5) Check if you can log in without any problems now.
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Method 4: Create a new local administrator account**
 
  If you still can’t sign in, your current account might be at fault. You can create a new administrator account to fix it. Here is how:
@@ -95,16 +79,10 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ae7c07ec74b.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  2) Click**Other people** . (Note: If you’re on Windows 10 Home or Professional edition, you’ll see**Family & other people** here.) Then click**Add someone else to this PC** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ae789ee21f7.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3) Click**I don’t have this person’s sign-in information** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59ae78b1b29b7.png)
@@ -149,8 +127,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -158,4 +134,19 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-exploring-the-creme-de-la-creme-instas-influential-elite/"><u>[New] Exploring the Crème De La Crème Insta's Influential Elite</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-optimal-steadicams-matched-with-dslr-cameras/"><u>[New] Optimal Steadicams Matched with DSLR Cameras</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-delving-into-huawei-p10s-app-ecosystem-and-updates-for-2024/"><u>[Updated] Delving Into Huawei P10’s App Ecosystem and Updates for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/comparing-ipad-pro-mini-vs-macbook-air-m1-2020-understanding-key-distinctions/"><u>Comparing iPad Pro Mini Vs. MacBook Air (M1, 2020): Understanding Key Distinctions</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/decoding-the-mechanics-of-t-mobile-domestic-signal-transitioning/"><u>Decoding the Mechanics of T-Mobile Domestic Signal Transitioning</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/1723808359831-effective-winsxs-directory-management-free-up-disk-space-on-windows-11-in-a-flash/"><u>Effective Winsxs Directory Management: Free Up Disk Space on Windows 11 in a Flash!</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-make-your-number-private-on-android/"><u>How to Make Your Number Private on Android</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-resolve-chromebook-freezing-issues-top-8-methods/"><u>How to Resolve Chromebook Freezing Issues: Top 8 Methods</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-gopro-video-post-production-on-mac-a-comprehensive-tutorial/"><u>New 2024 Approved GoPro Video Post-Production on Mac A Comprehensive Tutorial</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-make-your-own-3d-videos-top-tools-for-beginners-and-pros-alike/"><u>New In 2024, Make Your Own 3D Videos Top Tools for Beginners and Pros Alike</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-4-ways-to-trace-honor-x9b-location-drfone-by-drfone-virtual-android/"><u>Top 4 Ways to Trace Honor X9b Location | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/troubleshooting-the-rpcrt4dll-cannot-be-found-message-on-your-pc/"><u>Troubleshooting the 'RPCRT4.DLL Cannot Be Found' Message on Your PC</u></a></li>
+</ul></div>
 

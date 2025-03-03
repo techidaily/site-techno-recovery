@@ -1,7 +1,7 @@
 ---
 title: "Apple Vision Pro Sales Pitch: Discovering Spousal Affection Quotients"
-date: 2025-02-09T19:20:01.811Z
-updated: 2025-02-12T01:00:33.118Z
+date: 2025-03-01T21:11:57.770Z
+updated: 2025-03-02T18:18:59.993Z
 tags:
   - apple
 categories:
@@ -34,10 +34,6 @@ The booking process was simple. When I arrived at the very busy Apple store, the
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Spatial computing isn't for Zuckers
 
 Soon I was in the hands of a Vision Pro expert who would guide me toward the future. Naturally, he wanted to know why I wanted to try the new device. 
@@ -69,10 +65,6 @@ I can quite understand why so many believe the Vision Pro is the future. You put
 Yet the world around you -- and inside your head -- is fundamentally altered. You have a new perspective, there before your eyes.
 
 An initial couple of questions emerged: When was the last time a product made me utter "Whoa?" And: Will the world ever look the same again?
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Yes, it just works
 
@@ -121,10 +113,6 @@ Which led me to a digression about AI. If the Vision Pro was the future, wasn't 
 "I was worried about AI, when ChatGPT first came out," he said. "But now I feel it's just a product of things we do and think, so I think it's alright."
 
 Another couple of questions emerged: Has the tech industry now constructed all the pillars of life for the next, perhaps, 50 years? And: Have we been seduced, step by step, into separating ourselves from the physical world? 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How much do I love my _what_?
 
@@ -197,19 +185,19 @@ But perhaps the biggest question I ended up asking myself was: What will I becom
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/n-2024-extract-and-save-youtube-gallery-files/"><u>[New] In 2024, Extract and Save YouTube Gallery Files</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-win10-gaming-sessions-best-recording-approaches/"><u>[New] Win10 Gaming Sessions Best Recording Approaches</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-youtube-to-webm-the-10-best-youtube-to-webm-converters/"><u>[New] YouTube to WebM The 10 Best YouTube to WebM Converters</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-beyond-boundaries-channel-youtube-for-exciting-green-screens-for-2024/"><u>[Updated] Beyond Boundaries Channel Youtube for Exciting Green Screens for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/breaking-news-on-samsung-z-fold-4-specs-released-alongside-price-and-date/"><u>Breaking News on Samsung Z Fold 4: Specs Released Alongside Price and Date</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/chatgpt-enhancements-that-waste-your-valuable-time/"><u>ChatGPT Enhancements That Waste Your Valuable Time</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/how-to-view-instagram-without-an-account/"><u>How to View Instagram Without an Account</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/in-2024-easy-conversion-of-youtube-videos-from-twitter-into-gifs/"><u>In 2024, Easy Conversion of YouTube Videos From Twitter Into GIFs</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/ipad-pro-analysis-embracing-the-unique-strengths-of-apples-pinnacle-tablet-over-a-macbook/"><u>IPad Pro Analysis: Embracing the Unique Strengths of Apple's Pinnacle Tablet Over a MacBook</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/is-the-xbox-community-server-unavailable-or-is-there-an-error-on-your-end/"><u>Is the Xbox Community Server Unavailable, or Is There an Error on Your End?</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/mastering-live-broadcast-your-ultimate-guide-to-viewing-the-2024-olympic-games-online/"><u>Mastering Live Broadcast: Your Ultimate Guide to Viewing the 2024 Olympic Games Online</u></a></li>
-<li><a href="https://extra-support.techidaily.com/photo-sharpening-mastery-with-1-10-online-editors-for-2024/"><u>Photo Sharpening Mastery with #1-10 Online Editors for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/revolutionizing-portability-the-sleek-and-fast-charging-magsafe-battery-pack-unveiled/"><u>Revolutionizing Portability: The Sleek & Fast-Charging MagSafe Battery Pack Unveiled</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/top-7-notetaking-solutions-the-best-apps-for-your-ipad-and-ipad-pro/"><u>Top 7 Notetaking Solutions: The Best Apps for Your iPad & iPad Pro</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-proposal-anthems-top-10-love-ballads-and-their-meanings/"><u>[New] In 2024, Proposal Anthems Top 10 Love Ballads and Their Meanings</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-unlock-your-creative-potential-an-overview-of-final-cut-pro-for-2024/"><u>[New] Unlock Your Creative Potential An Overview of Final Cut Pro for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-haunting-horrors-the-ultimate-list-of-engaging-zombie-games-for-2024/"><u>[Updated] Haunting Horrors The Ultimate List of Engaging Zombie Games for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-netflix-location-to-get-more-country-version-on-infinix-note-30-vip-racing-edition-drfone-by-drfone-virtual-android/"><u>How to Change Netflix Location to Get More Country Version On Infinix Note 30 VIP Racing Edition | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-set-your-preferred-theme-and-font-in-the-windows-11-notepad/"><u>How to Set Your Preferred Theme and Font in the Windows 11 Notepad</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/in-2024-integrating-apple-tunes-with-visual-media/"><u>In 2024, Integrating Apple Tunes with Visual Media</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-podcast-summary-genius-guidance-and-examples/"><u>In 2024, Podcast Summary Genius Guidance & Examples</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-from-chaos-to-control-how-to-effectively-save-and-manage-fcp-projects/"><u>New From Chaos to Control How to Effectively Save and Manage FCP Projects</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/silent-no-more-expert-advice-on-diagnosing-and-repairing-sound-issues-in-receivers/"><u>Silent No More: Expert Advice on Diagnosing and Repairing Sound Issues in Receivers</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/solving-the-mystery-of-a-missing-gsdll32dll-file-step-by-step-repair-guide/"><u>Solving the Mystery of a Missing gsdll32.dll File: Step-by-Step Repair Guide</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-complete-walkthrough-for-setting-up-two-panes-in-macos/"><u>The Complete Walkthrough for Setting Up Two Panes in macOS</u></a></li>
+<li><a href="https://fox-that.techidaily.com/the-ultimate-trick-to-dry-wet-iphone-speaker-holes/"><u>The Ultimate Trick to Dry Wet iPhone Speaker Holes</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-9-essential-factors-to-evaluate-when-shopping-for-your-next-dashcam/"><u>Top 9 Essential Factors to Evaluate When Shopping for Your Next Dashcam</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unlock-the-secrets-expert-advice-for-recovering-erased-phone-numbers-from-android-smartphones/"><u>Unlock the Secrets: Expert Advice for Recovering Erased Phone Numbers From Android Smartphones</u></a></li>
 </ul></div>
 

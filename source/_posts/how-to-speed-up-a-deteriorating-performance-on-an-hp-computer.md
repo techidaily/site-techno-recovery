@@ -1,7 +1,7 @@
 ---
 title: How To Speed Up A Deteriorating Performance On An HP Computer
-date: 2024-08-18T16:38:42.986Z
-updated: 2024-08-19T16:38:42.986Z
+date: 2025-03-02T00:23:16.048Z
+updated: 2025-03-02T23:11:23.466Z
 tags:
   - win11
   - win10
@@ -36,9 +36,6 @@ Your screen remains black after turning on the PC? This is very frustrating, and
 
  If you boot into Automatic Repair, select **Troubleshoot**  \> **Advanced options** \> **Startup settings** \> **Restart** \>**Safe Mode with Networking** , then try running a system scan with **[Fortect](https://tools.techidaily.com/drivereasy/download/)**  to detect broken or damaged system files and repair them.
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 2: Check if your monitor is working
 
  If your computer starts but displays nothing, you should check is if your monitor is working properly.
@@ -63,18 +60,12 @@ Your screen remains black after turning on the PC? This is very frustrating, and
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/analog-20871_640-1024x338.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **4)** Check to see if your**video cable** is damaged. If the video cable is fine, reconnect your computer to your monitor. Or, if you have**another video cable** available, try connecting the two devices using the new cable.
 
 **5)** Try turning on your computer to see if it can boot normally.
 
 If your computer fails again, read on and check the fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 4: Disconnect your peripherals
 
  Sometimes, certain peripherals connected to your computer may also cause the black screen issue. Try disconnecting all your peripherals to see if that’s the core problem. Here is how to do it:
@@ -89,9 +80,6 @@ If your computer fails again, read on and check the fix below.
 
 If your computer still can’t boot correctly, try the fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 5: Reinstall your RAM
 
  A poor connection between your RAM and motherboard can also cause this problem. In this case, you need to reinstall your RAM. Here is how:
@@ -108,19 +96,12 @@ RAM looks like this:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/computer-memory-857098_640-1024x381.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 **4)** Put**your RAM** back into the slot.
 
 **5)** Connect the**AC power cord** to the power supply, and then turn on your computer.
 
  If your computer still can’t boot properly, don’t worry. Check the fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 6: Reset your BIOS settings to default
 
  Improper BIOS settings can also cause your PC to boot into a black screen. To see if that’s the problem for you, you should reset your BIOS to factory settings. Here is how to do it:
@@ -172,8 +153,6 @@ The CMOS battery looks like this
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -181,4 +160,20 @@ The CMOS battery looks like this
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/new-dive-into-digital-dimensions-smartphone-vr-conversion-tricks-for-2024/"><u>[New] Dive Into Digital Dimensions Smartphone-VR Conversion Tricks for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-key-steps-for-effective-green-screen-shooting/"><u>[New] Key Steps for Effective Green Screen Shooting</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/bpm-naar-tiff-converter-vrije-onderneming-mooi-en-gemakkelijker-online-werkflow/"><u>BPM Naar TIFF Converter Vrije Onderneming - Mooi en Gemakkelijker Online Werkflow</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discover-the-ideal-iphone-tracking-tools-our-selection-of-5-prime-picks/"><u>Discover the Ideal iPhone Tracking Tools: Our Selection of 5 Prime Picks</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/hitman-3-evaluation-the-ultimate-conclusion/"><u>Hitman 3 Evaluation: The Ultimate Conclusion</u></a></li>
+<li><a href="https://extra-information.techidaily.com/inside-the-secrets-of-quantum-hdr-photography/"><u>Inside the Secrets of Quantum HDR Photography</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/pigments-and-palettes-the-artists-guidebook/"><u>Pigments & Palettes The Artist's Guidebook</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/streamline-your-snapchat-network-by-removing-several-friends-at-once/"><u>Streamline Your Snapchat Network by Removing Several Friends at Once</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ltimate-roadmap-to-understanding-view-counts-and-money-made-for-2024/"><u>The Ultimate Roadmap to Understanding View Counts & Money Made for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/tips-and-tricks-overcoming-the-zero-match-challenge-in-bumble-dating-apps/"><u>Tips & Tricks: Overcoming the Zero-Match Challenge in Bumble Dating Apps</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ultimate-guide-bypassing-your-ipads-security-code/"><u>Ultimate Guide: Bypassing Your iPad's Security Code</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/uncover-the-tricks-to-address-missing-user32dll-files-successfully/"><u>Uncover the Tricks to Address Missing User32.dll Files Successfully</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-2024-approved-make-an-impact-with-these-top-10-intro-makers-for-pc/"><u>Updated 2024 Approved Make an Impact with These Top 10 Intro Makers for PC</u></a></li>
+</ul></div>
 

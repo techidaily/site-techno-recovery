@@ -1,7 +1,7 @@
 ---
 title: Set Up Slack Push Notifications for iPhone and Apple Watch | Insights
-date: 2025-02-09T18:20:10.650Z
-updated: 2025-02-11T23:25:20.684Z
+date: 2025-02-28T18:32:43.462Z
+updated: 2025-03-02T22:00:20.623Z
 tags:
   - apple
 categories:
@@ -44,10 +44,6 @@ Here's how.
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to enable Slack notifications on your Apple Watch
 
 **What you'll need:** Have the latest versions of iOS and watchOS installed on your iPhone and Apple Watch, respectively. 
@@ -72,17 +68,9 @@ Now, back out to the top of the Settings app and tap the red Notifications icon.
 
 Screenshot by David Gewirtz/ZDNET
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3\. Set up Slack notifications in the Slack app
 
 Next, open the Slack app. Tap your profile image in the upper right corner of the screen. Then tap Notifications.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##   
 
@@ -126,19 +114,11 @@ Recommendation to Slack: Where you put the "Every day" option in that setting, a
 
 We're almost done configuring notifications. Open the Watch app and scroll down to Notifications. Then scroll down to Slack and make sure it's turned on.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##   
 
 Screenshot by David Gewirtz/ZDNET
 
 There. You've set up notifications. 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  6\. Use the Watch to get Slack notifications
 
@@ -179,18 +159,17 @@ _You can follow my day-to-day project updates on social media. Be sure to subscr
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-voices-for-change-highlighting-influential-ladies-on-youtube/"><u>[New] Voices for Change Highlighting Influential Ladies on YouTube</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/2-ways-to-monitor-samsung-galaxy-s24-activity-drfone-by-drfone-virtual-android/"><u>2 Ways to Monitor Samsung Galaxy S24 Activity | Dr.fone</u></a></li>
-<li><a href="https://fox-http.techidaily.com/2024-approved-playback-operation-for-srt-across-operating-systems/"><u>2024 Approved Playback Operation for SRT Across Operating Systems</u></a></li>
-<li><a href="https://location-social.techidaily.com/3-things-you-must-know-about-fake-snapchat-location-on-apple-iphone-14-pro-max-drfone-by-drfone-virtual-ios/"><u>3 Things You Must Know about Fake Snapchat Location On Apple iPhone 14 Pro Max | Dr.fone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/apple-surpasses-samsung-as-leading-player-in-worldwide-smartphone-distribution-insights-from-zdnet/"><u>Apple Surpasses Samsung as Leading Player in Worldwide Smartphone Distribution - Insights From ZDNet</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/banishing-your-streaming-woes-fixing-the-netflix-ui-800-3-hiccup/"><u>Banishing Your Streaming Woes: Fixing the Netflix UI-800-3 Hiccup</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/evaluating-the-performance-of-the-hp-15-with-an-affordable-amd-processor-does-it-deliver-on-value/"><u>Evaluating the Performance of the HP 15 with an Affordable AMD Processor: Does It Deliver on Value?</u></a></li>
-<li><a href="https://extra-support.techidaily.com/masterclass-from-yis-4k-to-thrilling-cinematography-for-2024/"><u>Masterclass From Yi's 4K to Thrilling Cinematography for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/mastering-plc-error-codes-how-to-restart-a-device-blocked-by-error-10-and-prevent-future-glitches/"><u>Mastering PLC Error Codes: How to Restart a Device Blocked by Error #10 and Prevent Future Glitches</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/maximizing-your-photography-with-polarrs-enhanced-features/"><u>Maximizing Your Photography with Polarr's Enhanced Features</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/the-ultimate-guide-to-oppo-find-x7-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>The Ultimate Guide to Oppo Find X7 Pattern Lock Screen Everything You Need to Know</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/understanding-apples-new-vintage-mode-is-your-device-outdated-find-out-the-implications/"><u>Understanding Apple's New 'Vintage Mode': Is Your Device Outdated? Find Out the Implications</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/updated-netgear-user-credentials-guide-for-july-2024/"><u>Updated NETGEAR User Credentials Guide for July 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-integrating-video-content-from-youtube-into-websites-a-comprehensive-guide-for-2024/"><u>[Updated] Integrating Video Content From YouTube Into Websites - A Comprehensive Guide for 2024</u></a></li>
+<li><a href="https://driver-download.techidaily.com/amd-ryzen-motherboard-firmware-update-download-now/"><u>AMD Ryzen Motherboard Firmware Update - Download Now</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discover-our-picks-the-8-greatest-apps-for-efficient-travel-planning/"><u>Discover Our Picks: The 8 Greatest Apps for Efficient Travel Planning</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/expert-tips-and-tricks-to-fix-glitches-with-apple-tv-remote-on-iphone/"><u>Expert Tips and Tricks to Fix Glitches with Apple TV Remote on iPhone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/exploring-free-video-options-vlc-meets-mpc/"><u>Exploring Free Video Options VLC Meets MPC</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-unbrick-a-dead-itel-a05s-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Unbrick a Dead Itel A05s | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/navigating-through-microsofts-scholarly-discount-program-easily/"><u>Navigating Through Microsoft's Scholarly Discount Program Easily</u></a></li>
+<li><a href="https://media-tips.techidaily.com/simple-steps-how-to-quickly-download-and-install-hbos-game-of-thrones-subtitles/"><u>Simple Steps: How to Quickly Download and Install HBO's Game of Thrones Subtitles</u></a></li>
+<li><a href="https://win-forum.techidaily.com/solving-application-cannot-be-launched-on-your-computer-issue/"><u>Solving 'Application Cannot Be Launched on Your Computer' Issue</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-comprehensive-guide-to-chatgpt-enterprise-key-features-services-and-edge-over-competitors/"><u>The Comprehensive Guide to ChatGPT Enterprise – Key Features, Services, and Edge Over Competitors</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-ultimate-walkthrough-personalize-the-look-of-your-pc-change-windows-10-taskbar-colors-today/"><u>The Ultimate Walkthrough: Personalize the Look of Your PC - Change Windows 10 Taskbar Colors Today!</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-picks-the-best-lgbt-films-streaming-on-netflix-this-july-2024/"><u>Top Picks: The Best LGBT Films Streaming on Netflix This July 2024</u></a></li>
 </ul></div>
 

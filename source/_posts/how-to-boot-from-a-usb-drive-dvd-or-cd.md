@@ -1,7 +1,7 @@
 ---
 title: How to Boot From a USB Drive, DVD or CD
-date: 2024-08-18T16:41:47.297Z
-updated: 2024-08-19T16:41:47.297Z
+date: 2025-02-23T18:17:28.019Z
+updated: 2025-03-02T19:46:29.910Z
 tags:
   - win11
   - win10
@@ -93,25 +93,16 @@ a) get it through your Windows computer:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3327633bb2e.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  5)**Connect your Xbox One to the configured Wi-Fi router** .(Skip this step if your Xbox One has been already connected to the router.)
 
 5-1) Click the Settings icon if your Xbox Live. Then select All settings.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_599fd64c60dd4.png)
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
-<!-- affiliate ads end -->
 5-2) Click Network, then click Network settings on the right pane.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_599fd828a1cb4.png)
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
-<!-- affiliate ads end -->
  5-3) Click Set up wireless network. Then proceed to follow the on-screen instructions to configure your Xbox One to connect to use the router.
 
  All set! Now you’re free to stream media and play games on your Xbox One.
@@ -135,15 +126,6 @@ a) get it through your Windows computer:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3323106f846.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
-
- It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
-
-  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
-
-  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
-<!-- affiliate ads end -->
  b) If you’re using a**Mac computer** , go with the followings:  
  b-1) Go to System Preferences > Sharing. Then Select Internet Sharing.
 
@@ -165,16 +147,10 @@ a) get it through your Windows computer:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04f8c899a82.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3-3) Click Quick connect to automatically connect to the server recommended for you. Or you can also connect to a server in a specific country by clicking on the country pin on the map.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c04f8af87822.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
-<!-- affiliate ads end -->
 You should now be able to using the VPN on your Xbox One.
 
 ---
@@ -191,8 +167,6 @@ Enjoy playing Xbox One games!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -200,4 +174,19 @@ Enjoy playing Xbox One games!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-tips.techidaily.com/new-capture-and-compress-swift-iphone-time-lapse-tactics/"><u>[New] Capture and Compress Swift iPhone Time-Lapse Tactics</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-advice-on-reversing-non-functional-obs-fullscreen-for-2024/"><u>[Updated] Advice on Reversing Non-Functional OBS Fullscreen for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-free-top-9-best-watermark-apps-for-iphone-how-to-watermark-photos-on-iphone/"><u>[Updated] In 2024, FREE Top 9 Best Watermark Apps for iPhone - How to Watermark Photos on iPhone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-constructing-the-ideal-home-computer-for-advanced-video-editing/"><u>2024 Approved Constructing the Ideal Home Computer for Advanced Video Editing</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/amazon-echo-4th-gen-review/"><u>Amazon Echo (4Th Gen) Review</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/before-you-invest-the-essential-5-checkpoints-for-pre-owned-laptop-purchases/"><u>Before You Invest: The Essential 5 Checkpoints for Pre-Owned LAPTOP Purchases</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/fixing-microsoftdirectxdirectinputdll-errors-on-your-pc-effective-solutions/"><u>Fixing Microsoft.DirectX.DirectInput.DLL Errors on Your PC – Effective Solutions</u></a></li>
+<li><a href="https://blog-min.techidaily.com/mp4mp3/"><u>MP4をMP3に簡単変換！ダウンロード不要の安心フリーサイトレビュー</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/precise-mac-photo-tips-mastering-five-quick-and-effective-methods-for-2024/"><u>Precise Mac Photo Tips Mastering Five Quick and Effective Methods for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/resolving-helperdll-file-not-present-a-comprehensive-guide/"><u>Resolving 'Helper.dll' File Not Present: A Comprehensive Guide</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-5-critical-questions-everyone-should-ask-about-smartwatches-before-buying/"><u>The 5 Critical Questions Everyone Should Ask About Smartwatches Before Buying</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-ultimate-solution-to-fix-missing-or-not-found-msstdfmtdll-error/"><u>The Ultimate Solution to Fix 'Missing or Not Found' Msstdfmt.DLL Error</u></a></li>
+</ul></div>
 
