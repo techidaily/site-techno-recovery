@@ -27,8 +27,8 @@
 <meta property="og:description" content="Unveiling the Origins: The 2024 CrowdStrike Windows Crisis Explored - Historical Insights Harun Ozalp&#x2F;Anadolu via Getty Images [Updated 24-July with details from CrowdStrike’s preliminary post-in">
 <meta property="og:locale" content="en_US">
 <meta property="og:image" content="https://www.zdnet.com/a/img/resize/eac9d76c42c0a34ae6e396e98f44792477293162/2024/07/22/8a1c7b1d-5462-44b0-ad87-f790f10be8d9/gettyimages-2162005028.jpg?auto=webp&width=1280">
-<meta property="article:published_time" content="2025-02-04T09:33:37.217Z">
-<meta property="article:modified_time" content="2025-02-11T08:04:09.194Z">
+<meta property="article:published_time" content="2025-02-25T11:48:45.906Z">
+<meta property="article:modified_time" content="2025-03-02T16:35:04.268Z">
 <meta property="article:author" content="John">
 <meta property="article:tag" content="apple">
 <meta name="twitter:card" content="summary">
@@ -713,15 +713,15 @@
                         <div class="article-meta-info">
     <span class="article-date article-meta-item">
         <i class="fa-regular fa-pen-fancy"></i>&nbsp;
-        <span class="desktop">2025-02-04 17:33:37</span>
-        <span class="mobile">2025-02-04 17:33:37</span>
+        <span class="desktop">2025-02-25 19:48:45</span>
+        <span class="mobile">2025-02-25 19:48:45</span>
         <span class="hover-info">Created</span>
     </span>
     
         <span class="article-date article-meta-item">
             <i class="fa-regular fa-wrench"></i>&nbsp;
-            <span class="desktop">2025-02-11 16:04:09</span>
-            <span class="mobile">2025-02-11 16:04:09</span>
+            <span class="desktop">2025-03-03 00:35:04</span>
+            <span class="mobile">2025-03-03 00:35:04</span>
             <span class="hover-info">Updated</span>
         </span>
     
@@ -788,10 +788,6 @@
 <p> Disclaimer: This post includes affiliate links</p>
 <p> If you click on a link and make a purchase, I may receive a commission at no extra cost to you.</p>
 </blockquote>
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 <h2 id="What-happened"><a href="#What-happened" class="headerlink" title="What happened?"></a>What happened?</h2><p>CrowdStrike, which sells security software designed to keep systems safe from external attacks, pushed a faulty <a class="link"   target="_blank" rel="noopener" href="https://www.crowdstrike.com/blog/falcon-update-for-windows-hosts-technical-details/" >“sensor configuration update” <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> to the millions of PCs worldwide running its Falcon Sensor software. That update was, according to CrowdStrike, a “Channel File” whose function was to identify newly observed, malicious activity by cyberattackers.</p>
 <p>Although the update file had a .sys extension, it was not itself a kernel driver. It communicates with other components in the Falcon sensor that run in the same space as the Windows kernel, the most privileged level on a Windows PC, where they interact directly with memory and hardware. CrowdStrike says a “logic error” in that code caused Windows PCs and servers to crash within seconds after they booted up, displaying a STOP error, more colloquially known as the Blue Screen of Death (BSOD).</p>
 <p><strong>Also: <a class="link"   target="_blank" rel="noopener" href="https://www.zdnet.com/article/microsoft-is-changing-how-it-delivers-windows-updates-4-things-you-need-to-know/" >Microsoft is changing how it delivers Windows updates: 4 things you need to know <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></strong></p>
@@ -800,10 +796,6 @@
 <p><strong>Also: <a class="link"   target="_blank" rel="noopener" href="https://www.zdnet.com/article/who-needs-ransomware-when-a-faulty-software-update-can-shut-down-critical-infrastructure/" >Who needs ransomware when a faulty software update can shut down critical infrastructure? <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></strong></p>
 <p>Repairing the damage from a flaw like this is a painfully tedious process that requires manually rebooting every affected PC into the Windows Recovery Environment and then deleting the defective file from the PC using the old-school command line interface. If the PC in question has its system drive protected by Microsoft’s BitLocker encryption software, as virtually all business PCs do, the fix requires one extra step: entering a unique 48-character BitLocker recovery key to gain access to the drive and allow the removal of the faulty CrowdStrike driver.</p>
 <p>If you know anyone whose job involves administering Windows PCs in a corporate network that uses the CrowdStrike code, you can be confident they are very busy right now, and will be for days to come.</p>
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 <h2 id="We’ve-seen-this-movie-before"><a href="#We’ve-seen-this-movie-before" class="headerlink" title="We’ve seen this movie before"></a>We’ve seen this movie before</h2><p>When I first heard about this catastrophe (and I am not misusing that word, I assure you), I thought it sounded familiar. On Reddit’s Sysadmin Subreddit, user u&#x2F;externedguy <a class="link"   target="_blank" rel="noopener" href="https://www.reddit.com/r/sysadmin/comments/1e7488p/turns%5Fout%5Fceo%5Fof%5Fcrowdstrike%5Fis%5Fformer%5Fcto%5Fof/" >reminded me why <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>. Maybe you remember this story from 14 years ago:</p>
 <blockquote>
 <p><strong><a class="link"   target="_blank" rel="noopener" href="https://www.zdnet.com/article/defective-mcafee-update-causes-worldwide-meltdown-of-xp-pcs/" >“Defective McAfee update causes worldwide meltdown of XP PCs.” <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></strong></p>
@@ -822,10 +814,6 @@
 <p><strong>Also: <a class="link"   target="_blank" rel="noopener" href="https://www.zdnet.com/article/5-ways-to-save-your-windows-10-pc-in-2025-and-most-are-free/" >5 ways to save your Windows 10 PC in 2025 - and most are free <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></strong></p>
 <p>In the You Can’t Make This Up Department… CrowdStrike’s founder and CEO, George Kurtz, was McAfee’s Chief Technology Officer during that 2010 incident.</p>
 <p>What makes the 2024 sequel so much worse is that it also affected Windows-based servers running in the cloud, on Microsoft Azure and on AWS. Just as with the many laptops and desktop PCs that were bricked by this faulty update, the cloud-based servers require time-consuming manual interventions to recover.</p>
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 <h2 id="CrowdStrike’s-QA-failed"><a href="#CrowdStrike’s-QA-failed" class="headerlink" title="CrowdStrike’s QA failed"></a>CrowdStrike’s QA failed</h2><p>Surprisingly, this isn’t CrowdStrike’s first faulty Falcon sensor update this year.</p>
 <p>Less than a month earlier, <a class="link"   target="_blank" rel="noopener" href="https://www.thestack.technology/crowdstrike-bug-maxes-out-100-of-cpu-requires-windows-reboots/" >according to a report from The Stack <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>, CrowdStrike released a detection logic update for the Falcon sensor that exposed a bug in the sensor’s Memory Scanning feature. “The result of the bug,” CrowdStrike wrote in a customer advisory, “is a logic error in the CsFalconService that can cause the Falcon sensor for Windows to consume 100% of a single CPU core.” The company rolled back the update, and customers were able to resume normal operations by rebooting.</p>
 <p><strong>Also: <a class="link"   target="_blank" rel="noopener" href="https://www.zdnet.com/article/when-windows-10-support-ends-you-have-5-options-but-only-2-are-worth-considering/" >When Windows 10 support runs out, you have 5 options but only 2 are worth considering <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></strong></p>
@@ -840,10 +828,6 @@
 <p>Given recent events, some of those customers might be wondering whether that “breakneck pace” is part of the problem.</p>
 <p>As part of its initial response, CrowdStrike says it plans to take additional measures to improve “software resiliency and testing.” More importantly, it plans to implement a “staggered deployment strategy … in which updates are gradually deployed to larger portions of the sensor base, starting with a canary deployment.” The company also committed to provide customers with “greater control over the delivery of Rapid Response Content updates by allowing granular selection of when and where these updates are deployed.”</p>
 <p>Meanwhile, the United States House of Representatives Homeland Security Committee plans to call CrowdStrike’s CEO up for hearings on what went wrong, and CrowdStrike’s Chief Security Officer, Shawn Henry, <a class="link"   target="_blank" rel="noopener" href="https://www.linkedin.com/feed/update/urn:li:activity:7220983915421806592/" >posted an apology on LinkedIn <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>, admitting “On Friday, we failed you. … The confidence we built in drips over the years was lost in buckets within hours, and it was a gut punch.”</p>
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 <h2 id="How-much-fault-should-Microsoft-shoulder"><a href="#How-much-fault-should-Microsoft-shoulder" class="headerlink" title="How much fault should Microsoft shoulder?"></a>How much fault should Microsoft shoulder?</h2><p>It’s impossible to let Microsoft completely off the hook. After all, the Falcon sensor problems were unique to Windows PCs, as admins of Linux and Mac-focused shops were quick to remind us.</p>
 <p>Partly, that’s an architectural issue. Developers of system-level apps for Windows, including security software, historically implement their features using kernel extensions and drivers. As this example illustrates, faulty code running in the kernel space can cause unrecoverable crashes, whereas code running in user space can’t.</p>
 <p><strong>Also: <a class="link"   target="_blank" rel="noopener" href="https://www.zdnet.com/article/seven-ways-to-make-windows-11-less-annoying/" >7 ways to make Windows 11 less annoying <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></strong></p>
@@ -875,22 +859,23 @@
      data-full-width-responsive="true"></ins></p>
 <p><span class="atpl-alsoreadstyle">Also read:</span></p>
 <div><ul>
-<li><a target="_blank" rel="noopener" href="https://article-tips.techidaily.com/updated-2024-approved-prime-time-for-podcast-debuts/"><u>[Updated] 2024 Approved Prime Time for Podcast Debuts</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://phone-solutions.techidaily.com/6-things-we-can-do-to-save-a-water-damaged-iphone-xs-max-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>6 Things We Can Do To Save A Water Damaged iPhone XS Max | Stellar</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://graphic-issues.techidaily.com/achieving-flexible-desktop-size-with-window-11-updates/"><u>Achieving Flexible Desktop Size with Window 11 Updates</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://win11-tips.techidaily.com/activating-windows-11-widget-bar-features/"><u>Activating Windows 11 Widget Bar Features</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/apple-vision-pro-now-on-amazon-grab-it-for-an-uncommon-200-off-before-prices-soar-again-insight/"><u>Apple Vision Pro Now on Amazon: Grab It for an Uncommon $200 Off Before Prices Soar Again! – Insight</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://android-pokemon-go.techidaily.com/detailed-guide-of-ispoofer-for-pogo-installation-on-infinix-zero-5g-2023-turbo-drfone-by-drfone-virtual-android/"><u>Detailed guide of ispoofer for pogo installation On Infinix Zero 5G 2023 Turbo | Dr.fone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/discover-the-ultimate-july-2024-iphone-savings-and-deals-curated-by-zdnet-for-tech-enthusiasts/"><u>Discover the Ultimate July 2024 iPhone Savings & Deals Curated by ZDNet for Tech Enthusiasts!</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/easy-guide-mastering-split-screen-techniques-on-your-macbook-air/"><u>Easy Guide: Mastering Split Screen Techniques on Your MacBook Air</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://phone-solutions.techidaily.com/in-2024-life360-learn-how-everything-works-on-nokia-g42-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Learn How Everything Works On Nokia G42 5G | Dr.fone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/macbook-showdown-deciding-between-the-powerful-pro-and-sleek-air-for-your-needs/"><u>MacBook Showdown: Deciding Between the Powerful Pro and Sleek Air for Your Needs</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://program-issues.techidaily.com/maximizing-gameplay-with-proper-gpu-implementation-in-call-of-duty-warzone-on-windows-10-systems/"><u>Maximizing Gameplay with Proper GPU Implementation in Call of Duty: Warzone on Windows 10 Systems</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://windows11.techidaily.com/tailored-nvidia-driver-recommendations-entertainment-sector/"><u>Tailored Nvidia Driver Recommendations: Entertainment Sector</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://some-guidance.techidaily.com/the-final-cut-professionals-guide-to-top-10-plug-ins-for-2024/"><u>The Final Cut Professional's Guide to Top 10 Plug-Ins for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/the-ultimate-list-of-child-safe-ipads-expert-advice-and-choices/"><u>The Ultimate List of Child Safe iPads : Expert Advice & Choices</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/the-ultimate-m3-macbook-air-guide-unveiling-apples-smart-technology-for-everyone-your-comprehensive-review-techradar/"><u>The Ultimate M3 MacBook Air Guide: Unveiling Apple's Smart Technology for Everyone - Your Comprehensive Review | TechRadar</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/ultimate-guide-mastering-subway-surfers-with-top-10-essential-strategies/"><u>Ultimate Guide: Mastering Subway Surfers with Top 10 Essential Strategies</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://youtube-blog.techidaily.com/n-2024-unlock-higher-engagement-the-power-of-precise-timestamping/"><u>[New] In 2024, Unlock Higher Engagement The Power of Precise Timestamping</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://facebook-videos.techidaily.com/updated-best-11-tools-for-perfecting-your-fb-profile-pics/"><u>[Updated] Best 11 Tools For Perfecting Your FB Profile Pics</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://remote-screen-capture.techidaily.com/updated-iphones-simple-guide-for-efficient-screen-recording-for-2024/"><u>[Updated] IPhone's Simple Guide for Efficient Screen Recording for 2024</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://twitter-clips.techidaily.com/updated-unlocking-audible-content-from-twitter-videos-for-2024/"><u>[Updated] Unlocking Audible Content From Twitter Videos for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/connect-and-conquer-the-simple-way-to-sync-with-your-ps4-controller/"><u>Connect & Conquer: The Simple Way to Sync with Your PS4 Controller</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/diagnosing-and-correcting-shelldll-absence-tips-and-techniques/"><u>Diagnosing and Correcting 'Shell.dll' Absence: Tips & Techniques</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discovering-the-aether-understanding-its-essence-and-entry/"><u>Discovering the Aether: Understanding Its Essence and Entry</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://howto.techidaily.com/fixes-for-apps-keep-crashing-on-google-pixel-fold-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixes for Apps Keep Crashing on Google Pixel Fold | Dr.fone</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-tecno-spark-10-4g-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Tecno Spark 10 4G to Outlook | Dr.fone</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://location-social.techidaily.com/in-2024-how-to-changefake-your-vivo-y36-location-on-viber-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Fake Your Vivo Y36 Location on Viber | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/live-coverage-of-mens-college-hoops-from-march-madness-to-the-final-four/"><u>Live Coverage of Men's College Hoops: From March Madness to The Final Four</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/1722851874488-nintendo-switch-photo-tutorial-learn-to-capture-and-distribute-your-gaming-moments/"><u>Nintendo Switch Photo Tutorial - Learn to Capture and Distribute Your Gaming Moments</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://win-web.techidaily.com/resolving-the-issue-uninstalling-and-re-installing-ipod-driver-on-windows-11/"><u>Resolving the Issue: Uninstalling and Re-Installing iPod Driver on Windows 11</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-role-of-ram-speeds-and-delays-in-determining-pc-efficiency/"><u>The Role of RAM Speeds and Delays in Determining PC Efficiency</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-ultimate-tutorial-learn-how-to-take-efficient-screenshots-on-any-desktop-pc/"><u>The Ultimate Tutorial: Learn How to Take Efficient Screenshots on Any Desktop PC</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ultimate-fixes-for-when-you-cant-locate-d3dx933dll-file/"><u>Ultimate Fixes for When You Can't Locate d3dx9_33.dll File</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://win11.techidaily.com/unveiling-windows-the-reserve-memory-concept/"><u>Unveiling Windows: The Reserve Memory Concept</u></a></li>
 </ul></div>
 
 
@@ -903,11 +888,11 @@
         <li><strong>Title:</strong> The Great 2024 Crisis: Decoding The Root Causes Behind CrowdStrike-Windows Meltdown History Report</li>
         <li><strong>Author:</strong> John</li>
         <li><strong>Created at
-                :</strong> 2025-02-04 17:33:37</li>
+                :</strong> 2025-02-25 19:48:45</li>
         
             <li>
                 <strong>Updated at
-                    :</strong> 2025-02-11 16:04:09
+                    :</strong> 2025-03-03 00:35:04
             </li>
         
         <li>
@@ -947,13 +932,13 @@
                     <div class="article-prev border-border-color shadow-redefine-flat shadow-shadow-color-2 rounded-medium px-4 py-2 hover:shadow-redefine-flat-hover hover:shadow-shadow-color-2">
                         <a class="prev"
                         rel="prev"
-                        href="/in-depth-walkthrough-how-to-save-memorable-moments-by-snapping-pictures-from-xbox-one-games/"
+                        href="/solution-for-when-windows-11-applets-fail-to-load-step-by-step-fixes/"
                         >
                             <span class="left arrow-icon flex justify-center items-center">
                                 <i class="fa-solid fa-chevron-left"></i>
                             </span>
                             <span class="title flex justify-center items-center">
-                                <span class="post-nav-title-item">In-Depth Walkthrough: How to Save Memorable Moments by Snapping Pictures From Xbox One Games</span>
+                                <span class="post-nav-title-item">Solution for When Windows 11 Applets Fail to Load: Step-by-Step Fixes</span>
                                 <span class="post-nav-item">Prev posts</span>
                             </span>
                         </a>
@@ -963,10 +948,10 @@
                     <div class="article-next border-border-color shadow-redefine-flat shadow-shadow-color-2 rounded-medium px-4 py-2 hover:shadow-redefine-flat-hover hover:shadow-shadow-color-2">
                         <a class="next"
                         rel="next"
-                        href="/accessing-the-official-samsung-unpacked-presentation-online-how/"
+                        href="/revitalize-your-computer-a-comprehensive-guide-to-resetting-windows-10-using-four-simple-procedures/"
                         >
                             <span class="title flex justify-center items-center">
-                                <span class="post-nav-title-item">Accessing the Official Samsung Unpacked Presentation Online – How?</span>
+                                <span class="post-nav-title-item">Revitalize Your Computer: A Comprehensive Guide to Resetting Windows 10 Using Four Simple Procedures</span>
                                 <span class="post-nav-item">Next posts</span>
                             </span>
                             <span class="right arrow-icon flex justify-center items-center">
@@ -1002,15 +987,6 @@
 
 		<!-- add seo affiliate products -->
 <div>
-  <div class="grid grid-cols-2 md:grid-cols-1 gap-2">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>  
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>  
-  </div>
-  <a href="https://appsumo.8odi.net/c/5597632/2087390/7443" target="_top" id="2087390"><img src="//a.impactradius-go.com/display-ad/7443-2087390" border="0" alt="" width="1456" height="180"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087390/7443" style="position:absolute;visibility:hidden;" border="0" />
-  <a href="https://arkmc.pxf.io/c/5597632/427527/5172" target="_top" id="427527"><img src="//a.impactradius-go.com/display-ad/5172-427527" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427527/5172" style="position:absolute;visibility:hidden;" border="0" />
-  <a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-  <a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1584040/17916" target="_top" id="1584040"><img src="//a.impactradius-go.com/display-ad/17916-1584040" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1584040/17916" style="position:absolute;visibility:hidden;" border="0" />
-  <a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2086402/21526" target="_top" id="2086402"><img src="//a.impactradius-go.com/display-ad/21526-2086402" border="0" alt="" width="830" height="312"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086402/21526" style="position:absolute;visibility:hidden;" border="0" />
 </div>
 
 
